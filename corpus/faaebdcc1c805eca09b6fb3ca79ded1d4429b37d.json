@@ -1,0 +1,779 @@
+{
+  "(0, 3108)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A phenomenon with the potential to cause significant harm to life, property, and the environment, resulting from the increasing levels of greenhouse gases in the Earth's atmosphere",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5347924895689978
+    },
+    {
+      "name": "plants",
+      "label": "variable",
+      "description": "Organisms that play a crucial role in the Earth's ecosystem, responding and adapting to environmental conditions",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.6569006359708569
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "Communities of living and non-living components that interact with each other in a specific environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.7005715719322617
+    },
+    {
+      "name": "carbon dioxide",
+      "label": "variable",
+      "description": "A greenhouse gas that contributes to global warming and climate change, also essential for plant growth through photosynthesis",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6683374756830521
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of organic compounds",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6780123667696949
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on plant growth and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7020779852063074
+    },
+    {
+      "name": "bioenergy",
+      "label": "variable",
+      "description": "Energy produced from organic matter, such as plants, that can be used as a sustainable alternative to fossil fuels",
+      "uuid": "99ed30c9-332c-4acf-8620-eab3c67bcc90",
+      "score": 0.5156776975454028
+    },
+    {
+      "name": "fossil fuels",
+      "label": "variable",
+      "description": "Non-renewable energy sources, such as coal, oil, and gas, that contribute to greenhouse gas emissions and climate change",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5622817697771199
+    }
+  ],
+  "(2587, 5822)": [
+    {
+      "name": "bioenergy",
+      "label": "variable",
+      "description": "Energy produced from organic matter, such as plants, wood, and waste",
+      "uuid": "99ed30c9-332c-4acf-8620-eab3c67bcc90",
+      "score": 0.5084781312442007
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from human activities and natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5648077248939346
+    },
+    {
+      "name": "carbon dioxide",
+      "label": "variable",
+      "description": "A colorless, odorless gas that is a major contributor to the greenhouse effect",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6269176620327793
+    },
+    {
+      "name": "methane",
+      "label": "variable",
+      "description": "A potent greenhouse gas that is released through human activities and natural processes",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7044925370484835
+    },
+    {
+      "name": "nitrous oxide",
+      "label": "variable",
+      "description": "A greenhouse gas that is released through human activities, such as agriculture and industry",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.7070442716346605
+    },
+    {
+      "name": "Earth's climate system",
+      "label": "system",
+      "description": "The complex system that regulates the Earth's climate, including the atmosphere, oceans, land, and ice",
+      "uuid": "6a6bed83-f95a-44e6-8ae0-1371b532abc3",
+      "score": 0.5041577287159142
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Computational representations of the Earth's climate system, used to simulate and predict future climate scenarios",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6924193589051378
+    },
+    {
+      "name": "droughts",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.6989607705752976
+    },
+    {
+      "name": "floods",
+      "label": "weather event",
+      "description": "An overflow of water that can cause damage to ecosystems, infrastructure, and human populations",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6763387502366034
+    },
+    {
+      "name": "heatwaves",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally high temperatures, leading to heat-related illnesses and mortality",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.7219942229586258
+    },
+    {
+      "name": "biosphere",
+      "label": "location",
+      "description": "The region of the Earth where living organisms exist, including the atmosphere, oceans, and land",
+      "uuid": "91c64c46-d040-4daa-b26c-61952fdfaf50",
+      "score": 0.7070590185218203
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492758557127771
+    },
+    {
+      "name": "ocean acidification",
+      "label": "variable",
+      "description": "The decrease in pH of the ocean due to the absorption of excess carbon dioxide from the atmosphere",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.7406074393307535
+    },
+    {
+      "name": "biogeochemical flows",
+      "label": "variable",
+      "description": "The movement of nutrients and elements through the environment, including the atmosphere, oceans, and land",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.6500850678104805
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different species, ecosystems, and genes that exist on Earth",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5535373775725648
+    },
+    {
+      "name": "land-system change",
+      "label": "variable",
+      "description": "Changes to the Earth's land surface, including deforestation, urbanization, and land degradation",
+      "uuid": "514c891b-60b8-4a6f-adb3-0366c75588e9",
+      "score": 0.5306013004368006
+    }
+  ],
+  "(5311, 8351)": [
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A scientific program studying the impact of human activities on the Earth's climate system, including global warming, extreme weather events, and changes in atmospheric composition",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5884696897092735
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7511594297089068
+    },
+    {
+      "name": "land-system change",
+      "label": "location",
+      "description": "Changes in the use or management of land, such as deforestation, urbanization, or agriculture, which can impact climate, ecosystems, and human societies",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5191693808526507
+    },
+    {
+      "name": "biogeochemical flows",
+      "label": "variable",
+      "description": "The movement of chemicals and nutrients through the environment, including the carbon, nitrogen, and water cycles, which are essential for understanding ecosystem functioning and climate change",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.6626437238371747
+    },
+    {
+      "name": "freshwater",
+      "label": "variable",
+      "description": "Water that is not salty, including rivers, lakes, and groundwater, which is essential for human consumption, agriculture, and ecosystem health",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.566511802810516
+    },
+    {
+      "name": "ocean acidification",
+      "label": "ocean circulation",
+      "description": "The decrease in the pH of the ocean due to the absorption of excess carbon dioxide from the atmosphere, which can have severe consequences for marine ecosystems and biodiversity",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.7716307250677938
+    },
+    {
+      "name": "land-use changes",
+      "label": "location",
+      "description": "Changes in the way land is used, such as deforestation, urbanization, or agriculture, which can impact climate, ecosystems, and human societies",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.576167600510364
+    },
+    {
+      "name": "ice sheets",
+      "label": "location",
+      "description": "Large, continuous areas of ice that cover land, such as those found in Antarctica and Greenland, which play a crucial role in regulating global sea levels and climate",
+      "uuid": "10b1872b-4a48-4360-a449-388e8988bca9",
+      "score": 0.75312357037702
+    },
+    {
+      "name": "sea levels",
+      "label": "variable",
+      "description": "The level of the ocean's surface, which can rise or fall due to changes in ice sheet mass, ocean thermal expansion, and other factors, impacting coastal ecosystems and human societies",
+      "uuid": "6c958ab4-ab98-438e-86d4-1e6a6d0580da",
+      "score": 0.7070958537509253
+    },
+    {
+      "name": "deforestation",
+      "label": "natural hazard",
+      "description": "The clearance of forests, usually as a result of human activities such as agriculture, urbanization, or logging, which can contribute to climate change, biodiversity loss, and soil erosion",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6851343371331347
+    },
+    {
+      "name": "Amazon Basin",
+      "label": "location",
+      "description": "A region in South America that includes the Amazon rainforest, which is the largest tropical rainforest in the world and plays a critical role in regulating the global climate and biodiversity",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.5645670339975222
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, which can have severe consequences for ecosystems, agriculture, and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6873700998532284
+    },
+    {
+      "name": "savanna",
+      "label": "location",
+      "description": "A type of ecosystem characterized by a mixture of grasses and trees, which can replace rainforests in areas with low rainfall or frequent fires",
+      "uuid": "d58dab07-f57e-47a9-8dcf-02a3e17f3533",
+      "score": 0.7241096525195394
+    },
+    {
+      "name": "fossil-based energy consumption",
+      "label": "variable",
+      "description": "The use of energy sources such as coal, oil, and gas, which release carbon dioxide and other greenhouse gases into the atmosphere, contributing to climate change",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5646403012057434
+    },
+    {
+      "name": "bioenergy",
+      "label": "variable",
+      "description": "Energy produced from organic matter, such as plants, wood, or waste, which can be a sustainable alternative to fossil fuels",
+      "uuid": "99ed30c9-332c-4acf-8620-eab3c67bcc90",
+      "score": 0.5165004060747498
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "Organic matter that can be used as fuel, such as wood, crops, or waste, which can be a renewable energy source",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.590161061573322
+    },
+    {
+      "name": "plant responses",
+      "label": "experiment",
+      "description": "Studies on how plants react to environmental changes, such as increased CO2, temperature, or drought, which can inform strategies for mitigating climate change",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.531987133780224
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants convert light energy into chemical energy, which is essential for plant growth and productivity",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6811540572519948
+    }
+  ],
+  "(7883, 10949)": [
+    {
+      "name": "Rubisco",
+      "label": "enzyme",
+      "description": "An enzyme that plays a key role in the process of photosynthesis, catalyzing the carboxylation and oxygenation reactions>",
+      "uuid": "e2f64d50-da88-4d6a-abfa-4b0b7e99312e",
+      "score": 0.6142468686868298
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that is essential for plant growth and photosynthesis, with increasing concentrations in the atmosphere due to human activities>",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6086911593522345
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy, producing organic compounds such as glucose>",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6769789110701201
+    },
+    {
+      "name": "biomass production",
+      "label": "process",
+      "description": "The process by which plants produce organic matter, which can be used for bioenergy production>",
+      "uuid": "99ed30c9-332c-4acf-8620-eab3c67bcc90",
+      "score": 0.5427367204464374
+    },
+    {
+      "name": "high-temperature",
+      "label": "weather event",
+      "description": "A period of abnormally high temperatures, which can have negative impacts on plant growth and productivity>",
+      "uuid": "3d997f01-8987-4fb1-a32e-d88d51f0a2c4",
+      "score": 0.5096453038760492
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, caused by human activities such as burning fossil fuels and deforestation>",
+      "uuid": "b45d57f9-5c45-4e46-8dcd-6158fee8151b",
+      "score": 0.5505510313507885
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases that surrounds the Earth, which plays a critical role in regulating the planet's climate>",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6296684759422888
+    }
+  ],
+  "(10374, 13463)": [
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that affects plant growth and productivity",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.5716755983923724
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A period of abnormally low rainfall that affects plant growth and productivity",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6397701151891259
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6735957076572024
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "The mass of organic matter in plants, used as a source of energy",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.6352503931162373
+    },
+    {
+      "name": "bioenergy",
+      "label": "energy source",
+      "description": "Energy produced from organic matter, such as plants",
+      "uuid": "99ed30c9-332c-4acf-8620-eab3c67bcc90",
+      "score": 0.5066532874993995
+    }
+  ],
+  "(12906, 15910)": [
+    {
+      "name": "bioenergy",
+      "label": "variable",
+      "description": "Energy generated from biomass, used to produce biofuels, power, and heat",
+      "uuid": "99ed30c9-332c-4acf-8620-eab3c67bcc90",
+      "score": 0.5297756441983754
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants and other organisms convert light energy into chemical energy, used in biomass production",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6802278465564999
+    },
+    {
+      "name": "fossil fuels",
+      "label": "variable",
+      "description": "Non-renewable energy sources that release considerable amounts of greenhouse gases",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5382103965262273
+    },
+    {
+      "name": "greenhouse gases",
+      "label": "variable",
+      "description": "Gases that contribute to climate change, such as carbon dioxide",
+      "uuid": "0cf44d92-1959-41af-9890-b916008efbae",
+      "score": 0.5129331358722264
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A phenomenon with the potential to cause significant harm to life, property, and the environment",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5349453827245698
+    }
+  ],
+  "(15397, 18376)": [
+    {
+      "name": "fertilizers",
+      "label": "commodity",
+      "description": "Substances used to promote plant growth and fertility",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.6552069395617511
+    },
+    {
+      "name": "pesticides",
+      "label": "commodity",
+      "description": "Substances used to control pests and diseases in crops",
+      "uuid": "59a203f9-f818-42a6-8d00-4301385cafc3",
+      "score": 0.6720610170467395
+    }
+  ],
+  "(17856, 20788)": [
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "A measure of the amount of organic matter in a given area or volume, often used to study energy production and climate change",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.6785887981224376
+    },
+    {
+      "name": "agriculture",
+      "label": "platform",
+      "description": "The practice of cultivating plants and raising animals for food, fiber, and other products",
+      "uuid": "8916dafb-5ad5-45c6-ab64-3500ea1e9577",
+      "score": 0.5045796820854717
+    }
+  ],
+  "(20295, 23011)": [
+    {
+      "name": "agriculture",
+      "label": "project",
+      "description": "The practice of cultivating the soil, growing crops, and raising livestock, used to produce food and other products",
+      "uuid": "8916dafb-5ad5-45c6-ab64-3500ea1e9577",
+      "score": 0.5024971197376701
+    },
+    {
+      "name": "lands",
+      "label": "location",
+      "description": "Areas of land used for agricultural purposes or other human activities",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6060684486872493
+    }
+  ],
+  "(27146, 30106)": [
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or basicity of a solution",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.7249330228058839
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.611827774445522
+    }
+  ],
+  "(32035, 34233)": [
+    {
+      "name": "biomass",
+      "label": "material",
+      "description": "Organic matter from plants, animals, or microorganisms, used as a source of energy, chemicals, or other products>",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.616731143968828
+    },
+    {
+      "name": "climate",
+      "label": "condition",
+      "description": "The average atmospheric conditions in a particular region, including temperature, humidity, and precipitation patterns>",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5012012814380544
+    }
+  ],
+  "(35754, 37835)": [
+    {
+      "name": "molecular oxygen",
+      "label": "variable",
+      "description": "A molecule composed of two oxygen atoms, required for the oxidative mechanism of certain enzymes",
+      "uuid": "61f4f3d0-7895-4cce-94e3-d249001d5ee8",
+      "score": 0.6699451188501921
+    }
+  ],
+  "(37399, 39915)": [
+    {
+      "name": "molecular oxygen",
+      "label": "variable",
+      "description": "A molecule that is required for the activity of certain enzymes, including AA9",
+      "uuid": "61f4f3d0-7895-4cce-94e3-d249001d5ee8",
+      "score": 0.618349968364456
+    }
+  ],
+  "(39423, 42428)": [
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "Organic material from plants and animals, used as a source of energy",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.614469722242368
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, caused by human activities and natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5573758947322068
+    }
+  ],
+  "(41946, 44875)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate, leading to rising temperatures, altered weather patterns, and increased frequency of extreme events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6098882384744647
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "Organic material from plants and animals, used as a source of energy or for producing biofuels",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.6233532717420662
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, leading to water shortages and impacts on plant growth and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7039795309189458
+    },
+    {
+      "name": "warming",
+      "label": "weather event",
+      "description": "An increase in global temperatures, leading to changes in climate patterns and ecosystems",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6558382733882678
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to climate change and affects plant growth",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6563688428311004
+    }
+  ],
+  "(44450, 47386)": [
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that affects plant growth, carbon fixation, and yields, with implications for climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.5711030128649303
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A climate-related stress that affects plant growth, photosynthesis, and yields, with implications for crop productivity",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6015176855097494
+    },
+    {
+      "name": "nitrous oxide",
+      "label": "variable",
+      "description": "A greenhouse gas that is produced by certain microorganisms, including phytopathogenic fungi, with implications for climate change",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.6860720488654007
+    }
+  ],
+  "(46903, 49965)": [
+    {
+      "name": "N 2 O",
+      "label": "variable",
+      "description": "A greenhouse gas with significant environmental impact, produced by various natural and human-related processes",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.6324491601158321
+    },
+    {
+      "name": "CO 2",
+      "label": "variable",
+      "description": "A greenhouse gas with significant environmental impact, produced by various natural and human-related processes",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6054719900130157
+    },
+    {
+      "name": "arium",
+      "label": "genus",
+      "description": "A type of microorganism that produces nitrous oxide, a potent greenhouse gas",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.5287244938259023
+    },
+    {
+      "name": "photosynthesis",
+      "label": "biological process",
+      "description": "The process by which plants convert light energy into chemical energy, producing organic compounds and oxygen",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.7016752931996152
+    },
+    {
+      "name": "drought spells",
+      "label": "weather event",
+      "description": "Periods of abnormally low rainfall, potentially impacting plant growth and productivity",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.5769970567583453
+    },
+    {
+      "name": "soil moisture levels",
+      "label": "environmental factor",
+      "description": "The amount of water present in the soil, influencing plant growth and productivity",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6463031014613558
+    },
+    {
+      "name": "heat",
+      "label": "environmental factor",
+      "description": "High temperatures, potentially impacting plant growth and productivity",
+      "uuid": "bb9c9be6-78c7-4fbd-9a35-a218276393ec",
+      "score": 0.6261385082855687
+    }
+  ],
+  "(49538, 52241)": [
+    {
+      "name": "transcriptome studies",
+      "label": "project",
+      "description": "A type of research project that examines the expression of genes in an organism, often used to study responses to climate change and abiotic stress",
+      "uuid": "7d3c1302-4d88-4964-b966-f318bf2bcf74",
+      "score": 0.6454678983925648
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures and altered weather patterns, impacting plant growth and biomass composition",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5264162148660688
+    }
+  ],
+  "(51759, 54341)": [
+    {
+      "name": "transcriptome studies",
+      "label": "experiment",
+      "description": "A type of scientific study that examines the expression of genes in an organism under different conditions",
+      "uuid": "7d3c1302-4d88-4964-b966-f318bf2bcf74",
+      "score": 0.6820757191577616
+    },
+    {
+      "name": "heat",
+      "label": "abiotic stress",
+      "description": "A type of environmental stress that can affect plant growth and development",
+      "uuid": "bb9c9be6-78c7-4fbd-9a35-a218276393ec",
+      "score": 0.5062159222474425
+    },
+    {
+      "name": "drought",
+      "label": "abiotic stress",
+      "description": "A type of environmental stress that can affect plant growth and development",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5926015729293734
+    }
+  ],
+  "(53917, 57093)": [
+    {
+      "name": "bioenergy",
+      "label": "variable",
+      "description": "Energy produced from organic matter, such as plant biomass, and potentially influenced by climate change and lignin biosynthesis",
+      "uuid": "99ed30c9-332c-4acf-8620-eab3c67bcc90",
+      "score": 0.5232729143483994
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5961990484212066
+    },
+    {
+      "name": "transcriptome analysis",
+      "label": "experiment",
+      "description": "A research technique used to study the expression of genes in an organism, providing insights into the effects of climate change on plant cell walls",
+      "uuid": "19291970-5f7d-47b0-9101-11b03a15d9ee",
+      "score": 0.6335172718062733
+    },
+    {
+      "name": "fossil-based energy",
+      "label": "variable",
+      "description": "Energy produced from fossil fuels, such as coal, oil, and gas, and contributing to climate change",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5162008122521211
+    }
+  ],
+  "(56463, 59303)": [
+    {
+      "name": "carbon sequestration",
+      "label": "variable",
+      "description": "The process of capturing and storing atmospheric carbon dioxide, often through biological or geological means, to mitigate climate change>",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.7419877309468388
+    },
+    {
+      "name": "biomass production",
+      "label": "project",
+      "description": "The process of growing and harvesting organic materials, such as plants, for use as energy or other products>",
+      "uuid": "99ed30c9-332c-4acf-8620-eab3c67bcc90",
+      "score": 0.5551486551272469
+    },
+    {
+      "name": "bioenergy",
+      "label": "variable",
+      "description": "Energy produced from organic matter, such as plants or waste, which can be used to reduce fossil fuel consumption and lower greenhouse gas emissions>",
+      "uuid": "99ed30c9-332c-4acf-8620-eab3c67bcc90",
+      "score": 0.536802428427182
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, often driven by human activities, which can have significant impacts on the environment and human societies>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5827328828353652
+    },
+    {
+      "name": "agriculture",
+      "label": "project",
+      "description": "The practice of cultivating land, growing crops, and raising livestock, which can be affected by and contribute to climate change>",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5767052253263635
+    },
+    {
+      "name": "fossil-based energy",
+      "label": "variable",
+      "description": "Energy produced from fossil fuels, such as coal, oil, or natural gas, which contributes to greenhouse gas emissions and climate change>",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5354809787675509
+    },
+    {
+      "name": "GHG emission",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide or methane, into the atmosphere, which contributes to climate change>",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5150675021037757
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The way in which land is used, such as for agriculture, urban development, or conservation, which can impact climate change, biodiversity, and ecosystem services>",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.6011945160455032
+    }
+  ]
+}

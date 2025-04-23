@@ -1,0 +1,781 @@
+{
+  "(0, 3129)": [
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country located in the Horn of Africa, known for its diverse climate and geography",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6731628196058488
+    },
+    {
+      "name": "Kenya",
+      "label": "location",
+      "description": "A country located in East Africa, known for its diverse climate and geography",
+      "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+      "score": 0.7365354787866893
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country located in East Africa, known for its diverse climate and geography",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.6907285296702469
+    },
+    {
+      "name": "Global Climate Models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6327508346290734
+    },
+    {
+      "name": "National Meteorological Agency of Ethiopia",
+      "label": "provider",
+      "description": "The national weather service for Ethiopia, providing data, forecasts, and climate-related research",
+      "uuid": "1595f671-8978-48a8-ae99-e3a82d2450d5",
+      "score": 0.5355600915425821
+    },
+    {
+      "name": "National Centers for Environmental Prediction",
+      "label": "provider",
+      "description": "A part of the National Weather Service that provides weather, climate, and environmental predictions and data",
+      "uuid": "f30a086a-f7e6-4708-9df0-7d38b58782e3",
+      "score": 0.6524163709738269
+    },
+    {
+      "name": "National Centers for Environmental Information",
+      "label": "provider",
+      "description": "A part of the National Oceanic and Atmospheric Administration that provides access to environmental data and information",
+      "uuid": "3f5f54d3-6046-4236-83c5-981a9a2cd8e6",
+      "score": 0.6719219198929598
+    },
+    {
+      "name": "second generation Canadian Earth System Model",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "24b382cb-5ed5-46f5-9134-1e34462f9f20",
+      "score": 0.6263602947862775
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, an important factor in climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6616095709861897
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded at a given location, often used in climate and weather studies",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.643085334769074
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded at a given location, often used in climate and weather studies",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.625781626256815
+    },
+    {
+      "name": "large-scale climate variables",
+      "label": "variable",
+      "description": "Quantities or characteristics that can be measured or observed in climate experiments, such as temperature, precipitation, and atmospheric circulation patterns",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6002816073712364
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario that assumes a low greenhouse gas emission trajectory and is used to study the potential impacts of climate change",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6666018160043581
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario that assumes a moderate greenhouse gas emission trajectory and is used to study the potential impacts of climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6136358853521376
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario that assumes a high greenhouse gas emission trajectory and is used to study the potential impacts of climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6807725736267672
+    },
+    {
+      "name": "East Africa",
+      "label": "location",
+      "description": "A region in Africa that includes countries such as Ethiopia, Kenya, and Tanzania, known for its diverse climate and geography",
+      "uuid": "1837fc8f-4622-433b-8148-dd2b5826f6f2",
+      "score": 0.7058418827526918
+    },
+    {
+      "name": "ground-based meteorological stations",
+      "label": "instrument",
+      "description": "Devices used to measure and record weather and climate data, such as temperature, precipitation, and atmospheric conditions",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.6961232106545882
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on agriculture, ecosystems, and human societies",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7110333930394414
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "An overflow of water that submerges land that is usually dry, leading to damage to infrastructure, agriculture, and human settlements",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6714351878102854
+    },
+    {
+      "name": "heavy rainstorms",
+      "label": "weather event",
+      "description": "Intense precipitation events that can cause flash flooding, landslides, and other hazards",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.6169290779237822
+    }
+  ],
+  "(2596, 5638)": [
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country in East Africa with diverse climate and geography, including savannas, mountains, and coastal regions",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.648297534855978
+    },
+    {
+      "name": "Kenya",
+      "label": "location",
+      "description": "A country in East Africa with diverse climate and geography, including savannas, mountains, and coastal regions",
+      "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+      "score": 0.7201352726924656
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country in East Africa with diverse climate and geography, including highlands, lowlands, and deserts",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6321702685436762
+    },
+    {
+      "name": "National Centers for Environmental Information (NCEI)",
+      "label": "provider",
+      "description": "A US government agency responsible for collecting, analyzing, and disseminating environmental data, including climate and weather information",
+      "uuid": "3f5f54d3-6046-4236-83c5-981a9a2cd8e6",
+      "score": 0.6812067545897899
+    },
+    {
+      "name": "CCAFS",
+      "label": "project",
+      "description": "The Climate Change, Agriculture and Food Security program, an initiative to address the impacts of climate change on agriculture and food security",
+      "uuid": "b1e0f4e9-a232-4568-8d58-48ca3e9edb45",
+      "score": 0.5673843647347413
+    },
+    {
+      "name": "Representative Concentration Pathways (RCPs)",
+      "label": "experiment",
+      "description": "A set of greenhouse gas concentration trajectories used to project future climate change scenarios",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5326652199229504
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A low-emissions scenario of the Representative Concentration Pathways, aiming to limit global warming to 2\u00b0C above pre-industrial levels",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6543307341109266
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A medium-emissions scenario of the Representative Concentration Pathways, aiming to limit global warming to 3.2\u00b0C above pre-industrial levels",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5965489612668122
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario of the Representative Concentration Pathways, aiming to explore the consequences of very high greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6777746431959564
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6660531500710053
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded at a given location during a specific time period",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6380514286219072
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded at a given location during a specific time period",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6208254191319659
+    },
+    {
+      "name": "Climate Hazards Group InfraRed Precipitation with Station data (CHIRPS)",
+      "label": "dataset",
+      "description": "A high-resolution, quasi-global precipitation dataset that combines satellite and station data",
+      "uuid": "2f340c79-ed96-4c46-8546-90c14dca2078",
+      "score": 0.6633953999891874
+    },
+    {
+      "name": "Observational-Reanalysis Hybrid",
+      "label": "dataset",
+      "description": "A dataset that combines observational data with reanalysis products to provide high-resolution climate information",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.591837114422462
+    }
+  ],
+  "(5134, 7875)": [
+    {
+      "name": "East Africa",
+      "label": "location",
+      "description": "A region in Africa that includes countries such as Ethiopia, Kenya, and Tanzania, known for its diverse climate and geography",
+      "uuid": "1837fc8f-4622-433b-8148-dd2b5826f6f2",
+      "score": 0.7058418827526918
+    },
+    {
+      "name": "Climate Hazards Group InfraRed Precipitation with Station data (CHIRPS)",
+      "label": "project",
+      "description": "A project that provides high-resolution, long-term precipitation data by combining satellite and station data",
+      "uuid": "2f340c79-ed96-4c46-8546-90c14dca2078",
+      "score": 0.6376284162083168
+    },
+    {
+      "name": "Observational-Reanalysis Hybrid",
+      "label": "model",
+      "description": "A type of climate model that combines observational data with reanalysis data to improve the accuracy of climate predictions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.5344525578697171
+    },
+    {
+      "name": "Canadian Climate Data and Scenarios",
+      "label": "provider",
+      "description": "A Canadian organization that provides climate data and scenarios for research and application",
+      "uuid": "b301e170-c91e-4275-9858-d7720fb93416",
+      "score": 0.5944548474007008
+    },
+    {
+      "name": "Canadian Earth System Model (CanESM2)",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "24b382cb-5ed5-46f5-9134-1e34462f9f20",
+      "score": 0.7426533406860076
+    },
+    {
+      "name": "National Centers for Environmental Prediction (NCEP)",
+      "label": "provider",
+      "description": "An American organization that provides environmental data and predictions, including climate and weather data",
+      "uuid": "f30a086a-f7e6-4708-9df0-7d38b58782e3",
+      "score": 0.7024884591689574
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A General Circulation Model, a type of climate model that simulates the large-scale circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7621600750152108
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to predict future climate change based on different levels of greenhouse gas emissions",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5546804529629271
+    },
+    {
+      "name": "large-scale climate variables",
+      "label": "variable",
+      "description": "Climate variables that are measured on a large scale, such as temperature, precipitation, and atmospheric circulation patterns",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5897599788149158
+    },
+    {
+      "name": "maximum and minimum temperature",
+      "label": "variable",
+      "description": "Measurements of the highest and lowest temperatures recorded at a given location, often used in climate and weather studies",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.7056452326684338
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, an important climate variable",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6615708934808846
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country in East Africa, known for its diverse climate and geography",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6511305045991399
+    },
+    {
+      "name": "Kenya",
+      "label": "location",
+      "description": "A country in East Africa, known for its diverse climate and geography",
+      "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+      "score": 0.6969402349712663
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country in East Africa, known for its diverse climate and geography",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.6662960969644105
+    }
+  ],
+  "(7417, 10039)": [
+    {
+      "name": "SDSM",
+      "label": "model",
+      "description": "A statistical downscaling model used to generate high-resolution climate data from large-scale climate model outputs",
+      "uuid": "cfe55cb7-b9db-4e56-801e-0c7c605c887c",
+      "score": 0.5341173701094353
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water falling to Earth's surface, an essential component of the Earth's hydrological cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.672116108240924
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature reached during a given period, often used as a metric in climate studies",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6311829830550623
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature reached during a given period, often used as a metric in climate studies",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6117214312848184
+    },
+    {
+      "name": "CanESM2",
+      "label": "model",
+      "description": "The Canadian Earth System Model version 2, a climate model used to simulate and predict Earth's climate system",
+      "uuid": "24b382cb-5ed5-46f5-9134-1e34462f9f20",
+      "score": 0.7914574368591979
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario representing a low greenhouse gas emissions future, used in climate modeling and prediction",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6794542561092916
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario representing a medium greenhouse gas emissions future, used in climate modeling and prediction",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6374371237939103
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario representing a high greenhouse gas emissions future, used in climate modeling and prediction",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6815813417927498
+    }
+  ],
+  "(9704, 12187)": [
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario representing a low greenhouse gas emission trajectory for the 21st century",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6801518475697769
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario representing a medium-low greenhouse gas emission trajectory for the 21st century",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6421416107074607
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario representing a high greenhouse gas emission trajectory for the 21st century",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6938337202254677
+    },
+    {
+      "name": "Pr-rcp45",
+      "label": "variable",
+      "description": "Projected daily precipitation under the RCP4.5 scenario",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5837827293379422
+    },
+    {
+      "name": "Pr-rcp85",
+      "label": "variable",
+      "description": "Projected daily precipitation under the RCP8.5 scenario",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.5855959871215839
+    },
+    {
+      "name": "Tmax",
+      "label": "variable",
+      "description": "Daily maximum temperature",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.680993205633012
+    },
+    {
+      "name": "Tmax.PAR",
+      "label": "instrument",
+      "description": "List of selected predictors for daily maximum temperature at location one",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.5791623688345237
+    },
+    {
+      "name": "Tmax-rcp26",
+      "label": "variable",
+      "description": "Projected daily maximum temperature under the RCP2.6 scenario",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.5899745832955088
+    },
+    {
+      "name": "Tmax-rcp45",
+      "label": "variable",
+      "description": "Projected daily maximum temperature under the RCP4.5 scenario",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5953682753736892
+    },
+    {
+      "name": "Tmax-rcp85",
+      "label": "variable",
+      "description": "Projected daily maximum temperature under the RCP8.5 scenario",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6273073026122848
+    },
+    {
+      "name": "Tmin",
+      "label": "variable",
+      "description": "Daily minimum temperature",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.6812616862118056
+    },
+    {
+      "name": "Tmin.PAR",
+      "label": "instrument",
+      "description": "List of selected predictors for daily minimum temperature at location one",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.5527030210834757
+    },
+    {
+      "name": "Tmin-rcp26",
+      "label": "variable",
+      "description": "Projected daily minimum temperature under the RCP2.6 scenario",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6119146848452941
+    },
+    {
+      "name": "Tmin-rcp45",
+      "label": "variable",
+      "description": "Projected daily minimum temperature under the RCP4.5 scenario",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5883624032346395
+    },
+    {
+      "name": "Tmin-rcp85",
+      "label": "variable",
+      "description": "Projected daily minimum temperature under the RCP8.5 scenario",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.5946963347531949
+    },
+    {
+      "name": "location one",
+      "label": "location",
+      "description": "A specific geographic location, possibly a region or a site, where climate data is being analyzed or modeled",
+      "uuid": "713eb469-abe4-4b6b-bad6-134187deabd8",
+      "score": 0.566127931822777
+    },
+    {
+      "name": "East Africa",
+      "label": "location",
+      "description": "A region in Africa that includes several countries and is known for its complex topography and diverse climate",
+      "uuid": "1837fc8f-4622-433b-8148-dd2b5826f6f2",
+      "score": 0.6537403778746093
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country located in the Horn of Africa, known for its diverse climate and geography",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6731628196058488
+    },
+    {
+      "name": "Kenya",
+      "label": "location",
+      "description": "A country located in East Africa, known for its diverse climate and geography",
+      "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+      "score": 0.7365354787866893
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country located in East Africa, known for its diverse climate and geography",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.6907285296702469
+    },
+    {
+      "name": "Box_1",
+      "label": "location",
+      "description": "A specific geographic location, possibly a region or a site, where climate data is being analyzed or modeled",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.514149369637081
+    }
+  ],
+  "(11726, 14239)": [
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country located in the Horn of Africa, known for its diverse climate and geography",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6731628196058488
+    },
+    {
+      "name": "Kenya",
+      "label": "location",
+      "description": "A country in East Africa, known for its diverse climate and geography",
+      "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+      "score": 0.6969402349712663
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country in East Africa, known for its diverse climate and geography",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.6662960969644105
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6660531500710053
+    },
+    {
+      "name": "maximum and minimum temperature",
+      "label": "variable",
+      "description": "Measurements of the highest and lowest temperatures recorded at a given location",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6852192739869082
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to model future climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5606841625496398
+    },
+    {
+      "name": "SDSM",
+      "label": "model",
+      "description": "A statistical downscaling model used to generate high-resolution climate data from large-scale climate models",
+      "uuid": "cfe55cb7-b9db-4e56-801e-0c7c605c887c",
+      "score": 0.534046723219522
+    }
+  ],
+  "(13852, 16354)": [
+    {
+      "name": "SDSM",
+      "label": "model",
+      "description": "Statistical Downscaling Model, a technique used to generate high-resolution climate data from lower-resolution global climate models",
+      "uuid": "cfe55cb7-b9db-4e56-801e-0c7c605c887c",
+      "score": 0.5216983504369487
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country in East Africa, known for its diverse climate and geography",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6511305045991399
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, an important climate variable",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6615708934808846
+    },
+    {
+      "name": "mean sea level pressure",
+      "label": "variable",
+      "description": "The average atmospheric pressure at sea level, used as a predictor in the study",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.6761926950573898
+    },
+    {
+      "name": "surface divergence",
+      "label": "variable",
+      "description": "A measure of the rate at which air is moving away from a point on the Earth's surface, used as a predictor in the study",
+      "uuid": "5c58acfc-04ed-4cbf-8674-13c41b3e950d",
+      "score": 0.5699756865534876
+    },
+    {
+      "name": "850 hPa vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air in the atmosphere at an altitude of 850 hPa, used as a predictor in the study",
+      "uuid": "d34bf994-7bc6-407a-bb8d-fdd579f2f65b",
+      "score": 0.6391333664178741
+    },
+    {
+      "name": "specific humidity",
+      "label": "variable",
+      "description": "The amount of water vapor in the air, used as a predictor in the study",
+      "uuid": "811391d2-4113-4d52-9c88-47d56afda481",
+      "score": 0.7611756173588403
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded at a given location, used as a variable in the study",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6264172602467606
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded at a given location, used as a variable in the study",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6156147308122087
+    },
+    {
+      "name": "500 hPa geopotential height",
+      "label": "variable",
+      "description": "A measure of the height of the 500 hPa pressure level in the atmosphere, used as a predictor in the study",
+      "uuid": "d667527b-128c-459d-944d-197ec7f01394",
+      "score": 0.6812337701317825
+    },
+    {
+      "name": "surface meridional velocity",
+      "label": "variable",
+      "description": "A measure of the north-south component of wind speed at the Earth's surface, used as a predictor in the study",
+      "uuid": "488fdda1-0aff-41e9-9999-e15d89c279de",
+      "score": 0.5157493110632956
+    }
+  ],
+  "(15926, 18152)": [
+    {
+      "name": "Canadian Earth System Model",
+      "label": "model",
+      "description": "A comprehensive climate model that integrates physical, chemical, and biological processes to simulate Earth's climate system",
+      "uuid": "24b382cb-5ed5-46f5-9134-1e34462f9f20",
+      "score": 0.6646336865274587
+    },
+    {
+      "name": "NCEP reanalysis data",
+      "label": "project",
+      "description": "A project that provides historical climate data, reanalyzed to create a consistent and reliable dataset for climate research",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.635581220188224
+    },
+    {
+      "name": "Surface specific humidity",
+      "label": "variable",
+      "description": "A measure of the amount of water vapor in the air near the Earth's surface",
+      "uuid": "811391d2-4113-4d52-9c88-47d56afda481",
+      "score": 0.6919290670697948
+    },
+    {
+      "name": "Specific humidity",
+      "label": "variable",
+      "description": "The mass of water vapor per unit mass of air, an important variable in climate and weather studies",
+      "uuid": "811391d2-4113-4d52-9c88-47d56afda481",
+      "score": 0.7873090968739671
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "500 hPa geopotential height",
+      "label": "variable",
+      "description": "A measure of the height of the 500 hectopascal atmospheric pressure level, used to study atmospheric circulation and climate patterns",
+      "uuid": "d667527b-128c-459d-944d-197ec7f01394",
+      "score": 0.6845763649998561
+    },
+    {
+      "name": "CanESM2",
+      "label": "model",
+      "description": "The second generation Canadian Earth System Model, designed to simulate and study interactions within the Earth's climate system",
+      "uuid": "24b382cb-5ed5-46f5-9134-1e34462f9f20",
+      "score": 0.7766726319220517
+    },
+    {
+      "name": "Coupled Model Inter-comparison Project Phase 5",
+      "label": "project",
+      "description": "A framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.7371769916268383
+    },
+    {
+      "name": "SDSM",
+      "label": "model",
+      "description": "A statistical downscaling model used to generate high-resolution climate data from large-scale climate models",
+      "uuid": "cfe55cb7-b9db-4e56-801e-0c7c605c887c",
+      "score": 0.534046723219522
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent on Earth, known for its diverse climate and geography",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.6153654747164158
+    },
+    {
+      "name": "Middle East",
+      "label": "location",
+      "description": "A region in western Asia and northeastern Africa, characterized by its arid climate and diverse geography",
+      "uuid": "8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab",
+      "score": 0.6195687926278989
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country in eastern Africa, known for its diverse climate and geography",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6565996389967178
+    },
+    {
+      "name": "National Meteorological Agency",
+      "label": "provider",
+      "description": "The national weather service of Ethiopia, providing climate and weather data",
+      "uuid": "1595f671-8978-48a8-ae99-e3a82d2450d5",
+      "score": 0.5228865002960955
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, used to simulate the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7552110806646974
+    }
+  ]
+}

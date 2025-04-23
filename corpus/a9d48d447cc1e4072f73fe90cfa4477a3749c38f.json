@@ -1,0 +1,887 @@
+{
+  "(0, 3016)": [
+    {
+      "name": "United Kingdom",
+      "label": "provider",
+      "description": "A country that has adopted net-zero emissions targets for 2050>",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.5866575575735786
+    },
+    {
+      "name": "fossil fuel",
+      "label": "variable",
+      "description": "Energy sources such as coal, oil, and gas that release carbon dioxide when burned, contributing to climate change>",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.6210445565951415
+    },
+    {
+      "name": "climate policies",
+      "label": "project",
+      "description": "Policies and regulations aimed at reducing greenhouse gas emissions and mitigating climate change>",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.5116777136852716
+    },
+    {
+      "name": "solar energy",
+      "label": "variable",
+      "description": "Energy generated from the sun's rays, a renewable and low-carbon source of energy>",
+      "uuid": "8b4f34c1-7aed-4833-811a-401382abd17c",
+      "score": 0.5950433682636891
+    },
+    {
+      "name": "wind energy",
+      "label": "variable",
+      "description": "Energy generated from the wind, a renewable and low-carbon source of energy>",
+      "uuid": "b3a95e10-1c1d-41cf-8802-8bb1d3a41353",
+      "score": 0.5551018424406394
+    },
+    {
+      "name": "environmental regulation",
+      "label": "instrument",
+      "description": "Laws and policies that aim to protect the environment and reduce pollution>",
+      "uuid": "57df059e-578a-4371-9484-7a34d63edfa5",
+      "score": 0.6524631554253959
+    },
+    {
+      "name": "COVID-19",
+      "label": "natural hazard",
+      "description": "A global pandemic that has affected the economy, energy demand, and climate policies>",
+      "uuid": "89e3dc82-e76e-48a4-8070-abd70ea5d2fd",
+      "score": 0.5059616022752745
+    }
+  ],
+  "(2428, 5752)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures and altered weather patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5819407416304886
+    }
+  ],
+  "(5162, 8506)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia that is a major player in global energy markets and geopolitics",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5702510914373593
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent that is home to many countries that are significant players in global energy markets and geopolitics",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.59009335342746
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America that is a major player in global energy markets and geopolitics",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6029123370911473
+    }
+  ],
+  "(7982, 11075)": [
+    {
+      "name": "International Energy Agency",
+      "label": "provider",
+      "description": "An intergovernmental organization that promotes rational energy policies and provides data and analysis on energy markets",
+      "uuid": "e236abe1-c8c5-4bca-ab7d-89b5a0392d6b",
+      "score": 0.7320546667323732
+    },
+    {
+      "name": "IEA World Energy Outlook",
+      "label": "project",
+      "description": "An annual report published by the International Energy Agency, providing projections and analysis of global energy trends",
+      "uuid": "e236abe1-c8c5-4bca-ab7d-89b5a0392d6b",
+      "score": 0.5087525581615886
+    },
+    {
+      "name": "United Kingdom",
+      "label": "location",
+      "description": "A country in Northwest Europe, part of the region that is implementing climate policies to achieve net-zero emissions",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.7308074427607252
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, playing a significant role in global energy markets and climate policy",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5959587859943097
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "A country in East Asia, committed to reducing its carbon footprint and achieving net-zero emissions",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.5320348269557692
+    },
+    {
+      "name": "South Korea",
+      "label": "location",
+      "description": "A country in East Asia, implementing policies to reduce its greenhouse gas emissions and transition to a low-carbon economy",
+      "uuid": "2c12f87b-a4c7-4aec-b10b-0f3e37560ccf",
+      "score": 0.563344435051057
+    },
+    {
+      "name": "East Asia",
+      "label": "location",
+      "description": "A region in Asia, comprising countries such as China, Japan, and South Korea, that are significant players in global energy markets and climate policy",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.5980919385150253
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent that is home to the European Union and other countries that are actively engaged in reducing their carbon footprint and achieving climate neutrality",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.607280968612428
+    },
+    {
+      "name": "global warming",
+      "label": "variable",
+      "description": "The increase in Earth's average surface temperature due to human activities, particularly the emission of greenhouse gases",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5297090143132788
+    },
+    {
+      "name": "CO2 emissions",
+      "label": "variable",
+      "description": "The release of carbon dioxide into the atmosphere, primarily through fossil fuel combustion and industrial processes",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.563705879363725
+    },
+    {
+      "name": "energy production",
+      "label": "variable",
+      "description": "The process of generating energy from various sources, including fossil fuels, nuclear, and renewable energy sources",
+      "uuid": "b73cee46-8e2c-4df9-b1ed-7f0aa98a04ac",
+      "score": 0.5158954383461759
+    },
+    {
+      "name": "energy use",
+      "label": "variable",
+      "description": "The consumption of energy by various sectors, including industry, transportation, and households",
+      "uuid": "b73cee46-8e2c-4df9-b1ed-7f0aa98a04ac",
+      "score": 0.5450660272523814
+    },
+    {
+      "name": "oil",
+      "label": "variable",
+      "description": "A fossil fuel used as a primary source of energy, particularly in transportation and industry",
+      "uuid": "44d0ad8f-fe22-4d17-bc47-c0b728a82baf",
+      "score": 0.5412538182369762
+    },
+    {
+      "name": "gas",
+      "label": "variable",
+      "description": "A fossil fuel used as a primary source of energy, particularly in power generation and industry",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6047266011639293
+    },
+    {
+      "name": "industrial activity",
+      "label": "variable",
+      "description": "The production of goods and services by industries, often energy-intensive and contributing to greenhouse gas emissions",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5238248514098249
+    },
+    {
+      "name": "industrial emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases and other pollutants into the atmosphere, primarily through industrial processes",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.7216132444048226
+    }
+  ],
+  "(10517, 13497)": [
+    {
+      "name": "Industrial emissions",
+      "label": "variable",
+      "description": "The release of pollutants into the atmosphere from industrial activities, contributing to climate change and air pollution",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.7404650448158933
+    },
+    {
+      "name": "Global fuel combustion",
+      "label": "variable",
+      "description": "The process of burning fossil fuels, such as coal, oil, and natural gas, to produce energy, releasing carbon dioxide and other pollutants into the atmosphere",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.607411154304246
+    },
+    {
+      "name": "Solar",
+      "label": "technology",
+      "description": "A renewable energy source that harnesses energy from the sun's rays to generate electricity or heat",
+      "uuid": "8b4f34c1-7aed-4833-811a-401382abd17c",
+      "score": 0.5979931648712203
+    },
+    {
+      "name": "Wind",
+      "label": "technology",
+      "description": "A renewable energy source that harnesses energy from wind to generate electricity",
+      "uuid": "b3a95e10-1c1d-41cf-8802-8bb1d3a41353",
+      "score": 0.5462121114812053
+    },
+    {
+      "name": "Coal",
+      "label": "fuel",
+      "description": "A fossil fuel that is burned to produce energy, releasing carbon dioxide and other pollutants into the atmosphere",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6365174204609235
+    },
+    {
+      "name": "Natural gas",
+      "label": "fuel",
+      "description": "A fossil fuel that is burned to produce energy, releasing carbon dioxide and other pollutants into the atmosphere",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6973413866937993
+    },
+    {
+      "name": "Oil",
+      "label": "fuel",
+      "description": "A fossil fuel that is burned to produce energy, releasing carbon dioxide and other pollutants into the atmosphere",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5362300476830357
+    }
+  ],
+  "(13071, 16133)": [
+    {
+      "name": "fossil fuels",
+      "label": "variable",
+      "description": "A type of energy source formed from ancient plants and animals, including coal, oil, and natural gas",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5297210563941476
+    },
+    {
+      "name": "nuclear",
+      "label": "variable",
+      "description": "A type of energy source produced by nuclear reactions, used to generate electricity",
+      "uuid": "582af998-1f5c-48a7-8cdd-70fe06bb9f17",
+      "score": 0.5810788081772627
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "A type of renewable energy source produced from organic matter, such as plants and waste",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5653464036745696
+    },
+    {
+      "name": "wind",
+      "label": "variable",
+      "description": "A type of renewable energy source produced by wind turbines, converting wind energy into electricity",
+      "uuid": "b3a95e10-1c1d-41cf-8802-8bb1d3a41353",
+      "score": 0.5762383394393239
+    },
+    {
+      "name": "hydro",
+      "label": "variable",
+      "description": "A type of renewable energy source produced by the movement of water, such as in hydroelectric power plants",
+      "uuid": "7eba0eef-3a30-4282-a162-1f483370ddc4",
+      "score": 0.6074587738261077
+    },
+    {
+      "name": "geothermal",
+      "label": "variable",
+      "description": "A type of renewable energy source produced by the heat of the Earth, used to generate electricity",
+      "uuid": "33d1810f-40c6-4b37-ac90-7435ef5fa507",
+      "score": 0.6640173105107149
+    },
+    {
+      "name": "ocean-related systems",
+      "label": "variable",
+      "description": "A type of renewable energy source produced by the movement of ocean waves, tides, or thermal energy",
+      "uuid": "62c1fec5-3512-4136-a060-ec2338a48296",
+      "score": 0.5421204383242909
+    },
+    {
+      "name": "Saudi Arabia",
+      "label": "location",
+      "description": "A country in the Middle East that is a major producer and exporter of oil",
+      "uuid": "798f3745-be8c-48b0-b903-0265dbe1f957",
+      "score": 0.6805759605950096
+    }
+  ],
+  "(15623, 18586)": [
+    {
+      "name": "Saudi Arabia",
+      "label": "location",
+      "description": "A country in the Middle East that is a major oil producer and member of OPEC",
+      "uuid": "798f3745-be8c-48b0-b903-0265dbe1f957",
+      "score": 0.6678819330456116
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America that is a significant oil and gas producer",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5720580837150451
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America that is a significant oil and gas producer",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.5580205405954322
+    },
+    {
+      "name": "Russia",
+      "label": "location",
+      "description": "A country in Eastern Europe and Asia that is a significant oil and gas producer",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.5583580102526896
+    },
+    {
+      "name": "oil",
+      "label": "variable",
+      "description": "A type of fossil fuel used as a source of energy",
+      "uuid": "44d0ad8f-fe22-4d17-bc47-c0b728a82baf",
+      "score": 0.5366406974295809
+    },
+    {
+      "name": "gas",
+      "label": "variable",
+      "description": "A type of fossil fuel used as a source of energy",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6017123966023845
+    }
+  ],
+  "(18115, 21114)": [
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, significant for its economic and geopolitical influence on global energy markets",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6005334581872735
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, known for its oil and gas production",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.5853658139215505
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Americas, comprising countries with diverse economies and natural resources",
+      "uuid": "e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3",
+      "score": 0.6822942416356377
+    },
+    {
+      "name": "Russia",
+      "label": "location",
+      "description": "A country in Eastern Europe and Northern Asia, notable for its significant oil and gas reserves",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.5951022069383168
+    },
+    {
+      "name": "oil",
+      "label": "variable",
+      "description": "A type of fossil fuel, crucial for energy production and economic activities",
+      "uuid": "44d0ad8f-fe22-4d17-bc47-c0b728a82baf",
+      "score": 0.5467767539313292
+    },
+    {
+      "name": "gas",
+      "label": "variable",
+      "description": "A type of fossil fuel, used for energy production and industrial processes",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6090731512366411
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, significant for its large economy and energy consumption",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5975968856216921
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, notable for its rapidly growing economy and energy demands",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5729843521150451
+    },
+    {
+      "name": "GDP",
+      "label": "variable",
+      "description": "Gross Domestic Product, a measure of a country's economic activity and output",
+      "uuid": "6163b751-c8a6-42e5-9eb1-2b73932da631",
+      "score": 0.5875112968830687
+    }
+  ],
+  "(20644, 23764)": [
+    {
+      "name": "GDP",
+      "label": "variable",
+      "description": "Gross Domestic Product, a measure of a country's economic output",
+      "uuid": "6163b751-c8a6-42e5-9eb1-2b73932da631",
+      "score": 0.5847024349519135
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia that is a major energy importer",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5642797317188348
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia that is a major energy importer",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5439366397198847
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "A country in East Asia that is a major energy importer",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.6159396762636759
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America that is a high-cost producer of fossil fuels",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5681963447007171
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America that is a high-cost producer of fossil fuels",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.544047942113649
+    },
+    {
+      "name": "Russia",
+      "label": "location",
+      "description": "A country in Eastern Europe and Northern Asia that is a high-cost producer of fossil fuels",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.5668868663345132
+    },
+    {
+      "name": "United Kingdom",
+      "label": "location",
+      "description": "A country in Northwest Europe that is undergoing a low-carbon transition",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6662758912844766
+    },
+    {
+      "name": "IEA",
+      "label": "provider",
+      "description": "The International Energy Agency, an intergovernmental organization that provides analysis and recommendations on energy policy",
+      "uuid": "e236abe1-c8c5-4bca-ab7d-89b5a0392d6b",
+      "score": 0.7355383664520657
+    }
+  ],
+  "(23237, 26356)": [
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, one of the world's largest economies and a significant player in global energy markets",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6208362262228966
+    },
+    {
+      "name": "Russia",
+      "label": "location",
+      "description": "A country in Eastern Europe and Northern Asia, a major producer of fossil fuels",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.5964863802418678
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, a significant producer of fossil fuels and a player in global energy markets",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.5395308680093857
+    },
+    {
+      "name": "Brazil",
+      "label": "location",
+      "description": "A country in South America, a major producer of fossil fuels and a player in global energy markets",
+      "uuid": "2a65dfd1-83e7-4886-a732-316b170522a1",
+      "score": 0.5554083242154623
+    },
+    {
+      "name": "fossil fuels",
+      "label": "variable",
+      "description": "Energy sources such as coal, oil, and natural gas, which release greenhouse gases when burned",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5951409702822005
+    },
+    {
+      "name": "integrated assessment models",
+      "label": "model",
+      "description": "Computational frameworks used to study the interactions between human and natural systems, including climate policy and socio-economic scenarios",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.5386935747071925
+    }
+  ],
+  "(25875, 29047)": [
+    {
+      "name": "United Kingdom",
+      "label": "location",
+      "description": "A country in Northwest Europe, part of the British Isles",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6461824798267721
+    }
+  ],
+  "(28491, 31704)": [
+    {
+      "name": "power",
+      "label": "sector",
+      "description": "A part of the energy sector that includes the generation, transmission, and distribution of electricity",
+      "uuid": "bf9266fa-ceeb-4c68-a391-71ff6660b189",
+      "score": 0.5037085652094259
+    },
+    {
+      "name": "transport",
+      "label": "sector",
+      "description": "A part of the energy sector that includes the movement of people and goods by various modes of transportation",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.5651961265993121
+    }
+  ],
+  "(31142, 34192)": [
+    {
+      "name": "wind",
+      "label": "technology",
+      "description": "Wind power technology, a method of generating electricity from wind energy",
+      "uuid": "b3a95e10-1c1d-41cf-8802-8bb1d3a41353",
+      "score": 0.5485649706597736
+    },
+    {
+      "name": "BIOGEM",
+      "label": "model",
+      "description": "An ocean biogeochemistry model that simulates the cycling of nutrients and carbon in the ocean",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.5462232800151923
+    },
+    {
+      "name": "CO2 emissions",
+      "label": "variable",
+      "description": "The amount of carbon dioxide released into the atmosphere, a key driver of climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.5765701488285928
+    },
+    {
+      "name": "land-use change",
+      "label": "variable",
+      "description": "Changes in the way land is used, such as deforestation or urbanization, which can impact the climate",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5527157251176515
+    },
+    {
+      "name": "non-CO2 climate forcing agents",
+      "label": "variable",
+      "description": "Substances or processes that affect the climate, but are not related to carbon dioxide emissions",
+      "uuid": "e0867ff5-2eb4-4959-b874-ac37c1b407e0",
+      "score": 0.5269664824618723
+    }
+  ],
+  "(33728, 36628)": [
+    {
+      "name": "RCP 2.6",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario used to study the effects of greenhouse gas emissions on the climate",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6625157184686958
+    },
+    {
+      "name": "RCP 6.0",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario used to study the effects of greenhouse gas emissions on the climate",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6291943114928258
+    },
+    {
+      "name": "CIMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.7631759025612693
+    },
+    {
+      "name": "climate thresholds",
+      "label": "variable",
+      "description": "The points at which the climate system undergoes significant changes",
+      "uuid": "d87901bc-8a50-4442-8d03-a4e77f02bfb0",
+      "score": 0.52924659766264
+    }
+  ],
+  "(36049, 39274)": [
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent that includes many countries with significant energy production and consumption",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.5837873751082332
+    },
+    {
+      "name": "United Kingdom",
+      "label": "location",
+      "description": "A country in Northwest Europe with its own energy and climate policies",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.7117806424119056
+    },
+    {
+      "name": "South Korea",
+      "label": "location",
+      "description": "A country in East Asia with its own energy and climate policies",
+      "uuid": "2c12f87b-a4c7-4aec-b10b-0f3e37560ccf",
+      "score": 0.5745861997429199
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "A country in East Asia with its own energy and climate policies",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.5575151683296181
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia with its own energy and climate policies",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5784497016768909
+    },
+    {
+      "name": "solar PV",
+      "label": "instrument",
+      "description": "A type of renewable energy technology used for generating electricity",
+      "uuid": "8b4f34c1-7aed-4833-811a-401382abd17c",
+      "score": 0.5009413527405842
+    },
+    {
+      "name": "geothermal",
+      "label": "instrument",
+      "description": "A type of renewable energy technology used for generating electricity",
+      "uuid": "33d1810f-40c6-4b37-ac90-7435ef5fa507",
+      "score": 0.6280177036000982
+    },
+    {
+      "name": "biomass",
+      "label": "instrument",
+      "description": "A type of renewable energy technology used for generating electricity",
+      "uuid": "99ed30c9-332c-4acf-8620-eab3c67bcc90",
+      "score": 0.5360633176190256
+    },
+    {
+      "name": "wave and tidal",
+      "label": "instrument",
+      "description": "A type of renewable energy technology used for generating electricity",
+      "uuid": "1eb6eeff-77f8-40b6-8e4a-2e4438f00b10",
+      "score": 0.5351107510426026
+    },
+    {
+      "name": "hydro",
+      "label": "instrument",
+      "description": "A type of renewable energy technology used for generating electricity",
+      "uuid": "7eba0eef-3a30-4282-a162-1f483370ddc4",
+      "score": 0.6014091960781687
+    },
+    {
+      "name": "coal",
+      "label": "instrument",
+      "description": "A type of fossil fuel used for generating electricity",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6437842613109723
+    },
+    {
+      "name": "CCS",
+      "label": "instrument",
+      "description": "Carbon capture and storage, a technology used to reduce greenhouse gas emissions from fossil fuel power plants",
+      "uuid": "e8c24822-7d2d-48c6-9dca-df3860e9bd63",
+      "score": 0.688581787136275
+    }
+  ],
+  "(38775, 41699)": [
+    {
+      "name": "Hydro",
+      "label": "variable",
+      "description": "A type of renewable energy source, specifically hydroelectric energy",
+      "uuid": "7eba0eef-3a30-4282-a162-1f483370ddc4",
+      "score": 0.5779741001192803
+    },
+    {
+      "name": "Coal",
+      "label": "variable",
+      "description": "A type of fossil fuel used for electricity generation",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6355074961470007
+    },
+    {
+      "name": "CCS",
+      "label": "variable",
+      "description": "Carbon capture and storage, a technology used to reduce greenhouse gas emissions",
+      "uuid": "e8c24822-7d2d-48c6-9dca-df3860e9bd63",
+      "score": 0.699642738472196
+    },
+    {
+      "name": "BECCS",
+      "label": "variable",
+      "description": "Bioenergy with carbon capture and storage, a technology used to reduce greenhouse gas emissions",
+      "uuid": "e8c24822-7d2d-48c6-9dca-df3860e9bd63",
+      "score": 0.5453970907051355
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6802165192417707
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.6317104845045382
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in Asia",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6072881746304354
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in Asia",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5528068453875602
+    },
+    {
+      "name": "United Kingdom",
+      "label": "location",
+      "description": "A country in Europe",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6290302868430211
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "A country in Asia",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.6557295824415079
+    },
+    {
+      "name": "IEA",
+      "label": "provider",
+      "description": "The International Energy Agency, an organization that provides energy policy advice and analysis",
+      "uuid": "e236abe1-c8c5-4bca-ab7d-89b5a0392d6b",
+      "score": 0.7254116520958948
+    }
+  ],
+  "(41328, 44358)": [
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas, whose increasing levels in the atmosphere are a major contributor to global warming and climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6550824093796291
+    },
+    {
+      "name": "United Kingdom",
+      "label": "provider",
+      "description": "A country in Northwest Europe",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6319278718933944
+    },
+    {
+      "name": "Japan",
+      "label": "provider",
+      "description": "A country in East Asia",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.6647907264993966
+    },
+    {
+      "name": "South Korea",
+      "label": "provider",
+      "description": "A country in East Asia",
+      "uuid": "2c12f87b-a4c7-4aec-b10b-0f3e37560ccf",
+      "score": 0.7177128653651236
+    },
+    {
+      "name": "China",
+      "label": "provider",
+      "description": "A country in East Asia",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6176376534299722
+    },
+    {
+      "name": "Saudi Arabia",
+      "label": "provider",
+      "description": "A country in the Middle East and a major oil producer",
+      "uuid": "798f3745-be8c-48b0-b903-0265dbe1f957",
+      "score": 0.6942570686948335
+    },
+    {
+      "name": "IEA",
+      "label": "provider",
+      "description": "The International Energy Agency, an organization that promotes energy security and provides energy policy advice",
+      "uuid": "e236abe1-c8c5-4bca-ab7d-89b5a0392d6b",
+      "score": 0.7306094078456052
+    },
+    {
+      "name": "United States",
+      "label": "provider",
+      "description": "A country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6802165192417707
+    },
+    {
+      "name": "Russia",
+      "label": "provider",
+      "description": "A country in Eastern Europe and Northern Asia",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.626805773832749
+    }
+  ],
+  "(43842, 46841)": [
+    {
+      "name": "IEA",
+      "label": "provider",
+      "description": "The International Energy Agency, an organization that publishes energy outlooks and scenarios",
+      "uuid": "e236abe1-c8c5-4bca-ab7d-89b5a0392d6b",
+      "score": 0.6602644707787804
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes high greenhouse gas emissions and is used as a benchmark for climate change research",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6798550636826021
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America that is a major player in global energy markets",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.599520060807958
+    }
+  ],
+  "(46375, 48586)": [
+    {
+      "name": "Springer Nature",
+      "label": "provider",
+      "description": "A publisher of scientific and academic journals, including Nature Energy",
+      "uuid": "67aee06b-a1df-4d00-9945-c9229f1ad121",
+      "score": 0.5240184399880908
+    },
+    {
+      "name": "scenario",
+      "label": "experiment",
+      "description": "A hypothetical or predicted situation or sequence of events, used to analyze and predict the outcomes of different decisions or actions",
+      "uuid": "6062293a-f372-4e65-9bab-27355f0ebc59",
+      "score": 0.533900609530577
+    }
+  ]
+}

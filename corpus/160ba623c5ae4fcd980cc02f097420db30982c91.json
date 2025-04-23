@@ -1,0 +1,883 @@
+{
+  "(0, 2958)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, characterized by restricted water exchange with the North Sea and susceptible to eutrophication",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7430516556960834
+    },
+    {
+      "name": "Baltic Sea ecosystem",
+      "label": "ecosystem",
+      "description": "The complex community of living organisms and their interactions within the Baltic Sea environment, influenced by factors such as eutrophication, climate change, and nutrient inputs",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5618646921056935
+    },
+    {
+      "name": "cyanobacteria",
+      "label": "variable",
+      "description": "A type of phytoplankton that can form blooms and contribute to eutrophication, potentially toxic to humans and wildlife",
+      "uuid": "166de4c9-89ad-4248-b771-512beb1705cf",
+      "score": 0.6391462594041867
+    },
+    {
+      "name": "eutrophication",
+      "label": "natural hazard",
+      "description": "The process by which a body of water becomes enriched with excess nutrients, leading to harmful algal blooms and decreased water quality",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.756028495278655
+    },
+    {
+      "name": "global climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system, including the impacts of climate change on regional ecosystems",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6458650996080022
+    },
+    {
+      "name": "regional climate models",
+      "label": "model",
+      "description": "Downscaled climate models that focus on simulating climate processes at the regional level, providing higher resolution and more detailed projections",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.5235911587736675
+    },
+    {
+      "name": "Baltic Sea ecosystem models",
+      "label": "model",
+      "description": "Specialized models designed to simulate the complex interactions within the Baltic Sea ecosystem, including the impacts of climate change and nutrient inputs on ecosystem structure and function",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5298790436185022
+    },
+    {
+      "name": "IPCC scenario",
+      "label": "experiment",
+      "description": "A hypothetical climate scenario developed by the Intergovernmental Panel on Climate Change, used to project future climate change and its impacts on ecosystems and societies",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.535120369967452
+    },
+    {
+      "name": "North Sea",
+      "label": "location",
+      "description": "A sea located off the northern coast of Europe, connected to the Baltic Sea and influencing its water exchange and salinity",
+      "uuid": "4401ec0e-0d64-41d3-b4bd-2ff797865e83",
+      "score": 0.7260790640383288
+    },
+    {
+      "name": "fertilizers",
+      "label": "variable",
+      "description": "Substances added to soil to promote plant growth, which can contribute to eutrophication when excess nutrients enter water bodies",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.6210484605545922
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, an important factor influencing the Baltic Sea ecosystem and its susceptibility to eutrophication",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6287623397511083
+    },
+    {
+      "name": "water temperatures",
+      "label": "variable",
+      "description": "The temperature of water in the Baltic Sea, influencing the growth and distribution of phytoplankton, including cyanobacteria",
+      "uuid": "46206e8c-8def-406f-9e62-da4e74633a58",
+      "score": 0.5287314780215376
+    },
+    {
+      "name": "hypoxic and anoxic conditions",
+      "label": "natural hazard",
+      "description": "States of low or no oxygen in the water, which can lead to mass mortality of aquatic organisms and alter biogeochemical fluxes",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.7070060030872484
+    },
+    {
+      "name": "biogeochemical fluxes",
+      "label": "variable",
+      "description": "The movement of nutrients and elements through the ecosystem, influenced by factors such as eutrophication, climate change, and nutrient inputs",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.6024335676797379
+    },
+    {
+      "name": "ecosystem structure",
+      "label": "variable",
+      "description": "The composition and organization of living organisms within an ecosystem, influenced by factors such as eutrophication, climate change, and nutrient inputs",
+      "uuid": "f42c849c-7113-4c69-a01e-52ebc5e7b44d",
+      "score": 0.5242932572059423
+    },
+    {
+      "name": "benthic communities",
+      "label": "variable",
+      "description": "Communities of organisms living on or near the seafloor, which can be affected by hypoxic and anoxic conditions",
+      "uuid": "09a78997-581b-4d1b-ae71-b2b3f96ef719",
+      "score": 0.586576686032046
+    }
+  ],
+  "(2473, 5147)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish sea located in Northern Europe, bounded by the Scandinavian Peninsula, the Baltic states, and Central and Eastern Europe",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7463768203661141
+    },
+    {
+      "name": "marine ecosystem",
+      "label": "platform",
+      "description": "A community of living and non-living components that interact in a specific environment, such as the ocean or a sea",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6551373247997707
+    },
+    {
+      "name": "low oxygen concentrations",
+      "label": "variable",
+      "description": "A condition where the amount of dissolved oxygen in the water is lower than normal, potentially harming aquatic life",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.6107955970702188
+    },
+    {
+      "name": "Baltic Sea ecosystem",
+      "label": "platform",
+      "description": "The complex network of relationships between living organisms and their environment in the Baltic Sea",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5128499250303117
+    },
+    {
+      "name": "sediment",
+      "label": "location",
+      "description": "Material that settles to the bottom of a body of water, such as sand, silt, or clay",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6072954611436636
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A chemical element essential for the survival of most living organisms, particularly in aquatic ecosystems",
+      "uuid": "90aa8838-79bd-4b28-b518-8217e863c385",
+      "score": 0.6081266777171077
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7402139755674466
+    },
+    {
+      "name": "benthic communities",
+      "label": "platform",
+      "description": "Organisms that live on, in, or near the seabed, such as corals, shellfish, or fish",
+      "uuid": "09a78997-581b-4d1b-ae71-b2b3f96ef719",
+      "score": 0.6126125890916873
+    },
+    {
+      "name": "biogeochemical fluxes",
+      "label": "variable",
+      "description": "The movement of chemicals and nutrients through ecosystems, influenced by biological, geological, and chemical processes",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.6434282910779189
+    },
+    {
+      "name": "self-eutrophication process",
+      "label": "natural hazard",
+      "description": "A process where excess nutrients in an ecosystem stimulate the growth of algae, leading to decreased oxygen levels and potentially harming aquatic life",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.6094274431706657
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, affecting many biological and chemical processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5990450701814597
+    },
+    {
+      "name": "cyanobacteria blooms",
+      "label": "weather event",
+      "description": "The rapid growth of cyanobacteria, which can produce toxins and deplete oxygen in aquatic ecosystems",
+      "uuid": "166de4c9-89ad-4248-b771-512beb1705cf",
+      "score": 0.5434621922374069
+    },
+    {
+      "name": "multi-model ensemble simulation",
+      "label": "experiment",
+      "description": "A method of combining the results of multiple climate models to estimate future climate conditions and reduce uncertainty",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5107788171829508
+    },
+    {
+      "name": "IPCC scenario",
+      "label": "experiment",
+      "description": "A set of assumptions about future greenhouse gas emissions and socio-economic development, used to project potential climate changes",
+      "uuid": "88dc22d3-1fb6-471a-94de-56acb94f0f58",
+      "score": 0.5084791738133333
+    },
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "A global climate model developed by the Max Planck Institute for Meteorology, used to simulate the Earth's climate system",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5727292111355765
+    },
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "A global climate model developed by the Met Office Hadley Centre, used to simulate the Earth's climate system",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7476108239367624
+    },
+    {
+      "name": "CLM",
+      "label": "model",
+      "description": "A regional climate model developed by the CLM Community, used to downscale global climate projections to regional scales",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6064809642031007
+    }
+  ],
+  "(4804, 7543)": [
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "A climate model developed by the UK Met Office, used for simulating and predicting climate patterns",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7663834205840924
+    },
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating and predicting climate patterns",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5759706027677773
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by nine countries and characterized by a unique ecosystem",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7628628979253821
+    },
+    {
+      "name": "CLM",
+      "label": "model",
+      "description": "The Climate Limited-area Modelling Community model, a regional climate model used for downscaling global climate simulations",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6066560285132617
+    },
+    {
+      "name": "Ecological ReGional Ocean Model",
+      "label": "model",
+      "description": "A 3D ocean model used for simulating the ecosystem of the Baltic Sea",
+      "uuid": "c61a56a3-c08f-4989-92f3-0f0787688424",
+      "score": 0.5013851214061258
+    },
+    {
+      "name": "atmospheric model",
+      "label": "model",
+      "description": "A computational representation of atmospheric processes used to simulate and predict weather and climate patterns",
+      "uuid": "063177a9-14cd-4750-9aa4-ad5d266bd7ad",
+      "score": 0.5398639533006505
+    },
+    {
+      "name": "coupled atmosphere ocean model",
+      "label": "model",
+      "description": "A climate model that integrates atmospheric and oceanic processes to simulate and predict climate patterns",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6708690640172329
+    },
+    {
+      "name": "biogeochemical models",
+      "label": "model",
+      "description": "A type of model used to simulate the interactions between biological, chemical, and geological processes in an ecosystem",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.6016788725905728
+    },
+    {
+      "name": "biogeochemical processes",
+      "label": "variable",
+      "description": "The interactions between biological, chemical, and geological processes in an ecosystem, such as the cycling of nutrients and the production of organic matter",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.7427408021464728
+    },
+    {
+      "name": "biogeochemical formulations",
+      "label": "variable",
+      "description": "The mathematical representations of biogeochemical processes in a model, used to simulate the interactions between biological, chemical, and geological processes in an ecosystem",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.6114197206919703
+    },
+    {
+      "name": "meteorological forcing",
+      "label": "variable",
+      "description": "The use of meteorological data, such as temperature and precipitation, to drive a model simulation",
+      "uuid": "862e790e-d42f-433a-8561-107562aceb64",
+      "score": 0.5319586890934492
+    },
+    {
+      "name": "sea surface",
+      "label": "location",
+      "description": "The surface of the ocean, where the atmosphere and ocean meet and interact",
+      "uuid": "5810d615-a3fc-4f79-947a-bae456b728c2",
+      "score": 0.7120196336297955
+    },
+    {
+      "name": "sediment transport",
+      "label": "variable",
+      "description": "The movement of sediment particles, such as sand and silt, through the water column and onto the seafloor",
+      "uuid": "5e101ced-5d9f-4733-8768-38db92d83660",
+      "score": 0.7006903929365932
+    },
+    {
+      "name": "dead organic matter",
+      "label": "variable",
+      "description": "Organic matter that has died and is being decomposed, releasing nutrients back into the ecosystem",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.6060570490912366
+    },
+    {
+      "name": "dissolved inorganic nutrients",
+      "label": "variable",
+      "description": "Nutrients, such as nitrogen and phosphorus, that are dissolved in the water and available for use by organisms",
+      "uuid": "dc748b93-e7d6-419d-a9f0-f370556d6f8e",
+      "score": 0.5251522313431305
+    },
+    {
+      "name": "dissolved nutrients",
+      "label": "variable",
+      "description": "Nutrients, such as nitrogen and phosphorus, that are dissolved in the water and available for use by organisms",
+      "uuid": "dc748b93-e7d6-419d-a9f0-f370556d6f8e",
+      "score": 0.5421916362679523
+    },
+    {
+      "name": "bulk zooplankton",
+      "label": "variable",
+      "description": "A group of small animals, such as crustaceans and fish larvae, that feed on phytoplankton and other small organisms",
+      "uuid": "0399b52c-e3de-4dcc-9eb6-b1e3acf2cf1b",
+      "score": 0.5792777257959203
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "A group of microscopic plants, such as algae and cyanobacteria, that produce organic matter through photosynthesis",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6682872564475641
+    },
+    {
+      "name": "cyanobacteria",
+      "label": "variable",
+      "description": "A type of phytoplankton that produces organic matter through photosynthesis and can form harmful algal blooms",
+      "uuid": "166de4c9-89ad-4248-b771-512beb1705cf",
+      "score": 0.6276558815582693
+    },
+    {
+      "name": "nitrogen",
+      "label": "variable",
+      "description": "A nutrient essential for the growth of plants and animals, often limiting in aquatic ecosystems",
+      "uuid": "ed7c506e-b18e-4a93-ac03-4bdfe119b72f",
+      "score": 0.6744887783138954
+    },
+    {
+      "name": "phosphorus",
+      "label": "variable",
+      "description": "A nutrient essential for the growth of plants and animals, often limiting in aquatic ecosystems",
+      "uuid": "47f4e7ac-b4ca-4ef9-824b-a36ea5510526",
+      "score": 0.664263989910831
+    }
+  ],
+  "(7031, 10094)": [
+    {
+      "name": "biogeochemical models",
+      "label": "model",
+      "description": "Computational representations of the interactions between biological, chemical, and physical processes in the environment, used to simulate and predict ecosystem dynamics",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.6342566893882344
+    },
+    {
+      "name": "Baltic Sea region",
+      "label": "location",
+      "description": "A region surrounding the Baltic Sea, including countries and ecosystems influenced by the sea's environmental and climatic conditions",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.6292067061868284
+    },
+    {
+      "name": "sediment transport",
+      "label": "process",
+      "description": "The movement of sediment particles through water or air, influenced by factors such as currents, waves, and wind",
+      "uuid": "0c33b48d-1dd1-4309-bcd4-1ce3d0e24b46",
+      "score": 0.735874155072324
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish sea located in Northern Europe, bordered by several countries and characterized by unique environmental conditions",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7747729055649841
+    },
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "A coupled atmosphere-ocean climate model developed by the Met Office Hadley Centre, used for simulating and predicting climate change",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7982884122799282
+    },
+    {
+      "name": "ensemble mean",
+      "label": "variable",
+      "description": "A statistical measure representing the average value of a set of model simulations, used to quantify the central tendency of the ensemble",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5131970773000806
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important property influencing ocean circulation and ecosystem dynamics",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7339429139439417
+    },
+    {
+      "name": "multi-model ensemble",
+      "label": "project",
+      "description": "A collection of multiple climate models, used to quantify uncertainty and improve the accuracy of climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5797093356598716
+    },
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "A global climate model developed by the Max Planck Institute for Meteorology, used for simulating and predicting climate change",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5857200487358988
+    },
+    {
+      "name": "CLM",
+      "label": "model",
+      "description": "A regional climate model, used for simulating and predicting climate change at the regional scale",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.5853530930290091
+    }
+  ],
+  "(9577, 12434)": [
+    {
+      "name": "Sea Surface Temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the surface of the ocean, often used in climate and environmental studies",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7985273753013526
+    },
+    {
+      "name": "Baltic Sea ecosystem",
+      "label": "project",
+      "description": "A complex system of living organisms, including plants, animals, and microorganisms, interacting with each other and their environment in the Baltic Sea region",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5169873858440759
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and characterized by unique oceanographic and ecological features",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7811491446071749
+    },
+    {
+      "name": "anoxic conditions",
+      "label": "natural hazard",
+      "description": "A condition in which there is no oxygen in the water, potentially harmful to aquatic life",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.5868433072098757
+    },
+    {
+      "name": "observed mean sea surface temperature",
+      "label": "variable",
+      "description": "The average temperature of the surface of the ocean as measured by observations, used as a reference for climate model evaluations",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6739055328267297
+    },
+    {
+      "name": "hypoxic conditions",
+      "label": "natural hazard",
+      "description": "A condition in which the oxygen concentration in the water is below a certain threshold, potentially harmful to aquatic life",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.7282140876218336
+    },
+    {
+      "name": "ensemble mean",
+      "label": "variable",
+      "description": "The average value of a set of climate model simulations, used to represent the overall behavior of the models",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5276759000353156
+    },
+    {
+      "name": "oxygen concentrations",
+      "label": "variable",
+      "description": "The amount of oxygen present in a given volume of water, an important factor in aquatic ecosystems",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.5509975487821868
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important property influencing ocean circulation and climate",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.727917400467263
+    },
+    {
+      "name": "meteorological forcing",
+      "label": "experiment",
+      "description": "The use of meteorological data, such as temperature, precipitation, and wind, to drive climate model simulations",
+      "uuid": "862e790e-d42f-433a-8561-107562aceb64",
+      "score": 0.5218263558421474
+    },
+    {
+      "name": "Baltic Sea models",
+      "label": "model",
+      "description": "Computational representations of the Baltic Sea system, used to simulate and predict its behavior under different climate scenarios",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5943797999406675
+    },
+    {
+      "name": "sea surface salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts at the surface of the ocean, an important factor in ocean circulation and climate",
+      "uuid": "1d8525f0-0cfc-4d59-8677-da5c8038deb7",
+      "score": 0.6968763547208875
+    },
+    {
+      "name": "ensemble means",
+      "label": "variable",
+      "description": "The average value of a set of climate model simulations, used to represent the overall behavior of the models",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.545571810028788
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A General Circulation Model, a type of climate model that simulates the large-scale circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7621600750152108
+    },
+    {
+      "name": "RCM",
+      "label": "model",
+      "description": "A Regional Climate Model, a type of climate model that simulates the climate at a regional scale, often used for downscaling global climate model output",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5194038104144365
+    }
+  ],
+  "(11900, 14894)": [
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A critical component of water quality, essential for aquatic life",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.634995014650553
+    },
+    {
+      "name": "hypoxic conditions",
+      "label": "weather event",
+      "description": "A condition in water where oxygen concentrations are below 2 mL L-1, potentially harming aquatic life",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.7237236492404016
+    },
+    {
+      "name": "anoxic conditions",
+      "label": "weather event",
+      "description": "A condition in water where there is no oxygen, leading to the death of most aquatic organisms",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.5675085710568133
+    },
+    {
+      "name": "Eastern Gotland Sea",
+      "label": "location",
+      "description": "A region of the Baltic Sea, characterized by deep waters and significant ecological importance",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5689470168502929
+    },
+    {
+      "name": "ensemble mean",
+      "label": "model",
+      "description": "A statistical method used to combine the results of multiple climate model simulations, providing a more robust estimate of future climate changes",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5255534502561271
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that reaches the Earth's surface, influencing climate and ecosystems",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6862675018062844
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which plants and algae convert sunlight into organic matter, forming the base of aquatic food webs",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.786483165211252
+    },
+    {
+      "name": "Cyanobacteria blooms",
+      "label": "weather event",
+      "description": "A rapid growth of Cyanobacteria, potentially producing harmful toxins and impacting aquatic ecosystems",
+      "uuid": "1b6e67ff-351f-490c-bb43-646ac71f52ea",
+      "score": 0.562160527199719
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "The upper layer of water in a body of water, playing a crucial role in aquatic ecosystems and climate regulation",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6639461359508643
+    }
+  ],
+  "(14357, 17321)": [
+    {
+      "name": "Baltic Sea ecosystem",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, characterized by unique physical and biological properties",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.6892540440539667
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "The upper layer of water in a body of water, such as an ocean, sea, or lake, where light can penetrate and support photosynthesis",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6415218644619133
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, characterized by unique physical and biological properties",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.762816713071335
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important property influencing ocean circulation and the distribution of organisms",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7207431511866883
+    },
+    {
+      "name": "central Baltic Sea",
+      "label": "location",
+      "description": "The middle region of the Baltic Sea, characterized by a mix of fresh and saltwater and unique biological properties",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5838580715527255
+    },
+    {
+      "name": "Satellite-based observations",
+      "label": "instrument",
+      "description": "The use of satellites to collect data and make observations about the Earth's surface and atmosphere",
+      "uuid": "17b1489c-fba7-4252-bf23-b981148343f1",
+      "score": 0.5872942369756313
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that is received by the Earth's surface, influencing climate and weather patterns",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6772805168230602
+    },
+    {
+      "name": "multi-model ensemble",
+      "label": "model",
+      "description": "A set of climate models used together to make predictions and analyze climate change scenarios",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5653766093507658
+    },
+    {
+      "name": "surface salinity trend",
+      "label": "variable",
+      "description": "A pattern or direction of change in the concentration of dissolved salts in the surface water of the Baltic Sea over time",
+      "uuid": "1d8525f0-0cfc-4d59-8677-da5c8038deb7",
+      "score": 0.5499640170063217
+    },
+    {
+      "name": "cyanobacteria blooms",
+      "label": "weather event",
+      "description": "A type of harmful algal bloom that can produce toxins and negatively impact the environment and human health",
+      "uuid": "1b6e67ff-351f-490c-bb43-646ac71f52ea",
+      "score": 0.5914529605060553
+    },
+    {
+      "name": "Eastern Gotland Sea",
+      "label": "location",
+      "description": "A sea located in the Baltic Sea, characterized by unique physical and biological properties",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5613210641342083
+    }
+  ],
+  "(16856, 19679)": [
+    {
+      "name": "cyanobacteria",
+      "label": "variable",
+      "description": "A type of bacteria that can form blooms in aquatic environments, often influenced by factors such as temperature and nutrient availability",
+      "uuid": "166de4c9-89ad-4248-b771-512beb1705cf",
+      "score": 0.6380162534238228
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, a measure of the temperature of the ocean's surface, which can impact various marine processes and phenomena",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7027330112382717
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, known for its complex ecosystem and sensitivity to environmental changes",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7552360181793337
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A vital component of aquatic ecosystems, essential for the survival of most aquatic organisms",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.5711571749086245
+    },
+    {
+      "name": "hypoxic conditions",
+      "label": "natural hazard",
+      "description": "A state of low oxygen levels in aquatic environments, which can have detrimental effects on aquatic life",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.7587944762719242
+    },
+    {
+      "name": "anoxic conditions",
+      "label": "natural hazard",
+      "description": "A state of extremely low or absent oxygen levels in aquatic environments, which can lead to the death of most aquatic organisms",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.6145863265273203
+    },
+    {
+      "name": "phosphate",
+      "label": "variable",
+      "description": "A nutrient that plays a crucial role in the growth and development of aquatic organisms, particularly cyanobacteria",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.6519703012569585
+    },
+    {
+      "name": "sediments",
+      "label": "location",
+      "description": "The bottom layer of a body of water, where particles and nutrients can accumulate and influence aquatic ecosystems",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.5856660426811281
+    },
+    {
+      "name": "central Baltic Sea",
+      "label": "location",
+      "description": "A region within the Baltic Sea, characterized by its unique ecosystem and environmental conditions",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.6024532541323921
+    },
+    {
+      "name": "nitrogen fixation",
+      "label": "variable",
+      "description": "The process by which certain microorganisms convert atmospheric nitrogen into a form that can be used by other organisms, often influenced by factors such as temperature and nutrient availability",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5982775581886046
+    },
+    {
+      "name": "tourism",
+      "label": "variable",
+      "description": "An economic activity that can be impacted by environmental changes, such as those affecting the Baltic Sea",
+      "uuid": "82fdb39c-4fe8-4e2b-9dcf-67ceb4c6d8b9",
+      "score": 0.5508941006913967
+    },
+    {
+      "name": "pelagic system",
+      "label": "location",
+      "description": "The open water environment of a body of water, where aquatic organisms and processes interact",
+      "uuid": "3d7ecc4f-e79e-40d1-8796-63059888bf5f",
+      "score": 0.6502840079970655
+    },
+    {
+      "name": "ensemble mean",
+      "label": "model",
+      "description": "A statistical measure representing the average output of multiple climate model simulations",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5041652198237533
+    }
+  ],
+  "(19222, 21935)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its unique ecosystem",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7715708980536183
+    },
+    {
+      "name": "hypoxic conditions",
+      "label": "natural hazard",
+      "description": "A state of low oxygen levels in the water, often caused by eutrophication and leading to negative impacts on aquatic life",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.763329684931442
+    },
+    {
+      "name": "ECHAM-CLM",
+      "label": "model",
+      "description": "A climate model that combines the ECHAM atmospheric model with the CLM land surface model, used for simulating climate and environmental processes",
+      "uuid": "286de7c6-deed-443f-a3e0-b67ad7fba9eb",
+      "score": 0.5571644727003973
+    },
+    {
+      "name": "HadCM3-RCAO",
+      "label": "model",
+      "description": "A climate model that combines the HadCM3 atmospheric model with the RCAO regional climate model, used for simulating climate and environmental processes in Europe",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.5712646880186817
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important property influencing ocean circulation and ecosystem health",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.734150919556892
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, important for understanding climate and environmental processes",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6425546005918283
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, influencing climate, hydrology, and ecosystems",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6714284687443344
+    },
+    {
+      "name": "ECOSUP-PORT",
+      "label": "project",
+      "description": "A research project focused on developing advanced modeling tools for scenarios of the Baltic Sea ecosystem to support decision making",
+      "uuid": "0841e73b-f93e-43f4-83fb-1bfe1ef387fa",
+      "score": 0.5115337436544268
+    },
+    {
+      "name": "Baltic Sea Research Institute",
+      "label": "provider",
+      "description": "A research institution dedicated to studying the Baltic Sea and its ecosystem, providing scientific knowledge for environmental management and policy making",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5262213840994011
+    }
+  ],
+  "(21519, 21935)": [
+    {
+      "name": "Baltic Sea Research Institute",
+      "label": "provider",
+      "description": "A research institution focused on studying the Baltic Sea and its ecosystem",
+      "uuid": "73e2239d-bac5-477c-ba70-c925ed878e07",
+      "score": 0.5246243264336931
+    },
+    {
+      "name": "coupled physical and biogeochemical modeling",
+      "label": "model",
+      "description": "A type of climate modeling that integrates physical and biogeochemical processes to simulate the Earth's climate system",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6443197195579564
+    }
+  ]
+}

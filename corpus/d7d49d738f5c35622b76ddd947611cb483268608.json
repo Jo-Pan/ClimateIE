@@ -1,0 +1,476 @@
+{
+  "(0, 3276)": [
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    }
+  ],
+  "(2803, 5927)": [
+    {
+      "name": "UV radiation",
+      "label": "variable",
+      "description": "A form of electromagnetic radiation from the sun that affects human skin and is a factor in skin pigmentation",
+      "uuid": "e6c260ca-4f1e-4ed9-92d8-b50d1927f88e",
+      "score": 0.6237096661041536
+    },
+    {
+      "name": "environmental variables",
+      "label": "variable",
+      "description": "Factors in the environment that can affect human populations, such as climate, diet, and pathogens",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5225531894195445
+    },
+    {
+      "name": "latitude",
+      "label": "variable",
+      "description": "A geographic coordinate that can affect climate and human adaptation",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.5813227256410477
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A climate variable that can affect human adaptation",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.556204612426229
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A climate variable that can affect human adaptation",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5436883777457278
+    },
+    {
+      "name": "virus",
+      "label": "variable",
+      "description": "A type of pathogen that can affect human populations",
+      "uuid": "85510ccc-5dc9-44ff-871e-775e856714f8",
+      "score": 0.5628975260949715
+    }
+  ],
+  "(5449, 8702)": [
+    {
+      "name": "natural selection",
+      "label": "model",
+      "description": "The process by which populations of living organisms adapt and evolve in response to environmental pressures",
+      "uuid": "80ae5fdc-c312-4fa1-bf7d-60346529976d",
+      "score": 0.6797043519164044
+    },
+    {
+      "name": "human populations",
+      "label": "provider",
+      "description": "Groups of people that share a common set of characteristics, such as geographic location or genetic ancestry",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5139792592297574
+    }
+  ],
+  "(8095, 11063)": [
+    {
+      "name": "natural selection",
+      "label": "variable",
+      "description": "A fundamental mechanism driving the evolution of populations, where individuals with favorable traits are more likely to survive and reproduce",
+      "uuid": "80ae5fdc-c312-4fa1-bf7d-60346529976d",
+      "score": 0.6715953072219965
+    }
+  ],
+  "(10556, 13719)": [
+    {
+      "name": "populations",
+      "label": "location",
+      "description": "Geographically distributed groups of people",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5750991811113471
+    },
+    {
+      "name": "environmental factors",
+      "label": "variable",
+      "description": "Factors describing local geographical features such as climate conditions, diet regimes, and pathogens load",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5773398097542553
+    },
+    {
+      "name": "genetic adaptation",
+      "label": "experiment",
+      "description": "The process by which populations become better suited to their local environments through genetic changes",
+      "uuid": "cf3d1728-7606-4561-a0dd-116b4dbec21f",
+      "score": 0.5158800585820357
+    }
+  ],
+  "(13176, 16439)": [
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Factors such as temperature and precipitation that are used to describe and study climate patterns and their impact on various phenomena",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.7049108578392566
+    },
+    {
+      "name": "annual temperature range",
+      "label": "variable",
+      "description": "The difference between the highest and lowest temperatures recorded in a year, used to study climate variability and its effects on ecosystems",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.5258520383562083
+    },
+    {
+      "name": "annual precipitation range",
+      "label": "variable",
+      "description": "The difference between the highest and lowest precipitation amounts recorded in a year, used to study climate variability and its effects on ecosystems",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.5063190581609679
+    },
+    {
+      "name": "environmental factors",
+      "label": "variable",
+      "description": "Factors such as climate, pathogens, and subsistence that can influence the distribution and adaptation of populations",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5145685020539076
+    },
+    {
+      "name": "pathogen",
+      "label": "variable",
+      "description": "A microorganism that can cause disease in humans or other organisms, and can influence population adaptation and genetic variation",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5939338359175563
+    }
+  ],
+  "(15892, 18853)": [
+    {
+      "name": "climate variable",
+      "label": "variable",
+      "description": "A characteristic or property of the climate that can be measured or observed, such as temperature or precipitation rate",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6565428430366245
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat in the environment, often used in climate and environmental studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6541596900345417
+    },
+    {
+      "name": "precipitation rate",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall or snowfall in a given area, often used in climate and environmental studies",
+      "uuid": "ac50c468-df2f-429c-8394-9d63efcc6f9d",
+      "score": 0.7259320212598179
+    }
+  ],
+  "(18375, 21389)": [
+    {
+      "name": "pathogens",
+      "label": "variable",
+      "description": "Organisms that cause disease in humans, influencing their adaptation and evolution",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5525141218971631
+    },
+    {
+      "name": "viruses",
+      "label": "variable",
+      "description": "A type of infectious agent that can cause disease in humans and other animals, influencing their adaptation and evolution",
+      "uuid": "85510ccc-5dc9-44ff-871e-775e856714f8",
+      "score": 0.614037572389784
+    }
+  ],
+  "(20934, 24028)": [
+    {
+      "name": "local adaptation",
+      "label": "experiment",
+      "description": "The process by which populations adapt to their local environment, often in response to specific selective pressures",
+      "uuid": "cf3d1728-7606-4561-a0dd-116b4dbec21f",
+      "score": 0.5135459534461227
+    },
+    {
+      "name": "natural selection",
+      "label": "experiment",
+      "description": "The process by which populations adapt and evolve over time in response to environmental pressures, leading to the survival and reproduction of individuals with favorable traits",
+      "uuid": "80ae5fdc-c312-4fa1-bf7d-60346529976d",
+      "score": 0.7066920394016335
+    }
+  ],
+  "(23522, 26463)": [
+    {
+      "name": "natural selection",
+      "label": "model",
+      "description": "A process by which populations of living organisms adapt and evolve in response to environmental pressures",
+      "uuid": "80ae5fdc-c312-4fa1-bf7d-60346529976d",
+      "score": 0.6813075637638922
+    },
+    {
+      "name": "environmental factors",
+      "label": "variable",
+      "description": "Factors such as climate, diet, and pathogen loads that can influence human genetic variation",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5144505324461903
+    }
+  ],
+  "(25997, 29115)": [
+    {
+      "name": "natural selection",
+      "label": "variable",
+      "description": "The process by which populations adapt to their environment through the survival and reproduction of individuals with favorable traits",
+      "uuid": "80ae5fdc-c312-4fa1-bf7d-60346529976d",
+      "score": 0.6775962035952339
+    },
+    {
+      "name": "genotyping platforms",
+      "label": "instrument",
+      "description": "Technologies used to determine the genetic variants present in an individual or population",
+      "uuid": "fc3d3100-2f18-4e78-af4f-ca1ab8fd96ba",
+      "score": 0.5580877803604206
+    },
+    {
+      "name": "pathogens",
+      "label": "variable",
+      "description": "Organisms that cause disease in other organisms",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5665072250653413
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to describe the climate of a region",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.645176585155592
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used to describe the climate of a region",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6692905769994651
+    },
+    {
+      "name": "annual ranges",
+      "label": "variable",
+      "description": "The range of values for a particular variable, such as temperature or precipitation, over the course of a year",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.5542697342333898
+    },
+    {
+      "name": "environmental factors",
+      "label": "variable",
+      "description": "The external conditions that influence the survival and reproduction of an organism or population, including climate, diet, and pathogens",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5210570246458558
+    }
+  ],
+  "(28601, 31786)": [
+    {
+      "name": "climate variable",
+      "label": "variable",
+      "description": "A characteristic of climate that can be measured or observed, such as temperature, precipitation, or humidity",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6501818630178658
+    },
+    {
+      "name": "environmental factor",
+      "label": "variable",
+      "description": "A factor or characteristic of the environment that can influence the fitness or adaptation of a population, such as pathogen load, diet, or climate conditions",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5246790808446539
+    },
+    {
+      "name": "natural selection",
+      "label": "experiment",
+      "description": "The process by which populations adapt and evolve in response to environmental pressures, leading to the survival and reproduction of individuals with favorable traits",
+      "uuid": "80ae5fdc-c312-4fa1-bf7d-60346529976d",
+      "score": 0.7071920190211864
+    },
+    {
+      "name": "human genome",
+      "label": "platform",
+      "description": "The complete set of genetic information encoded in an individual's DNA, which can be influenced by environmental factors and selection pressures",
+      "uuid": "1eb01003-dc1c-4743-be8b-22aaefd23a2c",
+      "score": 0.5919217787088559
+    },
+    {
+      "name": "populations",
+      "label": "location",
+      "description": "Groups of individuals that share a common set of characteristics or environmental conditions, which can influence their adaptation and fitness",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5259617230156883
+    }
+  ],
+  "(33742, 36781)": [
+    {
+      "name": "malnutrition",
+      "label": "condition",
+      "description": "A state of nutrition in which a person is not getting enough nutrients, which can weaken the immune system",
+      "uuid": "1d1f1722-27ea-4021-922f-68b90c09bfa1",
+      "score": 0.6228844259674232
+    },
+    {
+      "name": "natural selection",
+      "label": "process",
+      "description": "A fundamental mechanism of evolution that drives the adaptation of organisms to their environment",
+      "uuid": "80ae5fdc-c312-4fa1-bf7d-60346529976d",
+      "score": 0.676277227749238
+    },
+    {
+      "name": "WHO",
+      "label": "organization",
+      "description": "The World Health Organization, a specialized agency of the United Nations that is responsible for international public health",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6749866882131913
+    }
+  ],
+  "(36193, 39472)": [
+    {
+      "name": "human population",
+      "label": "population",
+      "description": "The total number of humans living in a particular region or area",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6294174228346293
+    },
+    {
+      "name": "pathogen variables",
+      "label": "variable",
+      "description": "Factors related to the presence, abundance, or characteristics of pathogens, such as bacteria, viruses, or other microorganisms",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5071146343730165
+    },
+    {
+      "name": "natural selection",
+      "label": "process",
+      "description": "The process by which populations of living organisms adapt and evolve over time in response to environmental pressures and genetic variation",
+      "uuid": "80ae5fdc-c312-4fa1-bf7d-60346529976d",
+      "score": 0.687157662122688
+    },
+    {
+      "name": "environmental factors",
+      "label": "variable",
+      "description": "External influences that can affect the development, growth, and survival of living organisms, such as temperature, humidity, and light",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5281719092290664
+    }
+  ],
+  "(38929, 42024)": [
+    {
+      "name": "pathogen",
+      "label": "natural hazard",
+      "description": "A microorganism that can cause disease in humans, animals, or plants",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.6113572197729683
+    },
+    {
+      "name": "genetic adaptation",
+      "label": "experiment",
+      "description": "The process by which organisms become better suited to their environment through genetic changes",
+      "uuid": "cf3d1728-7606-4561-a0dd-116b4dbec21f",
+      "score": 0.5286579278856617
+    },
+    {
+      "name": "Human populations",
+      "label": "location",
+      "description": "Groups of people living in specific geographic areas, often with distinct genetic and cultural characteristics",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5231145052945299
+    },
+    {
+      "name": "country",
+      "label": "location",
+      "description": "A geopolitical entity with defined borders, often used as a unit of analysis for epidemiological and demographic studies",
+      "uuid": "245c630a-8022-46ed-9a79-8f6cf99b0822",
+      "score": 0.535655065514098
+    }
+  ],
+  "(41564, 44552)": [
+    {
+      "name": "mean annual relative humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, averaged over a year, used to describe local climate conditions",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.5964583460776152
+    },
+    {
+      "name": "annual precipitation rate",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of precipitation that occurs over a year, used to describe local climate conditions",
+      "uuid": "ac50c468-df2f-429c-8394-9d63efcc6f9d",
+      "score": 0.5906440657012869
+    },
+    {
+      "name": "NCEP/NCAR Reanalysis Project",
+      "label": "project",
+      "description": "A research project that provides comprehensive climate data through reanalysis of historical weather patterns",
+      "uuid": "42c653df-d2e4-44ce-b0b7-63d587768cb5",
+      "score": 0.5948404335629833
+    },
+    {
+      "name": "Genbank",
+      "label": "provider",
+      "description": "A large, publicly accessible database of DNA sequences, maintained by the National Center for Biotechnology Information",
+      "uuid": "5b8777e5-e960-4b1e-99b1-aa5ca309c319",
+      "score": 0.682446131932745
+    }
+  ],
+  "(44081, 46974)": [
+    {
+      "name": "NCEP/NCAR Reanalysis Project",
+      "label": "project",
+      "description": "A research project providing a comprehensive dataset of global atmospheric and oceanic reanalysis, useful for studying climate and weather patterns",
+      "uuid": "42c653df-d2e4-44ce-b0b7-63d587768cb5",
+      "score": 0.6268831474924159
+    },
+    {
+      "name": "annual precipitation rate",
+      "label": "variable",
+      "description": "The amount of rainfall or precipitation measured over a year, a key factor in determining climate and weather patterns",
+      "uuid": "ac50c468-df2f-429c-8394-9d63efcc6f9d",
+      "score": 0.594296925068375
+    },
+    {
+      "name": "environmental factors",
+      "label": "variable",
+      "description": "A broad category of factors that influence the environment and ecosystems, including climate, weather, and geographical features",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5601855240980868
+    }
+  ],
+  "(46629, 49404)": [
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "A group of individuals of the same species living in a particular geographic area",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6196528034787822
+    }
+  ],
+  "(48942, 52000)": [
+    {
+      "name": "UCSC Genome Browser database",
+      "label": "dataset",
+      "description": "A comprehensive database of genomic information, including gene annotations, expression data, and other functional genomics data",
+      "uuid": "0915135c-f440-473f-8ef8-4f8cb66fe9d9",
+      "score": 0.508922983931662
+    },
+    {
+      "name": "environmental variables",
+      "label": "variable",
+      "description": "The factors in the environment that influence population health and genetic adaptation, including pathogen diversity, subsistence strategies, and climate conditions",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5477585904459755
+    }
+  ],
+  "(56242, 57755)": [
+    {
+      "name": "GONOME",
+      "label": "model",
+      "description": "A computational model used to analyze genetic data and identify enriched pathways",
+      "uuid": "1eb01003-dc1c-4743-be8b-22aaefd23a2c",
+      "score": 0.5114185508925185
+    }
+  ]
+}

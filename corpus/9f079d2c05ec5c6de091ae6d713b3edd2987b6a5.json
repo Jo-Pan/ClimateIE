@@ -1,0 +1,630 @@
+{
+  "(0, 3486)": [
+    {
+      "name": "undernutrition",
+      "label": "natural hazard",
+      "description": "A condition resulting from inadequate nutrition, leading to health problems and increased mortality",
+      "uuid": "1d1f1722-27ea-4021-922f-68b90c09bfa1",
+      "score": 0.5630559419871362
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon of rising temperatures and altered weather patterns, affecting ecosystems, human health, and the economy",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5891648342846273
+    },
+    {
+      "name": "quality",
+      "label": "variable",
+      "description": "The characteristics of food that affect its nutritional value, safety, and appeal to consumers, influencing their choices and dietary outcomes",
+      "uuid": "3ec3b00e-52e1-4df9-99cd-c93120d97645",
+      "score": 0.6511039142813896
+    },
+    {
+      "name": "sustainability properties",
+      "label": "variable",
+      "description": "The environmental, social, and economic impacts of food production, processing, and consumption, considered in the context of sustainable diets",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.5363652923176722
+    }
+  ],
+  "(2837, 6366)": [
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "Gases released into the atmosphere that contribute to climate change, such as carbon dioxide, methane, and nitrous oxide",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5395088307733985
+    },
+    {
+      "name": "undernutrition",
+      "label": "natural hazard",
+      "description": "A condition characterized by a lack of essential nutrients, which can lead to health problems such as stunted growth, weakened immune systems, and increased risk of infections",
+      "uuid": "1d1f1722-27ea-4021-922f-68b90c09bfa1",
+      "score": 0.5750355134709986
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872681524345835
+    }
+  ],
+  "(5811, 8755)": [
+    {
+      "name": "CGIAR Agriculture for Nutrition and Health",
+      "label": "provider",
+      "description": "A global research partnership that aims to improve nutrition and health through sustainable agriculture",
+      "uuid": "f6f00cc1-192f-449b-ae9c-a6f8d839578a",
+      "score": 0.5226869609332212
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent that includes countries such as China, India, Nepal, and Myanmar, with diverse food environments",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.5850518101226118
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent that includes countries such as Kenya, Senegal, and Tanzania, with varying food environments",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.5460737070600493
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent that includes countries such as the United States and Canada, with distinct food environments",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6410036221190233
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in Asia with a large and diverse food environment",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5870357326372326
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in Asia with a complex and varied food environment",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5374635551437092
+    },
+    {
+      "name": "Nepal",
+      "label": "location",
+      "description": "A country in Asia with a unique food environment shaped by its geography and culture",
+      "uuid": "5a3c4d08-5924-4ea7-a59b-06cc653deba7",
+      "score": 0.6162692961090361
+    },
+    {
+      "name": "Myanmar",
+      "label": "location",
+      "description": "A country in Asia with a distinct food environment influenced by its history and traditions",
+      "uuid": "71953a36-817f-4b70-83df-f056364ce65d",
+      "score": 0.5928933808055841
+    },
+    {
+      "name": "Kenya",
+      "label": "location",
+      "description": "A country in Africa with a diverse food environment reflecting its cultural and economic context",
+      "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+      "score": 0.5933544637831668
+    },
+    {
+      "name": "Senegal",
+      "label": "location",
+      "description": "A country in Africa with a unique food environment shaped by its West African heritage",
+      "uuid": "80e7a4da-82a2-449e-87d3-603d857058c5",
+      "score": 0.6020658523113958
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country in Africa with a varied food environment influenced by its geography and cultural diversity",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.5826836293072278
+    }
+  ],
+  "(8214, 11361)": [
+    {
+      "name": "ecosystems",
+      "label": "natural system",
+      "description": "The complex networks of living organisms and their environments, influencing the food environment and food choices",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6365453860926263
+    },
+    {
+      "name": "sustainability",
+      "label": "concept",
+      "description": "The ability to maintain or support a process or system over time, applied to the food environment and food system",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6315911864380086
+    }
+  ],
+  "(10846, 13901)": [
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The environmental, social, and economic impact of food production, processing, and consumption, influencing food choices and systems",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.5761454828449906
+    },
+    {
+      "name": "ecosystems",
+      "label": "variable",
+      "description": "The natural environments and processes influencing food production, processing, and consumption",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5701729988624588
+    }
+  ],
+  "(13428, 16677)": [
+    {
+      "name": "quality",
+      "label": "variable",
+      "description": "External characteristics of food including its freshness, integrity, safety, nutrient and phytochemical profiles, objective sensory attributes",
+      "uuid": "3ec3b00e-52e1-4df9-99cd-c93120d97645",
+      "score": 0.6394761551079696
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The environmental and social impact associated with the food item",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6086572423563213
+    },
+    {
+      "name": "topography",
+      "label": "location",
+      "description": "The natural features of an area, including landforms, elevation, and water bodies",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6614754991348691
+    },
+    {
+      "name": "earth system",
+      "label": "location",
+      "description": "The complex system that includes the atmosphere, hydrosphere, lithosphere, and biosphere, which interact to shape the Earth's climate and environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5030003100115712
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5144120671860375
+    }
+  ],
+  "(16101, 19473)": [
+    {
+      "name": "food quality",
+      "label": "variable",
+      "description": "The characteristics of food that affect its nutritional value, safety, and appeal to consumers",
+      "uuid": "3ec3b00e-52e1-4df9-99cd-c93120d97645",
+      "score": 0.6680459378842077
+    },
+    {
+      "name": "sustainability properties",
+      "label": "variable",
+      "description": "The environmental, economic, socio-cultural, and human health impacts of food production, preparation, transport, retail, storage, processing, and waste",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.5309253631347213
+    },
+    {
+      "name": "consumers",
+      "label": "provider",
+      "description": "The individuals who purchase and consume food, making choices that impact their health and the environment",
+      "uuid": "d11d5e6d-fafb-4012-818c-8bfb984128f1",
+      "score": 0.5320023738721888
+    },
+    {
+      "name": "greenhouse gases",
+      "label": "variable",
+      "description": "The gases that contribute to climate change, such as carbon dioxide and methane",
+      "uuid": "0cf44d92-1959-41af-9890-b916008efbae",
+      "score": 0.5094144217246184
+    }
+  ],
+  "(18891, 22239)": [
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process without depleting natural resources, including ecological, economic, human health, and sociocultural dimensions",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.7023225505178126
+    },
+    {
+      "name": "ecological dimension",
+      "label": "variable",
+      "description": "A aspect of sustainability that focuses on the conservation of natural resources and the environment",
+      "uuid": "73266dd6-217a-432f-9237-176d3e94b39b",
+      "score": 0.5257243974747728
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases that contribute to climate change, such as carbon dioxide and methane",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.521729505966783
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different species of plants, animals, and microorganisms that live in an ecosystem",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5428281684149925
+    },
+    {
+      "name": "ecosystem services",
+      "label": "variable",
+      "description": "The benefits that humans derive from functioning ecosystems, including clean air and water, soil formation, and climate regulation",
+      "uuid": "233a4d81-44f8-4b0e-8ad3-695f641729f8",
+      "score": 0.5488130253030078
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The sources of water that are used for human consumption, agriculture, and other purposes",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6692267981434084
+    },
+    {
+      "name": "food packaging",
+      "label": "variable",
+      "description": "The materials and processes used to package and distribute food",
+      "uuid": "85d7c19a-6d05-446f-a490-382e7c199e09",
+      "score": 0.6445166627419527
+    }
+  ],
+  "(21700, 24998)": [
+    {
+      "name": "food packaging",
+      "label": "instrument",
+      "description": "Materials and containers used to protect, preserve, and transport food products, with varying environmental impacts",
+      "uuid": "85d7c19a-6d05-446f-a490-382e7c199e09",
+      "score": 0.6648759800076262
+    },
+    {
+      "name": "microwave",
+      "label": "instrument",
+      "description": "A kitchen appliance using electromagnetic radiation to heat and cook food, with potential environmental and health implications",
+      "uuid": "66700628-2b62-4466-999e-faeb15ca4da5",
+      "score": 0.5871397372883068
+    },
+    {
+      "name": "food storage",
+      "label": "variable",
+      "description": "The conditions and methods used to preserve and keep food fresh, influencing food safety and quality",
+      "uuid": "b3b14df8-5197-4a26-ae61-882fdba706f3",
+      "score": 0.6810077570704847
+    },
+    {
+      "name": "foodborne illness",
+      "label": "natural hazard",
+      "description": "Diseases or conditions caused by the consumption of contaminated or spoiled food, posing risks to human health",
+      "uuid": "007eeff3-1c96-4b54-aa35-2de5ebb9971a",
+      "score": 0.6720405324250807
+    },
+    {
+      "name": "pesticide use",
+      "label": "variable",
+      "description": "The application of chemical substances to control pests and diseases in agricultural production, with potential environmental and health impacts",
+      "uuid": "59a203f9-f818-42a6-8d00-4301385cafc3",
+      "score": 0.5770909987279139
+    },
+    {
+      "name": "micro-nutrients",
+      "label": "variable",
+      "description": "Essential nutrients required by the human body in small amounts, including vitamins and minerals",
+      "uuid": "ac061db6-21c7-46fc-b5a8-9f61c795fdd6",
+      "score": 0.5414352140322115
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances or compounds essential for human nutrition, growth, and development, often obtained through the consumption of food products",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.6412110712265966
+    }
+  ],
+  "(24424, 27786)": [
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process without depleting natural resources, including environmental, social, and economic aspects",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6926948700343523
+    },
+    {
+      "name": "nutrition",
+      "label": "variable",
+      "description": "The process of providing or obtaining the food necessary for health and growth",
+      "uuid": "ca551e61-4b8c-46d5-8590-80cada40ebbd",
+      "score": 0.5108545596037021
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability and accessibility of sufficient, safe, and nutritious food to meet the dietary needs of individuals",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.716991274847384
+    },
+    {
+      "name": "rural settings",
+      "label": "location",
+      "description": "Areas outside of urban centers, often characterized by limited access to resources and services",
+      "uuid": "d83b4271-048c-4763-9d5c-b5ec1b1788f4",
+      "score": 0.6490230265429703
+    },
+    {
+      "name": "agriculture",
+      "label": "project",
+      "description": "The practice of cultivating land, raising crops, and rearing livestock for food and other products",
+      "uuid": "8916dafb-5ad5-45c6-ab64-3500ea1e9577",
+      "score": 0.5190090578537093
+    }
+  ],
+  "(27269, 30636)": [
+    {
+      "name": "food supply",
+      "label": "variable",
+      "description": "The total amount of food available for human consumption, influenced by factors such as agricultural production, distribution, and access",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.5057325372146914
+    },
+    {
+      "name": "aquaculture",
+      "label": "platform",
+      "description": "The practice of cultivating aquatic plants and animals, such as fish and shellfish, for food",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.6964825756562328
+    }
+  ],
+  "(30074, 33501)": [
+    {
+      "name": "aquaculture",
+      "label": "instrument",
+      "description": "The practice of cultivating aquatic plants and animals for food, part of cultivated food environments",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.7015987153949507
+    },
+    {
+      "name": "environment assessments",
+      "label": "experiment",
+      "description": "The process of evaluating and understanding the natural and built environments in relation to food access and consumption",
+      "uuid": "079724fa-ff86-4195-aee0-51a4d6dd73bb",
+      "score": 0.5643072589518605
+    }
+  ],
+  "(38017, 41316)": [
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent in the Eastern Hemisphere, known for its diverse geography, climate, and cultures",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.5971833459046852
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent in the Eastern Hemisphere, known for its large population, diverse geography, and rich cultural heritage",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6972198967045872
+    },
+    {
+      "name": "Latin America",
+      "label": "location",
+      "description": "A region in the Western Hemisphere, comprising countries in Central and South America, known for its rich cultural diversity and complex geography",
+      "uuid": "e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3",
+      "score": 0.5842858019237511
+    }
+  ],
+  "(43561, 46982)": [
+    {
+      "name": "quality",
+      "label": "variable",
+      "description": "The nutritional value and safety of food in a given environment",
+      "uuid": "3ec3b00e-52e1-4df9-99cd-c93120d97645",
+      "score": 0.6529265064655654
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The environmental and social impact of food production, distribution, and consumption in a given environment",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.584651796866564
+    },
+    {
+      "name": "ecology",
+      "label": "model",
+      "description": "The study of the relationships between living organisms and their environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5088052473011156
+    },
+    {
+      "name": "environmental sciences",
+      "label": "model",
+      "description": "The study of the natural world and the impact of human activity on the environment",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.5518920889844705
+    }
+  ],
+  "(46442, 49336)": [
+    {
+      "name": "Accelerometers",
+      "label": "instrument",
+      "description": "A device used to measure acceleration, often employed in studies to assess physical activity, such as time and energy spent foraging and preparing foods",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.6283641682088467
+    },
+    {
+      "name": "toxins and bacteria",
+      "label": "variable",
+      "description": "Substances that can contaminate food and pose health risks",
+      "uuid": "e86ea427-f735-4998-af16-9bd619df4974",
+      "score": 0.55708613612243
+    }
+  ],
+  "(48817, 52133)": [
+    {
+      "name": "contaminants or residues present in food",
+      "label": "variable",
+      "description": "Substances that can be found in food and potentially harm human health>",
+      "uuid": "e86ea427-f735-4998-af16-9bd619df4974",
+      "score": 0.5076942567935809
+    },
+    {
+      "name": "packaging",
+      "label": "variable",
+      "description": "The materials and designs used to contain and protect food products>",
+      "uuid": "85d7c19a-6d05-446f-a490-382e7c199e09",
+      "score": 0.6322033652975778
+    }
+  ],
+  "(51545, 55193)": [
+    {
+      "name": "climate variability",
+      "label": "teleconnection",
+      "description": "Changes in climate patterns over time, influencing weather events and environmental conditions",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.5827649859949195
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "Long-term alterations in global climate patterns, resulting from human activities and natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5800200767004488
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process without depleting natural resources, considering environmental, social, and economic factors",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6947404566507188
+    }
+  ],
+  "(54597, 58018)": [
+    {
+      "name": "Sustainability Dimension",
+      "label": "project",
+      "description": "A research project focused on evaluating the sustainability of food environments based on various dimensions such as ecological, economic, human health, and socio-cultural aspects",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.5333096769060884
+    },
+    {
+      "name": "Biodiversity",
+      "label": "variable",
+      "description": "The variety of different species of plants, animals, and microorganisms that live in an ecosystem, important for maintaining ecosystem health and resilience",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5626753853736537
+    },
+    {
+      "name": "Ecosystem Services",
+      "label": "variable",
+      "description": "The benefits that humans derive from functioning ecosystems, including services such as pollination, pest control, and climate regulation",
+      "uuid": "233a4d81-44f8-4b0e-8ad3-695f641729f8",
+      "score": 0.5632564126111678
+    },
+    {
+      "name": "Sustainable Agriculture",
+      "label": "model",
+      "description": "Agricultural practices that prioritize environmental sustainability, social equity, and economic viability, such as organic farming and permaculture",
+      "uuid": "73266dd6-217a-432f-9237-176d3e94b39b",
+      "score": 0.5071952202144231
+    },
+    {
+      "name": "Food Packaging",
+      "label": "variable",
+      "description": "The materials and practices used to package and store food, influencing food safety, quality, and waste generation",
+      "uuid": "85d7c19a-6d05-446f-a490-382e7c199e09",
+      "score": 0.6501222220509326
+    },
+    {
+      "name": "Food Storage and Preparation",
+      "label": "variable",
+      "description": "The practices and technologies used to store and prepare food, influencing food safety, quality, and waste generation",
+      "uuid": "b3b14df8-5197-4a26-ae61-882fdba706f3",
+      "score": 0.6039822046381534
+    },
+    {
+      "name": "Human Health Dimension",
+      "label": "variable",
+      "description": "A measure of the health impacts of food systems, including factors such as food safety, nutrition, and disease prevention",
+      "uuid": "fb93d937-c17c-45d0-a9e3-ca5c8a800ca8",
+      "score": 0.508955006498842
+    }
+  ],
+  "(57493, 60501)": [
+    {
+      "name": "fruits",
+      "label": "variable",
+      "description": "A type of plant-based food that is nutrient-dense and often consumed for its nutritional value",
+      "uuid": "41b30b1b-5dbb-4ef8-849c-e1949ad04227",
+      "score": 0.5119976950657288
+    },
+    {
+      "name": "vegetables",
+      "label": "variable",
+      "description": "A type of plant-based food that is nutrient-dense and often consumed for its nutritional value",
+      "uuid": "eb1627c2-0061-466c-9935-399e53a06024",
+      "score": 0.5371792643049582
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The sources of water, such as rivers, lakes, and aquifers, that are used for various purposes, including irrigation, drinking water, and sanitation",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.687958252104632
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different plants, animals, and microorganisms that live in an ecosystem or on Earth as a whole",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.555104316194336
+    },
+    {
+      "name": "ecosystem services",
+      "label": "variable",
+      "description": "The benefits that people obtain from functioning ecosystems, including clean air and water, soil formation, and climate regulation",
+      "uuid": "233a4d81-44f8-4b0e-8ad3-695f641729f8",
+      "score": 0.5366496492512082
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, caused by human activities such as burning fossil fuels and deforestation, which can have severe impacts on ecosystems, economies, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5693176948948522
+    },
+    {
+      "name": "food packaging",
+      "label": "variable",
+      "description": "The materials and designs used to contain, protect, and transport food products",
+      "uuid": "85d7c19a-6d05-446f-a490-382e7c199e09",
+      "score": 0.653252874606951
+    },
+    {
+      "name": "recycling",
+      "label": "variable",
+      "description": "The process of collecting, sorting, and processing materials that would otherwise be thrown away as waste, in order to create new products or reduce waste",
+      "uuid": "b2f12641-19c8-4b26-9496-e79da5efcb85",
+      "score": 0.6685150730579235
+    }
+  ],
+  "(60050, 61423)": [
+    {
+      "name": "Montana State University",
+      "label": "provider",
+      "description": "An academic institution that conducts research and provides education in various fields, including food and health",
+      "uuid": "4ac25322-ea04-4c2d-845c-2732fd09662e",
+      "score": 0.5361574330059882
+    }
+  ]
+}

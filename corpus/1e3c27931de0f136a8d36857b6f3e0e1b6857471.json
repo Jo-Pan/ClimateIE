@@ -1,0 +1,470 @@
+{
+  "(0, 2958)": [
+    {
+      "name": "microplastics",
+      "label": "variable",
+      "description": "Small plastic particles that are less than 5 millimeters in size and can be found in the environment, including in water and soil",
+      "uuid": "4e0ac490-817b-4735-93a3-ab6775486023",
+      "score": 0.5352814195981368
+    },
+    {
+      "name": "aquatic environment",
+      "label": "location",
+      "description": "The environment in which water is the primary medium, including oceans, lakes, rivers, and wetlands",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.5853230416484196
+    },
+    {
+      "name": "aquatic ecotoxicology",
+      "label": "field",
+      "description": "The study of the toxic effects of substances on aquatic organisms and ecosystems",
+      "uuid": "dd539b52-6de1-4b1b-a60c-fa5782f4d64b",
+      "score": 0.6630905167607568
+    },
+    {
+      "name": "wastewater",
+      "label": "location",
+      "description": "Used water that is discharged from homes, businesses, and institutions, often containing pollutants and contaminants",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5545229889479966
+    },
+    {
+      "name": "urban runoff",
+      "label": "location",
+      "description": "Stormwater that flows over land and into waterways, often carrying pollutants and contaminants",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.5416396578461645
+    }
+  ],
+  "(2542, 5390)": [
+    {
+      "name": "MPs",
+      "label": "contaminant",
+      "description": "Microplastics, small plastic particles that can contaminate the environment and affect ecosystems",
+      "uuid": "4e0ac490-817b-4735-93a3-ab6775486023",
+      "score": 0.5136561364281271
+    },
+    {
+      "name": "HOCs",
+      "label": "contaminant",
+      "description": "Hydrophobic organic compounds, chemicals that can accumulate in the environment and have negative effects on organisms",
+      "uuid": "344cbd30-a2e4-437e-9fc9-5e6b1c484bac",
+      "score": 0.5062177153397309
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or basicity of a solution, which can affect the desorption of hydrophobic organic compounds from microplastics",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.6970290832869416
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of a solution, which can affect the desorption of hydrophobic organic compounds from microplastics",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.528997403087657
+    },
+    {
+      "name": "partition ratios",
+      "label": "variable",
+      "description": "The ratio of the concentration of a contaminant in microplastics to its concentration in the surrounding water, which can affect the transport of contaminants",
+      "uuid": "4e0ac490-817b-4735-93a3-ab6775486023",
+      "score": 0.5006420665856057
+    },
+    {
+      "name": "natural aquatic environments",
+      "label": "location",
+      "description": "Environments such as rivers, lakes, and oceans, where microplastics and contaminants can be found",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.5250403897269891
+    },
+    {
+      "name": "suspended organic matter",
+      "label": "contaminant",
+      "description": "Small particles of organic matter that can sorb contaminants and affect ecosystems",
+      "uuid": "e82c0632-5a3c-4da2-ba10-55c0fc222580",
+      "score": 0.5447966206792342
+    },
+    {
+      "name": "absorption",
+      "label": "process",
+      "description": "The process by which a substance is taken up by a sorbent, such as microplastics",
+      "uuid": "061f7fd0-67af-42bf-bc9f-5a007c146f65",
+      "score": 0.5979773539705695
+    }
+  ],
+  "(4967, 7545)": [
+    {
+      "name": "HOCs",
+      "label": "variable",
+      "description": "Hydrophobic organic contaminants, a class of chemical compounds that tend to repel water and are often found in environmental pollutants",
+      "uuid": "344cbd30-a2e4-437e-9fc9-5e6b1c484bac",
+      "score": 0.5150349253297464
+    },
+    {
+      "name": "PAHs",
+      "label": "variable",
+      "description": "Polycyclic aromatic hydrocarbons, a class of chemical compounds that are often found in environmental pollutants",
+      "uuid": "aef23021-81c1-4540-a0a5-35c590142a6d",
+      "score": 0.5204934688377093
+    },
+    {
+      "name": "polychlorinated biphenyls",
+      "label": "variable",
+      "description": "A class of chemical compounds that were widely used as insulators and coolants, but are now known to be toxic and environmentally hazardous",
+      "uuid": "cdab2cca-6767-427e-b464-09fe26ec59db",
+      "score": 0.5222803162825884
+    }
+  ],
+  "(9253, 11787)": [
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of dissolved salts in water, affecting the physical and chemical properties of aquatic environments",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6963151962622474
+    },
+    {
+      "name": "aquatic environment",
+      "label": "location",
+      "description": "Ecosystems that exist in water, including freshwater and marine environments, where microplastics can interact with various substances and organisms",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.5956202432970759
+    },
+    {
+      "name": "microplastics",
+      "label": "platform",
+      "description": "Small plastic particles that can be found in the environment, including in aquatic ecosystems, and can interact with and affect various substances and organisms",
+      "uuid": "4e0ac490-817b-4735-93a3-ab6775486023",
+      "score": 0.5515956534509389
+    },
+    {
+      "name": "HOCs",
+      "label": "variable",
+      "description": "Hydrophobic organic compounds, a type of chemical that can interact with microplastics and other substances in the environment",
+      "uuid": "344cbd30-a2e4-437e-9fc9-5e6b1c484bac",
+      "score": 0.5058108956906711
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A chemical element that can react with microplastics and affect their properties and interactions with other substances",
+      "uuid": "90aa8838-79bd-4b28-b518-8217e863c385",
+      "score": 0.520002570166408
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or basicity of a solution, which can affect the properties and interactions of microplastics and other substances in the environment",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.6900420272396784
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, which can affect the properties and interactions of microplastics and other substances in the environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.54941247235814
+    },
+    {
+      "name": "ionic strength",
+      "label": "variable",
+      "description": "A measure of the concentration of ions in a solution, which can affect the properties and interactions of microplastics and other substances in the environment",
+      "uuid": "4e0ac490-817b-4735-93a3-ab6775486023",
+      "score": 0.5026788151472933
+    }
+  ],
+  "(11377, 14050)": [
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or basicity of a solution, influencing various chemical and biological processes",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.7362201492723898
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, affecting chemical reactions and biological processes",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5859863002123793
+    },
+    {
+      "name": "HOCs",
+      "label": "variable",
+      "description": "Hydrophobic organic chemicals, a class of pollutants that can accumulate in the environment and living organisms",
+      "uuid": "344cbd30-a2e4-437e-9fc9-5e6b1c484bac",
+      "score": 0.5066369774323035
+    },
+    {
+      "name": "MPs",
+      "label": "variable",
+      "description": "Microplastics, small plastic particles that can interact with and affect the environment and living organisms",
+      "uuid": "4e0ac490-817b-4735-93a3-ab6775486023",
+      "score": 0.5080128974232829
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of dissolved salts in water, influencing various chemical and biological processes",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.701336476936541
+    },
+    {
+      "name": "freshwater environments",
+      "label": "location",
+      "description": "Aquatic ecosystems with low salinity, such as rivers, lakes, and wetlands",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.7028636317371046
+    },
+    {
+      "name": "marine environments",
+      "label": "location",
+      "description": "Aquatic ecosystems with high salinity, such as oceans and seas",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6054547849900587
+    },
+    {
+      "name": "aquatic organisms",
+      "label": "variable",
+      "description": "Living organisms that inhabit aquatic environments, such as fish, invertebrates, and microorganisms",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.5375703797886503
+    }
+  ],
+  "(13542, 16095)": [
+    {
+      "name": "HOCs",
+      "label": "variable",
+      "description": "Hydrophobic Organic Compounds, a class of chemicals with low water solubility and high affinity for organic matter",
+      "uuid": "344cbd30-a2e4-437e-9fc9-5e6b1c484bac",
+      "score": 0.514700102318649
+    },
+    {
+      "name": "PAHs",
+      "label": "variable",
+      "description": "Polycyclic Aromatic Hydrocarbons, a type of HOCs",
+      "uuid": "aef23021-81c1-4540-a0a5-35c590142a6d",
+      "score": 0.5244586986713128
+    },
+    {
+      "name": "natural environments",
+      "label": "location",
+      "description": "Ecosystems that exist in nature, such as oceans, rivers, and soil",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5740444995198533
+    },
+    {
+      "name": "dissolved organic carbon",
+      "label": "variable",
+      "description": "A type of organic matter that can dissolve in water and interact with HOCs",
+      "uuid": "b22b0369-cabf-44e8-85af-f084f8a6d5d8",
+      "score": 0.6270285453785459
+    },
+    {
+      "name": "black carbon",
+      "label": "variable",
+      "description": "A type of organic matter that can be found in natural environments and interact with HOCs",
+      "uuid": "9c0288cc-864d-40f7-93af-6df413b404f5",
+      "score": 0.6178775463034429
+    },
+    {
+      "name": "detritus",
+      "label": "variable",
+      "description": "Dead organic matter that can be found in natural environments and interact with HOCs",
+      "uuid": "f2ac0a8c-c68a-4000-ab74-94d40b0830f2",
+      "score": 0.5075846777393566
+    },
+    {
+      "name": "plankton",
+      "label": "provider",
+      "description": "A type of organism that can be found in natural environments and interact with HOCs",
+      "uuid": "a69dd814-e7c0-437f-ba2a-63500f68c9a3",
+      "score": 0.6495713000626956
+    },
+    {
+      "name": "diatoms",
+      "label": "provider",
+      "description": "A type of plankton that can be found in natural environments and interact with HOCs",
+      "uuid": "fdb04105-e8ba-4a83-9c35-ed3c931ccc9f",
+      "score": 0.6118083402010107
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "A large body of saltwater that covers a significant portion of the Earth's surface",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.7208903238692419
+    }
+  ],
+  "(15757, 18329)": [
+    {
+      "name": "HOCs",
+      "label": "variable",
+      "description": "Hydrophobic organic compounds, a class of pollutants that can accumulate in the environment and have adverse effects on organisms",
+      "uuid": "344cbd30-a2e4-437e-9fc9-5e6b1c484bac",
+      "score": 0.5109157880747236
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The world's oceans, which cover over 70% of the Earth's surface and play a critical role in the global climate system",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.6796466471982997
+    },
+    {
+      "name": "microplastics",
+      "label": "instrument",
+      "description": "Small plastic particles that are less than 5 millimeters in size, which can be found in the environment and have been shown to have negative impacts on ecosystems",
+      "uuid": "4e0ac490-817b-4735-93a3-ab6775486023",
+      "score": 0.540057662391583
+    },
+    {
+      "name": "MPs",
+      "label": "instrument",
+      "description": "Microplastics, small plastic particles that are less than 5 millimeters in size, which can be found in the environment and have been shown to have negative impacts on ecosystems",
+      "uuid": "4e0ac490-817b-4735-93a3-ab6775486023",
+      "score": 0.5101836764954005
+    },
+    {
+      "name": "North Pacific Gyre",
+      "label": "location",
+      "description": "A large system of circulating ocean currents in the North Pacific Ocean, known for its high concentration of microplastics and other marine debris",
+      "uuid": "fc0a6bb2-27f0-48e8-89f1-ebfc7ccd4823",
+      "score": 0.5405600219523116
+    },
+    {
+      "name": "coastal sediments",
+      "label": "location",
+      "description": "Sediments found in coastal areas, which can contain high levels of microplastics and other pollutants",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.5166853039501295
+    },
+    {
+      "name": "particulate matter",
+      "label": "variable",
+      "description": "Small particles that are suspended in the air or water, which can include microplastics, pollutants, and other substances",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.7471380018275295
+    }
+  ],
+  "(17921, 20781)": [
+    {
+      "name": "MPs",
+      "label": "variable",
+      "description": "Microplastics, small plastic particles that can be found in the environment and have been shown to interact with other substances",
+      "uuid": "4e0ac490-817b-4735-93a3-ab6775486023",
+      "score": 0.5182474354253053
+    },
+    {
+      "name": "laboratory",
+      "label": "location",
+      "description": "A controlled environment used for scientific research and experimentation",
+      "uuid": "3cbb9f17-ddb1-48d3-a507-786887e485af",
+      "score": 0.6936999497728226
+    },
+    {
+      "name": "water chemistry",
+      "label": "variable",
+      "description": "The study of the chemical composition and properties of water, which can affect the behavior of microplastics and other substances",
+      "uuid": "8c02f5d1-ce86-4bf5-84d5-b3496cdba6ad",
+      "score": 0.5636270946887026
+    },
+    {
+      "name": "laboratory testing",
+      "label": "experiment",
+      "description": "A research method that involves conducting controlled experiments in a laboratory setting",
+      "uuid": "3cbb9f17-ddb1-48d3-a507-786887e485af",
+      "score": 0.5036046515800602
+    }
+  ],
+  "(20277, 23231)": [
+    {
+      "name": "Microplastics",
+      "label": "project",
+      "description": "A study of the impact of microplastics on the environment and living organisms",
+      "uuid": "4e0ac490-817b-4735-93a3-ab6775486023",
+      "score": 0.5355056168583259
+    },
+    {
+      "name": "HOC",
+      "label": "variable",
+      "description": "Hydrophobic Organic Compounds, a class of chemicals that can accumulate in the environment and living organisms",
+      "uuid": "344cbd30-a2e4-437e-9fc9-5e6b1c484bac",
+      "score": 0.5050539896458155
+    },
+    {
+      "name": "nanotoxicology",
+      "label": "field",
+      "description": "A scientific field studying the toxicity of nanoparticles and their impact on living organisms and the environment",
+      "uuid": "dd539b52-6de1-4b1b-a60c-fa5782f4d64b",
+      "score": 0.5865977364695485
+    },
+    {
+      "name": "fluorescence microscopy",
+      "label": "instrument",
+      "description": "A technique used to visualize and study the properties of materials at the nanoscale",
+      "uuid": "35dc5fc4-4c96-44d9-8710-0e99e00201c8",
+      "score": 0.6608231271369863
+    },
+    {
+      "name": "electron microscopy",
+      "label": "instrument",
+      "description": "A technique used to visualize and study the properties of materials at the nanoscale",
+      "uuid": "e5ab49d5-5f99-43d6-85bd-8db629f7bc7b",
+      "score": 0.573954492059678
+    },
+    {
+      "name": "nanoscale secondary ion mass spectrometry",
+      "label": "instrument",
+      "description": "A technique used to analyze the composition and properties of materials at the nanoscale",
+      "uuid": "dc965068-fe7b-42bd-84cf-9b251b2397ea",
+      "score": 0.5002189183828568
+    },
+    {
+      "name": "water",
+      "label": "variable",
+      "description": "A natural substance that is essential for life and plays a crucial role in the environment",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.5186993894818712
+    },
+    {
+      "name": "natural particulate matter",
+      "label": "variable",
+      "description": "Small particles that occur naturally in the environment, such as dust, pollen, and soot",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.6182626840906694
+    }
+  ],
+  "(22828, 23231)": [
+    {
+      "name": "Microplastics",
+      "label": "variable",
+      "description": "A type of plastic debris that is less than 5 millimeters in size, often found in the environment and studied for its impact on ecosystems",
+      "uuid": "4e0ac490-817b-4735-93a3-ab6775486023",
+      "score": 0.5314845368366135
+    },
+    {
+      "name": "HOC",
+      "label": "variable",
+      "description": "Hydrophobic Organic Compounds, a class of chemicals that are persistent and bioaccumulative in the environment",
+      "uuid": "344cbd30-a2e4-437e-9fc9-5e6b1c484bac",
+      "score": 0.5039628865926277
+    },
+    {
+      "name": "Technical University of Denmark",
+      "label": "provider",
+      "description": "A Danish university that provides education and conducts research in various fields, including environmental science and engineering",
+      "uuid": "b98d9fe4-e822-447f-95db-e617e930b749",
+      "score": 0.5189129374352212
+    },
+    {
+      "name": "DTU-EPFL",
+      "label": "project",
+      "description": "A collaborative research project between the Technical University of Denmark and the \u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne, focusing on topics such as environmental science and sustainability",
+      "uuid": "b98d9fe4-e822-447f-95db-e617e930b749",
+      "score": 0.5081650239527878
+    }
+  ]
+}

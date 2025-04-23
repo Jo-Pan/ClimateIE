@@ -1,0 +1,637 @@
+{
+  "(0, 3294)": [
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The set of atmospheric conditions, including temperature, precipitation, and other factors, that influence the environment and species richness>",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.50988470126556
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including elevation, range, and coefficient of variation of elevation>",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6657482061273889
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant life and land cover of an area, including factors such as land cover diversity, standard deviation, and range of forest canopy height>",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6376839275666383
+    },
+    {
+      "name": "amphibians",
+      "label": "variable",
+      "description": "A group of cold-blooded animals, including frogs and toads, that are used as a model to study species richness and biodiversity>",
+      "uuid": "db49ac33-d70a-488c-a1f2-9aa3706ba707",
+      "score": 0.6087593842234165
+    },
+    {
+      "name": "bats",
+      "label": "variable",
+      "description": "A group of flying mammals that are used as a model to study species richness and biodiversity>",
+      "uuid": "9db9cb8c-7d18-4922-990c-b610d22356eb",
+      "score": 0.6678865048268355
+    },
+    {
+      "name": "birds",
+      "label": "variable",
+      "description": "A group of warm-blooded animals, including songbirds, waterfowl, and raptors, that are used as a model to study species richness and biodiversity>",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6599164605742641
+    }
+  ],
+  "(2826, 6105)": [
+    {
+      "name": "land cover classes",
+      "label": "variable",
+      "description": "A measure of the different types of land use or cover in a given area, such as forest, grassland, or urban>",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6533535065934926
+    },
+    {
+      "name": "land use classes",
+      "label": "variable",
+      "description": "A classification of land based on its use, such as agricultural, residential, or conservation>",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.690993952461337
+    },
+    {
+      "name": "land cover and vegetation structure",
+      "label": "biotic factor",
+      "description": "Gradients related to the characteristics of land cover and vegetation, such as density, height, and composition>",
+      "uuid": "a8d3f9a0-be0b-4690-86b9-ac64d951886a",
+      "score": 0.5641773459155076
+    },
+    {
+      "name": "topography",
+      "label": "abiotic factor",
+      "description": "The physical features of an area, including elevation, slope, and aspect>",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.639257299766447
+    },
+    {
+      "name": "amphibians",
+      "label": "variable",
+      "description": "A group of animals, such as frogs and toads, used as an example of species richness>",
+      "uuid": "db49ac33-d70a-488c-a1f2-9aa3706ba707",
+      "score": 0.5779069446708177
+    },
+    {
+      "name": "vegetation properties",
+      "label": "biotic factor",
+      "description": "Characteristics of vegetation, such as type, density, and distribution, that can affect species richness>",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5647879008392963
+    },
+    {
+      "name": "reptiles",
+      "label": "variable",
+      "description": "A group of animals, such as snakes and lizards, used as an example of species richness>",
+      "uuid": "5d3725b6-743b-4dda-bb54-b64f201ec4d1",
+      "score": 0.5609643160672005
+    },
+    {
+      "name": "birds",
+      "label": "variable",
+      "description": "A group of animals used as an example of species richness>",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.5339730086123654
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country used as a study area for species richness>",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.5600958172926485
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent used as a study area for species richness>",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6087702181103065
+    }
+  ],
+  "(5531, 8672)": [
+    {
+      "name": "topography",
+      "label": "location",
+      "description": "The study of the shape and features of the Earth's surface, including landforms, elevations, and depressions",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6764355594212134
+    },
+    {
+      "name": "amphibians",
+      "label": "variable",
+      "description": "A group of cold-blooded animals that belong to the class Amphibia, including frogs, toads, salamanders, and newts",
+      "uuid": "a27837ae-62f7-4931-9da1-0bf63f4755fc",
+      "score": 0.6432060320747223
+    },
+    {
+      "name": "mammals",
+      "label": "variable",
+      "description": "A group of warm-blooded animals that belong to the class Mammalia, including humans, monkeys, bears, and many others",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.6678043779344834
+    },
+    {
+      "name": "birds",
+      "label": "variable",
+      "description": "A group of warm-blooded animals that belong to the class Aves, including species such as eagles, robins, and sparrows",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6750144129564087
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average of atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5138046987650694
+    },
+    {
+      "name": "land use changes",
+      "label": "natural hazard",
+      "description": "Changes in the way land is used, such as deforestation, urbanization, or agriculture, which can impact the environment and ecosystems",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5726059706036578
+    }
+  ],
+  "(8188, 11040)": [
+    {
+      "name": "amphibians",
+      "label": "species",
+      "description": "A group of cold-blooded vertebrates, including frogs, toads, salamanders, and newts, used in this study as an example of low dispersal ability",
+      "uuid": "a27837ae-62f7-4931-9da1-0bf63f4755fc",
+      "score": 0.5591846819133701
+    },
+    {
+      "name": "mammals",
+      "label": "species",
+      "description": "A group of warm-blooded vertebrates, including volant and non-volant species, used in this study to compare dispersal abilities",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.6003308445939929
+    },
+    {
+      "name": "birds",
+      "label": "species",
+      "description": "A group of warm-blooded vertebrates, characterized by feathers and flight, used in this study as an example of high dispersal ability",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.5924976555767411
+    },
+    {
+      "name": "BirdLife International",
+      "label": "provider",
+      "description": "A global partnership of conservation organizations that aims to conserve birds and their habitats",
+      "uuid": "041edde4-f660-4f98-9b83-db888873c939",
+      "score": 0.649486223098585
+    },
+    {
+      "name": "International Union for Conservation of Nature",
+      "label": "provider",
+      "description": "A global authority on the conservation status of species and their habitats",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.6464403948364855
+    },
+    {
+      "name": "GLC-SHARE database",
+      "label": "dataset",
+      "description": "A global land cover database that provides information on land use and land cover at a resolution of 1 km^2",
+      "uuid": "756202fb-cdf7-4b34-8346-140464ec369d",
+      "score": 0.5160546586946627
+    },
+    {
+      "name": "land use classes",
+      "label": "variable",
+      "description": "Categories of land use, such as urban, agricultural, or natural areas, used to measure land cover diversity",
+      "uuid": "fe2f8240-4d8e-4b1f-b869-29fee59692f7",
+      "score": 0.7144056308981458
+    },
+    {
+      "name": "land cover diversity",
+      "label": "variable",
+      "description": "A measure of the heterogeneity of land use classes within a given region, used as a biotic factor in this study",
+      "uuid": "e4c1b7f5-e04e-4265-8ff4-6d4eeeae6a73",
+      "score": 0.505799719326931
+    },
+    {
+      "name": "ARCGIS 9.3",
+      "label": "software",
+      "description": "A geographic information system software, used for spatial analysis and mapping in this study",
+      "uuid": "67084eeb-2dca-4a4c-b5dd-0c37fc7b6c9a",
+      "score": 0.51396749150857
+    }
+  ],
+  "(10637, 13332)": [
+    {
+      "name": "GLC-SHARE",
+      "label": "database",
+      "description": "A global database providing information on land use and land cover at a high resolution",
+      "uuid": "756202fb-cdf7-4b34-8346-140464ec369d",
+      "score": 0.50207327967143
+    },
+    {
+      "name": "ARCGIS 9.3",
+      "label": "instrument",
+      "description": "A geographic information system software used for analyzing and visualizing geospatial data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.5377224836021538
+    },
+    {
+      "name": "3D Global Vegetation Map",
+      "label": "database",
+      "description": "A global database representing forest canopy height at a high resolution",
+      "uuid": "2eac47f3-9ea1-41d3-88ff-48cceeadf652",
+      "score": 0.5471952183846767
+    },
+    {
+      "name": "Worldclim database",
+      "label": "database",
+      "description": "A global climate database providing climate variables at a high resolution",
+      "uuid": "def20f70-39f3-4d20-9844-0389a5780f52",
+      "score": 0.5167545317891522
+    },
+    {
+      "name": "SRTM database",
+      "label": "database",
+      "description": "A global database providing topographic information, such as elevation and roughness, at a high resolution",
+      "uuid": "e8c70f5e-290f-4459-b906-3d2fe5539f7d",
+      "score": 0.6508595477434519
+    },
+    {
+      "name": "land cover diversity",
+      "label": "variable",
+      "description": "A measure of the variety of land use categories in a given area",
+      "uuid": "e4c1b7f5-e04e-4265-8ff4-6d4eeeae6a73",
+      "score": 0.5018392129493756
+    },
+    {
+      "name": "vegetation complexity",
+      "label": "variable",
+      "description": "A measure of the richness or diversity of plants, plant density, or vegetation height",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5331286138126463
+    },
+    {
+      "name": "annual mean temperature",
+      "label": "variable",
+      "description": "A measure of the average temperature in a given area over a year",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.5403071725374344
+    },
+    {
+      "name": "annual precipitation",
+      "label": "variable",
+      "description": "A measure of the total amount of precipitation in a given area over a year",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5322727753289843
+    },
+    {
+      "name": "mean elevation",
+      "label": "variable",
+      "description": "A measure of the average elevation in a given area",
+      "uuid": "ad92e251-3da7-4e3f-a45a-cd7651611eca",
+      "score": 0.5269356986522674
+    }
+  ],
+  "(12819, 15964)": [
+    {
+      "name": "environmental variables",
+      "label": "variable",
+      "description": "Quantities or characteristics that can be measured or observed in the environment, such as topographic, climatic, or biotic factors",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5331722764274147
+    },
+    {
+      "name": "topographic factors",
+      "label": "variable",
+      "description": "Characteristics of the Earth's surface, such as elevation, slope, and aspect, that can influence environmental processes",
+      "uuid": "05bef198-cfff-48be-b0cb-14e296d38dbc",
+      "score": 0.5217918175116723
+    }
+  ],
+  "(15462, 18387)": [
+    {
+      "name": "amphibians",
+      "label": "variable",
+      "description": "A group of vertebrate animals, including frogs and toads, used as a response variable in the analysis",
+      "uuid": "a27837ae-62f7-4931-9da1-0bf63f4755fc",
+      "score": 0.6038493048094514
+    },
+    {
+      "name": "mammals",
+      "label": "variable",
+      "description": "A group of vertebrate animals, including non-volant mammals and bats, used as a response variable in the analysis",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.611218716526181
+    },
+    {
+      "name": "birds",
+      "label": "variable",
+      "description": "A group of vertebrate animals used as a response variable in the analysis",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6124437256284445
+    },
+    {
+      "name": "topographic",
+      "label": "variable",
+      "description": "A set of environmental variables related to the physical features of the landscape",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.5406143891670406
+    }
+  ],
+  "(18011, 20256)": [
+    {
+      "name": "birds",
+      "label": "variable",
+      "description": "A group of warm-blooded vertebrates characterized by feathers, beaks, and light skeletons, often used as indicators of environmental health",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6906409544570239
+    },
+    {
+      "name": "mammals",
+      "label": "variable",
+      "description": "A group of warm-blooded vertebrates characterized by hair, mammary glands, and three middle ear bones, often used in ecological and conservation studies",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.7350916963119062
+    },
+    {
+      "name": "amphibians",
+      "label": "variable",
+      "description": "A group of cold-blooded vertebrates characterized by their ability to thrive both on land and in water, often used as indicators of environmental change",
+      "uuid": "a27837ae-62f7-4931-9da1-0bf63f4755fc",
+      "score": 0.6690739672337743
+    }
+  ],
+  "(19854, 22286)": [
+    {
+      "name": "amphibians",
+      "label": "variable",
+      "description": "A group of cold-blooded animals that belong to the phylum Chordata, often used as indicators of environmental health and climate change",
+      "uuid": "a27837ae-62f7-4931-9da1-0bf63f4755fc",
+      "score": 0.6354537333304562
+    },
+    {
+      "name": "mammals",
+      "label": "variable",
+      "description": "A group of warm-blooded animals that belong to the class Mammalia, often used to study the impact of climate and environmental factors on species richness and distribution",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.6590371836519126
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including landforms, elevation, and terrain, which can influence species distribution and climate patterns",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6275607694753227
+    },
+    {
+      "name": "vertebrate species",
+      "label": "variable",
+      "description": "A group of animals that belong to the subphylum Vertebrata, characterized by the presence of a backbone or spinal column, often used to study the impact of climate and environmental factors on species richness and distribution",
+      "uuid": "14802b53-b702-438f-8c8a-f51506807ce6",
+      "score": 0.5114681345477697
+    },
+    {
+      "name": "volant mammals",
+      "label": "variable",
+      "description": "A group of mammals that are capable of flight, such as bats, often used to study the impact of climate and environmental factors on species richness and distribution",
+      "uuid": "9db9cb8c-7d18-4922-990c-b610d22356eb",
+      "score": 0.5331519955348152
+    },
+    {
+      "name": "birds",
+      "label": "variable",
+      "description": "A group of warm-blooded animals that belong to the class Aves, often used to study the impact of climate and environmental factors on species richness and distribution",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6471370469039189
+    }
+  ],
+  "(21830, 24974)": [
+    {
+      "name": "amphibians",
+      "label": "variable",
+      "description": "A group of cold-blooded vertebrates, including frogs, toads, salamanders, and newts, used as an indicator of environmental health and biodiversity",
+      "uuid": "a27837ae-62f7-4931-9da1-0bf63f4755fc",
+      "score": 0.6389040078171498
+    },
+    {
+      "name": "mammals",
+      "label": "variable",
+      "description": "A group of warm-blooded vertebrates, including bats, non-volant mammals, and other species, used to study species richness and environmental factors",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.6681238938558904
+    },
+    {
+      "name": "birds",
+      "label": "variable",
+      "description": "A group of warm-blooded vertebrates, characterized by feathers, beaks, and light skeletons, used to study species richness and environmental factors",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6874801591893942
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including elevation, slope, and other factors that influence species richness",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6432846638640493
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant life in a particular region or community, used as an indicator of environmental health and biodiversity",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6422424323534475
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, including countries such as Brazil, Argentina, and Chile, used as a study area for species richness and environmental factors",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6739489717598219
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, including countries such as France, Germany, and the United Kingdom, used as a study area for species richness and environmental factors",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6634398914118121
+    }
+  ],
+  "(24410, 27622)": [
+    {
+      "name": "mammals",
+      "label": "variable",
+      "description": "A group of warm-blooded animals characterized by the presence of hair or fur, and the production of milk to feed their young",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.7130740146719295
+    },
+    {
+      "name": "amphibians",
+      "label": "variable",
+      "description": "A group of cold-blooded animals that belong to the phylum Chordata, characterized by their ability to live in both water and on land",
+      "uuid": "a27837ae-62f7-4931-9da1-0bf63f4755fc",
+      "score": 0.6597294708196255
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including landforms, elevations, and depressions",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6764355594212134
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5144120671860375
+    },
+    {
+      "name": "bats",
+      "label": "variable",
+      "description": "A group of flying mammals that belong to the order Chiroptera, characterized by their ability to navigate and hunt using echolocation",
+      "uuid": "9db9cb8c-7d18-4922-990c-b610d22356eb",
+      "score": 0.7496306855147526
+    },
+    {
+      "name": "birds",
+      "label": "variable",
+      "description": "A group of warm-blooded animals characterized by the presence of feathers, beaks, and light skeletons",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6807811974310602
+    },
+    {
+      "name": "Tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.760822653007152
+    },
+    {
+      "name": "temperate regions",
+      "label": "location",
+      "description": "The regions of the Earth between the Tropics and the polar circles, characterized by moderate temperatures and seasonal changes",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.5079225756808964
+    }
+  ],
+  "(27012, 30388)": [
+    {
+      "name": "atmospheric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere, influencing weather patterns and climate conditions",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.7062180207376364
+    },
+    {
+      "name": "annual potential transpiration-PET",
+      "label": "variable",
+      "description": "A measure of the amount of water that could be transpired by plants in a given area, often used to assess ambient energy",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6139020951386513
+    },
+    {
+      "name": "forest canopy complexity",
+      "label": "variable",
+      "description": "A measure of the structural complexity of forest canopies, influencing biodiversity and ecosystem processes",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.561282974011647
+    },
+    {
+      "name": "net primary productivity-NPP",
+      "label": "variable",
+      "description": "The rate at which plants produce new biomass, often used to assess ecosystem productivity",
+      "uuid": "9926f517-829e-4870-b18c-9f7cee875b85",
+      "score": 0.6952857328302495
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including elevation, slope, and aspect",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6711714734118832
+    },
+    {
+      "name": "amphibians",
+      "label": "variable",
+      "description": "A group of cold-blooded animals that belong to the class Amphibia, including frogs, toads, and salamanders",
+      "uuid": "a27837ae-62f7-4931-9da1-0bf63f4755fc",
+      "score": 0.6425489266757104
+    },
+    {
+      "name": "normalized difference vegetation index-NDVI",
+      "label": "variable",
+      "description": "A measure of vegetation health and productivity, calculated from satellite imagery",
+      "uuid": "2297a00a-80f5-466e-b28e-b9ca42562d3f",
+      "score": 0.7956051412083459
+    },
+    {
+      "name": "mammals",
+      "label": "variable",
+      "description": "A group of warm-blooded animals that belong to the class Mammalia, including humans, whales, and bats",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.669404602896964
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant life in a given area, including trees, grasses, and other types of plants",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6234696908437436
+    },
+    {
+      "name": "productivity",
+      "label": "variable",
+      "description": "The rate at which ecosystems produce new biomass, often used to assess ecosystem health and function",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.560117110904915
+    }
+  ],
+  "(29815, 32608)": [
+    {
+      "name": "forest canopy complexity",
+      "label": "variable",
+      "description": "A measure of the structural complexity of a forest's canopy, influencing factors such as light penetration and species diversity",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.5665635660639832
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant life in a particular region, playing a crucial role in the Earth's climate system and biodiversity",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6575647013976424
+    },
+    {
+      "name": "amphibians",
+      "label": "variable",
+      "description": "A group of cold-blooded animals, including frogs and toads, often used as indicators of environmental health",
+      "uuid": "a27837ae-62f7-4931-9da1-0bf63f4755fc",
+      "score": 0.6371286270746244
+    },
+    {
+      "name": "Neotropics",
+      "label": "location",
+      "description": "A biogeographic region that includes the tropical areas of the Americas, characterized by high levels of biodiversity and endemism",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5181592223275925
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5144120671860375
+    },
+    {
+      "name": "biodiversity patterns",
+      "label": "variable",
+      "description": "The distribution and abundance of different species in a given area, often influenced by factors such as climate, vegetation, and dispersal ability",
+      "uuid": "3b6fe940-7383-4bae-b436-fc487723bbcf",
+      "score": 0.501487594156676
+    }
+  ]
+}

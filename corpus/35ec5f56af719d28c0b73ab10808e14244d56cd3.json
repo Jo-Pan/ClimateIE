@@ -1,0 +1,780 @@
+{
+  "(0, 2894)": [
+    {
+      "name": "Himalaya",
+      "label": "location",
+      "description": "A major mountain range in Asia, known for its diverse geological and climatic features",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.7038777608442146
+    },
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellites used for monitoring land use, climate, and natural resources",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7129510631707635
+    },
+    {
+      "name": "ASTER",
+      "label": "instrument",
+      "description": "A high-resolution imaging instrument on board the Terra satellite, used for studying Earth's surface and climate",
+      "uuid": "c811bdaf-649f-4e23-b495-940d64e675f4",
+      "score": 0.7879848145501861
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5144120671860375
+    },
+    {
+      "name": "glacierised area",
+      "label": "location",
+      "description": "A region covered by glaciers, which can be affected by climate change and other environmental factors",
+      "uuid": "0d968650-2e0b-4927-8901-4326fe875657",
+      "score": 0.535966994045833
+    },
+    {
+      "name": "mass balance",
+      "label": "variable",
+      "description": "The difference between the amount of snow and ice accumulated on a glacier and the amount lost due to melting and other processes",
+      "uuid": "9f408faa-a427-44e9-a194-b1b9caff1e6d",
+      "score": 0.6650452043647154
+    },
+    {
+      "name": "ice velocities",
+      "label": "variable",
+      "description": "The speed at which ice moves in a glacier, which can be affected by various factors including climate change",
+      "uuid": "3896f032-388f-408e-b988-bf7e100704ba",
+      "score": 0.702132470323849
+    },
+    {
+      "name": "warming climate",
+      "label": "weather event",
+      "description": "A long-term increase in global temperatures, which can have significant impacts on glaciers and other environmental systems",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6418469078590697
+    }
+  ],
+  "(2430, 4980)": [
+    {
+      "name": "glacier basin areas",
+      "label": "location",
+      "description": "Regions of land where glaciers are formed and flow",
+      "uuid": "79c7fd4c-9328-4a6f-82ed-bb012b570ecd",
+      "score": 0.5178644980274434
+    },
+    {
+      "name": "ablation zone features",
+      "label": "variable",
+      "description": "Characteristics of the area where the glacier is losing mass, such as crevassing or changes in ice level",
+      "uuid": "2cbc1b3d-1093-4c9e-aa6c-3227d8c332dc",
+      "score": 0.627130473199482
+    },
+    {
+      "name": "ground-based observations",
+      "label": "variable",
+      "description": "Data collected from direct observations of glaciers, often used in conjunction with remote sensing data",
+      "uuid": "dbcead38-c78b-4306-b56f-0ea15c0b755b",
+      "score": 0.6222471221317679
+    }
+  ],
+  "(4586, 7180)": [
+    {
+      "name": "glacier area",
+      "label": "variable",
+      "description": "The total area covered by glaciers in a given region",
+      "uuid": "0d968650-2e0b-4927-8901-4326fe875657",
+      "score": 0.6895090781470157
+    },
+    {
+      "name": "ice cover",
+      "label": "variable",
+      "description": "The total area covered by ice in a given region",
+      "uuid": "0fcce7dc-496f-4078-96f0-2035a73563fb",
+      "score": 0.577593492969868
+    }
+  ],
+  "(6748, 9278)": [
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5144120671860375
+    }
+  ],
+  "(8974, 11342)": [
+    {
+      "name": "velocity",
+      "label": "variable",
+      "description": "A measure of the speed of glacier movement",
+      "uuid": "3896f032-388f-408e-b988-bf7e100704ba",
+      "score": 0.6240553782853242
+    }
+  ],
+  "(10917, 13398)": [
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A region in North America known for glacier surges",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.6206934094840992
+    },
+    {
+      "name": "Svalbard",
+      "label": "location",
+      "description": "An archipelago in the Arctic known for its glaciers",
+      "uuid": "706ae2c4-750c-4a96-a7af-5133c357ae5c",
+      "score": 0.630639535139088
+    },
+    {
+      "name": "glacier IDs",
+      "label": "variable",
+      "description": "Identifiers used to track and study individual glaciers",
+      "uuid": "4a426aab-4a95-4bf4-8449-19a72a251541",
+      "score": 0.509021267783927
+    },
+    {
+      "name": "ablation zones",
+      "label": "location",
+      "description": "Areas of glaciers where melting occurs",
+      "uuid": "a994a6f6-cfcd-45d2-95a4-0f8455a9454d",
+      "score": 0.6583151495006565
+    },
+    {
+      "name": "total glacier area",
+      "label": "variable",
+      "description": "The total area covered by glaciers in a region",
+      "uuid": "0d968650-2e0b-4927-8901-4326fe875657",
+      "score": 0.6394199770413007
+    }
+  ],
+  "(12997, 15545)": [
+    {
+      "name": "western Himalaya",
+      "label": "location",
+      "description": "A mountain range in Asia where the study of glaciers and their characteristics is being conducted",
+      "uuid": "3aef041a-7fe2-4d61-9dee-2e2a29535653",
+      "score": 0.5239768799557987
+    },
+    {
+      "name": "Karakoram",
+      "label": "location",
+      "description": "A mountain range in Asia, part of the western Himalaya, known for its glaciers and unique geological features",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.5232317508804738
+    },
+    {
+      "name": "total glacier area",
+      "label": "variable",
+      "description": "The total area covered by glaciers in a given region, used as a reference for comparing debris cover extent",
+      "uuid": "0d968650-2e0b-4927-8901-4326fe875657",
+      "score": 0.6098326376163901
+    },
+    {
+      "name": "ablation zones",
+      "label": "location",
+      "description": "Areas of glaciers where more snow melts than accumulates, often characterized by high debris cover",
+      "uuid": "a994a6f6-cfcd-45d2-95a4-0f8455a9454d",
+      "score": 0.6606390789501548
+    },
+    {
+      "name": "medial moraines",
+      "label": "location",
+      "description": "Ridges of debris that form when two glaciers merge, often found in the Karakoram region",
+      "uuid": "9d6c8fac-a5cd-4fbc-8283-1bc256c12a43",
+      "score": 0.7192154245730416
+    },
+    {
+      "name": "avalanche-fed glaciers",
+      "label": "natural hazard",
+      "description": "Glaciers that are primarily nourished by avalanches, which can influence their dynamics and surge behavior",
+      "uuid": "bb8c48bc-a36e-4f7e-afda-3244b058bc9c",
+      "score": 0.5152814808054291
+    },
+    {
+      "name": "surface displacement",
+      "label": "variable",
+      "description": "The movement of a glacier's surface over time, used to study its dynamics and behavior",
+      "uuid": "aa74db50-4ae7-463b-903a-2a256f967ca8",
+      "score": 0.5892273768435747
+    }
+  ],
+  "(17133, 19504)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, potentially affecting glacier behavior",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5984894894131331
+    },
+    {
+      "name": "surface velocities",
+      "label": "variable",
+      "description": "The speed at which a glacier's surface moves, affected by various factors including climate change",
+      "uuid": "3896f032-388f-408e-b988-bf7e100704ba",
+      "score": 0.5686574389270381
+    },
+    {
+      "name": "terminus fluctuations",
+      "label": "variable",
+      "description": "Changes in the position of a glacier's terminus, influenced by factors such as climate change and surging behavior",
+      "uuid": "84fff9f2-4dad-4ff8-9d10-cacd6a1864fb",
+      "score": 0.521037723533346
+    }
+  ],
+  "(19088, 21685)": [
+    {
+      "name": "Peak Velocity",
+      "label": "variable",
+      "description": "A measure of the maximum flow velocity of a glacier surge, used to analyze surge behavior",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5429525942961325
+    },
+    {
+      "name": "Global climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, potentially impacting glacier behavior and regional ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5917462981797618
+    },
+    {
+      "name": "Terminus advances",
+      "label": "variable",
+      "description": "A measure of the advance or retreat of a glacier's terminus, used to study glacier behavior",
+      "uuid": "84fff9f2-4dad-4ff8-9d10-cacd6a1864fb",
+      "score": 0.504198693954234
+    },
+    {
+      "name": "Mass balance",
+      "label": "variable",
+      "description": "A measure of the net change in a glacier's mass, used to study glacier health and response to climate change",
+      "uuid": "6095d796-68e0-4c7d-aa4f-f2e5bd8c4916",
+      "score": 0.6890130496614503
+    }
+  ],
+  "(21214, 23996)": [
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "The overall increase in global temperatures due to human activities and natural climate variability",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6378730085412494
+    },
+    {
+      "name": "mass balance",
+      "label": "variable",
+      "description": "The difference between the amount of snow and ice accumulated on a glacier and the amount lost due to melting and other processes",
+      "uuid": "9f408faa-a427-44e9-a194-b1b9caff1e6d",
+      "score": 0.6650452043647154
+    },
+    {
+      "name": "geodetic mass balance",
+      "label": "variable",
+      "description": "A method of estimating mass balance by measuring changes in glacier volume using DEMs and other remote sensing data",
+      "uuid": "6095d796-68e0-4c7d-aa4f-f2e5bd8c4916",
+      "score": 0.525624971543018
+    },
+    {
+      "name": "conventional accumulation and ablation zones",
+      "label": "location",
+      "description": "Areas on a glacier where snow and ice accumulate or melt, respectively",
+      "uuid": "a994a6f6-cfcd-45d2-95a4-0f8455a9454d",
+      "score": 0.7004867817606111
+    },
+    {
+      "name": "reservoir zone",
+      "label": "location",
+      "description": "An area on a surge-type glacier where ice and snow accumulate before being released during a surge",
+      "uuid": "3f82607b-f9ed-4388-94fe-e324c50ddf64",
+      "score": 0.505875426735666
+    },
+    {
+      "name": "ICESat/GLAS",
+      "label": "instrument",
+      "description": "A satellite-based instrument used to measure changes in glacier elevation and mass balance",
+      "uuid": "57463f12-2a21-49f9-9477-718030d34291",
+      "score": 0.7245212681301314
+    },
+    {
+      "name": "DEM",
+      "label": "instrument",
+      "description": "A digital elevation model, a digital representation of the Earth's surface used to estimate changes in glacier volume and mass balance",
+      "uuid": "395372ad-2883-4b6a-a481-6383a310ca47",
+      "score": 0.6910824033308488
+    }
+  ],
+  "(23628, 26500)": [
+    {
+      "name": "glacier",
+      "label": "location",
+      "description": "A natural formation of ice and snow, often found in mountainous regions, which can be affected by climate conditions",
+      "uuid": "4a426aab-4a95-4bf4-8449-19a72a251541",
+      "score": 0.5836824678120711
+    },
+    {
+      "name": "ablation zone",
+      "label": "location",
+      "description": "The area of a glacier where more snow and ice is lost through melting and evaporation than is gained through accumulation",
+      "uuid": "2cbc1b3d-1093-4c9e-aa6c-3227d8c332dc",
+      "score": 0.6423082201590822
+    },
+    {
+      "name": "accumulation and ablation rates",
+      "label": "variable",
+      "description": "The rates at which snow and ice are gained or lost on a glacier, which can be influenced by climate conditions",
+      "uuid": "a994a6f6-cfcd-45d2-95a4-0f8455a9454d",
+      "score": 0.6182897449348861
+    },
+    {
+      "name": "mass balance",
+      "label": "variable",
+      "description": "The balance between the amount of snow and ice gained and lost on a glacier over a given period of time",
+      "uuid": "9f408faa-a427-44e9-a194-b1b9caff1e6d",
+      "score": 0.6772125025818401
+    }
+  ],
+  "(25961, 28886)": [
+    {
+      "name": "Karakoram",
+      "label": "location",
+      "description": "A mountain range in Asia, known for its extreme elevations, glacier cover, and unique climate conditions",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.5002454548728189
+    },
+    {
+      "name": "glaciers",
+      "label": "natural hazard",
+      "description": "Slowly moving rivers of ice and snow that can pose threats to surrounding communities and ecosystems through surges, lake outburst floods, and other phenomena",
+      "uuid": "4a426aab-4a95-4bf4-8449-19a72a251541",
+      "score": 0.5585855148888127
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "Long-term changes in global climate patterns, potentially affecting glacier behavior, ice mass, and related hazards",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6006292730844305
+    },
+    {
+      "name": "Himalaya",
+      "label": "location",
+      "description": "A major mountain range in Asia, known for its diverse climate, geography, and glacier cover",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.6994853974563376
+    },
+    {
+      "name": "Hindu Kush",
+      "label": "location",
+      "description": "A mountain range in Asia, extending from the Himalayas to the Karakoram, with varied climate and geography",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.5360071721974783
+    },
+    {
+      "name": "Landsat satellite",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellites, used for monitoring climate, land use, and natural resources",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7022297270139494
+    }
+  ],
+  "(28418, 31093)": [
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellites, providing multi-spectral and multi-temporal data for monitoring the Earth's surface and atmosphere",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7479715733204184
+    },
+    {
+      "name": "Landsat MSS",
+      "label": "instrument",
+      "description": "The first sensor on the Landsat satellite series, used for monitoring the Earth's surface and atmosphere from 1972 to 1980",
+      "uuid": "0c5b0ed1-205b-497d-84b5-9ea87b5ad7b1",
+      "score": 0.6978067022846547
+    },
+    {
+      "name": "Landsat TM",
+      "label": "instrument",
+      "description": "A sensor on the Landsat satellite series, used for monitoring the Earth's surface and atmosphere from 1982 to present",
+      "uuid": "bfc07fb2-ca22-48e6-8171-84527b0faae7",
+      "score": 0.7310168087405479
+    },
+    {
+      "name": "Landsat ETM+",
+      "label": "instrument",
+      "description": "A sensor on the Landsat satellite series, used for monitoring the Earth's surface and atmosphere from 1999 to present",
+      "uuid": "4dbe7764-a2ea-4a19-b754-696c35ac3205",
+      "score": 0.7421170014902417
+    },
+    {
+      "name": "Landsat OLI",
+      "label": "instrument",
+      "description": "A sensor on the Landsat satellite series, used for monitoring the Earth's surface and atmosphere from 2013 to present",
+      "uuid": "e8a6f9ad-e376-495c-869e-3467526b49ec",
+      "score": 0.6996777481827267
+    },
+    {
+      "name": "ASTER",
+      "label": "instrument",
+      "description": "The Advanced Spaceborne Thermal Emission and Reflection Radiometer, a sensor on the Terra satellite, used for monitoring the Earth's surface and atmosphere",
+      "uuid": "c811bdaf-649f-4e23-b495-940d64e675f4",
+      "score": 0.7699400942546194
+    },
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a scientific agency responsible for providing data and information on the Earth's natural resources and environment",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6912207096193849
+    },
+    {
+      "name": "glaciers ID",
+      "label": "variable",
+      "description": "A unique identifier for each glacier, used for tracking and monitoring glacier changes and behavior",
+      "uuid": "4a426aab-4a95-4bf4-8449-19a72a251541",
+      "score": 0.5854516106310492
+    },
+    {
+      "name": "intense crevasses",
+      "label": "variable",
+      "description": "Deep and narrow openings in the surface of a glacier, indicating intense glacier activity and movement",
+      "uuid": "b1d30791-5871-474f-aedf-2d4aa51e2b92",
+      "score": 0.6258989333297912
+    },
+    {
+      "name": "potholes",
+      "label": "variable",
+      "description": "Depressions in the surface of a glacier, formed by the melting of ice and indicating glacier activity and movement",
+      "uuid": "6d3722bb-29c0-4fb6-90c3-3f3a144b9941",
+      "score": 0.5387731457836656
+    },
+    {
+      "name": "lateral moraines",
+      "label": "variable",
+      "description": "Ridges of rock and soil formed by the movement of glaciers, used as reference points for tracking glacier changes",
+      "uuid": "a4f0e7c2-711e-4675-b7c8-f5430905aa89",
+      "score": 0.6842700053373639
+    },
+    {
+      "name": "nunatak",
+      "label": "variable",
+      "description": "A peak or ridge of rock that protrudes through a glacier, used as a reference point for tracking glacier changes",
+      "uuid": "12e5921b-0d9b-4656-8d5c-d73abcf90a81",
+      "score": 0.6931963235521761
+    }
+  ],
+  "(30681, 33248)": [
+    {
+      "name": "MSS",
+      "label": "instrument",
+      "description": "A type of satellite imaging system used to capture data about the Earth's surface",
+      "uuid": "0c5b0ed1-205b-497d-84b5-9ea87b5ad7b1",
+      "score": 0.6711546355434971
+    },
+    {
+      "name": "TM scenes",
+      "label": "instrument",
+      "description": "Thematic Mapper scenes, a type of satellite imagery used for Earth observation",
+      "uuid": "bfc07fb2-ca22-48e6-8171-84527b0faae7",
+      "score": 0.6264723329938048
+    },
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellites that acquire images of the Earth's surface",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7279644212311012
+    },
+    {
+      "name": "Karakoram",
+      "label": "location",
+      "description": "A mountain range in Asia, home to many glaciers and known for its unique geological features",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.5024740461650011
+    },
+    {
+      "name": "RGI 5.0",
+      "label": "project",
+      "description": "The fifth version of the Randolph Glacier Inventory, a global dataset of glacier outlines and characteristics",
+      "uuid": "2678db16-2d91-444a-9a75-2fca4a90c7fa",
+      "score": 0.5118180094040351
+    },
+    {
+      "name": "Landsat OLI",
+      "label": "instrument",
+      "description": "The Operational Land Imager, a sensor on the Landsat 8 satellite used for Earth observation",
+      "uuid": "e8a6f9ad-e376-495c-869e-3467526b49ec",
+      "score": 0.7138563032443485
+    },
+    {
+      "name": "glacier outlines",
+      "label": "variable",
+      "description": "The boundaries of glaciers, used to study glacier dynamics and characteristics",
+      "uuid": "79b569df-5ed1-4791-b089-c46484069d81",
+      "score": 0.5085294890479015
+    },
+    {
+      "name": "potholes",
+      "label": "variable",
+      "description": "A type of glacial feature, used as a diagnostic criterion for identifying surge-type glaciers",
+      "uuid": "6d3722bb-29c0-4fb6-90c3-3f3a144b9941",
+      "score": 0.5212470889883055
+    },
+    {
+      "name": "ice acceleration",
+      "label": "variable",
+      "description": "The increase in speed of a glacier's ice, used as a diagnostic criterion for identifying surge-type glaciers",
+      "uuid": "3896f032-388f-408e-b988-bf7e100704ba",
+      "score": 0.5511447120021552
+    }
+  ],
+  "(32839, 35655)": [
+    {
+      "name": "intense crevasses",
+      "label": "natural hazard",
+      "description": "A type of fracture or fissure in glaciers, often indicating intense stress and potential for rapid ice movement",
+      "uuid": "b1d30791-5871-474f-aedf-2d4aa51e2b92",
+      "score": 0.6041456238601082
+    },
+    {
+      "name": "ASTER images",
+      "label": "instrument",
+      "description": "A high-resolution imaging instrument on board the Terra satellite, used for Earth observation and remote sensing",
+      "uuid": "c811bdaf-649f-4e23-b495-940d64e675f4",
+      "score": 0.7699116996337892
+    },
+    {
+      "name": "surface flow velocity",
+      "label": "variable",
+      "description": "A measure of the speed at which ice or other materials move across the surface, often used to study glacier dynamics and behavior",
+      "uuid": "3896f032-388f-408e-b988-bf7e100704ba",
+      "score": 0.5996262119400305
+    },
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellites, used for collecting data on the Earth's surface, including land use, land cover, and climate change",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7322551372266426
+    },
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a scientific agency responsible for providing information on the Earth's natural resources and hazards",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6717762198578414
+    },
+    {
+      "name": "glaciers",
+      "label": "location",
+      "description": "Large, perennial rivers of ice and snow formed on land by the accumulation and compaction of snow over time",
+      "uuid": "4a426aab-4a95-4bf4-8449-19a72a251541",
+      "score": 0.6650074079120681
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States, known for its extensive glaciers and ice fields",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.6864476620416129
+    },
+    {
+      "name": "Svalbard",
+      "label": "location",
+      "description": "A Norwegian archipelago in the Arctic, known for its glaciers and polar climate",
+      "uuid": "706ae2c4-750c-4a96-a7af-5133c357ae5c",
+      "score": 0.6631284295254994
+    }
+  ],
+  "(35190, 37957)": [
+    {
+      "name": "ASTER",
+      "label": "instrument",
+      "description": "A high-resolution imaging instrument on board the Terra satellite, used for remote sensing of the Earth's surface>",
+      "uuid": "c811bdaf-649f-4e23-b495-940d64e675f4",
+      "score": 0.7920227858338804
+    },
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellites used for remote sensing of the Earth's surface, providing data on land use, land cover, and climate change>",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7484707531657202
+    },
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a scientific agency responsible for providing information on the Earth's natural resources and environment>",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6793328683083545
+    },
+    {
+      "name": "surface flow velocity",
+      "label": "variable",
+      "description": "A measure of the speed at which a glacier or other geological feature moves>",
+      "uuid": "f77adcc6-e320-4fd9-80c9-958e75cd46d3",
+      "score": 0.6026326221075707
+    },
+    {
+      "name": "glacier flow data set",
+      "label": "project",
+      "description": "A collection of data related to the movement and behavior of glaciers>",
+      "uuid": "4658aa47-a19d-452b-90ce-5cf32f0c2ce4",
+      "score": 0.5825820402296337
+    },
+    {
+      "name": "glacier displacements",
+      "label": "variable",
+      "description": "A measure of the change in position of a glacier over time>",
+      "uuid": "5ddbaf71-b279-42cf-b250-faaefb627f66",
+      "score": 0.6177690778895407
+    },
+    {
+      "name": "ablation zones",
+      "label": "location",
+      "description": "Areas of a glacier where more snow melts than accumulates, resulting in a net loss of ice>",
+      "uuid": "a994a6f6-cfcd-45d2-95a4-0f8455a9454d",
+      "score": 0.687758179324898
+    },
+    {
+      "name": "ESRI ArcGIS",
+      "label": "platform",
+      "description": "A software platform used for geospatial analysis and mapping>",
+      "uuid": "67084eeb-2dca-4a4c-b5dd-0c37fc7b6c9a",
+      "score": 0.6480142609392904
+    }
+  ],
+  "(37422, 40218)": [
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellite missions launched by NASA to study the Earth's surface and environment",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7376375660369072
+    },
+    {
+      "name": "ASTER",
+      "label": "instrument",
+      "description": "The Advanced Spaceborne Thermal Emission and Reflection Radiometer, a high-resolution imaging instrument on the Terra satellite",
+      "uuid": "c811bdaf-649f-4e23-b495-940d64e675f4",
+      "score": 0.7814375781174625
+    },
+    {
+      "name": "ablation zones",
+      "label": "location",
+      "description": "Areas of glaciers where more snow melts than accumulates, resulting in a net loss of ice mass",
+      "uuid": "a994a6f6-cfcd-45d2-95a4-0f8455a9454d",
+      "score": 0.6989155161393158
+    },
+    {
+      "name": "snow-free ablation zone",
+      "label": "location",
+      "description": "A specific area of a glacier where the snow has melted, exposing the ice surface",
+      "uuid": "2cbc1b3d-1093-4c9e-aa6c-3227d8c332dc",
+      "score": 0.5724587926856765
+    },
+    {
+      "name": "ArcGIS 10.0",
+      "label": "platform",
+      "description": "A geographic information system software used for mapping, analyzing, and managing geographic data",
+      "uuid": "67084eeb-2dca-4a4c-b5dd-0c37fc7b6c9a",
+      "score": 0.5343584917986205
+    },
+    {
+      "name": "supraglacial ponds",
+      "label": "location",
+      "description": "Ponds that form on the surface of glaciers, often indicating areas of melt and change",
+      "uuid": "7b5939eb-4101-40bc-8dfe-810f6e9e5d6f",
+      "score": 0.5539922997316804
+    },
+    {
+      "name": "glacier length",
+      "label": "variable",
+      "description": "A measure of the length of a glacier, often used to track changes in glacier extent and behavior",
+      "uuid": "79b569df-5ed1-4791-b089-c46484069d81",
+      "score": 0.5621328069505024
+    }
+  ],
+  "(39767, 41803)": [
+    {
+      "name": "ASTER",
+      "label": "instrument",
+      "description": "A high-resolution imaging instrument onboard the Terra satellite, used for remote sensing of the Earth's surface>",
+      "uuid": "c811bdaf-649f-4e23-b495-940d64e675f4",
+      "score": 0.7941062454110899
+    },
+    {
+      "name": "GLIMS",
+      "label": "project",
+      "description": "The Global Land Ice Measurements from Space project, an international initiative to monitor and study glaciers using satellite data>",
+      "uuid": "e2746156-f174-4624-adaa-f79a55cb86f1",
+      "score": 0.7958755872746555
+    },
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellites used for remote sensing of the Earth's surface, providing data on land use, land cover, and climate change>",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7484707531657202
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a United States government agency responsible for space exploration and Earth science research>",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.7150723193579394
+    },
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a scientific agency of the United States government responsible for studying the Earth's natural resources and hazards>",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6581061660260886
+    },
+    {
+      "name": "IDRC",
+      "label": "provider",
+      "description": "The International Development Research Centre, a Canadian government agency that supports research and innovation in developing countries>",
+      "uuid": "fca1d280-dd23-4b2a-a343-efcde4503b77",
+      "score": 0.7238470851622993
+    },
+    {
+      "name": "glacier surface displacements",
+      "label": "variable",
+      "description": "Measurements of the movement and changes in glaciers, used to study climate change and glacier dynamics>",
+      "uuid": "2d79af4f-d15f-40cc-b0bf-8f5c8eb1fce5",
+      "score": 0.5830713973718947
+    },
+    {
+      "name": "mass balance and climate change",
+      "label": "variable",
+      "description": "The study of the balance between the amount of snow and ice added to a glacier and the amount lost, and its relationship to climate change>",
+      "uuid": "6095d796-68e0-4c7d-aa4f-f2e5bd8c4916",
+      "score": 0.6470041726369933
+    },
+    {
+      "name": "glacier front positions",
+      "label": "variable",
+      "description": "Measurements of the location and movement of glacier fronts, used to study glacier dynamics and climate change>",
+      "uuid": "2d79af4f-d15f-40cc-b0bf-8f5c8eb1fce5",
+      "score": 0.5434368957814938
+    },
+    {
+      "name": "velocity measurement",
+      "label": "variable",
+      "description": "Measurements of the speed and direction of glacier movement, used to study glacier dynamics and climate change>",
+      "uuid": "08d41260-9c6e-408c-b579-62fee09a31ee",
+      "score": 0.61683042142212
+    },
+    {
+      "name": "Himalayan region",
+      "label": "location",
+      "description": "A mountainous region in Asia, home to the Himalayan mountain range and a diverse range of ecosystems and cultures>",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.6534376796500064
+    }
+  ]
+}

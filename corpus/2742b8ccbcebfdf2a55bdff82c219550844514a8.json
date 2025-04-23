@@ -1,0 +1,656 @@
+{
+  "(0, 2787)": [
+    {
+      "name": "eukaryotic community structure",
+      "label": "variable",
+      "description": "The composition and diversity of eukaryotic organisms within a given environment",
+      "uuid": "f42c849c-7113-4c69-a01e-52ebc5e7b44d",
+      "score": 0.5964356673770106
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or alkalinity of an environment",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.7382400974743121
+    },
+    {
+      "name": "OTUs",
+      "label": "variable",
+      "description": "Operational taxonomic units, used to classify and identify eukaryotic organisms",
+      "uuid": "d1ef1ce2-7a50-446d-b744-73513700f351",
+      "score": 0.7282968609738092
+    }
+  ],
+  "(2346, 5135)": [
+    {
+      "name": "Acidic environments",
+      "label": "location",
+      "description": "Regions characterized by low pH levels, often resulting from natural or anthropogenic sources",
+      "uuid": "f9405e92-0c1c-4443-9cc4-45d662d8b5f2",
+      "score": 0.5320047650696457
+    },
+    {
+      "name": "Acid rock drainage (ARD)",
+      "label": "natural hazard",
+      "description": "The flow of acidic water from rocks, often resulting from mining activities",
+      "uuid": "207a34e0-48c0-439a-a001-dcf664b61686",
+      "score": 0.5381313177663654
+    },
+    {
+      "name": "Acid mine drainage (AMD)",
+      "label": "natural hazard",
+      "description": "The flow of acidic water from mines, often resulting from mining activities",
+      "uuid": "207a34e0-48c0-439a-a001-dcf664b61686",
+      "score": 0.6360242730951461
+    },
+    {
+      "name": "Hydrothermal vent fluids",
+      "label": "location",
+      "description": "Hot, chemical-rich fluids emitted from the Earth's crust, often supporting unique ecosystems",
+      "uuid": "b677862b-7921-458f-a6db-0eb46469df33",
+      "score": 0.6642744462477619
+    },
+    {
+      "name": "Soda lakes",
+      "label": "location",
+      "description": "Lakes characterized by high pH levels and high concentrations of sodium carbonate",
+      "uuid": "06a2da0f-5234-4d29-905b-153d88657eb9",
+      "score": 0.5120159250678338
+    },
+    {
+      "name": "Hydrothermal vent systems",
+      "label": "location",
+      "description": "Underwater springs characterized by high temperatures and chemical-rich fluids, often supporting unique ecosystems",
+      "uuid": "bee69b66-3921-4883-920f-6a0bd85b614f",
+      "score": 0.7074002294649171
+    }
+  ],
+  "(4640, 7766)": [
+    {
+      "name": "pH extremes",
+      "label": "variable",
+      "description": "A measure of the acidity or alkalinity of an environment, with extreme values indicating highly acidic or highly alkaline conditions",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.5956207340809486
+    },
+    {
+      "name": "environmental parameters",
+      "label": "variable",
+      "description": "Factors that influence the conditions in an environment, such as temperature, pH, and nutrient availability",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5059197013329738
+    },
+    {
+      "name": "next-generation DNA sequencing",
+      "label": "instrument",
+      "description": "A type of DNA sequencing technology that allows for rapid and high-throughput analysis of genetic material",
+      "uuid": "ad7ce68b-ee0a-4f2d-bbf7-fe3262186bfb",
+      "score": 0.5108685680806785
+    },
+    {
+      "name": "Lost City",
+      "label": "location",
+      "description": "A hydrothermal vent field in the ocean, characterized by high temperatures and chemical-rich fluids",
+      "uuid": "b677862b-7921-458f-a6db-0eb46469df33",
+      "score": 0.5105783696943823
+    },
+    {
+      "name": "indicator species analysis (ISA)",
+      "label": "instrument",
+      "description": "A method used to identify species that are associated with specific environmental conditions or habitats",
+      "uuid": "d3c5e3e3-97bf-4e74-9f8d-523dce5f9270",
+      "score": 0.5387421753814875
+    }
+  ],
+  "(7205, 9860)": [
+    {
+      "name": "Lost City Hydrothermal Vent",
+      "label": "location",
+      "description": "A hydrothermal vent on the Mid-Atlantic Ridge, characterized by extreme chemical and thermal conditions",
+      "uuid": "bee69b66-3921-4883-920f-6a0bd85b614f",
+      "score": 0.5471588800315833
+    },
+    {
+      "name": "diatoms",
+      "label": "taxa",
+      "description": "A type of algae, commonly found in aquatic environments, including extreme ones",
+      "uuid": "a14cfe48-9554-4e7c-9a2b-bf72834eafba",
+      "score": 0.6974512569964444
+    },
+    {
+      "name": "indicator species analysis",
+      "label": "instrument",
+      "description": "A method used to identify species that are indicative of specific environmental conditions or habitats",
+      "uuid": "d3c5e3e3-97bf-4e74-9f8d-523dce5f9270",
+      "score": 0.6193451641848937
+    },
+    {
+      "name": "next-generation sequencing",
+      "label": "instrument",
+      "description": "A technology used to sequence and analyze DNA and RNA molecules at high speeds and low costs",
+      "uuid": "3b9154a5-eea6-46ef-b17b-3ca6f37c3d3b",
+      "score": 0.5605440956180786
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or alkalinity of a solution, with extreme values indicating highly acidic or alkaline environments",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.7345137476785879
+    }
+  ],
+  "(9389, 12017)": [
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the United States where Mono Lake is located",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.509890877699289
+    },
+    {
+      "name": "NE",
+      "label": "location",
+      "description": "The state of Nebraska, where the Sandhills region and Crescent Lake National Wildlife Refuge are located",
+      "uuid": "48c90518-9246-452b-8874-d50975e87ef6",
+      "score": 0.5122783934119566
+    },
+    {
+      "name": "alkaline lakes",
+      "label": "location",
+      "description": "Lakes with high pH levels, often found in regions with unique geological characteristics",
+      "uuid": "06a2da0f-5234-4d29-905b-153d88657eb9",
+      "score": 0.5339322449477806
+    },
+    {
+      "name": "sodium",
+      "label": "variable",
+      "description": "A chemical element and a major cation found in alkaline lakes",
+      "uuid": "c692e8e4-b920-4eb5-86c3-b5f6121fec4b",
+      "score": 0.5528549378759494
+    },
+    {
+      "name": "potassium",
+      "label": "variable",
+      "description": "A chemical element and a major cation found in alkaline lakes",
+      "uuid": "072721be-eb8b-4ac4-9354-251dbf74ade0",
+      "score": 0.6540393773646395
+    },
+    {
+      "name": "calcium",
+      "label": "variable",
+      "description": "A chemical element and a major cation found in alkaline lakes",
+      "uuid": "e5a658d5-74db-4022-894f-edc8d297767a",
+      "score": 0.6381820499562474
+    },
+    {
+      "name": "magnesium",
+      "label": "variable",
+      "description": "A chemical element and a major cation found in alkaline lakes",
+      "uuid": "38f99d8b-80af-439a-9d3f-1e72aef5d7c3",
+      "score": 0.6118763997508618
+    },
+    {
+      "name": "dissolved organic carbon (DOC)",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon dissolved in water, often used to study aquatic ecosystems",
+      "uuid": "b22b0369-cabf-44e8-85af-f084f8a6d5d8",
+      "score": 0.7022852357933154
+    },
+    {
+      "name": "hydrogen",
+      "label": "variable",
+      "description": "A chemical element and a potential energy source for microorganisms",
+      "uuid": "96bbae63-81c1-43b4-90f0-52731e2b52ca",
+      "score": 0.5034853075806545
+    },
+    {
+      "name": "methane",
+      "label": "variable",
+      "description": "A greenhouse gas and a potential energy source for microorganisms",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.6634208495362234
+    },
+    {
+      "name": "hydrocarbons",
+      "label": "variable",
+      "description": "A class of organic compounds found in crude oil and other fossil fuels",
+      "uuid": "344cbd30-a2e4-437e-9fc9-5e6b1c484bac",
+      "score": 0.6454942298373331
+    },
+    {
+      "name": "ancient hydrothermal vent system",
+      "label": "location",
+      "description": "A type of underwater geological feature that supports unique ecosystems and potentially hosts life",
+      "uuid": "bee69b66-3921-4883-920f-6a0bd85b614f",
+      "score": 0.6492503472373679
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of dense, toxic metals that can be found in certain environments",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.714994612169826
+    },
+    {
+      "name": "Marine Biological Laboratory Keck Sequencing Facility",
+      "label": "provider",
+      "description": "A research institution that provides sequencing services for scientific studies",
+      "uuid": "b41753a5-a6c6-4a2c-9eb4-29f88afda361",
+      "score": 0.5556837024797412
+    }
+  ],
+  "(11593, 14182)": [
+    {
+      "name": "Marine Biological Laboratory Keck Sequencing Facility",
+      "label": "provider",
+      "description": "A research facility that provides access to advanced sequencing technologies for studying the biology of marine organisms",
+      "uuid": "b41753a5-a6c6-4a2c-9eb4-29f88afda361",
+      "score": 0.5320338440732845
+    },
+    {
+      "name": "operational taxonomic units",
+      "label": "variable",
+      "description": "Groups of microorganisms that share similar characteristics and are used to analyze the diversity and composition of microbial communities",
+      "uuid": "d1ef1ce2-7a50-446d-b744-73513700f351",
+      "score": 0.6610286063083838
+    }
+  ],
+  "(13738, 16462)": [
+    {
+      "name": "OTUs",
+      "label": "variable",
+      "description": "Operational taxonomic units, used to group organisms based on their genetic similarity",
+      "uuid": "d1ef1ce2-7a50-446d-b744-73513700f351",
+      "score": 0.7474561623584574
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or alkalinity of a solution",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.7374333115307632
+    }
+  ],
+  "(15983, 18886)": [
+    {
+      "name": "OTU",
+      "label": "variable",
+      "description": "Operational Taxonomic Unit, a term used in biology to refer to a group of organisms that share similar characteristics or genetic sequences",
+      "uuid": "d1ef1ce2-7a50-446d-b744-73513700f351",
+      "score": 0.8240167789383338
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or basicity of an environment, with lower values indicating more acidic conditions and higher values indicating more basic conditions",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.7322950693257873
+    },
+    {
+      "name": "Hydrogen ion concentration",
+      "label": "variable",
+      "description": "A measure of the concentration of hydrogen ions in a solution, which determines its acidity or basicity",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.5579276219951139
+    }
+  ],
+  "(18358, 21416)": [
+    {
+      "name": "OTUs",
+      "label": "variable",
+      "description": "Operational Taxonomic Units, a measure of the diversity of microorganisms in a given environment",
+      "uuid": "d1ef1ce2-7a50-446d-b744-73513700f351",
+      "score": 0.7225233634522025
+    },
+    {
+      "name": "PCR-based approach",
+      "label": "instrument",
+      "description": "A laboratory technique used to amplify and study DNA sequences",
+      "uuid": "7b989ab0-eaed-4698-87d8-f915c505b076",
+      "score": 0.6062066725409035
+    },
+    {
+      "name": "next-generation sequencing",
+      "label": "instrument",
+      "description": "A high-throughput technology used to determine the sequence of DNA molecules",
+      "uuid": "5804d1a5-c96d-4863-881d-6f763ecee262",
+      "score": 0.5591188081313124
+    },
+    {
+      "name": "environmental DNA",
+      "label": "variable",
+      "description": "DNA derived from organisms in the environment, including both active and inactive cells",
+      "uuid": "4c0b1743-dfeb-4147-b89f-99386a370d42",
+      "score": 0.7590232596860099
+    },
+    {
+      "name": "acidic hydrothermal vents",
+      "label": "location",
+      "description": "Underwater springs characterized by hot, acidic water and unique microbial communities",
+      "uuid": "b677862b-7921-458f-a6db-0eb46469df33",
+      "score": 0.6697109726142424
+    }
+  ],
+  "(20956, 23470)": [
+    {
+      "name": "Fragillariophyceae",
+      "label": "variable",
+      "description": "A class of diatoms, a type of algae found in aquatic environments",
+      "uuid": "a14cfe48-9554-4e7c-9a2b-bf72834eafba",
+      "score": 0.5035461525859485
+    },
+    {
+      "name": "Diatoma",
+      "label": "variable",
+      "description": "A genus of diatoms, known for their cosmopolitan distribution",
+      "uuid": "fdb04105-e8ba-4a83-9c35-ed3c931ccc9f",
+      "score": 0.5476264073016776
+    }
+  ],
+  "(23081, 25630)": [
+    {
+      "name": "Diatom E81 OTU",
+      "label": "variable",
+      "description": "A specific operational taxonomic unit of diatoms, a type of algae found in aquatic environments",
+      "uuid": "a14cfe48-9554-4e7c-9a2b-bf72834eafba",
+      "score": 0.5766593014894068
+    },
+    {
+      "name": "Nebraska Sandhills",
+      "label": "location",
+      "description": "A region located in Nebraska, known for its unique geology and ecosystems",
+      "uuid": "48c90518-9246-452b-8874-d50975e87ef6",
+      "score": 0.5210558905817826
+    },
+    {
+      "name": "amplicon",
+      "label": "instrument",
+      "description": "A type of DNA sequence used in molecular biology to amplify specific genes or regions",
+      "uuid": "dc777dfd-f24d-48b4-a137-387a24974d42",
+      "score": 0.6447642490619038
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which organisms produce organic compounds from inorganic substances, often measured in ecosystems",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7558024866275043
+    },
+    {
+      "name": "ciliates",
+      "label": "variable",
+      "description": "A type of protozoan found in aquatic environments, characterized by the presence of cilia",
+      "uuid": "6f2a1cfb-13f4-444f-a6e6-2d8b29797253",
+      "score": 0.6626362308162264
+    },
+    {
+      "name": "AMD environments",
+      "label": "location",
+      "description": "Acid mine drainage environments, characterized by low pH and high metal concentrations",
+      "uuid": "207a34e0-48c0-439a-a001-dcf664b61686",
+      "score": 0.555032937755355
+    }
+  ],
+  "(25201, 27739)": [
+    {
+      "name": "Lost City hydrothermal vent",
+      "label": "location",
+      "description": "A deep-sea hydrothermal vent site with unique chemical and biological characteristics",
+      "uuid": "bee69b66-3921-4883-920f-6a0bd85b614f",
+      "score": 0.5688542246186747
+    },
+    {
+      "name": "ostracods",
+      "label": "variable",
+      "description": "A type of small crustacean found in aquatic environments",
+      "uuid": "e91ca626-7afa-4e36-8a28-f8df6fc9d797",
+      "score": 0.736374910222586
+    },
+    {
+      "name": "rotifers",
+      "label": "variable",
+      "description": "A type of small aquatic animal that can thrive in extreme environments",
+      "uuid": "6b3f96de-62f8-482a-87a5-6efcc3414af7",
+      "score": 0.7053932536209025
+    },
+    {
+      "name": "ciliate OTUs",
+      "label": "variable",
+      "description": "A type of protist found in aquatic environments",
+      "uuid": "6f2a1cfb-13f4-444f-a6e6-2d8b29797253",
+      "score": 0.6120047122771938
+    },
+    {
+      "name": "GenBank",
+      "label": "provider",
+      "description": "A public database of DNA sequences",
+      "uuid": "5b8777e5-e960-4b1e-99b1-aa5ca309c319",
+      "score": 0.6806129028293458
+    }
+  ],
+  "(27356, 29946)": [
+    {
+      "name": "Lost City",
+      "label": "location",
+      "description": "A unique ecosystem characterized by hydrothermal vents and extreme chemical conditions",
+      "uuid": "bee69b66-3921-4883-920f-6a0bd85b614f",
+      "score": 0.500763395687834
+    },
+    {
+      "name": "Cyanidium-like algae",
+      "label": "species",
+      "description": "A type of algae found in acidic environments",
+      "uuid": "166de4c9-89ad-4248-b771-512beb1705cf",
+      "score": 0.5026668886030177
+    },
+    {
+      "name": "GenBank",
+      "label": "database",
+      "description": "A comprehensive database of genetic sequences",
+      "uuid": "5b8777e5-e960-4b1e-99b1-aa5ca309c319",
+      "score": 0.6822278141782269
+    },
+    {
+      "name": "OTU",
+      "label": "variable",
+      "description": "Operational Taxonomic Unit, a term used in microbiology to refer to a group of microorganisms that share similar characteristics",
+      "uuid": "d1ef1ce2-7a50-446d-b744-73513700f351",
+      "score": 0.7990025320469003
+    }
+  ],
+  "(29455, 32192)": [
+    {
+      "name": "GenBank",
+      "label": "provider",
+      "description": "A comprehensive public database of DNA sequences, providing access to genetic information for research and analysis",
+      "uuid": "5b8777e5-e960-4b1e-99b1-aa5ca309c319",
+      "score": 0.7111753077946414
+    },
+    {
+      "name": "E81 diatom OTU",
+      "label": "variable",
+      "description": "A specific operational taxonomic unit of diatoms, identified through DNA sequencing and analysis",
+      "uuid": "d1ef1ce2-7a50-446d-b744-73513700f351",
+      "score": 0.5224972347221406
+    },
+    {
+      "name": "Cyanidium",
+      "label": "variable",
+      "description": "A genus of algae, known to be dominant in certain ecosystems, but found to be absent or low in frequency in specific samples",
+      "uuid": "166de4c9-89ad-4248-b771-512beb1705cf",
+      "score": 0.5019517407362531
+    }
+  ],
+  "(31730, 34455)": [
+    {
+      "name": "fungal OTUs",
+      "label": "variable",
+      "description": "Operational taxonomic units, or groups of organisms that are classified together based on their genetic similarity",
+      "uuid": "d1ef1ce2-7a50-446d-b744-73513700f351",
+      "score": 0.6395733185541947
+    },
+    {
+      "name": "ARD site",
+      "label": "location",
+      "description": "A site with acidic or alkaline conditions, often used to study microbial communities",
+      "uuid": "f6ee137c-80ea-4ca3-85d3-21d331671a98",
+      "score": 0.5000059449835563
+    },
+    {
+      "name": "opisthokont OTUs",
+      "label": "variable",
+      "description": "Operational taxonomic units, or groups of organisms that are classified together based on their genetic similarity",
+      "uuid": "d1ef1ce2-7a50-446d-b744-73513700f351",
+      "score": 0.6408347097580792
+    }
+  ],
+  "(34002, 36767)": [
+    {
+      "name": "U2611",
+      "label": "OTU",
+      "description": "An operational taxonomic unit of fungal affiliation, indicating acidic environments",
+      "uuid": "d1ef1ce2-7a50-446d-b744-73513700f351",
+      "score": 0.5125671737961504
+    }
+  ],
+  "(36388, 39091)": [
+    {
+      "name": "rotifer OTUs",
+      "label": "variable",
+      "description": "A measure of the diversity of rotifer species, often used in water quality studies",
+      "uuid": "6b3f96de-62f8-482a-87a5-6efcc3414af7",
+      "score": 0.5126058197248109
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or alkalinity of a solution, often used to study the distribution of organisms in different environments",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.7278336514571861
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the suitability of water for various uses, often studied using rotifers and other organisms",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.6661471794103063
+    },
+    {
+      "name": "Sweden",
+      "label": "location",
+      "description": "A country where a study on rotifer distributions was conducted",
+      "uuid": "2edce566-82e1-4645-a94d-58cffa42f8e2",
+      "score": 0.5410078387124456
+    },
+    {
+      "name": "diatoms",
+      "label": "variable",
+      "description": "A group of microorganisms that have been found to be able to span a broad range of pH values",
+      "uuid": "a14cfe48-9554-4e7c-9a2b-bf72834eafba",
+      "score": 0.5932350392789338
+    },
+    {
+      "name": "ciliate",
+      "label": "variable",
+      "description": "A group of microorganisms that include Oxytricha and other ciliate species",
+      "uuid": "6f2a1cfb-13f4-444f-a6e6-2d8b29797253",
+      "score": 0.5735323402841467
+    },
+    {
+      "name": "flagellate",
+      "label": "variable",
+      "description": "A group of microorganisms that include Spumella and other flagellate species",
+      "uuid": "2095acb5-14af-40fe-af22-e6af2e3528b5",
+      "score": 0.5686788743272235
+    },
+    {
+      "name": "amoeboid",
+      "label": "variable",
+      "description": "A group of microorganisms that include Heterolobosean and other amoeboid species",
+      "uuid": "949f8a84-185a-42a0-89dc-48534b46f309",
+      "score": 0.5639678337150987
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of dissolved salts in water, often used to study the distribution of organisms in different environments",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7017351403396072
+    },
+    {
+      "name": "aquatic environments",
+      "label": "location",
+      "description": "Environments that include water, such as lakes, rivers, and oceans",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6447452679232346
+    },
+    {
+      "name": "community structure",
+      "label": "variable",
+      "description": "A measure of the diversity and composition of organisms in a particular environment",
+      "uuid": "f42c849c-7113-4c69-a01e-52ebc5e7b44d",
+      "score": 0.7007278645625181
+    },
+    {
+      "name": "underlying community structure",
+      "label": "variable",
+      "description": "A measure of the underlying patterns and processes that shape the diversity and composition of organisms in a particular environment",
+      "uuid": "f42c849c-7113-4c69-a01e-52ebc5e7b44d",
+      "score": 0.5943721617163854
+    },
+    {
+      "name": "metal ion concentrations",
+      "label": "variable",
+      "description": "A measure of the concentration of metal ions in a solution, often used to study the distribution of organisms in different environments",
+      "uuid": "0c4ffc6a-694d-4f33-bc18-06fefb68acdd",
+      "score": 0.5125566961970079
+    }
+  ],
+  "(38599, 41469)": [
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, an important property influencing aquatic environments and community structure",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6799960377350756
+    },
+    {
+      "name": "aquatic environments",
+      "label": "location",
+      "description": "Ecosystems that exist in water, including freshwater and marine environments, and support a wide range of plant and animal life",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.7160199496764157
+    },
+    {
+      "name": "community structure",
+      "label": "variable",
+      "description": "The composition and organization of different species within an ecosystem, influenced by factors such as salinity and metal ion concentrations",
+      "uuid": "f42c849c-7113-4c69-a01e-52ebc5e7b44d",
+      "score": 0.6986928833745025
+    },
+    {
+      "name": "US National Institutes of Health",
+      "label": "provider",
+      "description": "A US government agency responsible for biomedical and health-related research",
+      "uuid": "780577a1-0563-4f42-b973-934278a8846c",
+      "score": 0.5822737444875381
+    },
+    {
+      "name": "National Science Foundation",
+      "label": "provider",
+      "description": "A US government agency that supports scientific research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.7155796954879072
+    }
+  ],
+  "(41071, 41472)": [
+    {
+      "name": "terrestrial sites",
+      "label": "location",
+      "description": "Geographic locations on land, possibly sites for data collection or research",
+      "uuid": "ca8f355b-7f63-407d-89bb-d3a6cd10d683",
+      "score": 0.562789893569323
+    }
+  ]
+}

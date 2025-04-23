@@ -1,0 +1,2307 @@
+{
+  "(0, 2984)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A global coupled carbon-climate Earth System Model developed at the National Oceanic and Atmospheric Administration/Geophysical Fluid Dynamics Laboratory, incorporating explicit and consistent carbon dynamics and physical ocean component with vertical pressure layers",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6359532274481828
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A global coupled carbon-climate Earth System Model developed at the National Oceanic and Atmospheric Administration/Geophysical Fluid Dynamics Laboratory, incorporating explicit and consistent carbon dynamics and physical ocean component with generalized ocean layer dynamics and a bulk mixed layer",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6711542737063594
+    },
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    },
+    {
+      "name": "GFDL",
+      "label": "provider",
+      "description": "The Geophysical Fluid Dynamics Laboratory, a research institution dedicated to studying the Earth\u2019s oceans, atmosphere, and climate",
+      "uuid": "7699f957-bcfc-4069-b506-73b1973b8e4d",
+      "score": 0.673724788721847
+    },
+    {
+      "name": "carbon",
+      "label": "variable",
+      "description": "A chemical element that plays a central role in the Earth's climate system, including the carbon cycle and its interactions with the atmosphere, oceans, and land",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.6355365325700946
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, including trees, grasses, and other flora, which plays a crucial role in the carbon cycle and climate system",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6479929961688528
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, which plays a key role in the carbon cycle and ecosystem functioning",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6776775636586195
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, which plays a crucial role in the climate system and carbon cycle",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.5886726506096057
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a central role in the climate system and carbon cycle",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7207773871678128
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, known for its significant role in global ocean circulation and climate regulation",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.8081165811203501
+    },
+    {
+      "name": "Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean, known for its significant role in global ocean circulation and climate regulation",
+      "uuid": "2e391b10-0ed5-4742-9224-023d0d3f1a68",
+      "score": 0.704219147880735
+    },
+    {
+      "name": "Indian Oceans",
+      "label": "location",
+      "description": "A region of the Indian Ocean, known for its significant role in global ocean circulation and climate regulation",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.6999252174397939
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that live in the ocean and play a crucial role in the carbon cycle and ocean ecosystems",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6715258906839573
+    },
+    {
+      "name": "biogeochemical algorithms",
+      "label": "instrument",
+      "description": "Mathematical representations of the interactions between biological, geological, and chemical processes in the Earth's system",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.6461335702109635
+    },
+    {
+      "name": "coupled climate-carbon responses",
+      "label": "variable",
+      "description": "The interactions and feedbacks between the climate system and the carbon cycle, which are crucial for understanding and predicting climate change",
+      "uuid": "6a6bed83-f95a-44e6-8ae0-1371b532abc3",
+      "score": 0.626759945717455
+    }
+  ],
+  "(2480, 5178)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The ocean is a major component of the Earth's system, covering over 70% of the planet and playing a crucial role in regulating the climate",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7298337637804329
+    },
+    {
+      "name": "carbon",
+      "label": "variable",
+      "description": "A chemical element essential for life on Earth, with its cycling and storage in the atmosphere, oceans, and land influencing the climate",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.6404366563433015
+    },
+    {
+      "name": "advection",
+      "label": "variable",
+      "description": "The process of transporting substances, such as heat, salt, or carbon, through the movement of fluids, like ocean currents or atmospheric winds",
+      "uuid": "5f6358aa-872c-4c1c-9388-4714138f034a",
+      "score": 0.7331181662143472
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The terrestrial part of the Earth's surface, comprising continents, islands, and coastal areas, which interact with the atmosphere and oceans to influence the climate",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6291268704494039
+    },
+    {
+      "name": "climate model",
+      "label": "model",
+      "description": "A computational representation of the Earth's climate system, used to simulate and predict climate variability and change",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.625533376988419
+    },
+    {
+      "name": "ocean biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of chemical elements and compounds within the ocean, including the interactions between the ocean's physical, chemical, and biological components",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.6685456070029511
+    },
+    {
+      "name": "fully coupled ESMs",
+      "label": "model",
+      "description": "Earth System Models that integrate the atmosphere, oceans, land, and cryosphere to simulate the complex interactions within the Earth's climate system",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6477565841408661
+    },
+    {
+      "name": "biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of chemical elements and compounds within the Earth's system, including the interactions between the atmosphere, oceans, land, and living organisms",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.7010674368702756
+    },
+    {
+      "name": "GFDL Climate Model version",
+      "label": "model",
+      "description": "The Geophysical Fluid Dynamics Laboratory Climate Model, a computational representation of the Earth's climate system used for simulating and predicting climate variability and change",
+      "uuid": "87f323af-19b8-422b-9e21-f33287b37d3a",
+      "score": 0.7003385006984236
+    },
+    {
+      "name": "ocean carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in the ocean, which plays a crucial role in regulating the Earth's climate through its influence on atmospheric CO2 levels",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.6245246726454722
+    },
+    {
+      "name": "coupled climate-carbon responses",
+      "label": "experiment",
+      "description": "A type of climate simulation that investigates the interactions between the climate system and the carbon cycle, including the responses of the climate system to changes in carbon emissions and concentrations",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5767933028592004
+    }
+  ],
+  "(4715, 7199)": [
+    {
+      "name": "z-coordinate",
+      "label": "model",
+      "description": "A type of climate model that uses a vertical coordinate system based on depth to simulate ocean and atmosphere interactions",
+      "uuid": "72e191be-d5fe-4836-ab7a-e9ac527e3ccb",
+      "score": 0.5500026674494805
+    },
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "The Earth System Model version 2M, a climate model developed by the Geophysical Fluid Dynamics Laboratory",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6335482521023136
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "The Earth System Model version 2G, a climate model developed by the Geophysical Fluid Dynamics Laboratory",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6681024646061137
+    },
+    {
+      "name": "El Ni\u00f1 o-Southern Oscillation",
+      "label": "teleconnection",
+      "description": "A complex climate phenomenon characterized by fluctuations in ocean temperatures and atmospheric pressures in the Pacific Ocean",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7382518818989556
+    },
+    {
+      "name": "carbon cycle",
+      "label": "variable",
+      "description": "The process by which carbon is exchanged between the atmosphere, oceans, land, and living organisms",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.6004173258876051
+    },
+    {
+      "name": "TOPAZ2",
+      "label": "model",
+      "description": "The Tracers of Ocean Phytoplankton with Allometric Zooplankton code version 2.0, a model component for simulating ocean biogeochemistry and ecology",
+      "uuid": "ba7cc1c1-c5ef-43ff-9a2e-84629f0a94fa",
+      "score": 0.6571554605638533
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492816239530663
+    },
+    {
+      "name": "GFDL",
+      "label": "provider",
+      "description": "The Geophysical Fluid Dynamics Laboratory, a research institution focused on climate and Earth system modeling",
+      "uuid": "7699f957-bcfc-4069-b506-73b1973b8e4d",
+      "score": 0.701085458006825
+    },
+    {
+      "name": "biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of chemical elements and compounds through the environment and living organisms",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.676757405896951
+    },
+    {
+      "name": "ocean ecology",
+      "label": "variable",
+      "description": "The study of the interactions between organisms and their environment in the ocean",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.5186657447286985
+    }
+  ],
+  "(6785, 9207)": [
+    {
+      "name": "TOPAZ2",
+      "label": "model",
+      "description": "A biogeochemical model that simulates the interactions between the ocean's biota, chemistry, and physics",
+      "uuid": "ba7cc1c1-c5ef-43ff-9a2e-84629f0a94fa",
+      "score": 0.6342922225470456
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that live in the ocean and are a crucial component of the marine food chain",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6914058812629679
+    },
+    {
+      "name": "nitrogen fixation",
+      "label": "variable",
+      "description": "The process by which certain organisms convert atmospheric nitrogen into a form that can be used by other organisms",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5565181155492135
+    },
+    {
+      "name": "GFDL",
+      "label": "provider",
+      "description": "The Geophysical Fluid Dynamics Laboratory, a research institution that develops and uses models to study the Earth's climate system",
+      "uuid": "7699f957-bcfc-4069-b506-73b1973b8e4d",
+      "score": 0.6816035162341305
+    },
+    {
+      "name": "LM3.0",
+      "label": "model",
+      "description": "The current GFDL land model, which represents vegetation as five dynamically competing vegetation types",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.5305859695958307
+    },
+    {
+      "name": "deciduous",
+      "label": "variable",
+      "description": "A type of tree that sheds its leaves seasonally",
+      "uuid": "b7de16ed-c090-449b-81c1-44fe5b1195f0",
+      "score": 0.6173800894870964
+    },
+    {
+      "name": "coniferous",
+      "label": "variable",
+      "description": "A type of tree that produces cones and has needle-like leaves",
+      "uuid": "b26769a1-f023-4ab1-bc21-78ef2a5fd185",
+      "score": 0.6395516463280324
+    },
+    {
+      "name": "tropical",
+      "label": "location",
+      "description": "A region of the Earth located near the equator, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.6357577060285443
+    },
+    {
+      "name": "carbon",
+      "label": "variable",
+      "description": "A chemical element that is a fundamental component of all living organisms",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.6193256615892745
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A chemical element that is essential for the survival of most living organisms",
+      "uuid": "90aa8838-79bd-4b28-b518-8217e863c385",
+      "score": 0.5786272188125239
+    },
+    {
+      "name": "nitrate",
+      "label": "variable",
+      "description": "A compound that is a common source of nitrogen for plants",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.6279220829899658
+    },
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A compound that is a common source of nitrogen for plants",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.658147595923238
+    },
+    {
+      "name": "iron",
+      "label": "variable",
+      "description": "A chemical element that is essential for the growth and development of many organisms",
+      "uuid": "0965eb7b-6bd3-48a3-aa2a-52d7e2dda8ad",
+      "score": 0.6287730345887358
+    }
+  ],
+  "(8763, 11447)": [
+    {
+      "name": "LM3.0",
+      "label": "model",
+      "description": "The current GFDL land model, representing vegetation as five dynamically competing vegetation types and simulating changes in vegetation carbon pools through phenology, natural mortality, and fire",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.5482869687394244
+    },
+    {
+      "name": "GFDL",
+      "label": "provider",
+      "description": "The Geophysical Fluid Dynamics Laboratory, a research institution focused on climate and weather modeling",
+      "uuid": "7699f957-bcfc-4069-b506-73b1973b8e4d",
+      "score": 0.6966269341173823
+    },
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A climate model developed by GFDL, used for simulating Earth's climate system",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.7014097091008116
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "An updated version of the ESM2M model, incorporating improvements and adjustments to better simulate climate processes",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.5791154435500695
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, including trees, grasses, and other types of plant growth, playing a crucial role in the carbon cycle and climate system",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.645342587528582
+    },
+    {
+      "name": "carbon",
+      "label": "variable",
+      "description": "A chemical element essential for life on Earth, playing a central role in the carbon cycle and climate change",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.6225632461919811
+    },
+    {
+      "name": "drought conditions",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on vegetation and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.679175478890816
+    },
+    {
+      "name": "coniferous evergreen",
+      "label": "vegetation type",
+      "description": "A type of tree that remains green year-round, common in temperate and boreal forests",
+      "uuid": "b26769a1-f023-4ab1-bc21-78ef2a5fd185",
+      "score": 0.5940311687096762
+    },
+    {
+      "name": "temperate deciduous trees",
+      "label": "vegetation type",
+      "description": "A type of tree that sheds its leaves seasonally, common in temperate forests",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6133676018364043
+    },
+    {
+      "name": "net photosynthesis",
+      "label": "variable",
+      "description": "The rate at which plants produce organic compounds from carbon dioxide and water, using sunlight as energy",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.5724029463538101
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering and leaf senescence, in relation to environmental factors",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6019534503549739
+    },
+    {
+      "name": "plant biomass",
+      "label": "variable",
+      "description": "The total amount of living plant material in a given area or volume, often used as an indicator of ecosystem productivity",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5995795870883569
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and other bodies of water",
+      "uuid": "e85d6a2d-23c7-405a-b062-caf78f6ab827",
+      "score": 0.6634101542348351
+    },
+    {
+      "name": "croplands",
+      "label": "location",
+      "description": "Areas of land used for growing crops, such as grains, fruits, and vegetables",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.684006829569973
+    },
+    {
+      "name": "pastures",
+      "label": "location",
+      "description": "Areas of land used for grazing livestock, such as cattle, sheep, and goats",
+      "uuid": "46a26fc7-95f0-409e-8bfa-eb623b3a3f8d",
+      "score": 0.5896822372177649
+    }
+  ],
+  "(10924, 13618)": [
+    {
+      "name": "land model",
+      "label": "model",
+      "description": "A computational representation of terrestrial processes, used to simulate and predict land surface interactions with the atmosphere and climate system",
+      "uuid": "e8c6761b-0653-495c-82e9-feb685344542",
+      "score": 0.6017581184705143
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7438582625622143
+    },
+    {
+      "name": "alkalinity",
+      "label": "variable",
+      "description": "A measure of the capacity of water to resist changes in pH, important in ocean chemistry and the carbon cycle",
+      "uuid": "a74059fe-6b15-4b55-8ea5-4a65b66c7e11",
+      "score": 0.7433318226172051
+    },
+    {
+      "name": "Global Ocean Data Analysis Project",
+      "label": "project",
+      "description": "An initiative to collect and analyze data on the global ocean's chemistry and properties",
+      "uuid": "324b431c-c46a-4d04-98d3-28a7c9658aed",
+      "score": 0.6283732586272643
+    },
+    {
+      "name": "net atmosphere-land and atmosphere-ocean fluxes",
+      "label": "variable",
+      "description": "Measurements of the exchange of carbon and other substances between the atmosphere and land or ocean surfaces",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.6708211660783524
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, essential for climate regulation and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6193093857074029
+    },
+    {
+      "name": "Biogeochemical tracers",
+      "label": "variable",
+      "description": "Substances used to track and study the movement of elements and compounds through the Earth's systems, including the carbon cycle",
+      "uuid": "080db90f-79ff-4900-941d-9c02fe2df862",
+      "score": 0.5819907522491095
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and atmosphere, which interacts with the climate system through various processes",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.6513321921879541
+    },
+    {
+      "name": "atmospheric CO",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the atmosphere, a key factor influencing global climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6375870729891083
+    },
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A version of the Earth System Model, designed to simulate and study interactions within the Earth's climate system",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.5885438916862794
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A version of the Earth System Model, designed to simulate and study interactions within the Earth's climate system",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.5958610109040724
+    },
+    {
+      "name": "CM2.1",
+      "label": "model",
+      "description": "A climate model used for simulating and predicting climate patterns and interactions",
+      "uuid": "87f323af-19b8-422b-9e21-f33287b37d3a",
+      "score": 0.602940510685548
+    },
+    {
+      "name": "World Ocean Atlas 2005",
+      "label": "project",
+      "description": "A comprehensive dataset and analysis of the world's oceans, including temperature, salinity, and other properties",
+      "uuid": "a71f951c-7865-4994-8302-ae8581bc4888",
+      "score": 0.5557249442706242
+    },
+    {
+      "name": "Garcia et al.",
+      "label": "provider",
+      "description": "A research group or institution that has contributed to the development of climate models and simulations",
+      "uuid": "2b590bb8-21f8-4d35-b610-e43bedb72263",
+      "score": 0.5085631890975403
+    },
+    {
+      "name": "Collier and Durack",
+      "label": "provider",
+      "description": "A research group or institution that has contributed to the development of climate models and simulations",
+      "uuid": "1dae6409-deae-4997-b279-b3931bec7bc4",
+      "score": 0.500959342920103
+    },
+    {
+      "name": "Dunne et al.",
+      "label": "provider",
+      "description": "A research group or institution that has contributed to the development of climate models and simulations",
+      "uuid": "db8348ff-0fb6-4adc-a472-9902bbc5a1f4",
+      "score": 0.5088140088814768
+    },
+    {
+      "name": "Shevliakova et al.",
+      "label": "provider",
+      "description": "A research group or institution that has contributed to the development of climate models and simulations",
+      "uuid": "1dae6409-deae-4997-b279-b3931bec7bc4",
+      "score": 0.5155595899889608
+    }
+  ],
+  "(13215, 15842)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "The Earth System Model version 2M, a comprehensive climate model that integrates physical, chemical, and biological processes to simulate Earth's climate system",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6314243171853025
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "The Earth System Model version 2G, a comprehensive climate model that integrates physical, chemical, and biological processes to simulate Earth's climate system",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6263727638628086
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life and its associated processes, influencing the carbon cycle and climate",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6463191462921667
+    },
+    {
+      "name": "soil carbon pools",
+      "label": "variable",
+      "description": "The amount of carbon stored in soils, an important component of the global carbon cycle",
+      "uuid": "a85012cc-766c-43d3-958e-5c72ebada9d3",
+      "score": 0.6238551600600906
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The world's oceans, covering over 70% of the Earth's surface and playing a crucial role in the global climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7382278605262884
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The Earth's terrestrial surface, encompassing various ecosystems and influencing the climate",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6739812434157985
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth located between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of biodiversity",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7679697102233125
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, influencing the climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6284284683388268
+    },
+    {
+      "name": "river fluxes",
+      "label": "variable",
+      "description": "The flow of water and nutrients from rivers into the ocean, affecting the ocean's biogeochemical cycles",
+      "uuid": "efecefa7-67b6-44a3-a4f6-dada93a70225",
+      "score": 0.5866074498917896
+    },
+    {
+      "name": "atmospheric deposition",
+      "label": "variable",
+      "description": "The process by which particles and gases are deposited from the atmosphere to the Earth's surface, influencing the climate and ecosystems",
+      "uuid": "dbeff538-6857-4573-8d14-12009e0ee078",
+      "score": 0.5470196240552032
+    },
+    {
+      "name": "net atmosphere-land and atmosphere-ocean fluxes",
+      "label": "variable",
+      "description": "The exchange of energy and matter between the atmosphere, land, and ocean, playing a crucial role in the global climate system",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.6233451458501134
+    },
+    {
+      "name": "ocean nitrogen inventory",
+      "label": "variable",
+      "description": "The amount of nitrogen stored in the ocean, an essential nutrient for marine life and influencing the ocean's biogeochemical cycles",
+      "uuid": "db5357c9-cc9d-4693-86fe-6bb88555d434",
+      "score": 0.5899305890798501
+    },
+    {
+      "name": "surface sediments",
+      "label": "location",
+      "description": "The layer of sediment at the ocean floor, influencing the ocean's biogeochemical cycles and storing carbon",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.5108879025751671
+    },
+    {
+      "name": "organic carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in organic matter, such as plants and animals, influencing the global carbon cycle",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6616943459790783
+    },
+    {
+      "name": "nitrogen",
+      "label": "variable",
+      "description": "An essential nutrient for life, influencing the ocean's biogeochemical cycles and the global climate system",
+      "uuid": "db5357c9-cc9d-4693-86fe-6bb88555d434",
+      "score": 0.680154250238913
+    },
+    {
+      "name": "ocean physical and biogeochemical components",
+      "label": "model",
+      "description": "The parts of a climate model that simulate the ocean's physical and biogeochemical processes, such as ocean currents and nutrient cycles",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.5506175692335697
+    }
+  ],
+  "(15377, 17704)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "The Earth System Model version 2M, a comprehensive climate model designed to simulate Earth's climate system",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6248861234236003
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "The Earth System Model version 2G, a variant of the Earth System Model designed to simulate Earth's climate system with different configurations",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.5869579477311415
+    },
+    {
+      "name": "ALK inventory",
+      "label": "variable",
+      "description": "A measure of the total amount of alkalinity in the ocean, which affects the ocean's ability to absorb carbon dioxide",
+      "uuid": "4eab7956-e59e-4615-8d5c-39a16faa1f27",
+      "score": 0.5700419613294223
+    },
+    {
+      "name": "ocean nitrogen inventory",
+      "label": "variable",
+      "description": "The total amount of nitrogen in the ocean, which plays a crucial role in marine ecosystems and the global nitrogen cycle",
+      "uuid": "db5357c9-cc9d-4693-86fe-6bb88555d434",
+      "score": 0.5865857310171807
+    },
+    {
+      "name": "N 2 fixation",
+      "label": "process",
+      "description": "The process by which certain microorganisms convert atmospheric nitrogen into a form that can be used by plants and other organisms",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5412814771692093
+    },
+    {
+      "name": "atmospheric deposition",
+      "label": "process",
+      "description": "The process by which substances such as nitrogen and carbon are deposited from the atmosphere into the ocean",
+      "uuid": "dbeff538-6857-4573-8d14-12009e0ee078",
+      "score": 0.5148994203919333
+    },
+    {
+      "name": "denitrification",
+      "label": "process",
+      "description": "The process by which microorganisms convert nitrate into nitrogen gas, which is then released into the atmosphere",
+      "uuid": "0d0de6a7-c340-4e6b-b01d-ccbb6e7fa913",
+      "score": 0.5854495511057113
+    },
+    {
+      "name": "surface NO 3",
+      "label": "variable",
+      "description": "The concentration of nitrate in the surface waters of the ocean, an important nutrient for phytoplankton",
+      "uuid": "4d06267b-8f85-4b7b-9b2f-97a09f804d70",
+      "score": 0.6211472303621736
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, known for its high levels of biodiversity and complex ocean dynamics",
+      "uuid": "2ea2cf5b-f0ae-4ea0-bcaa-b4b0c2e6636b",
+      "score": 0.575656792797747
+    },
+    {
+      "name": "subpolar North Atlantic",
+      "label": "location",
+      "description": "A region of the North Atlantic Ocean located near the Arctic Circle, known for its cold waters and high levels of ocean productivity",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.5886907644943163
+    },
+    {
+      "name": "subpolar North Pacific",
+      "label": "location",
+      "description": "A region of the North Pacific Ocean located near the Arctic Circle, known for its cold waters and high levels of ocean productivity",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.6225427670685345
+    },
+    {
+      "name": "log(Chl)",
+      "label": "variable",
+      "description": "A measure of the concentration of chlorophyll in the ocean, which is an indicator of phytoplankton biomass",
+      "uuid": "be15e9d3-5879-4432-96d1-3c16c81a4c8c",
+      "score": 0.6828627082320704
+    },
+    {
+      "name": "mixed layer dynamics",
+      "label": "process",
+      "description": "The movement and mixing of water in the upper layers of the ocean, which affects the distribution of heat, nutrients, and other properties",
+      "uuid": "48ec6449-373c-41f6-8a61-8f1e9ed95737",
+      "score": 0.6581614817315687
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "A type of microorganism that forms the base of the marine food web and plays a crucial role in the global carbon cycle",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.648274167345389
+    },
+    {
+      "name": "shallow mixed layers",
+      "label": "location",
+      "description": "A region of the ocean where the mixed layer is relatively shallow, often associated with high levels of phytoplankton productivity",
+      "uuid": "48ec6449-373c-41f6-8a61-8f1e9ed95737",
+      "score": 0.6360160806957433
+    },
+    {
+      "name": "tropical west Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, known for its high levels of biodiversity and complex ocean dynamics",
+      "uuid": "4f5b8f3d-19fe-4600-be01-b944f2eaf294",
+      "score": 0.5986855105349403
+    },
+    {
+      "name": "tropical Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located near the equator, known for its high levels of biodiversity and complex ocean dynamics",
+      "uuid": "2e391b10-0ed5-4742-9224-023d0d3f1a68",
+      "score": 0.524608209967746
+    },
+    {
+      "name": "Indian Oceans",
+      "label": "location",
+      "description": "A region of the Indian Ocean, known for its high levels of biodiversity and complex ocean dynamics",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.6511392859519133
+    },
+    {
+      "name": "Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, playing a key role in global ocean circulation and climate regulation",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.7840087517020452
+    },
+    {
+      "name": "DpCO 2",
+      "label": "variable",
+      "description": "The difference in carbon dioxide partial pressure between the ocean and the atmosphere, which affects the exchange of carbon dioxide between the two",
+      "uuid": "64b3edd5-584f-407a-ba30-f6965a00fce3",
+      "score": 0.6689475300914781
+    }
+  ],
+  "(17304, 19608)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A climate model used for simulating Earth's climate system, specifically the ocean and biogeochemical processes",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6525624670017648
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A climate model used for simulating Earth's climate system, specifically the ocean and biogeochemical processes",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6535623952734552
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that live in the ocean and play a crucial role in the global carbon cycle and ocean productivity",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6727899389893699
+    },
+    {
+      "name": "chlorophyll",
+      "label": "variable",
+      "description": "A green pigment found in phytoplankton, used to measure ocean productivity and health",
+      "uuid": "37669b8c-1940-4330-b4e9-ee49ad3673b5",
+      "score": 0.7468754102722653
+    },
+    {
+      "name": "Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, playing a key role in global ocean circulation and climate regulation",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.7840087517020452
+    },
+    {
+      "name": "NO 3",
+      "label": "variable",
+      "description": "Nitrate, a nutrient essential for phytoplankton growth and ocean productivity",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.7012142559582358
+    },
+    {
+      "name": "Chl",
+      "label": "variable",
+      "description": "Chlorophyll, a green pigment found in phytoplankton, used to measure ocean productivity and health",
+      "uuid": "37669b8c-1940-4330-b4e9-ee49ad3673b5",
+      "score": 0.719028274489033
+    },
+    {
+      "name": "DpCO 2",
+      "label": "variable",
+      "description": "The difference in partial pressure of carbon dioxide between the ocean and atmosphere, an important indicator of ocean carbon uptake",
+      "uuid": "64b3edd5-584f-407a-ba30-f6965a00fce3",
+      "score": 0.6839911802446582
+    },
+    {
+      "name": "PO 4",
+      "label": "variable",
+      "description": "Phosphate, a nutrient essential for phytoplankton growth and ocean productivity",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.677021121545809
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, known for its significant role in global ocean circulation and climate variability",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.8015077065536204
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, known for its significant role in global ocean circulation and climate variability",
+      "uuid": "2ea2cf5b-f0ae-4ea0-bcaa-b4b0c2e6636b",
+      "score": 0.6037837826533886
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, surrounded by the Indian and Pacific Oceans",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6926947845606821
+    },
+    {
+      "name": "Argentina",
+      "label": "location",
+      "description": "A country in South America, bordering the South Atlantic Ocean",
+      "uuid": "838923bc-cda7-4cf5-a21a-0c777304a593",
+      "score": 0.6051360591214556
+    }
+  ],
+  "(19231, 21610)": [
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located north of the equator, known for its influence on global ocean circulation and climate regulation",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7749538442305863
+    },
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A climate model used for simulating Earth's climate system, with a focus on oceanic and atmospheric processes",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6661806211805406
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A climate model used for simulating Earth's climate system, with a focus on oceanic and atmospheric processes",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6697097641066707
+    },
+    {
+      "name": "tropical Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, known for its significant role in global climate variability",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.5755190634313203
+    },
+    {
+      "name": "Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, playing a key role in global ocean circulation and climate regulation",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.7840087517020452
+    },
+    {
+      "name": "DIC",
+      "label": "variable",
+      "description": "Dissolved Inorganic Carbon, a measure of the amount of inorganic carbon dissolved in seawater, important for studying ocean chemistry and climate",
+      "uuid": "b2ef01b2-9d63-43a1-9de9-627117d034d2",
+      "score": 0.7305281045465953
+    },
+    {
+      "name": "ALK EXCESS",
+      "label": "variable",
+      "description": "Excess alkalinity, a measure of the ocean's buffering potential with respect to the addition of CO2 and other acids, important for studying ocean chemistry and climate",
+      "uuid": "4eab7956-e59e-4615-8d5c-39a16faa1f27",
+      "score": 0.6230002233169359
+    },
+    {
+      "name": "NO 3",
+      "label": "variable",
+      "description": "Nitrate, a nutrient essential for marine life, important for studying ocean chemistry and climate",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.7267135952167278
+    },
+    {
+      "name": "PO 4",
+      "label": "variable",
+      "description": "Phosphate, a nutrient essential for marine life, important for studying ocean chemistry and climate",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.6936962543887054
+    },
+    {
+      "name": "O 2",
+      "label": "variable",
+      "description": "Oxygen, a measure of the amount of oxygen dissolved in seawater, important for studying ocean chemistry and climate",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.6121852915928131
+    }
+  ],
+  "(21200, 23715)": [
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A climate model used to simulate and study Earth's climate system, focusing on ocean and atmosphere interactions",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6690321474117085
+    },
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A climate model used to simulate and study Earth's climate system, focusing on ocean and atmosphere interactions",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.658974041489687
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, known for its significant role in global climate variability and marine ecosystems",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.8016114014198182
+    },
+    {
+      "name": "Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, playing a key role in global ocean circulation and climate regulation",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.7840087517020452
+    },
+    {
+      "name": "thermocline",
+      "label": "ocean circulation",
+      "description": "A layer in the ocean where the temperature changes rapidly with depth, influencing ocean circulation and marine ecosystems",
+      "uuid": "68772b70-e493-48d5-b063-00b9d2dd4078",
+      "score": 0.7664807580756863
+    },
+    {
+      "name": "ALK EXCESS",
+      "label": "variable",
+      "description": "A measure of the excess alkalinity in seawater, used to study ocean chemistry and marine ecosystems",
+      "uuid": "4eab7956-e59e-4615-8d5c-39a16faa1f27",
+      "score": 0.6229245742218853
+    },
+    {
+      "name": "DIC",
+      "label": "variable",
+      "description": "Dissolved inorganic carbon, a measure of the carbon dissolved in seawater, used to study ocean chemistry and the carbon cycle",
+      "uuid": "b2ef01b2-9d63-43a1-9de9-627117d034d2",
+      "score": 0.7184665981822881
+    },
+    {
+      "name": "marine ecosystem",
+      "label": "platform",
+      "description": "A community of living organisms and their environment, used to study the interactions between organisms and their environment in the ocean",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6624924216512895
+    },
+    {
+      "name": "organic carbon pump",
+      "label": "variable",
+      "description": "A measure of the transfer of organic carbon from the surface ocean to the deep ocean, used to study the carbon cycle and ocean chemistry",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5786617033851754
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which phytoplankton produce organic matter through photosynthesis, used to study marine ecosystems and the carbon cycle",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7500713420100148
+    },
+    {
+      "name": "phytoplankton",
+      "label": "platform",
+      "description": "Microscopic plants that live in the ocean and produce organic matter through photosynthesis, used to study marine ecosystems and the carbon cycle",
+      "uuid": "235996b1-b1a8-4c20-bb1f-711fb1a0c952",
+      "score": 0.6773475125036882
+    },
+    {
+      "name": "nitrogen fixation",
+      "label": "variable",
+      "description": "The process by which certain organisms convert atmospheric nitrogen into a form that can be used by other organisms, used to study marine ecosystems and the nitrogen cycle",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5669501733696255
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, known for its significant role in global climate variability and marine ecosystems",
+      "uuid": "2ea2cf5b-f0ae-4ea0-bcaa-b4b0c2e6636b",
+      "score": 0.5973525399239151
+    },
+    {
+      "name": "California Current",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located off the coast of California, known for its significant role in global climate variability and marine ecosystems",
+      "uuid": "2ea2cf5b-f0ae-4ea0-bcaa-b4b0c2e6636b",
+      "score": 0.5483853995161152
+    }
+  ],
+  "(23382, 26076)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "The Earth System Model version 2M, designed to simulate and study interactions within the Earth's climate system",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6000011338253746
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "The Earth System Model version 2G, designed to simulate and study interactions within the Earth's climate system",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6036730164501242
+    },
+    {
+      "name": "organic carbon pump",
+      "label": "variable",
+      "description": "The process by which organic carbon is transported from the surface ocean to the deep ocean, influencing the global carbon cycle",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5578043453067651
+    },
+    {
+      "name": "atmospheric deposition",
+      "label": "variable",
+      "description": "The transfer of particles and gases from the atmosphere to the Earth's surface, including the oceans",
+      "uuid": "dbeff538-6857-4573-8d14-12009e0ee078",
+      "score": 0.536970254537027
+    },
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A compound consisting of nitrogen and hydrogen, playing a role in the nitrogen cycle and influencing phytoplankton growth",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.6859319942878237
+    },
+    {
+      "name": "net phytoplankton production",
+      "label": "variable",
+      "description": "The rate at which phytoplankton produce organic matter, minus the rate at which they are consumed by grazers",
+      "uuid": "3d8524ce-fa34-412e-9a92-95df9a0b6d10",
+      "score": 0.543467206237296
+    },
+    {
+      "name": "river runoff",
+      "label": "variable",
+      "description": "The flow of water from land into the ocean, carrying nutrients and influencing ocean chemistry and biology",
+      "uuid": "132ef849-3da3-4252-8f70-8dd36e790844",
+      "score": 0.6748355416209687
+    },
+    {
+      "name": "nitrification",
+      "label": "variable",
+      "description": "The process by which ammonia is converted into nitrate, an essential nutrient for phytoplankton growth",
+      "uuid": "d73ed320-cd5b-4994-a26a-dac5a2fc394f",
+      "score": 0.7168422304071214
+    },
+    {
+      "name": "Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, playing a key role in global ocean circulation and climate regulation",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.7840087517020452
+    },
+    {
+      "name": "atmospheric forcing",
+      "label": "variable",
+      "description": "The influence of atmospheric conditions, such as temperature, wind, and precipitation, on the Earth's climate system",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5951166726625333
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, known for its significant role in global climate variability",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7887859675106627
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, characterized by distinct climate patterns and seasonal variations",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.755966740948255
+    }
+  ],
+  "(25617, 28338)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "The Earth System Model version 2M, designed to simulate and study interactions within the Earth's climate system",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6000011338253746
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "The Earth System Model version 2G, designed to simulate and study interactions within the Earth's climate system",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6036730164501242
+    },
+    {
+      "name": "silicon",
+      "label": "variable",
+      "description": "A chemical element and a key component in many minerals, influencing ocean chemistry and climate",
+      "uuid": "c91c8879-1b29-48e3-b4cd-a238af66cdaf",
+      "score": 0.5428513275602597
+    },
+    {
+      "name": "calcite",
+      "label": "variable",
+      "description": "A mineral form of calcium carbonate, playing a role in ocean chemistry and the global carbon cycle",
+      "uuid": "11a76e1c-0423-44e8-be4d-3efc59980b49",
+      "score": 0.5995573593073581
+    },
+    {
+      "name": "aragonite",
+      "label": "variable",
+      "description": "A mineral form of calcium carbonate, influencing ocean chemistry and the global carbon cycle",
+      "uuid": "c0ca0bdf-72df-4bb3-97ba-938c71589da3",
+      "score": 0.54785038731257
+    },
+    {
+      "name": "atmospheric deposition",
+      "label": "variable",
+      "description": "The process by which particles and gases are removed from the atmosphere and deposited on the Earth's surface",
+      "uuid": "5b775d6e-de6c-4b11-b986-3c3a32cbf66d",
+      "score": 0.5295586705248247
+    },
+    {
+      "name": "river runoff",
+      "label": "variable",
+      "description": "The flow of water from land to oceans through rivers, influencing climate, ocean chemistry, and ecosystems",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.6983551353514319
+    },
+    {
+      "name": "South Asia",
+      "label": "location",
+      "description": "A region in Asia that includes countries such as India, Pakistan, and Bangladesh, known for its diverse climate and ecosystems",
+      "uuid": "ef8a6ecf-f0ca-4e05-81f9-d3be89e1ddc4",
+      "score": 0.7032486034775669
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, known for its diverse climate, ecosystems, and biodiversity",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6874906294838155
+    },
+    {
+      "name": "East Asia",
+      "label": "location",
+      "description": "A region in Asia that includes countries such as China, Japan, and Korea, known for its diverse climate, ecosystems, and economies",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.7028571118157648
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, known for its diverse climate, ecosystems, and economies",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6987396659597765
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An island nation in the North Atlantic, known for its ice sheet and influence on global climate",
+      "uuid": "f08d8e34-01db-4e89-a840-336432d18ecb",
+      "score": 0.7224532334729798
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "A continent at the South Pole, known for its ice sheet, unique ecosystems, and influence on global climate",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7429024164204704
+    },
+    {
+      "name": "tundra",
+      "label": "location",
+      "description": "A type of biome characterized by cold, treeless plains, found in Arctic and sub-Arctic regions",
+      "uuid": "46ecf46f-a710-4589-82b2-34aebf35c3c0",
+      "score": 0.6748180324923444
+    },
+    {
+      "name": "deciduous forest",
+      "label": "location",
+      "description": "A type of forest characterized by trees that shed their leaves seasonally, found in temperate regions",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6559929533207944
+    },
+    {
+      "name": "savanna",
+      "label": "location",
+      "description": "A type of biome characterized by grasslands with scattered trees, found in tropical and subtropical regions",
+      "uuid": "d58dab07-f57e-47a9-8dcf-02a3e17f3533",
+      "score": 0.7041078094050032
+    },
+    {
+      "name": "tropical forest",
+      "label": "location",
+      "description": "A type of forest characterized by high temperatures and high levels of rainfall, found near the equator",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.6534127374398039
+    },
+    {
+      "name": "warm grassland",
+      "label": "location",
+      "description": "A type of biome characterized by grasses and wildflowers, found in temperate regions",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.5052197301169674
+    },
+    {
+      "name": "coniferous forest",
+      "label": "location",
+      "description": "A type of forest characterized by trees that produce cones, found in temperate and boreal regions",
+      "uuid": "5d8236b5-bf5b-499f-a8e7-0cd80e00d261",
+      "score": 0.6438442262097445
+    },
+    {
+      "name": "hot sandy desert",
+      "label": "location",
+      "description": "A type of biome characterized by hot temperatures and limited vegetation, found in arid regions",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.5071612118656967
+    },
+    {
+      "name": "vegetation types",
+      "label": "variable",
+      "description": "The different types of plant communities found in various regions, influencing climate, ecosystems, and biodiversity",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5843373580724016
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "The total amount of living matter in a given area or volume, influencing climate, ecosystems, and biodiversity",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.6763171901545767
+    },
+    {
+      "name": "land-climate interactions",
+      "label": "variable",
+      "description": "The processes by which the land surface and atmosphere interact, influencing climate, ecosystems, and biodiversity",
+      "uuid": "514c891b-60b8-4a6f-adb3-0366c75588e9",
+      "score": 0.6088741576639933
+    },
+    {
+      "name": "NDVI",
+      "label": "instrument",
+      "description": "The Normalized Difference Vegetation Index, a remote sensing tool used to measure vegetation health and productivity",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7693619760290212
+    },
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer, a satellite instrument used to measure Earth's surface and atmosphere",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7445615272975413
+    }
+  ],
+  "(27872, 30790)": [
+    {
+      "name": "ESMs",
+      "label": "model",
+      "description": "Earth System Models, used to simulate and study interactions within the Earth's climate system",
+      "uuid": "f5b03277-666a-4fa0-ab1e-3734bcdc021f",
+      "score": 0.5558431106703973
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "Normalized Difference Vegetation Index, a measure of vegetation health and density",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7752006001739902
+    },
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "Moderate Resolution Imaging Spectroradiometer, a satellite instrument used for remote sensing of the Earth's surface and atmosphere",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7598855429776168
+    },
+    {
+      "name": "LM3.0",
+      "label": "model",
+      "description": "The Land Model version 3.0, a component of the Earth System Models",
+      "uuid": "79ef5e60-602d-4ac9-af6d-c6172decba4d",
+      "score": 0.5489356849902202
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, including land and ocean areas",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7850438058119227
+    },
+    {
+      "name": "deserts",
+      "label": "location",
+      "description": "Arid areas on Earth characterized by minimal precipitation and sparse vegetation",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.6732046385297071
+    },
+    {
+      "name": "coniferous forests",
+      "label": "location",
+      "description": "Forests dominated by coniferous tree species, found in various parts of the world",
+      "uuid": "5d8236b5-bf5b-499f-a8e7-0cd80e00d261",
+      "score": 0.6232267714110421
+    },
+    {
+      "name": "deciduous forests",
+      "label": "location",
+      "description": "Forests dominated by deciduous tree species, found in various parts of the world",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6293891137828956
+    },
+    {
+      "name": "tropical forests",
+      "label": "location",
+      "description": "Forests found near the equator, characterized by high temperatures and high levels of rainfall",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.6203496206149991
+    },
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A specific Earth System Model, used for climate simulations and predictions",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.636024289103871
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A specific Earth System Model, used for climate simulations and predictions",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6275454855651733
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, influencing climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6283499920751152
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and atmosphere",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6503573275789722
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater covering most of the Earth's surface, playing a crucial role in the climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7176389086561122
+    },
+    {
+      "name": "Norway",
+      "label": "location",
+      "description": "A country in Northern Europe, known for its fjords and mountainous terrain",
+      "uuid": "4bbd9eec-9daa-45c5-9cc7-1d8fb8bffd79",
+      "score": 0.6347017268956473
+    },
+    {
+      "name": "Sea of Japan",
+      "label": "location",
+      "description": "A body of water located between Japan and the Asian continent, influencing regional climate patterns",
+      "uuid": "d52321c6-ccc4-4a4a-bf94-638e57aaed63",
+      "score": 0.7248571273160729
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The frozen continent at the South Pole, playing a crucial role in the global climate system",
+      "uuid": "9f36c803-a972-4191-a345-faad9f6cf813",
+      "score": 0.7255082279781473
+    },
+    {
+      "name": "Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, playing a key role in global ocean circulation and climate regulation",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.7840087517020452
+    },
+    {
+      "name": "Western Europe",
+      "label": "location",
+      "description": "The western part of the European continent, including countries such as the UK, France, and Germany",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.774767019948199
+    },
+    {
+      "name": "tropical South America",
+      "label": "location",
+      "description": "The tropical region of South America, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5191679433289229
+    },
+    {
+      "name": "savannas",
+      "label": "location",
+      "description": "Grasslands with scattered trees, found in various parts of the world",
+      "uuid": "f8d55ee4-1efb-4d83-b07f-1029ab0fa9e1",
+      "score": 0.6996816654203784
+    },
+    {
+      "name": "tropical Asia",
+      "label": "location",
+      "description": "The tropical region of Asia, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5750955084970724
+    },
+    {
+      "name": "eastern North America",
+      "label": "location",
+      "description": "The eastern part of the North American continent, including the United States and Canada",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.535069995364887
+    }
+  ],
+  "(30308, 32765)": [
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A version of the Earth System Model used for simulating Earth's climate system, focusing on the interactions between the atmosphere, oceans, and land surfaces",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6263651746899076
+    },
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A version of the Earth System Model used for simulating Earth's climate system, focusing on the interactions between the atmosphere, oceans, and land surfaces",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6164054661135461
+    },
+    {
+      "name": "land variability fluxes",
+      "label": "variable",
+      "description": "The changes in fluxes of energy, carbon, or other substances over land, often driven by precipitation and other environmental factors",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.5023027407091347
+    },
+    {
+      "name": "river fluxes",
+      "label": "variable",
+      "description": "The flow of water and substances such as carbon or nutrients from rivers into the ocean, influencing ocean chemistry and climate",
+      "uuid": "efecefa7-67b6-44a3-a4f6-dada93a70225",
+      "score": 0.5962848825223577
+    },
+    {
+      "name": "stronger pycnocline",
+      "label": "ocean circulation",
+      "description": "A layer in the ocean where the density of water changes rapidly with depth, influencing ocean circulation and the distribution of heat and nutrients",
+      "uuid": "2ad73f85-8bad-4e5a-a902-e83eee910b5e",
+      "score": 0.6659598282188659
+    },
+    {
+      "name": "implied ocean heat transport",
+      "label": "variable",
+      "description": "The amount of heat transferred through the ocean, often inferred from measurements of ocean currents, temperature, and other properties",
+      "uuid": "299923f8-d5cd-47bf-abd4-6135ef0d7b1a",
+      "score": 0.5977015289581242
+    },
+    {
+      "name": "Western Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as the United Kingdom, France, and Germany, known for its temperate climate and significant economic activity",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.7217356088421
+    },
+    {
+      "name": "savannas",
+      "label": "location",
+      "description": "Grasslands with scattered trees, found in tropical and subtropical regions, and known for their diverse wildlife and ecosystems",
+      "uuid": "f8d55ee4-1efb-4d83-b07f-1029ab0fa9e1",
+      "score": 0.7236529620257257
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the Earth's climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7335508864387607
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, sleet, and hail, and a key driver of climate and weather patterns",
+      "uuid": "6c71e621-aae6-436b-9405-5dc6ed2a527e",
+      "score": 0.7005381859902633
+    },
+    {
+      "name": "CO 2 flux",
+      "label": "variable",
+      "description": "The exchange of carbon dioxide between the atmosphere and the ocean or land surfaces, influencing the Earth's climate and carbon cycle",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.6598718561236394
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7564571328196901
+    },
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The region below the surface of the ocean or land, where water or rock is found, and where various geological and biological processes occur",
+      "uuid": "0353603c-a179-41d3-bd20-c97c140d2167",
+      "score": 0.5797755758407597
+    },
+    {
+      "name": "divergence",
+      "label": "variable",
+      "description": "The rate at which a quantity, such as air or water, is moving away from a point or area, often used to describe atmospheric or oceanic circulation patterns",
+      "uuid": "5c58acfc-04ed-4cbf-8674-13c41b3e950d",
+      "score": 0.673157658211889
+    },
+    {
+      "name": "upwelling",
+      "label": "ocean circulation",
+      "description": "The process by which deep, cold water rises to the surface, often bringing nutrients and influencing marine ecosystems and climate",
+      "uuid": "75ab3537-34b1-4025-b758-7296626079ba",
+      "score": 0.623820502900295
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, including nitrogen, oxygen, and carbon dioxide, and playing a crucial role in the Earth's climate system",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6445708432881765
+    },
+    {
+      "name": "Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, playing a key role in global ocean circulation and climate regulation",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.7840087517020452
+    }
+  ],
+  "(32374, 34916)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A climate model used for simulating and predicting Earth's climate system, specifically designed to study carbon fluxes and ocean-atmosphere interactions",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6622806654652598
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A climate model used for simulating and predicting Earth's climate system, specifically designed to study carbon fluxes and ocean-atmosphere interactions",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6584782393609704
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where weather and climate phenomena occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.613838441913737
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7438582625622143
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and atmosphere, where various ecosystems and human activities take place",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6796318460069994
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water that connects lakes, wetlands, and the ocean, influencing local and global climate patterns",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.715710009040673
+    },
+    {
+      "name": "river water",
+      "label": "variable",
+      "description": "The water flowing through rivers, which can carry various substances and affect the surrounding environment and climate",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.5948578014908614
+    },
+    {
+      "name": "DIC",
+      "label": "variable",
+      "description": "Dissolved inorganic carbon, a measure of the amount of inorganic carbon dissolved in water, important for understanding ocean chemistry and climate",
+      "uuid": "b2ef01b2-9d63-43a1-9de9-627117d034d2",
+      "score": 0.7385787952671792
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a significant role in the Earth's climate system, influencing global temperatures and weather patterns",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6784665201544063
+    },
+    {
+      "name": "CaCO3",
+      "label": "variable",
+      "description": "Calcium carbonate, a chemical compound that can affect ocean chemistry and the global carbon cycle",
+      "uuid": "9902dc89-61fb-4a1e-becf-c8138122d2c4",
+      "score": 0.6462130440747184
+    },
+    {
+      "name": "Alk",
+      "label": "variable",
+      "description": "Alkalinity, a measure of the ability of a solution to neutralize acids, important for understanding ocean chemistry and climate",
+      "uuid": "a74059fe-6b15-4b55-8ea5-4a65b66c7e11",
+      "score": 0.7117289459418352
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent surrounding the South Pole, known for its extreme climate and role in the global climate system",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7338056202990245
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An island in the North Atlantic, known for its ice sheet and influence on global sea levels and climate",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.7176643393122595
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by a warm and humid climate",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.737420495542026
+    },
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The region below the surface of the Earth or ocean, where various geological and biological processes occur",
+      "uuid": "0353603c-a179-41d3-bd20-c97c140d2167",
+      "score": 0.5663963271364535
+    },
+    {
+      "name": "ice cores",
+      "label": "instrument",
+      "description": "Cylindrical samples of ice extracted from glaciers or ice sheets, used to study past climate conditions and atmospheric composition",
+      "uuid": "08a4f002-f368-414d-b923-83dd498452d8",
+      "score": 0.6703856676777196
+    }
+  ],
+  "(34558, 36985)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A climate model used for simulating Earth's climate system, specifically the atmospheric CO2 cycle",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6217247492102702
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A climate model used for simulating Earth's climate system, specifically the atmospheric CO2 cycle",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6210330437375723
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent surrounding the South Pole, known for its unique and sensitive climate",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7130005594943672
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An island in the North Atlantic, known for its ice sheet and significant impact on global sea levels",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.7163953543232505
+    },
+    {
+      "name": "NOAA/Global Monitoring Division",
+      "label": "provider",
+      "description": "A division of the National Oceanic and Atmospheric Administration, responsible for monitoring and analyzing global climate data",
+      "uuid": "b7f226b8-266b-457a-a1fc-51cbb0153683",
+      "score": 0.6390629688851924
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a crucial role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6831988491097487
+    },
+    {
+      "name": "Samoa",
+      "label": "location",
+      "description": "An island nation in the Pacific, known for its tropical climate and marine ecosystems",
+      "uuid": "55fcc7db-f0c6-4504-a686-b0318873efa2",
+      "score": 0.6848175701603089
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by a warm and humid climate",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.737420495542026
+    },
+    {
+      "name": "fossil fuels",
+      "label": "variable",
+      "description": "Energy sources formed from ancient plants and animals, which release carbon dioxide when burned",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5487253271189881
+    },
+    {
+      "name": "biomass burning terms",
+      "label": "variable",
+      "description": "The release of carbon dioxide and other gases through the burning of organic matter, such as forests and crops",
+      "uuid": "9d7eed04-9c49-4024-8d0f-06474cc38bbc",
+      "score": 0.6849004955581393
+    },
+    {
+      "name": "maximum NDVI",
+      "label": "variable",
+      "description": "The maximum value of the Normalized Difference Vegetation Index, a measure of vegetation health and productivity",
+      "uuid": "2297a00a-80f5-466e-b28e-b9ca42562d3f",
+      "score": 0.6363719254935261
+    }
+  ],
+  "(36517, 39266)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system, specifically designed to study the interactions between climate and the carbon cycle",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.601268561106165
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A version of the ESM2 model, with modifications to improve the representation of certain climate processes, such as the carbon cycle and its interactions with the climate system",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6115362829561131
+    },
+    {
+      "name": "GFDL",
+      "label": "provider",
+      "description": "The Geophysical Fluid Dynamics Laboratory, a research institution that develops and applies computer models to understand and predict the behavior of the Earth's climate system",
+      "uuid": "7699f957-bcfc-4069-b506-73b1973b8e4d",
+      "score": 0.67987038306313
+    },
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    },
+    {
+      "name": "American Samoa",
+      "label": "location",
+      "description": "A US territory located in the southern Pacific Ocean, used as a reference point for climate studies",
+      "uuid": "d4db292f-3097-4843-a6c5-291cf993bea9",
+      "score": 0.7031458409429177
+    },
+    {
+      "name": "South Pole",
+      "label": "location",
+      "description": "The southernmost point on Earth, located on the Antarctic continent, used as a reference point for climate studies",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.5784991284292633
+    },
+    {
+      "name": "Amazon",
+      "label": "location",
+      "description": "A region in South America, spanning across several countries, known for its dense rainforests and significant role in the global carbon cycle",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.6026393340554967
+    },
+    {
+      "name": "Oceania rain forests",
+      "label": "location",
+      "description": "A region of forests located in Oceania, known for its significant role in the global carbon cycle",
+      "uuid": "e3205e96-9379-4b6c-86e0-c012090549f7",
+      "score": 0.5576638458808959
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth located between the Tropic of Cancer and the Tropic of Capricorn, known for its warm climate and significant role in the global carbon cycle",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7471266009793437
+    },
+    {
+      "name": "carbon",
+      "label": "variable",
+      "description": "A chemical element that plays a crucial role in the Earth's climate system, particularly in the context of the carbon cycle",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.615247830804179
+    },
+    {
+      "name": "carbon cycle",
+      "label": "process",
+      "description": "The process by which carbon is exchanged between the atmosphere, oceans, land, and living organisms, playing a crucial role in the Earth's climate system",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.6355554701269347
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, playing a crucial role in the climate system and the carbon cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6485529042243706
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and productivity, used to study the carbon cycle and its interactions with the climate system",
+      "uuid": "2297a00a-80f5-466e-b28e-b9ca42562d3f",
+      "score": 0.7586828695058471
+    },
+    {
+      "name": "net ecosystem production",
+      "label": "variable",
+      "description": "The difference between the amount of carbon fixed by plants through photosynthesis and the amount of carbon released through respiration, playing a crucial role in the carbon cycle",
+      "uuid": "569a2936-7543-434e-92e2-6f75a5be68c0",
+      "score": 0.5567224922339092
+    },
+    {
+      "name": "atmospheric CO2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the atmosphere, playing a crucial role in the climate system and the carbon cycle",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6391868609061981
+    }
+  ],
+  "(38736, 41078)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "The Earth System Model version 2M, designed to simulate interactions within the Earth's climate system",
+      "uuid": "e883f91c-59ad-42f0-ab14-9d468842d67b",
+      "score": 0.6060746547579043
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "The Earth System Model version 2G, designed to simulate interactions within the Earth's climate system",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6104184803464109
+    },
+    {
+      "name": "carbon",
+      "label": "variable",
+      "description": "A chemical element essential for life and a key component of the Earth's climate system, particularly in the context of the carbon cycle",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.6239677927601606
+    },
+    {
+      "name": "carbon cycle",
+      "label": "process",
+      "description": "The biogeochemical cycle by which carbon is exchanged between the atmosphere, oceans, land, and living things",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.6018194045271151
+    },
+    {
+      "name": "land vegetation",
+      "label": "variable",
+      "description": "The plants and other organisms that grow on land, playing a critical role in the carbon cycle through photosynthesis and respiration",
+      "uuid": "053b8d43-684c-43c4-977d-2b678575fe22",
+      "score": 0.5128493559383893
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the global carbon cycle and climate regulation",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7261912145673672
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7414456615238761
+    },
+    {
+      "name": "soil carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in soils, which is a significant component of the global carbon cycle",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.6558862309021827
+    },
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    }
+  ],
+  "(40720, 43198)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "The Earth System Model version 2M, a climate model developed by the Geophysical Fluid Dynamics Laboratory (GFDL) for simulating Earth's climate system",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.674123500686398
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "The Earth System Model version 2G, a climate model developed by the Geophysical Fluid Dynamics Laboratory (GFDL) for simulating Earth's climate system",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.7094390471016072
+    },
+    {
+      "name": "GFDL",
+      "label": "provider",
+      "description": "The Geophysical Fluid Dynamics Laboratory, a research institution focused on understanding and predicting the Earth's climate system",
+      "uuid": "7699f957-bcfc-4069-b506-73b1973b8e4d",
+      "score": 0.689242579484272
+    },
+    {
+      "name": "carbon cycle",
+      "label": "variable",
+      "description": "The process by which carbon is exchanged between the atmosphere, oceans, land, and living things",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.6037495331352773
+    },
+    {
+      "name": "soil carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in soils, an important component of the global carbon cycle",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.6587486050734424
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The terrestrial portion of the Earth's surface, including continents and islands",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6139770969905995
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7438582625622143
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, essential for regulating the planet's climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6339015790641244
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water, often connecting lakes, wetlands, and oceans, and influencing local and global climate patterns",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.7229828326517571
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by a generally warm and humid climate",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7370473896970468
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that live in aquatic environments and play a crucial role in the ocean's carbon cycle",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6994055521760768
+    },
+    {
+      "name": "ocean acidification",
+      "label": "natural hazard",
+      "description": "The decrease in the pH level of the ocean over time, caused by the absorption of excess carbon dioxide from the atmosphere",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.7358628981635305
+    },
+    {
+      "name": "primary productivity",
+      "label": "variable",
+      "description": "The rate at which plants and other organisms produce organic matter through photosynthesis, an important indicator of ecosystem health",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.6934187541432686
+    }
+  ],
+  "(42721, 45332)": [
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, designed to simulate Earth's climate system with a focus on oceanic and atmospheric processes",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6790020928908908
+    },
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, designed to simulate Earth's climate system with a focus on oceanic and atmospheric processes",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.717778086252848
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7438582625622143
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth located between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7720336204563975
+    },
+    {
+      "name": "Sahel",
+      "label": "location",
+      "description": "A region in Africa located south of the Sahara Desert, known for its semi-arid climate and vulnerability to droughts",
+      "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+      "score": 0.7714417122637856
+    },
+    {
+      "name": "Amazon",
+      "label": "location",
+      "description": "A region in South America characterized by a vast rainforest and high levels of biodiversity",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.6057707573711233
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "The part of the Pacific Ocean located north of the equator, known for its complex oceanic and atmospheric processes",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7652592997143308
+    },
+    {
+      "name": "surface chlorophyll",
+      "label": "variable",
+      "description": "A measure of the amount of chlorophyll present in the surface waters of the ocean, used as an indicator of phytoplankton productivity",
+      "uuid": "0f816677-9e94-4e3b-b409-513335769af8",
+      "score": 0.6724389611171531
+    },
+    {
+      "name": "interior suboxia",
+      "label": "variable",
+      "description": "A measure of the low oxygen levels in the interior of the ocean, often used to study oceanic biogeochemical processes",
+      "uuid": "b846063c-e218-4fc6-9866-0cdca24e9023",
+      "score": 0.5109519917685849
+    },
+    {
+      "name": "anthropogenic emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases and other pollutants into the atmosphere due to human activities, such as burning fossil fuels and deforestation",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5425191627750219
+    },
+    {
+      "name": "surface biogeochemistry",
+      "label": "variable",
+      "description": "The study of the chemical and biological processes that occur at the surface of the ocean, including the exchange of nutrients and gases between the ocean and atmosphere",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.583122837294897
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases that surrounds the Earth, playing a crucial role in the global climate system",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6142222835387682
+    },
+    {
+      "name": "denitrification",
+      "label": "variable",
+      "description": "The process by which microorganisms convert nitrate into nitrogen gas, often occurring in low-oxygen environments such as the ocean",
+      "uuid": "0d0de6a7-c340-4e6b-b01d-ccbb6e7fa913",
+      "score": 0.5971659440144509
+    },
+    {
+      "name": "global alkalinity",
+      "label": "variable",
+      "description": "A measure of the ability of the ocean to neutralize acids, often used to study ocean acidification and its impacts on marine ecosystems",
+      "uuid": "4eab7956-e59e-4615-8d5c-39a16faa1f27",
+      "score": 0.6395165005327968
+    },
+    {
+      "name": "surface nutrients",
+      "label": "variable",
+      "description": "The nutrients present in the surface waters of the ocean, such as nitrogen and phosphorus, that are essential for phytoplankton growth",
+      "uuid": "4d06267b-8f85-4b7b-9b2f-97a09f804d70",
+      "score": 0.7537237594396711
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that plays a crucial role in the global climate system, often used as an indicator of climate change",
+      "uuid": "b53939ae-1264-409d-8434-3bb3d22b2848",
+      "score": 0.6402840429398586
+    }
+  ],
+  "(44919, 47085)": [
+    {
+      "name": "ESM2G",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, designed to simulate Earth's climate system and its components",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6916957859049543
+    },
+    {
+      "name": "ESM2M",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, designed to simulate Earth's climate system and its components",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.6535550618066838
+    },
+    {
+      "name": "DIC",
+      "label": "variable",
+      "description": "Dissolved Inorganic Carbon, a measure of the amount of inorganic carbon dissolved in seawater, an important parameter in ocean carbon cycling",
+      "uuid": "b2ef01b2-9d63-43a1-9de9-627117d034d2",
+      "score": 0.7350610676829366
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, known for its significant role in global climate variability and ocean circulation",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.797669380544644
+    },
+    {
+      "name": "GFDL",
+      "label": "provider",
+      "description": "The Geophysical Fluid Dynamics Laboratory, a research institution focused on understanding and predicting the Earth's climate system",
+      "uuid": "7699f957-bcfc-4069-b506-73b1973b8e4d",
+      "score": 0.689242579484272
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.751139418280364
+    },
+    {
+      "name": "biogeochemical function",
+      "label": "variable",
+      "description": "The processes that govern the cycling of nutrients and elements through ecosystems, including the interactions between living organisms and their environment",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.6626430224620714
+    },
+    {
+      "name": "net CO 2 exchanges",
+      "label": "variable",
+      "description": "The net exchange of carbon dioxide between the atmosphere and the land or ocean, an important parameter in understanding the global carbon cycle",
+      "uuid": "f6a8db71-9686-46ec-a3ac-66ca4a0ec1bd",
+      "score": 0.6099253399599408
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, extending from the surface up to the edge of space, playing a crucial role in regulating climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6359916536601793
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, including continents, islands, and underwater landmasses, which interact with the atmosphere and oceans to shape climate and weather patterns",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6341540357702903
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a central role in the global climate system and carbon cycle",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7236628815914803
+    }
+  ]
+}

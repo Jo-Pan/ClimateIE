@@ -1,0 +1,734 @@
+{
+  "(0, 3153)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the Earth's atmosphere, oceans, and land surfaces, affecting weather patterns, ecosystems, and human health",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5951309073554447
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "A measure of the well-being and quality of life of individuals and populations, influenced by various factors including climate change",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5362050605787679
+    },
+    {
+      "name": "Environmental health indicators (EHIs)",
+      "label": "instrument",
+      "description": "Tools used to assess, monitor, and quantify human health vulnerability to climate change, aiding in the design and targeting of interventions",
+      "uuid": "897b3d65-709c-4739-9ba6-85911295d843",
+      "score": 0.5318148059922323
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change (IPCC)",
+      "label": "provider",
+      "description": "An international organization that assesses the science related to climate change, providing guidance for policymakers and stakeholders",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7459845718657804
+    },
+    {
+      "name": "Special Report on Emissions Scenarios (SRES)",
+      "label": "project",
+      "description": "A report that describes possible future emissions scenarios, used to estimate the potential impacts of climate change",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.670938768281453
+    },
+    {
+      "name": "World Health Organization (WHO)",
+      "label": "provider",
+      "description": "A specialized agency of the United Nations, responsible for international public health",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6842689697404756
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms, often exacerbated by climate change",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6770311670416539
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric, oceanic, and terrestrial factors that influence climate, including temperature, rainfall, and air quality",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.717943254471081
+    },
+    {
+      "name": "climate change adaptation",
+      "label": "project",
+      "description": "Efforts to adjust to the anticipated or actual impacts of climate change, aiming to reduce vulnerability and enhance resilience",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6453298979577278
+    },
+    {
+      "name": "SRES future emission scenarios",
+      "label": "experiment",
+      "description": "Hypothetical scenarios describing possible future emissions of greenhouse gases, used to estimate the potential impacts of climate change",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.6445701271511852
+    },
+    {
+      "name": "IPCC's Fourth Assessment",
+      "label": "project",
+      "description": "A comprehensive report assessing the science related to climate change, published in 2007",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5419596214137673
+    }
+  ],
+  "(2628, 5875)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the Earth's climate system, affecting weather patterns, ecosystems, and human health",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5901734114342813
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "The state of physical, mental, and social well-being of individuals and populations, influenced by various factors including climate change",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5551976303097614
+    },
+    {
+      "name": "World Health Organization (WHO)",
+      "label": "provider",
+      "description": "A specialized agency of the United Nations responsible for international public health, providing guidance and support for global health initiatives",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.7125714552653578
+    },
+    {
+      "name": "extreme heat",
+      "label": "weather event",
+      "description": "A period of abnormally hot weather, potentially leading to heat-related illnesses and mortality",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.6493256779531148
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, potentially leading to water scarcity and impacts on human health and ecosystems",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7130040184278674
+    },
+    {
+      "name": "storms",
+      "label": "weather event",
+      "description": "Severe weather conditions, potentially leading to injuries, mortality, and damage to infrastructure and the environment",
+      "uuid": "ad28623e-bb9b-433c-8fc1-2ab06dda58c4",
+      "score": 0.6568448314126889
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "The measure of the cleanliness of the air, influenced by factors such as pollution, temperature, and climate change",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6624703170530954
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "The measure of the cleanliness of water, influenced by factors such as pollution, temperature, and climate change",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.6849287182307953
+    },
+    {
+      "name": "infectious diseases",
+      "label": "variable",
+      "description": "Diseases caused by the transmission of pathogens, potentially influenced by climate change and environmental factors",
+      "uuid": "7d59f070-ccac-4a90-815b-edfca521779b",
+      "score": 0.5738416171553209
+    },
+    {
+      "name": "landscapes",
+      "label": "location",
+      "description": "The physical environment, including natural and human-made features, potentially influenced by climate change",
+      "uuid": "f36d71c6-f2ad-49c4-809f-09b4f0688412",
+      "score": 0.5951328623515123
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric and environmental factors, such as temperature, rainfall, and sea level, that influence climate patterns and human health",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6669617377372276
+    },
+    {
+      "name": "human dimensions",
+      "label": "variable",
+      "description": "The social, economic, and cultural factors that influence human behavior, well-being, and vulnerability to climate change",
+      "uuid": "fb93d937-c17c-45d0-a9e3-ca5c8a800ca8",
+      "score": 0.6865147258180669
+    }
+  ],
+  "(5352, 8722)": [
+    {
+      "name": "WHO",
+      "label": "provider",
+      "description": "The World Health Organization, a specialized agency of the United Nations responsible for international public health\uff09",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6637361172280815
+    },
+    {
+      "name": "environmental health indicators",
+      "label": "variable",
+      "description": "Tools used to assess and monitor human health vulnerability to climate variability and change\uff09",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5733533339321216
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant change in global or regional climate patterns, often linked to human activities and having major impacts on the environment and human health\uff09",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5937995755892158
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "The overall well-being of individuals and populations, influenced by factors such as climate change, environmental conditions, and disease\uff09",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.588776587232598
+    },
+    {
+      "name": "global environmental change",
+      "label": "natural hazard",
+      "description": "Major changes in the Earth's physical and biological systems, including climate change, that impact human health and the environment\uff09",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.550666316464184
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences, such as heatwaves, floods, and storms, that can have significant impacts on human health\uff09",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6493994450094237
+    },
+    {
+      "name": "United States Centers for Disease Control and Prevention",
+      "label": "provider",
+      "description": "A national public health agency of the United States, focused on protecting public health and safety through the control and prevention of disease\uff09",
+      "uuid": "5fab3862-6df5-4835-843a-3eceae73c119",
+      "score": 0.5905816087821285
+    }
+  ],
+  "(8132, 11453)": [
+    {
+      "name": "EHI",
+      "label": "project",
+      "description": "A project that focuses on developing Environmental Health Indicators to monitor and assess environmental health issues related to climate change",
+      "uuid": "9cd9191e-db82-408b-a3bd-9f9bb7ce0679",
+      "score": 0.5816327718537212
+    },
+    {
+      "name": "WHO Europe",
+      "label": "provider",
+      "description": "The European regional office of the World Health Organization, responsible for promoting health and well-being in the European region",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.5317401024441647
+    },
+    {
+      "name": "United States Centers for Disease Control and Prevention",
+      "label": "provider",
+      "description": "A national public health agency in the United States, responsible for protecting public health and safety",
+      "uuid": "5fab3862-6df5-4835-843a-3eceae73c119",
+      "score": 0.5939414259650598
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872681524345835
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "The overall well-being and health status of individuals and populations, influenced by environmental factors such as climate change",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5842787282322934
+    },
+    {
+      "name": "natural systems",
+      "label": "location",
+      "description": "Ecosystems and natural environments that can be impacted by climate change, such as forests, oceans, and wildlife habitats",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5522099509434241
+    },
+    {
+      "name": "constructed systems",
+      "label": "location",
+      "description": "Human-made infrastructure and systems that can be impacted by climate change, such as buildings, transportation systems, and urban areas",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.5151717464212278
+    }
+  ],
+  "(10947, 14076)": [
+    {
+      "name": "CCEHI",
+      "label": "project",
+      "description": "Climate Change Environmental Health Indicators, a project that aims to develop and present indicators of the link between climate change and health",
+      "uuid": "9cd9191e-db82-408b-a3bd-9f9bb7ce0679",
+      "score": 0.5413129455453531
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the Earth's climate system, affecting weather patterns, sea levels, and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6001129060059596
+    },
+    {
+      "name": "health",
+      "label": "variable",
+      "description": "A measure of the well-being and quality of life of individuals and populations, influenced by environmental and climate factors",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5714439805607066
+    },
+    {
+      "name": "environmental exposure",
+      "label": "variable",
+      "description": "The contact or interaction between humans and environmental factors, such as air and water pollution, that can affect health",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5322345352160832
+    },
+    {
+      "name": "EHIs",
+      "label": "project",
+      "description": "Environmental Health Indicators, a project that aims to develop and present indicators of the link between environment and health",
+      "uuid": "6efd7ce6-ef47-4527-b7e4-88484f74633e",
+      "score": 0.5480812323395017
+    },
+    {
+      "name": "environment",
+      "label": "location",
+      "description": "The external surroundings and conditions that affect human health, including natural and built environments",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5294758723068894
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "A measure of the well-being and quality of life of individuals and populations, influenced by environmental factors",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5801773235505918
+    }
+  ],
+  "(13538, 16908)": [
+    {
+      "name": "EHIs",
+      "label": "variable",
+      "description": "Environmental Health Indicators, which are measures used to assess the impact of environmental factors on human health",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5661440493498506
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "The overall well-being of individuals and populations, influenced by various factors including environmental, social, and economic conditions",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5364967997004891
+    },
+    {
+      "name": "ecosystem",
+      "label": "location",
+      "description": "A community of living and non-living components, such as plants, animals, and microorganisms, that interact with each other and their environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6752407197315374
+    },
+    {
+      "name": "Organization for Economic Co-operation and Development",
+      "label": "provider",
+      "description": "An international organization that promotes economic growth, prosperity, and sustainable development",
+      "uuid": "63dffc44-2557-41a5-80c0-9594fcd19dfc",
+      "score": 0.6733283122718366
+    },
+    {
+      "name": "environmental performance indicators",
+      "label": "variable",
+      "description": "Measures used to assess the impact of human activities on the environment",
+      "uuid": "3d01c591-1681-40d5-8c86-3d4d8319d654",
+      "score": 0.6105465594837736
+    }
+  ],
+  "(16383, 19616)": [
+    {
+      "name": "human activities",
+      "label": "pressure",
+      "description": "The actions and processes that impact the environment, including social, economic, and institutional factors",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.5114445784868172
+    },
+    {
+      "name": "OECD",
+      "label": "provider",
+      "description": "The Organisation for Economic Co-operation and Development, an international organization that promotes economic growth, prosperity, and sustainable development",
+      "uuid": "63dffc44-2557-41a5-80c0-9594fcd19dfc",
+      "score": 0.7279460007719672
+    },
+    {
+      "name": "Commonwealth of Australia",
+      "label": "provider",
+      "description": "The federal government of Australia, responsible for developing and implementing policies for sustainable development",
+      "uuid": "03e2acdd-67f7-4380-8c82-53aeb1d4730e",
+      "score": 0.5735828106118388
+    },
+    {
+      "name": "state of sustainable development",
+      "label": "state",
+      "description": "The condition or status of sustainable development, including environmental, social, and economic aspects",
+      "uuid": "8d11c81c-ff5b-4cc0-9be2-8e73dddcb51b",
+      "score": 0.5625521325063777
+    }
+  ],
+  "(19103, 22210)": [
+    {
+      "name": "polluting emissions",
+      "label": "pressure",
+      "description": "The release of pollutants into the environment, contributing to environmental degradation",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5593514430813353
+    },
+    {
+      "name": "human health",
+      "label": "impact",
+      "description": "The effect of environmental pressures on human well-being and quality of life",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5483892253511363
+    },
+    {
+      "name": "ecosystems",
+      "label": "impact",
+      "description": "The effect of environmental pressures on the health and functioning of ecosystems",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5177090057711768
+    },
+    {
+      "name": "regulations",
+      "label": "response",
+      "description": "Rules and laws implemented to mitigate or adapt to environmental pressures and their impacts",
+      "uuid": "57df059e-578a-4371-9484-7a34d63edfa5",
+      "score": 0.6310615253342073
+    }
+  ],
+  "(21695, 24859)": [
+    {
+      "name": "EHIs",
+      "label": "instrument",
+      "description": "Environmental Health Indicators, used to measure and monitor the impacts of climate change on human health",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5639358016545245
+    },
+    {
+      "name": "Millennium Ecosystem Assessment",
+      "label": "project",
+      "description": "An assessment initiated in 2001 to evaluate the consequences of ecosystem change for human well-being and the scientific basis for action needed to enhance the conservation and sustainable use of ecosystems",
+      "uuid": "a16eea5f-58da-45ef-aa8e-3a36d059d777",
+      "score": 0.6658391612800106
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the Earth's climate system, influencing weather patterns, ecosystems, and human health",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5873907784428732
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "A measure of the well-being and quality of life of human populations, influenced by various factors including climate change",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5313300397422717
+    }
+  ],
+  "(24384, 27487)": [
+    {
+      "name": "EHIs",
+      "label": "variable",
+      "description": "Environmental Health Indicators, used to measure and monitor the impacts of climate change on human health>",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.565523784319875
+    },
+    {
+      "name": "WHO",
+      "label": "provider",
+      "description": "The World Health Organization, a leading international health agency>",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6430248092854479
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, more frequent natural disasters, and altered ecosystems>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5956569485853493
+    },
+    {
+      "name": "infectious diseases",
+      "label": "health outcome",
+      "description": "Diseases caused by the spread of pathogens, which can be influenced by climate change>",
+      "uuid": "7d59f070-ccac-4a90-815b-edfca521779b",
+      "score": 0.543052954144764
+    }
+  ],
+  "(26977, 30301)": [
+    {
+      "name": "WHO",
+      "label": "provider",
+      "description": "The World Health Organization, a specialized agency of the United Nations responsible for international public health",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6851939825962544
+    },
+    {
+      "name": "environmental health impacts",
+      "label": "variable",
+      "description": "The effects of environmental factors on human health, including physical, mental, and social well-being",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.645328724055084
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "The overall well-being of individuals and populations, influenced by various factors including environmental, social, and economic conditions",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5364967997004891
+    },
+    {
+      "name": "environment",
+      "label": "location",
+      "description": "The external surroundings and conditions that affect human health, including natural and built environments",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5294758723068894
+    },
+    {
+      "name": "Effects",
+      "label": "variable",
+      "description": "The health effects resulting from exposure to environmental hazards, including physical, mental, and social impacts",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5482610856253899
+    }
+  ],
+  "(29744, 33028)": [
+    {
+      "name": "environmental health issues",
+      "label": "natural hazard",
+      "description": "Complex problems that arise from the interaction of environmental factors and human health, potentially leading to adverse health effects",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5955408194737838
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by long-term changes in the Earth's climate, leading to various environmental and health impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5867520174031304
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent where the DPSEEA framework has been applied to monitor health impacts of climate change",
+      "uuid": "a62ae820-58c5-47ff-bb72-2680962b26f4",
+      "score": 0.5187969294758406
+    },
+    {
+      "name": "drinking water",
+      "label": "variable",
+      "description": "A vital resource that can be affected by environmental factors, impacting human health",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5552096820263275
+    },
+    {
+      "name": "natural hazards",
+      "label": "natural hazard",
+      "description": "Phenomena with the potential to cause significant harm to life, property, and the environment",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.7072974324577028
+    },
+    {
+      "name": "climate-health indicators",
+      "label": "variable",
+      "description": "Measures used to track and understand the relationships between climate change and human health",
+      "uuid": "23703b6b-ee15-4512-b5b2-f441547e2edf",
+      "score": 0.584394930380021
+    }
+  ],
+  "(32479, 35748)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the Earth's climate system, influencing weather patterns, and having significant impacts on human health and the environment",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.583537439067694
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "A measure of the well-being and quality of life of individuals and populations, influenced by various factors including climate change",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5362050605787679
+    },
+    {
+      "name": "EHIs",
+      "label": "variable",
+      "description": "Environmental Health Indicators, used to measure and monitor the impacts of climate change on human health",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5639358016545245
+    },
+    {
+      "name": "children's environmental health",
+      "label": "variable",
+      "description": "A measure of the health and well-being of children, influenced by various environmental factors",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5052472173578562
+    },
+    {
+      "name": "contextual factors",
+      "label": "variable",
+      "description": "Social, economic, and demographic factors that influence both environmental exposures and health outcomes",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5008794327328889
+    },
+    {
+      "name": "EPHI framework",
+      "label": "model",
+      "description": "The Environmental Public Health Indicator framework, developed by the CDC to organize indicators into a hazard, exposure, health effect, and intervention structure",
+      "uuid": "3d01c591-1681-40d5-8c86-3d4d8319d654",
+      "score": 0.5313799343770587
+    },
+    {
+      "name": "CDC",
+      "label": "provider",
+      "description": "The Centers for Disease Control and Prevention, a US federal agency focused on protecting public health and safety",
+      "uuid": "5fab3862-6df5-4835-843a-3eceae73c119",
+      "score": 0.6052645632146789
+    },
+    {
+      "name": "climate-health indicators",
+      "label": "variable",
+      "description": "Indicators used to measure and monitor the impacts of climate change on human health",
+      "uuid": "23703b6b-ee15-4512-b5b2-f441547e2edf",
+      "score": 0.6002300828680192
+    }
+  ],
+  "(35181, 38374)": [
+    {
+      "name": "Environmental Public Health Indicator (EPHI) framework",
+      "label": "project",
+      "description": "A framework developed by the CDC to organize indicators into a hazard, exposure, health effect, and intervention structure for environmental public health>",
+      "uuid": "3d01c591-1681-40d5-8c86-3d4d8319d654",
+      "score": 0.5338020897780789
+    },
+    {
+      "name": "CDC",
+      "label": "provider",
+      "description": "The Centers for Disease Control and Prevention, a US federal agency responsible for protecting public health and safety>",
+      "uuid": "5fab3862-6df5-4835-843a-3eceae73c119",
+      "score": 0.602898158935229
+    },
+    {
+      "name": "health effect indicators",
+      "label": "variable",
+      "description": "Diseases or conditions that identify an adverse effect from exposure to a known or suspected environmental hazard>",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5191782797066716
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "The overall well-being of individuals, including physical, mental, and social aspects>",
+      "uuid": "5e468bd6-a13a-4f49-8cb4-7a0ba69d8ad3",
+      "score": 0.5070352328469232
+    },
+    {
+      "name": "vulnerable or disadvantaged groups",
+      "label": "location",
+      "description": "Populations that are at higher risk of adverse health effects due to environmental hazards, such as low-income communities or communities of color>",
+      "uuid": "35b7c7cd-49c8-476c-83f2-f2e1f4097307",
+      "score": 0.6623067845136047
+    },
+    {
+      "name": "project",
+      "label": "instrument",
+      "description": "A planned set of interrelated tasks to be executed over a fixed period and within certain cost and other limitations>",
+      "uuid": "fb0b9fcd-5c96-4989-8c64-a479bbed83ab",
+      "score": 0.5412540393983776
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, more frequent extreme weather events, and other environmental impacts>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5938603704349565
+    },
+    {
+      "name": "Bangladesh",
+      "label": "location",
+      "description": "A country in South Asia, vulnerable to the impacts of climate change>",
+      "uuid": "28761db9-82fe-4a24-9a89-0fd6047fa1ea",
+      "score": 0.5830980936845316
+    }
+  ],
+  "(37829, 41179)": [
+    {
+      "name": "Bangladesh",
+      "label": "location",
+      "description": "A country in South Asia, vulnerable to the impacts of climate change",
+      "uuid": "28761db9-82fe-4a24-9a89-0fd6047fa1ea",
+      "score": 0.5908367931370142
+    },
+    {
+      "name": "environmental health system",
+      "label": "system",
+      "description": "A complex system that encompasses the relationships between the environment, human health, and the social and economic factors that influence them",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5707165124994228
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the Earth's climate system, causing changes in weather patterns, sea levels, and other environmental factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5980648830098833
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "The physical, mental, and social well-being of individuals and populations, influenced by various factors, including climate change",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5637370609024415
+    }
+  ],
+  "(40677, 43931)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the Earth's climate system, affecting weather patterns, ecosystems, and human health",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5901734114342813
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "A measure of the well-being and quality of life of individuals and populations, influenced by environmental factors",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5801773235505918
+    },
+    {
+      "name": "EHIs",
+      "label": "instrument",
+      "description": "Environmental Health Indicators, tools used to measure and monitor the impacts of environmental factors on human health",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.57063866894231
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "Complex networks of living organisms and their environment, providing essential services and supporting human well-being",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6695194732739898
+    }
+  ]
+}

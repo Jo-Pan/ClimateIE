@@ -1,0 +1,1201 @@
+{
+  "(0, 2715)": [
+    {
+      "name": "cnrm-arome",
+      "label": "model",
+      "description": "A Convection-Permitting Regional Climate Model with a 2.5 km horizontal resolution, used for simulating climate and precipitation patterns",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.5885733151400874
+    },
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A Regional Climate Model with a 12.5 km horizontal resolution, used as a forcing model for cnrm-arome",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5287633871244913
+    },
+    {
+      "name": "era-interim reanalysis",
+      "label": "dataset",
+      "description": "A global atmospheric reanalysis dataset, used as a forcing for the aladin-climate model",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7491792887135887
+    },
+    {
+      "name": "comephore",
+      "label": "dataset",
+      "description": "An hourly observation dataset with a resolution of 1 km, used for assessing simulated surface precipitation",
+      "uuid": "b6e0c874-c7e3-4bfc-931e-0774be816032",
+      "score": 0.5625070197630699
+    },
+    {
+      "name": "HyMeX",
+      "label": "project",
+      "description": "The Hydrological cycle in the Mediterranean eXperiment, a research project focused on studying the hydrological cycle in the Mediterranean region",
+      "uuid": "59a050da-525a-4416-8e2d-d291f837051d",
+      "score": 0.8108303253344318
+    },
+    {
+      "name": "Mediterranean region",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, known for its unique climate and precipitation patterns",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.5979769549452867
+    },
+    {
+      "name": "high precipitation events",
+      "label": "weather event",
+      "description": "Intense precipitation events that can lead to flash floods and other destructive consequences",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5790065970903067
+    },
+    {
+      "name": "extreme rainfall",
+      "label": "weather event",
+      "description": "Intense rainfall events that can cause significant damage and disruption",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6551809843137747
+    },
+    {
+      "name": "surface precipitation",
+      "label": "variable",
+      "description": "The amount of precipitation that reaches the Earth's surface, an important factor in climate and hydrological studies",
+      "uuid": "f29968d9-b911-45b5-b5b5-0a759a345ce9",
+      "score": 0.6761604313863147
+    },
+    {
+      "name": "upper-level flow",
+      "label": "variable",
+      "description": "A measure of the movement of air in the upper levels of the atmosphere, influencing weather patterns and precipitation",
+      "uuid": "592d49c4-e8ae-4ab4-bf24-ae4a896d0637",
+      "score": 0.5774668129781866
+    }
+  ],
+  "(2297, 4741)": [
+    {
+      "name": "Mediterranean Sea",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, surrounded by Europe, Africa, and Asia, and playing a significant role in regional climate patterns",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.7588062276922626
+    },
+    {
+      "name": "Western Europe",
+      "label": "location",
+      "description": "The western part of Europe, including countries such as France, Spain, and the United Kingdom, which experience a variety of climate conditions",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.6732999535317868
+    },
+    {
+      "name": "upper-level flow",
+      "label": "variable",
+      "description": "A measure of the movement of air in the upper atmosphere, influencing weather patterns and climate conditions",
+      "uuid": "592d49c4-e8ae-4ab4-bf24-ae4a896d0637",
+      "score": 0.5903716232235038
+    },
+    {
+      "name": "rain gauge observations",
+      "label": "instrument",
+      "description": "A device used to measure precipitation, providing data for climate research and weather forecasting",
+      "uuid": "6a0afbcb-36d7-4b10-a2c1-35d4d14d6c75",
+      "score": 0.637696914383835
+    },
+    {
+      "name": "rcms",
+      "label": "model",
+      "description": "Regional Climate Models, used to simulate and predict climate conditions at a regional scale",
+      "uuid": "e19daa87-0aff-4b35-97f9-27ff0cad6ef2",
+      "score": 0.5428249673963246
+    },
+    {
+      "name": "deep convection",
+      "label": "variable",
+      "description": "A process in the atmosphere involving the vertical movement of air, influencing weather patterns and climate conditions",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.5962850067425554
+    },
+    {
+      "name": "Regional Climate Model",
+      "label": "model",
+      "description": "A type of climate model used to simulate and predict climate conditions at a regional scale, taking into account local geography and climate patterns",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.5446176255741327
+    }
+  ],
+  "(4312, 7096)": [
+    {
+      "name": "Mediterranean coast",
+      "label": "location",
+      "description": "A region in southern Europe known for its mild climate and extreme precipitation events",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.5235264854350442
+    },
+    {
+      "name": "Austria",
+      "label": "location",
+      "description": "A country in central Europe known for its complex terrain and extreme precipitation events",
+      "uuid": "e4d33a7a-f145-4aec-9d15-e21dc9916aad",
+      "score": 0.5844228556174785
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent known for its diverse climate and extreme precipitation events",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6043029540316923
+    },
+    {
+      "name": "hourly rainfall",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall that occurs within a given hour",
+      "uuid": "2f0f103a-4fe9-429f-a783-ba1d6e6a446a",
+      "score": 0.615770296577182
+    },
+    {
+      "name": "precipitation amounts",
+      "label": "variable",
+      "description": "A measure of the total amount of precipitation that occurs within a given time period",
+      "uuid": "cad5c02a-e771-434e-bef6-8dced38a68e8",
+      "score": 0.618665246987596
+    },
+    {
+      "name": "simulated extreme precipitation",
+      "label": "variable",
+      "description": "A measure of the extreme precipitation events simulated by climate models",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5738956399819879
+    },
+    {
+      "name": "hourly heavy precipitating events",
+      "label": "weather event",
+      "description": "Extreme precipitation events that occur within a given hour and are characterized by heavy rainfall",
+      "uuid": "2f0f103a-4fe9-429f-a783-ba1d6e6a446a",
+      "score": 0.576486708787811
+    }
+  ],
+  "(6596, 9135)": [
+    {
+      "name": "rcm",
+      "label": "model",
+      "description": "A regional climate model used to simulate climate patterns at a regional scale",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5197859295383584
+    },
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A parameterized convection regional climate model used for simulating climate patterns",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.523810428407692
+    },
+    {
+      "name": "cnrm-arome38t1",
+      "label": "model",
+      "description": "A convection-permitting regional climate model used for simulating high-resolution weather and climate patterns",
+      "uuid": "893ba74c-8e13-4732-87cf-a7e50ae7e5cf",
+      "score": 0.5805121080229013
+    },
+    {
+      "name": "United Kingdom",
+      "label": "location",
+      "description": "A country in Northwest Europe, consisting of England, Scotland, Wales, and Northern Ireland",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6381906121865636
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country located in Western and Central Europe, known for its mountainous terrain and diverse climate",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.7552601358730351
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country located in Central Europe, known for its varied climate and geography",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6804786828392562
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by a unique climate and geography",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6261649304363603
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country located in Western Europe, known for its diverse climate and geography",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.7345780688265703
+    },
+    {
+      "name": "hourly rainfall",
+      "label": "variable",
+      "description": "A measurement of rainfall intensity at an hourly time scale",
+      "uuid": "2f0f103a-4fe9-429f-a783-ba1d6e6a446a",
+      "score": 0.6064495237886187
+    },
+    {
+      "name": "hourly time scale",
+      "label": "variable",
+      "description": "A time scale used for measuring and analyzing climate and weather patterns at an hourly resolution",
+      "uuid": "027dee16-b361-481e-868d-add966eb5b71",
+      "score": 0.6625478046783426
+    },
+    {
+      "name": "intense rain events",
+      "label": "weather event",
+      "description": "Short-term, high-intensity rainfall events that can cause significant impacts on the environment and human populations",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.5593954112778967
+    },
+    {
+      "name": "hpes",
+      "label": "weather event",
+      "description": "Hydrological precipitation extremes, referring to intense and extreme rainfall events",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5287016674477931
+    }
+  ],
+  "(8787, 11386)": [
+    {
+      "name": "M\u00e9t\u00e9o-France",
+      "label": "provider",
+      "description": "The French national meteorological service, responsible for providing weather forecasts, warnings, and climate data>",
+      "uuid": "e1569365-7ec4-45c7-a0ba-b69a2a7ba8f4",
+      "score": 0.7470950482606494
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Western Europe, where the Safran and Comphore projects are focused>",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.5666783439236613
+    },
+    {
+      "name": "Corsica",
+      "label": "location",
+      "description": "An island in the Mediterranean Sea, included in the Safran precipitation analysis>",
+      "uuid": "09d995de-2158-43f7-b113-9babb9a1593e",
+      "score": 0.6912864707678362
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important factor in climate and weather studies>",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6589464906891935
+    },
+    {
+      "name": "rain gauges",
+      "label": "instrument",
+      "description": "Devices used to measure precipitation, providing data for the Safran and Comphore projects>",
+      "uuid": "6a0afbcb-36d7-4b10-a2c1-35d4d14d6c75",
+      "score": 0.674016259545266
+    },
+    {
+      "name": "radar",
+      "label": "instrument",
+      "description": "A remote sensing technology used to detect and measure precipitation, used in the Comphore project>",
+      "uuid": "195f58c2-8ba2-4bcd-87e4-2c8d26997b3f",
+      "score": 0.6324364003360993
+    }
+  ],
+  "(10969, 13781)": [
+    {
+      "name": "radar data",
+      "label": "variable",
+      "description": "Data collected by radar systems to measure precipitation and other atmospheric conditions",
+      "uuid": "195f58c2-8ba2-4bcd-87e4-2c8d26997b3f",
+      "score": 0.5507021319340887
+    },
+    {
+      "name": "rain gauges",
+      "label": "instrument",
+      "description": "Devices used to measure rainfall, providing ground-based observations of precipitation",
+      "uuid": "6a0afbcb-36d7-4b10-a2c1-35d4d14d6c75",
+      "score": 0.7383257439018759
+    },
+    {
+      "name": "Corsica",
+      "label": "location",
+      "description": "A French island in the Mediterranean Sea, known for its mountainous terrain and unique climate",
+      "uuid": "09d995de-2158-43f7-b113-9babb9a1593e",
+      "score": 0.7355536529189906
+    },
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A regional climate model used for simulating climate conditions, based on hydrostatic equations and parameterized convection",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5350814815619556
+    }
+  ],
+  "(13348, 15585)": [
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A regional climate model used by the climate group at M\u00e9t\u00e9o-France for simulating climate conditions at high resolution",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.554945841967784
+    },
+    {
+      "name": "M\u00e9t\u00e9o-France",
+      "label": "provider",
+      "description": "The French national meteorological service, responsible for weather forecasting, climate research, and meteorological services",
+      "uuid": "e1569365-7ec4-45c7-a0ba-b69a2a7ba8f4",
+      "score": 0.7237339458897707
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Western Europe, often used as a study area for climate and meteorological research",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.6388103664265656
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, known for its unique climate and meteorological phenomena",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6200716876479688
+    },
+    {
+      "name": "radar rainfall measurement",
+      "label": "variable",
+      "description": "A type of data used to quantify precipitation amounts and patterns, often measured using radar technology",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5012246223704834
+    },
+    {
+      "name": "cnrm-cm5 cmip5 model",
+      "label": "model",
+      "description": "A climate model developed by the Centre National de Recherches M\u00e9t\u00e9orologiques, used for simulations in the Coupled Model Intercomparison Project Phase 5",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.7585669408673886
+    },
+    {
+      "name": "Euro-cordex",
+      "label": "project",
+      "description": "A European climate downscaling project, aiming to provide high-resolution climate simulations for the European region",
+      "uuid": "68885007-d975-4f24-bdd5-dd19b246bdf6",
+      "score": 0.6866279541034005
+    },
+    {
+      "name": "Med-cordex",
+      "label": "project",
+      "description": "A Mediterranean climate downscaling project, focusing on providing high-resolution climate simulations for the Mediterranean region",
+      "uuid": "68885007-d975-4f24-bdd5-dd19b246bdf6",
+      "score": 0.6487481479087036
+    },
+    {
+      "name": "long wave radiation",
+      "label": "variable",
+      "description": "A type of radiation emitted by the Earth's surface and atmosphere, influencing the climate system",
+      "uuid": "68323795-3614-462f-8259-bd5293620799",
+      "score": 0.724187744994831
+    },
+    {
+      "name": "short wave radiation",
+      "label": "variable",
+      "description": "A type of radiation received from the sun, influencing the Earth's climate and weather patterns",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.7322781859195476
+    },
+    {
+      "name": "air-sea turbulent fluxes",
+      "label": "variable",
+      "description": "The exchange of energy and momentum between the atmosphere and the ocean, playing a crucial role in climate dynamics",
+      "uuid": "7ee32363-7c39-40c3-95b3-4f24e284abb6",
+      "score": 0.5779317139811746
+    }
+  ],
+  "(15225, 17568)": [
+    {
+      "name": "V5",
+      "label": "model",
+      "description": "A version of a climate model, specifically designed to simulate and predict Earth's climate system",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5662307219299753
+    },
+    {
+      "name": "V5.3",
+      "label": "model",
+      "description": "An updated version of the V5 climate model, incorporating new physical parameterizations and improvements",
+      "uuid": "80122908-8018-4511-810c-dd7aaf639b91",
+      "score": 0.5406869903992833
+    },
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A limited area climate model, used for simulating and predicting regional climate patterns",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.552418887943307
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Western Europe, often used as a study area for climate and weather research",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.6440051264482481
+    },
+    {
+      "name": "era-interim",
+      "label": "model",
+      "description": "A global atmospheric reanalysis model, providing historical climate data for driving limited area models",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7895874853805892
+    },
+    {
+      "name": "rcms",
+      "label": "model",
+      "description": "Regional Climate Models, used for simulating and predicting regional climate patterns",
+      "uuid": "e19daa87-0aff-4b35-97f9-27ff0cad6ef2",
+      "score": 0.5471022032066358
+    },
+    {
+      "name": "Sea Surface Temperatures",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, an important factor in climate modeling and prediction",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7676315742412311
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere, influencing climate and weather patterns",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7062299338517258
+    },
+    {
+      "name": "cmip5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8225675166267868
+    },
+    {
+      "name": "cnrm-arome38t1",
+      "label": "model",
+      "description": "A specific version of the arome model, developed at the Centre National de Recherches M\u00e9t\u00e9orologiques",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.58129242906302
+    },
+    {
+      "name": "M\u00e9t\u00e9o-France",
+      "label": "provider",
+      "description": "The French national meteorological service, responsible for weather forecasting and climate research",
+      "uuid": "e1569365-7ec4-45c7-a0ba-b69a2a7ba8f4",
+      "score": 0.7211759315688104
+    },
+    {
+      "name": "ecmwf",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, a research institute providing global weather forecasts and climate data",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7700759498604012
+    },
+    {
+      "name": "aladin",
+      "label": "model",
+      "description": "A limited area model, used for simulating and predicting regional climate patterns",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5530969279748899
+    },
+    {
+      "name": "long wave radiation",
+      "label": "variable",
+      "description": "A type of radiation emitted by the Earth's surface, influencing climate and weather patterns",
+      "uuid": "68323795-3614-462f-8259-bd5293620799",
+      "score": 0.7133405593556347
+    },
+    {
+      "name": "short wave radiation",
+      "label": "variable",
+      "description": "A type of radiation from the sun, influencing climate and weather patterns",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.7366070689940462
+    },
+    {
+      "name": "air-sea turbulent fluxes",
+      "label": "variable",
+      "description": "The exchange of energy and momentum between the atmosphere and the ocean, influencing climate and weather patterns",
+      "uuid": "7ee32363-7c39-40c3-95b3-4f24e284abb6",
+      "score": 0.5723866878953501
+    }
+  ],
+  "(17185, 19454)": [
+    {
+      "name": "ecmWf",
+      "label": "provider",
+      "description": "The European Centre for Medium-range Weather Forecasts, an independent intergovernmental organization providing weather forecasts and climate research",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.746168081170921
+    },
+    {
+      "name": "M\u00e9t\u00e9o-France",
+      "label": "provider",
+      "description": "The French national meteorological service, responsible for weather forecasting, climate monitoring, and atmospheric research",
+      "uuid": "e1569365-7ec4-45c7-a0ba-b69a2a7ba8f4",
+      "score": 0.7265440629226774
+    },
+    {
+      "name": "aladin model",
+      "label": "model",
+      "description": "A limited-area numerical weather prediction model used for forecasting and research, developed by a consortium of European national meteorological services",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5645653532390246
+    },
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A version of the aladin model adapted for climate simulations, incorporating additional physical processes and parameterizations",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5410195690829709
+    },
+    {
+      "name": "planetary boundary layer",
+      "label": "location",
+      "description": "The lowest part of the atmosphere, where the Earth's surface significantly influences temperature, humidity, and wind",
+      "uuid": "765e92a7-8c14-47dc-bdd8-d85d132a11ee",
+      "score": 0.6706487936831554
+    },
+    {
+      "name": "wind divergence",
+      "label": "variable",
+      "description": "A measure of the rate at which air moves apart or comes together in the atmosphere, important for understanding weather patterns and climate processes",
+      "uuid": "5c58acfc-04ed-4cbf-8674-13c41b3e950d",
+      "score": 0.6787046160803444
+    },
+    {
+      "name": "wind vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air in the atmosphere, significant for understanding weather patterns, including the formation of storms and high/low-pressure systems",
+      "uuid": "858a80ff-5aa4-4590-b2e2-e88a802a6ee4",
+      "score": 0.7143925274046666
+    },
+    {
+      "name": "vertical divergence",
+      "label": "variable",
+      "description": "The rate at which air moves upward or downward in the atmosphere, crucial for understanding atmospheric circulation and weather phenomena",
+      "uuid": "a95a0223-c67b-45b9-addd-10607c09298a",
+      "score": 0.7417697484405027
+    }
+  ],
+  "(19058, 21625)": [
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A climate model used as an intermediate driving model for arome to avoid detrimental effects from large resolution jumps",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5030070130653467
+    },
+    {
+      "name": "era-interim",
+      "label": "project",
+      "description": "A reanalysis project providing global atmospheric data from 1979 to present, used for model initialization and forcing",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7826560604567455
+    },
+    {
+      "name": "Mediterranean Sea",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, playing a significant role in regional climate and weather patterns",
+      "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+      "score": 0.7221297510335305
+    },
+    {
+      "name": "Sea Surface Temperatures",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, an important factor influencing weather and climate",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7569026765296166
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles suspended in the air, affecting climate and weather by influencing radiation and cloud formation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7157666132478796
+    },
+    {
+      "name": "cmip5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8225675166267868
+    },
+    {
+      "name": "Extreme Precipitation Area",
+      "label": "location",
+      "description": "A defined region focused on the rainiest areas of Mediterranean France, used for analyzing extreme precipitation events",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5406281138602957
+    },
+    {
+      "name": "upper stratosphere",
+      "label": "location",
+      "description": "The upper part of the stratosphere, a layer of the atmosphere extending from about 10 to 50 kilometers above the Earth's surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6805873447655216
+    },
+    {
+      "name": "wind divergence",
+      "label": "variable",
+      "description": "A measure of the rate at which air moves apart or comes together in the atmosphere, influencing weather patterns",
+      "uuid": "5c58acfc-04ed-4cbf-8674-13c41b3e950d",
+      "score": 0.6689218232295748
+    },
+    {
+      "name": "wind vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air in the atmosphere, important for understanding weather patterns and storms",
+      "uuid": "858a80ff-5aa4-4590-b2e2-e88a802a6ee4",
+      "score": 0.7164771495532423
+    }
+  ],
+  "(21149, 23729)": [
+    {
+      "name": "Extreme Precipitation Area",
+      "label": "location",
+      "description": "A defined region in Mediterranean France characterized by high precipitation, identified using a sliding box method and comephore observation dataset",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5397046470264233
+    },
+    {
+      "name": "comephore observation dataset",
+      "label": "project",
+      "description": "A dataset used for observing and studying precipitation patterns, likely focused on the Mediterranean region",
+      "uuid": "b6e0c874-c7e3-4bfc-931e-0774be816032",
+      "score": 0.5443881684889381
+    },
+    {
+      "name": "cprcm",
+      "label": "model",
+      "description": "A climate model, possibly a regional climate model, used for studying precipitation and other climate variables",
+      "uuid": "e4947bae-3a15-4dc7-8637-8b0f5aee7a53",
+      "score": 0.5161221504515553
+    },
+    {
+      "name": "rcm",
+      "label": "model",
+      "description": "A regional climate model, used for simulating climate conditions at a regional scale",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5313651204310599
+    },
+    {
+      "name": "gcm",
+      "label": "model",
+      "description": "A general circulation model, a type of climate model that simulates the global climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7402351190514066
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A climate variable measured in terms of the amount of rainfall or snowfall over a given area and time period",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6530039845558357
+    }
+  ],
+  "(23277, 25951)": [
+    {
+      "name": "cprcm",
+      "label": "model",
+      "description": "A climate model with a resolution of 2.5 km, used for simulating and predicting climate patterns",
+      "uuid": "1b605b01-0e94-4e35-a01f-ad95368cd6ce",
+      "score": 0.5268082347021269
+    },
+    {
+      "name": "rcm",
+      "label": "model",
+      "description": "A regional climate model with a resolution of 12.5 km, used for studying regional climate phenomena",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5121873980841354
+    },
+    {
+      "name": "gcm",
+      "label": "model",
+      "description": "A General Climate Model with a coarser resolution of 50 km, used for global climate simulations",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6823962890942091
+    },
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A climate model or dataset used for comparison and validation of precipitation patterns",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5473430690280112
+    },
+    {
+      "name": "sub-daily scale",
+      "label": "variable",
+      "description": "A time scale used for studying climate patterns and precipitation, referring to periods shorter than a day",
+      "uuid": "f86e464a-cf9d-4e15-a39b-501855d1dc5a",
+      "score": 0.5172942793986035
+    },
+    {
+      "name": "seasonal scale",
+      "label": "variable",
+      "description": "A time scale used for studying climate patterns and precipitation, referring to periods of several months",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5649235775741223
+    }
+  ],
+  "(25699, 28284)": [
+    {
+      "name": "arome",
+      "label": "model",
+      "description": "A high-resolution atmospheric model used for simulating and predicting weather and climate patterns",
+      "uuid": "87753922-646b-4f21-885f-e2d2a5d8ba2c",
+      "score": 0.5009739337566929
+    },
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A climate model used for simulating and predicting climate patterns",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5521749006211034
+    },
+    {
+      "name": "orographic forcing",
+      "label": "variable",
+      "description": "The influence of mountains and other terrain features on atmospheric circulation and precipitation patterns",
+      "uuid": "84780569-bef5-41fd-901f-828418e390dd",
+      "score": 0.5891437141306036
+    },
+    {
+      "name": "rain gauges data",
+      "label": "instrument",
+      "description": "A device used to measure precipitation amounts and patterns",
+      "uuid": "6a0afbcb-36d7-4b10-a2c1-35d4d14d6c75",
+      "score": 0.7040460541451192
+    },
+    {
+      "name": "radar data",
+      "label": "instrument",
+      "description": "A device used to measure and track precipitation patterns",
+      "uuid": "195f58c2-8ba2-4bcd-87e4-2c8d26997b3f",
+      "score": 0.5742254569697481
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6536684181496747
+    }
+  ],
+  "(27815, 30341)": [
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A climate model used for simulating long-term climate patterns, including precipitation, over various regions",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5167631350848813
+    },
+    {
+      "name": "rain gauges",
+      "label": "instrument",
+      "description": "Devices used to measure precipitation amounts and intensities at specific locations",
+      "uuid": "6a0afbcb-36d7-4b10-a2c1-35d4d14d6c75",
+      "score": 0.7217155096820366
+    },
+    {
+      "name": "reanalysis processing",
+      "label": "experiment",
+      "description": "A methodological approach to re-examine and re-process historical climate data for more accurate analysis and modeling",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.6075674122530224
+    },
+    {
+      "name": "heavy and extreme daily precipitation",
+      "label": "weather event",
+      "description": "Intense rainfall events characterized by high precipitation amounts within short periods",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6174571975259504
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, known for its distinctive climate and precipitation patterns",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6023942994169903
+    }
+  ],
+  "(29862, 32589)": [
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A climate model used for simulating and predicting weather patterns and climate variability",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5504561155123413
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Western Europe, known for its diverse climate and geography",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.7051487781346543
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region in southern Europe, characterized by a unique climate and weather patterns",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6159084269848375
+    },
+    {
+      "name": "epa",
+      "label": "location",
+      "description": "A region in France, used as a study area for climate and weather research",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.5178210577381995
+    },
+    {
+      "name": "rain gauges",
+      "label": "instrument",
+      "description": "Devices used to measure precipitation and rainfall",
+      "uuid": "6a0afbcb-36d7-4b10-a2c1-35d4d14d6c75",
+      "score": 0.7323301695303226
+    },
+    {
+      "name": "hourly precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation that falls over a given area in a one-hour period",
+      "uuid": "2f0f103a-4fe9-429f-a783-ba1d6e6a446a",
+      "score": 0.6983234317905215
+    },
+    {
+      "name": "heavy and extreme daily precipitation",
+      "label": "variable",
+      "description": "Measures of intense rainfall events that occur over short periods",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5877321633742315
+    },
+    {
+      "name": "surface precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation that falls on the Earth's surface",
+      "uuid": "f29968d9-b911-45b5-b5b5-0a759a345ce9",
+      "score": 0.6925266799529494
+    },
+    {
+      "name": "extreme hourly precipitation",
+      "label": "variable",
+      "description": "A measure of intense rainfall events that occur over short periods",
+      "uuid": "2f0f103a-4fe9-429f-a783-ba1d6e6a446a",
+      "score": 0.5936155601832791
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6575846977002222
+    }
+  ],
+  "(32129, 34581)": [
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A climate model used for simulating and predicting weather and climate patterns",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.552541763804531
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, an important component of the Earth's water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.706584304514367
+    },
+    {
+      "name": "hourly precipitation",
+      "label": "variable",
+      "description": "The amount of precipitation that falls within a given hour, an important metric for understanding weather and climate patterns",
+      "uuid": "2f0f103a-4fe9-429f-a783-ba1d6e6a446a",
+      "score": 0.7193105668293044
+    },
+    {
+      "name": "topography",
+      "label": "location",
+      "description": "The study of the shape and features of the Earth's surface, including mountains, valleys, and other landforms",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6780344259953544
+    },
+    {
+      "name": "epa",
+      "label": "project",
+      "description": "A project or initiative focused on studying and analyzing environmental phenomena, possibly related to precipitation and climate",
+      "uuid": "f9342137-1ec2-441f-b2b3-3a51e4fde384",
+      "score": 0.5563144178104492
+    }
+  ],
+  "(34218, 36806)": [
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A climate model used for simulating and predicting weather patterns, including precipitation>",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5366462878414077
+    },
+    {
+      "name": "epa",
+      "label": "instrument",
+      "description": "An instrument or tool used for collecting and analyzing environmental data, including precipitation>",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.5485635106223653
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Western Europe, used as a study area for analyzing precipitation patterns>",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.6079463681848504
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall or other forms of moisture that fall to the ground>",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6836572482888322
+    },
+    {
+      "name": "daily precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall that falls to the ground over a 24-hour period>",
+      "uuid": "12250935-8f40-4279-aada-2f22cbef1459",
+      "score": 0.5916373205119558
+    },
+    {
+      "name": "hourly precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall that falls to the ground over a 1-hour period>",
+      "uuid": "2f0f103a-4fe9-429f-a783-ba1d6e6a446a",
+      "score": 0.6994705026339223
+    },
+    {
+      "name": "hourly rainfall",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall that falls to the ground over a 1-hour period>",
+      "uuid": "2f0f103a-4fe9-429f-a783-ba1d6e6a446a",
+      "score": 0.6223115183401738
+    }
+  ],
+  "(36354, 39167)": [
+    {
+      "name": "comephore",
+      "label": "dataset",
+      "description": "A dataset used for climate research, providing hourly rainfall data",
+      "uuid": "b6e0c874-c7e3-4bfc-931e-0774be816032",
+      "score": 0.5225090032946984
+    },
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A climate model used for simulating precipitation and other weather phenomena",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5453163953274166
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used to study climate and weather patterns",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6786580920140655
+    },
+    {
+      "name": "cprcms",
+      "label": "model",
+      "description": "A type of climate model that uses convection-permitting regional climate modeling",
+      "uuid": "e4947bae-3a15-4dc7-8637-8b0f5aee7a53",
+      "score": 0.5069366786631853
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region in Europe and Africa known for its unique climate and precipitation patterns",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6249927126266497
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country in Europe known for its varied climate and precipitation patterns",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.6208728354625117
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe known for its varied climate and precipitation patterns",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6545048136473429
+    },
+    {
+      "name": "United Kingdom",
+      "label": "location",
+      "description": "A country in Europe known for its varied climate and precipitation patterns",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.625813930643462
+    }
+  ],
+  "(38708, 41467)": [
+    {
+      "name": "Mediterranean Sea",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, playing a significant role in regional climate and weather patterns",
+      "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+      "score": 0.7221297510335305
+    },
+    {
+      "name": "comephore",
+      "label": "project",
+      "description": "A high-quality observation dataset for precipitation, used for validating and improving climate models",
+      "uuid": "b6e0c874-c7e3-4bfc-931e-0774be816032",
+      "score": 0.5489818302852997
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent with diverse climate and weather patterns, and one of the best-observed areas in the world",
+      "uuid": "a62ae820-58c5-47ff-bb72-2680962b26f4",
+      "score": 0.6239310444986191
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of water falling to the Earth's surface, an important aspect of climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6989937704542631
+    },
+    {
+      "name": "microphysics",
+      "label": "variable",
+      "description": "The study of small-scale physical processes in the atmosphere, including cloud formation and precipitation",
+      "uuid": "0cfcbaa7-727b-4199-8cca-93824b427e9b",
+      "score": 0.7005190802084166
+    },
+    {
+      "name": "radar data",
+      "label": "instrument",
+      "description": "A type of remote sensing data used to observe and measure precipitation and other atmospheric phenomena",
+      "uuid": "195f58c2-8ba2-4bcd-87e4-2c8d26997b3f",
+      "score": 0.6185171941668933
+    }
+  ],
+  "(41055, 43707)": [
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A parameterized convection Regional Climate Model used for simulating weather and climate",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5282943855590448
+    },
+    {
+      "name": "cnrm",
+      "label": "provider",
+      "description": "The Centre National de Recherches M\u00e9t\u00e9orologiques, a French research institution focused on meteorology and climate studies",
+      "uuid": "f1419130-529b-405b-9442-1e4b0809e8e3",
+      "score": 0.6769320262539977
+    },
+    {
+      "name": "comephore",
+      "label": "dataset",
+      "description": "A reference dataset blending station and radar data for studying precipitation patterns",
+      "uuid": "b6e0c874-c7e3-4bfc-931e-0774be816032",
+      "score": 0.5007555360792743
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6473658017629415
+    },
+    {
+      "name": "Coppola et al.",
+      "label": "project",
+      "description": "A research study focused on climate modeling and simulation",
+      "uuid": "2a7ed9f0-03c3-46db-a269-259f419efdc4",
+      "score": 0.5134094332131092
+    },
+    {
+      "name": "Seity et al.",
+      "label": "project",
+      "description": "A research study focused on climate modeling and simulation",
+      "uuid": "0a3e7f9b-e279-496d-aee2-41be7e05e0b4",
+      "score": 0.50176384929098
+    }
+  ],
+  "(43161, 45921)": [
+    {
+      "name": "aladin-climate",
+      "label": "model",
+      "description": "A climate model used for simulating weather and climate patterns, including precipitation and extreme events",
+      "uuid": "f94386e2-8e9b-4a95-9071-fb617a50cabb",
+      "score": 0.5423532399945465
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6909685933805586
+    },
+    {
+      "name": "Cordex",
+      "label": "project",
+      "description": "The Coordinated Regional Climate Downscaling Experiment, an international project aimed at downscaling global climate models to regional scales",
+      "uuid": "68885007-d975-4f24-bdd5-dd19b246bdf6",
+      "score": 0.7684393322257093
+    },
+    {
+      "name": "eucp",
+      "label": "project",
+      "description": "A research project focused on understanding and predicting climate change, particularly in the context of extreme precipitation events",
+      "uuid": "3565b745-0b09-4bac-92b0-459f1d7c400a",
+      "score": 0.568515847404936
+    },
+    {
+      "name": "HyMeX programme",
+      "label": "project",
+      "description": "A research program focused on understanding and predicting heavy precipitation and flooding events in the Mediterranean region",
+      "uuid": "59a050da-525a-4416-8e2d-d291f837051d",
+      "score": 0.7496825290028846
+    },
+    {
+      "name": "M\u00e9t\u00e9o-France",
+      "label": "provider",
+      "description": "The French national meteorological service, responsible for providing weather forecasts and climate research",
+      "uuid": "e1569365-7ec4-45c7-a0ba-b69a2a7ba8f4",
+      "score": 0.7336896678076079
+    },
+    {
+      "name": "EUropean Commission",
+      "label": "provider",
+      "description": "The executive body of the European Union, responsible for proposing and implementing EU policies, including those related to climate change and research",
+      "uuid": "57a14338-6965-41de-9876-41fa6d259c51",
+      "score": 0.6119403797692924
+    },
+    {
+      "name": "Med-cordex initiative",
+      "label": "project",
+      "description": "A regional initiative aimed at downscaling global climate models to the Mediterranean region",
+      "uuid": "68885007-d975-4f24-bdd5-dd19b246bdf6",
+      "score": 0.5661490428069429
+    }
+  ],
+  "(45475, 46013)": [
+    {
+      "name": "M\u00e9t\u00e9o-France",
+      "label": "provider",
+      "description": "The French national meteorological service, responsible for weather forecasting, climate monitoring, and atmospheric research",
+      "uuid": "e1569365-7ec4-45c7-a0ba-b69a2a7ba8f4",
+      "score": 0.7265440629226774
+    }
+  ]
+}

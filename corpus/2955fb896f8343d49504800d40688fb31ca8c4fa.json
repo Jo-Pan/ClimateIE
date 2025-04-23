@@ -1,0 +1,1549 @@
+{
+  "(0, 2962)": [
+    {
+      "name": "interannual variability",
+      "label": "variable",
+      "description": "The year-to-year variation in a climate or ecological metric, such as temperature or carbon balance",
+      "uuid": "7013bdc9-519d-42b6-827c-4b8013fbb726",
+      "score": 0.5155202882266233
+    },
+    {
+      "name": "net land carbon balance",
+      "label": "variable",
+      "description": "The difference between the amount of carbon absorbed by the land ecosystem and the amount released, influencing the global carbon cycle",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.536783818654215
+    },
+    {
+      "name": "human land use",
+      "label": "variable",
+      "description": "The management and modification of land by humans for purposes such as agriculture, forestry, and urban development",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5449028556621435
+    },
+    {
+      "name": "biosphere model",
+      "label": "model",
+      "description": "A computational representation of the Earth's biosphere, used to simulate and understand the interactions between the atmosphere, land, and oceans",
+      "uuid": "91c64c46-d040-4daa-b26c-61952fdfaf50",
+      "score": 0.6011928983875011
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The purpose or activity for which land is used, such as agriculture, conservation, or urban development",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5537202371989909
+    },
+    {
+      "name": "managed land",
+      "label": "location",
+      "description": "Areas of land that are under human management for purposes such as agriculture, forestry, or conservation",
+      "uuid": "2be0af28-a6b8-4fce-82e4-1ad86788a4d5",
+      "score": 0.5417584771682797
+    },
+    {
+      "name": "climate-carbon cycle feedbacks",
+      "label": "teleconnection",
+      "description": "The interactions between the climate system and the carbon cycle, where changes in one can affect the other",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6155390258316125
+    },
+    {
+      "name": "climate mitigation efforts",
+      "label": "project",
+      "description": "Actions taken to reduce the impact of human activities on the climate system, such as reducing greenhouse gas emissions",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6569039711748309
+    },
+    {
+      "name": "carbon sinks",
+      "label": "variable",
+      "description": "Natural or managed systems that absorb and store more carbon than they emit, such as forests or oceans",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.6158521023299237
+    },
+    {
+      "name": "atmospheric CO2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the Earth's atmosphere, an important indicator of climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6594504274354889
+    },
+    {
+      "name": "El Ni\u00f1o events",
+      "label": "weather event",
+      "description": "A complex weather pattern characterized by warmer-than-average sea surface temperatures in the eastern Pacific Ocean",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6027444086600642
+    },
+    {
+      "name": "semiarid biomes",
+      "label": "location",
+      "description": "Ecosystems characterized by low to moderate rainfall, often found in regions such as savannas or grasslands",
+      "uuid": "d58dab07-f57e-47a9-8dcf-02a3e17f3533",
+      "score": 0.5352657747096393
+    },
+    {
+      "name": "coupled climate-carbon cycle models",
+      "label": "model",
+      "description": "Computational representations of the interactions between the climate system and the carbon cycle",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.678954142182471
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "Areas of land used for growing crops or raising livestock",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6118647488367411
+    },
+    {
+      "name": "managed forest",
+      "label": "location",
+      "description": "Forests that are under human management for purposes such as timber production or conservation",
+      "uuid": "d2056285-8249-4c11-810b-783600030525",
+      "score": 0.5281951044700655
+    },
+    {
+      "name": "grassland",
+      "label": "location",
+      "description": "Areas of land characterized by grasses and other herbaceous plants, often found in regions such as prairies or savannas",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6066410578574916
+    }
+  ],
+  "(2458, 5572)": [
+    {
+      "name": "E LUC",
+      "label": "variable",
+      "description": "The carbon flux resulting from land-use changes, including emissions from land clearance and sinks from afforestation and reforestation",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.6748486087321355
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where carbon emissions and sinks interact",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.5743184235070139
+    },
+    {
+      "name": "IPCC 5th Assessment Report",
+      "label": "project",
+      "description": "A comprehensive report by the Intergovernmental Panel on Climate Change, assessing the current state of climate change knowledge",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5734429426491203
+    },
+    {
+      "name": "Global Carbon Project",
+      "label": "provider",
+      "description": "An international research project that aims to quantify and understand the global carbon cycle",
+      "uuid": "324b431c-c46a-4d04-98d3-28a7c9658aed",
+      "score": 0.5344411455933188
+    },
+    {
+      "name": "gridded dynamic global vegetation models",
+      "label": "model",
+      "description": "Complex models that simulate the dynamics of vegetation and carbon cycling, including the effects of environmental changes and land-use management",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.5987881182944311
+    },
+    {
+      "name": "afforestation",
+      "label": "variable",
+      "description": "The process of establishing forests on previously non-forested lands, which can act as a carbon sink",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6909536980319236
+    },
+    {
+      "name": "reforestation",
+      "label": "variable",
+      "description": "The process of re-establishing forests on previously forested lands, which can also act as a carbon sink",
+      "uuid": "fe6b37b9-f95a-491e-a58e-22aa66be9a9d",
+      "score": 0.710935323698742
+    },
+    {
+      "name": "land clearance",
+      "label": "variable",
+      "description": "The process of removing forests or other vegetation to make way for agricultural or other human uses, leading to carbon emissions",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.5037878451815186
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "The long-term warming of the planet, driven by increasing levels of greenhouse gases in the atmosphere",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5461685105279509
+    },
+    {
+      "name": "atmospheric CO2 growth",
+      "label": "variable",
+      "description": "The increase in atmospheric carbon dioxide concentrations, driven by fossil fuel emissions and land-use changes",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5874453294388147
+    },
+    {
+      "name": "nitrogen deposition",
+      "label": "variable",
+      "description": "The process by which nitrogen pollutants are deposited onto land and water surfaces, affecting ecosystem functioning and carbon cycling",
+      "uuid": "f5c982c1-921d-4218-a238-1db07c11ec6d",
+      "score": 0.5329091954365014
+    }
+  ],
+  "(5055, 8018)": [
+    {
+      "name": "ORCHIDEE",
+      "label": "model",
+      "description": "A Dynamic Global Vegetation Model used to simulate the land carbon cycle and its interactions with the climate system",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.5223320134898739
+    },
+    {
+      "name": "DGVMs",
+      "label": "model",
+      "description": "Dynamic Global Vegetation Models, a type of climate model that simulates the interactions between vegetation and the climate system",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.5971687812284572
+    },
+    {
+      "name": "E LUC",
+      "label": "variable",
+      "description": "Emissions from land-use change, a measure of the net carbon flux resulting from human activities such as deforestation and land management",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.6566779432740792
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The management and modification of land by humans, including activities such as deforestation, agriculture, and urbanization",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5558729257570703
+    },
+    {
+      "name": "carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between different components of the Earth system, including the atmosphere, oceans, and land",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.7369857783304716
+    },
+    {
+      "name": "deforestation",
+      "label": "land use",
+      "description": "The clearance of forests, usually as a result of human activities such as agriculture or urbanization",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6727899701669405
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "Areas of land used for growing crops or raising livestock",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6118647488367411
+    },
+    {
+      "name": "forest wood harvest",
+      "label": "land use",
+      "description": "The removal of wood from forests, usually for use as fuel or timber",
+      "uuid": "23336b57-1ba3-42a6-9ec7-152285c55689",
+      "score": 0.511969710417176
+    }
+  ],
+  "(7530, 10048)": [
+    {
+      "name": "deforestation",
+      "label": "natural hazard",
+      "description": "The clearance of forests, usually as a result of human activities like agriculture or urbanization, leading to loss of biodiversity and increased greenhouse gas emissions",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6900286971049571
+    },
+    {
+      "name": "afforestation/reforestation",
+      "label": "natural hazard",
+      "description": "The process of restoring or planting new forests, which can help sequester carbon dioxide from the atmosphere and mitigate climate change",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6652976540536546
+    },
+    {
+      "name": "forest biomass",
+      "label": "variable",
+      "description": "The total amount of organic matter in a forest, including trees, understory vegetation, and dead wood, which is an important indicator of forest health and carbon sequestration",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5414098346331978
+    },
+    {
+      "name": "forest carbon sinks",
+      "label": "variable",
+      "description": "The ability of forests to absorb and store carbon dioxide from the atmosphere, playing a crucial role in regulating the global climate",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5841375452781844
+    },
+    {
+      "name": "land ecosystems",
+      "label": "location",
+      "description": "Terrestrial environments that support a wide range of plant and animal species, and are influenced by human activities like land use changes and climate variability",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.6562386648484866
+    },
+    {
+      "name": "climate variability",
+      "label": "teleconnection",
+      "description": "The natural fluctuations in the climate system that occur over various timescales, from seasonal to decadal and longer, and can impact land ecosystems and human activities",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.536670031897644
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of biodiversity",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.751753826061181
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia with a large and diverse landscape, including forests, grasslands, and agricultural areas, which plays a significant role in the global carbon cycle",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5714242723445632
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent with a varied landscape, including forests, grasslands, and agricultural areas, which has experienced significant land use changes and climate variability over the centuries",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.564595720011106
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "A country in North America with a diverse landscape, including forests, grasslands, and agricultural areas, which is a major player in the global carbon cycle and climate change mitigation efforts",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5355341241974889
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent with a large and diverse landscape, including the Amazon rainforest, which is a critical component of the global carbon cycle and is impacted by deforestation and land use changes",
+      "uuid": "e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3",
+      "score": 0.5685249521235085
+    },
+    {
+      "name": "central Africa",
+      "label": "location",
+      "description": "A region with a high level of biodiversity and significant land use changes, including deforestation and agricultural expansion, which impacts the global carbon cycle and climate variability",
+      "uuid": "f2ffbe58-8792-413b-805b-3e1c8de1c6ff",
+      "score": 0.5313817063137865
+    },
+    {
+      "name": "South Asia",
+      "label": "location",
+      "description": "A region with a large and diverse population, and significant land use changes, including deforestation and agricultural expansion, which impacts the global carbon cycle and climate variability",
+      "uuid": "a8ee0d08-8772-4951-bbf0-4114dd07de03",
+      "score": 0.614855837663738
+    },
+    {
+      "name": "Southeast Asia",
+      "label": "location",
+      "description": "A region with a high level of biodiversity and significant land use changes, including deforestation and agricultural expansion, which impacts the global carbon cycle and climate variability",
+      "uuid": "9ea81338-dc64-4803-b0e2-db0e2aaa70cf",
+      "score": 0.6304823530994283
+    },
+    {
+      "name": "GCP",
+      "label": "provider",
+      "description": "The Global Carbon Project, an international research project that aims to understand the global carbon cycle and its impact on the climate system",
+      "uuid": "ab08cada-1a8e-4636-b834-18dc35266953",
+      "score": 0.6517149022102956
+    }
+  ],
+  "(9750, 12291)": [
+    {
+      "name": "E LUC",
+      "label": "variable",
+      "description": "The emission of carbon from land-use changes, such as deforestation and land degradation",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.5969540035837073
+    },
+    {
+      "name": "GCP",
+      "label": "provider",
+      "description": "The Global Carbon Project, an international research project that aims to study and understand the global carbon cycle",
+      "uuid": "ab08cada-1a8e-4636-b834-18dc35266953",
+      "score": 0.6208620046281439
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of biodiversity",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.751753826061181
+    },
+    {
+      "name": "northern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies north of the equator, including Europe, Asia, and North America",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7426644061814837
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent located in the northern hemisphere, comprising many countries and a diverse range of ecosystems",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7553893878101772
+    },
+    {
+      "name": "eastern Asia",
+      "label": "location",
+      "description": "A region in Asia that includes countries such as China, Japan, and Korea, characterized by high population densities and economic activity",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.689386148724206
+    },
+    {
+      "name": "deforestation",
+      "label": "natural hazard",
+      "description": "The clearance of forests, usually as a result of human activities such as agriculture, urbanization, or logging",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6692022007372933
+    }
+  ],
+  "(11863, 14531)": [
+    {
+      "name": "HN2017",
+      "label": "model",
+      "description": "A model or dataset used for comparison with ORCHIDEE, possibly related to land use change or carbon cycle simulations>",
+      "uuid": "32e2dce9-1271-4570-9345-452da11f0467",
+      "score": 0.5063641351002388
+    },
+    {
+      "name": "temperate and boreal regions",
+      "label": "location",
+      "description": "Geographic areas characterized by temperate and boreal forests, spanning across North America, Europe, and Asia>",
+      "uuid": "5d8236b5-bf5b-499f-a8e7-0cd80e00d261",
+      "score": 0.5317368894822333
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia with significant forest cover and management activities>",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5318780730320293
+    },
+    {
+      "name": "western Europe",
+      "label": "location",
+      "description": "A region in Europe with notable forest management and carbon sequestration efforts>",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.5417635875990963
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent with diverse forest types and management practices, including the United States and Canada>",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.5908275263711467
+    },
+    {
+      "name": "tropical regions",
+      "label": "location",
+      "description": "Geographic areas near the equator, characterized by tropical forests and high biodiversity>",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.6194251973614326
+    },
+    {
+      "name": "South and Southeast Asia",
+      "label": "location",
+      "description": "A region in Asia with diverse forest types and management practices, including countries such as India and Indonesia>",
+      "uuid": "9ea81338-dc64-4803-b0e2-db0e2aaa70cf",
+      "score": 0.5449290108929636
+    },
+    {
+      "name": "forest inventories",
+      "label": "variable",
+      "description": "Data collected through surveys and measurements of forest characteristics, including carbon stocks and tree growth>",
+      "uuid": "31d01087-d5b8-4474-820c-d84d523dfb39",
+      "score": 0.5124562205599948
+    },
+    {
+      "name": "carbon sinks",
+      "label": "variable",
+      "description": "The amount of carbon sequestered by forests or other ecosystems, often measured in units of carbon per year>",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.6182278261705166
+    },
+    {
+      "name": "E LUC",
+      "label": "variable",
+      "description": "The flux of carbon from land use change, including deforestation, land clearing, and other human activities>",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.7017734178394816
+    },
+    {
+      "name": "E legacy",
+      "label": "variable",
+      "description": "A component of E LUC, representing the legacy effects of past land use change on current carbon fluxes>",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.5196947088114532
+    },
+    {
+      "name": "E fire",
+      "label": "variable",
+      "description": "A component of E LUC, representing the carbon flux from fires, including those related to land clearing and fuel wood harvest>",
+      "uuid": "274498a8-af65-403a-a8d1-0eb8b7108cad",
+      "score": 0.5803553926860698
+    }
+  ],
+  "(14136, 16769)": [
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas, whose concentration in the atmosphere is an important indicator of climate change",
+      "uuid": "b53939ae-1264-409d-8434-3bb3d22b2848",
+      "score": 0.6522779861872733
+    },
+    {
+      "name": "E LUC",
+      "label": "variable",
+      "description": "Emissions from land-use change, an important component of the global carbon budget",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.618036546852043
+    },
+    {
+      "name": "E fire",
+      "label": "variable",
+      "description": "Emissions from fires, including those related to deforestation and fuel wood harvest",
+      "uuid": "274498a8-af65-403a-a8d1-0eb8b7108cad",
+      "score": 0.5578015433058802
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7561502079915926
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "weather event",
+      "description": "A phase of the ENSO cycle, characterized by warmer and drier conditions",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6035536437075936
+    },
+    {
+      "name": "eddy covariance flux measurements",
+      "label": "instrument",
+      "description": "A technique used to measure the exchange of carbon dioxide between the atmosphere and ecosystems",
+      "uuid": "fc35b6d6-ab5b-407f-bc83-871d9cf73cc1",
+      "score": 0.5310538106816697
+    },
+    {
+      "name": "net CO2 exchange",
+      "label": "variable",
+      "description": "The net exchange of carbon dioxide between the atmosphere and ecosystems",
+      "uuid": "f6a8db71-9686-46ec-a3ac-66ca4a0ec1bd",
+      "score": 0.6403100734632942
+    },
+    {
+      "name": "pasture",
+      "label": "location",
+      "description": "A type of agricultural land used for grazing livestock",
+      "uuid": "46a26fc7-95f0-409e-8bfa-eb623b3a3f8d",
+      "score": 0.658130763285736
+    },
+    {
+      "name": "cropland",
+      "label": "location",
+      "description": "A type of agricultural land used for growing crops",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6692393202923452
+    },
+    {
+      "name": "forests",
+      "label": "location",
+      "description": "A type of ecosystem characterized by dense tree cover",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6737799653958348
+    },
+    {
+      "name": "grassland",
+      "label": "location",
+      "description": "A type of ecosystem characterized by grasses and other herbaceous plants",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6509571151183018
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "A type of land used for agriculture, including cropland, pasture, and other types of agricultural land",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5947401250932106
+    }
+  ],
+  "(16298, 19098)": [
+    {
+      "name": "deforestation",
+      "label": "variable",
+      "description": "The removal of forests, usually as a result of human activities such as agriculture, urbanization, or logging>",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6761017644698709
+    },
+    {
+      "name": "FAOSTAT",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations statistics division, providing data on agriculture, forestry, and fisheries>",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.7369237424794073
+    },
+    {
+      "name": "ENSO climate variations",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a periodic climate phenomenon characterized by fluctuations in ocean temperatures and atmospheric pressures in the Pacific>",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.776499260841893
+    },
+    {
+      "name": "precipitation variability",
+      "label": "variable",
+      "description": "Changes in precipitation patterns over time, influencing climate and ecosystems>",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.7357127923751233
+    },
+    {
+      "name": "plant photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants convert light energy into chemical energy, influencing carbon cycling and ecosystem productivity>",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6823149976687712
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of biodiversity>",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7535744798630273
+    },
+    {
+      "name": "FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, working to reduce hunger and poverty by improving agricultural productivity and sustainability>",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5747701896390994
+    }
+  ],
+  "(18589, 21257)": [
+    {
+      "name": "LPJ DGVM",
+      "label": "model",
+      "description": "The Lund-Potsdam-Jena Dynamic Global Vegetation Model, used to simulate vegetation dynamics and carbon cycling",
+      "uuid": "3e06da32-2340-4565-b944-d3c5141f5522",
+      "score": 0.6577536503468105
+    },
+    {
+      "name": "LM3V",
+      "label": "model",
+      "description": "The Land Model version 3 with Vegetation, used for simulating land-atmosphere interactions and carbon cycling",
+      "uuid": "2f76e01e-a8c7-4374-81db-9de7e56411c6",
+      "score": 0.5625690212259286
+    },
+    {
+      "name": "GCP",
+      "label": "provider",
+      "description": "The Global Carbon Project, an initiative that aims to study and understand the global carbon cycle",
+      "uuid": "ab08cada-1a8e-4636-b834-18dc35266953",
+      "score": 0.6161936811375603
+    },
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, which assesses the state of knowledge on climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5932682307300757
+    },
+    {
+      "name": "precipitation variability",
+      "label": "variable",
+      "description": "The variation in precipitation patterns over time, which can impact ecosystems and the carbon cycle",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.6818961113231298
+    },
+    {
+      "name": "plant photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants convert light energy into chemical energy, influencing the carbon cycle",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6437075830559684
+    },
+    {
+      "name": "southern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth south of the equator, including continents, oceans, and atmospheric systems",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7694794553884126
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "Human activities that alter the use of land, such as deforestation, agriculture, or urbanization, impacting the carbon cycle",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5526671863477853
+    }
+  ],
+  "(20788, 23378)": [
+    {
+      "name": "GCP",
+      "label": "project",
+      "description": "The Global Carbon Project, an initiative to study and understand the global carbon cycle and its implications for climate change",
+      "uuid": "ab08cada-1a8e-4636-b834-18dc35266953",
+      "score": 0.6361191242840561
+    },
+    {
+      "name": "S net",
+      "label": "variable",
+      "description": "Net carbon flux, the difference between carbon uptake and release by ecosystems",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.5750176046414018
+    },
+    {
+      "name": "E LUC",
+      "label": "variable",
+      "description": "Land use change emissions, the release of carbon due to human activities such as deforestation and land management",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.6210919595432732
+    },
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, a comprehensive report on climate change science and policy",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5897615000550056
+    },
+    {
+      "name": "tropical land",
+      "label": "location",
+      "description": "A region of the Earth's surface characterized by high temperatures and high levels of rainfall, playing a significant role in the global carbon cycle",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.5547727703080598
+    }
+  ],
+  "(22949, 25729)": [
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, which assesses the current state of knowledge on climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5869434587347818
+    },
+    {
+      "name": "E LUC",
+      "label": "variable",
+      "description": "The carbon flux associated with land use changes, such as deforestation and shifting cultivation",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.6722660763582592
+    },
+    {
+      "name": "S net",
+      "label": "variable",
+      "description": "The net carbon flux of the land system, which is the sum of the carbon sinks and sources",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.5721487564539663
+    },
+    {
+      "name": "tropical regions",
+      "label": "location",
+      "description": "Areas near the equator, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.6247254276779938
+    },
+    {
+      "name": "E fire",
+      "label": "variable",
+      "description": "The carbon flux associated with fires, such as those used to clear land for shifting cultivation",
+      "uuid": "274498a8-af65-403a-a8d1-0eb8b7108cad",
+      "score": 0.597335783650432
+    },
+    {
+      "name": "global carbon budget",
+      "label": "project",
+      "description": "An accounting of the global carbon cycle, which includes the fluxes of carbon between the atmosphere, oceans, and land surface",
+      "uuid": "640d703f-9312-4f11-8367-30a8bd8fc508",
+      "score": 0.532981250709094
+    }
+  ],
+  "(25227, 27847)": [
+    {
+      "name": "global carbon budget",
+      "label": "project",
+      "description": "An initiative to track and understand the global carbon cycle, including the movement of carbon between the atmosphere, oceans, and land",
+      "uuid": "640d703f-9312-4f11-8367-30a8bd8fc508",
+      "score": 0.5248974330106302
+    },
+    {
+      "name": "tropical temperature anomalies",
+      "label": "variable",
+      "description": "A measure of the deviation from average temperatures in tropical regions, often used to study climate variability and its impacts",
+      "uuid": "f0e47cca-fa6e-44d0-b900-43920a3d0b91",
+      "score": 0.6633598384159609
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The management and modification of land for human purposes, such as agriculture, urbanization, and conservation",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5560700033717827
+    },
+    {
+      "name": "atmospheric CO2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the atmosphere, a key indicator of climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6605955335544375
+    },
+    {
+      "name": "climate-carbon cycle feedbacks",
+      "label": "teleconnection",
+      "description": "The interactions between the climate system and the carbon cycle, including the impacts of climate change on carbon storage and release",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.611049154262575
+    },
+    {
+      "name": "global cropland",
+      "label": "location",
+      "description": "Areas of land used for growing crops, which can impact the carbon cycle and climate system",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6599144639217329
+    },
+    {
+      "name": "extreme drought periods",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally low rainfall, which can impact crop yields and carbon sequestration",
+      "uuid": "e4c806af-ab57-4fda-b7e9-29e3c65f6ec5",
+      "score": 0.6586814089636336
+    }
+  ],
+  "(27343, 30344)": [
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The practice of using land for human purposes such as agriculture, forestry, and urban development, which can impact the climate and carbon cycle",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5425299915395031
+    },
+    {
+      "name": "E LUC",
+      "label": "variable",
+      "description": "Emissions from land use change, such as deforestation and land degradation, which contribute to climate change",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.581950721751094
+    },
+    {
+      "name": "land carbon balance",
+      "label": "variable",
+      "description": "The balance between the amount of carbon stored in land ecosystems and the amount released into the atmosphere",
+      "uuid": "d3de94c5-a990-424c-ad15-33faaf393e7a",
+      "score": 0.509397358782979
+    },
+    {
+      "name": "climate sensitivity",
+      "label": "variable",
+      "description": "The degree to which the climate responds to changes in carbon dioxide and other greenhouse gases",
+      "uuid": "6fa682b9-c6b5-46ca-971f-b7ecd4bf304d",
+      "score": 0.5279047134716416
+    },
+    {
+      "name": "carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between the atmosphere, oceans, and land ecosystems",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.7247429736283981
+    },
+    {
+      "name": "managed lands",
+      "label": "location",
+      "description": "Areas of land that are under human management, such as agricultural fields, plantations, or urban areas",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.5339013422526544
+    },
+    {
+      "name": "forest sinks",
+      "label": "location",
+      "description": "Areas of forest that absorb and store carbon dioxide from the atmosphere",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5025746400793129
+    },
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, which provides a comprehensive assessment of climate change science and policy",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.6035218704350686
+    },
+    {
+      "name": "GCP",
+      "label": "provider",
+      "description": "The Global Carbon Project, an international research project that aims to understand and manage the global carbon cycle",
+      "uuid": "ab08cada-1a8e-4636-b834-18dc35266953",
+      "score": 0.6265704904075174
+    },
+    {
+      "name": "DGVM",
+      "label": "model",
+      "description": "Dynamic Global Vegetation Models, which simulate the interactions between vegetation, climate, and the carbon cycle",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.5952489432817272
+    },
+    {
+      "name": "fossil fuel burning",
+      "label": "variable",
+      "description": "The process of burning fossil fuels such as coal, oil, and gas, which releases carbon dioxide into the atmosphere",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.7141657234492008
+    },
+    {
+      "name": "atmospheric carbon sink",
+      "label": "variable",
+      "description": "The process by which the atmosphere absorbs and stores carbon dioxide",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.6028791123542065
+    },
+    {
+      "name": "ocean carbon sink",
+      "label": "variable",
+      "description": "The process by which the oceans absorb and store carbon dioxide",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5904095633031042
+    }
+  ],
+  "(29894, 32683)": [
+    {
+      "name": "GCP",
+      "label": "provider",
+      "description": "The Global Carbon Project, an international research project that aims to study and understand the global carbon cycle and its impact on climate change",
+      "uuid": "ab08cada-1a8e-4636-b834-18dc35266953",
+      "score": 0.6397922744666411
+    },
+    {
+      "name": "S OCEAN",
+      "label": "variable",
+      "description": "The ocean carbon sink, referring to the amount of carbon dioxide absorbed by the oceans from the atmosphere",
+      "uuid": "26afa886-4866-4536-be3a-6f9db9aacd97",
+      "score": 0.5349839044249928
+    },
+    {
+      "name": "S AIR",
+      "label": "variable",
+      "description": "The atmospheric carbon sink, referring to the amount of carbon dioxide removed from the atmosphere through various processes",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5084747166046367
+    },
+    {
+      "name": "S net",
+      "label": "variable",
+      "description": "The net land sink, referring to the net effect of carbon fluxes between the atmosphere and land ecosystems",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.5497597136837239
+    },
+    {
+      "name": "E LUC",
+      "label": "variable",
+      "description": "Emissions of carbon from land-use changes, such as deforestation and land degradation",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.6043977040844475
+    },
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, providing a comprehensive assessment of climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.6117968162307389
+    },
+    {
+      "name": "carbon cycle community",
+      "label": "provider",
+      "description": "A group of researchers and scientists studying the global carbon cycle and its impact on climate change",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.5438198660102621
+    },
+    {
+      "name": "various ecosystems",
+      "label": "location",
+      "description": "Different types of ecosystems, such as forests, grasslands, and wetlands, that play a crucial role in the global carbon cycle",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5135231270490346
+    },
+    {
+      "name": "carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between different components of the Earth system, including the atmosphere, oceans, and land ecosystems",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.738529318043896
+    },
+    {
+      "name": "sink flux variables",
+      "label": "variable",
+      "description": "Variables that refer to the amount of carbon dioxide absorbed by different sinks, such as the oceans and land ecosystems",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.5622972664486481
+    },
+    {
+      "name": "annual carbon fluxes",
+      "label": "variable",
+      "description": "The amount of carbon dioxide exchanged between different components of the Earth system over a one-year period",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.642467730007899
+    },
+    {
+      "name": "HN2017",
+      "label": "project",
+      "description": "A research project that estimated emissions of carbon from land-use changes, including deforestation and wood harvest",
+      "uuid": "59117303-b384-43da-be61-ffc147a61c64",
+      "score": 0.5012355544722765
+    }
+  ],
+  "(32246, 35107)": [
+    {
+      "name": "carbon flux",
+      "label": "variable",
+      "description": "A measure of the flow of carbon between Earth's atmosphere, oceans, and terrestrial ecosystems, essential for studying the carbon cycle",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.7549454371800028
+    },
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, providing a comprehensive review of climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.6091962530231421
+    },
+    {
+      "name": "HN2017",
+      "label": "project",
+      "description": "A research study by ref. 19, estimating land-use change emissions and their components, including deforestation and wood harvest",
+      "uuid": "74c4f4a2-6af4-47ef-89c8-4f4a87f74017",
+      "score": 0.5054633794549962
+    },
+    {
+      "name": "GCP",
+      "label": "provider",
+      "description": "The Global Carbon Project, an international research project that aims to study and understand the global carbon cycle",
+      "uuid": "ab08cada-1a8e-4636-b834-18dc35266953",
+      "score": 0.6208620046281439
+    },
+    {
+      "name": "DGVMs",
+      "label": "model",
+      "description": "Dynamic Global Vegetation Models, used to simulate and predict the behavior of terrestrial ecosystems and their interactions with the climate system",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.644410765953515
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of organic compounds",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6780123667696949
+    },
+    {
+      "name": "land-use change",
+      "label": "experiment",
+      "description": "A type of experiment that studies the effects of changes in land use, such as deforestation or urbanization, on the environment and climate",
+      "uuid": "1800e34a-1968-410f-a927-1676c191ef81",
+      "score": 0.5312693681522962
+    },
+    {
+      "name": "E LUC",
+      "label": "variable",
+      "description": "The emission of carbon due to land-use change, including deforestation, wood harvest, and other human activities",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.624047636626338
+    },
+    {
+      "name": "E fire",
+      "label": "variable",
+      "description": "The emission of carbon due to fires following land clearance, including the burning of aboveground biomass residuals and other on-site disturbances",
+      "uuid": "274498a8-af65-403a-a8d1-0eb8b7108cad",
+      "score": 0.5743109312813044
+    }
+  ],
+  "(34588, 37599)": [
+    {
+      "name": "DGVMs",
+      "label": "model",
+      "description": "Dynamic Global Vegetation Models, sophisticated computer simulations that integrate physiological vegetation carbon cycle processes to represent and predict Earth's climate system",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.5830011978282909
+    },
+    {
+      "name": "GCP",
+      "label": "project",
+      "description": "The Global Carbon Project, an initiative to study and document changes in the global carbon cycle and its impact on climate",
+      "uuid": "ab08cada-1a8e-4636-b834-18dc35266953",
+      "score": 0.6367978997242829
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy, influencing the global carbon cycle",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6817751809133195
+    },
+    {
+      "name": "carbon cycle",
+      "label": "process",
+      "description": "The process by which carbon is exchanged between the atmosphere, oceans, land, and living things, influencing the global climate",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.6083029907743066
+    },
+    {
+      "name": "carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between different components of the Earth system, such as the atmosphere, oceans, and land",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.7374008989799966
+    },
+    {
+      "name": "aboveground biomass carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in the aboveground parts of plants, such as leaves, stems, and branches",
+      "uuid": "64fcb510-2fd5-41dc-9a14-7fc2d7043253",
+      "score": 0.5518204511275759
+    },
+    {
+      "name": "root biomass carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in the roots of plants",
+      "uuid": "a0325077-0d65-41ab-8545-cf0a4f529392",
+      "score": 0.6053400569157074
+    },
+    {
+      "name": "deforestation",
+      "label": "land-use change",
+      "description": "The clearance of forests, usually as a result of human activities such as agriculture or urbanization",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6727899701669405
+    },
+    {
+      "name": "land-use change",
+      "label": "process",
+      "description": "The conversion of land from one use to another, such as from forest to agriculture, influencing the global carbon cycle and climate",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.5251868525079616
+    }
+  ],
+  "(37035, 40198)": [
+    {
+      "name": "deforestation",
+      "label": "natural hazard",
+      "description": "The clearance of forests, usually as a result of human activities like agriculture, urbanization, or logging, leading to loss of biodiversity and climate change>",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6899922523904648
+    },
+    {
+      "name": "aboveground biomass carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in the living biomass of plants above the ground, such as trees, crops, and grasses>",
+      "uuid": "64fcb510-2fd5-41dc-9a14-7fc2d7043253",
+      "score": 0.5476625846368247
+    },
+    {
+      "name": "aboveground woody biomass carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in the woody parts of trees and other woody plants, including trunks, branches, and roots>",
+      "uuid": "a1442b82-dfd2-46ee-aae3-e6ceda513648",
+      "score": 0.5582217295225426
+    },
+    {
+      "name": "root biomass carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in the roots of plants, which can be an important component of soil carbon>",
+      "uuid": "a0325077-0d65-41ab-8545-cf0a4f529392",
+      "score": 0.5955257293806168
+    },
+    {
+      "name": "HN2017",
+      "label": "project",
+      "description": "A research project that estimated the impacts of land use change on the carbon cycle, using a combination of models and data>",
+      "uuid": "59117303-b384-43da-be61-ffc147a61c64",
+      "score": 0.5351994580866004
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "Regions of the world near the equator, characterized by high temperatures and high levels of rainfall>",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7086867868440709
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "Land used for growing crops, raising livestock, and other agricultural purposes>",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.609895381807651
+    },
+    {
+      "name": "grassland",
+      "label": "location",
+      "description": "Areas of land dominated by grasses and other herbaceous plants, often used for grazing livestock>",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6092223794882586
+    },
+    {
+      "name": "savanna",
+      "label": "location",
+      "description": "Regions of the world characterized by a mix of grasses and trees, often found in tropical and subtropical regions>",
+      "uuid": "d58dab07-f57e-47a9-8dcf-02a3e17f3533",
+      "score": 0.6732731923160172
+    }
+  ],
+  "(39757, 42705)": [
+    {
+      "name": "HN2017",
+      "label": "project",
+      "description": "A research project that estimated the impact of land use changes on the global carbon cycle>",
+      "uuid": "59117303-b384-43da-be61-ffc147a61c64",
+      "score": 0.5209128194832859
+    },
+    {
+      "name": "LUC",
+      "label": "variable",
+      "description": "Land use change, a measure of the modification of land cover and use by human activities>",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.573494800167322
+    },
+    {
+      "name": "E LUC",
+      "label": "variable",
+      "description": "The net flux of carbon emissions resulting from land use changes>",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.6943704580000671
+    },
+    {
+      "name": "S net",
+      "label": "variable",
+      "description": "The net flux of carbon sinks and sources in the terrestrial biosphere>",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.5251167032029004
+    },
+    {
+      "name": "deforestation",
+      "label": "natural hazard",
+      "description": "The clearance of forests, usually as a result of human activities, leading to loss of biodiversity and increased greenhouse gas emissions>",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6827755933936739
+    },
+    {
+      "name": "afforestation/reforestation",
+      "label": "variable",
+      "description": "The process of restoring or planting new forests, which can help sequester carbon dioxide from the atmosphere>",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6836596624768067
+    },
+    {
+      "name": "LUH2",
+      "label": "dataset",
+      "description": "A dataset providing historical land use and land cover changes at a high spatial resolution>",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.5561783746266703
+    },
+    {
+      "name": "Supplementary Note 1",
+      "label": "dataset",
+      "description": "Additional information on the implementation of historical forest area changes and wood harvest biomass in the ORCHIDEE model>",
+      "uuid": "5cf43512-9f0f-474f-ba97-42c6bbdfb96d",
+      "score": 0.5028677354690693
+    },
+    {
+      "name": "Supplementary Table 1",
+      "label": "dataset",
+      "description": "Additional table providing more details on the LUC parameterizations and flux components in the ORCHIDEE model>",
+      "uuid": "d738d343-0440-4258-850d-107f9cd8072c",
+      "score": 0.5512678496970359
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "A region of the Earth located near the equator, characterized by high temperatures and high levels of biodiversity>",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7388596231656398
+    },
+    {
+      "name": "DGVMs",
+      "label": "model",
+      "description": "Dynamic Global Vegetation Models, a type of model used to simulate the carbon cycle and land use changes>",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.5914301208601164
+    },
+    {
+      "name": "global land carbon balance",
+      "label": "variable",
+      "description": "The balance between carbon sinks and sources in the terrestrial biosphere, which is critical for understanding the global carbon cycle>",
+      "uuid": "d3de94c5-a990-424c-ad15-33faaf393e7a",
+      "score": 0.5322601252704086
+    },
+    {
+      "name": "land management status",
+      "label": "variable",
+      "description": "The state of land use and management practices, which can impact the carbon cycle and ecosystem services>",
+      "uuid": "2be0af28-a6b8-4fce-82e4-1ad86788a4d5",
+      "score": 0.5736624009987077
+    }
+  ],
+  "(42190, 45211)": [
+    {
+      "name": "ORCHIDEE",
+      "label": "model",
+      "description": "A dynamic global vegetation model used to simulate the interactions between the atmosphere and terrestrial ecosystems, including land use and land cover changes",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.548861748351633
+    },
+    {
+      "name": "LUH2",
+      "label": "project",
+      "description": "The Land Use Harmonization version 2, a dataset providing historical land use and land cover changes for climate modeling",
+      "uuid": "c7989d31-5b35-4069-9d6f-4285015d79e1",
+      "score": 0.5786880263001988
+    },
+    {
+      "name": "forest",
+      "label": "location",
+      "description": "A type of ecosystem characterized by dense vegetation, often used in climate modeling and land use studies",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6472800188497355
+    },
+    {
+      "name": "grassland",
+      "label": "location",
+      "description": "A type of ecosystem characterized by grasses and other herbaceous plants, often used in climate modeling and land use studies",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6758114513789931
+    },
+    {
+      "name": "agricultural lands",
+      "label": "location",
+      "description": "Areas used for farming, livestock, or other agricultural purposes, often studied in the context of land use and land cover changes",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.7405117535655148
+    },
+    {
+      "name": "HN2017",
+      "label": "project",
+      "description": "A study or dataset related to land use and land cover changes, used for comparison and validation of the ORCHIDEE model",
+      "uuid": "32e2dce9-1271-4570-9345-452da11f0467",
+      "score": 0.508469971363005
+    },
+    {
+      "name": "deforestation",
+      "label": "natural hazard",
+      "description": "The clearance of forests, often resulting in loss of biodiversity, soil erosion, and increased greenhouse gas emissions",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6823717898139983
+    },
+    {
+      "name": "forest biomass",
+      "label": "variable",
+      "description": "The amount of organic matter in a forest ecosystem, often used as an indicator of forest health and productivity",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5312837780102808
+    },
+    {
+      "name": "land management status",
+      "label": "variable",
+      "description": "The state of land use and land cover, including factors such as forest age, disturbance history, and recovery status",
+      "uuid": "2be0af28-a6b8-4fce-82e4-1ad86788a4d5",
+      "score": 0.5537350080047015
+    }
+  ],
+  "(44703, 47460)": [
+    {
+      "name": "ORCHIDEE",
+      "label": "model",
+      "description": "A dynamic global vegetation model used to simulate the carbon cycle and terrestrial ecosystems>",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.5309305086461292
+    },
+    {
+      "name": "forest biomass",
+      "label": "variable",
+      "description": "The total amount of organic matter in a forest, including trees, understory vegetation, and dead wood>",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5386236253395845
+    },
+    {
+      "name": "forest types",
+      "label": "variable",
+      "description": "Different categories of forests, such as tropical, temperate, or boreal, each with unique characteristics and carbon dynamics>",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5284065344615255
+    },
+    {
+      "name": "global environmental changes",
+      "label": "natural hazard",
+      "description": "Large-scale changes in the environment, such as climate change, that can impact ecosystems and carbon cycles>",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.5221842126427642
+    },
+    {
+      "name": "carbon emissions",
+      "label": "variable",
+      "description": "The release of carbon into the atmosphere, primarily through human activities such as fossil fuel burning and land-use changes>",
+      "uuid": "0e530a5f-1e75-4602-9659-98ff5c3d7076",
+      "score": 0.5587400282238523
+    },
+    {
+      "name": "carbon sinks",
+      "label": "variable",
+      "description": "Natural or artificial systems that absorb and store carbon from the atmosphere, such as forests, oceans, and soils>",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.6269671500891086
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where carbon dioxide and other greenhouse gases play a crucial role in regulating climate>",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5689081085361455
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers most of the Earth's surface, playing a critical role in the global carbon cycle>",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.6849479614467121
+    },
+    {
+      "name": "tropical land",
+      "label": "location",
+      "description": "Regions near the equator, characterized by high temperatures and high levels of biodiversity, where land-use changes can significantly impact carbon cycles>",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5256666202295137
+    },
+    {
+      "name": "temperature variation",
+      "label": "variable",
+      "description": "Changes in temperature over time, which can influence carbon fluxes and ecosystem processes>",
+      "uuid": "7013bdc9-519d-42b6-827c-4b8013fbb726",
+      "score": 0.6009411887347892
+    },
+    {
+      "name": "net biome production",
+      "label": "variable",
+      "description": "The net amount of carbon absorbed or released by an ecosystem, calculated as the difference between net primary production and heterotrophic respiration>",
+      "uuid": "569a2936-7543-434e-92e2-6f75a5be68c0",
+      "score": 0.5781730416251436
+    },
+    {
+      "name": "heterotrophic respiration",
+      "label": "variable",
+      "description": "The process by which microorganisms break down organic matter and release carbon into the atmosphere>",
+      "uuid": "8286d00a-e540-4e01-9e15-377711e5fe56",
+      "score": 0.6839198164125295
+    },
+    {
+      "name": "fire CO2 emissions",
+      "label": "variable",
+      "description": "The release of carbon dioxide into the atmosphere as a result of fires, which can be a significant component of carbon fluxes>",
+      "uuid": "274498a8-af65-403a-a8d1-0eb8b7108cad",
+      "score": 0.6110835756483393
+    },
+    {
+      "name": "grassland",
+      "label": "location",
+      "description": "Ecosystems dominated by grasses and other herbaceous plants, which can play a role in carbon sequestration>",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6525857356766569
+    },
+    {
+      "name": "agricultural lands",
+      "label": "location",
+      "description": "Areas used for farming, grazing, or other agricultural purposes, which can be significant sources of carbon emissions>",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6632470208015638
+    }
+  ],
+  "(47107, 49446)": [
+    {
+      "name": "tropical land air temperature anomalies",
+      "label": "variable",
+      "description": "A measure of the deviation from average temperature in the tropics, used to study climate patterns and feedbacks",
+      "uuid": "f0e47cca-fa6e-44d0-b900-43920a3d0b91",
+      "score": 0.6297042038125443
+    },
+    {
+      "name": "climate-carbon cycle feedbacks",
+      "label": "teleconnection",
+      "description": "The interactions between the climate system and the carbon cycle, which can amplify or dampen climate change",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6350503231458322
+    },
+    {
+      "name": "temperate anomalies",
+      "label": "variable",
+      "description": "A measure of the deviation from average temperature in temperate regions, used to study climate patterns and feedbacks",
+      "uuid": "1e76ccc7-2729-4de1-8c01-f295476ebb35",
+      "score": 0.6630347994111233
+    },
+    {
+      "name": "satellite-based biomass datasets",
+      "label": "dataset",
+      "description": "Collections of data on biomass, derived from satellite imagery, used to study land cover and carbon fluxes",
+      "uuid": "a9b21edd-49b7-43be-8e35-8652bbc5559a",
+      "score": 0.621897147530645
+    },
+    {
+      "name": "various land carbon fluxes",
+      "label": "variable",
+      "description": "Measurements of the flow of carbon between the land and atmosphere, including fluxes such as photosynthesis and respiration",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.6111738676820911
+    },
+    {
+      "name": "Carbon flux anomalies",
+      "label": "variable",
+      "description": "A measure of the deviation from average carbon flux, used to study climate patterns and feedbacks",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.6033313517578839
+    },
+    {
+      "name": "CRUNCEP",
+      "label": "dataset",
+      "description": "A climate dataset used to force simulations, such as the ORCHIDEE model",
+      "uuid": "4c382e7e-068b-4209-8499-e35ed5c0ef5b",
+      "score": 0.5214562716040021
+    },
+    {
+      "name": "GCP",
+      "label": "provider",
+      "description": "The Global Carbon Project, an organization that studies and publishes data on the global carbon cycle",
+      "uuid": "ab08cada-1a8e-4636-b834-18dc35266953",
+      "score": 0.6403837697330313
+    },
+    {
+      "name": "LUH2",
+      "label": "dataset",
+      "description": "A dataset of land use and land cover change, used to study the impacts of human activities on the environment",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.5617837383681267
+    },
+    {
+      "name": "GEOCARBON",
+      "label": "dataset",
+      "description": "A satellite-based dataset of biomass and carbon fluxes, used to study land cover and carbon cycling",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.5070502611918116
+    },
+    {
+      "name": "GlobBiomass",
+      "label": "dataset",
+      "description": "A satellite-based dataset of biomass and carbon fluxes, used to study land cover and carbon cycling",
+      "uuid": "a9b21edd-49b7-43be-8e35-8652bbc5559a",
+      "score": 0.5635263811441423
+    },
+    {
+      "name": "CCI Biomass",
+      "label": "dataset",
+      "description": "A satellite-based dataset of biomass and carbon fluxes, used to study land cover and carbon cycling",
+      "uuid": "a9b21edd-49b7-43be-8e35-8652bbc5559a",
+      "score": 0.5908005328021768
+    }
+  ]
+}

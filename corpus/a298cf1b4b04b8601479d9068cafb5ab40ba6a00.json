@@ -1,0 +1,844 @@
+{
+  "(0, 3314)": [
+    {
+      "name": "electricity",
+      "label": "variable",
+      "description": "A form of energy used to power buildings and homes, influenced by climate change and energy demand",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.5752505852190054
+    },
+    {
+      "name": "fossil fuels",
+      "label": "variable",
+      "description": "Non-renewable energy sources such as coal, oil, and natural gas, contributing to greenhouse gas emissions and climate change",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5881279540751837
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a given area, influencing energy demand and consumption patterns",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5983163693758236
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the USA, known for its leadership in energy efficiency policies and climate change mitigation efforts",
+      "uuid": "cc04bdf3-18fb-430c-91d8-2445539e34c1",
+      "score": 0.6861227451339721
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, altered weather patterns, and increased frequency of extreme events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5972427687581819
+    }
+  ],
+  "(2732, 6064)": [
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state on the West Coast of the United States, known for its diverse climate and geography, and a leader in energy efficiency policies",
+      "uuid": "cc04bdf3-18fb-430c-91d8-2445539e34c1",
+      "score": 0.6420427387465173
+    },
+    {
+      "name": "LAC",
+      "label": "location",
+      "description": "A region in California, likely referring to the Los Angeles County, known for its diverse climate and high population density",
+      "uuid": "3e488a04-58da-4ef3-b30c-a8bb21a79630",
+      "score": 0.551950278846976
+    }
+  ],
+  "(5441, 8742)": [
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A general circulation model, a type of climate model that simulates the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7468948424126811
+    },
+    {
+      "name": "electricity",
+      "label": "variable",
+      "description": "A form of energy used to power buildings and devices",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.5499391402838884
+    },
+    {
+      "name": "natural gas",
+      "label": "variable",
+      "description": "A fossil fuel used as an energy source",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.7101571050379575
+    }
+  ],
+  "(8157, 11207)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict future climate scenarios",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7054464229157145
+    },
+    {
+      "name": "residential electricity demand",
+      "label": "variable",
+      "description": "The amount of electricity consumed by residential buildings, which can be influenced by various factors such as climate, population growth, and energy efficiency",
+      "uuid": "f19ff7fb-fd8b-433c-88e2-afc5dd3ee7b2",
+      "score": 0.5162137915752971
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "Representative Concentration Pathway 8.5, a scenario that assumes high greenhouse gas emissions and significant climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6759194242457851
+    },
+    {
+      "name": "RCP 2.6",
+      "label": "experiment",
+      "description": "Representative Concentration Pathway 2.6, a scenario that assumes low greenhouse gas emissions and minimal climate change",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.665259421163329
+    },
+    {
+      "name": "NG",
+      "label": "variable",
+      "description": "Natural Gas, a fossil fuel used for energy production",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6313790521427568
+    }
+  ],
+  "(10736, 13729)": [
+    {
+      "name": "NG",
+      "label": "variable",
+      "description": "Natural Gas, a fossil fuel used for energy production",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6313790521427568
+    },
+    {
+      "name": "RCP",
+      "label": "project",
+      "description": "Representative Concentration Pathway, a greenhouse gas concentration trajectory used in climate modeling and scenario development",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.565788443460831
+    },
+    {
+      "name": "electricity",
+      "label": "variable",
+      "description": "A form of energy used for powering homes, businesses, and industries",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.545913597550666
+    }
+  ],
+  "(13202, 16413)": [
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A high-emission scenario used in climate modeling to represent a future with no significant efforts to reduce greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6757039851160077
+    },
+    {
+      "name": "Scenario 2",
+      "label": "experiment",
+      "description": "A specific climate change scenario used for modeling and projecting future climate conditions",
+      "uuid": "88dc22d3-1fb6-471a-94de-56acb94f0f58",
+      "score": 0.5034359208523884
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the United States known for its diverse climate, population, and energy policies",
+      "uuid": "cc04bdf3-18fb-430c-91d8-2445539e34c1",
+      "score": 0.603540626581099
+    },
+    {
+      "name": "heat waves",
+      "label": "weather event",
+      "description": "Periods of abnormally hot weather, often leading to increased energy consumption and strain on the electricity grid",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.6656257125431236
+    },
+    {
+      "name": "consumer behaviour",
+      "label": "variable",
+      "description": "The ways in which individuals and households use energy, influenced by factors such as climate, technology, and policy",
+      "uuid": "d11d5e6d-fafb-4012-818c-8bfb984128f1",
+      "score": 0.5639082787289174
+    }
+  ],
+  "(15799, 19300)": [
+    {
+      "name": "electricity",
+      "label": "variable",
+      "description": "A form of energy used to power various devices and appliances, often generated from renewable or non-renewable sources",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.5628527397674673
+    },
+    {
+      "name": "annual temperatures",
+      "label": "variable",
+      "description": "The average temperature over a year, often used to study climate change and its impacts on energy consumption",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.6114242118410671
+    },
+    {
+      "name": "solar panels",
+      "label": "instrument",
+      "description": "Devices used to convert sunlight into electricity, often installed on rooftops or in solar farms",
+      "uuid": "9ff1f885-108f-40cb-a054-4e076b8d648b",
+      "score": 0.5645525411383467
+    },
+    {
+      "name": "NG",
+      "label": "variable",
+      "description": "Natural gas, a fossil fuel used for heating, cooking, and electricity generation",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6475682589318414
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872478600468966
+    }
+  ],
+  "(18790, 21933)": [
+    {
+      "name": "LAC",
+      "label": "location",
+      "description": "A geographic region, likely referring to the Los Angeles County in California, United States",
+      "uuid": "3e488a04-58da-4ef3-b30c-a8bb21a79630",
+      "score": 0.5395493561915453
+    },
+    {
+      "name": "US Department of Energy",
+      "label": "provider",
+      "description": "A United States government agency responsible for energy policy and research",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6764135887150542
+    },
+    {
+      "name": "RASS",
+      "label": "instrument",
+      "description": "The Residential Appliance Saturation Survey, a tool used to collect data on appliance usage and building thermal properties",
+      "uuid": "62d1e780-c34f-44e6-be01-bef03beeec4c",
+      "score": 0.5686312622448096
+    },
+    {
+      "name": "electricity",
+      "label": "variable",
+      "description": "A form of energy used to power devices and appliances in buildings",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.5257110205678784
+    },
+    {
+      "name": "NG",
+      "label": "variable",
+      "description": "Natural gas, a fossil fuel used for heating and cooking in buildings",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6328226911224383
+    },
+    {
+      "name": "building",
+      "label": "platform",
+      "description": "A structure designed for human occupancy or use, such as residential or commercial buildings",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.5626193396167316
+    }
+  ],
+  "(21414, 24454)": [
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state on the West Coast of the United States known for its diverse climate and geography",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6674840135583836
+    },
+    {
+      "name": "LAC",
+      "label": "location",
+      "description": "Los Angeles County, a region in California with a diverse range of climates and urban landscapes",
+      "uuid": "3e488a04-58da-4ef3-b30c-a8bb21a79630",
+      "score": 0.5245651232680072
+    },
+    {
+      "name": "RASS",
+      "label": "dataset",
+      "description": "A survey of residential buildings in Los Angeles County, providing information on energy use, building characteristics, and appliance usage",
+      "uuid": "62d1e780-c34f-44e6-be01-bef03beeec4c",
+      "score": 0.5465212209726673
+    },
+    {
+      "name": "thermal properties",
+      "label": "variable",
+      "description": "Characteristics of building materials that affect their ability to conduct, absorb, or release heat",
+      "uuid": "7d3d6c15-b328-43a4-92eb-7d3c430647c4",
+      "score": 0.674718211697645
+    }
+  ],
+  "(23937, 26852)": [
+    {
+      "name": "RASS survey",
+      "label": "project",
+      "description": "A research project that collects data on residential energy consumption patterns and behaviors",
+      "uuid": "62d1e780-c34f-44e6-be01-bef03beeec4c",
+      "score": 0.5155849960562365
+    },
+    {
+      "name": "climate zones",
+      "label": "location",
+      "description": "Regions with distinct climate characteristics, used for categorizing and analyzing climate data",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.5271345219744857
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that is received by the Earth's surface",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.680537193967202
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air, an important factor in climate and weather patterns",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6720357583960342
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, an essential variable in climate and weather studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6771931390780294
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6909966787049034
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "The amount of snow that covers the ground, an important factor in climate and weather patterns",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.6901073232088059
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface in the form of rain",
+      "uuid": "09a57dc7-3911-4a65-9f12-b819652b8671",
+      "score": 0.5424916146168712
+    }
+  ],
+  "(26357, 29537)": [
+    {
+      "name": "RASS",
+      "label": "project",
+      "description": "The Residential Appliance Saturation Survey, a study that collects data on appliance usage and energy consumption in residential buildings",
+      "uuid": "62d1e780-c34f-44e6-be01-bef03beeec4c",
+      "score": 0.5343686613662086
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A Global Climate Model, a type of climate model used to simulate and predict global climate patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7064456268692323
+    },
+    {
+      "name": "LAC",
+      "label": "location",
+      "description": "Los Angeles County, a region in Southern California known for its diverse climate and geography",
+      "uuid": "3e488a04-58da-4ef3-b30c-a8bb21a79630",
+      "score": 0.5163099833883725
+    },
+    {
+      "name": "NG",
+      "label": "variable",
+      "description": "Natural Gas, a fossil fuel used for energy production and consumption",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6327020847604133
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across vast distances",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5087004786976634
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7402139755674466
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future greenhouse gas concentrations and climate change impacts",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5533154581003786
+    },
+    {
+      "name": "IMAGE",
+      "label": "model",
+      "description": "A climate-economy model used to simulate and analyze the impacts of climate change on the global economy and energy systems",
+      "uuid": "85e1597c-1c49-42b8-a0f1-876872e9f331",
+      "score": 0.575168953546167
+    }
+  ],
+  "(29041, 31643)": [
+    {
+      "name": "Intergovernmental on Climate Change",
+      "label": "provider",
+      "description": "An international organization that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.6703840339792895
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future climate change based on different levels of greenhouse gas emissions",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5611590511898081
+    },
+    {
+      "name": "IMAGE",
+      "label": "model",
+      "description": "A climate model developed by the Netherlands Environmental Assessment Agency, used to simulate future climate scenarios",
+      "uuid": "ef1e92a3-840d-484e-a17b-6678eec0235d",
+      "score": 0.5934065775869315
+    },
+    {
+      "name": "Netherlands Environmental Assessment Agency",
+      "label": "provider",
+      "description": "A research institution that conducts environmental assessments and develops climate models",
+      "uuid": "ecbc61b1-1a48-4f1c-b788-6e49e1bd6ce6",
+      "score": 0.6285768990195986
+    },
+    {
+      "name": "RCP 2.6",
+      "label": "experiment",
+      "description": "A scenario of low greenhouse gas emissions, with a radiative forcing peak at 3.1 W m \u00c0 2 around 2050 and a forcing of 2.6 W m \u00c0 2 by 2100",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6797052868588189
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A scenario of moderate greenhouse gas emissions, with a radiative forcing of 4.5 W m \u00c0 2 by 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6284792528273762
+    },
+    {
+      "name": "MiniCAM",
+      "label": "model",
+      "description": "A climate model developed by the Pacific Northwest National Laboratory, used to simulate future climate scenarios",
+      "uuid": "7fcc74d3-3111-4ee3-a6e4-d4e798e37f7b",
+      "score": 0.5027938610327253
+    },
+    {
+      "name": "Pacific Northwest National Laboratory",
+      "label": "provider",
+      "description": "A research institution that conducts scientific research and develops climate models",
+      "uuid": "db8348ff-0fb6-4adc-a472-9902bbc5a1f4",
+      "score": 0.6734649773140295
+    },
+    {
+      "name": "RCP 6.0",
+      "label": "experiment",
+      "description": "A scenario of high greenhouse gas emissions, with a radiative forcing of 6.0 W m \u00c0 2 by 2100",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6462680391471808
+    },
+    {
+      "name": "AIM",
+      "label": "model",
+      "description": "A climate model developed by Japan's National Institute for Environmental Studies, used to simulate future climate scenarios",
+      "uuid": "0e545305-5db8-45ca-a3ae-3b024306a5ce",
+      "score": 0.59429095821673
+    },
+    {
+      "name": "Japan's National Institute for Environmental Studies",
+      "label": "provider",
+      "description": "A research institution that conducts environmental research and develops climate models",
+      "uuid": "3851f38d-312c-4c58-917f-c7b48ab66a15",
+      "score": 0.5876039040123857
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A scenario of very high greenhouse gas emissions, with continually increasing emissions through 2100",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.67345778658203
+    },
+    {
+      "name": "MESSAGE",
+      "label": "model",
+      "description": "A climate model developed by the International Institute for Applied Systems Analysis, used to simulate future climate scenarios",
+      "uuid": "68b51d1f-4cce-463f-a78d-789b4f488381",
+      "score": 0.5764809718687316
+    },
+    {
+      "name": "International Institute for Applied Systems Analysis",
+      "label": "provider",
+      "description": "A research institution that conducts scientific research and develops climate models",
+      "uuid": "29cce9aa-e040-4ff1-88d5-e12ec10d91d7",
+      "score": 0.6980677818429765
+    },
+    {
+      "name": "Austria",
+      "label": "location",
+      "description": "A country in Europe, where the International Institute for Applied Systems Analysis is located",
+      "uuid": "e4d33a7a-f145-4aec-9d15-e21dc9916aad",
+      "score": 0.6208696722490833
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate future climate scenarios",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6966144476491599
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "US Bureau of Reclamation",
+      "label": "provider",
+      "description": "A government agency that provides data and research on water resources and climate",
+      "uuid": "bd92ba09-cd79-4315-992e-fe7195a2d0b2",
+      "score": 0.5569851287245914
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the United States, where climate data is available for analysis",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.5996351737017163
+    }
+  ],
+  "(31314, 33071)": [
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Model, a type of climate model that simulates the general circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7691934564613159
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the western United States known for its diverse climate zones and energy demands",
+      "uuid": "cc04bdf3-18fb-430c-91d8-2445539e34c1",
+      "score": 0.5950977881752753
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future greenhouse gas concentrations and climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5514937293364671
+    }
+  ],
+  "(32933, 34593)": [
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a given area, such as a city, county, or state",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6399022629688895
+    }
+  ],
+  "(34120, 37203)": [
+    {
+      "name": "LAC",
+      "label": "location",
+      "description": "Latin America and the Caribbean, a region with diverse climate zones and building stock",
+      "uuid": "3e488a04-58da-4ef3-b30c-a8bb21a79630",
+      "score": 0.50178214983762
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict climate change and its impacts on energy consumption",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6730793860923534
+    },
+    {
+      "name": "SQLite",
+      "label": "platform",
+      "description": "A database management system, used to store and manage simulation output data",
+      "uuid": "37adee23-d239-4e1d-8ac8-1c7e26f36dc6",
+      "score": 0.6474501294239219
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, scenarios used to simulate and predict climate change and its impacts on energy consumption",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5381604409964427
+    }
+  ],
+  "(36657, 39891)": [
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "Global Climate Model, a type of climate model that simulates the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7239299441344635
+    },
+    {
+      "name": "RCP",
+      "label": "experiment",
+      "description": "Representative Concentration Pathway, a scenario used to predict future climate change based on different levels of greenhouse gas emissions",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5754964729967882
+    },
+    {
+      "name": "NG",
+      "label": "variable",
+      "description": "Natural Gas, a fossil fuel used for energy production",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6313790521427568
+    },
+    {
+      "name": "electricity",
+      "label": "variable",
+      "description": "A form of energy used to power devices and systems",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.5549397360349257
+    },
+    {
+      "name": "mitigation strategies",
+      "label": "project",
+      "description": "Plans or actions taken to reduce the impact of climate change, such as increasing energy efficiency or transitioning to renewable energy sources",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6238610171390839
+    }
+  ],
+  "(39313, 42117)": [
+    {
+      "name": "US Department of Energy",
+      "label": "provider",
+      "description": "A department of the United States government responsible for energy policy and research",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6560548182228463
+    },
+    {
+      "name": "cooling degree days",
+      "label": "variable",
+      "description": "A measure of the amount of cooling required to maintain a comfortable indoor temperature, often used in energy efficiency and climate studies",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.7554675476351778
+    }
+  ],
+  "(41791, 44511)": [
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, comprising a federal republic of 50 states",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6767694843599414
+    },
+    {
+      "name": "cooling degree days",
+      "label": "variable",
+      "description": "A measure of the amount of cooling required to maintain a comfortable indoor temperature, calculated as the difference between the daily average temperature and a base temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.7455395076718867
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future greenhouse gas concentrations and climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5514937293364671
+    },
+    {
+      "name": "US Department of Energy",
+      "label": "provider",
+      "description": "A US government agency responsible for promoting energy efficiency and developing new energy technologies",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.684720032599511
+    },
+    {
+      "name": "computers",
+      "label": "instrument",
+      "description": "Electronic devices used for processing and storing information",
+      "uuid": "936822a8-ce02-49aa-970f-b4a92dfd769b",
+      "score": 0.5613894292061301
+    }
+  ],
+  "(44076, 46658)": [
+    {
+      "name": "computers",
+      "label": "instrument",
+      "description": "Electronic devices used for processing information and performing various tasks",
+      "uuid": "936822a8-ce02-49aa-970f-b4a92dfd769b",
+      "score": 0.5542201894958652
+    },
+    {
+      "name": "Department of Energy",
+      "label": "provider",
+      "description": "A US government agency responsible for energy policy, research, and regulation",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6593142260583658
+    },
+    {
+      "name": "calibration",
+      "label": "experiment",
+      "description": "The process of adjusting and refining a model or system to ensure accuracy and reliability",
+      "uuid": "7995f479-ea09-43f2-b48f-a3ea7e9a8bcd",
+      "score": 0.6405890252226248
+    }
+  ],
+  "(46257, 48777)": [
+    {
+      "name": "US Department of Energy",
+      "label": "provider",
+      "description": "A federal agency responsible for energy policy and research in the United States",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6816514448520472
+    },
+    {
+      "name": "LAC",
+      "label": "location",
+      "description": "Los Angeles County, a region in Southern California known for its diverse climate and energy usage patterns",
+      "uuid": "3e488a04-58da-4ef3-b30c-a8bb21a79630",
+      "score": 0.5185260099969385
+    },
+    {
+      "name": "RASS",
+      "label": "instrument",
+      "description": "A tool or dataset used for reporting and analyzing energy consumption data",
+      "uuid": "62d1e780-c34f-44e6-be01-bef03beeec4c",
+      "score": 0.595550608984275
+    },
+    {
+      "name": "microwaves",
+      "label": "instrument",
+      "description": "A common household appliance used for cooking and reheating food",
+      "uuid": "66700628-2b62-4466-999e-faeb15ca4da5",
+      "score": 0.5668037060064726
+    }
+  ],
+  "(48226, 51542)": [
+    {
+      "name": "residential energy demand",
+      "label": "variable",
+      "description": "The amount of energy consumed by residential buildings",
+      "uuid": "f19ff7fb-fd8b-433c-88e2-afc5dd3ee7b2",
+      "score": 0.5285366840463072
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, leading to changes in temperature, precipitation, and other environmental factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5804069230266227
+    },
+    {
+      "name": "Iowa Environmental Mesonet",
+      "label": "provider",
+      "description": "A research institution that provides environmental data and information",
+      "uuid": "3232dc8a-d223-4df2-b64a-4bd4fb632f9e",
+      "score": 0.6128021244259894
+    },
+    {
+      "name": "US Energy Information Administration",
+      "label": "provider",
+      "description": "A US government agency that provides energy-related data and information",
+      "uuid": "2a61b7a0-5054-46be-a5ba-3fbbc11cf063",
+      "score": 0.7019495898764831
+    },
+    {
+      "name": "regression model",
+      "label": "model",
+      "description": "A statistical model used to predict the relationship between variables",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.5646860868526149
+    },
+    {
+      "name": "RCP",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway, a scenario used to predict future climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.549502323965387
+    }
+  ],
+  "(51032, 53077)": [
+    {
+      "name": "National Science Foundation",
+      "label": "provider",
+      "description": "An American government agency that supports scientific and engineering research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.6994237591903575
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a particular area or region, often used in demographic and socioeconomic studies",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6918994500676341
+    },
+    {
+      "name": "validation",
+      "label": "experiment",
+      "description": "The process of evaluating the accuracy or reliability of a model or simulation by comparing its outputs with observed data",
+      "uuid": "b283a59c-0e9a-469c-baf4-591b64cd4671",
+      "score": 0.6366849029507592
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Model, a type of climate model used to simulate the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7585748959691607
+    },
+    {
+      "name": "RCP",
+      "label": "variable",
+      "description": "Representative Concentration Pathway, a scenario used in climate modeling to describe different possible futures of greenhouse gas emissions",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.587365027422865
+    },
+    {
+      "name": "DOE",
+      "label": "provider",
+      "description": "The United States Department of Energy, a government agency responsible for energy and nuclear safety policies",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6866222075251749
+    },
+    {
+      "name": "ORISE",
+      "label": "provider",
+      "description": "The Oak Ridge Institute for Science and Education, a nonprofit organization that manages science and education programs for the DOE",
+      "uuid": "76e82eca-8e26-4cea-8938-488f2f988e57",
+      "score": 0.6569977715802953
+    },
+    {
+      "name": "ORAU",
+      "label": "provider",
+      "description": "Oak Ridge Associated Universities, a nonprofit organization that manages science and education programs for the DOE",
+      "uuid": "76e82eca-8e26-4cea-8938-488f2f988e57",
+      "score": 0.646697932443859
+    }
+  ]
+}

@@ -1,0 +1,787 @@
+{
+  "(0, 3139)": [
+    {
+      "name": "microclimatology",
+      "label": "field",
+      "description": "The study of local climate conditions, especially in urban areas, and their impact on the environment and human activities",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.6232381301693732
+    },
+    {
+      "name": "radiative fluxes",
+      "label": "variable",
+      "description": "The flow of energy through radiation, which can be either incoming or outgoing, and is an important factor in climate modeling",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.6897397960347719
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities and towns with high population densities, complex structures, and heterogeneous materials, which can affect local climate conditions",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6585926255238623
+    },
+    {
+      "name": "secondary radiative fluxes",
+      "label": "variable",
+      "description": "Radiation that is emitted or reflected by objects in the environment, such as walls, roofs, and vegetation",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.5194848187640435
+    },
+    {
+      "name": "ENVI-met",
+      "label": "model",
+      "description": "A microclimate model used to simulate urban climate conditions, including radiative fluxes and shadow casting",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5024675739654489
+    }
+  ],
+  "(2568, 5694)": [
+    {
+      "name": "urban environment",
+      "label": "location",
+      "description": "The area where human-made structures and activities interact with the natural environment, influencing local climate conditions",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5369420149380484
+    },
+    {
+      "name": "turbulence",
+      "label": "variable",
+      "description": "A complex and chaotic state of fluid flow that can affect the behavior of atmospheric and climatic phenomena",
+      "uuid": "226d05da-dd0b-4314-919a-0b259ce724b5",
+      "score": 0.6712454198412527
+    },
+    {
+      "name": "radiative fluxes",
+      "label": "variable",
+      "description": "The flow of energy through electromagnetic radiation, which plays a crucial role in shaping the Earth's climate",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.7168019783956167
+    },
+    {
+      "name": "shortwave radiation",
+      "label": "variable",
+      "description": "The type of electromagnetic radiation with a short wavelength, typically originating from the sun and influencing the Earth's surface energy balance",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.7804763753135422
+    },
+    {
+      "name": "longwave radiation",
+      "label": "variable",
+      "description": "The type of electromagnetic radiation with a long wavelength, typically emitted by the Earth's surface and atmosphere, influencing the planet's energy balance",
+      "uuid": "68323795-3614-462f-8259-bd5293620799",
+      "score": 0.7413966853156962
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "The measure of the amount of sunlight that is reflected by a surface, which affects the Earth's energy balance and climate",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7864753496978613
+    },
+    {
+      "name": "emissivity",
+      "label": "variable",
+      "description": "The ability of a surface to emit energy through electromagnetic radiation, which influences the Earth's energy balance and climate",
+      "uuid": "4ee9d0c5-2e0c-486c-b89b-7b002d18c5f7",
+      "score": 0.7477465574891096
+    },
+    {
+      "name": "heat transfer coefficient",
+      "label": "variable",
+      "description": "A measure of the rate at which heat is transferred between different objects or environments, which affects the Earth's climate and energy balance",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.5309268640997203
+    },
+    {
+      "name": "vegetation cover",
+      "label": "variable",
+      "description": "The amount and type of plant life in a given area, which influences the local microclimate and climate conditions",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.666960896125057
+    },
+    {
+      "name": "local microclimates",
+      "label": "location",
+      "description": "Small-scale climate conditions that exist in a specific area, influenced by local factors such as vegetation, buildings, and topography",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.6952201886035704
+    }
+  ],
+  "(5194, 8162)": [
+    {
+      "name": "longwave radiation",
+      "label": "variable",
+      "description": "A type of electromagnetic radiation with wavelengths longer than visible light, important in urban microclimate simulations",
+      "uuid": "68323795-3614-462f-8259-bd5293620799",
+      "score": 0.7096779778642233
+    },
+    {
+      "name": "urban environment",
+      "label": "location",
+      "description": "The area within and surrounding cities, characterized by unique microclimates and interactions between built and natural environments",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5560226650220401
+    },
+    {
+      "name": "surfaces",
+      "label": "object",
+      "description": "The exterior surfaces of various objects, including buildings, ground, and vegetation, affecting local microclimates",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.5141105637046592
+    },
+    {
+      "name": "trees",
+      "label": "object",
+      "description": "Vegetation, specifically trees, influencing local microclimates through shading, evapotranspiration, and other processes",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5379385413767277
+    },
+    {
+      "name": "grid cell",
+      "label": "object",
+      "description": "A discrete spatial unit used in simulations to represent and calculate various environmental factors",
+      "uuid": "b9c7e7cf-0c68-4be6-9f20-4802f4e923f8",
+      "score": 0.5091190574766321
+    },
+    {
+      "name": "bioclimate indices",
+      "label": "variable",
+      "description": "Quantitative measures used to assess and compare the thermal comfort and climate conditions in different environments",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.5498983638154776
+    },
+    {
+      "name": "vegetation cover",
+      "label": "variable",
+      "description": "The proportion of an area covered by vegetation, influencing local microclimates through processes such as evapotranspiration and shading",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.7153207823475406
+    },
+    {
+      "name": "reflective surfaces",
+      "label": "object",
+      "description": "Surfaces with high albedo, reflecting a significant portion of incident radiation and influencing local microclimates",
+      "uuid": "f043c0a8-9cee-4c51-bf64-a4aaa34ab75d",
+      "score": 0.5659786436850887
+    },
+    {
+      "name": "local microclimates",
+      "label": "variable",
+      "description": "The unique climate conditions present in a specific, small area, such as a city or urban environment",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.6715048902817732
+    }
+  ],
+  "(7581, 10291)": [
+    {
+      "name": "ENVI-met",
+      "label": "model",
+      "description": "A microclimate simulation model used for analyzing and predicting urban climate and environmental conditions",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5325980579254092
+    },
+    {
+      "name": "radiative exchange",
+      "label": "variable",
+      "description": "The process by which energy is transferred between objects through electromagnetic radiation",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.514481043720277
+    },
+    {
+      "name": "secondary radiative fluxes",
+      "label": "variable",
+      "description": "The amount of radiation exchanged between objects, calculated by combining view factors with averaged values of reflected and emitted radiation",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.5137715915082329
+    },
+    {
+      "name": "buildings",
+      "label": "object",
+      "description": "Man-made structures that can reflect and emit radiation, influencing the urban microclimate",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.6420120390512223
+    },
+    {
+      "name": "plants",
+      "label": "object",
+      "description": "Vegetation that can reflect and emit radiation, influencing the urban microclimate",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5343394388301482
+    },
+    {
+      "name": "reflected shortwave radiation",
+      "label": "variable",
+      "description": "The amount of shortwave radiation reflected by objects, such as buildings and ground surfaces",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.5867183958315321
+    },
+    {
+      "name": "emitted longwave radiation",
+      "label": "variable",
+      "description": "The amount of longwave radiation emitted by objects, such as buildings and ground surfaces",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.6417913310947537
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "The measure of an object's ability to reflect radiation, used to calculate secondary radiative fluxes",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.738526246190052
+    },
+    {
+      "name": "averaged surface temperature values",
+      "label": "variable",
+      "description": "The average temperature of objects, such as buildings, leaves, and ground surfaces, used to estimate received secondary longwave radiation",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5332244380585821
+    }
+  ],
+  "(12097, 15066)": [
+    {
+      "name": "longwave radiation",
+      "label": "variable",
+      "description": "A type of electromagnetic radiation with wavelengths longer than visible light, emitted by objects at temperatures between -173\u00b0C and 1273\u00b0C",
+      "uuid": "68323795-3614-462f-8259-bd5293620799",
+      "score": 0.7288845685092666
+    },
+    {
+      "name": "shortwave radiation",
+      "label": "variable",
+      "description": "A type of electromagnetic radiation with wavelengths shorter than visible light, emitted by the sun and other high-temperature sources",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.7721446889265938
+    },
+    {
+      "name": "grid cell",
+      "label": "platform",
+      "description": "A discrete unit of a grid used to represent and analyze spatial data, such as climate models or geographic information systems",
+      "uuid": "b9c7e7cf-0c68-4be6-9f20-4802f4e923f8",
+      "score": 0.52895740281937
+    }
+  ],
+  "(14531, 17283)": [
+    {
+      "name": "longwave radiation",
+      "label": "variable",
+      "description": "A type of electromagnetic radiation with wavelengths longer than visible light, often associated with thermal emissions>",
+      "uuid": "68323795-3614-462f-8259-bd5293620799",
+      "score": 0.7309842085804693
+    },
+    {
+      "name": "exponential extinction coefficient",
+      "label": "variable",
+      "description": "A measure used to describe the attenuation of radiation as it passes through a medium, such as vegetation>",
+      "uuid": "5f2ec7b9-3e8c-4d12-bba6-0f84c08729e0",
+      "score": 0.5648699529101876
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, which can affect the transmission and reflection of radiation in the environment>",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6502160201993357
+    },
+    {
+      "name": "buildings",
+      "label": "location",
+      "description": "Man-made structures that can reflect and emit radiation, influencing the local radiation balance>",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.6633606617483238
+    },
+    {
+      "name": "ground surfaces",
+      "label": "location",
+      "description": "The surface of the Earth, which can reflect and emit radiation, influencing the local radiation balance>",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.5234440682010384
+    },
+    {
+      "name": "leaf area density",
+      "label": "variable",
+      "description": "A measure of the amount of leaf surface area per unit volume of vegetation>",
+      "uuid": "201b21eb-5781-4d69-ba1f-026111b3b1e5",
+      "score": 0.6292549900529181
+    }
+  ],
+  "(16801, 19515)": [
+    {
+      "name": "ENVI-met",
+      "label": "model",
+      "description": "A microclimate simulation model used for analyzing and predicting urban climate and environmental conditions",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5325980579254092
+    },
+    {
+      "name": "exponential extinction coefficient",
+      "label": "variable",
+      "description": "A measure used to calculate the transmission of radiation through vegetation, accounting for factors such as leaf orientation and density",
+      "uuid": "5f2ec7b9-3e8c-4d12-bba6-0f84c08729e0",
+      "score": 0.5282246139593832
+    },
+    {
+      "name": "leaf area density",
+      "label": "variable",
+      "description": "A measure of the amount of leaf surface area per unit volume of vegetation, used in calculating radiation transmission",
+      "uuid": "201b21eb-5781-4d69-ba1f-026111b3b1e5",
+      "score": 0.616933360479131
+    },
+    {
+      "name": "vegetation cells",
+      "label": "location",
+      "description": "Discrete units of vegetation used in simulations to calculate radiation transmission",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5019011641968343
+    }
+  ],
+  "(19072, 21873)": [
+    {
+      "name": "ENVI-met",
+      "label": "model",
+      "description": "A microclimate simulation model used for urban planning and environmental studies, capable of simulating various environmental factors including radiation and thermal comfort",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5456572131771691
+    },
+    {
+      "name": "New York City",
+      "label": "location",
+      "description": "The most populous city in the United States, known for its diverse urban environment and complex microclimates",
+      "uuid": "854d0bb3-dcc3-48eb-a65a-2d26a8b87394",
+      "score": 0.5151907257466116
+    },
+    {
+      "name": "thermal comfort index PET",
+      "label": "variable",
+      "description": "A measure of the thermal comfort of humans in different environments, taking into account factors such as temperature, humidity, and radiation",
+      "uuid": "5bdc74e2-ea3a-4d1d-b64e-9eaf3a879545",
+      "score": 0.6053513409906741
+    },
+    {
+      "name": "radiation budgets",
+      "label": "variable",
+      "description": "The balance of incoming and outgoing radiation in a given environment, influencing factors such as temperature and microclimate conditions",
+      "uuid": "7cacbfdf-71a3-4fac-b690-9aa54e4060dd",
+      "score": 0.6422119178714766
+    },
+    {
+      "name": "microclimate conditions",
+      "label": "variable",
+      "description": "The unique environmental conditions present in a specific area, influenced by factors such as radiation, temperature, and humidity",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.7112186238641305
+    }
+  ],
+  "(21312, 24381)": [
+    {
+      "name": "New York City",
+      "label": "location",
+      "description": "The most populous city in the United States, located in the state of New York",
+      "uuid": "854d0bb3-dcc3-48eb-a65a-2d26a8b87394",
+      "score": 0.5025003494198812
+    },
+    {
+      "name": "secondary radiative fluxes",
+      "label": "variable",
+      "description": "The exchange of radiant energy between surfaces and the atmosphere in urban areas, influenced by building and surface materials",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.5349145636360202
+    },
+    {
+      "name": "radiation budgets",
+      "label": "variable",
+      "description": "The balance of incoming and outgoing radiant energy in a system, affected by surface and building materials in urban areas",
+      "uuid": "7cacbfdf-71a3-4fac-b690-9aa54e4060dd",
+      "score": 0.6299248431662117
+    },
+    {
+      "name": "microclimate conditions",
+      "label": "variable",
+      "description": "The local atmospheric conditions in a specific area, influenced by factors such as building and surface materials, vegetation, and urban morphology",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.6932187369630934
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air in a given location, held constant at 20 \u00b0C in the simulation to account for air conditioning",
+      "uuid": "0844a959-8ce0-4065-bef4-ee180a346445",
+      "score": 0.5944437464228717
+    }
+  ],
+  "(23861, 26998)": [
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, an important factor in thermal comfort and energy consumption in buildings",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6234935129397301
+    },
+    {
+      "name": "ENVI-met",
+      "label": "model",
+      "description": "A microclimate simulation software used to analyze and predict urban climate conditions, including temperature, radiation, and air quality",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5037666866260772
+    },
+    {
+      "name": "longwave radiation values",
+      "label": "variable",
+      "description": "Measurements of radiation in the longwave spectrum, important for understanding urban heat islands and thermal comfort",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.6619058073461406
+    },
+    {
+      "name": "shortwave radiation values",
+      "label": "variable",
+      "description": "Measurements of radiation in the shortwave spectrum, influencing urban climate conditions and energy consumption",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.670292747703889
+    },
+    {
+      "name": "lower hemisphere",
+      "label": "location",
+      "description": "The area below a certain height or level, in this context referring to the direction from which radiation is received",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.5414189207386559
+    },
+    {
+      "name": "longwave radiation distribution",
+      "label": "variable",
+      "description": "The spatial pattern of longwave radiation in an urban area, affecting thermal comfort and microclimate conditions",
+      "uuid": "68323795-3614-462f-8259-bd5293620799",
+      "score": 0.5685994660464162
+    }
+  ],
+  "(26471, 29525)": [
+    {
+      "name": "longwave radiation",
+      "label": "variable",
+      "description": "A type of electromagnetic radiation with wavelengths longer than visible light, often emitted by objects at temperatures between -50\u00b0C and 500\u00b0C",
+      "uuid": "68323795-3614-462f-8259-bd5293620799",
+      "score": 0.7242576920863689
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "A measure of the amount of sunlight that is reflected by a surface, ranging from 0 for a perfect absorber to 1 for a perfect reflector",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7515742341820126
+    },
+    {
+      "name": "reflected shortwave radiation",
+      "label": "variable",
+      "description": "The amount of shortwave radiation that is reflected by a surface, often influenced by the surface's albedo and shadowing",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.580592941840501
+    },
+    {
+      "name": "emitted longwave radiation",
+      "label": "variable",
+      "description": "The amount of longwave radiation emitted by an object, often dependent on its temperature",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.6509091218052773
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of a surface, which can influence the amount of longwave radiation it emits",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6510789702931592
+    },
+    {
+      "name": "buildings",
+      "label": "platform",
+      "description": "Structures with roofs that can emit or reflect radiation, influencing the local microclimate",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.6300982343836348
+    }
+  ],
+  "(29027, 32064)": [
+    {
+      "name": "reflected shortwave radiation",
+      "label": "variable",
+      "description": "The amount of shortwave radiation that is reflected by surfaces, influencing the radiation budget",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.578424865184814
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "A measure of the reflectivity of a surface, affecting the amount of shortwave radiation that is reflected",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7499673558682478
+    },
+    {
+      "name": "emitted longwave radiation",
+      "label": "variable",
+      "description": "The amount of longwave radiation emitted by surfaces, influencing the radiation budget",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.6587027414517593
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of a surface, driving the emitted longwave radiation patterns",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6543162379920828
+    },
+    {
+      "name": "ENVI-met",
+      "label": "model",
+      "description": "A model used for simulating urban climates and radiation budgets",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5094916194067401
+    }
+  ],
+  "(31510, 34555)": [
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "A measure of the amount of sunlight that is reflected by a surface, influencing the urban climate and energy balance",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7636219244583065
+    },
+    {
+      "name": "emitted longwave radiation",
+      "label": "variable",
+      "description": "The radiation emitted by the Earth's surface and atmosphere, playing a crucial role in the Earth's energy balance and climate",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.6597453736979102
+    },
+    {
+      "name": "reflected shortwave radiation",
+      "label": "variable",
+      "description": "The radiation reflected by surfaces, influencing the urban climate and energy balance",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.5703529716572459
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, driving the emitted longwave radiation patterns and influencing the urban climate",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6567460481897113
+    },
+    {
+      "name": "lower hemisphere",
+      "label": "location",
+      "description": "The area below the horizon, where solar radiation is reflected and influences the urban climate",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.5385607516591373
+    }
+  ],
+  "(33987, 36937)": [
+    {
+      "name": "shortwave radiation",
+      "label": "variable",
+      "description": "A type of electromagnetic radiation with a short wavelength, often used to study solar radiation and urban heat islands",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.7588981889328358
+    },
+    {
+      "name": "reflected shortwave radiation",
+      "label": "variable",
+      "description": "The amount of shortwave radiation that is reflected by surfaces such as buildings, soil, and vegetation",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.5784065444614737
+    },
+    {
+      "name": "urban heat stress",
+      "label": "natural hazard",
+      "description": "A condition where the urban environment experiences high temperatures and heat-related illnesses due to the urban heat island effect",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.6270267315715986
+    }
+  ],
+  "(36436, 39499)": [
+    {
+      "name": "longwave radiation patterns",
+      "label": "variable",
+      "description": "The distribution and intensity of longwave radiation emitted by surfaces, influencing urban heat stress and thermal comfort>",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.6130829217820535
+    },
+    {
+      "name": "thermal properties",
+      "label": "variable",
+      "description": "The characteristics of materials that determine their ability to store and release heat, affecting surface temperatures and longwave radiation emissions>",
+      "uuid": "7d3d6c15-b328-43a4-92eb-7d3c430647c4",
+      "score": 0.6966694606887659
+    },
+    {
+      "name": "Longwave radiation emissions",
+      "label": "variable",
+      "description": "The release of longwave radiation by surfaces, dependent on their temperature and thermal properties>",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.685333599785267
+    },
+    {
+      "name": "longwave radiation",
+      "label": "variable",
+      "description": "A type of electromagnetic radiation with wavelengths longer than visible light, emitted by surfaces and influencing urban heat stress>",
+      "uuid": "68323795-3614-462f-8259-bd5293620799",
+      "score": 0.715403184541805
+    },
+    {
+      "name": "thermal comfort index",
+      "label": "variable",
+      "description": "A measure of the perceived comfort of an environment, taking into account factors such as air temperature, humidity, wind speed, and mean radiant temperature>",
+      "uuid": "5bdc74e2-ea3a-4d1d-b64e-9eaf3a879545",
+      "score": 0.6441952435342121
+    },
+    {
+      "name": "lower hemisphere",
+      "label": "location",
+      "description": "The area below a certain height or level, in this case, referring to the region near the surface>",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.5611357035646245
+    },
+    {
+      "name": "modeling longwave radiation budgets",
+      "label": "experiment",
+      "description": "The process of simulating and analyzing the exchange of longwave radiation within an environment>",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.5245333302464524
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air in a given environment, influencing thermal comfort and urban heat stress>",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6655724247040403
+    },
+    {
+      "name": "emitted longwave radiation",
+      "label": "variable",
+      "description": "The longwave radiation released by surfaces, dependent on their temperature and thermal properties>",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.6672665646225779
+    }
+  ],
+  "(38947, 42006)": [
+    {
+      "name": "thermal comfort indices",
+      "label": "variable",
+      "description": "Measurements or calculations used to assess the comfort of humans in various thermal environments",
+      "uuid": "5bdc74e2-ea3a-4d1d-b64e-9eaf3a879545",
+      "score": 0.5670782428545545
+    },
+    {
+      "name": "urban heat stress",
+      "label": "weather event",
+      "description": "A condition where built-up areas absorb and retain heat, leading to higher temperatures and potential health risks",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.6556134354093407
+    },
+    {
+      "name": "metropolitan regions",
+      "label": "location",
+      "description": "Large urban areas with high population densities and complex infrastructure",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5433894577692641
+    },
+    {
+      "name": "ENVI-met",
+      "label": "model",
+      "description": "A microclimate model used to simulate and analyze urban environments and thermal comfort",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5097784039140332
+    },
+    {
+      "name": "local radiation budget",
+      "label": "variable",
+      "description": "The balance of incoming and outgoing radiation in a specific area, influencing thermal comfort and microclimates",
+      "uuid": "7cacbfdf-71a3-4fac-b690-9aa54e4060dd",
+      "score": 0.5765438983198652
+    }
+  ],
+  "(41479, 44748)": [
+    {
+      "name": "ENVI-met",
+      "label": "model",
+      "description": "A microclimate model used for simulating and analyzing complex urban environments",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5184700766746801
+    },
+    {
+      "name": "secondary radiative fluxes",
+      "label": "variable",
+      "description": "Fluxes of radiation that are emitted or reflected by surfaces, such as longwave radiation and shortwave radiation",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.5405116075563622
+    },
+    {
+      "name": "emitted longwave radiation",
+      "label": "variable",
+      "description": "Radiation emitted by surfaces in the form of longwave radiation",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.6747229160208329
+    },
+    {
+      "name": "reflected shortwave radiation",
+      "label": "variable",
+      "description": "Radiation reflected by surfaces in the form of shortwave radiation",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.6109482486933889
+    },
+    {
+      "name": "local radiation budget",
+      "label": "variable",
+      "description": "The balance of radiation inputs and outputs for a specific area or surface",
+      "uuid": "7cacbfdf-71a3-4fac-b690-9aa54e4060dd",
+      "score": 0.5927471536248373
+    },
+    {
+      "name": "urban environments",
+      "label": "location",
+      "description": "Complex environments characterized by high population densities, built-up infrastructure, and unique microclimates",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5879276806618737
+    }
+  ],
+  "(44178, 45772)": [
+    {
+      "name": "PET",
+      "label": "variable",
+      "description": "A measure of the potential evapotranspiration, indicating the amount of water that could evaporate from a surface",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6236658072513153
+    },
+    {
+      "name": "high-albedo materials",
+      "label": "instrument",
+      "description": "Materials with high reflectivity, used to simulate the reflection of shortwave and longwave radiation",
+      "uuid": "48c16952-b6e0-40cd-b6dd-7cdbf5a443a1",
+      "score": 0.5481157076352225
+    },
+    {
+      "name": "ENVI-met",
+      "label": "model",
+      "description": "A microclimate model used for simulating urban climate conditions and studying the effects of various factors on microclimate",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5068222337382373
+    },
+    {
+      "name": "urban planning scenarios",
+      "label": "project",
+      "description": "Initiatives aimed at designing and managing urban areas to create sustainable and livable environments",
+      "uuid": "6062293a-f372-4e65-9bab-27355f0ebc59",
+      "score": 0.5211341933592519
+    },
+    {
+      "name": "heat mitigation measure studies",
+      "label": "experiment",
+      "description": "Research into strategies for reducing the urban heat island effect and mitigating its impacts",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.5422740692031662
+    },
+    {
+      "name": "microclimate conditions",
+      "label": "variable",
+      "description": "The unique atmospheric conditions present in a specific, small-scale environment, such as a city or urban area",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.688581964433118
+    }
+  ]
+}

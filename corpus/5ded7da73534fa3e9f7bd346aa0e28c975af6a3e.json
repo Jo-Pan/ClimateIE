@@ -1,0 +1,484 @@
+{
+  "(0, 3030)": [
+    {
+      "name": "World Meteorological Organization",
+      "label": "provider",
+      "description": "An international organization that coordinates global weather, climate, and water resources management>",
+      "uuid": "9b0e49df-3b50-4cfa-8ea1-0206dfd05f9b",
+      "score": 0.6546258715704801
+    },
+    {
+      "name": "International Meteorological Organization",
+      "label": "provider",
+      "description": "The predecessor to the World Meteorological Organization, responsible for coordinating international meteorological activities>",
+      "uuid": "9b0e49df-3b50-4cfa-8ea1-0206dfd05f9b",
+      "score": 0.5057838503726578
+    },
+    {
+      "name": "climate normals",
+      "label": "variable",
+      "description": "A statistical measure of average climate conditions over a specified period, typically 30 years>",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.6454852098397061
+    },
+    {
+      "name": "WMO climate normal",
+      "label": "variable",
+      "description": "A specific type of climate normal recommended by the World Meteorological Organization, used as a reference value for climate anomalies>",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.5549763956321907
+    },
+    {
+      "name": "climate anomalies",
+      "label": "variable",
+      "description": "The difference between actual climate conditions and the expected or average conditions, often used to monitor and analyze climate variability>",
+      "uuid": "1838e31f-ef6d-42f8-b166-71f6cd1aaa57",
+      "score": 0.5693227879420646
+    }
+  ],
+  "(2460, 5120)": [
+    {
+      "name": "WMO",
+      "label": "provider",
+      "description": "The World Meteorological Organization, an intergovernmental organization focused on weather, climate, and water resources>",
+      "uuid": "9b0e49df-3b50-4cfa-8ea1-0206dfd05f9b",
+      "score": 0.675597411280086
+    },
+    {
+      "name": "climate normals",
+      "label": "variable",
+      "description": "A statistical measure representing the average climate conditions over a specified period, typically 30 years>",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.6480112457786735
+    },
+    {
+      "name": "climate anomalies",
+      "label": "variable",
+      "description": "The difference between actual climate conditions and the expected or average conditions, often used to identify unusual climate patterns>",
+      "uuid": "1838e31f-ef6d-42f8-b166-71f6cd1aaa57",
+      "score": 0.5617147180105215
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon involving fluctuations in ocean temperatures and atmospheric pressures in the Pacific>",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7826017326101951
+    }
+  ],
+  "(4556, 7771)": [
+    {
+      "name": "World Meteorological Organization (WMO)",
+      "label": "provider",
+      "description": "An international organization that coordinates global weather and climate activities, including the development of climate normals",
+      "uuid": "9b0e49df-3b50-4cfa-8ea1-0206dfd05f9b",
+      "score": 0.6308242692295017
+    },
+    {
+      "name": "climate normals",
+      "label": "variable",
+      "description": "A measure of typical climate conditions, usually calculated as a 30-year average of climate data",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.6268301476408693
+    },
+    {
+      "name": "El Ni\u00f1o-Southern Oscillation",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by fluctuations in the temperature of the Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7450159092045401
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over a long period, posing risks to the environment, human health, and the economy",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5614354280545278
+    },
+    {
+      "name": "L07",
+      "label": "project",
+      "description": "A research project or study focused on developing alternative climate normals, likely referring to a specific publication or author",
+      "uuid": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
+      "score": 0.5304983419878839
+    }
+  ],
+  "(7280, 10255)": [
+    {
+      "name": "WMO",
+      "label": "provider",
+      "description": "The World Meteorological Organization, an intergovernmental organization focused on weather, climate, and water resources>",
+      "uuid": "9b0e49df-3b50-4cfa-8ea1-0206dfd05f9b",
+      "score": 0.675597411280086
+    },
+    {
+      "name": "climate normal",
+      "label": "variable",
+      "description": "A statistical measure representing typical climate conditions, calculated as a 30-year average of climate data>",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.6372820819888444
+    },
+    {
+      "name": "trend",
+      "label": "variable",
+      "description": "A pattern or direction of change in a climate time series>",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.5873426873136095
+    }
+  ],
+  "(9740, 12803)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the atmosphere, often used to study climate trends and patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6446037915718205
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse climate regions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6955265697526274
+    },
+    {
+      "name": "IMO",
+      "label": "provider",
+      "description": "The International Meteorological Organization, a global institution that coordinates meteorological activities and standards",
+      "uuid": "9b0e49df-3b50-4cfa-8ea1-0206dfd05f9b",
+      "score": 0.5574065927010966
+    },
+    {
+      "name": "climate normals",
+      "label": "variable",
+      "description": "A statistical representation of average climate conditions over a specified period, often used as a benchmark for climate comparisons",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.6022131912831666
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5686447982484926
+    },
+    {
+      "name": "state agencies",
+      "label": "provider",
+      "description": "Government organizations that regulate and oversee various aspects of state-level activities, including energy and environment",
+      "uuid": "c2dbd735-cc3c-4645-91c7-1f72a7f2b938",
+      "score": 0.5129900773670972
+    }
+  ],
+  "(12269, 15329)": [
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, often used as a region for climate studies and analysis",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6701574344292751
+    },
+    {
+      "name": "Met Office Hadley Centre",
+      "label": "provider",
+      "description": "A research institution focused on climate science and modeling, part of the UK Met Office",
+      "uuid": "fcbced96-7985-4690-9511-ba7f871b0370",
+      "score": 0.7263897185637366
+    },
+    {
+      "name": "dynamical decadal prediction system",
+      "label": "model",
+      "description": "A type of climate model used for predicting future climate conditions over decadal timescales",
+      "uuid": "5ff03160-ff25-484f-9283-2e195c22780a",
+      "score": 0.5204339731045092
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal state of the atmosphere, often used in climate studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6731090898897736
+    },
+    {
+      "name": "WMO",
+      "label": "provider",
+      "description": "The World Meteorological Organization, an international organization focused on weather, climate, and water",
+      "uuid": "9b0e49df-3b50-4cfa-8ea1-0206dfd05f9b",
+      "score": 0.667898056738779
+    },
+    {
+      "name": "station-month time series",
+      "label": "dataset",
+      "description": "A collection of climate data recorded at a specific station over a period of time, often used for analysis and modeling",
+      "uuid": "8c8c70b1-f6c5-4f34-89b5-510049b8c8ab",
+      "score": 0.5319965672293991
+    },
+    {
+      "name": "decadal average",
+      "label": "variable",
+      "description": "A measure of the average climate condition over a decade, often used to study long-term climate variability",
+      "uuid": "3d97e993-dc6a-41ff-8a49-3e837c1fc2b1",
+      "score": 0.6274866423297321
+    }
+  ],
+  "(14771, 17737)": [
+    {
+      "name": "L07",
+      "label": "project",
+      "description": "A research project focused on climate normals and their calculation methods",
+      "uuid": "074f1aec-503d-4830-8d7c-3ece00ddf37d",
+      "score": 0.51211936324779
+    },
+    {
+      "name": "WMO",
+      "label": "provider",
+      "description": "The World Meteorological Organization, an international organization dedicated to coordinating global weather and climate activities",
+      "uuid": "9b0e49df-3b50-4cfa-8ea1-0206dfd05f9b",
+      "score": 0.6656440591915451
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, often used as a region for climate studies and analysis",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6701574344292751
+    },
+    {
+      "name": "climate normals",
+      "label": "variable",
+      "description": "Representative values of climate parameters, such as temperature, used to describe typical climate conditions",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.5870455567681944
+    },
+    {
+      "name": "1971-2000 climate normals",
+      "label": "dataset",
+      "description": "A specific set of climate normals calculated for the period of 1971-2000",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.5447383574106319
+    },
+    {
+      "name": "1981-2010 climate normals",
+      "label": "dataset",
+      "description": "A specific set of climate normals calculated for the period of 1981-2010",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.5476275905961843
+    }
+  ],
+  "(17295, 20450)": [
+    {
+      "name": "WMO",
+      "label": "provider",
+      "description": "The World Meteorological Organization, an intergovernmental organization focused on weather, climate, and water resources>",
+      "uuid": "9b0e49df-3b50-4cfa-8ea1-0206dfd05f9b",
+      "score": 0.675597411280086
+    },
+    {
+      "name": "climate normals",
+      "label": "variable",
+      "description": "A statistical measure representing the average climate conditions over a specified period, typically 30 years>",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.6480112457786735
+    },
+    {
+      "name": "climate anomalies",
+      "label": "variable",
+      "description": "The difference between actual climate conditions and the average climate conditions, or normals>",
+      "uuid": "7ca345d4-8e15-49ae-98a7-1c387f61ea85",
+      "score": 0.5440538293294336
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.551790831911648
+    },
+    {
+      "name": "climate monitoring centers",
+      "label": "provider",
+      "description": "Organizations responsible for collecting, analyzing, and disseminating climate data and information>",
+      "uuid": "e0577eed-9ff9-4a44-bff3-314fe9286fa8",
+      "score": 0.5169799494384303
+    }
+  ],
+  "(19842, 22872)": [
+    {
+      "name": "Integrated Surface Database (ISD)",
+      "label": "project",
+      "description": "A project initiated by NOAA's National Climatic Data Center to merge numerous surface hourly datasets into a common format and data model",
+      "uuid": "496d0697-68d3-487b-b1eb-eea66ad2772a",
+      "score": 0.5703150795440481
+    },
+    {
+      "name": "NOAA's National Climatic Data Center (NCDC)",
+      "label": "provider",
+      "description": "A center responsible for collecting, analyzing, and disseminating climate data, operated by the National Oceanic and Atmospheric Administration",
+      "uuid": "02598fdd-7ff8-4d38-a2ac-f29d71523f18",
+      "score": 0.6228866116658198
+    },
+    {
+      "name": "Automated Surface Observing System (ASOS)",
+      "label": "instrument",
+      "description": "A system of automated weather observation stations that provide real-time meteorological data",
+      "uuid": "b8d95bb8-6841-4a77-8ae7-53375a98bf8f",
+      "score": 0.7186047240612962
+    },
+    {
+      "name": "Automated Weather Observing System (AWOS)",
+      "label": "instrument",
+      "description": "A system of automated weather observation stations that provide real-time meteorological data",
+      "uuid": "51368be1-9b75-43de-8a73-e525c9b3848c",
+      "score": 0.775338051012201
+    },
+    {
+      "name": "Coastal Marine (CMAN)",
+      "label": "instrument",
+      "description": "A network of coastal weather observation stations",
+      "uuid": "7fdf83a9-e0b3-4bb2-a6f4-801078f62cc9",
+      "score": 0.6822532273067008
+    },
+    {
+      "name": "Buoy",
+      "label": "instrument",
+      "description": "A floating device that measures weather and ocean conditions",
+      "uuid": "99c4602d-1de6-4f4b-88e2-3bd13bd9a385",
+      "score": 0.5905108384922014
+    },
+    {
+      "name": "global hourly data",
+      "label": "variable",
+      "description": "A collection of meteorological data from around the world, updated hourly",
+      "uuid": "027dee16-b361-481e-868d-add966eb5b71",
+      "score": 0.5605759877864518
+    },
+    {
+      "name": "hourly temperature data",
+      "label": "variable",
+      "description": "A type of meteorological data that measures temperature at hourly intervals",
+      "uuid": "027dee16-b361-481e-868d-add966eb5b71",
+      "score": 0.6170542915037067
+    },
+    {
+      "name": "dew point",
+      "label": "variable",
+      "description": "A measure of the temperature at which the air becomes saturated with water vapor",
+      "uuid": "731beb11-9418-40ec-8f2c-c4b320e8231a",
+      "score": 0.7576889623651677
+    },
+    {
+      "name": "24-h precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation that falls over a 24-hour period",
+      "uuid": "12250935-8f40-4279-aada-2f22cbef1459",
+      "score": 0.7140408184946464
+    },
+    {
+      "name": "sea level pressure",
+      "label": "variable",
+      "description": "A measure of the atmospheric pressure at sea level",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.761077770999477
+    },
+    {
+      "name": "present weather",
+      "label": "variable",
+      "description": "A description of the current weather conditions",
+      "uuid": "020585ff-91fb-421b-ba24-305d657c2231",
+      "score": 0.7017038469558218
+    },
+    {
+      "name": "wind speed and direction",
+      "label": "variable",
+      "description": "A measure of the speed and direction of the wind",
+      "uuid": "284d4437-b7f1-4e6d-96f4-92a3b14863c4",
+      "score": 0.6116888927713576
+    },
+    {
+      "name": "wind gust",
+      "label": "variable",
+      "description": "A sudden increase in wind speed",
+      "uuid": "4b0e986f-5dce-48ca-8bad-794c97482553",
+      "score": 0.5220839623443004
+    },
+    {
+      "name": "cloud data",
+      "label": "variable",
+      "description": "A measure of cloud cover and type",
+      "uuid": "1c08d8f3-f733-41d8-a01b-2f4044043224",
+      "score": 0.6378120877591057
+    },
+    {
+      "name": "altimeter setting",
+      "label": "variable",
+      "description": "A measure of the atmospheric pressure used to calibrate altimeters",
+      "uuid": "5d703cfe-2f7c-4736-acbc-ec4e4f4f8eef",
+      "score": 0.5138190161107317
+    },
+    {
+      "name": "station pressure",
+      "label": "variable",
+      "description": "A measure of the atmospheric pressure at a particular location",
+      "uuid": "2343baae-1c4a-4096-8cac-fea8ed7a984f",
+      "score": 0.5873482324297818
+    },
+    {
+      "name": "visibility",
+      "label": "variable",
+      "description": "A measure of the distance at which objects can be seen",
+      "uuid": "9337898d-68dc-43d7-93a9-6afdb4ab1784",
+      "score": 0.6781777541342214
+    },
+    {
+      "name": "precipitation amounts",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation that falls over a given period",
+      "uuid": "cad5c02a-e771-434e-bef6-8dced38a68e8",
+      "score": 0.6350575735926541
+    },
+    {
+      "name": "snow depth",
+      "label": "variable",
+      "description": "A measure of the depth of snow on the ground",
+      "uuid": "9512b90f-f495-41bb-9600-ff25e4cfc571",
+      "score": 0.6754696670290341
+    },
+    {
+      "name": "Office of Biological and Environmental Research",
+      "label": "provider",
+      "description": "An organization that provides funding for research in biological and environmental sciences",
+      "uuid": "34cb53af-f2cd-4b04-8357-25503e34b92a",
+      "score": 0.5593294296544336
+    },
+    {
+      "name": "U.S. Department of Energy",
+      "label": "provider",
+      "description": "A government agency responsible for energy policy and research",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6732250343916872
+    }
+  ],
+  "(22541, 22872)": [
+    {
+      "name": "Office of Biological and Environmental Research",
+      "label": "provider",
+      "description": "A division of the U.S. Department of Energy that supports research in biological and environmental sciences",
+      "uuid": "34cb53af-f2cd-4b04-8357-25503e34b92a",
+      "score": 0.5847805854349039
+    },
+    {
+      "name": "U.S. Department of Energy",
+      "label": "provider",
+      "description": "A federal agency responsible for promoting energy security, scientific research, and environmental stewardship",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.7184208696890234
+    },
+    {
+      "name": "Grant number DE-AI02-96ER62276",
+      "label": "project",
+      "description": "A research project funded by the U.S. Department of Energy to support scientific investigations",
+      "uuid": "34cb53af-f2cd-4b04-8357-25503e34b92a",
+      "score": 0.5215191217015975
+    }
+  ]
+}

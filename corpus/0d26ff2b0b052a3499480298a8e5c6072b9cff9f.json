@@ -1,0 +1,723 @@
+{
+  "(0, 3011)": [
+    {
+      "name": "aquaculture",
+      "label": "project",
+      "description": "The practice of cultivating aquatic plants and animals, especially fish and seafood, for human consumption, often in controlled environments such as ponds or tanks",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.7226491512273268
+    },
+    {
+      "name": "aquaculture industry",
+      "label": "provider",
+      "description": "The commercial sector involved in the cultivation of aquatic plants and animals for food and other products",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.6420717455591075
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process without depleting natural resources, often referring to environmental, social, and economic aspects",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.7010492673141411
+    },
+    {
+      "name": "degradation",
+      "label": "natural hazard",
+      "description": "The process of decline or deterioration in the quality or condition of something, such as environmental degradation",
+      "uuid": "2f2f5764-d4e6-4bbb-bd6d-dda373018237",
+      "score": 0.6494350483746417
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The state of having reliable access to sufficient quantities of safe, nutritious food, essential for human health and well-being",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7385066899391894
+    },
+    {
+      "name": "aquaculture sector",
+      "label": "project",
+      "description": "The part of the economy or industry that is involved in aquaculture, including farming, processing, and distribution of aquatic products",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.580815803759919
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Overflows of water that submerge land that is usually dry, often caused by heavy rainfall, storm surges, or other extreme weather events",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6920385544736251
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in a substance or environment, often affecting biological processes and ecosystems",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6008736501875005
+    },
+    {
+      "name": "climate vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system or population is susceptible to harm or damage from climate-related stressors or changes",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5164776989972133
+    },
+    {
+      "name": "aquatic animals",
+      "label": "variable",
+      "description": "Animals that live in water, such as fish, shellfish, and other seafood, often raised in aquaculture",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.5083937999168343
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "The overall well-being of individuals, encompassing physical, mental, and social aspects",
+      "uuid": "5e468bd6-a13a-4f49-8cb4-7a0ba69d8ad3",
+      "score": 0.5074484660665436
+    }
+  ],
+  "(2511, 5408)": [
+    {
+      "name": "aquaculture",
+      "label": "industry",
+      "description": "The farming of aquatic organisms, including fish, shellfish, and plants, which provides a significant source of food and income for many communities",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.7305003091769413
+    },
+    {
+      "name": "aquatic environments",
+      "label": "location",
+      "description": "Ecosystems that exist in or around water, including oceans, rivers, lakes, and wetlands, which support a wide range of plant and animal life",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.7283319743814288
+    },
+    {
+      "name": "aquaculture production systems",
+      "label": "platform",
+      "description": "The infrastructure and practices used to raise aquatic organisms, including ponds, tanks, and cages, which can impact the environment and human health",
+      "uuid": "392d3da2-c03c-4aa5-bf60-417984f824a6",
+      "score": 0.6061170513201235
+    },
+    {
+      "name": "aquaculture environments",
+      "label": "location",
+      "description": "The ecosystems and surroundings in which aquaculture takes place, including water quality, temperature, and other factors that can affect the health of aquatic organisms",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.5809408606855984
+    },
+    {
+      "name": "animal products",
+      "label": "variable",
+      "description": "Goods derived from animals, such as meat, dairy, and eggs, which are consumed by humans and can be affected by the use of antimicrobials in aquaculture",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5228766601604911
+    },
+    {
+      "name": "SE Asia",
+      "label": "location",
+      "description": "A region in Asia that includes countries such as Indonesia, Malaysia, and the Philippines, which is home to a significant portion of the world's aquaculture production",
+      "uuid": "9ea81338-dc64-4803-b0e2-db0e2aaa70cf",
+      "score": 0.5568692015991792
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability and accessibility of sufficient, safe, and nutritious food for all people, which is impacted by the sustainability and safety of aquaculture practices",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6604647048737766
+    },
+    {
+      "name": "aquaculture sector",
+      "label": "provider",
+      "description": "The industry and organizations involved in the production, processing, and distribution of aquaculture products, which can influence the use of antimicrobials and the spread of AMR",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.5188899806226939
+    },
+    {
+      "name": "global warming",
+      "label": "teleconnection",
+      "description": "The long-term increase in the average temperature of the Earth's climate system, which is expected to have significant impacts on the environment, human health, and the economy",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5673168980408609
+    }
+  ],
+  "(4890, 7870)": [
+    {
+      "name": "aquaculture",
+      "label": "project",
+      "description": "The practice of cultivating aquatic plants and animals in controlled environments, such as fish farms, to produce food and other products",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.7278945349960226
+    },
+    {
+      "name": "pathogen",
+      "label": "instrument",
+      "description": "A microorganism that causes disease in animals or plants",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.6035902067802293
+    },
+    {
+      "name": "aquaculture environments",
+      "label": "location",
+      "description": "The ecosystems and habitats where aquaculture is practiced, including fish farms, ponds, and other controlled environments",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.5977418414568854
+    },
+    {
+      "name": "aquaculture sector",
+      "label": "provider",
+      "description": "The industry and economic system that supports and regulates aquaculture, including fish farms, processing plants, and other related businesses",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.5864469783382471
+    },
+    {
+      "name": "global warming",
+      "label": "teleconnection",
+      "description": "The long-term increase in Earth's average surface temperature due to human activities, such as burning fossil fuels and deforestation",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5369112624374696
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to describe the climate and weather patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6525885711306479
+    },
+    {
+      "name": "climate vulnerability",
+      "label": "variable",
+      "description": "A measure of a region's or country's susceptibility to the impacts of climate change, including increased temperature, sea-level rise, and extreme weather events",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5599048779451621
+    }
+  ],
+  "(7484, 10203)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country located in southern Africa, known for its diverse wildlife and natural resources",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6860755422329755
+    },
+    {
+      "name": "aquaculture",
+      "label": "project",
+      "description": "The practice of cultivating aquatic plants and animals, often for food production",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.7025044389321005
+    },
+    {
+      "name": "aquatic environment",
+      "label": "location",
+      "description": "Ecosystems that exist in water, including freshwater and marine environments, and are home to a wide variety of plants and animals",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6886559249977597
+    },
+    {
+      "name": "Environmental Performance Index",
+      "label": "variable",
+      "description": "A measure of a country's environmental performance, based on factors such as air and water quality, biodiversity, and climate change",
+      "uuid": "3d01c591-1681-40d5-8c86-3d4d8319d654",
+      "score": 0.7003085006624071
+    },
+    {
+      "name": "global animal aquaculture production",
+      "label": "variable",
+      "description": "The total amount of aquatic animals produced through aquaculture worldwide",
+      "uuid": "392d3da2-c03c-4aa5-bf60-417984f824a6",
+      "score": 0.5939466835502841
+    },
+    {
+      "name": "Tunisia",
+      "label": "location",
+      "description": "A country located in North Africa, known for its Mediterranean coastline and diverse culture",
+      "uuid": "434da207-97f4-4bb5-9550-40b0237f0a3f",
+      "score": 0.7224491521789728
+    },
+    {
+      "name": "aquaculture environment",
+      "label": "location",
+      "description": "The ecosystems and surroundings in which aquaculture is practiced, including water quality, soil, and air",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.55890994658215
+    },
+    {
+      "name": "Gross Domestic Product",
+      "label": "variable",
+      "description": "The total value of goods and services produced within a country's borders, often used as a measure of economic activity",
+      "uuid": "6163b751-c8a6-42e5-9eb1-2b73932da631",
+      "score": 0.5207487577141523
+    }
+  ],
+  "(9814, 12647)": [
+    {
+      "name": "GDP",
+      "label": "variable",
+      "description": "Gross Domestic Product per capita, a measure of a country's economic output and standard of living",
+      "uuid": "6163b751-c8a6-42e5-9eb1-2b73932da631",
+      "score": 0.5329828137867859
+    },
+    {
+      "name": "EPI",
+      "label": "variable",
+      "description": "Environmental Performance Index, a measure of a country's environmental performance, based on factors such as air and water quality, and biodiversity",
+      "uuid": "3d01c591-1681-40d5-8c86-3d4d8319d654",
+      "score": 0.7840562002525512
+    },
+    {
+      "name": "CVI",
+      "label": "variable",
+      "description": "Climate Vulnerability Index, a measure of a country's vulnerability to climate change, based on factors such as temperature, water availability, and frequency of extreme weather events",
+      "uuid": "897b3d65-709c-4739-9ba6-85911295d843",
+      "score": 0.6511552382097041
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "The average annual temperature, obtained from sites where the AMR data were documented",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5368562032912301
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences, such as heatwaves, floods, and storms, that can have significant impacts on the environment and human health",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6669922458189138
+    },
+    {
+      "name": "Pakistan",
+      "label": "location",
+      "description": "A country located in South Asia, known for its diverse climate and geography",
+      "uuid": "60b17f24-cf23-4209-91c4-975a87a7acb0",
+      "score": 0.7171733411513571
+    },
+    {
+      "name": "aquaculture production",
+      "label": "variable",
+      "description": "The amount of aquaculture products, such as fish and shellfish, produced in a given area or country",
+      "uuid": "392d3da2-c03c-4aa5-bf60-417984f824a6",
+      "score": 0.6768283050499262
+    },
+    {
+      "name": "population density",
+      "label": "variable",
+      "description": "The number of people living in a given area, often used as a measure of the potential for environmental and health impacts",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7423892175661662
+    },
+    {
+      "name": "pesticide use",
+      "label": "variable",
+      "description": "The amount of pesticides used in agriculture and aquaculture, which can have significant environmental and health impacts",
+      "uuid": "bc1c6d8c-2e47-4a9f-aeb4-16b02bff4f19",
+      "score": 0.523407220809828
+    }
+  ],
+  "(12147, 15271)": [
+    {
+      "name": "aquaculture",
+      "label": "industry",
+      "description": "The practice of cultivating aquatic plants and animals in controlled environments, often for food production",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.7206177775828698
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal conditions in a given environment, influencing various biological and chemical processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.603337248412587
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent in the southern hemisphere, comprising 55 countries and a diverse range of ecosystems and climates",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.633304639506062
+    },
+    {
+      "name": "South East Asia",
+      "label": "location",
+      "description": "A region in the eastern hemisphere, comprising 11 countries and a diverse range of ecosystems and climates",
+      "uuid": "9ea81338-dc64-4803-b0e2-db0e2aaa70cf",
+      "score": 0.6518304510816022
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability and accessibility of sufficient, safe, and nutritious food to meet the dietary needs of a population",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7097389912241827
+    },
+    {
+      "name": "livestock",
+      "label": "industry",
+      "description": "The practice of raising and breeding animals for food, fiber, or other products, often in controlled environments",
+      "uuid": "1e2557c5-d232-48e4-8276-369a22ae6aae",
+      "score": 0.5561269317772537
+    },
+    {
+      "name": "aquatic species",
+      "label": "variable",
+      "description": "A group of organisms that live in aquatic environments, including fish, shellfish, and crustaceans",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.5066874169650861
+    },
+    {
+      "name": "aquaculture environments",
+      "label": "location",
+      "description": "The controlled environments in which aquatic plants and animals are cultivated for food production",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.6288624442157017
+    }
+  ],
+  "(14713, 17972)": [
+    {
+      "name": "animal production systems",
+      "label": "platform",
+      "description": "Systems and practices used for raising animals for food, which can impact environmental and public health through antimicrobial use and resistance development",
+      "uuid": "e5b724af-b661-406a-ae1f-7cd2730c0576",
+      "score": 0.5879711807460614
+    },
+    {
+      "name": "aquaculture",
+      "label": "project",
+      "description": "The practice of cultivating aquatic plants and animals, often involving the use of antimicrobial drugs which can contribute to antimicrobial resistance",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.6394185581749652
+    },
+    {
+      "name": "sediment",
+      "label": "location",
+      "description": "Material that settles to the bottom of a body of water, which can harbor antimicrobial resistant bacteria and genes",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.5701230366520168
+    },
+    {
+      "name": "sewage",
+      "label": "location",
+      "description": "Wastewater and its treatment systems, which can be sources of antimicrobial resistant bacteria and genes if not properly managed",
+      "uuid": "835c5ec2-50e3-4bef-b380-9f74b143dac6",
+      "score": 0.5470276104213141
+    }
+  ],
+  "(17416, 20724)": [
+    {
+      "name": "animal production systems",
+      "label": "platform",
+      "description": "Systems or methods used for the production of animals for food, including farming, breeding, and rearing",
+      "uuid": "e5b724af-b661-406a-ae1f-7cd2730c0576",
+      "score": 0.601827967570899
+    },
+    {
+      "name": "aquaculture",
+      "label": "project",
+      "description": "The practice of cultivating aquatic plants and animals, such as fish, shellfish, and algae, in controlled environments like ponds, tanks, or cages",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.7157359986787789
+    },
+    {
+      "name": "aquaculture species",
+      "label": "variable",
+      "description": "Types of aquatic animals or plants that are cultivated in aquaculture, such as fish, shellfish, or algae",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.5796195054806013
+    },
+    {
+      "name": "aquaculture environments",
+      "label": "location",
+      "description": "The ecosystems or settings in which aquaculture takes place, including ponds, tanks, cages, or other controlled environments",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.5803002725164785
+    },
+    {
+      "name": "sewage",
+      "label": "variable",
+      "description": "Wastewater or other liquid waste that is generated by human activity, including domestic, industrial, or agricultural sources",
+      "uuid": "835c5ec2-50e3-4bef-b380-9f74b143dac6",
+      "score": 0.5311809807211402
+    }
+  ],
+  "(20191, 23011)": [
+    {
+      "name": "animal production systems",
+      "label": "platform",
+      "description": "Systems designed for the production of animals, such as livestock or aquaculture, often involving controlled environments and management practices",
+      "uuid": "e5b724af-b661-406a-ae1f-7cd2730c0576",
+      "score": 0.6366399852316627
+    },
+    {
+      "name": "aquaculture environments",
+      "label": "location",
+      "description": "Places where aquatic organisms are cultivated, such as fish farms or shrimp ponds, which can be affected by various environmental factors",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.6242189261714354
+    },
+    {
+      "name": "mortality",
+      "label": "variable",
+      "description": "The rate of death among a population, often used as an indicator of health and disease in animal production systems",
+      "uuid": "3fd888c4-2fd2-4ce1-8753-3158e2826ef7",
+      "score": 0.6111835668954825
+    },
+    {
+      "name": "aquaculture",
+      "label": "project",
+      "description": "The practice of cultivating aquatic organisms, such as fish or shellfish, in controlled environments, which can have environmental and health impacts",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.7084074147806879
+    }
+  ],
+  "(22509, 25541)": [
+    {
+      "name": "arthropods",
+      "label": "location",
+      "description": "A phylum of animals that include insects, crustaceans, and arachnids, often found in aquatic environments",
+      "uuid": "bb87baf5-3844-4a56-865f-ea5ed420db06",
+      "score": 0.6803165657197284
+    },
+    {
+      "name": "pathogen",
+      "label": "instrument",
+      "description": "A microorganism that causes disease in animals or plants, often studied in the context of infection and mortality",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.6217850710642095
+    },
+    {
+      "name": "sediment",
+      "label": "location",
+      "description": "Material that settles to the bottom of a body of water, often studied in the context of aquatic environments and ecosystems",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6326699209470487
+    },
+    {
+      "name": "aquaculture environment",
+      "label": "location",
+      "description": "A setting where aquatic animals are raised for food, often involving controlled water conditions and feed",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.6425296944623716
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of an environment, often studied in the context of climate and ecosystems",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.636111808768319
+    },
+    {
+      "name": "mortality",
+      "label": "variable",
+      "description": "The rate of death among a group of animals or plants, often studied in the context of ecology and conservation",
+      "uuid": "3fd888c4-2fd2-4ce1-8753-3158e2826ef7",
+      "score": 0.6005795662422095
+    },
+    {
+      "name": "country",
+      "label": "location",
+      "description": "A geographical region with defined borders and governance, often studied in the context of politics and economics",
+      "uuid": "245c630a-8022-46ed-9a79-8f6cf99b0822",
+      "score": 0.562194159086113
+    },
+    {
+      "name": "aquatic cultured animals",
+      "label": "variable",
+      "description": "Animals raised in aquatic environments for food, often studied in the context of aquaculture and ecology",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.6279489516965351
+    },
+    {
+      "name": "tropical-subtropical",
+      "label": "location",
+      "description": "A region of the world characterized by warm temperatures and high levels of rainfall, often studied in the context of climate and ecology",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5794853290556924
+    },
+    {
+      "name": "temperate",
+      "label": "location",
+      "description": "A region of the world characterized by moderate temperatures and rainfall, often studied in the context of climate and ecology",
+      "uuid": "96ea0bde-7cf6-4601-8a49-116636f556cf",
+      "score": 0.5265426224523269
+    }
+  ],
+  "(25081, 28091)": [
+    {
+      "name": "aquaculture data",
+      "label": "dataset",
+      "description": "A collection of data related to aquaculture, including information on aquatic animals, pathogens, and antimicrobial resistance",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.5874987245536504
+    },
+    {
+      "name": "arthropods",
+      "label": "organism",
+      "description": "A phylum of animals that include insects, crustaceans, and arachnids, often studied in the context of disease and antimicrobial resistance",
+      "uuid": "bb87baf5-3844-4a56-865f-ea5ed420db06",
+      "score": 0.6754311841329407
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used in studies of climate, disease, and antimicrobial resistance",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.637820195502368
+    },
+    {
+      "name": "molluscs",
+      "label": "organism",
+      "description": "A phylum of animals that include snails, slugs, clams, mussels, oysters, squids, and octopuses, often studied in the context of disease and antimicrobial resistance",
+      "uuid": "d85c386f-e4f7-4e1c-a16e-34dbb12bb2be",
+      "score": 0.6403110797277013
+    }
+  ],
+  "(27572, 30500)": [
+    {
+      "name": "FAOSTAT",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations Statistics Division, providing data and statistics on food, agriculture, and the environment",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.7495857020548969
+    },
+    {
+      "name": "Worldbank Open Database",
+      "label": "provider",
+      "description": "A database provided by the World Bank, offering free and open access to a wide range of development data",
+      "uuid": "bbd3d3b4-e1d6-492e-a286-eef7d0fbaf9e",
+      "score": 0.6242034656472958
+    },
+    {
+      "name": "Yale University",
+      "label": "provider",
+      "description": "A prestigious American university that is home to the Environmental Performance Index, which evaluates and ranks countries based on their environmental health and ecosystem vitality",
+      "uuid": "e2fa9711-e20b-4f38-b73d-5e3b63d65ecb",
+      "score": 0.6522055811350149
+    },
+    {
+      "name": "Resistancemap",
+      "label": "provider",
+      "description": "An online platform that tracks and visualizes antibiotic resistance data from around the world, providing insights into the spread of antibiotic-resistant bacteria",
+      "uuid": "4c0cf93e-9d2d-4f34-ad93-d0739bb6fca5",
+      "score": 0.5199826597075572
+    },
+    {
+      "name": "FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, a specialized agency of the United Nations that leads international efforts to defeat hunger and improve nutrition and food security",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5727709306782088
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The total number of people living in a country or region, often used as a factor in calculating various economic and social indicators",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6554166689356615
+    },
+    {
+      "name": "animal production",
+      "label": "variable",
+      "description": "The total amount of animal products, such as meat, dairy, and eggs, produced in a country or region",
+      "uuid": "3c0bbd0f-6d4d-4036-afa9-03f9b4f8fba0",
+      "score": 0.5002508493806017
+    },
+    {
+      "name": "livestock density",
+      "label": "variable",
+      "description": "The number of livestock per unit area, often used as an indicator of agricultural intensity and potential environmental impact",
+      "uuid": "244a2eb6-bb6c-462c-978e-f9cfe96dffba",
+      "score": 0.5048071996257854
+    },
+    {
+      "name": "aquaculture production",
+      "label": "variable",
+      "description": "The total amount of aquatic animals and plants produced in a country or region through aquaculture practices",
+      "uuid": "392d3da2-c03c-4aa5-bf60-417984f824a6",
+      "score": 0.65514258565461
+    },
+    {
+      "name": "environmental performance index",
+      "label": "variable",
+      "description": "A measure of a country's environmental health and ecosystem vitality, based on factors such as air and water quality, biodiversity, and climate change",
+      "uuid": "3d01c591-1681-40d5-8c86-3d4d8319d654",
+      "score": 0.6875367663146605
+    },
+    {
+      "name": "climate vulnerability index",
+      "label": "variable",
+      "description": "A measure of a country's exposure to climate change risks, based on factors such as physical impacts, sensitivity to extreme events, energy transition risks, and ability to respond to climate change",
+      "uuid": "897b3d65-709c-4739-9ba6-85911295d843",
+      "score": 0.6218507357767328
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences, such as hurricanes, droughts, and heatwaves, that can have significant impacts on the environment and human societies",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6681632955668609
+    },
+    {
+      "name": "annual temperatures",
+      "label": "variable",
+      "description": "The average temperature of a country or region over a year, often used as an indicator of climate change",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.5641769637902584
+    },
+    {
+      "name": "fossil fuels",
+      "label": "variable",
+      "description": "A type of energy source, such as coal, oil, and natural gas, that is derived from fossilized plants and animals",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5342306501562198
+    }
+  ],
+  "(29945, 32942)": [
+    {
+      "name": "aquaculture",
+      "label": "project",
+      "description": "The practice of cultivating aquatic animals and plants, often in controlled environments",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.7110680897273198
+    },
+    {
+      "name": "annual temperatures",
+      "label": "variable",
+      "description": "The average temperature for a given year, often used in climate and environmental studies",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.6045571049884986
+    },
+    {
+      "name": "Nature Research",
+      "label": "provider",
+      "description": "A publisher of scientific and technical journals, including Nature",
+      "uuid": "81aa71b6-a56f-4a66-b298-9c6d94650188",
+      "score": 0.5519653099764126
+    },
+    {
+      "name": "World Bank",
+      "label": "provider",
+      "description": "An international financial institution that provides financial and technical assistance to developing countries",
+      "uuid": "bbd3d3b4-e1d6-492e-a286-eef7d0fbaf9e",
+      "score": 0.6935775851845428
+    }
+  ],
+  "(32557, 33461)": [
+    {
+      "name": "models",
+      "label": "model",
+      "description": "Computational representations of climate systems used to simulate and predict climate behavior",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.6943927234708324
+    },
+    {
+      "name": "Springer Nature",
+      "label": "provider",
+      "description": "A publisher of scientific journals and books, including those related to climate and environmental research",
+      "uuid": "67aee06b-a1df-4d00-9945-c9229f1ad121",
+      "score": 0.5244222801748033
+    }
+  ]
+}

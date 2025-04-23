@@ -1,0 +1,1240 @@
+{
+  "(0, 3083)": [
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in the southern part of the African continent, characterized by diverse climate conditions and agricultural practices",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7271148306048935
+    },
+    {
+      "name": "climate extremes",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.5862087163779008
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, essential for agricultural productivity and climate studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5474131633338297
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, influencing climate patterns, agricultural productivity, and human comfort",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6504579480068844
+    },
+    {
+      "name": "agricultural season",
+      "label": "experiment",
+      "description": "A period of the year when crops are typically grown and harvested, often influenced by climate conditions",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5111978683660491
+    },
+    {
+      "name": "heavy rain events",
+      "label": "weather event",
+      "description": "Intense precipitation events that can cause flooding, landslides, and other hazards",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.5914958133330953
+    },
+    {
+      "name": "hot night temperatures",
+      "label": "variable",
+      "description": "High temperatures during the night, potentially affecting human health, agricultural productivity, and ecosystem balance",
+      "uuid": "93741006-ff2a-4ec2-bbd4-ff55301fabe0",
+      "score": 0.5775796863584828
+    },
+    {
+      "name": "hot day temperatures",
+      "label": "variable",
+      "description": "High temperatures during the day, influencing human comfort, agricultural productivity, and energy consumption",
+      "uuid": "3d997f01-8987-4fb1-a32e-d88d51f0a2c4",
+      "score": 0.5921627378214117
+    },
+    {
+      "name": "Eastern Africa",
+      "label": "location",
+      "description": "A region in the eastern part of the African continent, characterized by diverse climate conditions and agricultural practices",
+      "uuid": "1837fc8f-4622-433b-8148-dd2b5826f6f2",
+      "score": 0.7221947726358428
+    },
+    {
+      "name": "heat",
+      "label": "weather event",
+      "description": "A period of abnormally hot weather, potentially affecting human health, agricultural productivity, and ecosystem balance",
+      "uuid": "bb9c9be6-78c7-4fbd-9a35-a218276393ec",
+      "score": 0.6619863179181052
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, impacting agricultural productivity, water resources, and ecosystem resilience",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7150074978103045
+    },
+    {
+      "name": "high-intensity rainfall",
+      "label": "weather event",
+      "description": "Intense precipitation events that can cause flooding, landslides, and other hazards",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5727399285106778
+    },
+    {
+      "name": "irrigation",
+      "label": "instrument",
+      "description": "A system or technique used to supply water to crops, reducing dependence on rainfall and improving agricultural productivity",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.69109565842583
+    }
+  ],
+  "(2582, 5401)": [
+    {
+      "name": "growing season",
+      "label": "experiment",
+      "description": "The period of the year during which crops are grown, often influenced by factors such as temperature, rainfall, and daylight hours",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.650174054940925
+    },
+    {
+      "name": "photosynthetic rates",
+      "label": "variable",
+      "description": "The rate at which plants convert light energy into chemical energy through photosynthesis, affecting plant growth and productivity",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.5281998496742571
+    },
+    {
+      "name": "biomass accumulation",
+      "label": "variable",
+      "description": "The process of plants accumulating organic matter, such as leaves, stems, and roots, which can be affected by environmental factors",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.518128797947712
+    },
+    {
+      "name": "yield",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area, often used as a measure of agricultural productivity",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.5479491859362793
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, which can impact plant growth and development",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5422343470724523
+    },
+    {
+      "name": "soil conditions",
+      "label": "location",
+      "description": "The physical and chemical properties of the soil, such as moisture, nutrients, and pH, which can affect plant growth and productivity",
+      "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
+      "score": 0.523732719333356
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the air through transpiration, which can be influenced by temperature and humidity",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.689723450872055
+    },
+    {
+      "name": "plant transpiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the air, which can be affected by temperature, humidity, and other environmental factors",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.5809534613159754
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants convert light energy into chemical energy, essential for growth and development",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6717469781141705
+    },
+    {
+      "name": "global change",
+      "label": "teleconnection",
+      "description": "Large-scale changes in the Earth's climate system, including changes in temperature, precipitation, and other environmental factors",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.5616074457367363
+    },
+    {
+      "name": "growing degree days",
+      "label": "variable",
+      "description": "A measure of the amount of heat available for plant growth, calculated as the sum of daily temperatures above a certain threshold",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.7801017189155551
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability and accessibility of sufficient, safe, and nutritious food to meet the dietary needs of a population",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7097389912241827
+    },
+    {
+      "name": "climate change impact assessments",
+      "label": "project",
+      "description": "Studies and evaluations of the potential effects of climate change on various aspects of the environment, economy, and society",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.6470947230366798
+    }
+  ],
+  "(4847, 7672)": [
+    {
+      "name": "global warming",
+      "label": "climate change",
+      "description": "The long-term rise in Earth's average surface temperature due to human activities, particularly the emission of greenhouse gases",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5247221693657119
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "A measure of the availability and accessibility of sufficient, safe, and nutritious food for all people, often influenced by climate and weather conditions",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6974854943867358
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in the southern part of the African continent, encompassing several countries and characterized by diverse climates and ecosystems",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7946798249112571
+    },
+    {
+      "name": "crop-climate interactions",
+      "label": "experiment",
+      "description": "Studies examining the relationships between crops and climate factors, aiming to understand how climate affects crop growth and productivity",
+      "uuid": "10dacf4d-3058-43a2-9cc4-9752ff5f6859",
+      "score": 0.5726231597289728
+    },
+    {
+      "name": "climate change impact assessments",
+      "label": "experiment",
+      "description": "Research studies evaluating the potential effects of climate change on various aspects of the environment, economy, and society",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.654405619429867
+    },
+    {
+      "name": "crop suitability models",
+      "label": "model",
+      "description": "Computational tools used to identify the most suitable areas for growing specific crops, taking into account climate, soil, and other environmental factors",
+      "uuid": "10dacf4d-3058-43a2-9cc4-9752ff5f6859",
+      "score": 0.5035159096892939
+    },
+    {
+      "name": "agriculture sector",
+      "label": "sector",
+      "description": "The part of the economy that deals with the production, processing, and distribution of food and other agricultural products",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.510446977185578
+    },
+    {
+      "name": "weather",
+      "label": "variable",
+      "description": "The state of the atmosphere at a particular place and time, including temperature, humidity, cloudiness, wind, and precipitation",
+      "uuid": "0fd11f45-185a-4e38-8749-092ee09fab36",
+      "score": 0.5055209591639171
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    }
+  ],
+  "(7165, 10177)": [
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa, including countries such as South Africa, Namibia, and Botswana, characterized by diverse climate and ecosystems",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7891078788036728
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors, influencing global weather patterns and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5820754803517854
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Unusual, severe, and/or infrequent weather conditions, such as droughts, floods, and heatwaves, that can significantly impact ecosystems and human societies",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6574749071461952
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat in the atmosphere, influencing climate and weather patterns",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6363530681972038
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, essential for climate regulation and ecosystem functioning",
+      "uuid": "09a57dc7-3911-4a65-9f12-b819652b8671",
+      "score": 0.5497201888163115
+    },
+    {
+      "name": "GBIF",
+      "label": "provider",
+      "description": "The Global Biodiversity Information Facility, an international organization that provides access to biodiversity data for scientific research, conservation, and sustainable development",
+      "uuid": "73d5c799-e957-453c-9c52-5f690287b44b",
+      "score": 0.8075564090133853
+    },
+    {
+      "name": "agricultural season",
+      "label": "variable",
+      "description": "The period of the year during which crops are grown and harvested, influenced by climate and weather conditions",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5182302671788318
+    }
+  ],
+  "(9680, 12447)": [
+    {
+      "name": "GBIF",
+      "label": "project",
+      "description": "The Global Biodiversity Information Facility, an international organization that provides free and open access to biodiversity data worldwide",
+      "uuid": "73d5c799-e957-453c-9c52-5f690287b44b",
+      "score": 0.8076365104277587
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A country located at the southern tip of Africa, known for its diverse climate and ecosystems",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.6969687801702534
+    },
+    {
+      "name": "Namibia",
+      "label": "location",
+      "description": "A country in southern Africa, characterized by its arid climate and unique biodiversity",
+      "uuid": "a827feaf-9926-4a4d-b21f-dc044524b2b5",
+      "score": 0.7498666499090736
+    },
+    {
+      "name": "Botswana",
+      "label": "location",
+      "description": "A landlocked country in southern Africa, featuring a range of climates from semi-arid to savanna",
+      "uuid": "444367b0-aa47-4d8b-94d7-41f7d69d2738",
+      "score": 0.7350869587821179
+    },
+    {
+      "name": "Agro-Climatic Indices",
+      "label": "model",
+      "description": "A set of indices used to assess the suitability of climate conditions for agricultural activities, specifically for maize cultivation",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.5167838776960897
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa that includes several countries, known for its diverse climate and agricultural activities",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.713547955238869
+    },
+    {
+      "name": "FAO GIEWS",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization's Global Information and Early Warning System, which provides information and analysis on food security and climate-related issues",
+      "uuid": "ca783e8f-d869-4791-9c89-59e1f7cd67db",
+      "score": 0.7050141932938445
+    },
+    {
+      "name": "W5E5",
+      "label": "dataset",
+      "description": "A climate dataset used for model fitting and climate change impact assessment, characterized by its high resolution and compatibility with future climate data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.5681477557051071
+    },
+    {
+      "name": "Climate Change Impact Assessment",
+      "label": "project",
+      "description": "An initiative to evaluate the potential effects of climate change on various aspects of the environment and human societies",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.6144364123785684
+    }
+  ],
+  "(12003, 14794)": [
+    {
+      "name": "W5E5 observational dataset",
+      "label": "dataset",
+      "description": "A collection of observational climate data used for model fitting and validation, published by Lange et al. in 2021",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.6515216396873504
+    },
+    {
+      "name": "selected GCM models",
+      "label": "model",
+      "description": "A set of Global Climate Models chosen for their reliability and representation of model uncertainty in climate change impact studies in Africa",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5539809228330165
+    },
+    {
+      "name": "Climate Change Impact Assessment",
+      "label": "project",
+      "description": "An initiative to evaluate the potential effects of climate change on various aspects of the environment and human societies",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.6144364123785684
+    },
+    {
+      "name": "GCM simulations",
+      "label": "experiment",
+      "description": "Computer simulations using Global Climate Models to predict future climate scenarios under different emission pathways",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5952473660137386
+    },
+    {
+      "name": "shared socioeconomic pathway",
+      "label": "scenario",
+      "description": "A framework for exploring the potential consequences of different societal development paths on the environment and climate, in this case, SSP5-8.5",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.6867431094445576
+    },
+    {
+      "name": "representative concentration pathway",
+      "label": "scenario",
+      "description": "A greenhouse gas concentration trajectory used to project future climate change, in this case, RCP 8.5",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.6180429951195902
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent where the climate change impact studies are focused",
+      "uuid": "2ca1b865-5555-4375-aa81-72811335b695",
+      "score": 0.6512353193990043
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region within Africa where significant changes in extreme climate indices are expected to occur by 2050",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.6309578937910667
+    },
+    {
+      "name": "agroclimatic indices",
+      "label": "variable",
+      "description": "Quantities used to describe the climate conditions suitable for agricultural activities, such as temperature and precipitation patterns",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.533512075361445
+    },
+    {
+      "name": "extreme climate indices",
+      "label": "variable",
+      "description": "Quantities used to describe the extreme weather events, such as heatwaves, droughts, and heavy rainfall, that can impact agricultural productivity",
+      "uuid": "e4c806af-ab57-4fda-b7e9-29e3c65f6ec5",
+      "score": 0.582947087185319
+    }
+  ],
+  "(14317, 16928)": [
+    {
+      "name": "agroclimatic and extreme climate indices",
+      "label": "variable",
+      "description": "Quantities used to describe the climate conditions relevant to agricultural productivity",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.5636861875669577
+    },
+    {
+      "name": "landscape",
+      "label": "location",
+      "description": "A geographic area characterized by its natural features, land use, and environmental conditions",
+      "uuid": "f36d71c6-f2ad-49c4-809f-09b4f0688412",
+      "score": 0.6915445510968641
+    }
+  ],
+  "(16630, 19473)": [
+    {
+      "name": "FAOSTAT",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization Corporate Statistical Database, a source of statistical data on food and agriculture globally",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.736158934901741
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa, south of the equator, known for its diverse climate and ecosystems",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7432639839191725
+    },
+    {
+      "name": "temperature indices",
+      "label": "variable",
+      "description": "Quantities used to describe and analyze temperature-related phenomena, such as extreme temperatures or temperature variability",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.7421932473664156
+    },
+    {
+      "name": "surface air temperature averages",
+      "label": "variable",
+      "description": "Measurements of the average temperature of the air near the Earth's surface",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6378041718920624
+    },
+    {
+      "name": "agro-climatic variables",
+      "label": "variable",
+      "description": "Quantities related to the interaction between climate and agriculture, such as temperature, precipitation, and soil moisture",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5364133914925509
+    },
+    {
+      "name": "extreme indices",
+      "label": "variable",
+      "description": "Quantities used to describe and analyze extreme weather events, such as heatwaves, droughts, or heavy precipitation",
+      "uuid": "e4c806af-ab57-4fda-b7e9-29e3c65f6ec5",
+      "score": 0.595383296963661
+    }
+  ],
+  "(18916, 21840)": [
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in the southern part of Africa, characterized by diverse climate and geography",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.741804585821978
+    },
+    {
+      "name": "agricultural season",
+      "label": "variable",
+      "description": "The period of the year when crops are grown and harvested, typically defined by specific weather and climate conditions",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5202735295470611
+    },
+    {
+      "name": "surface air temperature averages",
+      "label": "variable",
+      "description": "The mean temperature of the air near the Earth's surface, an important factor in climate and weather studies",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6440621110727317
+    },
+    {
+      "name": "extreme temperature indices",
+      "label": "variable",
+      "description": "Quantities used to describe and analyze extreme temperature events, such as heatwaves or cold snaps",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.6587609878756978
+    },
+    {
+      "name": "maximum value of daily minimum temperature",
+      "label": "variable",
+      "description": "The highest minimum temperature recorded over a 24-hour period, an indicator of climate variability",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.5653297918850204
+    },
+    {
+      "name": "maximum value of daily maximum temperature",
+      "label": "variable",
+      "description": "The highest maximum temperature recorded over a 24-hour period, an indicator of climate variability",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6381169459485041
+    },
+    {
+      "name": "Lesotho",
+      "label": "location",
+      "description": "A country located in southern Africa, known for its mountainous terrain and cooler climate",
+      "uuid": "96c2b110-5d8b-425b-a5e5-7066e6c7b52e",
+      "score": 0.7611343199502544
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A country located at the southern tip of Africa, characterized by diverse climate and geography",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.7039295725211363
+    },
+    {
+      "name": "Namibia",
+      "label": "location",
+      "description": "A country located in southern Africa, known for its arid climate and coastal upwelling",
+      "uuid": "a827feaf-9926-4a4d-b21f-dc044524b2b5",
+      "score": 0.7372480315921399
+    },
+    {
+      "name": "Botswana",
+      "label": "location",
+      "description": "A country located in southern Africa, known for its savannas and diverse wildlife",
+      "uuid": "444367b0-aa47-4d8b-94d7-41f7d69d2738",
+      "score": 0.7423086561327071
+    },
+    {
+      "name": "Angola",
+      "label": "location",
+      "description": "A country located in southern Africa, characterized by a tropical climate and diverse geography",
+      "uuid": "9b0a194d-d617-4fed-9625-df176319892d",
+      "score": 0.7488733526786456
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country located in southern Africa, known for its diverse climate and geography",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6772245656728427
+    },
+    {
+      "name": "Zimbabwe",
+      "label": "location",
+      "description": "A country located in southern Africa, characterized by a subtropical climate and diverse geography",
+      "uuid": "ab8482e0-3abc-48ce-9216-a9932b0bb090",
+      "score": 0.6634424003452848
+    }
+  ],
+  "(21381, 24257)": [
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in the southern part of the African continent, comprising several countries including South Africa, Angola, and Zimbabwe",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7452934308683243
+    },
+    {
+      "name": "Angola",
+      "label": "location",
+      "description": "A country located in southern Africa, known for its diverse climate and geography",
+      "uuid": "9b0a194d-d617-4fed-9625-df176319892d",
+      "score": 0.7675991811288184
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A country located at the southern tip of Africa, known for its diverse climate and geography",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.713236101799208
+    },
+    {
+      "name": "Malawi",
+      "label": "location",
+      "description": "A country located in southeastern Africa, known for its diverse climate and geography",
+      "uuid": "bc151f49-5347-401a-a0b6-476656a2df23",
+      "score": 0.7667727282806289
+    },
+    {
+      "name": "Zimbabwe",
+      "label": "location",
+      "description": "A country located in southern Africa, known for its diverse climate and geography",
+      "uuid": "ab8482e0-3abc-48ce-9216-a9932b0bb090",
+      "score": 0.6687940673157731
+    },
+    {
+      "name": "Mozambique",
+      "label": "location",
+      "description": "A country located in southeastern Africa, known for its diverse climate and geography",
+      "uuid": "d322d155-b8f0-4173-b382-b762a070e4d9",
+      "score": 0.7488662360291425
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country located in southern Africa, known for its diverse climate and geography",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6772245656728427
+    },
+    {
+      "name": "agricultural season",
+      "label": "variable",
+      "description": "The period of the year when crops are typically planted, grown, and harvested, influenced by climate and weather conditions",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5209349412573082
+    },
+    {
+      "name": "temperature-based indices",
+      "label": "variable",
+      "description": "Quantitative measures used to assess and analyze temperature patterns and trends",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.7301837196851502
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, an important factor in climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5553014262285698
+    },
+    {
+      "name": "extreme rainfall indices",
+      "label": "variable",
+      "description": "Quantitative measures used to assess and analyze extreme precipitation events, such as heavy rainfall or droughts",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6105701826225635
+    },
+    {
+      "name": "heavy precipitation events",
+      "label": "weather event",
+      "description": "Occurrences of intense rainfall, often leading to flooding and other severe weather conditions",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6224020998702702
+    },
+    {
+      "name": "model",
+      "label": "model",
+      "description": "A computational representation of climate processes used to simulate and predict future climate changes",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.634892951219287
+    }
+  ],
+  "(23742, 26847)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country located in southern Africa, known for its diverse climate and geography",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6772245656728427
+    },
+    {
+      "name": "Mozambique",
+      "label": "location",
+      "description": "A country located in southeastern Africa, characterized by a tropical climate with significant rainfall and temperature variability",
+      "uuid": "d322d155-b8f0-4173-b382-b762a070e4d9",
+      "score": 0.7551473326669128
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, crucial for agriculture and climate studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5564562710914464
+    },
+    {
+      "name": "temperature-based indices",
+      "label": "variable",
+      "description": "Quantities used to describe and analyze temperature patterns, such as mean temperature, maximum temperature, and minimum temperature",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.7018452207994735
+    },
+    {
+      "name": "temperature extreme indices",
+      "label": "variable",
+      "description": "Measures used to quantify extreme temperature events, such as heatwaves, cold snaps, and temperature variability",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.6668402919499978
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in the southern part of the African continent, characterized by diverse climates, geography, and ecosystems",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7853396976119477
+    },
+    {
+      "name": "model",
+      "label": "model",
+      "description": "A computational representation of a system, used to simulate and predict the behavior of complex phenomena such as climate and agriculture",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.6423536997902936
+    }
+  ],
+  "(26262, 29295)": [
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa, comprising several countries, known for its diverse climate and agricultural activities",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7187076071177699
+    },
+    {
+      "name": "precipitation and precipitation indices",
+      "label": "variable",
+      "description": "Quantities used to measure and analyze rainfall patterns, such as total precipitation, consecutive dry days, and heavy rainfall events",
+      "uuid": "52347642-9786-4b59-be77-02e9f307118d",
+      "score": 0.6646663234462125
+    },
+    {
+      "name": "temperature indices",
+      "label": "variable",
+      "description": "Quantities used to measure and analyze temperature patterns, such as mean temperature, maximum temperature, and temperature extremes",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.7235494323497502
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system, including the impacts of climate change on maize suitability",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6082086534943446
+    },
+    {
+      "name": "Botswana",
+      "label": "location",
+      "description": "A country in Southern Africa, with a diverse climate and agricultural sector",
+      "uuid": "444367b0-aa47-4d8b-94d7-41f7d69d2738",
+      "score": 0.6713223516186372
+    },
+    {
+      "name": "Malawi",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its agricultural activities and vulnerability to climate change",
+      "uuid": "bc151f49-5347-401a-a0b6-476656a2df23",
+      "score": 0.6606076015496188
+    },
+    {
+      "name": "Mozambique",
+      "label": "location",
+      "description": "A country in Southern Africa, with a long coastline and diverse climate conditions",
+      "uuid": "d322d155-b8f0-4173-b382-b762a070e4d9",
+      "score": 0.7177991041993593
+    },
+    {
+      "name": "Namibia",
+      "label": "location",
+      "description": "A country in Southern Africa, characterized by its arid climate and limited agricultural activities",
+      "uuid": "a827feaf-9926-4a4d-b21f-dc044524b2b5",
+      "score": 0.7122042467937957
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A country in Southern Africa, with a diverse economy and significant agricultural sector",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.6284855088167299
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its agricultural activities and vulnerability to climate change",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6026054118586769
+    },
+    {
+      "name": "Zimbabwe",
+      "label": "location",
+      "description": "A country in Southern Africa, with a diverse climate and agricultural sector",
+      "uuid": "ab8482e0-3abc-48ce-9216-a9932b0bb090",
+      "score": 0.6227747205336106
+    }
+  ],
+  "(28832, 32000)": [
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa, including countries such as South Africa, Namibia, Botswana, and others, known for its diverse climate and agricultural activities",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7490572932892555
+    },
+    {
+      "name": "Botswana",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its savannas, deserts, and diverse wildlife",
+      "uuid": "444367b0-aa47-4d8b-94d7-41f7d69d2738",
+      "score": 0.7247267358275945
+    },
+    {
+      "name": "Malawi",
+      "label": "location",
+      "description": "A country in Southeastern Africa, known for its agricultural production and vulnerable climate",
+      "uuid": "bc151f49-5347-401a-a0b6-476656a2df23",
+      "score": 0.6810851071318101
+    },
+    {
+      "name": "Mozambique",
+      "label": "location",
+      "description": "A country in Southeastern Africa, known for its diverse climate and agricultural activities",
+      "uuid": "d322d155-b8f0-4173-b382-b762a070e4d9",
+      "score": 0.6920314935775314
+    },
+    {
+      "name": "Namibia",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its deserts, savannas, and diverse wildlife",
+      "uuid": "a827feaf-9926-4a4d-b21f-dc044524b2b5",
+      "score": 0.6903096788546548
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its diverse climate, economy, and agricultural activities",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.6431873279533907
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its diverse climate and agricultural activities",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6277589175976374
+    },
+    {
+      "name": "Zimbabwe",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its diverse climate and agricultural activities",
+      "uuid": "ab8482e0-3abc-48ce-9216-a9932b0bb090",
+      "score": 0.6305121721867798
+    },
+    {
+      "name": "Angola",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its diverse climate and agricultural activities",
+      "uuid": "9b0a194d-d617-4fed-9625-df176319892d",
+      "score": 0.7004186287760326
+    },
+    {
+      "name": "Lesotho",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its mountainous terrain and vulnerable climate",
+      "uuid": "96c2b110-5d8b-425b-a5e5-7066e6c7b52e",
+      "score": 0.7390142116862389
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict climate patterns and changes",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7119671568957023
+    },
+    {
+      "name": "climate indices",
+      "label": "variable",
+      "description": "Quantitative measures used to describe and analyze climate patterns, such as temperature and precipitation",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.6663385154091133
+    },
+    {
+      "name": "temperature indices",
+      "label": "variable",
+      "description": "Quantitative measures used to describe and analyze temperature patterns, such as extreme heat events",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.7367143922969618
+    },
+    {
+      "name": "rainfall indices",
+      "label": "variable",
+      "description": "Quantitative measures used to describe and analyze rainfall patterns, such as droughts and floods",
+      "uuid": "52347642-9786-4b59-be77-02e9f307118d",
+      "score": 0.6072525980554156
+    },
+    {
+      "name": "Base + TNx model",
+      "label": "model",
+      "description": "A specific climate model configuration that includes temperature indices",
+      "uuid": "a67a2bae-6b34-446f-8b7c-2cba852e8f6f",
+      "score": 0.5146308587383306
+    }
+  ],
+  "(31433, 34605)": [
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa that includes several countries, known for its diverse climate and geography",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.746093691503356
+    },
+    {
+      "name": "agricultural season",
+      "label": "experiment",
+      "description": "A period of the year when crops are typically grown and harvested, and is often used as a focus for climate impact assessments",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.534069019520895
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric conditions such as temperature, precipitation, and humidity that affect the climate and weather patterns",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6825628587165641
+    },
+    {
+      "name": "extreme temperature indices",
+      "label": "variable",
+      "description": "Measurements of unusually high or low temperatures, such as hot nights or hot days, that can impact crops and human health",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.5931802398378944
+    },
+    {
+      "name": "extreme rainfall indices",
+      "label": "variable",
+      "description": "Measurements of unusually heavy or light rainfall, such as consecutive dry days or heavy rainfall events, that can impact crops and water availability",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5498837547598955
+    },
+    {
+      "name": "heat extreme events",
+      "label": "weather event",
+      "description": "Unusually hot weather patterns, such as heatwaves, that can have significant impacts on human health, agriculture, and ecosystems",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.6582156211382005
+    },
+    {
+      "name": "available soil moisture",
+      "label": "variable",
+      "description": "The amount of water available in the soil for plant growth, which can be affected by climate conditions such as rainfall and temperature",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6161908721563335
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, which can have significant impacts on ecosystems, human health, and the economy",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5910140193885799
+    },
+    {
+      "name": "climate impact studies",
+      "label": "project",
+      "description": "Research initiatives that aim to understand the effects of climate change on various aspects of the environment and human societies",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.5450885309261831
+    }
+  ],
+  "(33980, 36986)": [
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa that includes countries such as South Africa, Namibia, Botswana, and Zimbabwe, known for its diverse climate and agricultural activities",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7492970489344375
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario used in climate modeling that represents a high greenhouse gas emissions pathway, often used to study the impacts of climate change on various sectors",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.6772358006431323
+    },
+    {
+      "name": "Eastern Africa",
+      "label": "location",
+      "description": "A region in Africa that includes countries such as Kenya, Tanzania, and Ethiopia, known for its agricultural production and vulnerability to climate change",
+      "uuid": "1837fc8f-4622-433b-8148-dd2b5826f6f2",
+      "score": 0.7164088868165931
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat in the environment, often used in climate studies to understand its impact on crops and ecosystems",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6298299778434433
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the ground, often used in climate studies to understand its impact on crops and ecosystems",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5362872480670254
+    },
+    {
+      "name": "climate extremes",
+      "label": "natural hazard",
+      "description": "Severe and unusual weather events such as heatwaves, droughts, and floods, which can have significant impacts on ecosystems and human societies",
+      "uuid": "83e9ddee-5887-4758-a3ba-5cb17a7d4ed5",
+      "score": 0.5763167473395446
+    },
+    {
+      "name": "Botswana",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its agricultural production and vulnerability to climate change",
+      "uuid": "444367b0-aa47-4d8b-94d7-41f7d69d2738",
+      "score": 0.6435870092757843
+    },
+    {
+      "name": "Namibia",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its agricultural production and vulnerability to climate change",
+      "uuid": "a827feaf-9926-4a4d-b21f-dc044524b2b5",
+      "score": 0.6511410981796084
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its agricultural production and vulnerability to climate change",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.5924949714398081
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its agricultural production and vulnerability to climate change",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6042405933973505
+    },
+    {
+      "name": "Zimbabwe",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its agricultural production and vulnerability to climate change",
+      "uuid": "ab8482e0-3abc-48ce-9216-a9932b0bb090",
+      "score": 0.6139458700968777
+    }
+  ],
+  "(36462, 39610)": [
+    {
+      "name": "Botswana",
+      "label": "location",
+      "description": "A country in southern Africa, known for its diverse climate and geography",
+      "uuid": "444367b0-aa47-4d8b-94d7-41f7d69d2738",
+      "score": 0.7041262343612468
+    },
+    {
+      "name": "Namibia",
+      "label": "location",
+      "description": "A country in southern Africa, characterized by its arid climate and unique landscapes",
+      "uuid": "a827feaf-9926-4a4d-b21f-dc044524b2b5",
+      "score": 0.7522951738249631
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A country at the southern tip of Africa, with a diverse range of climates and ecosystems",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.6676522688558184
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A landlocked country in southern Africa, with a tropical climate and varied geography",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6741961841793049
+    },
+    {
+      "name": "Zimbabwe",
+      "label": "location",
+      "description": "A country in southern Africa, known for its diverse climate and natural resources",
+      "uuid": "ab8482e0-3abc-48ce-9216-a9932b0bb090",
+      "score": 0.6406168667932151
+    },
+    {
+      "name": "Angola",
+      "label": "location",
+      "description": "A country in southern Africa, with a diverse climate and geography",
+      "uuid": "9b0a194d-d617-4fed-9625-df176319892d",
+      "score": 0.7293781804139711
+    },
+    {
+      "name": "Lesotho",
+      "label": "location",
+      "description": "A country in southern Africa, characterized by its mountainous terrain and varied climate",
+      "uuid": "96c2b110-5d8b-425b-a5e5-7066e6c7b52e",
+      "score": 0.739170548253154
+    },
+    {
+      "name": "Mozambique",
+      "label": "location",
+      "description": "A country in southeastern Africa, with a tropical climate and diverse geography",
+      "uuid": "d322d155-b8f0-4173-b382-b762a070e4d9",
+      "score": 0.7351534684938358
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in the southern part of the African continent, known for its diverse climates and ecosystems",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7779494979051097
+    },
+    {
+      "name": "temperature extreme indices",
+      "label": "variable",
+      "description": "Quantitative measures of extreme temperature events, such as heatwaves or cold snaps",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.6587341215388087
+    },
+    {
+      "name": "micro-climate regulation effects",
+      "label": "variable",
+      "description": "The influence of local environmental conditions, such as temperature and humidity, on the growth and development of crops",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.585503411811972
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, computational representations of the Earth's climate system used to simulate and predict future climate conditions",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7326733510651747
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors, with significant impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.596741966479378
+    },
+    {
+      "name": "extreme climate events",
+      "label": "weather event",
+      "description": "Unusual and severe weather phenomena, such as heatwaves, droughts, or heavy rainfall events, that can have significant impacts on ecosystems and human societies",
+      "uuid": "83e9ddee-5887-4758-a3ba-5cb17a7d4ed5",
+      "score": 0.6073837508519565
+    },
+    {
+      "name": "riparian zones",
+      "label": "location",
+      "description": "Areas of land adjacent to rivers, streams, or other bodies of water, often characterized by unique ecosystems and biodiversity",
+      "uuid": "41446bdc-89f6-4d84-a2a4-005390757235",
+      "score": 0.683560149040053
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Areas of high population density, characterized by human-dominated landscapes and infrastructure",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7461347868903149
+    }
+  ],
+  "(39053, 42145)": [
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa that includes countries such as South Africa, Namibia, and Botswana, known for its diverse climate and geography",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7793675217006573
+    },
+    {
+      "name": "hot night temperatures",
+      "label": "variable",
+      "description": "A measure of the temperature at night, which can impact agricultural productivity and human health",
+      "uuid": "93741006-ff2a-4ec2-bbd4-ff55301fabe0",
+      "score": 0.5269922351001256
+    },
+    {
+      "name": "hot day temperatures",
+      "label": "variable",
+      "description": "A measure of the temperature during the day, which can impact agricultural productivity and human health",
+      "uuid": "3d997f01-8987-4fb1-a32e-d88d51f0a2c4",
+      "score": 0.5631896051063968
+    },
+    {
+      "name": "heavy rainfall events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as floods and storms",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.6213998890134301
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across vast distances",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5087004786976634
+    },
+    {
+      "name": "agricultural season",
+      "label": "variable",
+      "description": "The period of the year when crops are grown and harvested, which can be impacted by climate change",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5299773239457235
+    },
+    {
+      "name": "Inter-Sectoral Impact Model Intercomparison Project",
+      "label": "project",
+      "description": "A project that aims to compare and improve the performance of climate impact models across different sectors and regions",
+      "uuid": "9221496b-49fb-4998-a932-a51e11bf6cd7",
+      "score": 0.5238250616395093
+    },
+    {
+      "name": "ISIMIP input data",
+      "label": "dataset",
+      "description": "A collection of data used as input for the Inter-Sectoral Impact Model Intercomparison Project",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.5183580517497498
+    }
+  ]
+}

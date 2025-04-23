@@ -1,0 +1,642 @@
+{
+  "(0, 3109)": [
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its diverse climate and geography",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6805698195820205
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its unique biodiversity and climate",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.6605813772072096
+    },
+    {
+      "name": "pollen",
+      "label": "variable",
+      "description": "The microscopic haploid stage of the plant life cycle, often used as an indicator of environmental changes",
+      "uuid": "b0ad34ee-4b38-4a8d-a483-b3bfea66fa82",
+      "score": 0.6359630285713924
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate system, influencing weather patterns and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5852687476969444
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The human modification of the Earth's surface for various purposes, such as agriculture, urbanization, and conservation",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5842254652561686
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Areas with high population density and human development, often characterized by unique environmental and climate conditions",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7243378356772681
+    },
+    {
+      "name": "palynology",
+      "label": "instrument",
+      "description": "The study of fossilized pollen and spores to reconstruct past environmental conditions and climate",
+      "uuid": "59719c53-a2b7-4200-9b3c-dfa5d39607f7",
+      "score": 0.5747173835302573
+    },
+    {
+      "name": "human impacts",
+      "label": "natural hazard",
+      "description": "The effects of human activities on the environment, including climate change, pollution, and land degradation",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.6407638409974152
+    },
+    {
+      "name": "public health",
+      "label": "variable",
+      "description": "The health and well-being of human populations, often influenced by environmental factors such as air quality and climate",
+      "uuid": "da2c70fd-d92b-45be-b159-b2c10cb387c6",
+      "score": 0.5925816545093711
+    }
+  ],
+  "(2569, 5986)": [
+    {
+      "name": "aerobiological datasets",
+      "label": "project",
+      "description": "A collection of data related to the study of airborne biological particles, such as pollen, and their impact on the environment and human health",
+      "uuid": "6984e0a6-cb78-4f60-a31d-3ff8415e3829",
+      "score": 0.5082800920605983
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, characterized by distinct climate patterns and vegetation",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7529117540533311
+    },
+    {
+      "name": "Southern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth south of the equator, characterized by unique climate patterns and biodiversity",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7641857246006465
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its diverse ecosystems and climate variability",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6981262466537442
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, characterized by its unique geography and climate",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.6488584761994679
+    },
+    {
+      "name": "pollen",
+      "label": "variable",
+      "description": "A type of airborne biological particle produced by plants, influencing allergy and ecosystem health",
+      "uuid": "b0ad34ee-4b38-4a8d-a483-b3bfea66fa82",
+      "score": 0.6731417000951296
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term shift in global climate patterns, impacting ecosystems and human health",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5733754576985798
+    },
+    {
+      "name": "urban land use",
+      "label": "platform",
+      "description": "The way in which land is utilized in urban areas, influencing local climate and environmental conditions",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.5430090262317059
+    },
+    {
+      "name": "exotic invasive species",
+      "label": "variable",
+      "description": "Non-native species introduced to an ecosystem, potentially disrupting local biodiversity and climate patterns",
+      "uuid": "ddeb06af-5c36-428d-801e-e9f9a60ce429",
+      "score": 0.7026964120030051
+    },
+    {
+      "name": "indigenous vegetation",
+      "label": "variable",
+      "description": "Native plant species in a given ecosystem, playing a crucial role in shaping local climate and environmental conditions",
+      "uuid": "0bfb8ae4-c08a-4d69-82d2-1b1b0d4acef6",
+      "score": 0.6808019014109143
+    },
+    {
+      "name": "atmospheric pollen dataset",
+      "label": "project",
+      "description": "A collection of data related to the study of airborne pollen and its impact on the environment and human health",
+      "uuid": "b0ad34ee-4b38-4a8d-a483-b3bfea66fa82",
+      "score": 0.5288433037950916
+    }
+  ],
+  "(5432, 8312)": [
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its diverse climate and geography",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6805698195820205
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its diverse climate and geography",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.6425711402980105
+    },
+    {
+      "name": "pollen",
+      "label": "variable",
+      "description": "The fine powder produced by plants as part of their reproductive cycle, often used as an indicator of plant activity and climate change",
+      "uuid": "b0ad34ee-4b38-4a8d-a483-b3bfea66fa82",
+      "score": 0.6755058104544417
+    },
+    {
+      "name": "land cover attribute",
+      "label": "variable",
+      "description": "A characteristic of the Earth's surface, such as vegetation, soil, or water, that can affect climate and ecosystem processes",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5918162250343167
+    },
+    {
+      "name": "average monthly precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall or other precipitation that occurs in a given region over a specific period of time",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5028674145495377
+    },
+    {
+      "name": "minimum and maximum temperatures",
+      "label": "variable",
+      "description": "Measures of the lowest and highest temperatures recorded in a given region over a specific period of time",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6484674563846645
+    }
+  ],
+  "(7944, 10597)": [
+    {
+      "name": "pollen",
+      "label": "variable",
+      "description": "A type of particle collected and analyzed in the study",
+      "uuid": "b0ad34ee-4b38-4a8d-a483-b3bfea66fa82",
+      "score": 0.6271630930267398
+    }
+  ],
+  "(10115, 12960)": [
+    {
+      "name": "Pollen identification",
+      "label": "experiment",
+      "description": "A scientific study aimed at identifying and analyzing pollen samples to understand their characteristics and behavior",
+      "uuid": "59719c53-a2b7-4200-9b3c-dfa5d39607f7",
+      "score": 0.5660290266213168
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, where pollen analysis studies were conducted",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.555862515983992
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, where pollen analysis studies were conducted",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.5403478441622437
+    },
+    {
+      "name": "pollen season",
+      "label": "variable",
+      "description": "The period of time when pollen is present in the air, often studied in aerobiological surveys",
+      "uuid": "b0ad34ee-4b38-4a8d-a483-b3bfea66fa82",
+      "score": 0.511424240371423
+    }
+  ],
+  "(12453, 15576)": [
+    {
+      "name": "annual maximum and minimum temperature",
+      "label": "variable",
+      "description": "A measure of the highest and lowest temperatures recorded in a year, influencing climate and environmental conditions",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.5785912934216657
+    },
+    {
+      "name": "land cover types",
+      "label": "variable",
+      "description": "A classification of the different types of land use or vegetation cover, such as urban, forest, or grassland, which can impact local climate and ecosystems",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6284909755837584
+    },
+    {
+      "name": "dominant taxa",
+      "label": "variable",
+      "description": "The most abundant or prevalent species or group of species in a given area or environment, often used to characterize ecological communities",
+      "uuid": "df597f06-8575-4726-acac-65b2bd432d59",
+      "score": 0.6654443582540893
+    },
+    {
+      "name": "phenological observations",
+      "label": "variable",
+      "description": "The study of the timing and duration of recurring biological events, such as the timing of pollen season, which can be influenced by climate and environmental factors",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6236493297623865
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities or metropolitan regions, which can have unique environmental and climate characteristics compared to surrounding rural areas",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6689647171110908
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its diverse climate and ecosystems",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6984205368369434
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, characterized by its temperate climate and unique biodiversity",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.6532431134773764
+    }
+  ],
+  "(15037, 18021)": [
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its diverse climate and vegetation zones",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6898326258632693
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, comprising two main islands and characterized by a temperate climate",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.6385570591011228
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities and towns in Australia and New Zealand, where airborne pollen data were collected",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5516913321715702
+    },
+    {
+      "name": "Pinus",
+      "label": "variable",
+      "description": "A genus of coniferous trees, contributing to airborne pollen in urban environments",
+      "uuid": "b26769a1-f023-4ab1-bc21-78ef2a5fd185",
+      "score": 0.5186038897316246
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical characteristics of the land surface, including vegetation and urban development",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6465686724288131
+    },
+    {
+      "name": "vegetation formation",
+      "label": "variable",
+      "description": "The type and structure of plant communities in an area, influencing airborne pollen",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.5131713300834702
+    }
+  ],
+  "(17567, 20573)": [
+    {
+      "name": "minimum annual temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded in a year, an important factor influencing environmental and climate conditions",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.5259025039901398
+    },
+    {
+      "name": "airborne pollen",
+      "label": "variable",
+      "description": "Pollen that is carried through the air, often used as an indicator of environmental and climate conditions",
+      "uuid": "b0ad34ee-4b38-4a8d-a483-b3bfea66fa82",
+      "score": 0.5423726555987621
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities or towns, often characterized by high population density and distinct environmental conditions",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7407650937674148
+    },
+    {
+      "name": "savanna",
+      "label": "location",
+      "description": "A type of ecosystem characterized by grasslands with scattered trees, often found in tropical and subtropical regions",
+      "uuid": "d58dab07-f57e-47a9-8dcf-02a3e17f3533",
+      "score": 0.7487818601293028
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7564657706363833
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country in the southern hemisphere, known for its temperate climate and unique environmental conditions",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.653460771852053
+    },
+    {
+      "name": "Southern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies south of the equator, characterized by distinct climate patterns and environmental conditions",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7526270065618224
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies north of the equator, characterized by distinct climate patterns and environmental conditions",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7478274471499174
+    }
+  ],
+  "(20071, 23087)": [
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its diverse flora and fauna",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6547655670660916
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its unique biodiversity and climate",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.6605813772072096
+    },
+    {
+      "name": "urban area",
+      "label": "location",
+      "description": "A region characterized by high population density and urban development, often studied in aerobiology for its unique pollen spectra",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6204009046749613
+    },
+    {
+      "name": "pollen taxa",
+      "label": "variable",
+      "description": "A category of pollen from a specific plant family or genus, used to study airborne pollen and its relationship to climate and flora",
+      "uuid": "14c8721e-4d05-4aaa-90be-8607ae2f84b1",
+      "score": 0.5544696665701736
+    },
+    {
+      "name": "Worldclim",
+      "label": "dataset",
+      "description": "A global climate dataset that provides information on temperature, precipitation, and other climate variables",
+      "uuid": "1840f198-7392-4525-982b-e3ac47f84780",
+      "score": 0.5444910701210155
+    },
+    {
+      "name": "indigenous vegetation",
+      "label": "variable",
+      "description": "The native plant species of a region, often studied in aerobiology for its relationship to climate and airborne pollen",
+      "uuid": "0bfb8ae4-c08a-4d69-82d2-1b1b0d4acef6",
+      "score": 0.6685517030738777
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The way in which land is used by humans, such as for agriculture or urban development, often studied in aerobiology for its impact on local pollen spectra",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5393430996585835
+    },
+    {
+      "name": "pollen season",
+      "label": "variable",
+      "description": "The time of year during which pollen is produced by plants, often studied in aerobiology for its relationship to climate and flora",
+      "uuid": "b0ad34ee-4b38-4a8d-a483-b3bfea66fa82",
+      "score": 0.5387185434835196
+    }
+  ],
+  "(22534, 25835)": [
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the southern hemisphere, known for its unique biodiversity and climate patterns",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6854119262834595
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country in the southern hemisphere, known for its diverse geography and climate",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.6475265885061522
+    },
+    {
+      "name": "pollen spectra",
+      "label": "variable",
+      "description": "The characteristics of pollen distribution in a given area, often used to study plant diversity and climate patterns",
+      "uuid": "59719c53-a2b7-4200-9b3c-dfa5d39607f7",
+      "score": 0.5107139884855972
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The way in which land is utilized by humans, such as agriculture, urbanization, or conservation",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5646767649718027
+    },
+    {
+      "name": "non-native plants",
+      "label": "variable",
+      "description": "Plants that have been introduced to an area outside of their native range, often affecting local ecosystems",
+      "uuid": "b376a9f9-585e-4567-ba1f-55ef45cfa8df",
+      "score": 0.5047220626098358
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Areas with high population density and developed infrastructure, often characterized by distinct climate and environmental conditions",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7356679895610166
+    },
+    {
+      "name": "agricultural landscapes",
+      "label": "location",
+      "description": "Areas used for farming and agricultural purposes, often influencing local climate and ecosystems",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.607646961837359
+    },
+    {
+      "name": "grass pollen",
+      "label": "variable",
+      "description": "A type of pollen produced by grasses, often associated with allergies and respiratory issues",
+      "uuid": "b0ad34ee-4b38-4a8d-a483-b3bfea66fa82",
+      "score": 0.5372852056966494
+    },
+    {
+      "name": "forest cover",
+      "label": "variable",
+      "description": "The amount of land covered by forests, often influencing local climate and ecosystems",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.5564320261700955
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of heat or cold in a given environment, often influencing climate patterns and ecosystems",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6156557178132748
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation in a given area, often influencing climate patterns and ecosystems",
+      "uuid": "09a57dc7-3911-4a65-9f12-b819652b8671",
+      "score": 0.5208204635030856
+    },
+    {
+      "name": "El Ni\u00f1o-Southern Oscillation (ENSO)",
+      "label": "teleconnection",
+      "description": "A complex climate phenomenon characterized by fluctuations in ocean temperatures and atmospheric pressures, influencing global climate patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.8120671936706882
+    },
+    {
+      "name": "North Atlantic Oscillation",
+      "label": "teleconnection",
+      "description": "A climate phenomenon characterized by fluctuations in atmospheric pressure over the North Atlantic, influencing regional climate patterns",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.7893520509789336
+    },
+    {
+      "name": "Indian Ocean Dipole",
+      "label": "teleconnection",
+      "description": "A climate phenomenon characterized by fluctuations in ocean temperatures and atmospheric pressures over the Indian Ocean, influencing regional climate patterns",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.5233420122195139
+    },
+    {
+      "name": "climate change",
+      "label": "phenomenon",
+      "description": "The long-term warming of the planet due to human activities, such as the emission of greenhouse gases, and its associated impacts on global climate patterns and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5787134366746733
+    },
+    {
+      "name": "allergenic pollens",
+      "label": "variable",
+      "description": "Pollen that can trigger allergic reactions in humans, often associated with respiratory issues and other health problems",
+      "uuid": "6984e0a6-cb78-4f60-a31d-3ff8415e3829",
+      "score": 0.5459332299458735
+    },
+    {
+      "name": "allergenic compounds",
+      "label": "variable",
+      "description": "Chemicals that can trigger allergic reactions in humans, often associated with respiratory issues and other health problems",
+      "uuid": "6984e0a6-cb78-4f60-a31d-3ff8415e3829",
+      "score": 0.5441917229618182
+    },
+    {
+      "name": "northern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, often characterized by distinct climate patterns and ecosystems",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7492084920007455
+    }
+  ],
+  "(25253, 28195)": [
+    {
+      "name": "southern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies south of the equator, comprising Africa, Antarctica, Australia, and South America",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7837460029125881
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the southern hemisphere, known for its unique biodiversity and climate",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7269097303716152
+    },
+    {
+      "name": "Scandinavia",
+      "label": "location",
+      "description": "A region in northern Europe, comprising countries such as Norway, Sweden, and Denmark",
+      "uuid": "5367bbef-371d-43be-a4cd-5f4f5ccc4403",
+      "score": 0.7696216403225724
+    },
+    {
+      "name": "north-central Europe",
+      "label": "location",
+      "description": "A region in Europe, comprising countries such as Germany, France, and the United Kingdom",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.6251425100489019
+    },
+    {
+      "name": "southern Europe",
+      "label": "location",
+      "description": "A region in Europe, comprising countries such as Spain, Italy, and Greece",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.7566598300694508
+    }
+  ],
+  "(27654, 30022)": [
+    {
+      "name": "Terrestrial Ecosystem Research Network",
+      "label": "provider",
+      "description": "An Australian research network focused on understanding and managing terrestrial ecosystems",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.5181385192670518
+    },
+    {
+      "name": "urban area",
+      "label": "location",
+      "description": "A densely populated area with a high concentration of human-made structures and activities",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6780500998203502
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, potentially leading to severe weather events and disruptions to ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5720492552440538
+    },
+    {
+      "name": "phenological cycles",
+      "label": "variable",
+      "description": "The study of the timing and duration of recurring biological events, such as plant flowering and pollen production",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.5688505721063818
+    },
+    {
+      "name": "Australasian region",
+      "label": "location",
+      "description": "A geographic region that includes Australia, New Zealand, and surrounding islands",
+      "uuid": "02156a5c-5ea1-43e3-acf1-a89e99027555",
+      "score": 0.5599943766085587
+    }
+  ]
+}

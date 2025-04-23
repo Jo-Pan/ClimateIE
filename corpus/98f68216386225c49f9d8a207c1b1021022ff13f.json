@@ -1,0 +1,2168 @@
+{
+  "(0, 2584)": [
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5144120671860375
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, playing a crucial role in the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6593608512208718
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the atmosphere, influencing various climate processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6433645786772577
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a key role in the climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7208338573673941
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, including continents, islands, and other landforms, influencing climate and biogeochemistry",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6427572565134684
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, crucial for regulating climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6191148260755754
+    },
+    {
+      "name": "ocean and land biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of elements and compounds between the ocean, land, and atmosphere, influencing climate and ecosystem processes",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.6440787243597645
+    },
+    {
+      "name": "paleodata proxies",
+      "label": "instrument",
+      "description": "Indirect measures of past climate conditions, used to reconstruct historical climate variability",
+      "uuid": "c9a5b3eb-7556-41a8-a2b8-c015db80e5b2",
+      "score": 0.6278555953064562
+    },
+    {
+      "name": "ocean, atmosphere and land models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict the Earth's climate system, including ocean, atmosphere, and land components",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6290327758360957
+    },
+    {
+      "name": "net radiative effect",
+      "label": "variable",
+      "description": "The difference between the amount of solar radiation absorbed by the Earth and the amount of radiation emitted back into space, influencing the climate system",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.611590682674404
+    },
+    {
+      "name": "surface vegetation",
+      "label": "variable",
+      "description": "The plants and other vegetation that cover the Earth's surface, influencing climate and biogeochemistry",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.598431075022844
+    },
+    {
+      "name": "agriculture",
+      "label": "activity",
+      "description": "The practice of cultivating the soil, growing crops, and raising livestock, influencing land use and climate",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5191879141033889
+    },
+    {
+      "name": "pasture usage",
+      "label": "activity",
+      "description": "The practice of using land for grazing livestock, influencing land use and climate",
+      "uuid": "46a26fc7-95f0-409e-8bfa-eb623b3a3f8d",
+      "score": 0.5904787741183508
+    }
+  ],
+  "(2198, 4826)": [
+    {
+      "name": "short wave radiation",
+      "label": "variable",
+      "description": "A type of electromagnetic radiation from the sun that can be affected by desert dust",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.7129008403468476
+    },
+    {
+      "name": "long wave radiation",
+      "label": "variable",
+      "description": "A type of electromagnetic radiation emitted by the Earth's surface that can be affected by desert dust",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.6769159002734375
+    },
+    {
+      "name": "iron",
+      "label": "variable",
+      "description": "A micronutrient in the oceans that can be affected by desert dust deposition",
+      "uuid": "cf32d0f2-31f5-450d-9f1d-8aa38fd526dc",
+      "score": 0.5948221087393524
+    },
+    {
+      "name": "open ocean",
+      "label": "location",
+      "description": "The open waters of the world's oceans, where desert dust can deposit and influence biogeochemistry",
+      "uuid": "2cd71964-fa71-4456-bc81-0f6dcbef3042",
+      "score": 0.5092958070201193
+    },
+    {
+      "name": "ocean biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of nutrients and elements in the oceans, which can be influenced by desert dust deposition",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.6330159943423586
+    },
+    {
+      "name": "nitrogen fixation",
+      "label": "variable",
+      "description": "A process by which certain organisms convert atmospheric nitrogen into a form that can be used by other organisms, which can be influenced by iron deposition",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5539111410224163
+    },
+    {
+      "name": "paleodata observations",
+      "label": "project",
+      "description": "A collection of historical data used to reconstruct past climate and environmental conditions",
+      "uuid": "7ee90f7c-bdc6-403a-b447-2100d573cad6",
+      "score": 0.5595139727388688
+    },
+    {
+      "name": "dust emissions/atmospheric transport model",
+      "label": "model",
+      "description": "A computational model used to simulate the emission and transport of desert dust in the atmosphere",
+      "uuid": "ac82f543-df04-4301-b5fa-dae2800197d6",
+      "score": 0.5463040678896013
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa that is a significant source of desert dust",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.5640508211976282
+    },
+    {
+      "name": "Middle East/Central Asia",
+      "label": "location",
+      "description": "A region that is a significant source of desert dust",
+      "uuid": "8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab",
+      "score": 0.5193113863779039
+    },
+    {
+      "name": "East Asia",
+      "label": "location",
+      "description": "A region that is a significant source of desert dust",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.5459052177823762
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A region that is a significant source of desert dust",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6033123110354144
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A region that is a significant source of desert dust",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5434528683962744
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A region that is a significant source of desert dust",
+      "uuid": "e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3",
+      "score": 0.6031197421998744
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A region that is a significant source of desert dust",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.5553341273856832
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "A region with significant ice core records used to reconstruct past climate conditions",
+      "uuid": "f08d8e34-01db-4e89-a840-336432d18ecb",
+      "score": 0.5716592325400714
+    }
+  ],
+  "(4381, 6955)": [
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An autonomous territory within the Kingdom of Denmark, located in the North Atlantic Ocean, known for its ice sheet and climate research significance",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.8147485622874611
+    },
+    {
+      "name": "Argentina",
+      "label": "location",
+      "description": "A country in South America, identified as a primary source of dust deposition in Antarctica",
+      "uuid": "838923bc-cda7-4cf5-a21a-0c777304a593",
+      "score": 0.5458754722507684
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, considered as a potential source of dust deposition in Antarctica",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.5709398872547844
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "A continent in the Southern Hemisphere, known for its unique climate and geological features, and a focus of dust deposition studies",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.6521136670936427
+    },
+    {
+      "name": "East Antarctic Plateau",
+      "label": "location",
+      "description": "A region in Antarctica, known for its extreme climate and geological features",
+      "uuid": "9f36c803-a972-4191-a345-faad9f6cf813",
+      "score": 0.5102584218489438
+    },
+    {
+      "name": "West Antarctic Ice Sheet",
+      "label": "location",
+      "description": "A region in Antarctica, known for its significant ice sheet and climate research significance",
+      "uuid": "c82cfc69-b26f-4d78-97e3-7b977358c555",
+      "score": 0.5329221101709867
+    },
+    {
+      "name": "Siple",
+      "label": "location",
+      "description": "A region in Antarctica, associated with paleorecords and dust deposition studies",
+      "uuid": "d911a6dc-347c-45e6-8836-764fa7aac223",
+      "score": 0.5435850856477107
+    },
+    {
+      "name": "GISP",
+      "label": "location",
+      "description": "A region in Greenland, associated with ice core records and climate research",
+      "uuid": "e357171a-9362-4c4d-ad78-4972d1bdd6e3",
+      "score": 0.6674470594664474
+    },
+    {
+      "name": "optical depth",
+      "label": "variable",
+      "description": "A measure of the amount of light absorbed or scattered by particles in the atmosphere, used to study dust deposition and climate",
+      "uuid": "001f18d3-7e61-430b-9883-1960c6256fe5",
+      "score": 0.7060043494257019
+    },
+    {
+      "name": "deposition",
+      "label": "variable",
+      "description": "The process by which particles, such as dust, are deposited onto a surface, used to study climate and atmospheric science",
+      "uuid": "5b775d6e-de6c-4b11-b986-3c3a32cbf66d",
+      "score": 0.6571302822712273
+    },
+    {
+      "name": "dust",
+      "label": "variable",
+      "description": "A type of atmospheric particle, used to study climate, atmospheric science, and geological processes",
+      "uuid": "042e723a-9d12-4eff-ab5d-334171182d5c",
+      "score": 0.5937386356715371
+    },
+    {
+      "name": "aerosol",
+      "label": "variable",
+      "description": "A type of atmospheric particle, used to study climate, atmospheric science, and air quality",
+      "uuid": "49c6b17a-73b3-4a88-921e-960c5ceca013",
+      "score": 0.7012643081908375
+    }
+  ],
+  "(6535, 9091)": [
+    {
+      "name": "GISP",
+      "label": "location",
+      "description": "A region in Greenland where ice cores have been extracted for climate research",
+      "uuid": "e357171a-9362-4c4d-ad78-4972d1bdd6e3",
+      "score": 0.6603843506417735
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent at the South Pole, used for ice core research",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.6560368928277536
+    },
+    {
+      "name": "Colorado",
+      "label": "location",
+      "description": "A state in the United States, where lake sediment research has been conducted",
+      "uuid": "e10d421b-11fd-4344-b0ad-b4d3eaec2fe5",
+      "score": 0.5922326050132567
+    },
+    {
+      "name": "Cape Verde",
+      "label": "location",
+      "description": "An island nation off the coast of West Africa, used for coral research",
+      "uuid": "9aaf0f2f-6e85-4175-b4c2-a6dc31d8793a",
+      "score": 0.6734455047121306
+    },
+    {
+      "name": "Red Sea",
+      "label": "location",
+      "description": "A body of water between Africa and Asia, used for coral research",
+      "uuid": "d7808080-aea5-48f3-b0da-78141ef6324e",
+      "score": 0.7024406665785405
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa, used as a source region for dust research",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.5687829568502498
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A country in Africa, used as a source region for dust research",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.6048627485371803
+    },
+    {
+      "name": "East Asia",
+      "label": "location",
+      "description": "A region in Asia, used as a source region for dust research",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.5618142757835402
+    },
+    {
+      "name": "biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of chemicals between the Earth's biosphere, lithosphere, hydrosphere, and atmosphere",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.6851086754109762
+    },
+    {
+      "name": "dust",
+      "label": "variable",
+      "description": "A type of atmospheric aerosol that can impact climate and biogeochemistry",
+      "uuid": "042e723a-9d12-4eff-ab5d-334171182d5c",
+      "score": 0.5393939418288475
+    },
+    {
+      "name": "paleorecord",
+      "label": "instrument",
+      "description": "A type of data used to reconstruct past climate conditions",
+      "uuid": "5553fe9d-ab0a-4305-86a6-1f7f697e15e4",
+      "score": 0.5870430247016097
+    },
+    {
+      "name": "ice core",
+      "label": "instrument",
+      "description": "A type of data used to reconstruct past climate conditions",
+      "uuid": "08a4f002-f368-414d-b923-83dd498452d8",
+      "score": 0.6628613970746402
+    },
+    {
+      "name": "lake sediment",
+      "label": "instrument",
+      "description": "A type of data used to reconstruct past climate conditions",
+      "uuid": "b3764016-0b5d-48fb-be3e-4f1082cf13e7",
+      "score": 0.5434740596564677
+    },
+    {
+      "name": "coral",
+      "label": "instrument",
+      "description": "A type of data used to reconstruct past climate conditions",
+      "uuid": "296b7bc4-c031-48ea-bb6d-99f7c971c953",
+      "score": 0.6380304845746289
+    }
+  ],
+  "(8734, 11203)": [
+    {
+      "name": "Colorado",
+      "label": "location",
+      "description": "A state in the United States, known for its diverse geography and climate",
+      "uuid": "e10d421b-11fd-4344-b0ad-b4d3eaec2fe5",
+      "score": 0.6423149896575084
+    },
+    {
+      "name": "Cape Verde",
+      "label": "location",
+      "description": "An island nation off the coast of West Africa, used as a location for collecting coral data",
+      "uuid": "9aaf0f2f-6e85-4175-b4c2-a6dc31d8793a",
+      "score": 0.7106004025406912
+    },
+    {
+      "name": "Red Sea",
+      "label": "location",
+      "description": "A body of water connecting the Indian Ocean to the Mediterranean Sea, known for its unique oceanographic features",
+      "uuid": "d7808080-aea5-48f3-b0da-78141ef6324e",
+      "score": 0.7317147149618242
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa, known for its arid climate and geological features",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6182915271071374
+    },
+    {
+      "name": "Sahel region",
+      "label": "location",
+      "description": "A semi-arid region in Africa, known for its vulnerability to droughts and climate change",
+      "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+      "score": 0.7136367602502149
+    },
+    {
+      "name": "Barbados",
+      "label": "location",
+      "description": "A island nation in the Caribbean, used as a location for collecting in situ concentration data",
+      "uuid": "b770fd0c-6169-42e8-ad30-7fde13c5c6c5",
+      "score": 0.6602991881164101
+    },
+    {
+      "name": "Palmer Drought Severity Index",
+      "label": "variable",
+      "description": "A measure of drought severity, used to analyze climate patterns and trends",
+      "uuid": "a43850a1-7b00-4993-80ff-753c2b5c4015",
+      "score": 0.7917378216652712
+    },
+    {
+      "name": "dust deposition data",
+      "label": "variable",
+      "description": "A measure of the amount of dust deposited in a given area, used to study climate and geological processes",
+      "uuid": "375d3064-ea21-4810-95c1-dc3606abcdc0",
+      "score": 0.6306050636059425
+    },
+    {
+      "name": "gridded observed temperature and precipitation data",
+      "label": "variable",
+      "description": "A type of climate data, used to study temperature and precipitation patterns",
+      "uuid": "3bbbdf15-0ff3-405a-ac36-5276eae1a848",
+      "score": 0.5096743541252837
+    },
+    {
+      "name": "negative precipitation anomalies",
+      "label": "variable",
+      "description": "A measure of unusual precipitation patterns, used to study climate variability and trends",
+      "uuid": "22a4ddef-90f0-4935-a13d-26b14723a956",
+      "score": 0.5765229030557367
+    },
+    {
+      "name": "coral record",
+      "label": "variable",
+      "description": "A type of climate proxy, used to study past climate conditions",
+      "uuid": "afeb9962-d3e8-4260-ab2b-e62e11099e31",
+      "score": 0.6142022763681123
+    },
+    {
+      "name": "Mukhopadhyay and Kreycik",
+      "label": "provider",
+      "description": "A research group or institution, responsible for collecting and publishing climate data",
+      "uuid": "a2e701d9-65e4-495c-b478-95b7d6a70ef8",
+      "score": 0.5402036403034912
+    },
+    {
+      "name": "Luo et al.",
+      "label": "provider",
+      "description": "A research group or institution, responsible for collecting and publishing climate data",
+      "uuid": "36892896-430e-4d97-a69b-18d690fcf975",
+      "score": 0.5064046302375214
+    },
+    {
+      "name": "Mahowald et al.",
+      "label": "provider",
+      "description": "A research group or institution, responsible for collecting and publishing climate data",
+      "uuid": "a2e701d9-65e4-495c-b478-95b7d6a70ef8",
+      "score": 0.5380357648221248
+    }
+  ],
+  "(10750, 13443)": [
+    {
+      "name": "Barbados",
+      "label": "location",
+      "description": "A small island country in the Caribbean, known for its tropical climate and geological features>",
+      "uuid": "b770fd0c-6169-42e8-ad30-7fde13c5c6c5",
+      "score": 0.665068398023913
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa, known for its arid climate, desert landscapes, and significant dust emissions>",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6133413651941486
+    },
+    {
+      "name": "dust",
+      "label": "variable",
+      "description": "A measure of particulate matter in the air, often used to study climate and environmental changes>",
+      "uuid": "042e723a-9d12-4eff-ab5d-334171182d5c",
+      "score": 0.593929676243816
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of rainfall or water falling to the ground, often used to study climate and environmental changes>",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.691353668462386
+    },
+    {
+      "name": "land use change",
+      "label": "variable",
+      "description": "A measure of changes in human activities that affect the land surface, such as deforestation or urbanization>",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5721669335015129
+    },
+    {
+      "name": "West Antarctic Ice Sheet Divide",
+      "label": "location",
+      "description": "A region in Antarctica, known for its ice core drilling sites and climate research>",
+      "uuid": "e2bc8814-8adf-4bf6-b2c0-57683096685d",
+      "score": 0.6406702045055922
+    },
+    {
+      "name": "Red Sea",
+      "label": "location",
+      "description": "A body of water between Africa and Asia, known for its coral reefs and climate research>",
+      "uuid": "d7808080-aea5-48f3-b0da-78141ef6324e",
+      "score": 0.7353374101292471
+    }
+  ],
+  "(13017, 15669)": [
+    {
+      "name": "Red Sea",
+      "label": "location",
+      "description": "A body of water located between Africa and Asia, known for its unique oceanography and climate>",
+      "uuid": "d7808080-aea5-48f3-b0da-78141ef6324e",
+      "score": 0.7888779252853758
+    },
+    {
+      "name": "Porites coral",
+      "label": "instrument",
+      "description": "A type of coral used as a proxy for measuring past environmental conditions, including dust deposition>",
+      "uuid": "afeb9962-d3e8-4260-ab2b-e62e11099e31",
+      "score": 0.5067680513270918
+    },
+    {
+      "name": "Community Climate System Model",
+      "label": "model",
+      "description": "A comprehensive climate model that integrates physical, chemical, and biological processes to simulate Earth's climate system>",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6313138495725045
+    },
+    {
+      "name": "atmosphere/land model",
+      "label": "model",
+      "description": "A component of the Community Climate System Model that simulates interactions between the atmosphere and land surfaces>",
+      "uuid": "77ff6c41-125c-4f56-a40f-3b34608d7647",
+      "score": 0.5500281707356034
+    },
+    {
+      "name": "ocean model",
+      "label": "model",
+      "description": "A component of the Community Climate System Model that simulates oceanic processes and interactions>",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.5842125785549341
+    },
+    {
+      "name": "land model",
+      "label": "model",
+      "description": "A component of the Community Climate System Model that simulates processes occurring on land surfaces>",
+      "uuid": "e8c6761b-0653-495c-82e9-feb685344542",
+      "score": 0.5575650706406814
+    },
+    {
+      "name": "Community Atmosphere Model",
+      "label": "model",
+      "description": "A component of the Community Climate System Model that simulates atmospheric processes>",
+      "uuid": "77ff6c41-125c-4f56-a40f-3b34608d7647",
+      "score": 0.5772627045968906
+    },
+    {
+      "name": "Community Land Model",
+      "label": "model",
+      "description": "A component of the Community Climate System Model that simulates land surface processes>",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.600697682995309
+    },
+    {
+      "name": "CAM/CLM3.1",
+      "label": "model",
+      "description": "A specific version of the Community Atmosphere Model and Community Land Model>",
+      "uuid": "f0efbea7-3d1d-41a4-8311-62224617ee87",
+      "score": 0.6069083266560279
+    },
+    {
+      "name": "dust module",
+      "label": "model",
+      "description": "A component of the Community Atmosphere Model that simulates dust generation, transport, and deposition>",
+      "uuid": "ac82f543-df04-4301-b5fa-dae2800197d6",
+      "score": 0.5016133494698543
+    },
+    {
+      "name": "Northern Red Sea",
+      "label": "location",
+      "description": "A region of the Red Sea located in the northern part of the body of water>",
+      "uuid": "08c6b9f0-9edf-4d1a-99d5-ca60c2ae2eb2",
+      "score": 0.5982186608187955
+    }
+  ],
+  "(15176, 17903)": [
+    {
+      "name": "vegetation types",
+      "label": "variable",
+      "description": "A classification of vegetation based on its characteristics, such as leaf area index and vegetation cover>",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5938888515037422
+    },
+    {
+      "name": "anthropogenic aerosols",
+      "label": "variable",
+      "description": "Aerosols released into the atmosphere through human activities, such as burning fossil fuels>",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5197523494410532
+    },
+    {
+      "name": "slab ocean model",
+      "label": "model",
+      "description": "A type of ocean model that represents the ocean as a single layer, or \"slab\", with a fixed depth>",
+      "uuid": "a79831b8-8dc4-4445-9b77-4344394b7034",
+      "score": 0.622780411613719
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil>",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6815379619712478
+    },
+    {
+      "name": "leaf area index",
+      "label": "variable",
+      "description": "A measure of the amount of leaf cover in a given area>",
+      "uuid": "201b21eb-5781-4d69-ba1f-026111b3b1e5",
+      "score": 0.7679929726162882
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "The amount of snow present on the ground>",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.7065141039677878
+    },
+    {
+      "name": "soil erodibility",
+      "label": "variable",
+      "description": "A measure of the susceptibility of soil to erosion>",
+      "uuid": "36c862a7-7117-4fd2-8e33-0dda03097178",
+      "score": 0.5011489544630269
+    },
+    {
+      "name": "land model",
+      "label": "model",
+      "description": "A type of model that simulates the processes that occur on land, such as vegetation growth and soil moisture>",
+      "uuid": "e8c6761b-0653-495c-82e9-feb685344542",
+      "score": 0.5802335609263909
+    }
+  ],
+  "(17371, 20230)": [
+    {
+      "name": "CAM/CLM3.1",
+      "label": "model",
+      "description": "A climate model that integrates physical, chemical, and biological processes to simulate Earth's climate system, including the Community Atmosphere Model and the Community Land Model>",
+      "uuid": "77ff6c41-125c-4f56-a40f-3b34608d7647",
+      "score": 0.6230745767997307
+    },
+    {
+      "name": "simple slab ocean model",
+      "label": "model",
+      "description": "A simplified ocean model used to represent the ocean's response to warming without the complexity of a fully coupled ocean model>",
+      "uuid": "a79831b8-8dc4-4445-9b77-4344394b7034",
+      "score": 0.5777217139739673
+    },
+    {
+      "name": "dust",
+      "label": "variable",
+      "description": "A type of aerosol that affects the Earth's climate by absorbing and scattering radiation>",
+      "uuid": "042e723a-9d12-4eff-ab5d-334171182d5c",
+      "score": 0.5327654462221209
+    },
+    {
+      "name": "sulfate",
+      "label": "variable",
+      "description": "A type of aerosol that affects the Earth's climate by scattering radiation>",
+      "uuid": "2ab4134d-1ac7-4421-a7a6-659a542aff4c",
+      "score": 0.6967742940419973
+    },
+    {
+      "name": "black carbon",
+      "label": "variable",
+      "description": "A type of aerosol that affects the Earth's climate by absorbing radiation>",
+      "uuid": "9c0288cc-864d-40f7-93af-6df413b404f5",
+      "score": 0.7176929844840868
+    },
+    {
+      "name": "organic carbon aerosols",
+      "label": "variable",
+      "description": "A type of aerosol that affects the Earth's climate by absorbing and scattering radiation>",
+      "uuid": "527f637c-aea5-4519-9293-d57e10a76bff",
+      "score": 0.6044529961447024
+    },
+    {
+      "name": "volcanoes",
+      "label": "natural hazard",
+      "description": "A geological phenomenon that can release large amounts of ash and aerosols into the atmosphere, affecting the climate>",
+      "uuid": "78c47e38-e842-4e31-81b2-44f44c52c692",
+      "score": 0.5594036258147754
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, which is affected by climate change>",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.5941033578347528
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The large body of saltwater that covers most of the Earth's surface, playing a crucial role in the climate system>",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7196584214805535
+    }
+  ],
+  "(19832, 22319)": [
+    {
+      "name": "dust",
+      "label": "variable",
+      "description": "A type of aerosol consisting of small particles of solid matter that are suspended in the air, influencing climate and atmospheric conditions",
+      "uuid": "042e723a-9d12-4eff-ab5d-334171182d5c",
+      "score": 0.5218748567673649
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where weather and climate phenomena occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6137757207297246
+    },
+    {
+      "name": "CCSM",
+      "label": "model",
+      "description": "The Community Climate System Model, a climate model that simulates the Earth's climate system, including atmosphere, ocean, land, and sea ice components",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7213666082964655
+    },
+    {
+      "name": "ocean biogeochemistry module",
+      "label": "model",
+      "description": "A component of the CCSM that simulates the biological, chemical, and physical processes occurring in the ocean",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.5578171000325883
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that live in the ocean and play a crucial role in the marine food chain and carbon cycle",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6868477178569709
+    },
+    {
+      "name": "zooplankton grazers",
+      "label": "variable",
+      "description": "Small animal-like organisms that feed on phytoplankton, influencing the ocean's ecosystem and biogeochemical cycles",
+      "uuid": "0399b52c-e3de-4dcc-9eb6-b1e3acf2cf1b",
+      "score": 0.5765954193077036
+    },
+    {
+      "name": "nutrient and iron cycling",
+      "label": "variable",
+      "description": "The processes by which nutrients and iron are exchanged and transformed within the ocean's ecosystem, affecting phytoplankton growth and ocean productivity",
+      "uuid": "7a33a978-8ef6-4313-b489-c06cfc6d9cec",
+      "score": 0.6224775257555676
+    },
+    {
+      "name": "surface albedo",
+      "label": "variable",
+      "description": "The measure of the amount of sunlight that is reflected by the Earth's surface, influencing the planet's energy balance and climate",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7566910507137674
+    },
+    {
+      "name": "aerosol optical properties",
+      "label": "variable",
+      "description": "The characteristics of aerosols that affect their interaction with light, such as scattering and absorption, which influence climate and atmospheric conditions",
+      "uuid": "61c3b720-abc8-4430-866c-f1da35d2cd0b",
+      "score": 0.6067473076565091
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The change in the balance between the amount of energy absorbed by the Earth and the amount of energy emitted back into space, influencing climate change",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7910597594164323
+    },
+    {
+      "name": "CLM4",
+      "label": "model",
+      "description": "The Community Land Model version 4, a land surface model that simulates the processes occurring on land, including biogeochemistry and ecosystem dynamics",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6298204918926933
+    },
+    {
+      "name": "land biogeochemistry",
+      "label": "variable",
+      "description": "The study of the biological, chemical, and physical processes that occur on land, influencing the carbon cycle and ecosystem dynamics",
+      "uuid": "df5ff39e-b49f-4517-afc0-1842a1a6fdc7",
+      "score": 0.5953208450091135
+    },
+    {
+      "name": "biogeochemistry experiments",
+      "label": "experiment",
+      "description": "Studies designed to investigate the biological, chemical, and physical processes that occur within the Earth's system, often using models and simulations",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.6252636998610186
+    },
+    {
+      "name": "historical simulations",
+      "label": "experiment",
+      "description": "Simulations that use past observed data to recreate historical climate conditions and study climate change",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.6377065144385778
+    },
+    {
+      "name": "dust deposition",
+      "label": "variable",
+      "description": "The process by which dust particles settle on the Earth's surface, influencing soil quality, air quality, and climate conditions",
+      "uuid": "375d3064-ea21-4810-95c1-dc3606abcdc0",
+      "score": 0.5568386622495455
+    },
+    {
+      "name": "dust fluxes",
+      "label": "variable",
+      "description": "The rate at which dust particles are transported through the atmosphere, influencing climate and atmospheric conditions",
+      "uuid": "676327f4-8354-4033-8081-9cab6651ac98",
+      "score": 0.5032631162403969
+    }
+  ],
+  "(21878, 24814)": [
+    {
+      "name": "biogeochemistry model",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system, focusing on the interactions between the biosphere and geosphere",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.5993081773048227
+    },
+    {
+      "name": "plant photosynthesis",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy, influencing the carbon cycle and climate",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6596436896901936
+    },
+    {
+      "name": "aerosol optical depth",
+      "label": "variable",
+      "description": "A measure of the amount of aerosols in the atmosphere, affecting the Earth's energy balance and climate",
+      "uuid": "61c3b720-abc8-4430-866c-f1da35d2cd0b",
+      "score": 0.7144010207309
+    },
+    {
+      "name": "physical climate forcings",
+      "label": "variable",
+      "description": "The external factors that influence the climate system, such as temperature, precipitation, and insolation",
+      "uuid": "dc3f297b-8471-4101-b70e-dc5765762061",
+      "score": 0.5992539702750271
+    },
+    {
+      "name": "optical depth",
+      "label": "variable",
+      "description": "A measure of the amount of light absorbed or scattered by a medium, such as the atmosphere",
+      "uuid": "001f18d3-7e61-430b-9883-1960c6256fe5",
+      "score": 0.6961232323290912
+    },
+    {
+      "name": "aerosols and cloud properties",
+      "label": "process",
+      "description": "The interactions between aerosols and clouds, influencing the Earth's energy balance and climate",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5973472395576352
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy, influencing the carbon cycle and climate",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6974369363529637
+    },
+    {
+      "name": "cloud condensation nuclei",
+      "label": "variable",
+      "description": "The particles in the atmosphere that facilitate the formation of clouds, influencing the Earth's energy balance and climate",
+      "uuid": "ebbf8642-3da1-4401-a779-3e56550a029d",
+      "score": 0.759692422123446
+    },
+    {
+      "name": "land productivity",
+      "label": "variable",
+      "description": "A measure of the ability of land to produce biomass, influencing the carbon cycle and climate",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.6958475368429031
+    },
+    {
+      "name": "aerosol amount",
+      "label": "variable",
+      "description": "The quantity of aerosols in the atmosphere, affecting the Earth's energy balance and climate",
+      "uuid": "59920ad4-85fb-4cee-ba56-f39bc5857a3d",
+      "score": 0.604910137952014
+    },
+    {
+      "name": "biogeochemistry impacts",
+      "label": "process",
+      "description": "The effects of biogeochemical processes on the climate system, such as the cycling of nutrients and carbon",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.591281164241692
+    },
+    {
+      "name": "terrestrial biosphere",
+      "label": "location",
+      "description": "The region of the Earth's surface that supports life, including forests, grasslands, and other ecosystems",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.5839010064558096
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The change in the Earth's energy balance due to external factors, such as aerosols and greenhouse gases",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7939771928064572
+    },
+    {
+      "name": "CAM",
+      "label": "model",
+      "description": "The Community Atmosphere Model, a computational representation of atmospheric processes used to simulate and predict weather and climate",
+      "uuid": "77ff6c41-125c-4f56-a40f-3b34608d7647",
+      "score": 0.5873339229275599
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an organization that assesses and reports on climate change research and policy",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7409715332251084
+    }
+  ],
+  "(24362, 27173)": [
+    {
+      "name": "aerosol optical depth",
+      "label": "variable",
+      "description": "A measure of the amount of light scattered by aerosols in the atmosphere, often used as a proxy for cloud condensation nuclei",
+      "uuid": "61c3b720-abc8-4430-866c-f1da35d2cd0b",
+      "score": 0.7221854802607645
+    },
+    {
+      "name": "cloud condensation nuclei",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that help form clouds by providing a surface for water vapor to condense onto",
+      "uuid": "ebbf8642-3da1-4401-a779-3e56550a029d",
+      "score": 0.7652760595712339
+    },
+    {
+      "name": "biogeochemical models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, and biological processes to represent and predict the Earth's biogeochemical cycles",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.5993994397703759
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "A measure of the energy imbalance in the Earth's climate system, often used to quantify the impact of different factors on climate change",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7992038682200852
+    },
+    {
+      "name": "ice nuclei",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that help form ice crystals, influencing cloud formation and climate",
+      "uuid": "60bb6ddf-29b1-4dad-9c9f-27f040a43bba",
+      "score": 0.7408699304022504
+    },
+    {
+      "name": "biogeochemistry impacts",
+      "label": "variable",
+      "description": "The effects of biogeochemical processes on the Earth's climate and ecosystems",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.6184071747752428
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7401987820677528
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa that includes countries such as Egypt, Libya, and Morocco, known for its arid climate and significant dust emissions",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6490052650418442
+    },
+    {
+      "name": "Sahel",
+      "label": "location",
+      "description": "A semi-arid region in Africa located south of the Sahara Desert, known for its vulnerability to droughts and climate change",
+      "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+      "score": 0.7517918349066954
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere that includes countries such as the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7268430182679309
+    }
+  ],
+  "(26706, 29239)": [
+    {
+      "name": "desert dust",
+      "label": "variable",
+      "description": "A measure of the amount of dust in the air, often used to study climate and environmental changes",
+      "uuid": "7cd1a371-dd66-4603-b033-c3788d416093",
+      "score": 0.5061203294766955
+    },
+    {
+      "name": "glacial/interglacial cycles",
+      "label": "teleconnection",
+      "description": "Periodic changes in the Earth's climate, characterized by the expansion and contraction of ice sheets",
+      "uuid": "8c615709-df55-4b09-a5a9-1fabb133fe1a",
+      "score": 0.5724437458935256
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The surface of the Earth, including land, oceans, and atmosphere",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.7222359664266855
+    },
+    {
+      "name": "carbon dioxide",
+      "label": "variable",
+      "description": "A greenhouse gas that plays a crucial role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6939695382978306
+    },
+    {
+      "name": "climate model",
+      "label": "model",
+      "description": "A computational representation of the Earth's climate system, used to simulate and predict climate changes",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6311103156729595
+    },
+    {
+      "name": "deserts",
+      "label": "location",
+      "description": "Arid regions of the Earth, characterized by low rainfall and limited vegetation",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.6804720023306303
+    },
+    {
+      "name": "agriculture",
+      "label": "platform",
+      "description": "The practice of cultivating the soil, growing crops, and raising livestock, which can impact local climate and ecosystems",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5579362891294115
+    },
+    {
+      "name": "pasture land use",
+      "label": "platform",
+      "description": "The practice of using land for grazing livestock, which can impact local climate and ecosystems",
+      "uuid": "46a26fc7-95f0-409e-8bfa-eb623b3a3f8d",
+      "score": 0.6176987046804294
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, which can protect soil against wind erosion and affect local climate and ecosystems",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5872027003166668
+    },
+    {
+      "name": "wind erosion",
+      "label": "natural hazard",
+      "description": "The process of soil being worn away by wind, which can be affected by climate change and land use",
+      "uuid": "cb21c5cb-cc49-4328-a72d-94ccca1fa888",
+      "score": 0.5898637624720837
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa, which can be affected by climate change and dustiness",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.5763251419556995
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, which can be affected by climate change and dustiness",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.6405996805698548
+    },
+    {
+      "name": "WAIS",
+      "label": "location",
+      "description": "A site in Antarctica, used to study climate and environmental changes",
+      "uuid": "c82cfc69-b26f-4d78-97e3-7b977358c555",
+      "score": 0.5725301563710565
+    },
+    {
+      "name": "Siple",
+      "label": "location",
+      "description": "A site in Antarctica, used to study climate and environmental changes",
+      "uuid": "d911a6dc-347c-45e6-8836-764fa7aac223",
+      "score": 0.5313935113426975
+    },
+    {
+      "name": "Cape Verde",
+      "label": "location",
+      "description": "An island nation off the coast of West Africa, used to study climate and environmental changes",
+      "uuid": "9aaf0f2f-6e85-4175-b4c2-a6dc31d8793a",
+      "score": 0.6771443175203229
+    },
+    {
+      "name": "James Ross Island",
+      "label": "location",
+      "description": "A site in Antarctica, used to study climate and environmental changes",
+      "uuid": "21fb55d8-62f5-4453-b26a-794b6f0e88a5",
+      "score": 0.620453440243793
+    }
+  ],
+  "(28875, 31468)": [
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its diverse climate and geography",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7277842237114324
+    },
+    {
+      "name": "WAIS",
+      "label": "location",
+      "description": "West Antarctic Ice Sheet, a major ice sheet in Antarctica",
+      "uuid": "c82cfc69-b26f-4d78-97e3-7b977358c555",
+      "score": 0.5995265979994909
+    },
+    {
+      "name": "Siple",
+      "label": "location",
+      "description": "A region in Antarctica, possibly referring to the Siple Coast or Siple Station",
+      "uuid": "d911a6dc-347c-45e6-8836-764fa7aac223",
+      "score": 0.5629381694954736
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa, encompassing countries such as Egypt, Libya, and Morocco",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6584604143960627
+    },
+    {
+      "name": "Cape Verde",
+      "label": "location",
+      "description": "An island nation off the coast of West Africa",
+      "uuid": "9aaf0f2f-6e85-4175-b4c2-a6dc31d8793a",
+      "score": 0.7363260009679983
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7158159626843743
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Southern Hemisphere, comprising countries such as Brazil, Argentina, and Chile",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.7312501295861219
+    },
+    {
+      "name": "James Ross Island",
+      "label": "location",
+      "description": "An island in Antarctica, known for its geological and paleontological significance",
+      "uuid": "21fb55d8-62f5-4453-b26a-794b6f0e88a5",
+      "score": 0.6416860904932711
+    },
+    {
+      "name": "Middle East",
+      "label": "location",
+      "description": "A region in Western Asia and North Africa, encompassing countries such as Iran, Iraq, and Egypt",
+      "uuid": "8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab",
+      "score": 0.5905913595272078
+    },
+    {
+      "name": "Central Asia",
+      "label": "location",
+      "description": "A region in Asia, comprising countries such as Kazakhstan, Uzbekistan, and Turkmenistan",
+      "uuid": "95ef2448-80da-4419-8c07-f05f7d625796",
+      "score": 0.5672619638037569
+    },
+    {
+      "name": "Red Sea",
+      "label": "location",
+      "description": "A body of water connecting the Indian Ocean to the Mediterranean Sea, located between Africa and Asia",
+      "uuid": "d7808080-aea5-48f3-b0da-78141ef6324e",
+      "score": 0.7778377566301583
+    },
+    {
+      "name": "Everest",
+      "label": "location",
+      "description": "The highest mountain on Earth, located in the Himalayas on the border between Nepal and Tibet",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.5103201219749955
+    },
+    {
+      "name": "ensemble model",
+      "label": "model",
+      "description": "A type of climate model that combines multiple simulations to produce a single output",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.6073002669613163
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the air, such as dust, smoke, and pollutants, that can affect climate and weather patterns",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6842487366557293
+    },
+    {
+      "name": "aerosol optical depth",
+      "label": "variable",
+      "description": "A measure of the amount of aerosols in the air, which can affect the amount of sunlight that reaches the Earth's surface",
+      "uuid": "61c3b720-abc8-4430-866c-f1da35d2cd0b",
+      "score": 0.7101180662873136
+    },
+    {
+      "name": "incoming solar radiation",
+      "label": "variable",
+      "description": "The amount of sunlight that reaches the Earth's surface, which can be affected by aerosols and other factors",
+      "uuid": "6b3be650-6625-40b5-9b40-9e7c8a9fd336",
+      "score": 0.7764789970211304
+    },
+    {
+      "name": "ECHAM",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating atmospheric circulation and climate patterns",
+      "uuid": "286de7c6-deed-443f-a3e0-b67ad7fba9eb",
+      "score": 0.547458457103336
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "A measure of the energy imbalance in the Earth's climate system, caused by factors such as greenhouse gases and aerosols",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.8039292273756123
+    }
+  ],
+  "(31063, 33462)": [
+    {
+      "name": "aerosol optical depth",
+      "label": "variable",
+      "description": "A measure of the amount of light scattered or absorbed by aerosols in the atmosphere, used to estimate radiative forcing",
+      "uuid": "61c3b720-abc8-4430-866c-f1da35d2cd0b",
+      "score": 0.7207695555910717
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The difference between the amount of energy absorbed by the Earth and the amount of energy emitted back into space, influencing global climate patterns",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7673286229477719
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where climate processes and radiative forcing occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.5759747456832038
+    },
+    {
+      "name": "anthropogenic aerosols",
+      "label": "variable",
+      "description": "Aerosols emitted by human activities, influencing climate through radiative forcing and other mechanisms",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5331940149629962
+    },
+    {
+      "name": "climate model",
+      "label": "model",
+      "description": "A computational representation of the Earth's climate system, used to simulate and predict climate patterns and changes",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6326493652918831
+    },
+    {
+      "name": "atmospheric modeling study",
+      "label": "project",
+      "description": "A research project focused on simulating and understanding atmospheric processes and climate patterns",
+      "uuid": "063177a9-14cd-4750-9aa4-ad5d266bd7ad",
+      "score": 0.5029807721784003
+    },
+    {
+      "name": "Forster et al.",
+      "label": "provider",
+      "description": "A group of researchers who published a study on radiative forcing and climate change",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5058444328803513
+    }
+  ],
+  "(33003, 35611)": [
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the air that can affect the Earth's climate by reflecting or absorbing solar radiation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6981454160395721
+    },
+    {
+      "name": "model",
+      "label": "model",
+      "description": "A computational representation of the Earth's climate system used to simulate and predict climate patterns",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.6464220937395758
+    },
+    {
+      "name": "historical 20th century",
+      "label": "experiment",
+      "description": "A climate simulation or experiment that uses data from the 20th century to study past climate patterns",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5993701092849781
+    },
+    {
+      "name": "desert regions",
+      "label": "location",
+      "description": "Arid areas on Earth characterized by minimal precipitation and sparse vegetation",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.6331778069093104
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies north of the equator, including the Arctic and much of the landmasses",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7575153878124933
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of precipitation",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7544822702412981
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, which can be affected by various climate factors",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.687455287721357
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rain, snow, or other forms of moisture that fall to the Earth's surface",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6750118792464722
+    },
+    {
+      "name": "sea level pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the atmosphere at sea level, which can affect climate patterns",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.750450647661761
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6623960376795508
+    }
+  ],
+  "(35169, 37757)": [
+    {
+      "name": "Sahel",
+      "label": "location",
+      "description": "A semi-arid region in Africa located south of the Sahara Desert, known for its vulnerability to droughts",
+      "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+      "score": 0.7537651359206841
+    },
+    {
+      "name": "CO 2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming and climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6620465185205523
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground, an important factor in climate and weather patterns",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6353759934983175
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa located north of the Sahara Desert, known for its diverse climate and geography",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6588415657245779
+    },
+    {
+      "name": "South Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located south of the equator, known for its role in global ocean circulation and climate patterns",
+      "uuid": "9ce6b6ba-8f9f-4585-9438-05619d768578",
+      "score": 0.7618171025487106
+    },
+    {
+      "name": "South Indian Ocean",
+      "label": "location",
+      "description": "A region of the Indian Ocean located south of the equator, known for its role in global ocean circulation and climate patterns",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.6524199060484346
+    },
+    {
+      "name": "biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of chemicals and nutrients through the environment, including the impact of human activities on these cycles",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.6667093470402319
+    },
+    {
+      "name": "net air-sea CO 2 fluxes",
+      "label": "variable",
+      "description": "The amount of carbon dioxide exchanged between the atmosphere and the ocean, an important factor in global climate patterns",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.5785895808287427
+    },
+    {
+      "name": "ocean biogeochemistry",
+      "label": "model",
+      "description": "A computational representation of the cycling of chemicals and nutrients through the ocean, used to simulate and predict oceanic and atmospheric processes",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.6512860076585856
+    },
+    {
+      "name": "mean sea level pressure estimates",
+      "label": "variable",
+      "description": "Measurements of the average pressure at sea level, used to study and predict weather and climate patterns",
+      "uuid": "ad92e251-3da7-4e3f-a45a-cd7651611eca",
+      "score": 0.665195197369516
+    },
+    {
+      "name": "increased sea level pressure",
+      "label": "variable",
+      "description": "An increase in the average pressure at sea level, potentially impacting weather and climate patterns",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.6426933595559686
+    },
+    {
+      "name": "Krishnamurty et al.",
+      "label": "provider",
+      "description": "A research group or institution that has published studies on climate and weather patterns",
+      "uuid": "96b9acb9-49e7-446d-bf07-3e6c32dad27c",
+      "score": 0.5059621120300093
+    }
+  ],
+  "(37316, 39827)": [
+    {
+      "name": "ocean ecosystem model",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict the ocean's ecosystem",
+      "uuid": "04d24dfe-c9f7-43b6-8bd8-8f2613767257",
+      "score": 0.5167283905573905
+    },
+    {
+      "name": "iron deposition",
+      "label": "variable",
+      "description": "The process by which iron is deposited into the ocean, influencing ocean productivity and carbon uptake",
+      "uuid": "c27f5a03-4afb-4af7-843c-3826cc6bbcd0",
+      "score": 0.5085337301201285
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a crucial role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6832299860854896
+    },
+    {
+      "name": "atmospheric general circulation model",
+      "label": "model",
+      "description": "A type of climate model that simulates the general circulation of the atmosphere and its interactions with the oceans and land surfaces",
+      "uuid": "063177a9-14cd-4750-9aa4-ad5d266bd7ad",
+      "score": 0.6955925514563961
+    },
+    {
+      "name": "aerosol optical depth",
+      "label": "variable",
+      "description": "A measure of the amount of aerosols in the atmosphere, which can affect the Earth's energy balance and climate",
+      "uuid": "61c3b720-abc8-4430-866c-f1da35d2cd0b",
+      "score": 0.7175050703778426
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The change in the balance between the amount of energy absorbed by the Earth and the amount of energy emitted back into space, often used to quantify the impact of human activities on the climate",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7956899498825027
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa that includes countries such as Egypt, Libya, and Morocco, known for its arid climate and significant dust emissions",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6490052650418442
+    },
+    {
+      "name": "Middle East/Central Asia",
+      "label": "location",
+      "description": "A region that includes countries such as Iran, Afghanistan, and Turkey, characterized by its diverse climate and geography",
+      "uuid": "8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab",
+      "score": 0.641426740403808
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent that includes countries such as China, India, and Japan, known for its large population and significant economic activities",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.637629141972403
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its unique biodiversity and climate",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7301870386473006
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent that includes countries such as Brazil, Argentina, and Chile, characterized by its diverse climate and geography",
+      "uuid": "e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3",
+      "score": 0.6983997081817804
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent that includes countries such as the United States, Canada, and Mexico, known for its significant economic activities and climate variability",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7019576808236139
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A country located at the southern tip of Africa, known for its diverse climate and geography",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.7132340217259892
+    },
+    {
+      "name": "land and ocean model simulations",
+      "label": "experiment",
+      "description": "A type of climate simulation that integrates models of the land and ocean systems to predict future climate changes",
+      "uuid": "1800e34a-1968-410f-a927-1676c191ef81",
+      "score": 0.5123328953018503
+    },
+    {
+      "name": "dust",
+      "label": "variable",
+      "description": "A type of aerosol that can affect the Earth's climate by influencing the amount of solar radiation that reaches the surface",
+      "uuid": "042e723a-9d12-4eff-ab5d-334171182d5c",
+      "score": 0.5273559203036181
+    }
+  ],
+  "(39501, 41776)": [
+    {
+      "name": "Radiative Forcing",
+      "label": "variable",
+      "description": "A measure of the energy imbalance in the Earth's climate system, often used to quantify the effects of different climate drivers",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7840297066214745
+    },
+    {
+      "name": "Aerosol Direct",
+      "label": "variable",
+      "description": "The direct effect of aerosols on the Earth's climate, such as scattering and absorbing solar radiation",
+      "uuid": "2e2b3e40-8775-41a7-a541-e482847289cb",
+      "score": 0.5372896029140473
+    },
+    {
+      "name": "Aerosol Indirect",
+      "label": "variable",
+      "description": "The indirect effect of aerosols on the Earth's climate, such as modifying cloud properties and precipitation patterns",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5092841136552918
+    },
+    {
+      "name": "Anthropogenic Forcing",
+      "label": "variable",
+      "description": "The impact of human activities on the Earth's climate, such as greenhouse gas emissions and land use changes",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5645477910633186
+    },
+    {
+      "name": "Global land surface temperature",
+      "label": "variable",
+      "description": "The average temperature of the Earth's land surface, often used as an indicator of climate change",
+      "uuid": "5b457e2e-cdea-4b2f-b4a9-8a235065b141",
+      "score": 0.6426342288445693
+    },
+    {
+      "name": "Northern Tropical Land",
+      "label": "location",
+      "description": "A region of the Earth's surface located near the equator, characterized by high temperatures and high levels of precipitation",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5237763074136376
+    },
+    {
+      "name": "Precipitation Change",
+      "label": "variable",
+      "description": "The change in precipitation patterns over time, often used to study the impacts of climate change",
+      "uuid": "279961c4-dac3-4188-917f-fa11982f957e",
+      "score": 0.6288459568435316
+    },
+    {
+      "name": "Land biosphere",
+      "label": "location",
+      "description": "The region of the Earth's surface where plants and animals live, and where carbon is exchanged between the atmosphere and the land",
+      "uuid": "91c64c46-d040-4daa-b26c-61952fdfaf50",
+      "score": 0.5588798872749735
+    },
+    {
+      "name": "Incoming solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that reaches the Earth's surface, often used to study the Earth's energy balance",
+      "uuid": "6b3be650-6625-40b5-9b40-9e7c8a9fd336",
+      "score": 0.7983891679448762
+    },
+    {
+      "name": "Globally averaged surface temperature",
+      "label": "variable",
+      "description": "The average temperature of the Earth's surface, often used as an indicator of climate change",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5717836239957432
+    },
+    {
+      "name": "Land carbon cycle",
+      "label": "variable",
+      "description": "The process by which carbon is exchanged between the land biosphere and the atmosphere, often used to study the impacts of climate change",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.5325562689974705
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a key role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.691061507375791
+    },
+    {
+      "name": "Atmosphere",
+      "label": "location",
+      "description": "The layer of gases that surrounds the Earth, where climate processes occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.5849112745411713
+    }
+  ],
+  "(41361, 43519)": [
+    {
+      "name": "carbon dioxide",
+      "label": "variable",
+      "description": "A greenhouse gas that plays a crucial role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6939695382978306
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where climate processes and interactions occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.5845396323891372
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers most of the Earth's surface, influencing climate and carbon cycles",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.6801505182896549
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, where various climate-related processes and interactions take place",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.63587627410166
+    },
+    {
+      "name": "fires",
+      "label": "weather event",
+      "description": "Uncontrolled fires that can impact the climate and environment",
+      "uuid": "855dc9f5-ccbf-4972-8828-41e11f2aca7a",
+      "score": 0.6057046178966158
+    },
+    {
+      "name": "surface temperature change",
+      "label": "variable",
+      "description": "A measure of the change in temperature at the Earth's surface, often used to study climate trends",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5995668069490074
+    },
+    {
+      "name": "positive carbon flux",
+      "label": "variable",
+      "description": "The flow of carbon from the atmosphere to the land or ocean, which can impact the climate",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.6404992439840931
+    },
+    {
+      "name": "ocean biogeochemistry models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict the biogeochemical processes in the ocean",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.5731502268883262
+    }
+  ],
+  "(43066, 45374)": [
+    {
+      "name": "land and ocean biogeochemistry models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system, focusing on land and ocean biogeochemistry>",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.5576645428589794
+    },
+    {
+      "name": "desert dust",
+      "label": "variable",
+      "description": "A quantity or characteristic that can be measured or observed, related to the amount or effects of dust in desert regions>",
+      "uuid": "7cd1a371-dd66-4603-b033-c3788d416093",
+      "score": 0.5037039610334326
+    },
+    {
+      "name": "residual carbon flux",
+      "label": "variable",
+      "description": "The remaining or unaccounted-for amount of carbon flux after other factors have been considered or removed>",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.5308764267505576
+    },
+    {
+      "name": "Northern Tropics",
+      "label": "location",
+      "description": "A region on Earth, specifically the area between 0-20 degrees North latitude, known for its unique climate and biogeochemical characteristics>",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.6108309301595443
+    },
+    {
+      "name": "land carbon anomalies",
+      "label": "variable",
+      "description": "Measurements or observations of changes in land carbon storage or flux, potentially related to climate change or biogeochemical processes>",
+      "uuid": "d3de94c5-a990-424c-ad15-33faaf393e7a",
+      "score": 0.5354111503496224
+    },
+    {
+      "name": "dust direct radiative forcing",
+      "label": "variable",
+      "description": "A measure of the impact of dust on the Earth's energy balance, potentially influencing climate or biogeochemical processes>",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5951570407375197
+    },
+    {
+      "name": "precipitation shifts",
+      "label": "variable",
+      "description": "Changes in precipitation patterns or amounts, potentially related to climate change or biogeochemical processes>",
+      "uuid": "279961c4-dac3-4188-917f-fa11982f957e",
+      "score": 0.6202826427794156
+    },
+    {
+      "name": "land biogeochemistry models",
+      "label": "model",
+      "description": "Computational representations of land biogeochemical processes, used to simulate and predict carbon flux and other biogeochemical variables>",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.531869283182575
+    }
+  ],
+  "(45103, 47851)": [
+    {
+      "name": "dust",
+      "label": "variable",
+      "description": "A type of aerosol that affects climate by influencing radiative forcing and precipitation patterns",
+      "uuid": "042e723a-9d12-4eff-ab5d-334171182d5c",
+      "score": 0.514290710110349
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6473658017629415
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The change in the balance between the amount of energy absorbed by the Earth and the amount of energy emitted back into space, often used to quantify the impact of climate drivers",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7869671903926347
+    },
+    {
+      "name": "mineral aerosols",
+      "label": "variable",
+      "description": "Small particles in the atmosphere that can affect climate by scattering or absorbing solar radiation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5854196181679804
+    },
+    {
+      "name": "optical properties",
+      "label": "variable",
+      "description": "The characteristics of aerosols that determine how they interact with light, such as scattering and absorption",
+      "uuid": "a29f30ee-6188-4132-ba78-2a341c6bfc8b",
+      "score": 0.5786957293244435
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an organization that assesses the science related to climate change and provides guidance to policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7371492616592408
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its unique climate and geological features",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6735237990955011
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, home to a diverse range of climates and ecosystems",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6821896948311044
+    },
+    {
+      "name": "Middle East/Central Asia",
+      "label": "location",
+      "description": "A region that spans parts of Asia, Africa, and Europe, characterized by a mix of desert and mountainous climates",
+      "uuid": "8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab",
+      "score": 0.617432612619097
+    }
+  ],
+  "(47371, 49616)": [
+    {
+      "name": "direct radiative forcing",
+      "label": "variable",
+      "description": "The immediate influence of dust on the Earth's energy balance, affecting climate responses",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6084872347084397
+    },
+    {
+      "name": "climate responses",
+      "label": "variable",
+      "description": "The reactions of the climate system to changes in radiative forcing, including temperature, precipitation, and other environmental factors",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.5261915014915494
+    },
+    {
+      "name": "mineral aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere, such as dust, that can influence climate by scattering or absorbing solar radiation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5852867517719338
+    },
+    {
+      "name": "dust variability",
+      "label": "variable",
+      "description": "Changes in the amount or characteristics of dust in the atmosphere over time, which can impact climate",
+      "uuid": "7013bdc9-519d-42b6-827c-4b8013fbb726",
+      "score": 0.5000729462107653
+    },
+    {
+      "name": "anthropogenic aerosols",
+      "label": "variable",
+      "description": "Aerosols released into the atmosphere due to human activities, which can affect climate",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5471317992303933
+    },
+    {
+      "name": "indirect radiative forcing",
+      "label": "variable",
+      "description": "The secondary effects of aerosols on climate, such as changes in cloud properties or atmospheric circulation",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5907173801562244
+    },
+    {
+      "name": "sea level pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the atmosphere at sea level, an important factor in understanding weather and climate patterns",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.7688572034309166
+    },
+    {
+      "name": "ocean uptake of carbon dioxide",
+      "label": "variable",
+      "description": "The process by which the oceans absorb carbon dioxide from the atmosphere, influencing the global carbon cycle",
+      "uuid": "26afa886-4866-4536-be3a-6f9db9aacd97",
+      "score": 0.5593488286995988
+    },
+    {
+      "name": "iron",
+      "label": "variable",
+      "description": "A micronutrient that can limit phytoplankton growth and, in turn, affect the ocean's ability to absorb carbon dioxide",
+      "uuid": "cf32d0f2-31f5-450d-9f1d-8aa38fd526dc",
+      "score": 0.5825087649134489
+    },
+    {
+      "name": "Forster et al.",
+      "label": "provider",
+      "description": "A research group or authors who published a study on radiative forcing and climate responses",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5243149471873079
+    }
+  ],
+  "(49154, 52056)": [
+    {
+      "name": "ocean biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of chemicals and nutrients within the ocean, including the impact of desert dust on ocean chemistry",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.6323388790874059
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles suspended in the air, including desert dust, that can affect climate and air quality",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6921746818732053
+    },
+    {
+      "name": "radiative forcing and climate response",
+      "label": "variable",
+      "description": "The change in the balance of energy in the Earth's atmosphere due to desert dust, and the resulting impact on climate",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6730593573140301
+    },
+    {
+      "name": "ocean and land biogeochemistry models",
+      "label": "model",
+      "description": "Computational representations of the cycling of chemicals and nutrients within the ocean and on land, used to simulate the impact of desert dust on biogeochemistry",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.5713093349750039
+    },
+    {
+      "name": "carbon cycle models",
+      "label": "model",
+      "description": "Computational representations of the movement of carbon between the atmosphere, oceans, and land, used to simulate the impact of desert dust on the carbon cycle",
+      "uuid": "640d703f-9312-4f11-8367-30a8bd8fc508",
+      "score": 0.6106116386349842
+    },
+    {
+      "name": "biogeochemical response",
+      "label": "variable",
+      "description": "The change in the cycling of chemicals and nutrients within the ocean and on land due to desert dust",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.5271370497055315
+    },
+    {
+      "name": "radiative forcing calculations",
+      "label": "variable",
+      "description": "The process of estimating the change in the balance of energy in the Earth's atmosphere due to desert dust",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6335998110427575
+    },
+    {
+      "name": "atmospheric chemistry",
+      "label": "variable",
+      "description": "The study of the chemical composition of the atmosphere, including the impact of desert dust on atmospheric chemistry",
+      "uuid": "b9c56939-c624-467d-b196-e56a5b660334",
+      "score": 0.6730754223027563
+    },
+    {
+      "name": "North African",
+      "label": "location",
+      "description": "A region in Africa that is a significant source of desert dust",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.5259408236687146
+    },
+    {
+      "name": "East Asian",
+      "label": "location",
+      "description": "A region in Asia that is a significant source of desert dust",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.5220078340905477
+    }
+  ],
+  "(51583, 54160)": [
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where various chemical and physical processes occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6324685118534541
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater covering most of the Earth's surface, playing a crucial role in the climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7176742761086774
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, comprising continents, islands, and underwater landmasses",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6295262967591452
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles suspended in the air, affecting climate, air quality, and human health",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7114614838784485
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, influenced by pollutants and aerosols",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6561379336704768
+    },
+    {
+      "name": "health",
+      "label": "variable",
+      "description": "The state of well-being, affected by environmental factors such as air quality and climate",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5962871816363741
+    },
+    {
+      "name": "atmospheric chemistry",
+      "label": "model",
+      "description": "The study of the chemical composition and reactions occurring in the atmosphere",
+      "uuid": "b9c56939-c624-467d-b196-e56a5b660334",
+      "score": 0.6979412358267828
+    },
+    {
+      "name": "indirect radiative forcing",
+      "label": "variable",
+      "description": "The change in the Earth's energy balance due to aerosol-induced modifications of cloud properties",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6378858432453616
+    },
+    {
+      "name": "anthropogenic aerosols",
+      "label": "variable",
+      "description": "Aerosols emitted into the atmosphere as a result of human activities",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5181614571731221
+    },
+    {
+      "name": "climate model",
+      "label": "model",
+      "description": "A computational representation of the Earth's climate system, used to simulate and predict climate variability",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.623959684322975
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a US government agency responsible for space and aeronautics research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.7031416059215473
+    },
+    {
+      "name": "NSF",
+      "label": "provider",
+      "description": "The National Science Foundation, a US government agency supporting scientific research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.7386292994520628
+    },
+    {
+      "name": "global surface temperature",
+      "label": "variable",
+      "description": "The average temperature of the Earth's surface, a key indicator of climate change",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.612096677771588
+    },
+    {
+      "name": "regional changes in temperature and precipitation",
+      "label": "variable",
+      "description": "Changes in temperature and precipitation patterns at the regional scale, influenced by climate variability",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.5359493287093995
+    },
+    {
+      "name": "carbon flux",
+      "label": "variable",
+      "description": "The flow of carbon between the atmosphere, oceans, and land, a critical component of the climate system",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.7464904374928665
+    },
+    {
+      "name": "ocean and land biogeochemistry models",
+      "label": "model",
+      "description": "Computational representations of the cycling of elements and compounds through the ocean and land ecosystems",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.6200308820135745
+    }
+  ],
+  "(53794, 54493)": [
+    {
+      "name": "carbon flux",
+      "label": "variable",
+      "description": "A measure of the flow of carbon between Earth's atmosphere, oceans, and terrestrial ecosystems, essential for studying the carbon cycle",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.7549454371800028
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, an American agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6696143264455205
+    },
+    {
+      "name": "NSF",
+      "label": "provider",
+      "description": "The National Science Foundation, an American government agency that supports fundamental research and education in all the non-medical fields of science and engineering",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.7202977122211957
+    },
+    {
+      "name": "UK Natural Environment Research Council",
+      "label": "provider",
+      "description": "A British research council that supports and funds research in the natural environment, including Earth sciences, ecology, and environmental sciences",
+      "uuid": "9227de50-3cf6-4253-9664-307cc73bec72",
+      "score": 0.5886169943989007
+    },
+    {
+      "name": "National Center for Atmospheric Research",
+      "label": "platform",
+      "description": "A research institution focused on studying the Earth's atmosphere and climate, providing computational resources and support for atmospheric research",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.6979956268264462
+    }
+  ]
+}

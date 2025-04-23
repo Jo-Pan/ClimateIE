@@ -1,0 +1,883 @@
+{
+  "(0, 3096)": [
+    {
+      "name": "WCRP-CMIP3",
+      "label": "project",
+      "description": "The World Climate Research Program-Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.7423885264574054
+    },
+    {
+      "name": "18 coupled general circulation models",
+      "label": "model",
+      "description": "A set of computational models used to simulate and predict climate and weather patterns by integrating atmospheric, oceanic, and terrestrial processes",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6225255614801687
+    },
+    {
+      "name": "SRES-A1B",
+      "label": "experiment",
+      "description": "A climate change scenario developed by the Intergovernmental Panel on Climate Change, representing a future with rapid economic growth and a balanced energy portfolio",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5045205414968844
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "The El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon involving fluctuations in ocean temperatures and atmospheric pressures in the Pacific Ocean",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7877191673049229
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7414456615238761
+    },
+    {
+      "name": "Giorgi",
+      "label": "provider",
+      "description": "A researcher or institution that has contributed to the study of climate change and its impacts",
+      "uuid": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
+      "score": 0.5043688989143983
+    },
+    {
+      "name": "SAMS",
+      "label": "teleconnection",
+      "description": "The South American Monsoon System, a climate phenomenon that influences precipitation patterns in South America during the summer months",
+      "uuid": "88b88e80-fc8a-4724-825f-47eeac7f6ff3",
+      "score": 0.5243276592233481
+    }
+  ],
+  "(2603, 5190)": [
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, comprising diverse climates, geography, and ecosystems",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6812293695127059
+    },
+    {
+      "name": "Amazon basin",
+      "label": "location",
+      "description": "A vast region in South America, covering over 7 million square kilometers, known for its dense rainforests and significant role in the global water cycle",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.5601516682671687
+    },
+    {
+      "name": "OLR anomalies",
+      "label": "variable",
+      "description": "Outgoing longwave radiation anomalies, used to study climate variability and atmospheric circulation patterns",
+      "uuid": "006b1ea6-222d-4740-b220-03886d49cd81",
+      "score": 0.6358437311517438
+    },
+    {
+      "name": "atmospheric water cycle",
+      "label": "variable",
+      "description": "The continuous process by which water is circulated between the Earth's oceans, atmosphere, and land, influencing climate and weather patterns",
+      "uuid": "286d2ae0-9d86-4ef0-a2b4-014843a98532",
+      "score": 0.5592410505707257
+    }
+  ],
+  "(4794, 7693)": [
+    {
+      "name": "South Atlantic Ocean",
+      "label": "location",
+      "description": "A part of the Atlantic Ocean located south of the equator, known for its influence on climate variability in South America",
+      "uuid": "9ce6b6ba-8f9f-4585-9438-05619d768578",
+      "score": 0.7803277677280509
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface layer of the ocean, playing a crucial role in climate regulation and variability",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.772874566916851
+    },
+    {
+      "name": "El Ni\u00f1o Southern Oscillation",
+      "label": "teleconnection",
+      "description": "A complex climate phenomenon characterized by fluctuations in sea surface temperatures in the Pacific Ocean, affecting global climate patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.757838502887501
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, comprising diverse climates and ecosystems influenced by various climate phenomena",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6332534887919734
+    },
+    {
+      "name": "SESA",
+      "label": "location",
+      "description": "A region in South America, likely referring to a specific area of study for climate variability and rainfall patterns",
+      "uuid": "34aa5e3e-ca7b-4314-ab18-f9b153885432",
+      "score": 0.5218648046499271
+    },
+    {
+      "name": "Rossby wave train",
+      "label": "ocean circulation",
+      "description": "A type of atmospheric wave pattern that can influence climate variability and weather patterns over long distances",
+      "uuid": "41764af0-1264-4adb-881d-44991489344c",
+      "score": 0.5489450632844024
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "The El Ni\u00f1o-Southern Oscillation, a periodic climate phenomenon characterized by fluctuations in sea surface temperatures in the Pacific Ocean, affecting global climate patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7994953871659841
+    },
+    {
+      "name": "multi-model ensemble",
+      "label": "project",
+      "description": "A collection of climate models run under the same conditions to generate a range of predictions, used to quantify uncertainty and improve climate projections",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5748598241872414
+    }
+  ],
+  "(7132, 10057)": [
+    {
+      "name": "WCRP/CMIP3",
+      "label": "project",
+      "description": "The World Climate Research Programme Coupled Model Intercomparison Project Phase 3, an international project aimed at comparing and improving climate models",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.7634373467599661
+    },
+    {
+      "name": "multi-model ensemble",
+      "label": "model",
+      "description": "A collection of climate models used to simulate and predict climate variability and change",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.557745543232544
+    },
+    {
+      "name": "CGCMs",
+      "label": "model",
+      "description": "Coupled General Circulation Models, used to simulate the interactions between the atmosphere, oceans, and land surfaces in the climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.661005379583806
+    },
+    {
+      "name": "IPCC-AR4",
+      "label": "project",
+      "description": "The Intergovernmental Panel on Climate Change Fourth Assessment Report, a comprehensive report on climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5758055450460708
+    },
+    {
+      "name": "20C3M",
+      "label": "experiment",
+      "description": "The climate of the twentieth century experiment, a simulation used to describe historical climate conditions",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5064473759907895
+    },
+    {
+      "name": "CPC",
+      "label": "provider",
+      "description": "The Climate Prediction Center, a national center responsible for issuing climate forecasts and warnings",
+      "uuid": "5d899ead-7134-4970-8b15-ac1d0cec867a",
+      "score": 0.6520547746078239
+    },
+    {
+      "name": "CMAP",
+      "label": "project",
+      "description": "The Climate Prediction Center Merged Analysis of Rainfall, a dataset used to describe observed rainfall patterns and variability",
+      "uuid": "93ce93f0-8ffa-4a29-8c60-5b0d036980d7",
+      "score": 0.6293655853993552
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, a measure of the temperature of the ocean's surface",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7077439282957075
+    },
+    {
+      "name": "tropospheric variables",
+      "label": "variable",
+      "description": "Measurements of atmospheric properties in the troposphere, such as temperature, humidity, and wind",
+      "uuid": "f0e47cca-fa6e-44d0-b900-43920a3d0b91",
+      "score": 0.5272019225214094
+    },
+    {
+      "name": "tropical Pacific Ocean",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, known for its significant influence on global climate patterns",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.5909475603389874
+    }
+  ],
+  "(9576, 12428)": [
+    {
+      "name": "multi-model ensemble",
+      "label": "model",
+      "description": "A collection of climate models used to estimate climate change and its uncertainties by combining the results from multiple models",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5629780642322699
+    },
+    {
+      "name": "WCRP-CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.7711243575578943
+    },
+    {
+      "name": "Climate Prediction Center",
+      "label": "provider",
+      "description": "A part of the National Centers for Environmental Prediction, providing climate-related data and predictions",
+      "uuid": "5d899ead-7134-4970-8b15-ac1d0cec867a",
+      "score": 0.651169010133318
+    },
+    {
+      "name": "CMAP",
+      "label": "dataset",
+      "description": "The Climate Prediction Center Merged Analysis of Rainfall, a dataset used to describe global rainfall patterns",
+      "uuid": "93ce93f0-8ffa-4a29-8c60-5b0d036980d7",
+      "score": 0.6315332536959848
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the southern hemisphere, known for its diverse climate and geography",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6919015861897633
+    },
+    {
+      "name": "EOF",
+      "label": "instrument",
+      "description": "Empirical Orthogonal Function, a statistical method used to analyze and describe climate variability",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5493078332741334
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the ground, an important climate variable",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5358071004472214
+    }
+  ],
+  "(11920, 14756)": [
+    {
+      "name": "CMAP",
+      "label": "provider",
+      "description": "A dataset or organization providing climate data, possibly referring to the Climate Prediction Center Merged Analysis of Precipitation",
+      "uuid": "93ce93f0-8ffa-4a29-8c60-5b0d036980d7",
+      "score": 0.6920666853881356
+    },
+    {
+      "name": "GISS-eh",
+      "label": "model",
+      "description": "A climate model developed by the Goddard Institute for Space Studies, with \"eh\" possibly indicating a specific version or configuration",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.6181253338338052
+    },
+    {
+      "name": "GISS-er",
+      "label": "model",
+      "description": "A climate model developed by the Goddard Institute for Space Studies, with \"er\" possibly indicating a specific version or configuration",
+      "uuid": "31c87a86-4e36-4e12-9402-4c6744e7fb05",
+      "score": 0.5641734695517351
+    },
+    {
+      "name": "IPSL",
+      "label": "model",
+      "description": "A climate model developed by the Institut Pierre-Simon Laplace, a French research institution",
+      "uuid": "e8df7edd-a176-45c9-8515-3a520948ef63",
+      "score": 0.7215595981862053
+    },
+    {
+      "name": "MPI",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, a German research institution",
+      "uuid": "46ed68b5-5b90-438b-875e-b0c98e6d14cf",
+      "score": 0.6495327319811167
+    },
+    {
+      "name": "GISS-AOM",
+      "label": "model",
+      "description": "A climate model developed by the Goddard Institute for Space Studies, with \"AOM\" possibly indicating a specific version or configuration",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.6141863603670243
+    }
+  ],
+  "(14323, 16971)": [
+    {
+      "name": "GISS-AOM",
+      "label": "model",
+      "description": "A climate model developed by the Goddard Institute for Space Studies, used for simulating and predicting climate patterns",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.5970650758168535
+    },
+    {
+      "name": "GISS-eh",
+      "label": "model",
+      "description": "A climate model developed by the Goddard Institute for Space Studies, used for simulating and predicting climate patterns",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.6189788296692187
+    },
+    {
+      "name": "GISS-er",
+      "label": "model",
+      "description": "A climate model developed by the Goddard Institute for Space Studies, used for simulating and predicting climate patterns",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.5834373245814629
+    },
+    {
+      "name": "IPSL",
+      "label": "model",
+      "description": "A climate model developed by the Institut Pierre-Simon Laplace, used for simulating and predicting climate patterns",
+      "uuid": "e8df7edd-a176-45c9-8515-3a520948ef63",
+      "score": 0.6953702761796317
+    },
+    {
+      "name": "MPI",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating and predicting climate patterns",
+      "uuid": "46ed68b5-5b90-438b-875e-b0c98e6d14cf",
+      "score": 0.6687185330583952
+    },
+    {
+      "name": "CMAP",
+      "label": "dataset",
+      "description": "A dataset of global precipitation, used for climate research and model validation",
+      "uuid": "93ce93f0-8ffa-4a29-8c60-5b0d036980d7",
+      "score": 0.7240495465376422
+    },
+    {
+      "name": "EOF1",
+      "label": "variable",
+      "description": "The first empirical orthogonal function, a statistical method used to identify patterns in climate data",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5329835945585544
+    },
+    {
+      "name": "IPCC-AR4",
+      "label": "project",
+      "description": "The Intergovernmental Panel on Climate Change Fourth Assessment Report, a comprehensive assessment of climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5811259417345906
+    },
+    {
+      "name": "UKMO-hadGEM1",
+      "label": "model",
+      "description": "A climate model developed by the UK Met Office, used for simulating and predicting climate patterns",
+      "uuid": "071e792f-af6c-46e5-a9f4-732966defdfd",
+      "score": 0.733108804262202
+    },
+    {
+      "name": "CNRM",
+      "label": "model",
+      "description": "A climate model developed by the Centre National de Recherches M\u00e9t\u00e9orologiques, used for simulating and predicting climate patterns",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.7250296334434301
+    }
+  ],
+  "(16546, 19284)": [
+    {
+      "name": "CNRM",
+      "label": "model",
+      "description": "The Centre National de Recherches M\u00e9t\u00e9orologiques model, a climate model used for simulating and predicting weather and climate patterns",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.7145827748007654
+    },
+    {
+      "name": "IPSL",
+      "label": "model",
+      "description": "The Institut Pierre-Simon Laplace model, a climate model used for simulating and predicting weather and climate patterns",
+      "uuid": "e8df7edd-a176-45c9-8515-3a520948ef63",
+      "score": 0.7271121236807736
+    },
+    {
+      "name": "UKMO-hadGEM1",
+      "label": "model",
+      "description": "The UK Met Office Hadley Centre Global Environmental Model version 1, a climate model used for simulating and predicting weather and climate patterns",
+      "uuid": "071e792f-af6c-46e5-a9f4-732966defdfd",
+      "score": 0.7389558590238386
+    },
+    {
+      "name": "CMAP dataset",
+      "label": "project",
+      "description": "The Climate Prediction Center Merged Analysis of Precipitation dataset, a collection of rainfall data used for climate research and analysis",
+      "uuid": "93ce93f0-8ffa-4a29-8c60-5b0d036980d7",
+      "score": 0.6738100494433723
+    },
+    {
+      "name": "GFDL2.0",
+      "label": "model",
+      "description": "The Geophysical Fluid Dynamics Laboratory model version 2.0, a climate model used for simulating and predicting weather and climate patterns",
+      "uuid": "e125a9e3-37bc-4533-b867-300ec575dc40",
+      "score": 0.7240033796698876
+    },
+    {
+      "name": "MPI",
+      "label": "model",
+      "description": "The Max Planck Institute for Meteorology model, a climate model used for simulating and predicting weather and climate patterns",
+      "uuid": "46ed68b5-5b90-438b-875e-b0c98e6d14cf",
+      "score": 0.6609548564936895
+    },
+    {
+      "name": "EOF1",
+      "label": "variable",
+      "description": "The first Empirical Orthogonal Function, a statistical method used to analyze and identify patterns in climate data",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.527495045031406
+    },
+    {
+      "name": "multi-model ensemble mean",
+      "label": "model",
+      "description": "A statistical method used to combine the results of multiple climate models, providing a more robust estimate of climate patterns and trends",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5136363834207017
+    }
+  ],
+  "(18776, 21286)": [
+    {
+      "name": "18-model ensemble",
+      "label": "project",
+      "description": "A set of 18 climate models used for ensemble forecasting and climate projections",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5219681233718027
+    },
+    {
+      "name": "9-model ensemble",
+      "label": "project",
+      "description": "A subset of 9 climate models selected based on their performance and behavior in simulating specific climate patterns",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5038581499238036
+    },
+    {
+      "name": "multi-model ensemble",
+      "label": "project",
+      "description": "A collection of multiple climate models used to generate ensemble forecasts and climate projections",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.572415029014063
+    },
+    {
+      "name": "UKMO HadCM3",
+      "label": "model",
+      "description": "The Hadley Centre Coupled Model version 3, a climate model developed by the UK Met Office Hadley Centre",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7646650401550129
+    },
+    {
+      "name": "MPI model",
+      "label": "model",
+      "description": "The Max Planck Institute Earth System Model, a climate model used for simulating and predicting climate change",
+      "uuid": "46ed68b5-5b90-438b-875e-b0c98e6d14cf",
+      "score": 0.6760434449540372
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492816239530663
+    }
+  ],
+  "(20891, 23836)": [
+    {
+      "name": "EOF1",
+      "label": "variable",
+      "description": "The first empirical orthogonal function, a statistical method used to identify patterns in climate data",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5329835945585544
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5467818148690797
+    }
+  ],
+  "(23332, 26344)": [
+    {
+      "name": "9-model ensemble",
+      "label": "experiment",
+      "description": "A set of 9 climate models used to simulate and predict climate patterns, including rainfall and temperature changes",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5196662139610624
+    },
+    {
+      "name": "EOF1",
+      "label": "variable",
+      "description": "The first empirical orthogonal function, a statistical method used to identify patterns in climate data, such as rainfall and temperature anomalies",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5379541552937845
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea surface temperature, an important factor influencing climate patterns and rainfall variability",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.630446587383398
+    },
+    {
+      "name": "equatorial central Pacific",
+      "label": "location",
+      "description": "A region in the Pacific Ocean, near the equator, known for its significant influence on global climate patterns and El Ni\u00f1o events",
+      "uuid": "54340be8-8bd7-40be-a9d0-2e212bddd5d9",
+      "score": 0.589044640475201
+    }
+  ],
+  "(25838, 28766)": [
+    {
+      "name": "EOF1",
+      "label": "experiment",
+      "description": "The first Empirical Orthogonal Function, a statistical method used to identify patterns in climate data",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5248956309083344
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, a measure of the temperature of the ocean's surface",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7077439282957075
+    },
+    {
+      "name": "equatorial central Pacific",
+      "label": "location",
+      "description": "A region in the Pacific Ocean near the equator, known for its influence on global climate patterns",
+      "uuid": "54340be8-8bd7-40be-a9d0-2e212bddd5d9",
+      "score": 0.5926776987838681
+    },
+    {
+      "name": "SESA",
+      "label": "location",
+      "description": "A region in the southeastern South America, known for its vulnerability to climate change",
+      "uuid": "9ea81338-dc64-4803-b0e2-db0e2aaa70cf",
+      "score": 0.5049444659105776
+    },
+    {
+      "name": "9-model ensemble",
+      "label": "model",
+      "description": "A set of climate models used to simulate and predict climate patterns",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.532740074192965
+    }
+  ],
+  "(28288, 31453)": [
+    {
+      "name": "EOF1",
+      "label": "variable",
+      "description": "The first empirical orthogonal function of a dataset, representing the dominant mode of variability in the data",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5109555913045841
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, the temperature of the ocean's surface, an important factor in climate and weather studies",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6918544955806424
+    },
+    {
+      "name": "equatorial central Pacific",
+      "label": "location",
+      "description": "A region in the Pacific Ocean near the equator, known for its significant influence on global climate patterns",
+      "uuid": "54340be8-8bd7-40be-a9d0-2e212bddd5d9",
+      "score": 0.5940014842223101
+    },
+    {
+      "name": "9-model ensemble",
+      "label": "project",
+      "description": "A set of climate simulations run by multiple models to study and predict climate variability and change",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5313793154820329
+    },
+    {
+      "name": "PCMDI",
+      "label": "provider",
+      "description": "The Program for Climate Model Diagnosis and Intercomparison, a research program that develops and applies metrics for climate model evaluation",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.8206322273782886
+    },
+    {
+      "name": "MIUB",
+      "label": "provider",
+      "description": "A research institution or organization, possibly involved in climate modeling or research",
+      "uuid": "b4b4077d-6649-400d-a3de-35d11304bb3f",
+      "score": 0.5384586395040976
+    },
+    {
+      "name": "UKMO",
+      "label": "provider",
+      "description": "The United Kingdom Meteorological Office, a national weather service that provides weather forecasts and climate research",
+      "uuid": "a2e701d9-65e4-495c-b478-95b7d6a70ef8",
+      "score": 0.528352903526515
+    },
+    {
+      "name": "hadCM3",
+      "label": "model",
+      "description": "A climate model developed by the UK Met Office, used for simulating and predicting climate variability and change",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7680667068094632
+    },
+    {
+      "name": "atmospheric circulation",
+      "label": "variable",
+      "description": "The movement of air in the atmosphere, an important factor in shaping weather and climate patterns",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.5097932915280599
+    },
+    {
+      "name": "500-hPa geopotential height",
+      "label": "variable",
+      "description": "A measure of the height of a pressure surface in the atmosphere, used to study atmospheric circulation patterns",
+      "uuid": "d667527b-128c-459d-944d-197ec7f01394",
+      "score": 0.6843030019346668
+    }
+  ],
+  "(30896, 33998)": [
+    {
+      "name": "teleconnection",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across vast distances",
+      "uuid": "b887d3e5-4280-43d2-a34e-0f63ac086b6a",
+      "score": 0.6803912277515333
+    },
+    {
+      "name": "EOF1",
+      "label": "experiment",
+      "description": "The first empirical orthogonal function, a statistical technique used to identify patterns in climate data",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5345713689235454
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea surface temperature, an important factor influencing global climate patterns and weather phenomena",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.6626958042210117
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean near the equator, known for its significant impact on global climate variability",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.5605682731903263
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon involving fluctuations in ocean temperatures and atmospheric pressure in the Pacific",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7815319200520358
+    },
+    {
+      "name": "Rossby wave train",
+      "label": "ocean circulation",
+      "description": "A pattern of atmospheric waves that propagate through the atmosphere, influencing weather and climate patterns",
+      "uuid": "41764af0-1264-4adb-881d-44991489344c",
+      "score": 0.561080523246148
+    },
+    {
+      "name": "moisture transport",
+      "label": "variable",
+      "description": "The movement of water vapor through the atmosphere, an important factor in shaping climate and weather patterns",
+      "uuid": "a997c21b-ca61-4e78-8828-aa3e144976c3",
+      "score": 0.6295874621892029
+    },
+    {
+      "name": "rainfall anomalies",
+      "label": "variable",
+      "description": "Deviation from the average rainfall pattern, often used to study climate variability and trends",
+      "uuid": "22a4ddef-90f0-4935-a13d-26b14723a956",
+      "score": 0.6089622239468487
+    },
+    {
+      "name": "South Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean south of the equator, known for its influence on global climate patterns and weather phenomena",
+      "uuid": "fa0ec8a7-ebed-4f2d-834b-1fa6a1c2e0ed",
+      "score": 0.7120153291628837
+    }
+  ],
+  "(33448, 36556)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon influencing global weather patterns, particularly in the Pacific and beyond",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7940658657116552
+    },
+    {
+      "name": "WCRP/CMIP3",
+      "label": "project",
+      "description": "The World Climate Research Programme's Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.7533236524612804
+    },
+    {
+      "name": "SRES-A1B",
+      "label": "experiment",
+      "description": "A climate change scenario from the Special Report on Emissions Scenarios, representing a future with rapid economic growth, low population growth, and a balance across all energy sources",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5119452126082515
+    },
+    {
+      "name": "CGCMs",
+      "label": "model",
+      "description": "Coupled General Circulation Models, used to simulate the interactions between the atmosphere, oceans, land, and sea ice in the climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6631312839373016
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7414456615238761
+    }
+  ],
+  "(36083, 38988)": [
+    {
+      "name": "multi-model ensemble",
+      "label": "model",
+      "description": "A set of climate models used together to simulate and predict climate variability and change",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5589436966152793
+    },
+    {
+      "name": "WCRP/CMIP3",
+      "label": "project",
+      "description": "The World Climate Research Programme's Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.7533236524612804
+    },
+    {
+      "name": "tropical Pacific",
+      "label": "location",
+      "description": "A region in the Pacific Ocean near the equator, known for its significant influence on global climate patterns",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.5775528520966317
+    },
+    {
+      "name": "Rossby wave pattern",
+      "label": "teleconnection",
+      "description": "A large-scale wave-like pattern in the atmosphere that connects weather and climate phenomena across vast distances",
+      "uuid": "41764af0-1264-4adb-881d-44991489344c",
+      "score": 0.6089911619181987
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon involving fluctuations in ocean temperatures and atmospheric pressure in the Pacific",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7815319200520358
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, a measure of the temperature of the ocean's surface, influencing climate and weather patterns",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6950075251908608
+    },
+    {
+      "name": "GFDL2.1",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating and predicting climate variability and change",
+      "uuid": "87f323af-19b8-422b-9e21-f33287b37d3a",
+      "score": 0.7681198298039715
+    },
+    {
+      "name": "MIROC hires",
+      "label": "model",
+      "description": "A high-resolution version of the Model for Interdisciplinary Research on Climate, used for simulating and predicting climate variability and change",
+      "uuid": "1ecb106d-cd95-4680-b31d-7894e820f594",
+      "score": 0.6532190874363953
+    },
+    {
+      "name": "UKMO hadCM3",
+      "label": "model",
+      "description": "A climate model developed by the UK Met Office, used for simulating and predicting climate variability and change",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7622665770973623
+    }
+  ],
+  "(38648, 41030)": [
+    {
+      "name": "GFDL2.1",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating and predicting climate variability",
+      "uuid": "87f323af-19b8-422b-9e21-f33287b37d3a",
+      "score": 0.764961990672281
+    },
+    {
+      "name": "MIROC hires",
+      "label": "model",
+      "description": "A high-resolution version of the Model for Interdisciplinary Research on Climate, used for simulating and predicting climate variability",
+      "uuid": "1ecb106d-cd95-4680-b31d-7894e820f594",
+      "score": 0.6512302095808384
+    },
+    {
+      "name": "UKMO hadCM3",
+      "label": "model",
+      "description": "A climate model developed by the UK Met Office Hadley Centre, used for simulating and predicting climate variability",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7598804601585971
+    },
+    {
+      "name": "van Oldenborgh et al. 2005",
+      "label": "provider",
+      "description": "A research group that published a study on climate models and their performance in simulating ENSO variability",
+      "uuid": "505dbd8b-c6e8-4006-b63c-48e84c8fbac1",
+      "score": 0.5055115326649426
+    },
+    {
+      "name": "multi-model ensemble",
+      "label": "project",
+      "description": "A collection of climate models used to analyze and predict climate variability",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5551137413219119
+    },
+    {
+      "name": "7-model ensemble mean",
+      "label": "project",
+      "description": "A specific subset of climate models used to analyze and predict climate variability",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5113121587629252
+    },
+    {
+      "name": "CMIP3 climate change projections",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.7461631118594095
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7731813468892454
+    },
+    {
+      "name": "tropical Pacific ocean",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, known for its significant role in global climate variability",
+      "uuid": "4f5b8f3d-19fe-4600-be01-b944f2eaf294",
+      "score": 0.5875288545247448
+    },
+    {
+      "name": "summer precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall during the summer season, an important factor in climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5046526575973093
+    },
+    {
+      "name": "moisture fluxes",
+      "label": "variable",
+      "description": "A measure of the movement of water vapor in the atmosphere, an important factor in climate and weather studies",
+      "uuid": "925f563d-908a-4671-b750-23d0f3e42310",
+      "score": 0.7050727226910042
+    }
+  ]
+}

@@ -1,0 +1,877 @@
+{
+  "(0, 3235)": [
+    {
+      "name": "contiguous United States",
+      "label": "location",
+      "description": "The part of the United States that is not separated from the main landmass by a sea or another country, consisting of 48 states and the District of Columbia",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7045812589316832
+    },
+    {
+      "name": "drought indices",
+      "label": "variable",
+      "description": "Quantitative measures used to assess and monitor drought conditions, often used in hydrologic and climate studies",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.7787097413204103
+    },
+    {
+      "name": "numerical climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6167952887266018
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The amount of evapotranspiration that would occur under optimal conditions, often used as an input or output in hydrologic and climate models",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.740613678143087
+    },
+    {
+      "name": "hydrologic models",
+      "label": "model",
+      "description": "Computational representations of hydrologic processes used to simulate and predict water fluxes and storage in watersheds and river basins",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5866851635465316
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through the combination of evaporation from soil and other surfaces and transpiration from plants",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7489085537139842
+    },
+    {
+      "name": "climate-change experiments",
+      "label": "experiment",
+      "description": "Structured simulations designed to test specific hypotheses about climate change, investigate climate processes, or assess the impact of various forcings on the climate system",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.554003646681532
+    },
+    {
+      "name": "water-resource planning",
+      "label": "project",
+      "description": "The process of managing and allocating water resources to meet the needs of various users, such as agriculture, industry, and municipalities",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5475369262492799
+    },
+    {
+      "name": "river basins",
+      "label": "location",
+      "description": "Areas of land that drain water into a particular river or lake, often used as a unit of study in hydrologic and climate research",
+      "uuid": "272700c5-d762-452b-8e9f-130e3a51efb5",
+      "score": 0.6446564656877368
+    },
+    {
+      "name": "surface energy budgets",
+      "label": "variable",
+      "description": "The balance of energy inputs and outputs at the Earth's surface, influencing climate and weather patterns",
+      "uuid": "7cacbfdf-71a3-4fac-b690-9aa54e4060dd",
+      "score": 0.5421269160970597
+    }
+  ],
+  "(2680, 5863)": [
+    {
+      "name": "hydrologic models",
+      "label": "model",
+      "description": "Computational representations used to simulate and predict the movement, distribution, and quality of water in a system",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5711422556812016
+    },
+    {
+      "name": "hydrologic modeling",
+      "label": "experiment",
+      "description": "A structured simulation designed to test specific hypotheses about hydrologic processes or investigate the impact of climate change on water resources",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5335036586204945
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6573741894372095
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451761247480406
+    },
+    {
+      "name": "mountainous topography",
+      "label": "location",
+      "description": "A type of landscape characterized by rugged terrain, high elevation, and steep slopes",
+      "uuid": "8b7f66ea-d481-4641-9dbf-da90ca3ad9c9",
+      "score": 0.5019923257780532
+    },
+    {
+      "name": "coastal environment",
+      "label": "location",
+      "description": "A region where the land meets the sea, characterized by unique geological, biological, and climatic features",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5947288299055864
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, typically measured in degrees Celsius or Fahrenheit",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6640761093566346
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, typically measured in millimeters or inches",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7003550057083581
+    },
+    {
+      "name": "potential evapotranspiration rate",
+      "label": "variable",
+      "description": "The rate at which water is lost from the surface of the Earth through evaporation and plant transpiration",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7243274136724775
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "A conceptual variable representing the amount of water that could be lost from the surface of the Earth through evaporation and plant transpiration if there were sufficient water available",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7580125893638827
+    },
+    {
+      "name": "surface energy balance",
+      "label": "variable",
+      "description": "The balance between the amount of energy gained and lost by the Earth's surface, typically measured in watts per square meter",
+      "uuid": "8b99fd5b-4be4-4d4b-bdf2-ef92df294738",
+      "score": 0.5652419188350123
+    },
+    {
+      "name": "shortwave and longwave radiation fluxes",
+      "label": "variable",
+      "description": "The amount of energy transferred through electromagnetic radiation, typically measured in watts per square meter",
+      "uuid": "b514c2a8-ff5e-4f5a-95ab-5d06c61288c4",
+      "score": 0.6614928525093242
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "A measure of the speed at which air is moving, typically measured in meters per second or miles per hour",
+      "uuid": "a7ce84a3-8329-4eb7-b5de-72d2dea8c6bf",
+      "score": 0.6793376184337605
+    },
+    {
+      "name": "atmospheric vapor pressure",
+      "label": "variable",
+      "description": "The pressure exerted by water vapor in the air, typically measured in pascals or millibars",
+      "uuid": "433ea253-243d-42e4-bc61-f85eb7a73879",
+      "score": 0.7039572005151953
+    },
+    {
+      "name": "Penman-Monteith equation",
+      "label": "model",
+      "description": "A mathematical equation used to estimate potential evapotranspiration from climate variables such as air temperature, humidity, and wind speed",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.7110353163039905
+    }
+  ],
+  "(5316, 8232)": [
+    {
+      "name": "U.S. Geological Survey",
+      "label": "provider",
+      "description": "A scientific agency of the United States government that focuses on the Earth's natural systems, including climate, water, and natural hazards",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6197303983850895
+    },
+    {
+      "name": "river basins",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river or lake, and are often used as units of study in hydrology",
+      "uuid": "272700c5-d762-452b-8e9f-130e3a51efb5",
+      "score": 0.6377544126017838
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, comprising 50 states and a federal district, with diverse climates and geography",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7207029066397281
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451761247480406
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that could be evaporated from the surface of the Earth if there were sufficient water available",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7440107086148591
+    },
+    {
+      "name": "atmospheric vapor pressure",
+      "label": "variable",
+      "description": "The pressure exerted by water vapor in the atmosphere, which affects the rate of evaporation and transpiration",
+      "uuid": "433ea253-243d-42e4-bc61-f85eb7a73879",
+      "score": 0.6663191102805587
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, which influences many hydrologic and atmospheric processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6182668728615474
+    }
+  ],
+  "(7891, 10288)": [
+    {
+      "name": "actual evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that is actually lost through evaporation and plant transpiration from a given area of land",
+      "uuid": "f28060e0-1c51-41df-8451-6c98b3e77e8a",
+      "score": 0.5759405065919181
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The maximum amount of water that can be lost through evaporation and plant transpiration from a given area of land, assuming unlimited water availability",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7686121639312483
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Factors such as temperature, precipitation, and humidity that influence the climate of a region",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6715351285681341
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6573741894372095
+    },
+    {
+      "name": "river basin",
+      "label": "location",
+      "description": "A region of land that drains water into a particular river or sea",
+      "uuid": "272700c5-d762-452b-8e9f-130e3a51efb5",
+      "score": 0.6074827627266474
+    },
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a scientific agency that provides information on the Earth's natural resources and environment",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6722953568523204
+    }
+  ],
+  "(10048, 11941)": [
+    {
+      "name": "climate model",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6074361424171167
+    },
+    {
+      "name": "hydrologic model",
+      "label": "model",
+      "description": "A computational representation of the hydrological cycle, used to simulate and predict water flow, runoff, and other hydrological processes",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5752302893136734
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7427916005314608
+    },
+    {
+      "name": "input variables",
+      "label": "variable",
+      "description": "Quantities or characteristics that are used as inputs to a model, such as precipitation, temperature, or soil moisture",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.543737495939832
+    }
+  ],
+  "(11755, 14157)": [
+    {
+      "name": "saturation vapor-pressure curve",
+      "label": "variable",
+      "description": "A measure of the relationship between air temperature and the maximum amount of water vapor the air can hold",
+      "uuid": "1a2332d9-fd69-4002-89a5-203d748a4e21",
+      "score": 0.6520594405911413
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that would evaporate from a surface if it were completely covered with vegetation and had an unlimited supply of water",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7206774269133505
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6582599727206884
+    },
+    {
+      "name": "surface net radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that is absorbed by the Earth's surface, minus the amount of energy that is lost to space",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.6494172278539405
+    },
+    {
+      "name": "climate-model e p",
+      "label": "variable",
+      "description": "A measure of potential evapotranspiration estimated from climate model outputs",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.554977420166863
+    },
+    {
+      "name": "atmospheric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere on the Earth's surface",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.7472128107002624
+    },
+    {
+      "name": "hydrologic model",
+      "label": "model",
+      "description": "A computational representation of the movement of water within the environment",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5401828928284781
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6573741894372095
+    }
+  ],
+  "(13659, 16559)": [
+    {
+      "name": "CMIP",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.8020340326301447
+    },
+    {
+      "name": "contiguous United States",
+      "label": "location",
+      "description": "A region of the United States that includes all states except Alaska and Hawaii, characterized by diverse climate and geography",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.757234166848112
+    },
+    {
+      "name": "climate-model e p",
+      "label": "variable",
+      "description": "The evapotranspiration estimated from climate models, an important component of the water balance in hydrologic studies",
+      "uuid": "af1a60a3-afdf-4d0e-b438-dcbb7b469d3f",
+      "score": 0.5047968623532537
+    },
+    {
+      "name": "Coupled Model Intercomparison Project",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.6686742867752513
+    },
+    {
+      "name": "surface atmospheric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the atmosphere at the Earth's surface, an important factor in climate modeling and weather forecasting",
+      "uuid": "b54de5cd-4475-4c7b-acbc-4eb529b9396e",
+      "score": 0.6991947877358226
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The maximum amount of water that can be evaporated from the surface, an important component of the water balance in hydrologic studies",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7443448019655193
+    },
+    {
+      "name": "SRES A1B scenario",
+      "label": "experiment",
+      "description": "A specific climate-forcing scenario from the Special Report on Emissions Scenarios, used to simulate future climate conditions",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5109184272857016
+    },
+    {
+      "name": "near-surface air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, an important factor in climate modeling and weather forecasting",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.638098398631483
+    },
+    {
+      "name": "CMIP database",
+      "label": "provider",
+      "description": "A repository of climate model outputs and data, managed by the Coupled Model Intercomparison Project",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.7156111564215437
+    },
+    {
+      "name": "Lawrence Livermore National Laboratory",
+      "label": "provider",
+      "description": "A research institution that archives and manages climate model data, including the CMIP database",
+      "uuid": "3a70c424-2067-4b1a-83e6-9948477dd4b4",
+      "score": 0.6769139260023802
+    }
+  ],
+  "(16074, 18571)": [
+    {
+      "name": "CMIP",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.8020340326301447
+    },
+    {
+      "name": "hydrologic modeling",
+      "label": "experiment",
+      "description": "A type of scientific study that involves the use of models to simulate and predict the behavior of water systems",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5307650941816229
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6657507897618521
+    },
+    {
+      "name": "net radiation",
+      "label": "variable",
+      "description": "The difference between the amount of solar radiation received by the Earth's surface and the amount of radiation emitted back into space",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.7409126165344885
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, often used in climate and weather studies",
+      "uuid": "a32cbebb-0f17-41a6-9bf7-f3b111e4c56e",
+      "score": 0.6831255042622131
+    },
+    {
+      "name": "surface atmospheric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere at the Earth's surface, influencing weather patterns and climate",
+      "uuid": "b54de5cd-4475-4c7b-acbc-4eb529b9396e",
+      "score": 0.6868099631736649
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7470704205046298
+    },
+    {
+      "name": "CSIRO",
+      "label": "provider",
+      "description": "The Commonwealth Scientific and Industrial Research Organisation, an Australian government agency that conducts scientific research",
+      "uuid": "aa1789f5-f433-4ed5-b0b6-20c220fcf6c0",
+      "score": 0.6787951609857344
+    },
+    {
+      "name": "INM",
+      "label": "provider",
+      "description": "The Institute of Numerical Mathematics, a Russian research institution focused on mathematical modeling and computational methods",
+      "uuid": "750c86a6-b2ed-4012-acf3-2d7c8da7d266",
+      "score": 0.7683779277463746
+    },
+    {
+      "name": "MIROC",
+      "label": "provider",
+      "description": "The Model for Interdisciplinary Research on Climate, a Japanese research institution that develops and applies climate models",
+      "uuid": "4315c66b-86e9-4127-a456-e549687012cf",
+      "score": 0.7603229660600168
+    }
+  ],
+  "(18182, 20901)": [
+    {
+      "name": "hydrologic models",
+      "label": "model",
+      "description": "Computational representations of hydrologic processes used to simulate and predict runoff, streamflow, and other water-related phenomena",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5786932791712845
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6573741894372095
+    },
+    {
+      "name": "CSIRO model",
+      "label": "model",
+      "description": "A climate model developed by the Commonwealth Scientific and Industrial Research Organisation, used for climate simulations and predictions",
+      "uuid": "f77d90ad-5708-4d78-b9a7-a0e5531e73df",
+      "score": 0.6859672726966553
+    },
+    {
+      "name": "North Dakota",
+      "label": "location",
+      "description": "A state in the United States, used as a location for the Starkweather Coulee case study",
+      "uuid": "25ff6e15-1d40-4df6-b008-eb11c3a199d9",
+      "score": 0.6321023497341817
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7427916005314608
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the statistical distribution of weather patterns over significant periods, often used to describe global warming and its impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5703762497052834
+    }
+  ],
+  "(20395, 23222)": [
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6657507897618521
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "A measure of the amount of water that can be evaporated from the land surface and atmosphere, an important factor in hydrological modeling",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7437750303318279
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an essential component of the hydrological cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6637804352938687
+    },
+    {
+      "name": "hydrologic adjustment",
+      "label": "variable",
+      "description": "Changes in the hydrological system, such as runoff and evapotranspiration, in response to climate change or other factors",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.504176446754042
+    },
+    {
+      "name": "climate forcing",
+      "label": "variable",
+      "description": "Factors that influence the climate system, such as greenhouse gases, volcanic eruptions, and changes in solar radiation",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6523503009552932
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7427916005314608
+    }
+  ],
+  "(22774, 25511)": [
+    {
+      "name": "climate forcing",
+      "label": "variable",
+      "description": "The change in the energy balance of the Earth's climate system, often driven by human activities or natural processes",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.68651748089667
+    },
+    {
+      "name": "climate model",
+      "label": "model",
+      "description": "A computational representation of the Earth's climate system, used to simulate and predict climate patterns and changes",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6326882119211394
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land surface to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7475503048461912
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The maximum amount of evapotranspiration that can occur under given climate conditions",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7479385036798019
+    },
+    {
+      "name": "hydrologic models",
+      "label": "model",
+      "description": "Computational representations of the hydrologic cycle, used to simulate and predict the effects of climate change on water resources",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.6271489532713606
+    },
+    {
+      "name": "drought indices",
+      "label": "variable",
+      "description": "Quantitative measures of drought severity, often used to assess the impacts of drought on water resources and ecosystems",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.764134660291102
+    },
+    {
+      "name": "moisture indices",
+      "label": "variable",
+      "description": "Quantitative measures of soil moisture, often used to assess the impacts of climate change on ecosystems and water resources",
+      "uuid": "c7503ec5-4e63-446a-9390-72c8a638a0af",
+      "score": 0.6243085473581073
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, often used as an input to hydrologic models and drought indices",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.658720097833363
+    },
+    {
+      "name": "energy balance",
+      "label": "variable",
+      "description": "The balance between the amount of energy received by the Earth's surface and the amount of energy lost to the atmosphere",
+      "uuid": "8b99fd5b-4be4-4d4b-bdf2-ef92df294738",
+      "score": 0.5440345872455278
+    }
+  ],
+  "(24965, 28052)": [
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, often used as an input in climate models and hydrologic calculations",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6537412409536344
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The maximum amount of evaporation that can occur from a surface, considering factors such as temperature, humidity, and solar radiation",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7579461712987358
+    },
+    {
+      "name": "hydrologic models",
+      "label": "model",
+      "description": "Computational representations of hydrologic processes, used to simulate and predict water flow, evaporation, and other hydrologic phenomena",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.6011526369285916
+    },
+    {
+      "name": "moisture indices",
+      "label": "variable",
+      "description": "Quantitative measures of moisture levels in the environment, often used to assess drought conditions or water availability",
+      "uuid": "b881cf8f-7260-4980-80bc-4b6ae3716c39",
+      "score": 0.6449934509634423
+    },
+    {
+      "name": "surface radiation budget",
+      "label": "variable",
+      "description": "The balance of incoming and outgoing radiation at the Earth's surface, influencing energy availability and climate",
+      "uuid": "7cacbfdf-71a3-4fac-b690-9aa54e4060dd",
+      "score": 0.6821753990231041
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7470704205046298
+    },
+    {
+      "name": "downwelling shortwave radiation",
+      "label": "variable",
+      "description": "The amount of solar radiation that reaches the Earth's surface, playing a key role in energy balance and climate",
+      "uuid": "74de6492-617b-4046-8a4e-1336c3238a7e",
+      "score": 0.7681767717169949
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6573741894372095
+    },
+    {
+      "name": "energy balance",
+      "label": "variable",
+      "description": "The balance between energy input and output at the Earth's surface, influencing climate and hydrologic processes",
+      "uuid": "8b99fd5b-4be4-4d4b-bdf2-ef92df294738",
+      "score": 0.5530951447107172
+    },
+    {
+      "name": "Dai et al. 2004",
+      "label": "provider",
+      "description": "A research publication that presented a study on drought and moisture indices",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.5159442301952164
+    }
+  ],
+  "(27540, 30713)": [
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6573741894372095
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "A measure of the amount of water that is evaporated from the land surface into the atmosphere, influenced by factors such as temperature, humidity, and solar radiation",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6798915510335041
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "A measurement of the temperature of the Earth's surface, often used in climate and environmental studies",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.7296418023374679
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measurement of the temperature of the air near the Earth's surface, often used in climate and environmental studies",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6984984829397726
+    },
+    {
+      "name": "radiative fluxes",
+      "label": "variable",
+      "description": "The flow of energy through radiation, an important component of the Earth's energy balance",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.6992125453873087
+    },
+    {
+      "name": "hydrologic model",
+      "label": "model",
+      "description": "A computational representation of the movement and distribution of water in the environment, used to simulate and predict hydrologic processes",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5502570639669513
+    },
+    {
+      "name": "surface energy balance",
+      "label": "variable",
+      "description": "The balance of energy inputs and outputs at the Earth's surface, influenced by factors such as solar radiation, evapotranspiration, and sensible heat flux",
+      "uuid": "8b99fd5b-4be4-4d4b-bdf2-ef92df294738",
+      "score": 0.571343556633538
+    },
+    {
+      "name": "climate-modeling centers",
+      "label": "provider",
+      "description": "Organizations that develop, run, and maintain climate models, often providing data and support for climate research",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5763611377423209
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the hydrologic cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6527842141302216
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess water from precipitation, snowmelt, or other sources flows over the land surface and into streams and rivers",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7321505020211907
+    }
+  ],
+  "(30213, 31556)": [
+    {
+      "name": "hydrologic model",
+      "label": "model",
+      "description": "A computational representation of the hydrologic cycle, used to simulate and predict water movement and distribution on Earth's surface",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5822630902707944
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "A measure of the amount of water that could evaporate from the land surface and plants, influenced by climate and vegetation factors",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7407138853106048
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, a key component of the hydrologic cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6724962481197446
+    },
+    {
+      "name": "river-basin characteristics",
+      "label": "variable",
+      "description": "Features of a river basin that influence its hydrology, such as topography, soil type, and vegetation cover",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5426043892012401
+    },
+    {
+      "name": "surface net radiation",
+      "label": "variable",
+      "description": "The difference between incoming and outgoing radiation at the Earth's surface, influencing temperature and energy balance",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.6701126642071895
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7427916005314608
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, influencing climate and weather patterns",
+      "uuid": "a32cbebb-0f17-41a6-9bf7-f3b111e4c56e",
+      "score": 0.6540993481626324
+    },
+    {
+      "name": "American Geophysical Union",
+      "label": "provider",
+      "description": "A nonprofit organization of geoscientists, dedicated to promoting discovery in Earth and space science for the benefit of humanity",
+      "uuid": "551dcf7f-db04-4fe8-b4ca-6c8a9d51f498",
+      "score": 0.5376183682186388
+    },
+    {
+      "name": "Association of American Geographers",
+      "label": "provider",
+      "description": "A nonprofit scientific and educational society that advances professional studies in geography and encourages the application of geographic research in education, government, and business",
+      "uuid": "5db54f8a-9560-4c43-91ce-3f9fc9fde0a6",
+      "score": 0.6461608122542455
+    },
+    {
+      "name": "Earth Interactions",
+      "label": "project",
+      "description": "A journal that publishes original research and review articles on the interactions between the Earth's atmosphere, oceans, land surfaces, and living organisms",
+      "uuid": "3d64c047-c4fb-4981-bc91-d5dbc22337de",
+      "score": 0.5487465931867908
+    }
+  ]
+}

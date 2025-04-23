@@ -1,0 +1,923 @@
+{
+  "(0, 2888)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, where the Grain for Green Project is implemented",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5013962364396001
+    },
+    {
+      "name": "regional climate",
+      "label": "variable",
+      "description": "The climate conditions of a specific region, including temperature, precipitation, and other factors that influence the environment",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.623507615107522
+    },
+    {
+      "name": "land use/land cover change",
+      "label": "variable",
+      "description": "Changes in the way land is used or covered, such as deforestation or urbanization, which can impact the environment and climate",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6546844361214849
+    },
+    {
+      "name": "vegetation types",
+      "label": "variable",
+      "description": "The different types of plant species or communities found in a particular region, which can be influenced by climate and land use changes",
+      "uuid": "de0ace5c-fa2b-47ca-93db-79d8df7ab6f2",
+      "score": 0.6013290997179517
+    },
+    {
+      "name": "vegetation coverage",
+      "label": "variable",
+      "description": "The extent or density of vegetation in a particular area, which can be affected by climate, land use, and other environmental factors",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.6552606532172237
+    },
+    {
+      "name": "remotely sensed observations",
+      "label": "instrument",
+      "description": "Methods of collecting data about the Earth's surface using sensors or cameras on satellites or aircraft",
+      "uuid": "6015ef7b-f3bd-49e1-9193-cc23db566b69",
+      "score": 0.5634961088167454
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, which can impact climate and environmental conditions",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6349709775179287
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, which can influence climate and environmental conditions",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6461593504950548
+    }
+  ],
+  "(2366, 5132)": [
+    {
+      "name": "LULCC",
+      "label": "project",
+      "description": "A research project focused on land use and land cover changes and their impacts on the environment and climate",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.7208299247952775
+    },
+    {
+      "name": "vegetation types",
+      "label": "variable",
+      "description": "Different categories of plant species and their distributions, which can be affected by land use changes and climate",
+      "uuid": "de0ace5c-fa2b-47ca-93db-79d8df7ab6f2",
+      "score": 0.5863940232627953
+    },
+    {
+      "name": "remotely sensed observations",
+      "label": "instrument",
+      "description": "Techniques and instruments used to collect data about the Earth's surface from a distance, such as satellite imagery",
+      "uuid": "6015ef7b-f3bd-49e1-9193-cc23db566b69",
+      "score": 0.5945894733705739
+    },
+    {
+      "name": "afforestation projects",
+      "label": "project",
+      "description": "Initiatives aimed at planting trees and restoring forests, which can impact local and regional ecosystems",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6534824599548954
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "A measure of the amount of sunlight that is reflected by the Earth's surface, which can be affected by land use changes",
+      "uuid": "5395e33c-02cb-4027-b425-e771eab13610",
+      "score": 0.7685173423567857
+    },
+    {
+      "name": "soil water capacity",
+      "label": "variable",
+      "description": "The ability of soil to hold water, which can be influenced by land use changes and affect local hydrology",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.7040226746024392
+    },
+    {
+      "name": "carbon flux",
+      "label": "variable",
+      "description": "The flow of carbon between the atmosphere, oceans, and land, which can be impacted by land use changes and climate variability",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.7452259090932187
+    },
+    {
+      "name": "land-surface-atmosphere interactions",
+      "label": "teleconnection",
+      "description": "The exchange of energy, water, and momentum between the land surface and the atmosphere, which can be influenced by land use changes and climate",
+      "uuid": "514c891b-60b8-4a6f-adb3-0366c75588e9",
+      "score": 0.5610347902989757
+    },
+    {
+      "name": "climate",
+      "label": "teleconnection",
+      "description": "The long-term patterns and trends in atmospheric conditions, which can be affected by land use changes and impact ecosystems",
+      "uuid": "3b6fe940-7383-4bae-b436-fc487723bbcf",
+      "score": 0.50864472426302
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, which can be influenced by land use changes and climate variability",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.643902459588931
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground, which can be affected by land use changes and climate",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6195354821372323
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of the land surface above sea level, which can influence local climate and ecosystems",
+      "uuid": "74ed1690-968e-444c-8a31-7b8344a2aad3",
+      "score": 0.5705635825363464
+    },
+    {
+      "name": "accumulated sunshine",
+      "label": "variable",
+      "description": "The amount of solar radiation that reaches the Earth's surface, which can be affected by land use changes and climate",
+      "uuid": "86c95fdb-17b9-4224-a020-b1aacbea00fd",
+      "score": 0.5432243040768167
+    },
+    {
+      "name": "winds",
+      "label": "variable",
+      "description": "The movement of air in the atmosphere, which can be influenced by land use changes and climate variability",
+      "uuid": "df160e31-ae45-41a4-9093-a80fe5303cea",
+      "score": 0.5666050892687351
+    }
+  ],
+  "(4634, 7393)": [
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land use and land cover, a critical component in understanding the interactions between human activities and the environment",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.6771482219179991
+    },
+    {
+      "name": "general circulation models",
+      "label": "model",
+      "description": "Computational tools used to simulate the Earth's climate system, incorporating physical processes and interactions",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7067038023581015
+    },
+    {
+      "name": "afforestation",
+      "label": "experiment",
+      "description": "The process of establishing forests on lands that were previously not forested, often used to study its impacts on climate and ecosystems",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.7074052939772643
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air near the Earth's surface, an essential variable in climate studies",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.693203572596781
+    },
+    {
+      "name": "single-forcing sensitivity experiments",
+      "label": "experiment",
+      "description": "A type of climate simulation designed to isolate the effects of a single factor or process on the climate system",
+      "uuid": "98ea6bb6-0ae7-4c9a-9a20-9c3990d02b18",
+      "score": 0.5730583752407719
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, often studied in the context of climate change and land use/land cover changes",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6654366479795328
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General circulation models, used for simulating the Earth's climate system and understanding the interactions between different components",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7681541284902813
+    },
+    {
+      "name": "land-type zones",
+      "label": "location",
+      "description": "Regions classified based on their land use and land cover characteristics, such as barren, grassland, cropland, and forest",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.5398587181632266
+    }
+  ],
+  "(6931, 9539)": [
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land Use and Land Cover, a measure of how land is being utilized and its impact on the environment",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.6997622372861099
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "Changes in global climate patterns, potentially leading to extreme weather events, sea-level rise, and disruptions to ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5958510755106173
+    },
+    {
+      "name": "human activities",
+      "label": "experiment",
+      "description": "Actions taken by humans that can impact the environment, such as deforestation, agriculture, and urbanization",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.5040498565859721
+    },
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer, an instrument used for remote sensing of the Earth\u2019s surface and atmosphere",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7622181096973467
+    },
+    {
+      "name": "leaf area index (LAI)",
+      "label": "variable",
+      "description": "A measure of the amount of leaf material in a given area, used as an indicator of vegetative growth",
+      "uuid": "f829171e-8b22-4f93-8f71-7932dfd7a70b",
+      "score": 0.7844318423253664
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of the health and density of vegetation",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7659503904940186
+    },
+    {
+      "name": "AVHRR",
+      "label": "instrument",
+      "description": "The Advanced Very High Resolution Radiometer, an instrument used for remote sensing of the Earth\u2019s surface and atmosphere",
+      "uuid": "e64e83bd-02b3-4a47-830d-00e1aa4b04d3",
+      "score": 0.7171956502723874
+    },
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth\u2019s surface",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.664797448294557
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth\u2019s surface, an important factor in climate and weather patterns",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6821421169276375
+    }
+  ],
+  "(8997, 11894)": [
+    {
+      "name": "LULCC",
+      "label": "experiment",
+      "description": "Land Use and Land Cover Change, a type of human activity that alters the Earth's surface, affecting climate, ecosystems, and biodiversity",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.6053833767420862
+    },
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land Use and Land Cover, a characteristic of the Earth's surface that can be measured or observed in terms of its type, extent, and changes over time",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.704263280487668
+    },
+    {
+      "name": "vegetation coverage",
+      "label": "variable",
+      "description": "A measure of the extent and density of plant growth in a given area, often used to study environmental changes and ecosystem health",
+      "uuid": "8d1157c4-d36b-40db-aa82-3603716f9988",
+      "score": 0.6466867554137911
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, often used to study climate patterns and environmental changes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6519275154302141
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used to study climate patterns, water cycles, and ecosystem health",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6702649343937626
+    },
+    {
+      "name": "human activities",
+      "label": "provider",
+      "description": "Actions taken by humans that can impact the environment, climate, and ecosystems, such as land use changes, pollution, and resource extraction",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.5162383934227225
+    },
+    {
+      "name": "LAI",
+      "label": "variable",
+      "description": "Leaf Area Index, a measure of the amount of leaf surface area per unit ground area, often used to study vegetation health, productivity, and environmental changes",
+      "uuid": "f829171e-8b22-4f93-8f71-7932dfd7a70b",
+      "score": 0.8068621105508773
+    },
+    {
+      "name": "areal coverage",
+      "label": "variable",
+      "description": "The extent or area of a particular land use or land cover type, often used to study environmental changes, ecosystem health, and climate patterns",
+      "uuid": "08360b01-46ff-49a4-b6fd-01009a72144f",
+      "score": 0.5043556314269919
+    }
+  ],
+  "(11390, 14223)": [
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land use and land cover, which refers to the way land is being used and covered by vegetation, water, or other features",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.7055414072758437
+    },
+    {
+      "name": "climate variation",
+      "label": "variable",
+      "description": "Changes or fluctuations in climate patterns over time, which can be influenced by various factors including land use and land cover changes",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.5057282602066554
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, which are complex computer simulations used to study and predict climate patterns and changes",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7400284853016275
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, which interacts with the land surface and affects climate",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.612438654646524
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life that covers the land surface, which can influence climate patterns and be affected by climate change",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6705192195174585
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, which is an important aspect of climate",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.635795577029976
+    },
+    {
+      "name": "LULCC",
+      "label": "variable",
+      "description": "Land use and land cover change, which refers to the conversion of one land use or land cover type to another",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.5987796533140761
+    }
+  ],
+  "(13734, 16227)": [
+    {
+      "name": "climate variation",
+      "label": "variable",
+      "description": "A measure of changes in climate patterns over time, including temperature and precipitation variability",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.562306840720695
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "A measurement of the temperature of the air near the Earth's surface, often used in climate and environmental studies",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.7048521429569342
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of water that falls to the Earth's surface, often used in climate and environmental studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7030466153768429
+    },
+    {
+      "name": "LULCC",
+      "label": "experiment",
+      "description": "Land Use and Land Cover Change, a type of experiment that studies the effects of human activities on the environment and climate",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.63647592379151
+    },
+    {
+      "name": "grassland zone",
+      "label": "location",
+      "description": "A region dominated by grasses and other herbaceous plants",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.5542883180426423
+    },
+    {
+      "name": "cropland",
+      "label": "location",
+      "description": "A region used for agricultural purposes, such as growing crops",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6719524394445981
+    },
+    {
+      "name": "forest",
+      "label": "location",
+      "description": "A region dominated by trees and other woody vegetation",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5849301814867603
+    }
+  ],
+  "(15860, 18493)": [
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land Use Land Cover, a measure of how land is utilized and its impact on the environment and climate",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.700686895426305
+    },
+    {
+      "name": "LAI",
+      "label": "variable",
+      "description": "Leaf Area Index, a measure of the amount of leaf area per unit ground area, used to assess vegetation health and productivity",
+      "uuid": "c297fda0-848a-4a9b-85be-86f29c92f212",
+      "score": 0.7958724637862508
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric conditions such as temperature, precipitation, and humidity that influence climate patterns",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6796116209223655
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, crucial for agricultural and ecological processes",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6499795700511383
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing climate, weather, and ecological processes",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6334640218719226
+    },
+    {
+      "name": "human activities",
+      "label": "provider",
+      "description": "Actions taken by humans that impact the environment, such as deforestation, agriculture, and urbanization",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.5085725250178436
+    },
+    {
+      "name": "Grassland",
+      "label": "location",
+      "description": "A type of land cover dominated by grasses and other herbaceous plants, often found in temperate and tropical regions",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6244475079775497
+    },
+    {
+      "name": "Cropland",
+      "label": "location",
+      "description": "A type of land cover used for agricultural purposes, such as growing crops",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6911246780568143
+    },
+    {
+      "name": "Forest",
+      "label": "location",
+      "description": "A type of land cover dominated by trees and other woody vegetation, often found in temperate and tropical regions",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6304556890972699
+    }
+  ],
+  "(17976, 20978)": [
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land Use and Land Cover, a classification system used to categorize the Earth's surface into different types based on its usage and characteristics",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.7229354644267871
+    },
+    {
+      "name": "grassland",
+      "label": "location",
+      "description": "A type of land cover characterized by grasses and other herbaceous plants, often found in temperate regions",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6144120308505783
+    },
+    {
+      "name": "cropland",
+      "label": "location",
+      "description": "A type of land use where the land is used for agricultural purposes, such as growing crops",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6691858144916145
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, often used to study climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6727388299895765
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used to study climate and weather patterns",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6786607207769694
+    }
+  ],
+  "(20466, 23248)": [
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land Use and Land Cover, refers to the way in which land is used by humans and its natural characteristics",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.7020927570739498
+    },
+    {
+      "name": "Loess Plateau",
+      "label": "location",
+      "description": "A region in China known for its unique geology and vulnerable ecosystems, often studied in the context of climate and environmental changes",
+      "uuid": "e0d88b2a-8563-443b-8756-73d744a41ee7",
+      "score": 0.517947609373025
+    },
+    {
+      "name": "Cropland",
+      "label": "platform",
+      "description": "A type of land use where the land is used for growing crops, often influenced by climate conditions",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6652156786382458
+    },
+    {
+      "name": "Forests",
+      "label": "platform",
+      "description": "A type of land cover characterized by dense vegetation, playing a crucial role in the global carbon cycle and climate regulation",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6198932428180033
+    },
+    {
+      "name": "Temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat in a substance or environment, a key factor in climate studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6380858396503384
+    },
+    {
+      "name": "Precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that falls to the Earth's surface, an essential component of the climate system",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6609060845091872
+    },
+    {
+      "name": "Climate variation",
+      "label": "natural hazard",
+      "description": "Changes in the statistical properties of climate over time, including temperature, precipitation, and other meteorological variables",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.54843527563677
+    },
+    {
+      "name": "LULCC",
+      "label": "experiment",
+      "description": "Land Use and Land Cover Change, refers to the modification of land use and land cover over time, often studied in the context of climate and environmental impacts",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.6311267696621847
+    }
+  ],
+  "(22717, 25488)": [
+    {
+      "name": "AVHRR NDVI",
+      "label": "instrument",
+      "description": "The Advanced Very High Resolution Radiometer Normalized Difference Vegetation Index, a satellite-based instrument used to measure vegetation health and density",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.6826415581731657
+    },
+    {
+      "name": "MODIS LAI",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer Leaf Area Index, a satellite-based instrument used to measure the area of leaves in vegetation canopies",
+      "uuid": "f829171e-8b22-4f93-8f71-7932dfd7a70b",
+      "score": 0.7247865786180084
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through the evaporation of water from the soil and the transpiration of water by plants",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7464118152332669
+    },
+    {
+      "name": "Loess Plateau",
+      "label": "location",
+      "description": "A region in northwest China characterized by its unique landscape and soil composition, often studied for its environmental and climate dynamics",
+      "uuid": "e0d88b2a-8563-443b-8756-73d744a41ee7",
+      "score": 0.5127054169565872
+    }
+  ],
+  "(25077, 27436)": [
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and growth",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7753713915079845
+    },
+    {
+      "name": "LAI",
+      "label": "variable",
+      "description": "The Leaf Area Index, a measure of the amount of leaf area per unit ground area",
+      "uuid": "f829171e-8b22-4f93-8f71-7932dfd7a70b",
+      "score": 0.7887736567390701
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to Earth's surface, including rain, snow, and hail",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7002292356087629
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in the atmosphere or on Earth's surface",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6560666835457755
+    }
+  ],
+  "(26991, 29741)": [
+    {
+      "name": "human impacts",
+      "label": "variable",
+      "description": "The influence of human activities on the environment, including changes in land use and land cover",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.6134215891114962
+    },
+    {
+      "name": "afforestation projects",
+      "label": "project",
+      "description": "Initiatives aimed at planting trees or restoring forests, often to mitigate climate change or promote biodiversity",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6604182273160037
+    },
+    {
+      "name": "vegetation coverage",
+      "label": "variable",
+      "description": "The extent and density of plant growth in a given area, often used as an indicator of ecosystem health",
+      "uuid": "8d1157c4-d36b-40db-aa82-3603716f9988",
+      "score": 0.6409376561977325
+    },
+    {
+      "name": "LAI",
+      "label": "variable",
+      "description": "Leaf Area Index, a measure of the amount of leaf area per unit ground area, used to assess vegetation health and productivity",
+      "uuid": "c297fda0-848a-4a9b-85be-86f29c92f212",
+      "score": 0.7958724637862508
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "Normalized Difference Vegetation Index, a remote sensing metric used to evaluate vegetation health and density",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.781548785995428
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground, influencing climate and vegetation",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6368492460482474
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, affecting climate, vegetation, and ecosystems",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6288763414017866
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    },
+    {
+      "name": "LULCC",
+      "label": "project",
+      "description": "Land Use and Land Cover Change, a research area focusing on the impacts of human activities on the environment",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.653992729693672
+    },
+    {
+      "name": "Grassland",
+      "label": "location",
+      "description": "Regions dominated by grasses and other herbaceous plants, often used for grazing or agriculture",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6209843808491917
+    },
+    {
+      "name": "Cropland",
+      "label": "location",
+      "description": "Areas used for growing crops, which can impact local ecosystems and climate",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6960705770484966
+    },
+    {
+      "name": "Forest",
+      "label": "location",
+      "description": "Regions dominated by trees and other woody vegetation, playing a crucial role in global ecosystems and climate regulation",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6483204021162688
+    }
+  ],
+  "(29287, 32255)": [
+    {
+      "name": "standardized precipitation",
+      "label": "variable",
+      "description": "A measure of precipitation normalized to have a mean of zero and a standard deviation of one, used to analyze climate patterns",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6574642598954171
+    },
+    {
+      "name": "regional climate conditions",
+      "label": "variable",
+      "description": "The prevailing weather patterns and atmospheric conditions in a specific geographic region, influencing local ecosystems and land use",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.610585020391125
+    },
+    {
+      "name": "afforestation projects",
+      "label": "project",
+      "description": "Initiatives aimed at establishing new forests or reforesting areas, often to mitigate climate change, conserve biodiversity, or improve ecosystem services",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6662612208635895
+    },
+    {
+      "name": "afforestation efforts",
+      "label": "project",
+      "description": "Activities and initiatives undertaken to promote the growth of new forests, often through planting trees or restoring degraded land",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6643592211246988
+    },
+    {
+      "name": "vegetation coverage",
+      "label": "variable",
+      "description": "The proportion of an area covered by vegetation, which can be affected by climate conditions, land use changes, and human activities",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.6857921869514599
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia with diverse climate zones, significant environmental challenges, and a large population",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6622937155359848
+    },
+    {
+      "name": "LULCC",
+      "label": "project",
+      "description": "Land use and land cover change, a process that involves the modification of natural environments by human activities, such as deforestation, urbanization, or agriculture",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.5956882222190194
+    },
+    {
+      "name": "LAI",
+      "label": "variable",
+      "description": "Leaf Area Index, a measure of the amount of leaf cover in a given area, used to assess vegetation health and productivity",
+      "uuid": "c297fda0-848a-4a9b-85be-86f29c92f212",
+      "score": 0.796926822224596
+    }
+  ],
+  "(31747, 34792)": [
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The way in which human beings utilize the land, including activities such as agriculture, urbanization, and conservation",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5609768108513649
+    },
+    {
+      "name": "land-cover change",
+      "label": "variable",
+      "description": "The transformation of land cover, such as from forest to grassland or from natural habitat to urban area",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.540656236909574
+    },
+    {
+      "name": "climate variation",
+      "label": "variable",
+      "description": "Changes in climate patterns over time, including fluctuations in temperature, precipitation, and other meteorological factors",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.547343034910335
+    },
+    {
+      "name": "LULCC",
+      "label": "experiment",
+      "description": "Land use and land cover change, an experiment or study that examines the effects of human activities on the environment",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.6236040975560875
+    },
+    {
+      "name": "human-induced land-cover change",
+      "label": "natural hazard",
+      "description": "Changes in land cover caused by human activities, such as deforestation, urbanization, and agriculture",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5465058674702741
+    },
+    {
+      "name": "vegetation cover",
+      "label": "variable",
+      "description": "The amount and density of plant life in a given area, often used as an indicator of ecosystem health",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.6926603229809897
+    },
+    {
+      "name": "afforestation",
+      "label": "experiment",
+      "description": "The process of planting trees or establishing forests in areas where they did not previously exist",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6913596329545335
+    },
+    {
+      "name": "primary LULC types",
+      "label": "variable",
+      "description": "The main categories of land use and land cover, such as forest, grassland, and urban area",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.607319954599244
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the air, influencing local climate conditions",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6874738279288719
+    },
+    {
+      "name": "forest",
+      "label": "location",
+      "description": "A dense area of trees and other vegetation, often found in temperate or tropical regions",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5650337143339521
+    },
+    {
+      "name": "woody savannahs",
+      "label": "location",
+      "description": "A type of ecosystem characterized by a mix of trees and grasses, often found in tropical or subtropical regions",
+      "uuid": "d58dab07-f57e-47a9-8dcf-02a3e17f3533",
+      "score": 0.5994970556648245
+    }
+  ],
+  "(34358, 34792)": [
+    {
+      "name": "different land-cover types",
+      "label": "variable",
+      "description": "A variety of classifications used to categorize the Earth's surface based on its use, such as forests, grasslands, or urban areas",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6713597771943048
+    },
+    {
+      "name": "afforestation",
+      "label": "experiment",
+      "description": "The process of establishing a forest in an area where there was no previous forest cover, often used as a strategy for mitigating climate change",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6974883407060153
+    },
+    {
+      "name": "modeling study",
+      "label": "project",
+      "description": "A research project that utilizes computational models to simulate and analyze complex systems, such as the impacts of afforestation on climate",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5070956230163112
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors that influence the environment",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5152387203995978
+    }
+  ]
+}

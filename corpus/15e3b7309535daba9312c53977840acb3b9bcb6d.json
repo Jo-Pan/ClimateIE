@@ -1,0 +1,907 @@
+{
+  "(0, 2821)": [
+    {
+      "name": "Irrigation",
+      "label": "experiment",
+      "description": "A practice of supplying land or crops with water by artificial means, especially to promote plant growth in dry areas",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7221357213526903
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451761247480406
+    },
+    {
+      "name": "soil organic carbon",
+      "label": "variable",
+      "description": "The amount of organic carbon stored in soils, an important indicator of soil health and a key factor in the global carbon cycle",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.61775180067814
+    },
+    {
+      "name": "CO 2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a crucial role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6757239356315022
+    },
+    {
+      "name": "N 2 O",
+      "label": "variable",
+      "description": "Nitrous oxide, a potent greenhouse gas with significant impacts on the ozone layer and climate change",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.7031663616904429
+    },
+    {
+      "name": "semiarid regions",
+      "label": "location",
+      "description": "Regions with moderate precipitation, often experiencing water scarcity and supporting unique ecosystems",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.5023061931074007
+    },
+    {
+      "name": "reactive nitrogen compounds",
+      "label": "variable",
+      "description": "Chemical compounds containing nitrogen that can react with other substances, influencing soil fertility and greenhouse gas emissions",
+      "uuid": "9e5ec924-2fd3-4cbb-a7eb-ffde114d0cb9",
+      "score": 0.5868841413345696
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human activities",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7153704267841717
+    },
+    {
+      "name": "water deficiency",
+      "label": "natural hazard",
+      "description": "A condition where the available water supply is insufficient to meet the demands of crops, humans, or ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5174890911199074
+    }
+  ],
+  "(2343, 5236)": [
+    {
+      "name": "irrigation",
+      "label": "instrument",
+      "description": "A method of supplying water to crops through artificial channels, pipes, or other means to support agricultural production",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7170189245094649
+    },
+    {
+      "name": "water deficiency",
+      "label": "natural hazard",
+      "description": "A condition where the amount of water available is less than what is needed, often leading to droughts and impacts on agriculture",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.544185471828403
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on agriculture and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7161091632729676
+    },
+    {
+      "name": "organic residues",
+      "label": "variable",
+      "description": "The remains of plants and animals that are added to the soil, contributing to its fertility and carbon content",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.5434594619090122
+    },
+    {
+      "name": "soil organic carbon content",
+      "label": "variable",
+      "description": "The amount of carbon stored in the soil, influenced by factors such as irrigation, fertilization, and tillage",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.6004419357712826
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, affecting microbial activity, plant growth, and carbon sequestration",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6611278431866793
+    },
+    {
+      "name": "FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, providing data and research on agriculture, food security, and sustainable development",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.712951924518566
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon of rising temperatures and altered weather patterns, impacting agriculture, ecosystems, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5801361439670281
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide and nitrous oxide into the atmosphere, contributing to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.541839015533174
+    },
+    {
+      "name": "fertilisation",
+      "label": "instrument",
+      "description": "The application of nutrients to the soil to promote plant growth and increase crop yields",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5023981251175521
+    }
+  ],
+  "(4717, 7533)": [
+    {
+      "name": "soil organic carbon content",
+      "label": "variable",
+      "description": "The amount of carbon stored in the soil, often measured as a percentage of the total soil weight",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.6084212346664112
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "A controlled watering technique used in agriculture to maintain optimal soil moisture for crop growth",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6842847136610697
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, influencing plant growth, microbial activity, and soil organic matter decomposition",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6506689763284778
+    },
+    {
+      "name": "microorganisms",
+      "label": "provider",
+      "description": "Microscopic living organisms such as bacteria and fungi that play a crucial role in decomposing organic matter and influencing soil properties",
+      "uuid": "ed1b3fa6-173d-476c-9b35-c57335c0a473",
+      "score": 0.5333907251534278
+    },
+    {
+      "name": "fertilisation",
+      "label": "experiment",
+      "description": "The application of nutrients to the soil to promote plant growth and increase crop yields",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5023981251175521
+    },
+    {
+      "name": "soil organic carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in the soil, often measured as a percentage of the total soil weight",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.6222787978266912
+    },
+    {
+      "name": "N 2 O",
+      "label": "variable",
+      "description": "Nitrous oxide, a potent greenhouse gas emitted from agricultural soils, primarily through microbial processes such as nitrification and denitrification",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.6743818696629693
+    },
+    {
+      "name": "nitrification",
+      "label": "experiment",
+      "description": "A microbial process in which ammonia is converted into nitrate, influencing soil nitrogen availability and N 2 O emissions",
+      "uuid": "d73ed320-cd5b-4994-a26a-dac5a2fc394f",
+      "score": 0.7364229576819773
+    },
+    {
+      "name": "denitrification",
+      "label": "experiment",
+      "description": "A microbial process in which nitrate is converted into nitrogen gas, influencing soil nitrogen availability and N 2 O emissions",
+      "uuid": "0d0de6a7-c340-4e6b-b01d-ccbb6e7fa913",
+      "score": 0.6146147625732609
+    },
+    {
+      "name": "CO 2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas emitted from various sources, including agricultural soils and influencing global climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6070269744822377
+    },
+    {
+      "name": "carbon sequestration",
+      "label": "experiment",
+      "description": "The process of capturing and storing atmospheric carbon dioxide, often through practices such as afforestation, soil conservation, and efficient irrigation management",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.7319526434844729
+    },
+    {
+      "name": "arid regions",
+      "label": "location",
+      "description": "Areas with low rainfall and limited water availability, often relying on irrigation for agricultural production",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.5053844081938174
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country with diverse climates, agricultural practices, and soil types",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6200924841963678
+    }
+  ],
+  "(7030, 9894)": [
+    {
+      "name": "soil organic carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in soil, often measured to understand the impact of land use and climate change on soil health",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.6461248021588557
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "The practice of artificially supplying water to land or crops to support plant growth, often studied for its effects on soil carbon and crop yields",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7319306640529756
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country where various studies on irrigation and soil carbon have been conducted",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5302516508522771
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe with a humid climate, where studies on irrigation and soil carbon have been conducted",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6114405265959657
+    },
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country in the Middle East, where studies on irrigation and soil carbon have been conducted",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.5741112469020198
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in Asia, where studies on irrigation and soil carbon have been conducted",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5363984757400223
+    }
+  ],
+  "(9429, 12450)": [
+    {
+      "name": "soil organic matter",
+      "label": "variable",
+      "description": "A component of soil that consists of decomposed plant and animal residues, playing a crucial role in soil fertility and carbon cycling",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.7048989870731484
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "A controlled application of water to land or soil to support plant growth, often used in agricultural and environmental studies",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7274960198182081
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse climates and ecosystems",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7107258612943204
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, known for its humid climate and agricultural practices",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6207368967604785
+    },
+    {
+      "name": "Austria",
+      "label": "location",
+      "description": "A country in Central Europe, known for its humid climate and agricultural practices",
+      "uuid": "e4d33a7a-f145-4aec-9d15-e21dc9916aad",
+      "score": 0.58695177128005
+    },
+    {
+      "name": "Brazil",
+      "label": "location",
+      "description": "A country in South America, known for its diverse climates and ecosystems",
+      "uuid": "2a65dfd1-83e7-4886-a732-316b170522a1",
+      "score": 0.6814416571575411
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country in East Africa, known for its diverse climates and ecosystems",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6467582394309324
+    }
+  ],
+  "(11906, 14968)": [
+    {
+      "name": "soil organic carbon content",
+      "label": "variable",
+      "description": "The amount of organic carbon stored in the soil, an important indicator of soil health and fertility",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.5908849884755627
+    },
+    {
+      "name": "soil organic carbon contents",
+      "label": "variable",
+      "description": "The amount of organic carbon stored in the soil, an important indicator of soil health and fertility",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.5922716139336447
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe known for its temperate climate and agricultural production",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6192676341244499
+    },
+    {
+      "name": "Austria",
+      "label": "location",
+      "description": "A country in Central Europe known for its mountainous terrain and agricultural production",
+      "uuid": "e4d33a7a-f145-4aec-9d15-e21dc9916aad",
+      "score": 0.6151868721219659
+    },
+    {
+      "name": "Brazil",
+      "label": "location",
+      "description": "A country in South America known for its tropical climate and agricultural production",
+      "uuid": "2a65dfd1-83e7-4886-a732-316b170522a1",
+      "score": 0.6465079201457788
+    },
+    {
+      "name": "humid tropics",
+      "label": "location",
+      "description": "A region of the world characterized by high temperatures and high levels of rainfall, often associated with tropical rainforests",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.599496927908889
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "A method of supplying water to crops through artificial means, often used to increase crop yields and improve soil health",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7273230979953771
+    },
+    {
+      "name": "natural vegetation",
+      "label": "location",
+      "description": "Vegetation that grows naturally in an area, often characterized by its diversity and complexity",
+      "uuid": "0bfb8ae4-c08a-4d69-82d2-1b1b0d4acef6",
+      "score": 0.5699449279383815
+    },
+    {
+      "name": "N fertilisation",
+      "label": "experiment",
+      "description": "The application of nitrogen-based fertilizers to soil to promote plant growth and increase crop yields",
+      "uuid": "d523f014-6fec-422f-878c-b7e62be952a3",
+      "score": 0.5135388553923645
+    }
+  ],
+  "(14509, 17350)": [
+    {
+      "name": "soil organic carbon content",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon stored in the soil, which can be affected by various agricultural practices",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.5743590757013936
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "A method of artificially supplying water to crops, which can influence soil organic carbon content and other soil properties",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6572865824977943
+    },
+    {
+      "name": "N fertilisation",
+      "label": "experiment",
+      "description": "The application of nitrogen-based fertilizers to crops, which can impact soil organic carbon content and other soil properties",
+      "uuid": "d523f014-6fec-422f-878c-b7e62be952a3",
+      "score": 0.5208813487094176
+    },
+    {
+      "name": "soil organic matter",
+      "label": "variable",
+      "description": "The amount of organic material in the soil, which can be affected by various agricultural practices",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.6598271557228641
+    },
+    {
+      "name": "water productivity",
+      "label": "variable",
+      "description": "A measure of the amount of crop output generated per unit of water input",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5004301654492903
+    },
+    {
+      "name": "soil's water storage capacity",
+      "label": "variable",
+      "description": "The ability of the soil to retain water, which can be influenced by various agricultural practices",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.6593389349717244
+    },
+    {
+      "name": "soil structure",
+      "label": "variable",
+      "description": "The physical arrangement of soil particles, which can be affected by various agricultural practices",
+      "uuid": "e4daef1d-e672-41d0-bc6d-80c6b5c0799b",
+      "score": 0.6455938716129146
+    },
+    {
+      "name": "soil carbon sequestration",
+      "label": "variable",
+      "description": "The process of storing carbon in the soil, which can be influenced by various agricultural practices",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.6057887800379405
+    }
+  ],
+  "(16940, 19610)": [
+    {
+      "name": "soil organic carbon contents",
+      "label": "variable",
+      "description": "The amount of organic carbon present in soil, an important indicator of soil health and fertility",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.5896953452604269
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "A controlled watering practice used in agriculture to manage soil moisture and optimize crop growth",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6902749195889979
+    },
+    {
+      "name": "soil biota",
+      "label": "variable",
+      "description": "The community of living organisms in the soil, including microorganisms, insects, and other invertebrates, playing a crucial role in soil health and ecosystem functioning",
+      "uuid": "53231d78-471d-4afe-a435-b577b7d53b17",
+      "score": 0.5085394445967034
+    },
+    {
+      "name": "macroaggregates",
+      "label": "variable",
+      "description": "Large soil aggregates with diameters greater than 250 \u03bcm, crucial for soil fertility, structure, and carbon sequestration",
+      "uuid": "83da5ac6-5981-4929-9e19-f46522c1babe",
+      "score": 0.5235347886141065
+    },
+    {
+      "name": "carbon sequestration",
+      "label": "variable",
+      "description": "The process of capturing and storing atmospheric carbon dioxide in soils, vegetation, and other ecosystems, mitigating climate change",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.7520845403188149
+    },
+    {
+      "name": "carbon sequestration potential",
+      "label": "variable",
+      "description": "The capacity of a particular ecosystem or practice to sequester and store carbon, often used to evaluate the effectiveness of climate change mitigation strategies",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.6510267973185425
+    }
+  ],
+  "(19181, 21926)": [
+    {
+      "name": "soil organic carbon content",
+      "label": "variable",
+      "description": "The amount of carbon stored in the soil in the form of organic compounds, influencing soil fertility and climate change mitigation",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.6088321385359199
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "A controlled application of water to the soil to support plant growth, potentially affecting soil structure and biota",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6968397844208565
+    },
+    {
+      "name": "earth worms",
+      "label": "variable",
+      "description": "A type of soil organism that contributes to soil structure and fertility through their burrowing activities and organic matter decomposition",
+      "uuid": "517e2978-223e-42a2-b889-9c60f7099859",
+      "score": 0.6077145167927417
+    },
+    {
+      "name": "soil surface",
+      "label": "location",
+      "description": "The uppermost layer of the soil, influencing soil temperature, moisture, and biota activity",
+      "uuid": "09e712bf-7389-4980-8115-af4282469eb8",
+      "score": 0.5417513691169855
+    },
+    {
+      "name": "Mongolia",
+      "label": "location",
+      "description": "A country in East Asia, characterized by a diverse range of ecosystems and climates",
+      "uuid": "af7106d6-4f42-4797-a547-b9e2f4384c7f",
+      "score": 0.7171085574411028
+    }
+  ],
+  "(21480, 24612)": [
+    {
+      "name": "soil organic carbon content",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon present in soil, which influences soil fertility and climate change",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.583274502248192
+    },
+    {
+      "name": "soil structure",
+      "label": "variable",
+      "description": "The arrangement of soil particles and pores, affecting soil's ability to retain water, nutrients, and organic matter",
+      "uuid": "aa25235a-596f-4504-89e1-4c625275700d",
+      "score": 0.6322349810213721
+    },
+    {
+      "name": "soil surface temperature",
+      "label": "variable",
+      "description": "The temperature at the surface of the soil, which can impact microbial activity, soil moisture, and plant growth",
+      "uuid": "b29ee2f4-b2ce-4b19-b8e3-2d74d071549b",
+      "score": 0.660398423376216
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "A controlled application of water to soil to support plant growth, which can alter soil properties and microbial activity",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6777046820189455
+    },
+    {
+      "name": "microorganisms",
+      "label": "variable",
+      "description": "Microscopic organisms living in soil, such as bacteria and fungi, which play a crucial role in decomposing organic matter and influencing soil fertility",
+      "uuid": "ed1b3fa6-173d-476c-9b35-c57335c0a473",
+      "score": 0.5420349085865881
+    },
+    {
+      "name": "soil biota",
+      "label": "variable",
+      "description": "The community of living organisms in soil, including microorganisms, insects, and other invertebrates, which contribute to soil health and ecosystem functioning",
+      "uuid": "53231d78-471d-4afe-a435-b577b7d53b17",
+      "score": 0.5082734695409242
+    },
+    {
+      "name": "Mongolia",
+      "label": "location",
+      "description": "A country in East Asia, characterized by a diverse range of ecosystems and climates, including deserts, grasslands, and forests",
+      "uuid": "af7106d6-4f42-4797-a547-b9e2f4384c7f",
+      "score": 0.6913819954272588
+    }
+  ],
+  "(24075, 26991)": [
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "A controlled application of water to land or soil to support plant growth and manage soil properties",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6858579603213509
+    },
+    {
+      "name": "soil structure",
+      "label": "variable",
+      "description": "The arrangement of soil particles and the spaces between them, affecting soil properties such as water infiltration and aeration",
+      "uuid": "aa25235a-596f-4504-89e1-4c625275700d",
+      "score": 0.6357337980365065
+    },
+    {
+      "name": "soil organic carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in soil in the form of organic matter, influencing soil fertility and climate regulation",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.6220268692311455
+    },
+    {
+      "name": "nitrous oxide emissions",
+      "label": "variable",
+      "description": "The release of nitrous oxide, a potent greenhouse gas, from soil into the atmosphere, influenced by factors such as irrigation and fertilization",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.6394421031265397
+    },
+    {
+      "name": "Finland",
+      "label": "location",
+      "description": "A country located in Northern Europe, known for its boreal forests and cold climate",
+      "uuid": "b198283f-02d9-424e-838a-8997a18139a9",
+      "score": 0.7693611819162133
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country located in East Asia, known for its diverse climate and geography",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.7204020688974561
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country located in the Southern Hemisphere, known for its unique wildlife and climate",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6975098680634807
+    },
+    {
+      "name": "Hungary",
+      "label": "location",
+      "description": "A country located in Central Europe, known for its fertile soil and temperate climate",
+      "uuid": "250456aa-1202-411d-b88f-919386a4ebe5",
+      "score": 0.6242314423173828
+    },
+    {
+      "name": "Uzbekistan",
+      "label": "location",
+      "description": "A country located in Central Asia, known for its dry climate and agricultural production",
+      "uuid": "4642acf0-c21c-48a6-91f4-6fbd6d0966d4",
+      "score": 0.6524921477749777
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country located in North America, known for its diverse climate and geography",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.6469588280795466
+    }
+  ],
+  "(26506, 29250)": [
+    {
+      "name": "N 2 O",
+      "label": "variable",
+      "description": "Nitrous oxide, a potent greenhouse gas with significant implications for climate change",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.6979956404033444
+    },
+    {
+      "name": "fertilisation",
+      "label": "experiment",
+      "description": "The application of fertilizers to promote plant growth, which can influence soil properties and greenhouse gas emissions",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5051413069184528
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, known for its diverse climate and geography",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.6184180747774262
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "The artificial application of water to land or soil to support plant growth, which can impact soil moisture and greenhouse gas emissions",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7057141350605584
+    },
+    {
+      "name": "nitrogen fertiliser",
+      "label": "variable",
+      "description": "A type of fertilizer that contains nitrogen, which can influence soil properties and greenhouse gas emissions",
+      "uuid": "5ed7811a-2ba1-4985-9f1c-a78c802fa27f",
+      "score": 0.5182012617346718
+    },
+    {
+      "name": "Kenya",
+      "label": "location",
+      "description": "A country in East Africa, known for its diverse climate and geography",
+      "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+      "score": 0.6969402349712663
+    },
+    {
+      "name": "nitrification",
+      "label": "process",
+      "description": "A microbial process that converts ammonia into nitrate, which can lead to N 2 O emissions",
+      "uuid": "d73ed320-cd5b-4994-a26a-dac5a2fc394f",
+      "score": 0.724337420197314
+    },
+    {
+      "name": "denitrification",
+      "label": "process",
+      "description": "A microbial process that converts nitrate into nitrogen gas, which can lead to N 2 O emissions",
+      "uuid": "0d0de6a7-c340-4e6b-b01d-ccbb6e7fa913",
+      "score": 0.5954947399659755
+    },
+    {
+      "name": "soil water content",
+      "label": "variable",
+      "description": "The amount of water present in the soil, which can influence soil properties and greenhouse gas emissions",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6909267029977568
+    },
+    {
+      "name": "reactive nitrogen compounds",
+      "label": "variable",
+      "description": "Compounds that contain nitrogen and can react with other substances, which can influence soil properties and greenhouse gas emissions",
+      "uuid": "9e5ec924-2fd3-4cbb-a7eb-ffde114d0cb9",
+      "score": 0.57714081696581
+    }
+  ],
+  "(28890, 31330)": [
+    {
+      "name": "N 2 O",
+      "label": "variable",
+      "description": "Nitrous oxide, a potent greenhouse gas with significant implications for climate change",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.6979956404033444
+    },
+    {
+      "name": "nitrification",
+      "label": "process",
+      "description": "A microbial process in which ammonia is converted into nitrite and then into nitrate, a key factor in the formation of N 2 O",
+      "uuid": "d73ed320-cd5b-4994-a26a-dac5a2fc394f",
+      "score": 0.7471732368969295
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A critical component for various biological processes, including nitrification and denitrification",
+      "uuid": "90aa8838-79bd-4b28-b518-8217e863c385",
+      "score": 0.5286653520545528
+    },
+    {
+      "name": "denitrification",
+      "label": "process",
+      "description": "A microbial process in which nitrate is converted into nitrogen gas, a key factor in the formation of N 2 O",
+      "uuid": "0d0de6a7-c340-4e6b-b01d-ccbb6e7fa913",
+      "score": 0.5947477563546147
+    },
+    {
+      "name": "organic matter",
+      "label": "variable",
+      "description": "The accumulation of plant and animal residues in the soil, influencing microbial activity and N 2 O emissions",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.6822801963934566
+    },
+    {
+      "name": "CO 2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas produced by microbial respiration in the soil",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.5478734853192684
+    },
+    {
+      "name": "microbial respiration",
+      "label": "process",
+      "description": "The process by which microorganisms break down organic matter, producing CO 2 and influencing N 2 O emissions",
+      "uuid": "e699830a-0abf-45b2-8026-ac80e0269ea7",
+      "score": 0.5475864485291708
+    },
+    {
+      "name": "aerobic nitrifying bacteria",
+      "label": "variable",
+      "description": "Microorganisms that convert ammonia into nitrite and then into nitrate, a key factor in the formation of N 2 O",
+      "uuid": "d73ed320-cd5b-4994-a26a-dac5a2fc394f",
+      "score": 0.553156917868476
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "The practice of supplying water to crops, potentially influencing N 2 O emissions through changes in soil moisture and aeration",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6671077419321121
+    },
+    {
+      "name": "nitrogen fertilising",
+      "label": "experiment",
+      "description": "The application of nitrogen-based fertilizers, potentially influencing N 2 O emissions through changes in soil nitrogen availability",
+      "uuid": "d523f014-6fec-422f-878c-b7e62be952a3",
+      "score": 0.525085727000419
+    },
+    {
+      "name": "reactive nitrogen compounds",
+      "label": "variable",
+      "description": "Chemical compounds containing nitrogen that can react with other substances, potentially influencing N 2 O emissions",
+      "uuid": "9e5ec924-2fd3-4cbb-a7eb-ffde114d0cb9",
+      "score": 0.5938980629557693
+    },
+    {
+      "name": "arable land",
+      "label": "location",
+      "description": "Land used for growing crops, potentially influencing N 2 O emissions through agricultural practices such as tillage and fertilization",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.5374670409417576
+    },
+    {
+      "name": "fertiliser input",
+      "label": "variable",
+      "description": "The amount of fertilizers applied to the soil, potentially influencing N 2 O emissions through changes in soil nitrogen availability",
+      "uuid": "d523f014-6fec-422f-878c-b7e62be952a3",
+      "score": 0.5430539718821024
+    }
+  ],
+  "(30984, 33583)": [
+    {
+      "name": "N 2 O",
+      "label": "variable",
+      "description": "Nitrous oxide, a potent greenhouse gas with significant implications for climate change",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.6979956404033444
+    },
+    {
+      "name": "nitrogen fertiliser",
+      "label": "variable",
+      "description": "A substance added to soil to promote plant growth, which can influence nitrogen cycling and N 2 O emissions",
+      "uuid": "d523f014-6fec-422f-878c-b7e62be952a3",
+      "score": 0.5489755426442392
+    },
+    {
+      "name": "water-filled pore volume",
+      "label": "variable",
+      "description": "The volume of water present in the soil pores, affecting soil aeration and microbial activity",
+      "uuid": "20f932b9-cc40-4462-879f-1c8d8c765152",
+      "score": 0.5228925214790333
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "The application of water to land or soil to support plant growth, which can impact soil properties and N 2 O emissions",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6639457315086074
+    },
+    {
+      "name": "drip irrigation",
+      "label": "instrument",
+      "description": "A type of irrigation system that delivers water directly to the roots of plants, reducing evaporation and runoff",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5021448680995197
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, which plays a critical role in the global carbon and nitrogen cycles",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6681828332823244
+    },
+    {
+      "name": "soil organic carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in soil, which can be influenced by irrigation and other management practices",
+      "uuid": "9315c474-b65f-400d-beba-611c9a6a62cb",
+      "score": 0.5952228131236049
+    }
+  ],
+  "(33103, 34291)": [
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "A controlled or simulated experiment to study the effects of irrigation on soil properties and greenhouse gas emissions",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6284146834735898
+    },
+    {
+      "name": "soil organic carbon contents",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in soil organic matter, an important factor in climate change mitigation",
+      "uuid": "39a39084-ae04-421c-892b-f554133ca4e6",
+      "score": 0.6004274232194314
+    },
+    {
+      "name": "reactive nitrogen compounds",
+      "label": "variable",
+      "description": "Chemical compounds containing nitrogen that can react with other substances, influencing soil fertility and greenhouse gas emissions",
+      "uuid": "9e5ec924-2fd3-4cbb-a7eb-ffde114d0cb9",
+      "score": 0.5868841413345696
+    },
+    {
+      "name": "N2O emissions",
+      "label": "variable",
+      "description": "The release of nitrous oxide, a potent greenhouse gas, from soil into the atmosphere",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.6045932027246519
+    },
+    {
+      "name": "arid soils and deserts",
+      "label": "location",
+      "description": "Regions characterized by low rainfall and limited vegetation, often sensitive to changes in soil moisture and temperature",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.5894833834219766
+    }
+  ]
+}

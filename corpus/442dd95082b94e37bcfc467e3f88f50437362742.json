@@ -1,0 +1,506 @@
+{
+  "(0, 2904)": [
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The state of having reliable access to sufficient quantities of affordable, nutritious food",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7121760221831106
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from liquid to gas state, playing a crucial role in the Earth's water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.7177801964844612
+    },
+    {
+      "name": "freshwater resources",
+      "label": "variable",
+      "description": "Water resources that are not salty and are suitable for human consumption, agriculture, and other uses",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5913334922865787
+    },
+    {
+      "name": "global surface temperature",
+      "label": "variable",
+      "description": "The average temperature of the Earth's surface, an important indicator of climate change",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.6098378458251403
+    },
+    {
+      "name": "CMIP5-GCMs",
+      "label": "model",
+      "description": "The Coupled Model Intercomparison Project Phase 5 - General Circulation Models, a set of climate models used to simulate and predict climate patterns",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.7400210851147286
+    },
+    {
+      "name": "critical water resources",
+      "label": "variable",
+      "description": "Water resources that are essential for human consumption, agriculture, and other critical services",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6034157589126184
+    },
+    {
+      "name": "crop evapotranspiration",
+      "label": "variable",
+      "description": "The process by which crops release water vapor into the air, an important factor in agricultural water management",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.581066374183294
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its diverse climate, geography, and agriculture",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.643906827959006
+    },
+    {
+      "name": "irrigated agriculture",
+      "label": "experiment",
+      "description": "A type of agricultural practice that uses artificial watering systems to support crop growth",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6189136588019786
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the statistical distribution of weather patterns, affecting global climate variability",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5444911041093582
+    },
+    {
+      "name": "water management",
+      "label": "project",
+      "description": "The process of planning, developing, and managing water resources to meet the needs of humans, animals, and the environment",
+      "uuid": "14555831-70ae-4650-8983-956d65595575",
+      "score": 0.6118950466117712
+    },
+    {
+      "name": "micro-irrigation",
+      "label": "instrument",
+      "description": "A type of irrigation system that delivers water directly to the roots of plants, reducing evaporation and runoff",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5055244767240891
+    }
+  ],
+  "(2572, 4841)": [
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, characterized by diverse climate zones, significant agricultural production, and large population",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.655714832361174
+    },
+    {
+      "name": "horticultural crops",
+      "label": "variable",
+      "description": "Agricultural products grown for human consumption, including fruits, vegetables, and flowers, sensitive to climate conditions",
+      "uuid": "d23b37cd-5e05-4356-b8b4-df6d7af236d6",
+      "score": 0.6206353672516193
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon involving changes in Earth's climate, affecting temperature, precipitation, and extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5781587781823587
+    },
+    {
+      "name": "cereal crop yields",
+      "label": "variable",
+      "description": "The amount of cereal crops produced per unit area, influenced by factors such as climate, soil, and water availability",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.5349993102225112
+    },
+    {
+      "name": "water",
+      "label": "variable",
+      "description": "A vital component of ecosystems, essential for human consumption, agriculture, and industry",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5754499630286494
+    },
+    {
+      "name": "ecological sustainability",
+      "label": "variable",
+      "description": "The ability of ecosystems to maintain their natural balance and function over time, influenced by factors such as climate, water, and land use",
+      "uuid": "73266dd6-217a-432f-9237-176d3e94b39b",
+      "score": 0.5782134930459514
+    },
+    {
+      "name": "rivers",
+      "label": "location",
+      "description": "Natural flowing bodies of water, often used for irrigation, drinking water, and transportation",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.6531824279319963
+    },
+    {
+      "name": "lakes",
+      "label": "location",
+      "description": "Bodies of fresh or saltwater, often used for irrigation, drinking water, and recreation",
+      "uuid": "3d64f625-fb84-4178-ad08-4be2dd15979b",
+      "score": 0.5841619675181275
+    },
+    {
+      "name": "streams",
+      "label": "location",
+      "description": "Small, narrow rivers or flows of water, often used for irrigation, drinking water, and aquatic ecosystems",
+      "uuid": "1d2d0777-b47e-45ee-ac85-2d7b9f6e4ffd",
+      "score": 0.6394943382150082
+    },
+    {
+      "name": "aquifers",
+      "label": "location",
+      "description": "Underground layers of permeable rock or soil that store and transmit large amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.6670615715816046
+    },
+    {
+      "name": "agriculture",
+      "label": "platform",
+      "description": "The practice of cultivating land, raising crops, and rearing livestock, influenced by factors such as climate, water, and land use",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5458378535647247
+    },
+    {
+      "name": "global warming",
+      "label": "teleconnection",
+      "description": "The long-term rise in Earth's average surface temperature, primarily caused by human activities such as burning fossil fuels and deforestation",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.531451838372214
+    },
+    {
+      "name": "hydrological cycle",
+      "label": "ocean circulation",
+      "description": "The continuous process by which water is circulated between the Earth's oceans, atmosphere, and land, influenced by factors such as climate, topography, and human activities",
+      "uuid": "885735f3-121e-4ca0-ac8b-f37dbc972f03",
+      "score": 0.5546891125718355
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The sources of water available for human use, including surface water, groundwater, and atmospheric water",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6822174182202208
+    },
+    {
+      "name": "annual precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of precipitation that occurs within a year, influencing water availability and climate patterns",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5322395108013268
+    },
+    {
+      "name": "surface water",
+      "label": "variable",
+      "description": "Water that collects on the surface of the Earth, including rivers, lakes, and reservoirs",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6936875265915871
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface in soil and rock, often used for irrigation, drinking water, and industrial purposes",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6815319438040236
+    }
+  ],
+  "(4391, 6660)": [
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its diverse climate, geography, and socio-economic conditions",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6635912879691787
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface in soil and in the fractured rock formations called aquifers",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6721610516252419
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "The artificial application of water to land or soil, primarily to support agricultural production in areas with low rainfall",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7020617372658257
+    },
+    {
+      "name": "canals",
+      "label": "instrument",
+      "description": "Man-made waterways used for irrigation, transportation, and other purposes",
+      "uuid": "a0c33d15-b76c-4a0d-abb7-6919102b2977",
+      "score": 0.6379033381657
+    },
+    {
+      "name": "reservoirs",
+      "label": "instrument",
+      "description": "Artificial or natural bodies of water used for storing and regulating water supply",
+      "uuid": "3d64f625-fb84-4178-ad08-4be2dd15979b",
+      "score": 0.558154971957119
+    },
+    {
+      "name": "rainfall",
+      "label": "weather event",
+      "description": "The precipitation that occurs when water droplets in the atmosphere fall to the ground",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5628525162126887
+    },
+    {
+      "name": "ponds",
+      "label": "instrument",
+      "description": "Small bodies of still water, often used for storing water or as a habitat for aquatic life",
+      "uuid": "89228e69-5a64-4662-839f-cb3d2209fa41",
+      "score": 0.6933790587265006
+    },
+    {
+      "name": "river basins",
+      "label": "location",
+      "description": "The area of land that drains water into a particular river or sea",
+      "uuid": "272700c5-d762-452b-8e9f-130e3a51efb5",
+      "score": 0.6299788847790002
+    },
+    {
+      "name": "monsoon season",
+      "label": "weather event",
+      "description": "A seasonal weather pattern characterized by significant rainfall and wind changes, typically occurring in tropical and subtropical regions",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6833745817216154
+    }
+  ],
+  "(6197, 8815)": [
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "The water stored beneath Earth's surface in soil and in the fractured rock formations called aquifers",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.667533166141046
+    },
+    {
+      "name": "irrigated agriculture",
+      "label": "project",
+      "description": "Agricultural practices that use irrigation systems to supply water to crops, enhancing crop yields and food security",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6138282162519895
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "Long-term changes in the Earth's climate, resulting from natural and human-induced factors, with significant impacts on the environment, ecosystems, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5969369689749827
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its diverse climate, geography, and population",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6520268869343536
+    },
+    {
+      "name": "WWAP",
+      "label": "provider",
+      "description": "The World Water Assessment Programme, an initiative to assess and report on the world's freshwater resources",
+      "uuid": "3df78b6b-7afc-4e5e-af81-2af4081d6248",
+      "score": 0.8034721768091707
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The state of having reliable access to sufficient quantities of affordable, nutritious food",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7121760221831106
+    }
+  ],
+  "(8428, 11560)": [
+    {
+      "name": "WWAP",
+      "label": "provider",
+      "description": "The World Water Assessment Programme, an initiative of the United Nations to assess and report on the world's freshwater resources",
+      "uuid": "3df78b6b-7afc-4e5e-af81-2af4081d6248",
+      "score": 0.8146703589203178
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface in soil and in the fractured rock formations called aquifers",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6721610516252419
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The state of having, at all times, both physical and economic access to sufficient food to meet dietary needs for a productive and healthy life",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7023412089298585
+    },
+    {
+      "name": "agriculture",
+      "label": "project",
+      "description": "The practice of cultivating the soil, growing crops, and raising livestock, which is essential for food production and human sustenance",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5105355381746584
+    },
+    {
+      "name": "floating solar panels",
+      "label": "instrument",
+      "description": "Solar panels installed on floating structures, often used to generate electricity while reducing evaporation from water bodies",
+      "uuid": "9ff1f885-108f-40cb-a054-4e076b8d648b",
+      "score": 0.5170716433262731
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its arid climate and water scarcity issues",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.6090680739688561
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, often leading to water loss and affecting water availability",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.6773540384116933
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, often leading to water scarcity and affecting agriculture and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7002031640879759
+    },
+    {
+      "name": "organic matter",
+      "label": "variable",
+      "description": "Carbon-based compounds found in soil, water, and living organisms, which play a crucial role in ecosystem health and fertility",
+      "uuid": "e82c0632-5a3c-4da2-ba10-55c0fc222580",
+      "score": 0.7578779890600562
+    },
+    {
+      "name": "algae",
+      "label": "variable",
+      "description": "Simple aquatic plants that can grow in water bodies, often affecting water quality and ecosystem health",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.5056127877423012
+    }
+  ],
+  "(11062, 14229)": [
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its diverse climate and geography",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7278064917514607
+    },
+    {
+      "name": "water bodies",
+      "label": "location",
+      "description": "Areas of water such as lakes, rivers, and reservoirs, which play a crucial role in the hydrological cycle and ecosystem balance",
+      "uuid": "959f1861-a776-41b1-ba6b-d23c71d4d1eb",
+      "score": 0.5691561112399077
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water transforms from a liquid state into a vapor, affecting the Earth's climate and water availability",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.7050852070785921
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on agriculture and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7161091632729676
+    },
+    {
+      "name": "agricultural production",
+      "label": "project",
+      "description": "The process of cultivating crops and raising livestock for food, fiber, and other products, influenced by climate and environmental factors",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5582838941175765
+    },
+    {
+      "name": "solar power plants",
+      "label": "project",
+      "description": "Renewable energy facilities that convert sunlight into electricity, potentially located on water bodies as floating installations",
+      "uuid": "9ff1f885-108f-40cb-a054-4e076b8d648b",
+      "score": 0.5310488446133281
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country with diverse climate regions and a significant player in global climate discussions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6300309791617482
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country with a large and diverse geography, experiencing various climate conditions and actively involved in climate change mitigation efforts",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.61949052917603
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "An island nation in East Asia, known for its innovative technologies and climate-resilient strategies",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.597661924230794
+    },
+    {
+      "name": "UK",
+      "label": "location",
+      "description": "The United Kingdom, a country with a temperate maritime climate, engaged in global climate change research and policy discussions",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6644192337662257
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia with a diverse climate, actively pursuing climate change mitigation and adaptation strategies",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6779217917871773
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water stored beneath the Earth's surface in soil and in the fractured rock formations called aquifers, crucial for human consumption and agriculture",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6714425606245259
+    }
+  ],
+  "(13620, 15836)": [
+    {
+      "name": "water resources managers",
+      "label": "provider",
+      "description": "Individuals or organizations responsible for the management and conservation of water resources",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5688178487997819
+    },
+    {
+      "name": "agriculture sector",
+      "label": "platform",
+      "description": "The part of the economy that deals with the production, processing, and distribution of agricultural products",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5028866482250417
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the statistical distribution of weather patterns over significant periods, often resulting in more extreme weather events and altering ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5584256564488369
+    },
+    {
+      "name": "chemicals",
+      "label": "variable",
+      "description": "Substances used in various sectors, including agriculture, to enhance productivity, control pests, and improve crop yields",
+      "uuid": "afd084b9-1f4c-4eb5-a58e-689a360e7abf",
+      "score": 0.6382250836622063
+    }
+  ]
+}

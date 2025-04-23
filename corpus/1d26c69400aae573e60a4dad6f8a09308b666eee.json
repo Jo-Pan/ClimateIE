@@ -1,0 +1,892 @@
+{
+  "(0, 2973)": [
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse hydroclimatic regions and lakes",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6783136022350069
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air above the Earth's surface, influencing lake thermal and mixing regimes",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6298823465243013
+    },
+    {
+      "name": "water clarity",
+      "label": "variable",
+      "description": "A measure of the transparency or turbidity of water, affecting the amount of light that penetrates and influences lake thermal dynamics",
+      "uuid": "0eaf009f-f92b-48b5-8a71-9c44c80d03d4",
+      "score": 0.5643978175364585
+    },
+    {
+      "name": "ice cover",
+      "label": "variable",
+      "description": "The extent and duration of ice covering a lake's surface, influenced by climate change and affecting lake ecosystems",
+      "uuid": "2adde197-3f0f-4eda-ae00-a337dfa853c3",
+      "score": 0.5254188125644385
+    },
+    {
+      "name": "wind stress",
+      "label": "variable",
+      "description": "The force exerted by wind on the surface of a lake, influencing lake mixing and thermal dynamics",
+      "uuid": "91aad519-c0cf-4350-882d-429bee5c5e4b",
+      "score": 0.6446850434395134
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon of rising temperatures and altered weather patterns, posing risks to water quality and ecosystem services in lakes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5091001225827659
+    }
+  ],
+  "(2508, 5380)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate system, including rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.606798545930918
+    },
+    {
+      "name": "lake surface temperatures",
+      "label": "variable",
+      "description": "The temperature of the surface water in lakes, which can be influenced by climate change, lake geometry, and other factors",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.5687382936970782
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air relative to its capacity to hold moisture, which can impact lake surface temperatures and other climate-related phenomena",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.6776187062177185
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The speed at which air moves, which can influence lake surface temperatures, mixing, and other processes",
+      "uuid": "a7ce84a3-8329-4eb7-b5de-72d2dea8c6bf",
+      "score": 0.636376338356182
+    },
+    {
+      "name": "lake ecosystems",
+      "label": "location",
+      "description": "The communities of living organisms and their interactions within lakes, which can be vulnerable to climate change",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5064809076150815
+    },
+    {
+      "name": "U.S. lakes",
+      "label": "location",
+      "description": "Lakes located within the United States, which can be affected by climate change and other environmental factors",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.5756420828842954
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A General Circulation Model, a type of climate model used to simulate and predict the behavior of the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7507449554567136
+    },
+    {
+      "name": "hypolimnetic anoxia",
+      "label": "natural hazard",
+      "description": "A condition in which the deeper water in a lake lacks oxygen, which can have negative impacts on aquatic life",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.5315834736660495
+    },
+    {
+      "name": "phosphorus",
+      "label": "variable",
+      "description": "A nutrient that can be recycled from lake sediment and influence the growth of aquatic plants and algae",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5611028900211664
+    },
+    {
+      "name": "food webs",
+      "label": "location",
+      "description": "The networks of relationships between organisms in an ecosystem, which can be reorganized in response to climate change",
+      "uuid": "4a55497b-8e07-431a-9af9-fece001f1dd7",
+      "score": 0.5678197665965271
+    },
+    {
+      "name": "experimental ponds",
+      "label": "platform",
+      "description": "Artificially created ponds used for scientific experiments, such as studying the impacts of climate change on lake ecosystems",
+      "uuid": "89228e69-5a64-4662-839f-cb3d2209fa41",
+      "score": 0.5348142405355932
+    },
+    {
+      "name": "Denmark",
+      "label": "location",
+      "description": "A country in Europe where experimental ponds were used to study the impacts of climate change on lake ecosystems",
+      "uuid": "98f7f9f6-90cb-4f52-8bec-8d21dd310c30",
+      "score": 0.5555133828696914
+    },
+    {
+      "name": "community structure",
+      "label": "variable",
+      "description": "The composition and organization of species within an ecosystem, which can be influenced by climate change and other environmental factors",
+      "uuid": "f42c849c-7113-4c69-a01e-52ebc5e7b44d",
+      "score": 0.69605650586305
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "A type of aquatic plant that can be influenced by climate change and other environmental factors",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6675244636389494
+    },
+    {
+      "name": "zooplankton",
+      "label": "variable",
+      "description": "A type of small aquatic animal that can be influenced by climate change and other environmental factors",
+      "uuid": "0399b52c-e3de-4dcc-9eb6-b1e3acf2cf1b",
+      "score": 0.6913561710469743
+    },
+    {
+      "name": "non-native invasive species",
+      "label": "natural hazard",
+      "description": "Species that are introduced to an ecosystem and can cause harm to native species and the environment",
+      "uuid": "7bfdbe8d-3945-4678-a90b-d2251f973955",
+      "score": 0.6893775208110557
+    },
+    {
+      "name": "cyanobacterial blooms",
+      "label": "natural hazard",
+      "description": "The rapid growth of cyanobacteria in a lake, which can produce toxins and harm aquatic life",
+      "uuid": "166de4c9-89ad-4248-b771-512beb1705cf",
+      "score": 0.5316824492871415
+    }
+  ],
+  "(4871, 7899)": [
+    {
+      "name": "phytoplankton groups",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that live in water and are a crucial component of aquatic food webs",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6764507473571914
+    },
+    {
+      "name": "nutrient recycling",
+      "label": "variable",
+      "description": "The process by which nutrients are released from one part of an ecosystem and made available to other parts",
+      "uuid": "7a33a978-8ef6-4313-b489-c06cfc6d9cec",
+      "score": 0.609859162323493
+    },
+    {
+      "name": "non-native invasive species",
+      "label": "natural hazard",
+      "description": "Species that are introduced to an ecosystem where they do not naturally occur and can cause harm to the environment and native species",
+      "uuid": "7bfdbe8d-3945-4678-a90b-d2251f973955",
+      "score": 0.6891867115011769
+    },
+    {
+      "name": "cyanobacteria",
+      "label": "variable",
+      "description": "A type of bacteria that can form harmful blooms in water, often associated with increased nutrient levels and climate change",
+      "uuid": "166de4c9-89ad-4248-b771-512beb1705cf",
+      "score": 0.6432437444754145
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the Earth's climate, driven by human activities and natural factors, with far-reaching impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5890994883705971
+    },
+    {
+      "name": "potable water treatability",
+      "label": "variable",
+      "description": "The ability of water to be treated and made safe for human consumption",
+      "uuid": "dac96944-5a5e-4b2a-802d-74627bb93db9",
+      "score": 0.6409953971214909
+    },
+    {
+      "name": "photic zone",
+      "label": "location",
+      "description": "The layer of water closest to the surface where sunlight penetrates, supporting photosynthesis and aquatic life",
+      "uuid": "4e8943e7-daf9-41f2-8a5e-b415b82e6381",
+      "score": 0.5787693275527958
+    },
+    {
+      "name": "thermocline",
+      "label": "location",
+      "description": "A layer in a body of water where the temperature changes rapidly with depth, often separating the warmer surface waters from the colder deeper waters",
+      "uuid": "68772b70-e493-48d5-b063-00b9d2dd4078",
+      "score": 0.7169318477256381
+    },
+    {
+      "name": "climate warming",
+      "label": "teleconnection",
+      "description": "The process of increasing global temperatures due to human activities and natural factors, with significant impacts on ecosystems and human societies",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6688248081317648
+    },
+    {
+      "name": "U.S. EPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, responsible for protecting the environment and public health",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7463353155823202
+    }
+  ],
+  "(7464, 9974)": [
+    {
+      "name": "U.S. EPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, responsible for protecting human health and the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7492946671673766
+    },
+    {
+      "name": "LISSS",
+      "label": "model",
+      "description": "The Lake, Ice, Snow, and Sediment Simulator, a corrected and enhanced version of the Hostetler model",
+      "uuid": "cde74f5c-0ce2-442b-8b60-0ab30f6882c6",
+      "score": 0.5197931007533066
+    },
+    {
+      "name": "Community Land Model 4",
+      "label": "model",
+      "description": "A land surface model used in the Community Earth System Model",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6340852449371839
+    },
+    {
+      "name": "Community Earth System Model 1",
+      "label": "model",
+      "description": "A coupled climate model that simulates the Earth's climate system",
+      "uuid": "8894d92c-be32-465b-ae08-e5de755a92fc",
+      "score": 0.6933149959064406
+    },
+    {
+      "name": "Secchi depth",
+      "label": "variable",
+      "description": "A measure of water clarity, defined as the depth at which a Secchi disk is no longer visible",
+      "uuid": "954c2f25-3ec8-4774-ba34-fa4289f33f0e",
+      "score": 0.7410168618928584
+    },
+    {
+      "name": "aerosol deposition",
+      "label": "variable",
+      "description": "The process by which aerosols are deposited onto the surface of lakes or other bodies of water",
+      "uuid": "5b775d6e-de6c-4b11-b986-3c3a32cbf66d",
+      "score": 0.5682658987656052
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "The measure of the amount of sunlight that is reflected by a surface, such as a lake or snow cover",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7483359147710525
+    },
+    {
+      "name": "snow",
+      "label": "variable",
+      "description": "A component of the Earth's climate system, affecting the energy balance and hydrology of lakes",
+      "uuid": "09c21315-faba-446c-b060-136705972347",
+      "score": 0.6243272714323951
+    },
+    {
+      "name": "ice",
+      "label": "variable",
+      "description": "A component of the Earth's climate system, affecting the energy balance and hydrology of lakes",
+      "uuid": "481cc0cb-3e52-45e4-bf6e-3bb0c43e3392",
+      "score": 0.5580946309282774
+    },
+    {
+      "name": "sediment",
+      "label": "variable",
+      "description": "A component of the Earth's climate system, affecting the energy balance and hydrology of lakes",
+      "uuid": "858d3f93-f2eb-4d2a-87c5-68018f206a47",
+      "score": 0.5733207788894098
+    }
+  ],
+  "(9523, 12537)": [
+    {
+      "name": "aerosol deposition",
+      "label": "variable",
+      "description": "The process by which aerosols settle onto the surface, affecting albedo and climate",
+      "uuid": "5b775d6e-de6c-4b11-b986-3c3a32cbf66d",
+      "score": 0.6066234041204833
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "A measure of the amount of solar radiation reflected by a surface, influencing Earth's energy balance",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7864533100661236
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, an important component of the water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.6869757883781952
+    },
+    {
+      "name": "hourly meteorological time series",
+      "label": "variable",
+      "description": "A dataset of atmospheric conditions, such as temperature, precipitation, and wind speed, recorded at hourly intervals",
+      "uuid": "027dee16-b361-481e-868d-add966eb5b71",
+      "score": 0.6156908097913305
+    },
+    {
+      "name": "CESM1",
+      "label": "model",
+      "description": "The Community Earth System Model version 1, a comprehensive climate model that simulates the Earth's climate system",
+      "uuid": "8894d92c-be32-465b-ae08-e5de755a92fc",
+      "score": 0.7633537229665656
+    },
+    {
+      "name": "CLM4",
+      "label": "model",
+      "description": "The Community Land Model version 4, a component of the CESM that simulates land surface processes",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.632907602926062
+    },
+    {
+      "name": "NARCCAP",
+      "label": "project",
+      "description": "The North American Regional Climate Change Assessment Program, a project that evaluates regional climate change scenarios",
+      "uuid": "94fc6f2b-b416-4b76-bbe9-2b3dd7ba6205",
+      "score": 0.5653092495842967
+    },
+    {
+      "name": "U.S. EPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, a federal agency responsible for protecting human health and the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7562784222974401
+    },
+    {
+      "name": "water temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of lake water, an important indicator of lake health and climate change",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.6178786502434669
+    },
+    {
+      "name": "ice cover",
+      "label": "variable",
+      "description": "The extent and thickness of ice on a lake's surface, influencing lake ecology and climate",
+      "uuid": "50f0cf56-c119-4ac1-9a88-8eb04fa666ad",
+      "score": 0.5323169407725592
+    }
+  ],
+  "(12037, 15038)": [
+    {
+      "name": "BASINS Meteorological Database",
+      "label": "project",
+      "description": "A database project that provides meteorological data for the United States, maintained by the U.S. Environmental Protection Agency",
+      "uuid": "c8962003-c42d-4788-9b2b-60ebaff5de67",
+      "score": 0.5055341243648465
+    },
+    {
+      "name": "U.S. EPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, a federal agency responsible for protecting human health and the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7562784222974401
+    },
+    {
+      "name": "NARCCAP",
+      "label": "project",
+      "description": "The North American Regional Climate Change Assessment Program, a project that focuses on studying regional climate change in North America",
+      "uuid": "94fc6f2b-b416-4b76-bbe9-2b3dd7ba6205",
+      "score": 0.5798783260106676
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, an important factor in climate and environmental studies",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6645455978596335
+    },
+    {
+      "name": "water temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of water bodies, such as lakes or oceans, which is influenced by climate and environmental factors",
+      "uuid": "46206e8c-8def-406f-9e62-da4e74633a58",
+      "score": 0.7036057231810489
+    },
+    {
+      "name": "ice cover",
+      "label": "variable",
+      "description": "The extent and thickness of ice covering a body of water, which is influenced by climate and environmental factors",
+      "uuid": "50f0cf56-c119-4ac1-9a88-8eb04fa666ad",
+      "score": 0.6157207302165398
+    },
+    {
+      "name": "Colorado",
+      "label": "location",
+      "description": "A state in the United States, known for its high-altitude regions and varied climate",
+      "uuid": "e10d421b-11fd-4344-b0ad-b4d3eaec2fe5",
+      "score": 0.6333814427600415
+    },
+    {
+      "name": "Secchi depth",
+      "label": "variable",
+      "description": "A measure of the clarity of water, typically measured by the depth at which a Secchi disk is no longer visible",
+      "uuid": "954c2f25-3ec8-4774-ba34-fa4289f33f0e",
+      "score": 0.7460819686149525
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the surface of a body of water or the Earth's surface",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6994385209399313
+    },
+    {
+      "name": "thermocline",
+      "label": "ocean circulation",
+      "description": "A layer in a body of water where the temperature changes rapidly with depth, which plays a role in ocean circulation and climate regulation",
+      "uuid": "68772b70-e493-48d5-b063-00b9d2dd4078",
+      "score": 0.7430995417746259
+    },
+    {
+      "name": "fetch",
+      "label": "variable",
+      "description": "The distance over which wind blows without interruption, which can influence the formation of waves and the mixing of water in a lake",
+      "uuid": "09b326df-79b3-41b8-8998-e06344b0fe0d",
+      "score": 0.6632796383142315
+    }
+  ],
+  "(14583, 17595)": [
+    {
+      "name": "atmospheric temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air surrounding the Earth, influencing climate and weather patterns",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.683192155776025
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water, releasing oxygen as a byproduct",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.7274057929427284
+    },
+    {
+      "name": "Secchi depth",
+      "label": "variable",
+      "description": "A measure of the transparency of water, defined as the depth at which a Secchi disk is no longer visible",
+      "uuid": "954c2f25-3ec8-4774-ba34-fa4289f33f0e",
+      "score": 0.7346319525127993
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The percentage of water vapor in the air compared to the maximum amount the air can hold at a given temperature",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7300042341490018
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air surrounding the Earth, influencing climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.656316514889714
+    },
+    {
+      "name": "wind stress",
+      "label": "variable",
+      "description": "The force exerted by wind on the surface of the water, influencing water circulation and mixing",
+      "uuid": "91aad519-c0cf-4350-882d-429bee5c5e4b",
+      "score": 0.705115339949104
+    },
+    {
+      "name": "surface water temperature",
+      "label": "variable",
+      "description": "The temperature of the surface layer of a body of water, such as a lake or ocean",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6201025181386093
+    },
+    {
+      "name": "New Durham, NH",
+      "label": "location",
+      "description": "A town in the state of New Hampshire, United States, used as a reference location for climate data",
+      "uuid": "b718ee0e-588c-479c-8958-3101030e4a90",
+      "score": 0.5236301292663386
+    },
+    {
+      "name": "winter ice cover",
+      "label": "natural hazard",
+      "description": "The formation of ice on the surface of lakes and rivers during the winter months, influencing ecosystem processes and human activities",
+      "uuid": "2adde197-3f0f-4eda-ae00-a337dfa853c3",
+      "score": 0.5637593453003138
+    },
+    {
+      "name": "snow pack",
+      "label": "natural hazard",
+      "description": "The accumulation of snow on the surface of the ground, influencing climate, ecosystems, and human activities",
+      "uuid": "abc70f23-f386-41da-b1ad-43cd7aebe7c4",
+      "score": 0.535736196026319
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The energy emitted by the sun, influencing climate, weather, and ecosystem processes",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.7023326314360926
+    }
+  ],
+  "(17103, 20171)": [
+    {
+      "name": "LISSS model",
+      "label": "model",
+      "description": "A comprehensive climate model that integrates physical, chemical, and biological processes to simulate Earth's climate system, specifically designed for lake ecosystems",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.5230155278443853
+    },
+    {
+      "name": "New Hampshire",
+      "label": "location",
+      "description": "A state in the northeastern United States, known for its varied climate and geography",
+      "uuid": "a2e161cb-6448-47b0-ab56-c15308152181",
+      "score": 0.6813244138530307
+    },
+    {
+      "name": "ice coverage",
+      "label": "variable",
+      "description": "The duration and extent of ice cover on a lake, influenced by climate and weather patterns",
+      "uuid": "50f0cf56-c119-4ac1-9a88-8eb04fa666ad",
+      "score": 0.5277501716894318
+    },
+    {
+      "name": "climate change scenarios",
+      "label": "experiment",
+      "description": "Simulations or projections of future climate conditions, used to study the potential impacts of climate change on various systems",
+      "uuid": "6062293a-f372-4e65-9bab-27355f0ebc59",
+      "score": 0.5049620813480182
+    },
+    {
+      "name": "wind stress",
+      "label": "variable",
+      "description": "The force exerted by wind on the surface of a lake or ocean, affecting mixing and circulation patterns",
+      "uuid": "91aad519-c0cf-4350-882d-429bee5c5e4b",
+      "score": 0.7044016463853869
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the surface of the Earth, influencing climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6675469855309338
+    },
+    {
+      "name": "insolation",
+      "label": "variable",
+      "description": "The amount of solar radiation received by the Earth's surface, affecting climate and ecosystems",
+      "uuid": "6b3be650-6625-40b5-9b40-9e7c8a9fd336",
+      "score": 0.6285942571628331
+    },
+    {
+      "name": "Secchi depth",
+      "label": "variable",
+      "description": "A measure of water clarity, defined as the depth at which a Secchi disk is no longer visible, used to assess water quality",
+      "uuid": "954c2f25-3ec8-4774-ba34-fa4289f33f0e",
+      "score": 0.7444221072763761
+    },
+    {
+      "name": "water quality conditions",
+      "label": "variable",
+      "description": "The physical, chemical, and biological characteristics of water in a lake or ocean, influencing aquatic ecosystems and human uses",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.6824005641071674
+    },
+    {
+      "name": "surface layer temperature",
+      "label": "variable",
+      "description": "The temperature of the surface layer of a lake or ocean, influencing climate and weather patterns",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5872539761539346
+    },
+    {
+      "name": "bottom layer temperature",
+      "label": "variable",
+      "description": "The temperature of the deepest layer of a lake or ocean, influenced by climate and weather patterns",
+      "uuid": "e9c3b6ca-a534-4f3e-82de-b8b921e8f312",
+      "score": 0.5424846616510278
+    }
+  ],
+  "(19624, 22862)": [
+    {
+      "name": "lake",
+      "label": "location",
+      "description": "A body of fresh or saltwater surrounded by land, varying in size, depth, and characteristics, and playing a crucial role in the Earth's hydrological cycle and climate regulation",
+      "uuid": "57a3a5a7-66b9-4a4a-82da-7b09d82c684a",
+      "score": 0.5824002141876329
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse climate regions and lake ecosystems",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6535194997931308
+    },
+    {
+      "name": "wind",
+      "label": "variable",
+      "description": "A natural movement of air in the atmosphere, influencing weather patterns, climate, and lake ecosystems",
+      "uuid": "a628333f-aea2-42cf-b930-c8c859ee0547",
+      "score": 0.5364476957454911
+    },
+    {
+      "name": "Secchi depth",
+      "label": "variable",
+      "description": "A measure of water clarity, defined as the depth at which a Secchi disk is no longer visible, and used to assess lake water quality",
+      "uuid": "954c2f25-3ec8-4774-ba34-fa4289f33f0e",
+      "score": 0.7295805999650403
+    },
+    {
+      "name": "turbidity",
+      "label": "variable",
+      "description": "A measure of the cloudiness or haziness of water, caused by the presence of suspended particles, and affecting lake ecosystems and water quality",
+      "uuid": "68e2c729-f729-4936-af2e-0ecf7ee7d231",
+      "score": 0.7326781034931664
+    },
+    {
+      "name": "dissolved oxygen",
+      "label": "variable",
+      "description": "The amount of oxygen dissolved in water, essential for aquatic life and a key indicator of lake water quality",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.7631329933668749
+    },
+    {
+      "name": "dissolved gases",
+      "label": "variable",
+      "description": "Gases dissolved in water, including oxygen, nitrogen, and carbon dioxide, and influencing lake ecosystems and water chemistry",
+      "uuid": "ac933400-3c8c-4db4-ac68-5e8ed06c8336",
+      "score": 0.6866504271290887
+    },
+    {
+      "name": "thermocline",
+      "label": "ocean circulation",
+      "description": "A layer in a body of water where the temperature changes rapidly with depth, playing a crucial role in lake stratification and ecosystems",
+      "uuid": "68772b70-e493-48d5-b063-00b9d2dd4078",
+      "score": 0.6972873054190143
+    },
+    {
+      "name": "ice cover",
+      "label": "variable",
+      "description": "The extent of ice covering a lake or sea, influencing lake ecosystems, climate, and water quality",
+      "uuid": "63b37017-9d57-4247-af4e-2df36ee3ed03",
+      "score": 0.575327532312613
+    },
+    {
+      "name": "northern lakes",
+      "label": "location",
+      "description": "Lakes located in the northern regions of the U.S. or other countries, characterized by unique climate conditions and ecosystems",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.5252566997437677
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, influencing climate, weather patterns, and lake ecosystems",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6012612039032647
+    }
+  ],
+  "(22351, 25360)": [
+    {
+      "name": "cyanobacterial blooms",
+      "label": "natural hazard",
+      "description": "Excessive growth of cyanobacteria in water bodies, potentially harmful to aquatic life and human health",
+      "uuid": "1b6e67ff-351f-490c-bb43-646ac71f52ea",
+      "score": 0.602239446928555
+    },
+    {
+      "name": "mixed zone",
+      "label": "location",
+      "description": "The layer of water in a lake that is in contact with the atmosphere and is subject to mixing by wind and other external factors",
+      "uuid": "48ec6449-373c-41f6-8a61-8f1e9ed95737",
+      "score": 0.5458147242754698
+    },
+    {
+      "name": "thermocline",
+      "label": "ocean circulation",
+      "description": "The layer in a body of water where the temperature changes rapidly with depth, often marking the boundary between the mixed zone and the deeper, colder water",
+      "uuid": "68772b70-e493-48d5-b063-00b9d2dd4078",
+      "score": 0.7057076417122412
+    },
+    {
+      "name": "turbid lakes",
+      "label": "location",
+      "description": "Lakes with high levels of suspended particles or sediments, which can affect the penetration of light and the growth of aquatic plants",
+      "uuid": "68e2c729-f729-4936-af2e-0ecf7ee7d231",
+      "score": 0.5135348266081213
+    },
+    {
+      "name": "light penetration",
+      "label": "variable",
+      "description": "The depth to which light can penetrate into a body of water, influencing the growth of aquatic plants and the overall ecosystem",
+      "uuid": "45351e81-fcd4-46a1-9222-315946caefc7",
+      "score": 0.5224077012817984
+    },
+    {
+      "name": "Tracy, Minnesota",
+      "label": "location",
+      "description": "A city located in the state of Minnesota, USA, known for its cold climate and aquatic ecosystems",
+      "uuid": "2e2d65b6-d3de-4921-877c-2d3a4e447978",
+      "score": 0.5133131045804331
+    },
+    {
+      "name": "New Durham, New Hampshire",
+      "label": "location",
+      "description": "A town located in the state of New Hampshire, USA, known for its cold climate and aquatic ecosystems",
+      "uuid": "a2e161cb-6448-47b0-ab56-c15308152181",
+      "score": 0.5265889735020208
+    },
+    {
+      "name": "U.S. EPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, a government agency responsible for protecting the environment and public health",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7462351641915568
+    },
+    {
+      "name": "freshwater flows",
+      "label": "variable",
+      "description": "The amount of water flowing into a lake or river, influencing the aquatic ecosystem and the overall health of the environment",
+      "uuid": "bdd42024-d1a4-4fb2-a16a-06ac0cc1dedc",
+      "score": 0.5302036591289884
+    },
+    {
+      "name": "snowpack",
+      "label": "variable",
+      "description": "The amount of snow that accumulates on the ground, influencing the amount of water available for freshwater flows and the overall health of the environment",
+      "uuid": "abc70f23-f386-41da-b1ad-43cd7aebe7c4",
+      "score": 0.5210541665404922
+    },
+    {
+      "name": "sediment",
+      "label": "variable",
+      "description": "Particulate matter that settles to the bottom of a lake or river, influencing the aquatic ecosystem and the overall health of the environment",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.5768539267198337
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances that are essential for the growth of aquatic organisms, often transported into lakes and rivers through the watershed",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.6059423169223159
+    }
+  ],
+  "(24818, 26661)": [
+    {
+      "name": "U.S. EPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, responsible for protecting human health and the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7492946671673766
+    },
+    {
+      "name": "freshwater flows",
+      "label": "variable",
+      "description": "The movement of freshwater in rivers, lakes, and other bodies of water, influenced by climate, geology, and human activities",
+      "uuid": "915399a1-eb5b-475b-ae9a-ff45f1dcddc9",
+      "score": 0.5674206082170299
+    },
+    {
+      "name": "snowpack",
+      "label": "variable",
+      "description": "The accumulation of snow on the ground, which affects water availability, climate, and ecosystems",
+      "uuid": "abc70f23-f386-41da-b1ad-43cd7aebe7c4",
+      "score": 0.5264530518743422
+    },
+    {
+      "name": "watershed",
+      "label": "location",
+      "description": "An area of land that drains water into a particular river, lake, or ocean, influencing water quality and quantity",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.6936473827153204
+    },
+    {
+      "name": "sediment",
+      "label": "variable",
+      "description": "Material that settles to the bottom of a body of water, affecting water quality and aquatic ecosystems",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6071788256016694
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances necessary for the growth and development of living organisms, often found in water and soil",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.6696763154345206
+    },
+    {
+      "name": "lake",
+      "label": "location",
+      "description": "A body of freshwater surrounded by land, supporting diverse ecosystems and affected by climate change",
+      "uuid": "57a3a5a7-66b9-4a4a-82da-7b09d82c684a",
+      "score": 0.5762784160143337
+    },
+    {
+      "name": "Princeton Environmental Institute",
+      "label": "provider",
+      "description": "An academic institution focused on environmental research and education",
+      "uuid": "b370b76f-6c46-4aeb-b3ed-4ff3bde74816",
+      "score": 0.5080882011103074
+    },
+    {
+      "name": "Lomonosov Moscow State University",
+      "label": "provider",
+      "description": "A Russian university known for its research and academic programs in various fields, including environmental science",
+      "uuid": "94ce3300-5609-4bc0-b1a0-dea48f6422d3",
+      "score": 0.5184729166899625
+    },
+    {
+      "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+      "label": "provider",
+      "description": "A Canadian university with research and academic programs in environmental science and other fields",
+      "uuid": "fba61a8f-63ee-4193-8c85-30dc6e0ea242",
+      "score": 0.5018731238993862
+    },
+    {
+      "name": "University of Helsinki",
+      "label": "provider",
+      "description": "A Finnish university with research and academic programs in environmental science and other fields",
+      "uuid": "ddcd1697-9084-4eea-8560-5eebb1de49e4",
+      "score": 0.5215740373547109
+    },
+    {
+      "name": "National Center for Atmospheric Research",
+      "label": "provider",
+      "description": "A research institution focused on atmospheric and climate science",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.6896882992626212
+    },
+    {
+      "name": "NARC CAP",
+      "label": "project",
+      "description": "A research project or dataset related to climate modeling and atmospheric research",
+      "uuid": "acb1f3b8-5938-4b4a-9557-e765fea797e4",
+      "score": 0.6000236431999755
+    },
+    {
+      "name": "National Science Foundation",
+      "label": "provider",
+      "description": "A U.S. government agency that supports scientific research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.7079319206558422
+    },
+    {
+      "name": "U.S. Environmental Protection Agency Office of Research and Development",
+      "label": "provider",
+      "description": "A division of the U.S. EPA focused on research and development to protect the environment",
+      "uuid": "c9a5ad1e-681e-4f6d-af71-acd00d6b4a43",
+      "score": 0.5603243499971289
+    }
+  ]
+}

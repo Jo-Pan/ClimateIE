@@ -1,0 +1,1426 @@
+{
+  "(0, 2843)": [
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, including the levels of pollutants such as PM10, PM2.5, O3, SO2, NO2, and CO",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6454655486749318
+    },
+    {
+      "name": "PM 10",
+      "label": "variable",
+      "description": "A measure of particulate matter with a diameter of 10 micrometers or less, often used to assess air quality",
+      "uuid": "2cd061e7-f351-46fa-8432-fb36faef3bbe",
+      "score": 0.7103025562338765
+    },
+    {
+      "name": "PM 2.5",
+      "label": "variable",
+      "description": "A measure of particulate matter with a diameter of 2.5 micrometers or less, often used to assess air quality",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.7327865563239121
+    },
+    {
+      "name": "O 3",
+      "label": "variable",
+      "description": "A measure of ozone, a gas that can be harmful to human health and the environment",
+      "uuid": "b4212921-624a-40b6-a5d5-ad1aec695ff8",
+      "score": 0.6032281785497631
+    },
+    {
+      "name": "SO 2",
+      "label": "variable",
+      "description": "A measure of sulfur dioxide, a gas that can be harmful to human health and the environment",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.584822298802376
+    },
+    {
+      "name": "NO 2",
+      "label": "variable",
+      "description": "A measure of nitrogen dioxide, a gas that can be harmful to human health and the environment",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.5743650439584022
+    },
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "A measure of carbon monoxide, a gas that can be harmful to human health and the environment",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.6051145597091939
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "A measure of organic material that can be burned for energy or other purposes",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.6375966162391172
+    },
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a scientific agency responsible for providing information on the Earth's natural resources and environment",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.677674029477589
+    },
+    {
+      "name": "LANDSAT-8 OLI",
+      "label": "instrument",
+      "description": "A satellite instrument used to collect data on the Earth's surface and atmosphere",
+      "uuid": "e8a6f9ad-e376-495c-869e-3467526b49ec",
+      "score": 0.7096325434611616
+    },
+    {
+      "name": "LANDSAT-7 ETM +",
+      "label": "instrument",
+      "description": "A satellite instrument used to collect data on the Earth's surface and atmosphere",
+      "uuid": "4dbe7764-a2ea-4a19-b754-696c35ac3205",
+      "score": 0.7303143870566488
+    },
+    {
+      "name": "ESA",
+      "label": "provider",
+      "description": "The European Space Agency, a scientific organization responsible for exploring and understanding the Earth's environment and space",
+      "uuid": "c56b4a86-82f8-4f15-98ba-c5f7abe8ee5a",
+      "score": 0.5302417915599472
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a scientific agency responsible for exploring and understanding the Earth's environment and space",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6863466803544613
+    },
+    {
+      "name": "Arc GIS 10.3",
+      "label": "platform",
+      "description": "A software platform used for creating digital thematic maps and diagrams",
+      "uuid": "67084eeb-2dca-4a4c-b5dd-0c37fc7b6c9a",
+      "score": 0.5159558269494423
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its diverse culture, geography, and climate",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6380582596539947
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its large population, economy, and cultural significance",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6168196651345049
+    },
+    {
+      "name": "World Health Organization",
+      "label": "provider",
+      "description": "A specialized agency of the United Nations responsible for international public health",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6464951579541887
+    }
+  ],
+  "(2366, 4913)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, where the COVID-19 pandemic originated",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5655490134927055
+    },
+    {
+      "name": "World Health Organization (WHO)",
+      "label": "provider",
+      "description": "A specialized agency of the United Nations, responsible for international public health, declaring COVID-19 a Public Health Emergency of International Concern",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6154973343203608
+    },
+    {
+      "name": "Italy",
+      "label": "location",
+      "description": "A country in Southern Europe, where a significant number of COVID-19 cases and deaths were reported",
+      "uuid": "ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4",
+      "score": 0.5916605719508097
+    },
+    {
+      "name": "Italian Institute of Health",
+      "label": "provider",
+      "description": "A national public health institute in Italy, responsible for monitoring and controlling infectious diseases, including COVID-19",
+      "uuid": "429c0733-42d5-4fb8-8d81-a9dee0ebce5d",
+      "score": 0.5875499215017115
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, where a significant number of COVID-19 cases and deaths were reported, with Kerala state being the first to report a positive case",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5122795941853894
+    },
+    {
+      "name": "mortality rate",
+      "label": "variable",
+      "description": "A measure of the number of deaths due to a specific disease, including COVID-19, per unit of population",
+      "uuid": "918c4136-bb4c-422b-9c15-8273307546d1",
+      "score": 0.6017366973947982
+    }
+  ],
+  "(4536, 7211)": [
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, with a diverse geography and climate, and a large population",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6472858365527111
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population and a significant impact on global trade and politics",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6133533072059804
+    },
+    {
+      "name": "World Health Organization",
+      "label": "provider",
+      "description": "A specialized agency of the United Nations, responsible for international public health",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6472735039581099
+    },
+    {
+      "name": "air pollution",
+      "label": "environmental factor",
+      "description": "The presence of pollutants in the air, which can have negative impacts on human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.548118081626821
+    },
+    {
+      "name": "morbidity",
+      "label": "variable",
+      "description": "A measure of the prevalence of disease or illness in a population",
+      "uuid": "8a49484a-a9c8-411b-b911-7646f5323a7b",
+      "score": 0.6480287535781896
+    }
+  ],
+  "(6778, 10126)": [
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, with a diverse geography and climate",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6481526510188572
+    },
+    {
+      "name": "COVID-19",
+      "label": "natural hazard",
+      "description": "A global pandemic caused by the SARS-CoV-2 virus, with significant impacts on human health and the environment",
+      "uuid": "89e3dc82-e76e-48a4-8070-abd70ea5d2fd",
+      "score": 0.5019903055196981
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the level of pollutants in the air, affecting human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6703848045229697
+    },
+    {
+      "name": "environmental sustainability",
+      "label": "project",
+      "description": "The practice of managing resources and reducing pollution to maintain a healthy environment",
+      "uuid": "73266dd6-217a-432f-9237-176d3e94b39b",
+      "score": 0.7111971270840488
+    },
+    {
+      "name": "European Space Agency",
+      "label": "provider",
+      "description": "An intergovernmental organization dedicated to the exploration and development of space",
+      "uuid": "8276d6f9-8fd5-44cd-8dd7-3ca326a9c21e",
+      "score": 0.5278198940188242
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "label": "provider",
+      "description": "A US government agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6565421852787512
+    },
+    {
+      "name": "NO2",
+      "label": "variable",
+      "description": "Nitrogen dioxide, a pollutant that can harm human health and the environment",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.6674449888804487
+    },
+    {
+      "name": "aerosol",
+      "label": "variable",
+      "description": "A suspension of solid or liquid particles in the air, affecting air quality and climate",
+      "uuid": "49c6b17a-73b3-4a88-921e-960c5ceca013",
+      "score": 0.6878998971633463
+    }
+  ],
+  "(9524, 12364)": [
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, an American agency responsible for space exploration and aeronautics research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6951160474337129
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on Earth, consisting of many countries with diverse climates and environments",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6786328224827685
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "The largest continent on Earth, comprising a wide range of countries with varying climates and ecosystems",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.7061093702115316
+    },
+    {
+      "name": "NO2",
+      "label": "variable",
+      "description": "Nitrogen dioxide, a pollutant gas that contributes to air pollution and negatively impacts human health and the environment",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.6782780245759277
+    },
+    {
+      "name": "SO2",
+      "label": "variable",
+      "description": "Sulfur dioxide, a pollutant gas released by industrial activities, affecting air quality and human health",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6699505355177109
+    },
+    {
+      "name": "PM2.5",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 2.5 micrometers or less, a pollutant that affects air quality and human health",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.7532914429090257
+    },
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "Carbon monoxide, a colorless, odorless gas that can be harmful to human health and the environment",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.7141534919883002
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population, diverse ecosystems, and significant environmental challenges",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6082788439837065
+    },
+    {
+      "name": "Kazakhstan",
+      "label": "location",
+      "description": "A country in Central Asia, with a diverse geography, climate, and economy",
+      "uuid": "95ef2448-80da-4419-8c07-f05f7d625796",
+      "score": 0.7375975067597517
+    },
+    {
+      "name": "ESA",
+      "label": "provider",
+      "description": "The European Space Agency, an intergovernmental organization dedicated to space exploration, Earth observation, and environmental monitoring",
+      "uuid": "c56b4a86-82f8-4f15-98ba-c5f7abe8ee5a",
+      "score": 0.5528414657144831
+    },
+    {
+      "name": "CAMS",
+      "label": "provider",
+      "description": "The Copernicus Atmosphere Monitoring Service, a European Union program providing air quality and atmospheric composition data and forecasts",
+      "uuid": "f05736cc-2cac-4df5-8e03-cd572f8f1197",
+      "score": 0.655292589779985
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Western Europe, known for its culture, history, and environmental efforts",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.6703764685726895
+    },
+    {
+      "name": "Spain",
+      "label": "location",
+      "description": "A country in Southwestern Europe, with a diverse climate, culture, and economy",
+      "uuid": "cbbe14fb-a5ee-4236-84ae-cc8dee612b49",
+      "score": 0.684435915809687
+    },
+    {
+      "name": "Italy",
+      "label": "location",
+      "description": "A country in Southern Europe, known for its history, culture, and environmental challenges",
+      "uuid": "ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4",
+      "score": 0.6827158629412796
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, with a strong economy, culture, and environmental efforts",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.5987963955210578
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, including the presence of pollutants and their impact on human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6825620495041508
+    },
+    {
+      "name": "petroleum",
+      "label": "variable",
+      "description": "A fossil fuel used for energy production, transportation, and industrial activities, contributing to air pollution and environmental concerns",
+      "uuid": "44d0ad8f-fe22-4d17-bc47-c0b728a82baf",
+      "score": 0.5873350259997874
+    },
+    {
+      "name": "coal",
+      "label": "variable",
+      "description": "A fossil fuel used for energy production, contributing to air pollution and environmental concerns",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6484072293004093
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of pollutants, such as gases and particulate matter, into the atmosphere, affecting air quality and the environment",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.72300889539805
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The release of waste or pollutants into the environment, affecting air and water quality",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.5772808307461671
+    }
+  ],
+  "(11790, 14448)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its large population, industrial activities, and significant impact on global climate and air quality",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6281963228280243
+    },
+    {
+      "name": "transport sector",
+      "label": "platform",
+      "description": "A system or industry that provides transportation services, including vehicles and infrastructure, which can affect air quality and emissions",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.5268043364476083
+    },
+    {
+      "name": "industrial production",
+      "label": "project",
+      "description": "The process of manufacturing goods and materials, which can generate emissions and pollution",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.568488267349758
+    },
+    {
+      "name": "NO 2 ",
+      "label": "variable",
+      "description": "Nitrogen dioxide, a pollutant that can affect air quality and human health",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.6519820200846749
+    },
+    {
+      "name": "Asian countries",
+      "label": "location",
+      "description": "A region that includes several countries in Asia, which can be affected by air pollution and emissions",
+      "uuid": "5366ab82-ff8b-46a4-85d1-672c8bb23480",
+      "score": 0.5319019882208165
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent that includes several countries, which can be affected by air pollution and emissions",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.5705967700106854
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its large population, industrial activities, and significant impact on global climate and air quality",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6653055436732954
+    },
+    {
+      "name": "PM 2.5",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 2.5 micrometers or less, which can affect air quality and human health",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.7523539585967172
+    },
+    {
+      "name": "SO 2 ",
+      "label": "variable",
+      "description": "Sulfur dioxide, a pollutant that can affect air quality and human health",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6486070645989117
+    },
+    {
+      "name": "CO 2 ",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that can contribute to climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6637277292330784
+    },
+    {
+      "name": "O 3 ",
+      "label": "variable",
+      "description": "Ozone, a pollutant that can affect air quality and human health",
+      "uuid": "b4212921-624a-40b6-a5d5-ad1aec695ff8",
+      "score": 0.5766655243872373
+    },
+    {
+      "name": "PM 10 ",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 10 micrometers or less, which can affect air quality and human health",
+      "uuid": "2cd061e7-f351-46fa-8432-fb36faef3bbe",
+      "score": 0.7560976054940408
+    }
+  ],
+  "(14130, 16726)": [
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, including the presence of pollutants and particulate matter",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6580025168667842
+    },
+    {
+      "name": "particulate matter",
+      "label": "variable",
+      "description": "Tiny particles suspended in the air, including PM10 and PM2.5, which can have negative health effects",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.7397354099874365
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, influenced by various factors including greenhouse gases and aerosol accumulation",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.677489005460672
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where weather and climate phenomena occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.613838441913737
+    },
+    {
+      "name": "ambient air quality indicators",
+      "label": "variable",
+      "description": "Measurements of the presence and concentration of pollutants in the air, used to assess air quality",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5617186544961468
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, with diverse climate and environmental conditions",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6747449830838462
+    },
+    {
+      "name": "Global Carbon Project",
+      "label": "provider",
+      "description": "An international research project focused on studying the global carbon cycle and its impact on climate change",
+      "uuid": "324b431c-c46a-4d04-98d3-28a7c9658aed",
+      "score": 0.5419737150743001
+    },
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "Carbon monoxide, a toxic gas emitted by human activities and natural sources",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.7081373736066002
+    },
+    {
+      "name": "NO2",
+      "label": "variable",
+      "description": "Nitrogen dioxide, a pollutant emitted by human activities and contributing to air pollution",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.663722300762528
+    },
+    {
+      "name": "SO2",
+      "label": "variable",
+      "description": "Sulfur dioxide, a pollutant emitted by human activities and contributing to air pollution",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6581066532948405
+    },
+    {
+      "name": "O3",
+      "label": "variable",
+      "description": "Ozone, a gas that can be beneficial or harmful depending on its location and concentration in the atmosphere",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6024135331393631
+    },
+    {
+      "name": "PM10",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 10 micrometers or less, which can have negative health effects",
+      "uuid": "2cd061e7-f351-46fa-8432-fb36faef3bbe",
+      "score": 0.7353848387822786
+    },
+    {
+      "name": "PM2.5",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 2.5 micrometers or less, which can have negative health effects",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.7459303205131466
+    }
+  ],
+  "(16249, 19245)": [
+    {
+      "name": "LANDSAT 8 OLI",
+      "label": "instrument",
+      "description": "A satellite instrument used for remote sensing of the Earth's surface, providing data for land surface temperature mapping",
+      "uuid": "e8a6f9ad-e376-495c-869e-3467526b49ec",
+      "score": 0.7135533068375095
+    },
+    {
+      "name": "LANDSAT 7 ETM +",
+      "label": "instrument",
+      "description": "A satellite instrument used for remote sensing of the Earth's surface, providing data for land surface temperature mapping",
+      "uuid": "4dbe7764-a2ea-4a19-b754-696c35ac3205",
+      "score": 0.7460574941894612
+    },
+    {
+      "name": "United States Geological Survey (USGS)",
+      "label": "provider",
+      "description": "A scientific agency of the United States government, responsible for providing geological and spatial data",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.682595210238772
+    },
+    {
+      "name": "European space agency (ESA)",
+      "label": "provider",
+      "description": "An intergovernmental organization dedicated to the exploration and development of space, providing data and services for various applications",
+      "uuid": "8276d6f9-8fd5-44cd-8dd7-3ca326a9c21e",
+      "score": 0.5677943755711631
+    },
+    {
+      "name": "National aeronautics and Space Administration (NASA)",
+      "label": "provider",
+      "description": "A United States government agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6743304135031337
+    },
+    {
+      "name": "Copernicus Sentinel-5 Precursor Tropospheric Monitoring Instrument (S5P/TROPOMI)",
+      "label": "instrument",
+      "description": "A satellite instrument used for monitoring air quality and atmospheric composition",
+      "uuid": "74ee2866-0e9e-4c20-8003-0621af6552f3",
+      "score": 0.7196748944256743
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its diverse culture, geography, and climate",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6380582596539947
+    },
+    {
+      "name": "NO 2 ",
+      "label": "variable",
+      "description": "A pollutant gas, also known as nitrogen dioxide, which can have negative impacts on air quality and human health",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.5935629332028338
+    },
+    {
+      "name": "aerosol",
+      "label": "variable",
+      "description": "A type of air pollutant, consisting of small particles suspended in the air, which can have negative impacts on air quality and human health",
+      "uuid": "49c6b17a-73b3-4a88-921e-960c5ceca013",
+      "score": 0.637986365354308
+    },
+    {
+      "name": "land surface temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the Earth's surface, which can be used to study climate and environmental changes",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7456344471267996
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, which can be affected by various pollutants and human activities",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6717260077295821
+    },
+    {
+      "name": "RS&GIS",
+      "label": "model",
+      "description": "Remote sensing and geographic information system, a set of techniques and tools used for analyzing and interpreting spatial data",
+      "uuid": "afa11694-6aad-4d0b-8588-5ae14cce35cc",
+      "score": 0.5567515334070625
+    }
+  ],
+  "(18743, 21553)": [
+    {
+      "name": "land surface temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the Earth's surface, often used in climate and environmental studies",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.759090849159398
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air in a particular region, often used in environmental and health studies",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6653148922110539
+    },
+    {
+      "name": "Arc GIS 10.3",
+      "label": "platform",
+      "description": "A geographic information system software used for analyzing and visualizing spatial data",
+      "uuid": "67084eeb-2dca-4a4c-b5dd-0c37fc7b6c9a",
+      "score": 0.552440519804607
+    },
+    {
+      "name": "IBM SPSS",
+      "label": "instrument",
+      "description": "A statistical software package used for data analysis and modeling",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.6017420305659209
+    },
+    {
+      "name": "Landsat Project Science Office",
+      "label": "provider",
+      "description": "An organization responsible for managing and analyzing data from the Landsat satellite mission",
+      "uuid": "3e2cc17e-c2c4-4451-905b-e44381447f71",
+      "score": 0.5035863100900605
+    },
+    {
+      "name": "LANDSAT 8 OLI",
+      "label": "instrument",
+      "description": "A satellite instrument used for collecting data on the Earth's surface",
+      "uuid": "e8a6f9ad-e376-495c-869e-3467526b49ec",
+      "score": 0.7059016547324852
+    },
+    {
+      "name": "LANDSAT 7 ETM+",
+      "label": "instrument",
+      "description": "A satellite instrument used for collecting data on the Earth's surface",
+      "uuid": "4dbe7764-a2ea-4a19-b754-696c35ac3205",
+      "score": 0.7412555031045222
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "A measure of the number of people living in a particular region, often used in demographic and environmental studies",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6997934725806064
+    }
+  ],
+  "(21091, 23639)": [
+    {
+      "name": "LANDSAT 8 OLI",
+      "label": "instrument",
+      "description": "An optical instrument on board the Landsat 8 satellite, used for Earth observation and remote sensing applications",
+      "uuid": "e8a6f9ad-e376-495c-869e-3467526b49ec",
+      "score": 0.7325021805660858
+    },
+    {
+      "name": "LANDSAT 7 ETM +",
+      "label": "instrument",
+      "description": "An enhanced thematic mapper plus instrument on board the Landsat 7 satellite, designed for Earth observation and land cover mapping",
+      "uuid": "4dbe7764-a2ea-4a19-b754-696c35ac3205",
+      "score": 0.7614011630424202
+    },
+    {
+      "name": "LANDSAT",
+      "label": "project",
+      "description": "A series of Earth observation satellites designed to collect data on the Earth's surface, operated by NASA and the USGS",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7632242465315738
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and density, calculated from satellite imagery",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7698881175025071
+    },
+    {
+      "name": "radiance",
+      "label": "variable",
+      "description": "The amount of electromagnetic radiation emitted or reflected by an object, often used in remote sensing applications",
+      "uuid": "68dacfbb-4f23-4325-b80f-4b09d41bd505",
+      "score": 0.6557896469110657
+    },
+    {
+      "name": "reflectance",
+      "label": "variable",
+      "description": "The ratio of reflected radiation to incident radiation, used to characterize the properties of surfaces and materials",
+      "uuid": "f043c0a8-9cee-4c51-bf64-a4aaa34ab75d",
+      "score": 0.7327988497951606
+    },
+    {
+      "name": "emissivity",
+      "label": "variable",
+      "description": "A measure of the ability of a surface to emit radiation, used in thermal remote sensing applications",
+      "uuid": "4ee9d0c5-2e0c-486c-b89b-7b002d18c5f7",
+      "score": 0.7688711617402376
+    },
+    {
+      "name": "land surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, often measured using thermal remote sensing techniques",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7723719218784441
+    },
+    {
+      "name": "brightness temperature",
+      "label": "variable",
+      "description": "The temperature of an object or surface as measured by its thermal radiation, often used in remote sensing applications",
+      "uuid": "8d28c44d-b17d-4e31-9834-dd98f39312cd",
+      "score": 0.7868451184043161
+    },
+    {
+      "name": "temperature variability",
+      "label": "variable",
+      "description": "A measure of the range or fluctuation of temperatures over time or space, often used in climate and environmental studies",
+      "uuid": "7013bdc9-519d-42b6-827c-4b8013fbb726",
+      "score": 0.7459048302605845
+    },
+    {
+      "name": "Arc GIS 10.3",
+      "label": "platform",
+      "description": "A geographic information system software used for spatial analysis, mapping, and visualization",
+      "uuid": "67084eeb-2dca-4a4c-b5dd-0c37fc7b6c9a",
+      "score": 0.5487073740084509
+    },
+    {
+      "name": "MS Excel 2016",
+      "label": "platform",
+      "description": "A spreadsheet software used for data analysis, visualization, and management",
+      "uuid": "e807acba-457e-4f7e-be44-da5f93f4118b",
+      "score": 0.6365845089246429
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life and growth, often used as an indicator of environmental health and climate change",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6549880378481774
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, and supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6254320733250105
+    }
+  ],
+  "(23159, 25278)": [
+    {
+      "name": "land surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, often measured using remote sensing techniques",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7712931401096051
+    },
+    {
+      "name": "Arc GIS 10.3",
+      "label": "platform",
+      "description": "A geographic information system software used for mapping, analyzing, and visualizing geospatial data",
+      "uuid": "67084eeb-2dca-4a4c-b5dd-0c37fc7b6c9a",
+      "score": 0.5571515296988399
+    },
+    {
+      "name": "MS Excel 2016",
+      "label": "instrument",
+      "description": "A spreadsheet software used for data analysis, visualization, and graphical representation",
+      "uuid": "e807acba-457e-4f7e-be44-da5f93f4118b",
+      "score": 0.6395136241068208
+    },
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "Carbon monoxide, a colorless, odorless, and toxic gas, often measured as an indicator of air quality",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.7099835809659972
+    },
+    {
+      "name": "NO2",
+      "label": "variable",
+      "description": "Nitrogen dioxide, a pollutant gas that contributes to air pollution and negatively impacts human health",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.6781302263692693
+    },
+    {
+      "name": "SO2",
+      "label": "variable",
+      "description": "Sulfur dioxide, a pollutant gas that contributes to air pollution and negatively impacts human health",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6699141635055454
+    },
+    {
+      "name": "O3",
+      "label": "variable",
+      "description": "Ozone, a gas that plays a crucial role in the Earth's atmosphere, but can also be a pollutant at ground level",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6209420764589034
+    },
+    {
+      "name": "WHO",
+      "label": "provider",
+      "description": "The World Health Organization, an international agency focused on global health issues, including air quality and pollution",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.5899966492350698
+    },
+    {
+      "name": "aerosol",
+      "label": "variable",
+      "description": "A suspension of fine solid particles or liquid droplets in the air, often contributing to air pollution",
+      "uuid": "49c6b17a-73b3-4a88-921e-960c5ceca013",
+      "score": 0.6659815553691962
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The normalized difference vegetation index, a measure of vegetation health and density",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7696225561092731
+    }
+  ],
+  "(24900, 27098)": [
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "A colorless, odorless, tasteless, and highly toxic gas, often used as an indicator of air quality and climate change",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.6382956122282867
+    },
+    {
+      "name": "NO2",
+      "label": "variable",
+      "description": "A reddish-brown gas with a pungent odor, often used as an indicator of air quality and climate change",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.6649026895692649
+    },
+    {
+      "name": "SO2",
+      "label": "variable",
+      "description": "A colorless gas with a strong, irritating smell, often used as an indicator of air quality and climate change",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6566569341185964
+    },
+    {
+      "name": "O3",
+      "label": "variable",
+      "description": "A gas composed of three oxygen atoms, often used as an indicator of air quality and climate change",
+      "uuid": "b4212921-624a-40b6-a5d5-ad1aec695ff8",
+      "score": 0.6029175059257775
+    },
+    {
+      "name": "aerosols optical depth",
+      "label": "variable",
+      "description": "A measure of the amount of aerosols in the atmosphere, often used as an indicator of air quality and climate change",
+      "uuid": "61c3b720-abc8-4430-866c-f1da35d2cd0b",
+      "score": 0.7340206325492183
+    },
+    {
+      "name": "PM10",
+      "label": "variable",
+      "description": "A measure of the amount of particulate matter in the air with a diameter of 10 micrometers or less, often used as an indicator of air quality and climate change",
+      "uuid": "1ffc2101-e4bc-4010-9a4c-b86c858d850f",
+      "score": 0.7160709334849884
+    },
+    {
+      "name": "PM2.5",
+      "label": "variable",
+      "description": "A measure of the amount of particulate matter in the air with a diameter of 2.5 micrometers or less, often used as an indicator of air quality and climate change",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.7315626583229773
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country located in South Asia, known for its diverse climate and geography",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6952930971382492
+    }
+  ],
+  "(26739, 29097)": [
+    {
+      "name": "PM 10",
+      "label": "variable",
+      "description": "A measure of particulate matter with a diameter of 10 micrometers or less, used to assess air quality",
+      "uuid": "2cd061e7-f351-46fa-8432-fb36faef3bbe",
+      "score": 0.7064461260028643
+    },
+    {
+      "name": "PM 2.5",
+      "label": "variable",
+      "description": "A measure of particulate matter with a diameter of 2.5 micrometers or less, used to assess air quality",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.7278449765166325
+    },
+    {
+      "name": "WHO",
+      "label": "provider",
+      "description": "The World Health Organization, a specialized agency of the United Nations responsible for international public health",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6851903493094262
+    },
+    {
+      "name": "land surface temperature",
+      "label": "variable",
+      "description": "A measure of the temperature at the surface of the Earth's land, often used in climate and environmental studies",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7529372349097363
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, including factors such as particulate matter, pollutants, and other substances",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6699002740394446
+    }
+  ],
+  "(28640, 31246)": [
+    {
+      "name": "lower atmospheric temperature",
+      "label": "variable",
+      "description": "A measure of the temperature in the lower part of the atmosphere, often used to study climate and weather patterns",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.5776260207135661
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, including factors such as pollutant concentrations and particulate matter",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6608284370194439
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent on Earth, known for its diverse climate, geography, and population",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6774248270293016
+    },
+    {
+      "name": "average surface temperature",
+      "label": "variable",
+      "description": "A measure of the average temperature at the Earth's surface, often used to study climate patterns",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.624924750156422
+    },
+    {
+      "name": "pollutants",
+      "label": "variable",
+      "description": "Substances that contaminate the air, water, or soil, and can have negative impacts on the environment and human health",
+      "uuid": "42c6d91b-afef-4638-95c5-0d130828b2e7",
+      "score": 0.5368239397324167
+    },
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "Carbon monoxide, a colorless, odorless gas that can be harmful to human health and the environment",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.7141534919883002
+    },
+    {
+      "name": "NO2",
+      "label": "variable",
+      "description": "Nitrogen dioxide, a pollutant that can contribute to air quality problems and negative health effects",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.6448924951081558
+    },
+    {
+      "name": "SO2",
+      "label": "variable",
+      "description": "Sulfur dioxide, a pollutant that can contribute to air quality problems and negative health effects",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6430451970535314
+    },
+    {
+      "name": "O3",
+      "label": "variable",
+      "description": "Ozone, a gas that can be beneficial or harmful to human health and the environment, depending on its concentration and location",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.593405488989949
+    },
+    {
+      "name": "PM10",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 10 micrometers or less, which can contribute to air quality problems and negative health effects",
+      "uuid": "2cd061e7-f351-46fa-8432-fb36faef3bbe",
+      "score": 0.7338683680873634
+    },
+    {
+      "name": "PM2.5",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 2.5 micrometers or less, which can contribute to air quality problems and negative health effects",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.742116840284661
+    },
+    {
+      "name": "World Health Organization",
+      "label": "provider",
+      "description": "An international organization that focuses on global health issues, including air pollution and its impacts on human health",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.5439635366169934
+    }
+  ],
+  "(30754, 33505)": [
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the level of pollutants and contaminants in the air, affecting human health and environmental conditions",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6680209347076967
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent on Earth, comprising a vast array of countries and ecosystems, with diverse climates and environmental conditions",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.7282442811763676
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent on Earth, comprising a vast array of countries and ecosystems, with diverse climates and environmental conditions",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.6460131770085038
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on Earth, comprising a vast array of countries and ecosystems, with diverse climates and environmental conditions",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6936741040536938
+    },
+    {
+      "name": "UNEP",
+      "label": "provider",
+      "description": "The United Nations Environment Programme, an international organization focused on environmental conservation and sustainability",
+      "uuid": "687d4231-8da8-4236-9cc4-26d7ff198578",
+      "score": 0.6100056270294726
+    },
+    {
+      "name": "United Nations Environment Programme",
+      "label": "provider",
+      "description": "The United Nations Environment Programme, an international organization focused on environmental conservation and sustainability",
+      "uuid": "687d4231-8da8-4236-9cc4-26d7ff198578",
+      "score": 0.5654057781048886
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "Organic material from plants and animals, used as fuel or energy source, and affecting air quality through emissions",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.607635924102501
+    },
+    {
+      "name": "morbidity",
+      "label": "variable",
+      "description": "A measure of disease or illness within a population, often used to assess the impact of environmental factors on human health",
+      "uuid": "8a49484a-a9c8-411b-b911-7646f5323a7b",
+      "score": 0.7137583740519021
+    },
+    {
+      "name": "WHO",
+      "label": "provider",
+      "description": "The World Health Organization, an international organization focused on global health and disease prevention",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6665958436109672
+    },
+    {
+      "name": "NO 2 ",
+      "label": "variable",
+      "description": "Nitrogen dioxide, a pollutant gas that contributes to air pollution and negatively impacts human health",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.6711871017718829
+    },
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "Carbon monoxide, a pollutant gas that contributes to air pollution and negatively impacts human health",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.6505427250200168
+    },
+    {
+      "name": "SO 2 ",
+      "label": "variable",
+      "description": "Sulfur dioxide, a pollutant gas that contributes to air pollution and negatively impacts human health",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6735340463642894
+    },
+    {
+      "name": "PM 10 ",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 10 micrometers or less, a pollutant that contributes to air pollution and negatively impacts human health",
+      "uuid": "2cd061e7-f351-46fa-8432-fb36faef3bbe",
+      "score": 0.747755747420272
+    },
+    {
+      "name": "PM 2.5 ",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 2.5 micrometers or less, a pollutant that contributes to air pollution and negatively impacts human health",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.761588266876215
+    },
+    {
+      "name": "industries",
+      "label": "platform",
+      "description": "Manufacturing or production facilities that contribute to air pollution through emissions",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5571119502140935
+    }
+  ],
+  "(33028, 35826)": [
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "Carbon monoxide, a toxic gas emitted by vehicles and industries",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.687469434986291
+    },
+    {
+      "name": "NO 2 ",
+      "label": "variable",
+      "description": "Nitrogen dioxide, a pollutant that contributes to air quality degradation",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.6470255313329235
+    },
+    {
+      "name": "SO 2 ",
+      "label": "variable",
+      "description": "Sulfur dioxide, a pollutant emitted by industries and vehicles",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6614053155334355
+    },
+    {
+      "name": "PM 10 ",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 10 micrometers or less, a pollutant that affects air quality",
+      "uuid": "2cd061e7-f351-46fa-8432-fb36faef3bbe",
+      "score": 0.7427140088798616
+    },
+    {
+      "name": "PM 2.5 ",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 2.5 micrometers or less, a pollutant that affects air quality",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.7528312152884007
+    },
+    {
+      "name": "industries",
+      "label": "provider",
+      "description": "Factories and manufacturing facilities that emit pollutants and contribute to air quality degradation",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5674224306921495
+    },
+    {
+      "name": "O 3 ",
+      "label": "variable",
+      "description": "Ozone, a gas that can be harmful to human health and the environment in high concentrations",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5782660769501201
+    },
+    {
+      "name": "troposphere",
+      "label": "location",
+      "description": "The lowest layer of the Earth's atmosphere, where weather occurs and air pollution is most relevant",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.7087842687521906
+    },
+    {
+      "name": "coal",
+      "label": "variable",
+      "description": "A fossil fuel used for energy production, contributing to air pollution",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6441980165292839
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, affected by pollutants and human activities",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6714367962409551
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where air pollution occurs",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.5695368151995682
+    }
+  ],
+  "(35434, 38530)": [
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas composed of three oxygen atoms, which can be harmful to human health and the environment in high concentrations",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5810167871490032
+    },
+    {
+      "name": "NO2",
+      "label": "variable",
+      "description": "Nitrogen dioxide, a pollutant emitted by anthropogenic sources that can affect air quality and human health",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.6449518149871026
+    },
+    {
+      "name": "land surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, which can be influenced by various natural and anthropogenic factors",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7483767880064686
+    },
+    {
+      "name": "air pollution",
+      "label": "natural hazard",
+      "description": "The release of pollutants into the air, which can harm human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5058267840454135
+    },
+    {
+      "name": "industrial activities",
+      "label": "provider",
+      "description": "Human activities that release pollutants into the environment, such as manufacturing and production",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5952817372636627
+    },
+    {
+      "name": "commercial activities",
+      "label": "provider",
+      "description": "Human activities that release pollutants into the environment, such as trade and commerce",
+      "uuid": "1bb6821d-8534-40ce-a6ee-7c88ce4d3c9f",
+      "score": 0.5092059648433656
+    },
+    {
+      "name": "mental health",
+      "label": "variable",
+      "description": "The psychological well-being of individuals, which can be affected by lockdown measures",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5683060134223696
+    }
+  ],
+  "(40269, 43590)": [
+    {
+      "name": "green wall",
+      "label": "platform",
+      "description": "A type of green infrastructure used to reduce urban air pollution and improve environmental quality",
+      "uuid": "eeba88d2-20bf-43b1-bccf-b125485405f4",
+      "score": 0.5109963724638098
+    },
+    {
+      "name": "roadside garden",
+      "label": "platform",
+      "description": "A type of green infrastructure used to reduce urban air pollution and improve environmental quality",
+      "uuid": "a9f2e036-f04f-46cc-a4e8-dfba30d9034c",
+      "score": 0.5029426431121354
+    },
+    {
+      "name": "reforestation and afforestation scheme",
+      "label": "project",
+      "description": "An initiative to restore and expand forested areas, aiming to improve environmental quality and mitigate climate change",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6396312016519289
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "A measure of the temperature at the Earth's surface, influencing local climate and environmental conditions",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.7193979402178616
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the level of pollutants in the air, affecting human health and environmental quality",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6692971814931524
+    },
+    {
+      "name": "NO2",
+      "label": "variable",
+      "description": "A type of air pollutant, contributing to poor air quality and negative health effects",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.564845606097762
+    },
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "A type of air pollutant, contributing to poor air quality and negative health effects",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.5698968258077998
+    },
+    {
+      "name": "PM10",
+      "label": "variable",
+      "description": "A type of air pollutant, contributing to poor air quality and negative health effects",
+      "uuid": "2cd061e7-f351-46fa-8432-fb36faef3bbe",
+      "score": 0.6519287787102109
+    },
+    {
+      "name": "PM2.5",
+      "label": "variable",
+      "description": "A type of air pollutant, contributing to poor air quality and negative health effects",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.694993119692608
+    },
+    {
+      "name": "Park",
+      "label": "location",
+      "description": "A designated area in Kolkata for recreation and conservation, potentially contributing to improved air quality and environmental quality",
+      "uuid": "2b1f7993-2d54-40de-abc4-3909f619ad4e",
+      "score": 0.5261081659789774
+    }
+  ],
+  "(42978, 45055)": [
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its diverse climate, geography, and environmental challenges",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6787060089371971
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, typically in terms of the presence of pollutants such as particulate matter, nitrogen dioxide, and ozone",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.678001421665505
+    },
+    {
+      "name": "European Space Agency (ESA)",
+      "label": "provider",
+      "description": "An intergovernmental organization dedicated to the exploration and development of space, providing data and support for environmental research",
+      "uuid": "2e91a3a8-bd80-4d68-bcae-74bc513b09e9",
+      "score": 0.6104731724657062
+    },
+    {
+      "name": "National Aeronautics and Space Administration (NASA)",
+      "label": "provider",
+      "description": "A United States government agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6855317746952938
+    },
+    {
+      "name": "degradation",
+      "label": "natural hazard",
+      "description": "The deterioration of the environment, ecosystems, or natural resources, often caused by human activities such as pollution, deforestation, and climate change",
+      "uuid": "32f6083c-f6a2-40cf-8cf4-782b02b9df9e",
+      "score": 0.6321886369182514
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "(0, 3191)": [
+    {
+      "name": "heavy metals",
+      "label": "pollutant",
+      "description": "Toxic substances released into the environment, posing a threat to organisms and ecosystems",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6408732636016304
+    },
+    {
+      "name": "hurricanes",
+      "label": "weather event",
+      "description": "Severe storms that form over the ocean, causing damage and disruption to ecosystems and human populations",
+      "uuid": "6314f68a-1f00-4e6d-9f06-b3e2ce4348e8",
+      "score": 0.5970248042264991
+    },
+    {
+      "name": "volcanic eruptions",
+      "label": "natural hazard",
+      "description": "The release of hot ash, gas, and rock from a volcano, potentially affecting global climate patterns and ecosystems",
+      "uuid": "06c1281f-e306-4511-bdab-ed6c0694f0f9",
+      "score": 0.6269020068794815
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability and accessibility of safe and nutritious food for human consumption",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7154106326208953
+    }
+  ],
+  "(2763, 5713)": [
+    {
+      "name": "heavy-metal-contaminated soils",
+      "label": "location",
+      "description": "Soils that have been polluted with heavy metals, posing environmental and health risks",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6431793699233128
+    },
+    {
+      "name": "molecular oxygen",
+      "label": "variable",
+      "description": "A molecule composed of two oxygen atoms, essential for many biological and chemical processes",
+      "uuid": "61f4f3d0-7895-4cce-94e3-d249001d5ee8",
+      "score": 0.7121044534717205
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of metals and metalloids that are toxic and can cause harm to living organisms and the environment",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6798667076190743
+    },
+    {
+      "name": "redox reactions",
+      "label": "variable",
+      "description": "Chemical reactions involving the transfer of electrons, often occurring in biological systems and affecting the fate of pollutants",
+      "uuid": "9c2f3bee-4629-4607-9962-12fe919594a0",
+      "score": 0.5604185433643682
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of heat or cold, influencing the growth and metabolism of microorganisms in bioremediation",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5105953261877567
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of acidity or alkalinity, affecting the growth and metabolism of microorganisms in bioremediation",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.6494188957640009
+    }
+  ],
+  "(5284, 8279)": [
+    {
+      "name": "Redox processes",
+      "label": "platform",
+      "description": "Chemical reactions that involve the transfer of electrons, often used in bioremediation to transform contaminants into less toxic forms",
+      "uuid": "9c2f3bee-4629-4607-9962-12fe919594a0",
+      "score": 0.5496440787616708
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or alkalinity of a solution, affecting the adsorption and desorption behavior of PCP by M. chlorophenolicum",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.6770258830951944
+    },
+    {
+      "name": "As",
+      "label": "variable",
+      "description": "Arsenic, a toxic heavy metal that can be transformed into less toxic forms through redox reactions",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.6262171287706257
+    },
+    {
+      "name": "Cr",
+      "label": "variable",
+      "description": "Chromium, a toxic heavy metal that can be transformed into less toxic forms through redox reactions",
+      "uuid": "9ab53717-17f1-4259-b425-0eed19c31884",
+      "score": 0.6470373465095498
+    },
+    {
+      "name": "Se",
+      "label": "variable",
+      "description": "Selenium, a toxic heavy metal that can be transformed into less toxic forms through redox reactions",
+      "uuid": "b2318fb3-788c-4f36-a1d1-36670d2da747",
+      "score": 0.584803280686958
+    },
+    {
+      "name": "soils",
+      "label": "location",
+      "description": "Terrestrial environments where contaminants can accumulate and affect ecosystems",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.5412930532467342
+    },
+    {
+      "name": "sediments",
+      "label": "location",
+      "description": "Deposits of particles that can accumulate contaminants and affect ecosystems",
+      "uuid": "6600ace1-fc1e-4b5a-9f82-0afa19acf037",
+      "score": 0.6149072555920984
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water stored beneath the Earth's surface, often affected by contamination and redox reactions",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6847760014114965
+    },
+    {
+      "name": "manure",
+      "label": "variable",
+      "description": "Animal waste materials that can be used to produce biochar",
+      "uuid": "3c1c65c3-e1ef-4163-9695-c39ff7fb48da",
+      "score": 0.5619127297712022
+    }
+  ],
+  "(7745, 10763)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of a mixture of minerals, organic matter, water, and air, that supports plant growth and filters water",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6319176752975676
+    },
+    {
+      "name": "chromium",
+      "label": "variable",
+      "description": "A chemical element that can be toxic to humans and the environment in large quantities, and is often found in contaminated soil and water",
+      "uuid": "9ab53717-17f1-4259-b425-0eed19c31884",
+      "score": 0.7036881660689316
+    },
+    {
+      "name": "selenium",
+      "label": "variable",
+      "description": "A chemical element that is essential for human health in small quantities, but can be toxic in large quantities, and is often found in contaminated soil and water",
+      "uuid": "b2318fb3-788c-4f36-a1d1-36670d2da747",
+      "score": 0.6709252118575115
+    },
+    {
+      "name": "arsenic",
+      "label": "variable",
+      "description": "A chemical element that is highly toxic to humans and the environment, and is often found in contaminated soil and water",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.727939495470945
+    },
+    {
+      "name": "copper",
+      "label": "variable",
+      "description": "A chemical element that is essential for human health in small quantities, but can be toxic in large quantities, and is often found in contaminated soil and water",
+      "uuid": "78fb5691-136d-40f8-a834-6e6f4cd768ff",
+      "score": 0.5762583126071998
+    },
+    {
+      "name": "redox reactions",
+      "label": "model",
+      "description": "Chemical reactions that involve the transfer of electrons, and play a crucial role in many biological and environmental processes",
+      "uuid": "9c2f3bee-4629-4607-9962-12fe919594a0",
+      "score": 0.5737302610466467
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of chemical elements that are toxic to humans and the environment, and are often found in contaminated soil and water",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.7065273715257702
+    },
+    {
+      "name": "iron",
+      "label": "variable",
+      "description": "A chemical element that is essential for human health, and is often found in contaminated soil and water",
+      "uuid": "0965eb7b-6bd3-48a3-aa2a-52d7e2dda8ad",
+      "score": 0.6923726702073327
+    }
+  ],
+  "(10306, 13136)": [
+    {
+      "name": "copper",
+      "label": "variable",
+      "description": "A chemical element that is required in small quantities for the survival of living organisms, but can be detrimental at higher concentrations",
+      "uuid": "78fb5691-136d-40f8-a834-6e6f4cd768ff",
+      "score": 0.5319426618143053
+    },
+    {
+      "name": "iron",
+      "label": "variable",
+      "description": "A chemical element that is required in small quantities for the survival of living organisms, but can be detrimental at higher concentrations",
+      "uuid": "0965eb7b-6bd3-48a3-aa2a-52d7e2dda8ad",
+      "score": 0.611854377478261
+    },
+    {
+      "name": "Cr",
+      "label": "variable",
+      "description": "A chemical element that is hazardous and can contaminate the environment, affecting the quality of soil, crop production, and public health",
+      "uuid": "9ab53717-17f1-4259-b425-0eed19c31884",
+      "score": 0.5631796633184772
+    },
+    {
+      "name": "As",
+      "label": "variable",
+      "description": "A chemical element that is hazardous and can contaminate the environment, affecting the quality of soil, crop production, and public health",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.5788664778179547
+    },
+    {
+      "name": "Zn",
+      "label": "variable",
+      "description": "A chemical element that is hazardous and can contaminate the environment, affecting the quality of soil, crop production, and public health",
+      "uuid": "ab12b3d6-2cbf-4a5a-a410-1d23afe906d8",
+      "score": 0.5790955442368833
+    },
+    {
+      "name": "Se",
+      "label": "variable",
+      "description": "A chemical element that is hazardous and can contaminate the environment, affecting the quality of soil, crop production, and public health",
+      "uuid": "b2318fb3-788c-4f36-a1d1-36670d2da747",
+      "score": 0.5431404845258027
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country with environmental regulations and laws to protect public health and the environment",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5173578736567334
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, and supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6254320733250105
+    },
+    {
+      "name": "public health",
+      "label": "variable",
+      "description": "The health and well-being of the general population, which can be affected by environmental factors such as heavy metal contamination",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5583761803664921
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants convert light energy into chemical energy, which can be affected by heavy metal toxicity",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.5941800067384838
+    },
+    {
+      "name": "Pb",
+      "label": "variable",
+      "description": "A chemical element that can cause serious health implications such as lack of coordination and paralysis",
+      "uuid": "6fe420c1-2285-4031-babe-f0243c59a617",
+      "score": 0.5330850722128281
+    },
+    {
+      "name": "arsenic",
+      "label": "variable",
+      "description": "A chemical element that is the most common cause of acute heavy metal poisoning in adults and children",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.6108039250039152
+    },
+    {
+      "name": "fish",
+      "label": "variable",
+      "description": "A type of aquatic animal that can be contaminated with toxic substances such as methyl mercury",
+      "uuid": "ea855d4c-f132-44f9-b31c-447e1101684d",
+      "score": 0.5764848517332107
+    }
+  ],
+  "(12601, 15571)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of metals and metalloids that are toxic and can have harmful effects on the environment and living organisms",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.685090835718512
+    },
+    {
+      "name": "microbes",
+      "label": "microorganism",
+      "description": "Microscopic organisms such as bacteria, viruses, and fungi that play a crucial role in ecosystems and can be used for bioremediation",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.5447176428329626
+    },
+    {
+      "name": "aquatic bodies",
+      "label": "location",
+      "description": "Bodies of water such as oceans, lakes, and rivers that support aquatic life and can be affected by pollution",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6024851002851975
+    },
+    {
+      "name": "fish",
+      "label": "variable",
+      "description": "A type of aquatic animal that can be affected by pollution and accumulate toxins such as methyl mercury",
+      "uuid": "ea855d4c-f132-44f9-b31c-447e1101684d",
+      "score": 0.5951714769943995
+    },
+    {
+      "name": "ecosystem",
+      "label": "location",
+      "description": "A community of living and non-living components that interact with each other and their environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6738574198143428
+    },
+    {
+      "name": "microorganisms",
+      "label": "microorganism",
+      "description": "Microscopic organisms such as bacteria, viruses, and fungi that play a crucial role in ecosystems and can be used for bioremediation",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.5073922182527391
+    },
+    {
+      "name": "heavy metal contaminants",
+      "label": "variable",
+      "description": "Toxic substances that can pollute the environment and harm living organisms",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6043577141584383
+    },
+    {
+      "name": "Pb",
+      "label": "variable",
+      "description": "Lead, a heavy metal that is toxic to humans and the environment",
+      "uuid": "6fe420c1-2285-4031-babe-f0243c59a617",
+      "score": 0.627928102833701
+    },
+    {
+      "name": "Cu",
+      "label": "variable",
+      "description": "Copper, a heavy metal that can be toxic to humans and the environment in high concentrations",
+      "uuid": "78fb5691-136d-40f8-a834-6e6f4cd768ff",
+      "score": 0.5852508434912657
+    },
+    {
+      "name": "soils",
+      "label": "location",
+      "description": "The outermost layer of the Earth's surface, which can be contaminated with pollutants and toxins",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.5927301934424948
+    }
+  ],
+  "(15216, 18009)": [
+    {
+      "name": "heavy metals",
+      "label": "pollutant",
+      "description": "Toxic substances that can contaminate soil, water, and air, posing risks to human health and the environment",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.689644720901778
+    },
+    {
+      "name": "Pb",
+      "label": "pollutant",
+      "description": "Lead, a toxic heavy metal that can contaminate soil, water, and air",
+      "uuid": "6fe420c1-2285-4031-babe-f0243c59a617",
+      "score": 0.6729448205993044
+    },
+    {
+      "name": "Cd",
+      "label": "pollutant",
+      "description": "Cadmium, a toxic heavy metal that can contaminate soil, water, and air",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.512323985910905
+    },
+    {
+      "name": "Cu",
+      "label": "pollutant",
+      "description": "Copper, a heavy metal that can contaminate soil, water, and air",
+      "uuid": "78fb5691-136d-40f8-a834-6e6f4cd768ff",
+      "score": 0.5832854613013002
+    }
+  ],
+  "(17565, 20353)": [
+    {
+      "name": "brown marine algae",
+      "label": "instrument",
+      "description": "A type of algae found in marine environments, used for bioremediation due to its high sorption capacity",
+      "uuid": "36e07e20-ce85-4418-83fd-6d718e55f370",
+      "score": 0.5703588861981764
+    },
+    {
+      "name": "heavy metal ions",
+      "label": "variable",
+      "description": "Ions of metals that are toxic to living organisms and the environment, requiring remediation",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6094909786374646
+    },
+    {
+      "name": "bioaccumulation",
+      "label": "experiment",
+      "description": "The process by which organisms, such as bacteria, accumulate heavy metals and other substances within their cells",
+      "uuid": "a54dbc4f-c136-4648-9797-db00e62fe22b",
+      "score": 0.5606470146453431
+    },
+    {
+      "name": "trace elements",
+      "label": "variable",
+      "description": "Chemical elements that are present in small amounts but are essential for the growth and development of living organisms",
+      "uuid": "2d36c283-2fe3-4a08-aeb3-6a8146e79bb3",
+      "score": 0.6386342953593507
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Metals with high densities and toxic properties, often requiring remediation from contaminated environments",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.7323123563438272
+    },
+    {
+      "name": "fungi",
+      "label": "platform",
+      "description": "Organisms that can be used for bioremediation due to their ability to accumulate and detoxify heavy metals",
+      "uuid": "3546cb0a-27a2-4914-85cf-1774b5c4ed19",
+      "score": 0.5131394524571113
+    },
+    {
+      "name": "ion exchange",
+      "label": "model",
+      "description": "A process by which ions are exchanged between a solution and a solid, often used for bioremediation",
+      "uuid": "ccbf4ef8-955b-4337-a45b-95affc360173",
+      "score": 0.6733608115463207
+    }
+  ],
+  "(19868, 22492)": [
+    {
+      "name": "heavy metal ions",
+      "label": "variable",
+      "description": "Atoms of heavy metals that have either lost or gained electrons to form ions",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.5460565025968511
+    },
+    {
+      "name": "bioaccumulation",
+      "label": "process",
+      "description": "The process by which substances, such as heavy metals, gradually accumulate in living organisms like bacteria",
+      "uuid": "a54dbc4f-c136-4648-9797-db00e62fe22b",
+      "score": 0.566928713023532
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, often affecting microbial growth and activity",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6333295076763242
+    },
+    {
+      "name": "trace elements",
+      "label": "variable",
+      "description": "Chemical elements that are needed by living organisms in small quantities for growth and development",
+      "uuid": "2d36c283-2fe3-4a08-aeb3-6a8146e79bb3",
+      "score": 0.619081329528784
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of metals and metalloids that are toxic and can harm living organisms and the environment",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.682229290273793
+    }
+  ],
+  "(22008, 24804)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Toxic metals such as lead, mercury, and arsenic that can contaminate soil and water and pose risks to human health and the environment",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6890688809125729
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of earth in which plants grow, which can be contaminated with heavy metals",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.560176912448197
+    }
+  ],
+  "(24442, 26969)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of metals and metalloids that are toxic to living organisms at low concentrations, including lead, cadmium, and arsenic",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6894403088713041
+    },
+    {
+      "name": "As",
+      "label": "variable",
+      "description": "Arsenic, a toxic heavy metal",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.6467061671544878
+    },
+    {
+      "name": "Pb",
+      "label": "variable",
+      "description": "Lead, a toxic heavy metal",
+      "uuid": "6fe420c1-2285-4031-babe-f0243c59a617",
+      "score": 0.6267478174928542
+    },
+    {
+      "name": "Zn",
+      "label": "variable",
+      "description": "Zinc, a heavy metal",
+      "uuid": "ab12b3d6-2cbf-4a5a-a410-1d23afe906d8",
+      "score": 0.5833860325536033
+    }
+  ],
+  "(26447, 29120)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of metallic elements that are toxic and can be harmful to the environment and living organisms, often requiring remediation",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6947237606432408
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, and supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6254320733250105
+    }
+  ],
+  "(28674, 31400)": [
+    {
+      "name": "Pb",
+      "label": "heavy metal",
+      "description": "A toxic heavy metal that can accumulate in plant tissues, posing risks to human health and the environment",
+      "uuid": "6fe420c1-2285-4031-babe-f0243c59a617",
+      "score": 0.5566277444769713
+    },
+    {
+      "name": "Zn",
+      "label": "heavy metal",
+      "description": "An essential micronutrient for plants, but can be toxic at high concentrations, often studied in phytoextraction research",
+      "uuid": "ab12b3d6-2cbf-4a5a-a410-1d23afe906d8",
+      "score": 0.5068969755304753
+    },
+    {
+      "name": "As",
+      "label": "heavy metal",
+      "description": "A toxic heavy metal that can accumulate in plant tissues, posing risks to human health and the environment",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.5561086371624435
+    }
+  ],
+  "(30910, 33737)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Toxic elements that can be harmful to the environment and human health, often the target of phytoremediation techniques",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6643961497017133
+    }
+  ],
+  "(33286, 36276)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Toxic metallic elements that can accumulate in the environment and pose risks to human health and ecosystems",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6883161278447324
+    }
+  ],
+  "(35730, 38856)": [
+    {
+      "name": "heavy metals",
+      "label": "pollutant",
+      "description": "Toxic substances that can harm plants and the environment, including metals such as lead, mercury, and arsenic",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.661070991637133
+    },
+    {
+      "name": "bioavailability",
+      "label": "variable",
+      "description": "The extent to which a substance is available to be taken up by an organism",
+      "uuid": "8e89d525-161c-4e02-8ef8-4868e0cf8c57",
+      "score": 0.7329201851232774
+    },
+    {
+      "name": "toxicity",
+      "label": "variable",
+      "description": "The degree to which a substance can harm an organism or the environment",
+      "uuid": "5518feb6-93a8-46fd-9e9a-25be3a832d6d",
+      "score": 0.6552984921369086
+    }
+  ],
+  "(38330, 41190)": [
+    {
+      "name": "salinity",
+      "label": "abiotic stress",
+      "description": "A condition characterized by high salt concentrations in the soil, which can negatively impact plant growth and productivity",
+      "uuid": "3b54403e-25a1-43cc-97ac-7c14e73bda96",
+      "score": 0.6159236005623366
+    },
+    {
+      "name": "food security",
+      "label": "concept",
+      "description": "The availability of sufficient, safe, and nutritious food for all people, and the ability of individuals to access and utilize this food",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7110056194402606
+    },
+    {
+      "name": "heavy metals",
+      "label": "abiotic stress",
+      "description": "A type of environmental stress caused by the presence of toxic metals such as lead, mercury, and arsenic, which can harm plant growth and human health",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.5935471278124179
+    },
+    {
+      "name": "photosynthetic assimilations",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy through photosynthesis",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.5596552807934388
+    }
+  ],
+  "(40631, 43432)": [
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability of sufficient, safe, and nutritious food to meet the needs of a population",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6925394833175206
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required by plants for growth and development, such as nitrogen, phosphorus, and iron",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.6358154386318198
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Toxic substances that can harm plants and humans, such as lead, mercury, and arsenic",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6634841041551955
+    }
+  ],
+  "(42982, 45499)": [
+    {
+      "name": "microorganisms",
+      "label": "provider",
+      "description": "Microscopic organisms that play a crucial role in various ecological processes, including nutrient cycling and plant growth promotion",
+      "uuid": "ed1b3fa6-173d-476c-9b35-c57335c0a473",
+      "score": 0.5025167258349317
+    },
+    {
+      "name": "plants",
+      "label": "provider",
+      "description": "Organisms that carry out photosynthesis and are primary producers in ecosystems",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.5505063606204477
+    },
+    {
+      "name": "Fe",
+      "label": "variable",
+      "description": "Iron, an essential nutrient for plant metabolism",
+      "uuid": "60992683-3183-4510-9fce-e4611115315c",
+      "score": 0.6386055389402899
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6264893657666983
+    },
+    {
+      "name": "phosphorous",
+      "label": "variable",
+      "description": "A macronutrient required by plants for growth and development",
+      "uuid": "47f4e7ac-b4ca-4ef9-824b-a36ea5510526",
+      "score": 0.6760091449308178
+    },
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A compound produced by the breakdown of 1-aminocyclopropane-1-carboxylate",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.6241073646338843
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and stress for plants",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6872486231252358
+    },
+    {
+      "name": "salinity",
+      "label": "weather event",
+      "description": "A condition of high salt concentrations in soil or water, affecting plant growth and productivity",
+      "uuid": "3b54403e-25a1-43cc-97ac-7c14e73bda96",
+      "score": 0.603151453133531
+    },
+    {
+      "name": "heavy metal contamination",
+      "label": "natural hazard",
+      "description": "The presence of toxic heavy metals in the environment, posing a risk to plant growth and human health",
+      "uuid": "0c4ffc6a-694d-4f33-bc18-06fefb68acdd",
+      "score": 0.6093919298715748
+    }
+  ],
+  "(45031, 48033)": [
+    {
+      "name": "salinity",
+      "label": "natural hazard",
+      "description": "High salt concentrations in soil or water that can negatively impact plant growth and agricultural productivity",
+      "uuid": "3b54403e-25a1-43cc-97ac-7c14e73bda96",
+      "score": 0.6176139557245649
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Essential substances required for plant growth, such as nitrogen, phosphorus, and potassium",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.6374554022634707
+    },
+    {
+      "name": "toxic levels",
+      "label": "natural hazard",
+      "description": "Concentrations of substances that are harmful to living organisms, including plants and microorganisms",
+      "uuid": "5518feb6-93a8-46fd-9e9a-25be3a832d6d",
+      "score": 0.635152913433476
+    },
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A chemical compound that can be produced by microorganisms and used as a nutrient by plants",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.6287457822153252
+    },
+    {
+      "name": "heavy metals",
+      "label": "natural hazard",
+      "description": "Toxic substances such as mercury, lead, and cadmium that can contaminate soil, water, and air and harm living organisms",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6845368687423581
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The natural medium for plant growth, where microorganisms and nutrients interact with plant roots",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5516370236564289
+    }
+  ],
+  "(47450, 50449)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of metallic elements known for their toxicity and potential to harm the environment and living organisms",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.7007933597433103
+    },
+    {
+      "name": "microorganisms",
+      "label": "platform",
+      "description": "Microscopic living organisms, such as bacteria and archaea, that play a crucial role in various environmental processes",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.5206607050499841
+    },
+    {
+      "name": "As",
+      "label": "variable",
+      "description": "The chemical symbol for arsenic, a heavy metal and environmental pollutant",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.5948537085866854
+    }
+  ],
+  "(50014, 52867)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of metallic elements known for their toxicity and potential to contaminate the environment",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.7005698603627174
+    },
+    {
+      "name": "Cu",
+      "label": "variable",
+      "description": "Copper, a heavy metal",
+      "uuid": "78fb5691-136d-40f8-a834-6e6f4cd768ff",
+      "score": 0.5672983143400886
+    },
+    {
+      "name": "As",
+      "label": "variable",
+      "description": "Arsenic, a toxic heavy metal",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.6467061671544878
+    }
+  ],
+  "(52380, 55508)": [
+    {
+      "name": "metabolomics",
+      "label": "instrument",
+      "description": "A branch of biochemistry focused on the comprehensive study of small molecules, known as metabolites, within cells, tissues, or organisms",
+      "uuid": "f978bbb1-08fb-4cc5-bb49-d8da0ee07bc4",
+      "score": 0.6833414449276943
+    },
+    {
+      "name": "whole genome",
+      "label": "instrument",
+      "description": "A comprehensive analysis of an organism's complete set of DNA, including all of its genes and non-coding regions",
+      "uuid": "3f44b72b-eb44-4da9-9a13-a152700a043e",
+      "score": 0.6831121830744492
+    },
+    {
+      "name": "genomics",
+      "label": "instrument",
+      "description": "The study of genomes, the complete set of DNA (including all of its genes) in an organism",
+      "uuid": "4e3dcb15-d2db-4fa5-9f5f-f2c7a8a7ae34",
+      "score": 0.7522392449089591
+    },
+    {
+      "name": "omics",
+      "label": "instrument",
+      "description": "A suffix used in biology to describe a field of study focused on a particular class of biological molecules, such as genomics, proteomics, or metabolomics",
+      "uuid": "8eb84f36-f355-458b-889f-b37cfa120654",
+      "score": 0.7910965187776384
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of metals and metalloids that are toxic and can have harmful effects on the environment and living organisms",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.685090835718512
+    },
+    {
+      "name": "proteomics",
+      "label": "instrument",
+      "description": "The large-scale study of proteomes, which are the entire sets of proteins produced or modified by an organism or system",
+      "uuid": "dd6592c0-c95a-4e4f-8ae7-8bfae7de9a3e",
+      "score": 0.6772340922798505
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The top layer of the Earth's surface, consisting of a mixture of mineral and organic particles, water, and air",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6242954748048422
+    },
+    {
+      "name": "plants",
+      "label": "variable",
+      "description": "Organisms that are capable of photosynthesis, such as trees, flowers, and grasses",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.6040564272235243
+    }
+  ],
+  "(55113, 58243)": [
+    {
+      "name": "carbon",
+      "label": "variable",
+      "description": "A chemical element and a fundamental component of all living organisms, involved in various geochemical cycles",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.6410011917484699
+    },
+    {
+      "name": "nitrogen",
+      "label": "variable",
+      "description": "A chemical element essential for life, involved in various geochemical cycles such as the nitrogen cycle",
+      "uuid": "ef36cb15-ad64-4bdc-9331-42cc5b493671",
+      "score": 0.6471591622126952
+    },
+    {
+      "name": "phosphorus",
+      "label": "variable",
+      "description": "A chemical element essential for life, involved in various geochemical cycles such as the phosphorus cycle",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.6398331573456526
+    },
+    {
+      "name": "sulfur",
+      "label": "variable",
+      "description": "A chemical element involved in various geochemical cycles such as the sulfur cycle",
+      "uuid": "742e6889-1ebf-4441-b803-4892c7176822",
+      "score": 0.5744833339947455
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of metals and metalloids that are toxic and can contaminate the environment",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6830912349853258
+    }
+  ],
+  "(57695, 61019)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Toxic elements, such as lead, mercury, and arsenic, that can contaminate the environment and pose health risks to humans and wildlife",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6802360862820237
+    },
+    {
+      "name": "United Nations Environmental Programme",
+      "label": "provider",
+      "description": "An international organization that works to protect the environment and promote sustainable development",
+      "uuid": "687d4231-8da8-4236-9cc4-26d7ff198578",
+      "score": 0.5597723335919992
+    },
+    {
+      "name": "United States Environmental Protection Agency",
+      "label": "provider",
+      "description": "A federal agency responsible for protecting the environment and public health in the United States",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7251703089732958
+    }
+  ],
+  "(60458, 63834)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of metallic elements that are toxic to humans and the environment, often found in contaminated soil and water",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.7113962542472095
+    },
+    {
+      "name": "metagenomic approaches",
+      "label": "model",
+      "description": "The study of the genetic material of microbial communities to understand their function and diversity",
+      "uuid": "1a6ed5fe-608e-46a0-ab9e-1306de875ebe",
+      "score": 0.5928647465561706
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6312174480020916
+    },
+    {
+      "name": "water",
+      "label": "location",
+      "description": "A liquid substance that is essential for life and is often contaminated with pollutants",
+      "uuid": "42c6d91b-afef-4638-95c5-0d130828b2e7",
+      "score": 0.512070876354897
+    }
+  ]
+}

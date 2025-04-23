@@ -1,0 +1,878 @@
+{
+  "(0, 2767)": [
+    {
+      "name": "Enhanced weathering",
+      "label": "project",
+      "description": "A strategy to accelerate the natural process of weathering to remove CO2 from the atmosphere and mitigate climate change",
+      "uuid": "1595c0a9-63a8-433c-8515-044a977d73a7",
+      "score": 0.5042582063544118
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario used to project future climate change, assuming no significant efforts to reduce greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6735201074580549
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A medium-emissions scenario used to project future climate change, assuming some efforts to reduce greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6255061053324473
+    },
+    {
+      "name": "Global carbon cycle modelling",
+      "label": "model",
+      "description": "A type of computer simulation used to study the movement of carbon through the Earth's system and predict future climate change",
+      "uuid": "640d703f-9312-4f11-8367-30a8bd8fc508",
+      "score": 0.5346064384732764
+    },
+    {
+      "name": "ocean acidification",
+      "label": "natural hazard",
+      "description": "The decrease in pH of the ocean over time, caused by the absorption of CO2 from the atmosphere, which can harm marine ecosystems",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.7409541766622456
+    },
+    {
+      "name": "Carbon Dioxide Removal",
+      "label": "project",
+      "description": "A set of strategies aimed at removing CO2 from the atmosphere to mitigate climate change",
+      "uuid": "1595c0a9-63a8-433c-8515-044a977d73a7",
+      "score": 0.7515834916013475
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "label": "provider",
+      "description": "An international organization that assesses the science related to climate change and provides guidance on mitigation and adaptation strategies",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.720538442483214
+    },
+    {
+      "name": "U.S. National Research Council",
+      "label": "provider",
+      "description": "A non-profit organization that provides scientific advice to the U.S. government on a range of topics, including climate change",
+      "uuid": "2c1003a4-e644-4ca6-a124-eac2d0ed18b2",
+      "score": 0.5585024653977261
+    },
+    {
+      "name": "coral reef ecosystems",
+      "label": "location",
+      "description": "Delicate ecosystems found in tropical oceans, which are vulnerable to ocean acidification and climate change",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.6150856227899224
+    },
+    {
+      "name": "fossil fuel emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as CO2, into the atmosphere through the burning of fossil fuels, such as coal, oil, and gas",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.6069218620723461
+    }
+  ],
+  "(2300, 4934)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "Coupled Model Intercomparison Project",
+      "label": "project",
+      "description": "An international project aimed at comparing and evaluating climate models to better understand and predict climate change",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.6947672574081094
+    },
+    {
+      "name": "dynamic global vegetation model",
+      "label": "model",
+      "description": "A computational representation of the interactions between vegetation and the environment, used to simulate the dynamics of ecosystems",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.6310009434001664
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Model, a type of climate model that simulates the general circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7691934564613159
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including landforms and elevation",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6745489844304385
+    },
+    {
+      "name": "ocean chemistry",
+      "label": "variable",
+      "description": "The study of the chemical composition and processes of the ocean, including its interactions with the atmosphere and land",
+      "uuid": "6eb3919b-85ce-4988-8b78-9d0018fd8089",
+      "score": 0.6379513870173701
+    },
+    {
+      "name": "terrestrial ecosystems",
+      "label": "location",
+      "description": "Ecosystems found on land, including forests, grasslands, and deserts, which play a crucial role in regulating the climate",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.682717908645716
+    },
+    {
+      "name": "terrestrial ecosystem processes",
+      "label": "variable",
+      "description": "The biological, chemical, and physical processes that occur within terrestrial ecosystems, influencing the exchange of energy and matter",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.5693933991450959
+    },
+    {
+      "name": "igneous rocks",
+      "label": "variable",
+      "description": "A type of rock that forms from the cooling and solidification of magma or lava, often used in geoengineering applications",
+      "uuid": "e8d97ffd-2fd2-4989-88a7-9772fc9b7cd8",
+      "score": 0.7094728329199901
+    },
+    {
+      "name": "land surface hydrology",
+      "label": "variable",
+      "description": "The study of the movement, distribution, and quality of water on and beneath the Earth's surface, including its interactions with the atmosphere and ecosystems",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.5674300074478672
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7564571328196901
+    },
+    {
+      "name": "Representative Concentration Pathway",
+      "label": "experiment",
+      "description": "A scenario used to project future greenhouse gas emissions and their impact on the climate",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5135345000120041
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario used to project future greenhouse gas emissions and their impact on the climate",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.678280184962023
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A medium-emissions scenario used to project future greenhouse gas emissions and their impact on the climate",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6284750302313412
+    }
+  ],
+  "(4487, 7207)": [
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between 30\u00b0N and 30\u00b0S latitude, characterized by a warm and humid climate",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7240002705267303
+    },
+    {
+      "name": "terrestrial weathering",
+      "label": "process",
+      "description": "The breakdown of rocks and minerals on land, influenced by factors such as climate, vegetation, and human activities",
+      "uuid": "6f47d087-21dc-41bc-955e-6eb2db8890cd",
+      "score": 0.5805454760914356
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas with significant impact on global climate",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.672428914559768
+    },
+    {
+      "name": "invertebrates",
+      "label": "organism",
+      "description": "Animals without backbones, such as insects and worms, that contribute to soil bioturbation",
+      "uuid": "abc6f016-d1f0-4725-b847-639de054d13f",
+      "score": 0.5813484439842583
+    },
+    {
+      "name": "bioturbation",
+      "label": "process",
+      "description": "The mixing of soil by living organisms, such as invertebrates, which affects soil structure and nutrient cycling",
+      "uuid": "14c8935f-8a46-4111-8f2e-bec8bbae5d13",
+      "score": 0.6552866097384658
+    },
+    {
+      "name": "RCP8.5",
+      "label": "scenario",
+      "description": "A high-emissions scenario used in climate modeling to project future climate changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6800169858504834
+    },
+    {
+      "name": "RCP4.5",
+      "label": "scenario",
+      "description": "A medium-mitigation scenario used in climate modeling to project future climate changes",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6279216512223356
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used for simulating and predicting climate changes",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7164077401114886
+    },
+    {
+      "name": "tropical forests",
+      "label": "ecosystem",
+      "description": "Forests located in the tropics, characterized by high biodiversity and significant carbon sequestration potential",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.6038991274897478
+    },
+    {
+      "name": "croplands",
+      "label": "land use",
+      "description": "Areas of land used for growing crops, which can be affected by soil quality and weathering processes",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6495449521245839
+    }
+  ],
+  "(6766, 9211)": [
+    {
+      "name": "tropical forests",
+      "label": "location",
+      "description": "A region of the Earth characterized by high temperatures and high levels of rainfall, with dense vegetation and diverse ecosystems",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.695096413971359
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent on Earth, known for its diverse climate, geography, and ecosystems",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.709713950710053
+    },
+    {
+      "name": "croplands",
+      "label": "location",
+      "description": "Agricultural areas used for growing crops, often found in regions with suitable climate and soil conditions",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6874042681201276
+    },
+    {
+      "name": "soil alkalinity",
+      "label": "variable",
+      "description": "A measure of the soil's pH level, with higher values indicating more alkaline conditions",
+      "uuid": "a74059fe-6b15-4b55-8ea5-4a65b66c7e11",
+      "score": 0.5679266557948632
+    },
+    {
+      "name": "cation exchange capacity",
+      "label": "variable",
+      "description": "A measure of the soil's ability to hold and exchange cations, important for nutrient availability and plant growth",
+      "uuid": "9bad3c7b-daf6-428a-89bd-ce62b074dfcf",
+      "score": 0.7917218177986702
+    },
+    {
+      "name": "phosphorus",
+      "label": "variable",
+      "description": "A nutrient essential for plant growth, often limiting in tropical soils",
+      "uuid": "47f4e7ac-b4ca-4ef9-824b-a36ea5510526",
+      "score": 0.6738899271770857
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that plays a crucial role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6437529017598793
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where weather and climate phenomena occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.613838441913737
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "A vast body of saltwater that covers over 70% of the Earth's surface, playing a key role in the climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7271535885879913
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, supporting plant growth and influencing the climate",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6318863729118828
+    },
+    {
+      "name": "land biosphere",
+      "label": "location",
+      "description": "The region of the Earth where life exists, including all ecosystems and living organisms",
+      "uuid": "91c64c46-d040-4daa-b26c-61952fdfaf50",
+      "score": 0.624731626611918
+    },
+    {
+      "name": "GENIE Earth system model",
+      "label": "model",
+      "description": "A computational model used to simulate the Earth's climate system and predict future changes",
+      "uuid": "2b590bb8-21f8-4d35-b610-e43bedb72263",
+      "score": 0.5102967973451144
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A climate change scenario that assumes a moderate level of greenhouse gas emissions and mitigation efforts",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6105209433753449
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A climate change scenario that assumes high levels of greenhouse gas emissions and minimal mitigation efforts",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6569895459445523
+    },
+    {
+      "name": "long-term amplifying climate feedbacks",
+      "label": "natural hazard",
+      "description": "A phenomenon where the climate system responds to changes in a way that amplifies the initial effect, leading to more severe consequences",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.579111363686949
+    }
+  ],
+  "(8840, 11347)": [
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high greenhouse gas emissions scenario used in climate modeling, representing a business-as-usual case",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.671844245403756
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A medium greenhouse gas emissions scenario used in climate modeling, representing a scenario with some mitigation efforts",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6158302004202041
+    },
+    {
+      "name": "atmospheric CO2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the Earth's atmosphere, a key driver of climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.671930673879547
+    },
+    {
+      "name": "ocean acidification",
+      "label": "natural hazard",
+      "description": "The decrease in pH of the ocean due to increased CO2 absorption, threatening marine ecosystems",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.7446149578432798
+    },
+    {
+      "name": "alkalinity",
+      "label": "variable",
+      "description": "The ability of a solution to neutralize acids, important for understanding ocean chemistry and the effects of enhanced weathering",
+      "uuid": "a74059fe-6b15-4b55-8ea5-4a65b66c7e11",
+      "score": 0.7245759621135699
+    },
+    {
+      "name": "dissolved inorganic carbon",
+      "label": "variable",
+      "description": "The amount of inorganic carbon dissolved in seawater, influencing ocean acidification and the carbon cycle",
+      "uuid": "037450ba-b996-4195-8615-76b8ad823875",
+      "score": 0.6971838700515689
+    },
+    {
+      "name": "ocean carbonate chemistry",
+      "label": "variable",
+      "description": "The study of the chemical processes that occur in the ocean, including the interactions between CO2, alkalinity, and pH",
+      "uuid": "68f7ba1b-a2f9-41b6-9bc1-fd187942fbed",
+      "score": 0.6022060227091963
+    },
+    {
+      "name": "global mean surface ocean",
+      "label": "location",
+      "description": "The average surface temperature of the world's oceans, an important indicator of climate change",
+      "uuid": "f7c9aebd-2802-4221-8adb-199f81034a1a",
+      "score": 0.615738770589716
+    },
+    {
+      "name": "long-term amplifying climate feedbacks",
+      "label": "teleconnection",
+      "description": "Processes that amplify the effects of climate change over time, such as the melting of Arctic ice",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.5791462870488852
+    }
+  ],
+  "(10975, 13511)": [
+    {
+      "name": "ocean acidification",
+      "label": "weather event",
+      "description": "The decrease in the pH level of the ocean over time, caused by the absorption of excess carbon dioxide from the atmosphere",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.7358628981635305
+    },
+    {
+      "name": "coral reef health",
+      "label": "variable",
+      "description": "The condition or status of coral reefs, which are sensitive ecosystems that can be impacted by climate change",
+      "uuid": "3edb3342-dab8-41d6-9f6a-28dd448528ec",
+      "score": 0.6261537536071649
+    },
+    {
+      "name": "aragonite saturation state",
+      "label": "variable",
+      "description": "A measure of the concentration of aragonite, a form of calcium carbonate, in seawater, which affects the ability of corals to build skeletons",
+      "uuid": "11702993-fa88-48d3-87ac-f9382ba8f860",
+      "score": 0.5932359570599114
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario that assumes a moderate increase in greenhouse gas emissions and a moderate level of climate change mitigation efforts",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6107652716341202
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario that assumes a high increase in greenhouse gas emissions and a low level of climate change mitigation efforts",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6729404260213712
+    },
+    {
+      "name": "global mean surface ocean",
+      "label": "location",
+      "description": "The average surface temperature of the global ocean, which is an important indicator of climate change",
+      "uuid": "f7c9aebd-2802-4221-8adb-199f81034a1a",
+      "score": 0.622197356472252
+    },
+    {
+      "name": "coral reefs",
+      "label": "location",
+      "description": "Ecosystems formed by coral polyps, typically found in shallow, tropical waters, and sensitive to changes in ocean chemistry and temperature",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.6864643873103391
+    },
+    {
+      "name": "climate change mitigation",
+      "label": "project",
+      "description": "Efforts to reduce or prevent the impacts of climate change, including strategies to reduce greenhouse gas emissions and enhance carbon sinks",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6712635571313793
+    },
+    {
+      "name": "enhanced weathering",
+      "label": "experiment",
+      "description": "A technique that involves adding minerals to the environment to enhance the natural process of weathering, which can help to remove carbon dioxide from the atmosphere",
+      "uuid": "1595c0a9-63a8-433c-8515-044a977d73a7",
+      "score": 0.502736552721359
+    },
+    {
+      "name": "21st century climate change",
+      "label": "weather event",
+      "description": "The projected changes in climate during the 21st century, which are expected to have significant impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5084918933174248
+    },
+    {
+      "name": "vegetation activity",
+      "label": "variable",
+      "description": "The level of growth and productivity of plants, which can affect the rate of soil mineral weathering and the potential for enhanced weathering as a climate change mitigation strategy",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5511376149709152
+    }
+  ],
+  "(12928, 16282)": [
+    {
+      "name": "fossil fuel burning",
+      "label": "weather event",
+      "description": "The burning of fossil fuels such as coal, oil, and natural gas for energy, releasing carbon dioxide and other greenhouse gases into the atmosphere",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.7409353834007967
+    },
+    {
+      "name": "carbon-energy flux",
+      "label": "variable",
+      "description": "The flow of carbon and energy between the atmosphere, oceans, land, and living organisms, influencing climate and ecosystems",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.6978547250448293
+    },
+    {
+      "name": "ocean acidification",
+      "label": "natural hazard",
+      "description": "The decrease in pH of the ocean over time, caused by the absorption of excess carbon dioxide from the atmosphere, affecting marine ecosystems",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.7544155715490236
+    },
+    {
+      "name": "climate change mitigation",
+      "label": "project",
+      "description": "Efforts to reduce or prevent the emission of greenhouse gases, such as carbon dioxide, in order to slow the rate of global warming and mitigate its impacts",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6838809550840943
+    },
+    {
+      "name": "terrestrial rock weathering",
+      "label": "experiment",
+      "description": "The process of rocks on land breaking down into smaller particles and releasing minerals, which can help remove carbon dioxide from the atmosphere",
+      "uuid": "82eac236-38ba-469d-837a-950ffa7e8316",
+      "score": 0.5601651305053761
+    },
+    {
+      "name": "tropical forests",
+      "label": "location",
+      "description": "Regions near the equator with high levels of rainfall and dense vegetation, playing a crucial role in the global carbon cycle and climate regulation",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.6486070928384224
+    },
+    {
+      "name": "agricultural lands",
+      "label": "location",
+      "description": "Areas used for farming and agriculture, which can be utilized for enhanced weathering and carbon sequestration",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6259589372591197
+    },
+    {
+      "name": "marine diatoms",
+      "label": "variable",
+      "description": "A type of phytoplankton that absorbs carbon dioxide from the atmosphere and helps to regulate the Earth's climate",
+      "uuid": "fdb04105-e8ba-4a83-9c35-ed3c931ccc9f",
+      "score": 0.607157149804952
+    },
+    {
+      "name": "revegetation",
+      "label": "project",
+      "description": "The process of restoring vegetation to areas where it has been damaged or destroyed, which can help to remove carbon dioxide from the atmosphere",
+      "uuid": "39a032bf-c3bc-481b-9698-8be114fe85cb",
+      "score": 0.6364988087852168
+    }
+  ],
+  "(15798, 18776)": [
+    {
+      "name": "carbon fee",
+      "label": "policy",
+      "description": "A government-imposed fee on the production, distribution, or use of fossil fuels, aimed at reducing greenhouse gas emissions and mitigating climate change",
+      "uuid": "0e530a5f-1e75-4602-9659-98ff5c3d7076",
+      "score": 0.5040257560364418
+    },
+    {
+      "name": "fossil fuel burning",
+      "label": "activity",
+      "description": "The combustion of fossil fuels such as coal, oil, and gas, releasing carbon dioxide and other greenhouse gases into the atmosphere",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.7350949000957321
+    },
+    {
+      "name": "terrestrial rock weathering",
+      "label": "process",
+      "description": "The breakdown of rocks on land through chemical, physical, and biological processes, releasing minerals and nutrients into the environment",
+      "uuid": "6f47d087-21dc-41bc-955e-6eb2db8890cd",
+      "score": 0.5824791162196196
+    },
+    {
+      "name": "Sheffield Dynamic Global Vegetation Model",
+      "label": "model",
+      "description": "A computational model used to simulate the dynamics of terrestrial vegetation and its interactions with the climate system",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.5551724959691151
+    },
+    {
+      "name": "SDGVM",
+      "label": "model",
+      "description": "The Sheffield Dynamic Global Vegetation Model, a computational model used to simulate the dynamics of terrestrial vegetation and its interactions with the climate system",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.500725211941204
+    },
+    {
+      "name": "land use patterns",
+      "label": "variable",
+      "description": "The way in which land is used by humans, such as for agriculture, urban development, or conservation, which can impact the climate and environment",
+      "uuid": "3b6fe940-7383-4bae-b436-fc487723bbcf",
+      "score": 0.5749490997384542
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a crucial role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6831988491097487
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where weather and climate phenomena occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.613838441913737
+    },
+    {
+      "name": "mineral dissolution",
+      "label": "process",
+      "description": "The breakdown of minerals into their constituent elements, often through chemical reactions with water or other substances",
+      "uuid": "524cbe78-9c1f-4ef3-8aa9-0481476c253e",
+      "score": 0.694945228999351
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The rate at which plants and other organisms produce organic matter through photosynthesis",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7434350749262039
+    },
+    {
+      "name": "carbon-energy flux",
+      "label": "variable",
+      "description": "The flow of carbon and energy through ecosystems, often measured in terms of the exchange of carbon dioxide and other greenhouse gases",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.6648624257231958
+    },
+    {
+      "name": "soil solution chemistry",
+      "label": "variable",
+      "description": "The composition and properties of the liquid phase in soils, which can affect the availability of nutrients and the behavior of microorganisms",
+      "uuid": "e273b634-62f5-4601-8b92-6550f6efeab8",
+      "score": 0.5620272753668183
+    },
+    {
+      "name": "land surface net primary productivity",
+      "label": "variable",
+      "description": "The rate at which plants and other organisms produce organic matter through photosynthesis, minus the rate at which they respire and release carbon dioxide",
+      "uuid": "569a2936-7543-434e-92e2-6f75a5be68c0",
+      "score": 0.6293376816026185
+    },
+    {
+      "name": "terrestrial carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in terrestrial ecosystems, including in plants, soils, and dead organic matter",
+      "uuid": "d3de94c5-a990-424c-ad15-33faaf393e7a",
+      "score": 0.5740725906087993
+    },
+    {
+      "name": "nitrogen and water cycling",
+      "label": "process",
+      "description": "The movement of nitrogen and water through ecosystems, often involving the exchange of these substances between plants, microorganisms, and the environment",
+      "uuid": "7a33a978-8ef6-4313-b489-c06cfc6d9cec",
+      "score": 0.5881404720625355
+    },
+    {
+      "name": "autotrophic and heterotrophic soil respiration",
+      "label": "process",
+      "description": "The release of carbon dioxide from soils through the respiration of microorganisms and other organisms",
+      "uuid": "8286d00a-e540-4e01-9e15-377711e5fe56",
+      "score": 0.6792052183807731
+    },
+    {
+      "name": "organic carbon pools",
+      "label": "variable",
+      "description": "The amount of carbon stored in organic matter, such as in plants, soils, and dead organic matter",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5810898492859315
+    },
+    {
+      "name": "mineral dissolution reaction",
+      "label": "process",
+      "description": "The chemical reaction by which minerals are broken down into their constituent elements",
+      "uuid": "524cbe78-9c1f-4ef3-8aa9-0481476c253e",
+      "score": 0.6386662602419283
+    }
+  ],
+  "(18237, 21074)": [
+    {
+      "name": "soil solution chemistry",
+      "label": "variable",
+      "description": "The chemical composition of the liquid phase in the soil, influenced by factors such as mineral dissolution and precipitation of secondary phases",
+      "uuid": "e273b634-62f5-4601-8b92-6550f6efeab8",
+      "score": 0.5590539963072885
+    },
+    {
+      "name": "mineral dissolution",
+      "label": "experiment",
+      "description": "A process in which minerals break down into their constituent elements, often influenced by factors such as pH, temperature, and the presence of weathering agents",
+      "uuid": "524cbe78-9c1f-4ef3-8aa9-0481476c253e",
+      "score": 0.7266293220229875
+    },
+    {
+      "name": "calcite",
+      "label": "mineral",
+      "description": "A type of calcium carbonate mineral that can influence the soil solution chemistry",
+      "uuid": "7367c08c-304f-4ce7-b716-975f835ba711",
+      "score": 0.5149207034794567
+    },
+    {
+      "name": "General Circulation Models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6808907329271022
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas emissions and concentration pathways, used to project future climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6319679369791905
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas emissions and concentration pathways, used to project future climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6761642026579128
+    },
+    {
+      "name": "atmospheric CO2 concentration",
+      "label": "variable",
+      "description": "The amount of carbon dioxide present in the atmosphere, an important factor influencing climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.602166533875198
+    }
+  ],
+  "(20582, 23587)": [
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario with a radiative forcing of 4.5 W/m\u00b2 by 2100, used to project future climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6447139163960004
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario with a radiative forcing of 8.5 W/m\u00b2 by 2100, used to project future climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.715749565368236
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, computational representations of the Earth's climate system used to simulate and predict climate patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7643858283032466
+    },
+    {
+      "name": "atmospheric CO2 concentration",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the Earth's atmosphere, a key driver of climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6251425530213796
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, influencing climate and weather patterns",
+      "uuid": "a32cbebb-0f17-41a6-9bf7-f3b111e4c56e",
+      "score": 0.6540993481626324
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The ratio of the amount of water vapor in the air to the maximum amount the air can hold at a given temperature",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.736376061640044
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, influencing climate, weather, and water cycles",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6638914536514119
+    },
+    {
+      "name": "silicate rock",
+      "label": "platform",
+      "description": "A type of rock composed of silicate minerals, used in geoengineering simulations",
+      "uuid": "c91c8879-1b29-48e3-b4cd-a238af66cdaf",
+      "score": 0.5008226244868779
+    },
+    {
+      "name": "geoengineering",
+      "label": "project",
+      "description": "A project that involves large-scale technological interventions in the Earth's climate system to counteract the effects of climate change",
+      "uuid": "262e3568-c57b-4e28-a142-ad5e7b51dfb7",
+      "score": 0.7045171557889892
+    },
+    {
+      "name": "ocean biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of nutrients and elements through the ocean's ecosystems, influencing ocean productivity and climate",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.6497638984678537
+    },
+    {
+      "name": "ocean circulation",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of water masses in the Earth's oceans, driven by wind, density differences, and the Coriolis effect",
+      "uuid": "a031952d-9f00-4ba5-9966-5f87ab9dfdd4",
+      "score": 0.6862147926492435
+    }
+  ],
+  "(23113, 25508)": [
+    {
+      "name": "ocean biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of nutrients and elements within the ocean, influencing its chemistry and ecosystems",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.652011042088165
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, an important factor in climate studies",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6873100016465571
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air, influencing weather patterns and climate conditions",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6835815347453664
+    },
+    {
+      "name": "carbon cycle",
+      "label": "variable",
+      "description": "The process by which carbon is exchanged between the atmosphere, oceans, land, and living organisms, crucial for understanding climate change",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.6241865627933565
+    },
+    {
+      "name": "ocean phosphate",
+      "label": "variable",
+      "description": "A nutrient essential for marine life, influencing ocean productivity and the carbon cycle",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.6814447404735533
+    },
+    {
+      "name": "alkalinity distributions",
+      "label": "variable",
+      "description": "The concentration of alkaline substances in the ocean, affecting its chemistry and ability to absorb carbon dioxide",
+      "uuid": "4eab7956-e59e-4615-8d5c-39a16faa1f27",
+      "score": 0.6054495053786092
+    },
+    {
+      "name": "World Climate Research Programme's Working Group",
+      "label": "provider",
+      "description": "An international organization focused on advancing climate research and promoting cooperation among climate scientists",
+      "uuid": "485e86f3-7cd1-43c0-bb02-a929b7d96e43",
+      "score": 0.6769483538642151
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    }
+  ]
+}

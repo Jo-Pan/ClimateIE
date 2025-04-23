@@ -1,0 +1,305 @@
+{
+  "(2860, 5931)": [
+    {
+      "name": "Singapore University of Technology and Design (SUTD)",
+      "label": "provider",
+      "description": "An academic institution focused on research and development in various fields, including smart grids",
+      "uuid": "b98d9fe4-e822-447f-95db-e617e930b749",
+      "score": 0.5096022296405431
+    }
+  ],
+  "(5415, 8571)": [
+    {
+      "name": "SUTD",
+      "label": "provider",
+      "description": "Singapore University of Technology and Design, an academic institution potentially involved in smart grid research",
+      "uuid": "b98d9fe4-e822-447f-95db-e617e930b749",
+      "score": 0.5187531353647796
+    },
+    {
+      "name": "sensors",
+      "label": "instrument",
+      "description": "Devices used to measure and collect data within the smart grid",
+      "uuid": "aa953a14-4581-47f8-a5b3-c8dd50904ee0",
+      "score": 0.531250736089894
+    },
+    {
+      "name": "AMI",
+      "label": "instrument",
+      "description": "Advanced Metering Infrastructure, a system for measuring and managing energy usage",
+      "uuid": "bd977f0f-7032-4be9-90c6-28363767e53a",
+      "score": 0.5126289540181457
+    }
+  ],
+  "(8008, 11240)": [
+    {
+      "name": "wind",
+      "label": "variable",
+      "description": "A source of renewable energy",
+      "uuid": "b3a95e10-1c1d-41cf-8802-8bb1d3a41353",
+      "score": 0.506295307728267
+    },
+    {
+      "name": "solar",
+      "label": "variable",
+      "description": "A source of renewable energy",
+      "uuid": "8b4f34c1-7aed-4833-811a-401382abd17c",
+      "score": 0.5696297228953529
+    }
+  ],
+  "(10678, 13965)": [
+    {
+      "name": "Georgia Institute of Technology",
+      "label": "provider",
+      "description": "A university that conducts research and development in various fields, including smart grid technologies",
+      "uuid": "774e026d-a692-42c8-832d-51cca28a83fb",
+      "score": 0.5757553300077015
+    }
+  ],
+  "(13343, 16679)": [
+    {
+      "name": "SUTD",
+      "label": "provider",
+      "description": "The Singapore University of Technology and Design, an academic institution involved in research and development of smart grid technologies",
+      "uuid": "b98d9fe4-e822-447f-95db-e617e930b749",
+      "score": 0.5106740465985212
+    }
+  ],
+  "(16154, 18912)": [
+    {
+      "name": "cloud",
+      "label": "platform",
+      "description": "A remote computing infrastructure that stores and processes data over the internet",
+      "uuid": "1c08d8f3-f733-41d8-a01b-2f4044043224",
+      "score": 0.5076632831535701
+    },
+    {
+      "name": "smart meters",
+      "label": "instrument",
+      "description": "Devices that measure and record energy consumption in real-time",
+      "uuid": "2724649a-5bae-4b34-89c0-2e5ca6d3203b",
+      "score": 0.5462270580986284
+    },
+    {
+      "name": "Singapore",
+      "label": "location",
+      "description": "A country in Southeast Asia where SUTD is located",
+      "uuid": "6364bdbb-cdec-4059-a2b5-6b873c09fc7d",
+      "score": 0.5499776343645955
+    }
+  ],
+  "(18460, 21308)": [
+    {
+      "name": "Singapore",
+      "label": "location",
+      "description": "A country in Southeast Asia, known for its highly developed economy and technological infrastructure",
+      "uuid": "6364bdbb-cdec-4059-a2b5-6b873c09fc7d",
+      "score": 0.5981933779162056
+    },
+    {
+      "name": "IES",
+      "label": "provider",
+      "description": "The Intelligent Energy System, a system that monitors and controls energy usage in a home or building",
+      "uuid": "eb8fdbae-05fc-4017-9759-300261552f45",
+      "score": 0.5151567186436654
+    }
+  ],
+  "(20807, 23582)": [
+    {
+      "name": "sensors",
+      "label": "instrument",
+      "description": "Devices that detect and measure various parameters such as temperature, humidity, and motion",
+      "uuid": "aa953a14-4581-47f8-a5b3-c8dd50904ee0",
+      "score": 0.6317529912270314
+    },
+    {
+      "name": "IES",
+      "label": "provider",
+      "description": "An institution or organization that provides services and infrastructure for home automation and energy management",
+      "uuid": "be11d2fc-7681-44be-b37f-8dbc8da31f70",
+      "score": 0.5635299387156097
+    },
+    {
+      "name": "temperature and humidity sensor",
+      "label": "instrument",
+      "description": "A device that measures temperature and humidity levels in a given environment",
+      "uuid": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
+      "score": 0.7436996020850074
+    }
+  ],
+  "(23147, 25958)": [
+    {
+      "name": "temperature and humidity sensor",
+      "label": "instrument",
+      "description": "A sensor that measures temperature and humidity levels in the environment",
+      "uuid": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
+      "score": 0.7342721547988866
+    },
+    {
+      "name": "BLE sensor",
+      "label": "instrument",
+      "description": "A Bluetooth Low Energy sensor used for monitoring temperature, humidity, and pressure levels",
+      "uuid": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
+      "score": 0.525258362182901
+    },
+    {
+      "name": "accelerometer",
+      "label": "instrument",
+      "description": "A sensor that measures acceleration and movement",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.6398777532217284
+    },
+    {
+      "name": "gyroscope",
+      "label": "instrument",
+      "description": "A sensor that measures orientation and rotation",
+      "uuid": "01992a08-d5a3-4eb6-8b46-7e3caa395022",
+      "score": 0.5683248480403019
+    },
+    {
+      "name": "magnetometer",
+      "label": "instrument",
+      "description": "A sensor that measures magnetic fields and orientation",
+      "uuid": "deac2632-5c17-4d15-ae92-c61ebc5a405a",
+      "score": 0.5907252045914135
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system or environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6145198565062988
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air or environment",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6961745218963538
+    },
+    {
+      "name": "pressure",
+      "label": "variable",
+      "description": "A measure of the force exerted on a surface or environment",
+      "uuid": "2862699c-a8e0-478f-8c28-e3f204dffedd",
+      "score": 0.6715053996762634
+    }
+  ],
+  "(25441, 28712)": [
+    {
+      "name": "TI sensors",
+      "label": "instrument",
+      "description": "Devices used to measure various physical parameters such as acceleration, orientation, and magnetization",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.5330990478754131
+    },
+    {
+      "name": "accelerometer",
+      "label": "instrument",
+      "description": "A device used to measure acceleration, which is the rate of change of velocity of an object",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.6157201706148786
+    },
+    {
+      "name": "gyroscope",
+      "label": "instrument",
+      "description": "A device used to measure orientation and angular velocity of an object",
+      "uuid": "01992a08-d5a3-4eb6-8b46-7e3caa395022",
+      "score": 0.5472130802723442
+    },
+    {
+      "name": "magnetometer",
+      "label": "instrument",
+      "description": "A device used to measure the strength and direction of magnetic fields",
+      "uuid": "deac2632-5c17-4d15-ae92-c61ebc5a405a",
+      "score": 0.5898363696332514
+    },
+    {
+      "name": "SUTD",
+      "label": "provider",
+      "description": "An academic institution, likely the Singapore University of Technology and Design, involved in the development and implementation of the energy management experiments",
+      "uuid": "b98d9fe4-e822-447f-95db-e617e930b749",
+      "score": 0.5046094939779502
+    }
+  ],
+  "(28152, 31294)": [
+    {
+      "name": "IES",
+      "label": "instrument",
+      "description": "A system or tool used for managing and controlling electricity, possibly referring to an Intelligent Energy System",
+      "uuid": "eb8fdbae-05fc-4017-9759-300261552f45",
+      "score": 0.5165624722798703
+    },
+    {
+      "name": "electricity",
+      "label": "variable",
+      "description": "A form of energy used for powering various devices and systems, with its management and efficiency being a focus of the experiments",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.5738275142552494
+    }
+  ],
+  "(30809, 34132)": [
+    {
+      "name": "SUTD",
+      "label": "provider",
+      "description": "The Singapore University of Technology and Design, an institution of higher learning that provides education and conducts research in various fields",
+      "uuid": "a4fa0998-9f26-49cb-98e8-484cf0d8adb7",
+      "score": 0.513643165816818
+    },
+    {
+      "name": "smart meter",
+      "label": "instrument",
+      "description": "A device that measures and records energy consumption in real-time, often used to provide detailed information about energy usage patterns",
+      "uuid": "2724649a-5bae-4b34-89c0-2e5ca6d3203b",
+      "score": 0.5058841245570034
+    }
+  ],
+  "(33617, 36802)": [
+    {
+      "name": "SUTD",
+      "label": "provider",
+      "description": "The Singapore University of Technology and Design, an academic institution involved in research and development of smart energy management systems",
+      "uuid": "b98d9fe4-e822-447f-95db-e617e930b749",
+      "score": 0.5291320586708153
+    },
+    {
+      "name": "NEMS",
+      "label": "provider",
+      "description": "The National Electricity Market of Singapore, an organization responsible for managing and regulating the electricity market",
+      "uuid": "e2e6df59-5768-4c4d-a0ed-0ec040de37ce",
+      "score": 0.5029543185310514
+    },
+    {
+      "name": "Singapore",
+      "label": "location",
+      "description": "A country in Southeast Asia, known for its smart energy management initiatives",
+      "uuid": "6364bdbb-cdec-4059-a2b5-6b873c09fc7d",
+      "score": 0.5241252557957391
+    }
+  ],
+  "(38865, 41791)": [
+    {
+      "name": "SUTD",
+      "label": "provider",
+      "description": "The Singapore University of Technology and Design, an academic institution focused on research and development of innovative technologies",
+      "uuid": "a4fa0998-9f26-49cb-98e8-484cf0d8adb7",
+      "score": 0.5198849500932771
+    },
+    {
+      "name": "Singapore",
+      "label": "location",
+      "description": "A country in Southeast Asia, known for its urbanized and technologically advanced environment",
+      "uuid": "6364bdbb-cdec-4059-a2b5-6b873c09fc7d",
+      "score": 0.6030568613068513
+    }
+  ],
+  "(41284, 42357)": [
+    {
+      "name": "Singapore University of Technology and Design",
+      "label": "provider",
+      "description": "A university in Singapore that focuses on innovation, design, and technology, including research on smart grids and energy management",
+      "uuid": "b98d9fe4-e822-447f-95db-e617e930b749",
+      "score": 0.5161655380641123
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "(0, 3163)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, the world's most populous country and second-largest economy, with significant environmental and climate challenges",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6231114159638271
+    },
+    {
+      "name": "Air Quality Index",
+      "label": "variable",
+      "description": "A measure of the level of air pollution, indicating the health risks associated with breathing polluted air",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5659093194967854
+    }
+  ],
+  "(2655, 5707)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, where the COVID-19 pandemic was first reported and initially contained",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5543264409218888
+    },
+    {
+      "name": "urbanization",
+      "label": "variable",
+      "description": "The process of people moving from rural areas to cities, leading to changes in population density and lifestyle",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.523274843654923
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America where the COVID-19 pandemic has had a significant impact",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5745389759291778
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, which can affect the spread of diseases",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5710210808189166
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, which can affect the spread of diseases",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6379430188229958
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, which can affect human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6579569275213712
+    },
+    {
+      "name": "environment regulations",
+      "label": "variable",
+      "description": "Rules and laws that govern human impact on the environment, which can be affected by the COVID-19 pandemic",
+      "uuid": "57df059e-578a-4371-9484-7a34d63edfa5",
+      "score": 0.6468821205427804
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a US government agency that conducts space and aeronautics research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6881017536391814
+    },
+    {
+      "name": "remote sensing data",
+      "label": "instrument",
+      "description": "Data collected from satellites or other remote sensing technologies, which can be used to study the environment and human activities",
+      "uuid": "afa11694-6aad-4d0b-8588-5ae14cce35cc",
+      "score": 0.5413204871649347
+    }
+  ],
+  "(5188, 8163)": [
+    {
+      "name": "environment regulations",
+      "label": "project",
+      "description": " Laws and policies aimed at protecting the environment, which can be influenced by pandemic responses and economic activities",
+      "uuid": "57df059e-578a-4371-9484-7a34d63edfa5",
+      "score": 0.6517716618931902
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": " The National Aeronautics and Space Administration, a US government agency responsible for space exploration, aeronautics, and related scientific research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.7043454190304934
+    },
+    {
+      "name": "remote sensing data",
+      "label": "variable",
+      "description": " Data collected from a distance, often using satellites or aircraft, to study the Earth's surface, atmosphere, and natural phenomena",
+      "uuid": "afa11694-6aad-4d0b-8588-5ae14cce35cc",
+      "score": 0.551309436301196
+    },
+    {
+      "name": "natural disasters",
+      "label": "natural hazard",
+      "description": " Severe and unusual meteorological occurrences such as heatwaves, floods, and storms, which can have devastating impacts on human populations and the environment",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.5906202628334514
+    },
+    {
+      "name": "epidemics",
+      "label": "weather event",
+      "description": " Widespread occurrences of a disease, often infectious, that can affect large populations and have significant social, economic, and health impacts",
+      "uuid": "b8a877b7-d867-4305-9053-3777e5dd330a",
+      "score": 0.5335591714032746
+    },
+    {
+      "name": "European Space Agency (ESA)",
+      "label": "provider",
+      "description": " An intergovernmental organization dedicated to the exploration and development of space, cooperating with other space agencies and organizations",
+      "uuid": "8276d6f9-8fd5-44cd-8dd7-3ca326a9c21e",
+      "score": 0.5323960979206432
+    },
+    {
+      "name": "modified Copernicus Sentinel 5P data",
+      "label": "instrument",
+      "description": " A type of satellite data used to monitor air quality, specifically the levels of pollutants such as Nitrogen Dioxide (NO2",
+      "uuid": "77e9a75e-2c3b-428b-8b21-b6a902dd8fee",
+      "score": 0.5920796845692754
+    },
+    {
+      "name": "airborne Nitrogen Dioxide (NO2)",
+      "label": "variable",
+      "description": " A pollutant in the air that can have negative impacts on human health and the environment, often associated with industrial activities and vehicle emissions",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.5863466454907216
+    },
+    {
+      "name": "Sulfur Dioxide (SO2)",
+      "label": "variable",
+      "description": " A pollutant in the air that can have negative impacts on human health and the environment, often associated with industrial activities and the burning of fossil fuels",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6451180048589523
+    },
+    {
+      "name": "Carbon Monoxide (CO)",
+      "label": "variable",
+      "description": " A colorless, odorless gas that can be harmful to human health, often associated with incomplete combustion of fossil fuels",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.7253187931809688
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": " A country in East Asia, with a large population and significant economic and environmental impacts",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6151680462043216
+    },
+    {
+      "name": "Nitrogen Dioxide (NO2) emissions",
+      "label": "variable",
+      "description": " The release of NO2 into the atmosphere, often as a result of human activities such as industrial processes and vehicle emissions",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.5863332633721922
+    },
+    {
+      "name": "carbon emissions",
+      "label": "variable",
+      "description": " The release of carbon dioxide (CO2) into the atmosphere, often as a result of human activities such as burning fossil fuels and industrial processes",
+      "uuid": "0e530a5f-1e75-4602-9659-98ff5c3d7076",
+      "score": 0.5598284473215578
+    }
+  ],
+  "(7703, 10588)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia with a large population and significant industrial activities, which was heavily impacted by the COVID-19 pandemic",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5745701477542912
+    },
+    {
+      "name": "NO 2",
+      "label": "variable",
+      "description": "Nitrogen dioxide, a pollutant that can affect air quality and human health",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.6416856560387547
+    },
+    {
+      "name": "carbon emissions",
+      "label": "variable",
+      "description": "The release of carbon dioxide into the atmosphere, often associated with human activities such as industrial production and transportation",
+      "uuid": "0e530a5f-1e75-4602-9659-98ff5c3d7076",
+      "score": 0.5822489101175048
+    },
+    {
+      "name": "Sulfur Dioxide",
+      "label": "variable",
+      "description": "A pollutant that can contribute to acid rain and air quality issues",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6799402502955941
+    },
+    {
+      "name": "Carbon Monoxide",
+      "label": "variable",
+      "description": "A toxic gas that can be emitted by vehicles and industrial processes, affecting air quality and human health",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.7115070971052022
+    },
+    {
+      "name": "Ozone",
+      "label": "variable",
+      "description": "A gas that can be formed in the atmosphere through chemical reactions, influencing air quality and climate",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6213495749059086
+    },
+    {
+      "name": "Particulate Matters",
+      "label": "variable",
+      "description": "Small particles in the air that can be emitted by various sources, including vehicles and industrial activities, and can affect human health",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.6886112823341396
+    },
+    {
+      "name": "Air Quality Index",
+      "label": "variable",
+      "description": "A measure of the overall air quality, taking into account multiple pollutants and their concentrations",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5916915721731423
+    },
+    {
+      "name": "VIIRS",
+      "label": "instrument",
+      "description": "The Visible Infrared Imaging Radiometer Suite, a sensor onboard the Suomi National Polar-orbiting Partnership satellite, used for remote sensing and environmental monitoring",
+      "uuid": "dd7c719e-5767-4ceb-b83a-66c1401dab4a",
+      "score": 0.7700172263031647
+    },
+    {
+      "name": "Suomi National Polar-orbiting Partnership",
+      "label": "platform",
+      "description": "A satellite mission that provides data for weather forecasting, climate monitoring, and environmental studies",
+      "uuid": "7e67da74-770f-4304-9353-4a72df1a6f76",
+      "score": 0.7045283337036989
+    },
+    {
+      "name": "NASA's LAADS DAAC data center",
+      "label": "provider",
+      "description": "A data center that archives and distributes satellite data, including the VIIRS data used in this study",
+      "uuid": "0b50c12d-a6ae-4d63-b42b-d99bf7aa2da0",
+      "score": 0.6135543730577574
+    },
+    {
+      "name": "environmental governance",
+      "label": "project",
+      "description": "Efforts to manage and regulate human activities that impact the environment, including air quality and pollution",
+      "uuid": "d81b77be-0177-4e26-942c-aa911239482d",
+      "score": 0.6648224474590205
+    }
+  ],
+  "(10050, 12729)": [
+    {
+      "name": "DMSP/OLS",
+      "label": "instrument",
+      "description": "The Defense Meteorological Satellite Program/Operational Linescan System, a previous generation of nighttime lights image products",
+      "uuid": "47a49789-181d-43d0-8591-a0fe494f86d2",
+      "score": 0.6666225258491605
+    },
+    {
+      "name": "VIIRS/DNB",
+      "label": "instrument",
+      "description": "The Visible Infrared Imaging Radiometer Suite/Day-Night Band, a sensor used to detect anthropogenic lighting at night",
+      "uuid": "dd7c719e-5767-4ceb-b83a-66c1401dab4a",
+      "score": 0.5729223114106109
+    },
+    {
+      "name": "AQI",
+      "label": "variable",
+      "description": "The Air Quality Index, a measure of the severity of air pollution based on the concentration of air pollutants such as PM2.5, PM10, O3, NO2, SO2, and CO",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5472969079785868
+    },
+    {
+      "name": "PM 2.5",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 2.5 micrometers or less, a common air pollutant",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.7495397605045359
+    },
+    {
+      "name": "PM 10",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 10 micrometers or less, a common air pollutant",
+      "uuid": "2cd061e7-f351-46fa-8432-fb36faef3bbe",
+      "score": 0.7316179176729961
+    },
+    {
+      "name": "Ozone",
+      "label": "variable",
+      "description": "A gas composed of three oxygen atoms, a common air pollutant",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5412674570122955
+    },
+    {
+      "name": "Nitrogen Dioxide",
+      "label": "variable",
+      "description": "A gas composed of nitrogen and oxygen, a common air pollutant",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.7263985787088781
+    },
+    {
+      "name": "Sulfur Dioxide",
+      "label": "variable",
+      "description": "A gas composed of sulfur and oxygen, a common air pollutant",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.7190232778830418
+    },
+    {
+      "name": "Carbon Monoxide",
+      "label": "variable",
+      "description": "A gas composed of carbon and oxygen, a common air pollutant",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.7180188142847211
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population and significant environmental concerns",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5954372535805188
+    },
+    {
+      "name": "COVID-19",
+      "label": "natural hazard",
+      "description": "A global pandemic caused by the SARS-CoV-2 virus, with significant impacts on human health and the environment",
+      "uuid": "89e3dc82-e76e-48a4-8070-abd70ea5d2fd",
+      "score": 0.5019903055196981
+    },
+    {
+      "name": "residential, urban, and built-up areas",
+      "label": "location",
+      "description": "Areas with high human activity and artificial lighting, such as cities and towns",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6054638452345998
+    },
+    {
+      "name": "meteorological stations",
+      "label": "platform",
+      "description": "Locations where weather and climate data are collected, used to monitor and study the environment",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.6990888632752509
+    }
+  ],
+  "(12274, 15018)": [
+    {
+      "name": "AQI",
+      "label": "variable",
+      "description": "The Air Quality Index, a measure of the level of air pollutants in a given area, used to assess the health and environmental impacts of air quality",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5515905413076326
+    },
+    {
+      "name": "meteorological stations",
+      "label": "instrument",
+      "description": "Devices used to measure and record atmospheric conditions such as temperature, humidity, and air quality",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.6961398107797965
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population and significant economic influence, where the COVID-19 pandemic first emerged",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5806952848095568
+    },
+    {
+      "name": "VIIRS",
+      "label": "instrument",
+      "description": "The Visible Infrared Imaging Radiometer Suite, a satellite instrument used to measure the Earth's surface and atmosphere",
+      "uuid": "dd7c719e-5767-4ceb-b83a-66c1401dab4a",
+      "score": 0.7785712472064968
+    },
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A series of Earth observation satellites used to study the Earth's surface and monitor changes in land use and land cover",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7418883127208591
+    },
+    {
+      "name": "transportation and public facilities",
+      "label": "location",
+      "description": "Areas that provide services and infrastructure for transportation and public use, such as roads, airports, and parks",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.5211415011276529
+    }
+  ],
+  "(14563, 17051)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, where the COVID-19 pandemic had a significant impact on human activity and economy",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5570845039279079
+    }
+  ],
+  "(16644, 19339)": [
+    {
+      "name": "specific surface area",
+      "label": "property",
+      "description": "A measure of the surface area of a material per unit mass, often used to characterize the performance of carbon materials",
+      "uuid": "a72b96ad-3755-4205-b353-66592c7bff54",
+      "score": 0.6569988783873391
+    },
+    {
+      "name": "electric conductivity",
+      "label": "property",
+      "description": "A measure of a material's ability to conduct electricity, often used to characterize the performance of carbon materials",
+      "uuid": "781bf38b-2797-4415-8d5a-67e9f3a2f5fe",
+      "score": 0.6042560680748619
+    },
+    {
+      "name": "cyclic voltammetry",
+      "label": "technique",
+      "description": "An electrochemical technique used to measure the electrochemical properties of materials",
+      "uuid": "e83fdef6-eca3-4ce2-b3b3-8e92c385836b",
+      "score": 0.5720693499271319
+    },
+    {
+      "name": "bulk density",
+      "label": "property",
+      "description": "A measure of the mass of a material per unit volume, often used to characterize the performance of carbon materials",
+      "uuid": "2c821621-f035-4c57-8dee-5f24968f959a",
+      "score": 0.6115779247803699
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, which has been significantly affected by the COVID-19 pandemic",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5817826709942485
+    }
+  ],
+  "(18836, 21612)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, where the COVID-19 pandemic first emerged and had significant impacts on the population, economy, and environment",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5745771203661965
+    },
+    {
+      "name": "radiance value",
+      "label": "variable",
+      "description": "A measure of the amount of light emitted per unit area, used to quantify nighttime light emissions",
+      "uuid": "68dacfbb-4f23-4325-b80f-4b09d41bd505",
+      "score": 0.5561976439176545
+    },
+    {
+      "name": "transportation facilities",
+      "label": "platform",
+      "description": "Infrastructure and systems that enable the movement of people and goods, such as roads, airports, and public transportation",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.6069881381636245
+    },
+    {
+      "name": "public infrastructures",
+      "label": "platform",
+      "description": "Essential systems and facilities that support the functioning of a society, such as utilities, healthcare, and education",
+      "uuid": "d4313915-2d24-424c-a171-30ee9a6f4bb5",
+      "score": 0.5394628906872713
+    }
+  ],
+  "(21147, 23845)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population and diverse geography, impacted by the COVID-19 pandemic",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6322635949576417
+    },
+    {
+      "name": "Remote Sens.",
+      "label": "provider",
+      "description": "A scientific journal focused on remote sensing and Earth observation, publishing research on the use of satellite and airborne sensors to study the environment",
+      "uuid": "6015ef7b-f3bd-49e1-9193-cc23db566b69",
+      "score": 0.5484717427496462
+    }
+  ],
+  "(25822, 28947)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population and significant economic influence, where the COVID-19 pandemic had a major impact",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5838306053088328
+    },
+    {
+      "name": "biomass burning",
+      "label": "variable",
+      "description": "The process of burning organic materials, such as wood or agricultural waste, which releases pollutants into the atmosphere",
+      "uuid": "9d7eed04-9c49-4024-8d0f-06474cc38bbc",
+      "score": 0.7289304152360733
+    },
+    {
+      "name": "industrial facilities",
+      "label": "platform",
+      "description": "Buildings or complexes where goods are manufactured or processed, often releasing pollutants into the atmosphere",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5744384234596109
+    },
+    {
+      "name": "fossil fuels",
+      "label": "variable",
+      "description": "Energy sources, such as coal, oil, and natural gas, which release pollutants when burned",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5836304857806369
+    },
+    {
+      "name": "AQI",
+      "label": "variable",
+      "description": "Air Quality Index, a measure of the level of air pollution in a given area",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5448451905071795
+    }
+  ],
+  "(28420, 31287)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population and significant economic and environmental impacts on the global scale",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6253632773964398
+    },
+    {
+      "name": "industrial facilities",
+      "label": "instrument",
+      "description": "Manufacturing and production sites that can release pollutants into the air, water, and soil",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5626251729477028
+    },
+    {
+      "name": "biomass burning",
+      "label": "instrument",
+      "description": "The combustion of organic materials, such as wood or agricultural waste, releasing pollutants into the atmosphere",
+      "uuid": "9d7eed04-9c49-4024-8d0f-06474cc38bbc",
+      "score": 0.7431286714693038
+    },
+    {
+      "name": "fossil fuels",
+      "label": "instrument",
+      "description": "Non-renewable energy sources, including coal, oil, and natural gas, used for heating, transportation, and industrial processes",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.543442177146752
+    },
+    {
+      "name": "AQI",
+      "label": "variable",
+      "description": "Air Quality Index, a measure of the level of air pollution in a given area",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5448451905071795
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy in a system, influencing atmospheric conditions and air quality",
+      "uuid": "f721be74-a590-4147-8af4-f2804aea4c0b",
+      "score": 0.660684452805383
+    },
+    {
+      "name": "air pressure",
+      "label": "variable",
+      "description": "The force exerted by the weight of air in the atmosphere, affecting weather patterns and air quality",
+      "uuid": "31ec3bb4-b486-4bb6-a956-70717c30f597",
+      "score": 0.6484187554727799
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The rate at which air moves, influencing the dispersion and deposition of air pollutants",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6297633699157034
+    },
+    {
+      "name": "vegetation",
+      "label": "location",
+      "description": "Plant life in a particular region, affecting local ecosystems and air quality",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6234601768432962
+    },
+    {
+      "name": "mountains",
+      "label": "location",
+      "description": "Natural elevations of the Earth's surface, influencing local climate, air quality, and ecosystems",
+      "uuid": "8b7f66ea-d481-4641-9dbf-da90ca3ad9c9",
+      "score": 0.6586146951200025
+    }
+  ],
+  "(30872, 33775)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population and diverse geography, influencing regional and global climate patterns",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.7087536695626749
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, typically assessed by the presence of pollutants such as particulate matter, nitrogen dioxide, and ozone",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6782766750511383
+    },
+    {
+      "name": "pollutant emissions",
+      "label": "variable",
+      "description": "The release of pollutants into the air, including gases and particulate matter, from human activities such as industrial production and vehicle use",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5780394529572986
+    },
+    {
+      "name": "AQI",
+      "label": "variable",
+      "description": "The Air Quality Index, a measure of air quality based on the levels of pollutants present",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5380566169450125
+    },
+    {
+      "name": "industries",
+      "label": "provider",
+      "description": "Organizations that produce goods or services, often contributing to air pollution through their operations",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5004565888614865
+    }
+  ],
+  "(33212, 36510)": [
+    {
+      "name": "AQI",
+      "label": "variable",
+      "description": "Air Quality Index, a measure of the level of air pollution in a given area, affecting human health and environmental quality",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5682134245216149
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population and significant economic influence, impacted by the COVID-19 pandemic",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5925241943712245
+    },
+    {
+      "name": "health department",
+      "label": "provider",
+      "description": "The organization responsible for promoting and protecting public health, providing guidance during the pandemic",
+      "uuid": "e8df433e-f868-4ad1-97e7-8610d60a86e3",
+      "score": 0.5063424731168094
+    }
+  ],
+  "(35970, 39366)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population and significant economic influence, where the COVID-19 pandemic was first reported",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5845702295161774
+    },
+    {
+      "name": "AQI",
+      "label": "variable",
+      "description": "Air Quality Index, a measure of air quality, indicating the level of pollutants in the air and their potential impact on human health",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5782908408251741
+    },
+    {
+      "name": "health department",
+      "label": "provider",
+      "description": "The organization responsible for protecting and promoting public health, often involved in disease prevention, surveillance, and response",
+      "uuid": "e8df433e-f868-4ad1-97e7-8610d60a86e3",
+      "score": 0.521469946593496
+    }
+  ],
+  "(38740, 41941)": [
+    {
+      "name": "environmental management",
+      "label": "project",
+      "description": "The process of managing and conserving natural resources, including air, water, and land, to minimize harm to the environment",
+      "uuid": "d81b77be-0177-4e26-942c-aa911239482d",
+      "score": 0.5282179549371296
+    },
+    {
+      "name": "seasonal cycles",
+      "label": "variable",
+      "description": "Recurring patterns of change that occur at regular intervals, often related to the time of year",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5465113196369653
+    },
+    {
+      "name": "policies",
+      "label": "variable",
+      "description": "Rules or guidelines that govern human behavior or activities, which can impact the environment",
+      "uuid": "57df059e-578a-4371-9484-7a34d63edfa5",
+      "score": 0.5075843027766203
+    },
+    {
+      "name": "GDP",
+      "label": "variable",
+      "description": "Gross Domestic Product, a measure of a country's economic activity",
+      "uuid": "6163b751-c8a6-42e5-9eb1-2b73932da631",
+      "score": 0.5872350482899412
+    },
+    {
+      "name": "SO 2 ",
+      "label": "variable",
+      "description": "Sulfur dioxide, a pollutant that can affect air quality",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6484289246955739
+    },
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "Carbon monoxide, a pollutant that can affect air quality",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.6505219597281902
+    },
+    {
+      "name": "Ozone",
+      "label": "variable",
+      "description": "A gas that can affect air quality, particularly in the stratosphere",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.575976378202669
+    },
+    {
+      "name": "weather",
+      "label": "weather event",
+      "description": "Short-term atmospheric conditions, including temperature, humidity, and precipitation",
+      "uuid": "0fd11f45-185a-4e38-8749-092ee09fab36",
+      "score": 0.5337072190957007
+    }
+  ],
+  "(41423, 43260)": [
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, typically expressed in terms of pollutant concentrations, used to assess environmental and health impacts",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6616580417679119
+    },
+    {
+      "name": "mainland China",
+      "label": "location",
+      "description": "The mainland territory of China, excluding Hong Kong, Macau, and Taiwan, with a diverse geography and climate",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5331685498429278
+    },
+    {
+      "name": "NSF",
+      "label": "provider",
+      "description": "The National Science Foundation, a United States government agency that supports scientific research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.7362697123579083
+    }
+  ]
+}

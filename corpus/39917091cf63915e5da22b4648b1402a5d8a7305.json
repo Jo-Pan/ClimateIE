@@ -1,0 +1,852 @@
+{
+  "(0, 2974)": [
+    {
+      "name": "marine environment",
+      "label": "location",
+      "description": "Ecosystems and habitats found in the ocean, including seawater, sediment, and organisms",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6463900872012722
+    },
+    {
+      "name": "sediment",
+      "label": "location",
+      "description": "Material that settles to the bottom of a body of water, such as oceans, rivers, or lakes",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6224026615994158
+    },
+    {
+      "name": "organisms",
+      "label": "variable",
+      "description": "Living things, such as plants and animals, that can be found in the marine environment",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.5398346339969556
+    },
+    {
+      "name": "freshwater environments",
+      "label": "location",
+      "description": "Ecosystems and habitats found in rivers, lakes, and wetlands, often affected by human activities and pollution",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.6608379543240248
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "The water that flows over the surface of the land, including rivers, lakes, and oceans",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7006623633260838
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "The water that flows beneath the surface of the land, often used for drinking water and irrigation",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6581330219387251
+    },
+    {
+      "name": "coastal zones",
+      "label": "location",
+      "description": "Areas where the land meets the ocean, often subject to growing pressure due to human activities",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.6426367195819475
+    }
+  ],
+  "(2523, 5460)": [
+    {
+      "name": "freshwater environments",
+      "label": "location",
+      "description": "Aquatic ecosystems such as rivers, lakes, and wetlands that are characterized by low salt concentrations",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.7009075950290625
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water bodies on the surface of the Earth, such as rivers, lakes, and oceans, that are open to the atmosphere",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7355201514029749
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water stored beneath the Earth's surface in soil and in the fractured rock formations called aquifers",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6721610516252419
+    },
+    {
+      "name": "Marine ecosystems",
+      "label": "location",
+      "description": "Ecological communities found in the ocean, including coral reefs, estuaries, and open ocean environments",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6936321239036564
+    },
+    {
+      "name": "coastal zones",
+      "label": "location",
+      "description": "The interface between land and sea, where human activities and natural processes interact and impact the environment",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.6151477159234142
+    },
+    {
+      "name": "seawater",
+      "label": "location",
+      "description": "The salty water that covers most of the Earth's surface, playing a crucial role in the global climate and weather patterns",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.5075296652000505
+    },
+    {
+      "name": "rivers and streams",
+      "label": "location",
+      "description": "Natural flowing bodies of water that connect lakes, wetlands, and oceans, playing a key role in shaping the landscape and affecting water quality",
+      "uuid": "43d51c24-0523-4b65-919f-17618c7d72b4",
+      "score": 0.6513157466160674
+    },
+    {
+      "name": "fish farming",
+      "label": "platform",
+      "description": "The practice of raising fish and other aquatic organisms in controlled environments for food production",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.6009770300065049
+    },
+    {
+      "name": "recreational activities",
+      "label": "platform",
+      "description": "Human activities such as swimming, boating, and sunbathing that take place in or near water bodies",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.5917865202925109
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent that includes a diverse range of countries, cultures, and environments, with many coastal areas and marine ecosystems",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6558702620257552
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent that includes the United States, Canada, and Mexico, with extensive coastlines and marine environments",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6807947841183124
+    },
+    {
+      "name": "southern Europe",
+      "label": "location",
+      "description": "A region that includes countries such as Spain, Italy, and Greece, with a Mediterranean coastline and diverse marine ecosystems",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.7160423677703786
+    },
+    {
+      "name": "estuaries",
+      "label": "location",
+      "description": "Coastal bodies of water where freshwater from rivers and streams mixes with saltwater from the ocean, creating a unique and diverse ecosystem",
+      "uuid": "5a1ebca4-057d-43b9-af6a-04f57b93f8bb",
+      "score": 0.7241977299778276
+    },
+    {
+      "name": "lagoons",
+      "label": "location",
+      "description": "Shallow bodies of water that are separated from the open ocean by barrier islands or coral reefs, often with limited water exchange",
+      "uuid": "081d131a-6bef-47dc-adb3-f96da9123f93",
+      "score": 0.7343335150760361
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The vast, continuous bodies of saltwater that cover most of the Earth's surface, playing a crucial role in the global climate and weather patterns",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.7215306942158597
+    }
+  ],
+  "(5045, 8055)": [
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "The largest and most populous continent on Earth, known for its diverse climate and geography",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6660518970563287
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico, with a varied climate and geography",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7105691081374708
+    },
+    {
+      "name": "southern Europe",
+      "label": "location",
+      "description": "A region of Europe characterized by a Mediterranean climate, comprising countries such as Spain, Italy, and Greece",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.7542697205409542
+    },
+    {
+      "name": "coasts",
+      "label": "location",
+      "description": "The land along the edge of a sea, ocean, or lake, often influenced by marine and terrestrial processes",
+      "uuid": "18d136b8-728f-438b-90cb-3c82956e1c2c",
+      "score": 0.5720287890511798
+    },
+    {
+      "name": "estuaries",
+      "label": "location",
+      "description": "A partially enclosed coastal body of water, where freshwater from rivers and streams mixes with saltwater from the ocean",
+      "uuid": "5a1ebca4-057d-43b9-af6a-04f57b93f8bb",
+      "score": 0.7127085295159508
+    },
+    {
+      "name": "lagoons",
+      "label": "location",
+      "description": "A shallow body of water separated from the open sea by coral reefs, sandbars, or other barriers",
+      "uuid": "081d131a-6bef-47dc-adb3-f96da9123f93",
+      "score": 0.7356645662982424
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The largest bodies of water on Earth, covering over 70% of the planet's surface and playing a crucial role in the global climate system",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.7292615870077418
+    },
+    {
+      "name": "thermocline",
+      "label": "ocean circulation",
+      "description": "A layer in a body of water where the temperature changes rapidly with depth, often influencing the distribution of pollutants",
+      "uuid": "68772b70-e493-48d5-b063-00b9d2dd4078",
+      "score": 0.7061201859575272
+    }
+  ],
+  "(7524, 10684)": [
+    {
+      "name": "recreational activities",
+      "label": "variable",
+      "description": "Human activities that take place in the environment for leisure or entertainment, such as tourism",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.6343927964402045
+    },
+    {
+      "name": "sediment cores",
+      "label": "instrument",
+      "description": "Long, cylindrical samples of sediment extracted from the seafloor or lake bed, used to study the geological and environmental history of an area",
+      "uuid": "a088eccf-1160-4f01-ab71-53e720264ecd",
+      "score": 0.7175106080541466
+    },
+    {
+      "name": "stainless steel Van Veen type grab sampler",
+      "label": "instrument",
+      "description": "A device used to collect surface sediment samples from the seafloor or lake bed",
+      "uuid": "9461dfde-fc76-4a6e-8f9c-e1e8048008c3",
+      "score": 0.5153509540382296
+    },
+    {
+      "name": "gravity corers",
+      "label": "instrument",
+      "description": "A device used to collect sediment cores from the seafloor or lake bed",
+      "uuid": "7818106b-76d3-432c-a423-299bab2ae9da",
+      "score": 0.7883605068586731
+    },
+    {
+      "name": "wastewater",
+      "label": "contaminant",
+      "description": "Used water from households, businesses, and industries, which can contain pollutants and contaminants",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.572395213726497
+    },
+    {
+      "name": "sediment composition",
+      "label": "variable",
+      "description": "The characteristics of sediment, including its texture, structure, and chemical composition",
+      "uuid": "17747820-39de-4908-bb3d-8c2f94ddd6f4",
+      "score": 0.6946040092331824
+    },
+    {
+      "name": "sedimentation rates",
+      "label": "variable",
+      "description": "The rate at which sediment accumulates in a particular area, influenced by factors such as water flow and particle size",
+      "uuid": "bee9f657-c115-4d73-a10c-7e05e00db574",
+      "score": 0.6334587251533117
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including its elevation, slope, and landforms",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6806416901282605
+    }
+  ],
+  "(10127, 13054)": [
+    {
+      "name": "sediment cores",
+      "label": "instrument",
+      "description": "A device used to collect and analyze sediment samples, often used to study the geochronology of contamination",
+      "uuid": "a088eccf-1160-4f01-ab71-53e720264ecd",
+      "score": 0.6581016579564894
+    },
+    {
+      "name": "sediment composition",
+      "label": "variable",
+      "description": "The characteristics of sediments, including their texture, structure, and content, which can influence the distribution of contaminants",
+      "uuid": "17747820-39de-4908-bb3d-8c2f94ddd6f4",
+      "score": 0.6523782356368726
+    },
+    {
+      "name": "sedimentation rates",
+      "label": "variable",
+      "description": "The rate at which sediments are deposited, which can affect the composition and contamination of sediments",
+      "uuid": "bee9f657-c115-4d73-a10c-7e05e00db574",
+      "score": 0.5822187013258352
+    },
+    {
+      "name": "topography",
+      "label": "location",
+      "description": "The shape and features of the Earth's surface, including landforms and water bodies, which can influence the characteristics of sediments and aquatic organisms",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6181718782680432
+    },
+    {
+      "name": "Bivalves",
+      "label": "organism",
+      "description": "A type of marine animal, including mussels, oysters, scallops, and clams, often used as bioindicators for aquatic pollution monitoring",
+      "uuid": "7da8400b-e2cf-4ab1-b2f0-5bc4b21c23b3",
+      "score": 0.6954247018757606
+    },
+    {
+      "name": "bioindicators",
+      "label": "variable",
+      "description": "Organisms or substances used to measure the level of pollution or contamination in an environment",
+      "uuid": "d3c5e3e3-97bf-4e74-9f8d-523dce5f9270",
+      "score": 0.5543064870017147
+    },
+    {
+      "name": "marine mammals",
+      "label": "organism",
+      "description": "A group of mammals that live in the ocean, including dolphins, sea lions, otters, and seals, which can be affected by PPCP contamination",
+      "uuid": "4cf1a3bd-20ce-42d7-95ac-9a4ece7be12c",
+      "score": 0.6057472235255728
+    }
+  ],
+  "(12463, 15209)": [
+    {
+      "name": "pH range",
+      "label": "variable",
+      "description": "The range of acidity or basicity of a solution or sample",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.5652568698623123
+    },
+    {
+      "name": "liquid chromatography-mass spectrometry",
+      "label": "instrument",
+      "description": "A technique used to separate, identify, and quantify the components of a sample",
+      "uuid": "950f43fd-6ae5-4843-92b4-90777ae8f0be",
+      "score": 0.5644829198667581
+    },
+    {
+      "name": "gas chromatography-spectrometry",
+      "label": "instrument",
+      "description": "A technique used to separate, identify, and quantify the components of a sample",
+      "uuid": "32402358-e5dc-4c01-bede-5304ebea0584",
+      "score": 0.6262814309154816
+    },
+    {
+      "name": "mussels",
+      "label": "location",
+      "description": "A type of aquatic organism or sample",
+      "uuid": "bc60fbb8-f9e9-492e-9acf-0f47345cedf2",
+      "score": 0.6838371181806994
+    }
+  ],
+  "(14748, 17732)": [
+    {
+      "name": "LC-MS/MS",
+      "label": "instrument",
+      "description": "A type of mass spectrometry used for analyzing the chemical composition of a sample",
+      "uuid": "3ce7f4f0-d2db-4352-8762-d88296f7aa15",
+      "score": 0.5064163125456597
+    },
+    {
+      "name": "mussels",
+      "label": "platform",
+      "description": "A type of marine organism used in environmental monitoring",
+      "uuid": "bc60fbb8-f9e9-492e-9acf-0f47345cedf2",
+      "score": 0.6412366787479765
+    },
+    {
+      "name": "European Commission",
+      "label": "provider",
+      "description": "The executive body of the European Union, responsible for proposing legislation and implementing policies",
+      "uuid": "57a14338-6965-41de-9876-41fa6d259c51",
+      "score": 0.6502902815145999
+    }
+  ],
+  "(17198, 19985)": [
+    {
+      "name": "marine environment",
+      "label": "location",
+      "description": "The environment of the Earth's oceans, including seawater and marine ecosystems",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.5713422246451627
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the northern hemisphere, including Canada and the United States",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.702560413382308
+    },
+    {
+      "name": "northern Europe",
+      "label": "location",
+      "description": "A region in Europe, including countries such as the United Kingdom, Ireland, Belgium, Germany, Netherlands, Denmark, Sweden, and Norway",
+      "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+      "score": 0.6959839390097183
+    },
+    {
+      "name": "southern Europe",
+      "label": "location",
+      "description": "A region in Europe, including countries such as France, Spain, Majorca, Portugal, Italy, and Greece",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.7362714972421449
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent in the eastern hemisphere, including countries such as China, Taiwan, and Singapore",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6784161189823021
+    }
+  ],
+  "(19700, 21962)": [
+    {
+      "name": "estuaries",
+      "label": "location",
+      "description": "A coastal body of water, where freshwater from rivers and streams mixes with saltwater from the ocean",
+      "uuid": "5a1ebca4-057d-43b9-af6a-04f57b93f8bb",
+      "score": 0.7091605681782828
+    }
+  ],
+  "(21561, 24269)": [
+    {
+      "name": "anthropogenic pressures",
+      "label": "natural hazard",
+      "description": "Human-induced factors that negatively impact the environment, such as pollution and climate change",
+      "uuid": "c4a619e9-88ba-4dc6-91a6-5f95284d6f80",
+      "score": 0.5028814421407342
+    },
+    {
+      "name": "estuaries",
+      "label": "location",
+      "description": "Coastal bodies of water where freshwater and saltwater mix, often vulnerable to pollution and environmental changes",
+      "uuid": "8d634619-aed2-4326-a73d-cec49ff74398",
+      "score": 0.6785930950385877
+    },
+    {
+      "name": "recreational activities",
+      "label": "experiment",
+      "description": "Human activities such as swimming, sunbathing, and other leisure pursuits that can impact the environment",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.604360565352784
+    },
+    {
+      "name": "disinfectants",
+      "label": "variable",
+      "description": "Chemicals used to kill microorganisms and prevent the spread of disease, often detected in seawater",
+      "uuid": "4690d6a8-78cd-48bc-82f5-36fb16d4c52e",
+      "score": 0.7173397565615073
+    }
+  ],
+  "(23810, 26161)": [
+    {
+      "name": "estuaries",
+      "label": "location",
+      "description": "A coastal body of water where freshwater from rivers and streams flows into and mixes with saltwater from the ocean",
+      "uuid": "5a1ebca4-057d-43b9-af6a-04f57b93f8bb",
+      "score": 0.7081661017116989
+    },
+    {
+      "name": "coasts",
+      "label": "location",
+      "description": "The land along the edge of a sea, ocean, or lake",
+      "uuid": "18d136b8-728f-438b-90cb-3c82956e1c2c",
+      "score": 0.5611590592236704
+    },
+    {
+      "name": "sediment",
+      "label": "location",
+      "description": "Material that settles to the bottom of a body of water, such as sand, silt, or clay",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6072954611436636
+    },
+    {
+      "name": "organic matter",
+      "label": "variable",
+      "description": "Carbon-based compounds found in water and soil, including plant and animal residues",
+      "uuid": "e82c0632-5a3c-4da2-ba10-55c0fc222580",
+      "score": 0.7671063584569391
+    }
+  ],
+  "(25703, 28385)": [
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important property influencing ocean circulation and chemical processes",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7284521975443359
+    },
+    {
+      "name": "marine sediments",
+      "label": "location",
+      "description": "The seafloor or ocean bottom, where sediments and particles settle and accumulate",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.7046768107773999
+    },
+    {
+      "name": "organic matter",
+      "label": "variable",
+      "description": "The remains or residues of plants and animals, which can influence chemical reactions and processes in the environment",
+      "uuid": "e82c0632-5a3c-4da2-ba10-55c0fc222580",
+      "score": 0.6941830190614692
+    },
+    {
+      "name": "clays and marine sediment",
+      "label": "platform",
+      "description": "A type of fine-grained earth material that can be found in marine sediments, influencing chemical and physical processes",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.5864099686988191
+    },
+    {
+      "name": "cation exchange processes",
+      "label": "experiment",
+      "description": "A type of chemical reaction that involves the exchange of ions between a solid and a solution, often studied in environmental science",
+      "uuid": "ccbf4ef8-955b-4337-a45b-95affc360173",
+      "score": 0.6289598450669521
+    }
+  ],
+  "(27935, 30607)": [
+    {
+      "name": "sediments",
+      "label": "variable",
+      "description": "Material that settles to the bottom of a body of water, often used as an indicator of environmental pollution",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6581669275411048
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its industrial and urban activities, which can impact the local marine ecosystem",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5331549849892429
+    },
+    {
+      "name": "San Francisco Estuary",
+      "label": "location",
+      "description": "An estuary in the United States, known for its urbanized environment and potential for pollution",
+      "uuid": "5a1ebca4-057d-43b9-af6a-04f57b93f8bb",
+      "score": 0.5011742154021318
+    }
+  ],
+  "(30158, 32785)": [
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico, among other countries",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7221044464155457
+    },
+    {
+      "name": "San Francisco Estuary and Bay",
+      "label": "location",
+      "description": "A coastal estuary and bay located in California, USA, known for its diverse marine life and environmental significance",
+      "uuid": "5a1ebca4-057d-43b9-af6a-04f57b93f8bb",
+      "score": 0.5342003147480716
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state on the West Coast of the United States, known for its diverse geography and climate",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6758667882254278
+    },
+    {
+      "name": "Florida",
+      "label": "location",
+      "description": "A state in the southeastern United States, known for its subtropical climate and extensive coastline",
+      "uuid": "b607766c-83f5-42bb-96b2-2de4e7b488a4",
+      "score": 0.6585565403320495
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Southern Hemisphere, comprising countries such as Brazil, Argentina, and Chile",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.731221194860441
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising countries such as Portugal, France, Ireland, and Belgium",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6860311608918431
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent in the Eastern Hemisphere, comprising countries such as China, Japan, and Korea",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6817215763250517
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its diverse marine life and environmental significance",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6814592669072793
+    },
+    {
+      "name": "mussels Mytilus galloprovincialis",
+      "label": "organism",
+      "description": "A species of marine bivalve mollusk, commonly used as a model organism in environmental studies",
+      "uuid": "bc60fbb8-f9e9-492e-9acf-0f47345cedf2",
+      "score": 0.6210267714970942
+    },
+    {
+      "name": "bivalves",
+      "label": "organism",
+      "description": "A group of marine mollusks, including species such as mussels and oysters, known for their filter-feeding behavior",
+      "uuid": "7da8400b-e2cf-4ab1-b2f0-5bc4b21c23b3",
+      "score": 0.68700307092381
+    },
+    {
+      "name": "Mediterranean coastal site",
+      "label": "location",
+      "description": "A coastal region located in the Mediterranean Sea, known for its environmental significance",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.5396539717733146
+    }
+  ],
+  "(32240, 35118)": [
+    {
+      "name": "marine mammals",
+      "label": "variable",
+      "description": "Animals, such as dolphins and whales, that live in the ocean and can be affected by the presence of UV filters and other pollutants",
+      "uuid": "4cf1a3bd-20ce-42d7-95ac-9a4ece7be12c",
+      "score": 0.5932439527207183
+    },
+    {
+      "name": "water temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of water, potentially influencing the pharmacokinetics of UV filters and other pollutants in aquatic organisms",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.682028755573976
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of dissolved salts in water, potentially influencing the pharmacokinetics of UV filters and other pollutants in aquatic organisms",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6536935292486529
+    },
+    {
+      "name": "mussels",
+      "label": "variable",
+      "description": "A type of invertebrate used in scientific studies, such as those investigating the effects of UV filters on aquatic organisms",
+      "uuid": "bc60fbb8-f9e9-492e-9acf-0f47345cedf2",
+      "score": 0.6428673751911415
+    },
+    {
+      "name": "goldfish",
+      "label": "variable",
+      "description": "A species of fish used in scientific studies, such as those investigating the effects of UV filters on aquatic organisms",
+      "uuid": "ea855d4c-f132-44f9-b31c-447e1101684d",
+      "score": 0.5034072455353427
+    }
+  ],
+  "(34668, 37478)": [
+    {
+      "name": "bioaccumulation",
+      "label": "variable",
+      "description": "The process by which substances, such as chemicals or pollutants, accumulate in living organisms over time",
+      "uuid": "a54dbc4f-c136-4648-9797-db00e62fe22b",
+      "score": 0.5979529345244166
+    },
+    {
+      "name": "marine mammals",
+      "label": "location",
+      "description": "Mammals that live in the ocean, including whales, dolphins, seals, and sea lions",
+      "uuid": "4cf1a3bd-20ce-42d7-95ac-9a4ece7be12c",
+      "score": 0.6797255434333171
+    },
+    {
+      "name": "mammals",
+      "label": "location",
+      "description": "A group of warm-blooded animals that have hair and produce milk to feed their young",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.7017007509103493
+    },
+    {
+      "name": "seasonality",
+      "label": "variable",
+      "description": "The periodic changes that occur in the environment or in the behavior of living organisms over the course of a year",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5211499282069055
+    },
+    {
+      "name": "habitat use",
+      "label": "variable",
+      "description": "The way in which an organism interacts with its environment",
+      "uuid": "744c38f8-feeb-4e01-a909-33d75fefba82",
+      "score": 0.5001839025422639
+    },
+    {
+      "name": "migration",
+      "label": "variable",
+      "description": "The movement of an organism from one place to another at certain times of the year",
+      "uuid": "0de668aa-cc97-482d-a0eb-cddcb1a705b6",
+      "score": 0.5761345560991694
+    }
+  ],
+  "(36936, 40185)": [
+    {
+      "name": "marine mammals",
+      "label": "organism",
+      "description": "Mammals that live in the ocean, such as whales, dolphins, and seals",
+      "uuid": "4cf1a3bd-20ce-42d7-95ac-9a4ece7be12c",
+      "score": 0.680851909522887
+    },
+    {
+      "name": "US coastal ecosystems",
+      "label": "location",
+      "description": "Ecosystems located along the coasts of the United States, including marine and estuarine environments",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.52771552812074
+    },
+    {
+      "name": "native mussels",
+      "label": "organism",
+      "description": "Mussels that are native to a particular region, used as indicators of environmental health",
+      "uuid": "bc60fbb8-f9e9-492e-9acf-0f47345cedf2",
+      "score": 0.5062482437966733
+    },
+    {
+      "name": "wastewater treatment plant",
+      "label": "facility",
+      "description": "A facility that treats wastewater to remove pollutants and contaminants",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5444830120562053
+    },
+    {
+      "name": "stormwater runoff",
+      "label": "natural phenomenon",
+      "description": "The flow of water that occurs when rainfall or snowmelt flows over the ground and into waterways",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5682518787474914
+    }
+  ],
+  "(39581, 42723)": [
+    {
+      "name": "Agence Nationale de la Recherche",
+      "label": "provider",
+      "description": "A French funding agency supporting research in various fields including environmental science and climate research",
+      "uuid": "d692828f-47ce-4a56-a665-2ce3b5af8c26",
+      "score": 0.5487209778164682
+    },
+    {
+      "name": "PEPSEA Project",
+      "label": "project",
+      "description": "A research project focused on studying the impact of contaminants on marine ecosystems and developing strategies for pollution management",
+      "uuid": "b5c89dec-de1c-4a3c-94db-d595b5f9666b",
+      "score": 0.5531220199659876
+    },
+    {
+      "name": "UM1 (University of Montpellier)",
+      "label": "provider",
+      "description": "A French academic institution providing research and educational opportunities in various fields including environmental science",
+      "uuid": "0378a3aa-2186-4876-b5d7-32a4a1727fc9",
+      "score": 0.5255190756729197
+    },
+    {
+      "name": "marine ecosystem",
+      "label": "location",
+      "description": "The complex network of living organisms and their interactions within the marine environment, including plants, animals, and microorganisms",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6667343857908515
+    },
+    {
+      "name": "freshwater environments",
+      "label": "location",
+      "description": "Ecosystems characterized by a much lower concentration of salts compared to marine environments, such as rivers, lakes, and wetlands",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.708883471191663
+    },
+    {
+      "name": "marine sediments",
+      "label": "location",
+      "description": "The layer of unconsolidated particles and organic matter at the bottom of the marine environment, playing a crucial role in the marine ecosystem's functioning and contaminant cycling",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.6771930119193118
+    },
+    {
+      "name": "degradation processes",
+      "label": "variable",
+      "description": "The chemical, biological, or physical processes that break down contaminants in the environment, influencing their fate and impact on ecosystems",
+      "uuid": "2f2f5764-d4e6-4bbb-bd6d-dda373018237",
+      "score": 0.5413272298462253
+    },
+    {
+      "name": "ecotoxicity data",
+      "label": "variable",
+      "description": "Information on the toxic effects of contaminants on living organisms, used to assess environmental risks and develop management strategies",
+      "uuid": "dd539b52-6de1-4b1b-a60c-fa5782f4d64b",
+      "score": 0.6398202156419761
+    },
+    {
+      "name": "omics approaches",
+      "label": "instrument",
+      "description": "Advanced analytical techniques, such as genomics, proteomics, or metabolomics, used to study the effects of contaminants on organisms at the molecular level",
+      "uuid": "8eb84f36-f355-458b-889f-b37cfa120654",
+      "score": 0.570496751915146
+    },
+    {
+      "name": "marine pollution monitoring programs",
+      "label": "project",
+      "description": "Initiatives designed to track and assess the levels and impacts of pollutants in the marine environment, informing management decisions and policy development",
+      "uuid": "eb1259ba-307f-48f1-9f1b-1eeb4d50a1f3",
+      "score": 0.6427064148487813
+    },
+    {
+      "name": "aquatic environments",
+      "label": "location",
+      "description": "Ecosystems that include both freshwater and marine environments, encompassing a wide range of habitats and biodiversity",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6621439411613707
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "A group of metals and metalloids that are toxic to living organisms, often found as pollutants in the environment",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6849171409029231
+    }
+  ],
+  "(42409, 42723)": [
+    {
+      "name": "UM1",
+      "label": "provider",
+      "description": "The University of Montpellier, a French academic institution focused on education and research in various fields, including environmental sciences",
+      "uuid": "9dd9559d-6834-4a66-9602-91a158e48fa4",
+      "score": 0.5348484008030472
+    },
+    {
+      "name": "PEPSEA Project",
+      "label": "project",
+      "description": "A research initiative focused on studying environmental and health impacts of pollutants in water bodies",
+      "uuid": "b5c89dec-de1c-4a3c-94db-d595b5f9666b",
+      "score": 0.5178254036584302
+    },
+    {
+      "name": "University of Montpellier",
+      "label": "provider",
+      "description": "A French academic institution focused on education and research in various fields, including environmental sciences",
+      "uuid": "642f1f2a-4b81-4c4d-8261-d2ac91af8e29",
+      "score": 0.5030674857532714
+    }
+  ]
+}

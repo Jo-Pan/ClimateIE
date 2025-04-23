@@ -1,0 +1,906 @@
+{
+  "(0, 2916)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in southern Africa, vulnerable to climate change due to changes in rainfall patterns and extreme weather events",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.5486570430795117
+    },
+    {
+      "name": "climatic variables",
+      "label": "variable",
+      "description": "Measures of climate-related factors such as temperature and rainfall that affect agricultural productivity",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5522810994679584
+    },
+    {
+      "name": "Food and Agricultural Organization of the United Nations (FAO)",
+      "label": "provider",
+      "description": "An international organization that works to improve food security and reduce poverty",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5734803322762577
+    },
+    {
+      "name": "global climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6305216285110786
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Unusual and severe weather events such as droughts, floods, and heatwaves that can have significant impacts on agricultural productivity",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.5928686042195189
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall that can have significant impacts on agricultural productivity and food security",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.6616970870175042
+    },
+    {
+      "name": "rainfall anomalies",
+      "label": "weather event",
+      "description": "Unusual patterns of rainfall that can have significant impacts on agricultural productivity",
+      "uuid": "22a4ddef-90f0-4935-a13d-26b14723a956",
+      "score": 0.5428359553549591
+    }
+  ],
+  "(2499, 5556)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in southern Africa, known for its agricultural sector and vulnerability to climate change",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.5996926168129791
+    },
+    {
+      "name": "poverty",
+      "label": "natural hazard",
+      "description": "A state of economic and social deprivation, often exacerbated by climate-related shocks",
+      "uuid": "b37021a3-4d7f-4b94-b614-807d6981d2ad",
+      "score": 0.5681112870852975
+    },
+    {
+      "name": "malnourishment",
+      "label": "natural hazard",
+      "description": "A condition of inadequate nutrition, which can be worsened by climate-related factors such as droughts and floods",
+      "uuid": "1d1f1722-27ea-4021-922f-68b90c09bfa1",
+      "score": 0.5959217156282414
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, which can impact agricultural productivity and climate patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6120577691587883
+    },
+    {
+      "name": "soil characteristics",
+      "label": "variable",
+      "description": "Properties of the soil, such as texture, fertility, and moisture, which can affect agricultural productivity and climate resilience",
+      "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
+      "score": 0.6791838517203225
+    },
+    {
+      "name": "inorganic fertilisers",
+      "label": "instrument",
+      "description": "Synthetic fertilizers used to promote plant growth and increase crop yields",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5411252784557935
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Unusual and severe weather conditions, such as droughts, floods, and heatwaves, which can impact agricultural productivity and food security",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.5748844055935104
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "Prolonged periods of abnormally low rainfall, which can impact agricultural productivity and food security",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.6791132675977989
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability, access, and utilization of sufficient, safe, and nutritious food, which can be affected by climate change and agricultural productivity",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6708996190605879
+    },
+    {
+      "name": "improved livestock/grazing management",
+      "label": "instrument",
+      "description": "Practices that promote efficient and sustainable use of livestock and grazing resources, reducing environmental impacts and improving productivity",
+      "uuid": "e5b724af-b661-406a-ae1f-7cd2730c0576",
+      "score": 0.5416398548020644
+    },
+    {
+      "name": "joint crop-livestock systems",
+      "label": "instrument",
+      "description": "Farming systems that integrate crops and livestock, promoting synergies and reducing environmental impacts",
+      "uuid": "2dda92a8-6c26-4506-9881-43b6d9a83b18",
+      "score": 0.5148988121459581
+    }
+  ],
+  "(5016, 7710)": [
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "A measure of the availability, access, utilization, and stability of food supplies to meet the dietary needs of a population",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6606630907982207
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in temperature, precipitation, and other climate factors, influencing weather patterns and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5847338555027961
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in southern Africa, characterized by diverse agro-ecological regions and vulnerable to climate change impacts",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.5876241808536288
+    },
+    {
+      "name": "World Bank",
+      "label": "provider",
+      "description": "An international financial institution that provides loans, advice, and research to developing countries",
+      "uuid": "bbd3d3b4-e1d6-492e-a286-eef7d0fbaf9e",
+      "score": 0.6909981098766487
+    },
+    {
+      "name": "GDP",
+      "label": "variable",
+      "description": "Gross Domestic Product, a measure of a country's economic activity and growth",
+      "uuid": "6163b751-c8a6-42e5-9eb1-2b73932da631",
+      "score": 0.5936279167635508
+    },
+    {
+      "name": "rural areas",
+      "label": "location",
+      "description": "Regions outside of cities and towns, often characterized by agricultural activities and limited access to services",
+      "uuid": "d83b4271-048c-4763-9d5c-b5ec1b1788f4",
+      "score": 0.7020829836433162
+    },
+    {
+      "name": "poverty",
+      "label": "variable",
+      "description": "A state of economic deprivation, characterized by limited access to resources, services, and opportunities",
+      "uuid": "b37021a3-4d7f-4b94-b614-807d6981d2ad",
+      "score": 0.5558743646168351
+    },
+    {
+      "name": "FAOSTAT",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations' statistical database, providing data on food security, agriculture, and climate change",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.7664926668653917
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on agriculture and food security",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.6996366219829057
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa, characterized by diverse climate, geography, and ecosystems",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7549185498228347
+    }
+  ],
+  "(7325, 10022)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country located in Southern Africa, known for its rainfed agriculture and vulnerability to climate change",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6028552634464888
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in Earth's climate, including rising temperatures and altered precipitation patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5956946128453477
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on agriculture and ecosystems",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7101503816937856
+    },
+    {
+      "name": "global climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6409142550216047
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa, including countries such as Zambia, South Africa, and Mozambique, known for its diverse climate and ecosystems",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7546680396950528
+    },
+    {
+      "name": "temperatures",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, often used to study climate patterns and trends",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6019866773216018
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, essential for agriculture and ecosystems",
+      "uuid": "09a57dc7-3911-4a65-9f12-b819652b8671",
+      "score": 0.5334224825625307
+    },
+    {
+      "name": "FAOSTAT",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations' statistical database, providing data on food security, agriculture, and climate change",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.7664926668653917
+    }
+  ],
+  "(9504, 12439)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country located in southern Africa, with diverse climate and geography",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6828047654661784
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "A measure of the availability and accessibility of sufficient, safe, and nutritious food for a population",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7027889784820713
+    },
+    {
+      "name": "poverty",
+      "label": "variable",
+      "description": "A state of economic and social deprivation, often measured by income or consumption levels",
+      "uuid": "b37021a3-4d7f-4b94-b614-807d6981d2ad",
+      "score": 0.609338258367524
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent with diverse climate, geography, and agricultural systems",
+      "uuid": "2ca1b865-5555-4375-aa81-72811335b695",
+      "score": 0.6013767079591432
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in temperature, precipitation, and other climate variables, with significant impacts on agriculture and food security",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5150649640761956
+    },
+    {
+      "name": "fertilisers",
+      "label": "instrument",
+      "description": "Chemical substances used to promote plant growth and improve soil fertility",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.6726423561270115
+    }
+  ],
+  "(12013, 14918)": [
+    {
+      "name": "inorganic fertilisers",
+      "label": "instrument",
+      "description": "Chemical substances added to soil to promote plant growth and increase crop yields",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5933925498897836
+    },
+    {
+      "name": "FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, an international organization that works to improve global food security and sustainable agriculture",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5857951477563584
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in Southern Africa where Conservation Agriculture is being promoted and implemented",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.5286587500351855
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere where many long-term Conservation Agriculture trials have been conducted",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.5386495836081421
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere where Conservation Agriculture has been adopted and studied",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5094429191815923
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere where Conservation Agriculture has been adopted and studied",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.5419144956225744
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa where Conservation Agriculture is being promoted and implemented to improve food security and adaptation to climate change",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.5363874299377379
+    }
+  ],
+  "(14404, 17215)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in southern Africa, where conservation agriculture has been practiced and studied",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.5446529756433961
+    },
+    {
+      "name": "yields",
+      "label": "variable",
+      "description": "The quantity of crops produced per unit area of land, often used as a measure of agricultural productivity",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.5836584210762734
+    }
+  ],
+  "(16758, 19727)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in southern Africa, known for its diverse climate and agricultural practices",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.618872749958951
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, an important factor influencing plant growth and agricultural productivity",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6867143734525333
+    },
+    {
+      "name": "yields",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area, a key indicator of agricultural productivity",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.6122677763712833
+    }
+  ],
+  "(19260, 21996)": [
+    {
+      "name": "water infiltration",
+      "label": "variable",
+      "description": "The process by which water moves into the soil, influenced by factors such as soil type, tillage, and vegetation cover",
+      "uuid": "875b1cd8-ca7e-4edb-9e83-ac78f1a3bc9f",
+      "score": 0.6795691875171427
+    },
+    {
+      "name": "run-off erosion",
+      "label": "natural hazard",
+      "description": "The loss of soil due to water or wind, often exacerbated by poor land management practices",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.5608971741265257
+    },
+    {
+      "name": "soil water content",
+      "label": "variable",
+      "description": "The amount of water present in the soil, which affects plant growth, soil health, and water availability",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6868932859721233
+    },
+    {
+      "name": "FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, an international organization that works to improve food security and reduce poverty",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5784880321757806
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in southern Africa, characterized by a subtropical climate and varied agricultural landscapes",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6256990453303485
+    },
+    {
+      "name": "fertiliser",
+      "label": "instrument",
+      "description": "Substances added to the soil to promote plant growth and improve crop yields",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.6312952213582315
+    }
+  ],
+  "(21530, 24593)": [
+    {
+      "name": "FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, an international organization that aims to reduce hunger and poverty",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5703801806190139
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa, characterized by diverse climates and agricultural systems",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7191476126299966
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in Southern Africa, where Conservation Agriculture practices have been adopted",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.5529044075219783
+    },
+    {
+      "name": "soil characteristics",
+      "label": "variable",
+      "description": "Properties of the soil that can affect agricultural productivity, such as texture, pH, and nutrient content",
+      "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
+      "score": 0.6591172829854632
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "The degree of heat or cold in a given area, an important factor in agricultural productivity",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5467714716230888
+    }
+  ],
+  "(24036, 26950)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country located in southern Africa, with varying climate conditions and agricultural practices",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.61698444709511
+    },
+    {
+      "name": "fertilisers",
+      "label": "instrument",
+      "description": "Substances used to promote plant growth and increase crop yields",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.6434915579169758
+    },
+    {
+      "name": "Food Security Research Project",
+      "label": "project",
+      "description": "A research initiative that aims to improve food security and reduce poverty",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.5549368289862507
+    },
+    {
+      "name": "Michigan State University",
+      "label": "provider",
+      "description": "An academic institution that conducts research and provides education on various topics, including agriculture and food security",
+      "uuid": "9cd1c7aa-7949-4b44-bedd-381b1ba9394c",
+      "score": 0.5763492547327846
+    },
+    {
+      "name": "National Oceanic and Atmospheric Administration's Climate Prediction Center",
+      "label": "provider",
+      "description": "A government agency that provides climate data and forecasts",
+      "uuid": "5d899ead-7134-4970-8b15-ac1d0cec867a",
+      "score": 0.6972529324961155
+    },
+    {
+      "name": "NOAA-CPC",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration's Climate Prediction Center, a government agency that provides climate data and forecasts",
+      "uuid": "5d899ead-7134-4970-8b15-ac1d0cec867a",
+      "score": 0.7457777109766699
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, an international organization that provides weather forecasts and climate data",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7664905835830259
+    },
+    {
+      "name": "Harmonized World Soil Database",
+      "label": "dataset",
+      "description": "A global database that provides information on soil characteristics and properties",
+      "uuid": "c49274ff-637d-4941-8cac-53558dea2e0b",
+      "score": 0.5010926889676197
+    },
+    {
+      "name": "soil characteristics",
+      "label": "variable",
+      "description": "The physical and chemical properties of soil, such as nutrient availability and pH levels",
+      "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
+      "score": 0.6993551662753127
+    },
+    {
+      "name": "soil pH levels",
+      "label": "variable",
+      "description": "A measure of the acidity or alkalinity of soil, which can impact plant growth and agricultural productivity",
+      "uuid": "357193c5-154d-487b-a1c3-a1a90d15918c",
+      "score": 0.6936273381133568
+    },
+    {
+      "name": "surface temperature measurements",
+      "label": "variable",
+      "description": "Data on the temperature of the Earth's surface, which can impact climate and weather patterns",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.683965649487317
+    }
+  ],
+  "(26517, 29183)": [
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, an organization providing weather forecasts and climate data",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7705616284231475
+    },
+    {
+      "name": "HWSD",
+      "label": "project",
+      "description": "The Harmonized World Soil Database, a project providing a comprehensive dataset of soil information worldwide",
+      "uuid": "3e43f5d8-3797-48ec-8160-f4344dccf794",
+      "score": 0.5253557308233824
+    },
+    {
+      "name": "total rainfall",
+      "label": "variable",
+      "description": "The total amount of rainfall received during a specific period, an important factor influencing agricultural productivity",
+      "uuid": "9466020a-db25-40ba-a76f-4720800efc92",
+      "score": 0.5073737561114435
+    },
+    {
+      "name": "average daily temperatures",
+      "label": "variable",
+      "description": "The average temperature recorded over a day, used to study climate patterns and their impact on agriculture",
+      "uuid": "f86e464a-cf9d-4e15-a39b-501855d1dc5a",
+      "score": 0.5324586661803891
+    },
+    {
+      "name": "maximum daily temperatures",
+      "label": "variable",
+      "description": "The highest temperature recorded during a day, an important factor influencing agricultural productivity and climate stress",
+      "uuid": "3d997f01-8987-4fb1-a32e-d88d51f0a2c4",
+      "score": 0.610242561903059
+    },
+    {
+      "name": "soil nutrient availability",
+      "label": "variable",
+      "description": "A measure of the availability of nutrients in the soil, essential for plant growth and agricultural productivity",
+      "uuid": "e4781de7-a4a4-4157-a549-4ac238d36512",
+      "score": 0.5179355772111459
+    },
+    {
+      "name": "soil pH levels",
+      "label": "variable",
+      "description": "A measure of the acidity or alkalinity of the soil, influencing nutrient availability and plant growth",
+      "uuid": "357193c5-154d-487b-a1c3-a1a90d15918c",
+      "score": 0.689407688716129
+    }
+  ],
+  "(28746, 31526)": [
+    {
+      "name": "soil nutrient constraints",
+      "label": "variable",
+      "description": "Limitations in the availability of essential nutrients in the soil that can impact crop growth and productivity",
+      "uuid": "5069167e-0b99-48af-9f81-8c765e112083",
+      "score": 0.5601989966619383
+    },
+    {
+      "name": "soil pH levels",
+      "label": "variable",
+      "description": "A measure of the acidity or alkalinity of the soil, affecting nutrient availability and microbial activity",
+      "uuid": "357193c5-154d-487b-a1c3-a1a90d15918c",
+      "score": 0.6795304558275991
+    }
+  ],
+  "(31022, 33587)": [
+    {
+      "name": "RILS survey",
+      "label": "project",
+      "description": "A research project that collects data on rural households and their agricultural practices",
+      "uuid": "ba15c87a-2c86-493f-9759-a7fa968e393d",
+      "score": 0.509058800882963
+    },
+    {
+      "name": "inorganic fertiliser",
+      "label": "instrument",
+      "description": "A type of agricultural input used to improve crop yields",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5230095129195008
+    },
+    {
+      "name": "Crop Forecast Surveys",
+      "label": "project",
+      "description": "A research project that collects data on crop yields and agricultural practices",
+      "uuid": "f1c35c74-0b10-46de-9c06-efeda92d383a",
+      "score": 0.5616961185363755
+    }
+  ],
+  "(33059, 36153)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in southern Africa, where the study was conducted",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6391195541708412
+    }
+  ],
+  "(35586, 38534)": [
+    {
+      "name": "Yield",
+      "label": "variable",
+      "description": "The amount of a crop produced per unit area, often used as a measure of agricultural productivity",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.5438823218838799
+    },
+    {
+      "name": "household",
+      "label": "provider",
+      "description": "A group of people living together, often the basic unit of analysis in economic and social research",
+      "uuid": "c88a747b-2302-49c9-b747-f2faa21e2b6b",
+      "score": 0.5194513439689442
+    },
+    {
+      "name": "agricultural production",
+      "label": "project",
+      "description": "The process of growing and harvesting crops, often the focus of economic and environmental research",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5671395260955657
+    },
+    {
+      "name": "climatic variables",
+      "label": "variable",
+      "description": "Factors related to climate, such as temperature, precipitation, or solar radiation, often used in agricultural and environmental research",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6055817570221552
+    }
+  ],
+  "(38101, 40555)": [
+    {
+      "name": "agricultural productivity",
+      "label": "variable",
+      "description": "The output of agricultural production per unit of input, often used as an indicator of the efficiency of agricultural practices",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5142503429725194
+    }
+  ],
+  "(40249, 43024)": [
+    {
+      "name": "climatic variables",
+      "label": "variable",
+      "description": "Factors such as temperature, precipitation, or drought that can affect agricultural productivity",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5491129523059519
+    }
+  ],
+  "(42508, 45492)": [
+    {
+      "name": "inorganic fertiliser use",
+      "label": "variable",
+      "description": "The use of synthetic fertilisers to improve soil fertility",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5003459241773758
+    },
+    {
+      "name": "SEA",
+      "label": "project",
+      "description": "A research project focused on studying the impact of various factors on agricultural productivity",
+      "uuid": "0a3e7f9b-e279-496d-aee2-41be7e05e0b4",
+      "score": 0.5610469938602426
+    },
+    {
+      "name": "soil nutrient availability",
+      "label": "variable",
+      "description": "The amount of nutrients available in the soil, which can impact agricultural productivity",
+      "uuid": "e4781de7-a4a4-4157-a549-4ac238d36512",
+      "score": 0.5085990894967093
+    },
+    {
+      "name": "pH levels",
+      "label": "variable",
+      "description": "The level of acidity or alkalinity in the soil, which can impact agricultural productivity",
+      "uuid": "357193c5-154d-487b-a1c3-a1a90d15918c",
+      "score": 0.6278429889864605
+    }
+  ],
+  "(44961, 48048)": [
+    {
+      "name": "maximum temperatures",
+      "label": "variable",
+      "description": "The highest temperature reached during the growing season, affecting crop growth",
+      "uuid": "cdcb420a-bd7b-47ea-a3bd-334e06976689",
+      "score": 0.5246448827681344
+    }
+  ],
+  "(47500, 50554)": [
+    {
+      "name": "plant breeding literature",
+      "label": "provider",
+      "description": "A body of research and knowledge focused on the development of new crop varieties through selective breeding and genetic modification",
+      "uuid": "dcd7a439-6021-4fc3-b3d8-a8936ef171f6",
+      "score": 0.5822913657231326
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent with diverse climates, soils, and agricultural systems, where maize is a major crop",
+      "uuid": "2ca1b865-5555-4375-aa81-72811335b695",
+      "score": 0.5274655915473626
+    }
+  ],
+  "(50097, 52977)": [
+    {
+      "name": "growing season",
+      "label": "time period",
+      "description": "The period of the year when crops are grown and harvested",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6260873464321187
+    },
+    {
+      "name": "maximum temperatures",
+      "label": "variable",
+      "description": "The highest temperature reached during a given period, which can impact crop growth and yields",
+      "uuid": "cdcb420a-bd7b-47ea-a3bd-334e06976689",
+      "score": 0.5464501877273574
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in southern Africa where the study was conducted",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6323749852344442
+    }
+  ],
+  "(52568, 55408)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in southern Africa, where the study on climate-smart agriculture practices was conducted",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.5690875365502154
+    },
+    {
+      "name": "AER",
+      "label": "variable",
+      "description": "Agricultural Extension and Research, an organization or program that provides support to farmers, but in this context, it likely refers to a variable related to agricultural extension and research",
+      "uuid": "cd6dcbd3-80a6-4cbf-8b80-ddf5803eab06",
+      "score": 0.5316795623191157
+    },
+    {
+      "name": "FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, an international organization that works to improve food security and agricultural productivity",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5829675091027262
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, an important factor influencing agricultural productivity",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5884857533503296
+    },
+    {
+      "name": "soil quality",
+      "label": "variable",
+      "description": "The physical, chemical, and biological properties of soil that affect its ability to support plant growth and filter water",
+      "uuid": "e4781de7-a4a4-4157-a549-4ac238d36512",
+      "score": 0.5430698911888698
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, which can have significant impacts on agricultural productivity and food security",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5095990419918913
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability of sufficient, safe, and nutritious food to meet the dietary needs of a population",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6914628840950768
+    },
+    {
+      "name": "soil quality data",
+      "label": "instrument",
+      "description": "Data on the physical, chemical, and biological properties of soil, which can be used to analyze its quality and fertility",
+      "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
+      "score": 0.5602383263610619
+    }
+  ],
+  "(54860, 58061)": [
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in southern Africa, where the study was conducted",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.6391195541708412
+    },
+    {
+      "name": "inorganic fertilisers",
+      "label": "variable",
+      "description": "A type of fertiliser that is not derived from organic matter, often used to improve soil fertility",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5269419866629305
+    },
+    {
+      "name": "soil quality",
+      "label": "variable",
+      "description": "A measure of the health and fertility of the soil, which can impact agricultural productivity",
+      "uuid": "e4781de7-a4a4-4157-a549-4ac238d36512",
+      "score": 0.6018095734782457
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "A measure of the availability and accessibility of food, which is a critical aspect of human well-being",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6890837226963213
+    },
+    {
+      "name": "AER",
+      "label": "project",
+      "description": "Agricultural Economics Research, a research initiative that aims to improve agricultural productivity and food security",
+      "uuid": "cd6dcbd3-80a6-4cbf-8b80-ddf5803eab06",
+      "score": 0.5002543806569709
+    }
+  ],
+  "(57536, 59196)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "Refers to significant changes in global temperatures and weather patterns due to human activities and other factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5778531410221787
+    },
+    {
+      "name": "Zambia",
+      "label": "location",
+      "description": "A country in southern Africa, known for its agricultural sector and vulnerability to climate change",
+      "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+      "score": 0.5996926168129791
+    },
+    {
+      "name": "fertiliser",
+      "label": "instrument",
+      "description": "A substance used to promote plant growth and increase crop yields",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5942366549501015
+    },
+    {
+      "name": "high temperatures",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally high temperatures, potentially affecting agricultural yields and food security",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.5294222872749287
+    }
+  ]
+}

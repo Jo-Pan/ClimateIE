@@ -1,0 +1,707 @@
+{
+  "(0, 2756)": [
+    {
+      "name": "greenhouse gas emissions",
+      "label": "weather event",
+      "description": "The release of gases such as carbon dioxide and methane into the atmosphere, contributing to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5455808039775947
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting in rising temperatures, more frequent natural disasters, and other environmental impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5916833978135774
+    },
+    {
+      "name": "soil properties",
+      "label": "variable",
+      "description": "The characteristics of soil that affect its fertility, structure, and overall health",
+      "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
+      "score": 0.5530943842992171
+    },
+    {
+      "name": "crop yield",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area, often used to measure agricultural productivity",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.5955622506725009
+    },
+    {
+      "name": "N loss pathways",
+      "label": "variable",
+      "description": "The ways in which nitrogen is lost from the environment, including leaching, runoff, and gaseous emissions",
+      "uuid": "0ed3bdcf-82fa-4dda-a7ad-66b175d82839",
+      "score": 0.6318243123912269
+    },
+    {
+      "name": "agricultural systems",
+      "label": "project",
+      "description": "The practices and processes used to produce food, including crop and animal production, and soil management",
+      "uuid": "2dda92a8-6c26-4506-9881-43b6d9a83b18",
+      "score": 0.5362458558463528
+    },
+    {
+      "name": "nitrogen",
+      "label": "variable",
+      "description": "A essential nutrient for plant growth, often limiting in agricultural systems",
+      "uuid": "ed7c506e-b18e-4a93-ac03-4bdfe119b72f",
+      "score": 0.6989501070607632
+    },
+    {
+      "name": "synthetic N fertilizers",
+      "label": "instrument",
+      "description": "Man-made fertilizers that contain nitrogen, often used to support crop production",
+      "uuid": "d523f014-6fec-422f-878c-b7e62be952a3",
+      "score": 0.5064161426864842
+    },
+    {
+      "name": "groundwater resources",
+      "label": "location",
+      "description": "The water stored beneath the Earth's surface, often used for drinking, irrigation, and other human needs",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6209949540128671
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "The water on the Earth's surface, including rivers, lakes, and oceans",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7344478898523968
+    },
+    {
+      "name": "eutrophication",
+      "label": "natural hazard",
+      "description": "The process by which excess nutrients, such as nitrogen and phosphorus, accumulate in water bodies, leading to harmful algal blooms and decreased water quality",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.7733276076047764
+    },
+    {
+      "name": "reefs",
+      "label": "location",
+      "description": "Shallow, sun-drenched ecosystems found in oceans, often damaged by excess nutrients and climate change",
+      "uuid": "367718c8-cc3b-4c94-a270-0a278afabb43",
+      "score": 0.6293913904797908
+    },
+    {
+      "name": "acid rainfall",
+      "label": "weather event",
+      "description": "Rainfall that contains high levels of pollutants, such as sulfur dioxide and nitrogen oxides, which can harm plants, animals, and infrastructure",
+      "uuid": "62ee81e7-9f5a-4af5-a086-f4c402c7d19d",
+      "score": 0.6765900060555745
+    },
+    {
+      "name": "food security",
+      "label": "project",
+      "description": "The availability and accessibility of sufficient, safe, and nutritious food to meet the needs of a growing population",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7122248083457509
+    }
+  ],
+  "(4156, 6489)": [
+    {
+      "name": "BBNFs",
+      "label": "project",
+      "description": "A research project focused on the development and application of biochar-based nitrogen fertilizers",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.511930266083554
+    },
+    {
+      "name": "sandy clay loam soil",
+      "label": "location",
+      "description": "A type of soil characterized by a mixture of sand, clay, and silt, often used in agricultural applications",
+      "uuid": "afd1d3cb-d31d-4069-8cff-b592887aa18c",
+      "score": 0.505825441078479
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A colorless, odorless gas that is a byproduct of combustion and a key component of the Earth's atmosphere",
+      "uuid": "26afa886-4866-4536-be3a-6f9db9aacd97",
+      "score": 0.6022704971702801
+    },
+    {
+      "name": "NH4NO3",
+      "label": "variable",
+      "description": "A type of nitrogen fertilizer commonly used in agricultural applications",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.5069223663807657
+    }
+  ],
+  "(6131, 8506)": [
+    {
+      "name": "N fertilizers",
+      "label": "variable",
+      "description": "A type of fertilizer that provides nitrogen to plants, essential for their growth and development",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5141677715897717
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6265073430856403
+    },
+    {
+      "name": "water holding capacity",
+      "label": "variable",
+      "description": "The ability of soil to retain water, essential for plant growth and development",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.7251939588282825
+    },
+    {
+      "name": "soil water retention",
+      "label": "variable",
+      "description": "The ability of soil to retain water, essential for plant growth and development",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.6000543544235333
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances essential for plant growth and development, such as nitrogen, phosphorus, and potassium",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.6378613281874627
+    }
+  ],
+  "(8101, 10544)": [
+    {
+      "name": "BBNFs",
+      "label": "platform",
+      "description": "Biochar-based nitrogen fertilizer formulations, designed to improve nitrogen use efficiency in agricultural soils",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5311000635175878
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, supporting plant growth and filtering water",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6322257357162069
+    },
+    {
+      "name": "water holding capacity",
+      "label": "variable",
+      "description": "The ability of soil to retain water, influencing plant growth, erosion, and nutrient cycling",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.7347657235127313
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, affecting plant water uptake, microbial activity, and soil structure",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6662441820085188
+    },
+    {
+      "name": "atmospheric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere at a given location and time",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.731070198041932
+    }
+  ],
+  "(10161, 12554)": [
+    {
+      "name": "BBNFs",
+      "label": "project",
+      "description": "A research project focused on developing biochar-based nitrogen fertilizers to improve soil fertility and reduce nitrogen loss",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5193333521727574
+    },
+    {
+      "name": "H 2 O 2 ",
+      "label": "variable",
+      "description": "Hydrogen peroxide, a chemical used to oxidize carbonized surfaces and improve the slow-release of nitrogen",
+      "uuid": "75662ed3-35c5-41ee-abba-51ce435d1b31",
+      "score": 0.660773186701345
+    },
+    {
+      "name": "FTIR",
+      "label": "instrument",
+      "description": "Fourier transform infrared spectroscopy, a technique used to analyze the functional groups present in biochar and BBNFs",
+      "uuid": "aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2",
+      "score": 0.5395134589894528
+    }
+  ],
+  "(12167, 14767)": [
+    {
+      "name": "BBNFs",
+      "label": "project",
+      "description": "A research project focused on developing and studying biochar-based nitrogen fertilizers for sustainable agriculture",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5103390197660584
+    },
+    {
+      "name": "FTIR",
+      "label": "instrument",
+      "description": "A spectroscopic technique used to analyze the functional groups and chemical composition of materials",
+      "uuid": "aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2",
+      "score": 0.5859616265754225
+    },
+    {
+      "name": "NH 3",
+      "label": "variable",
+      "description": "Ammonia, a chemical compound that plays a crucial role in nitrogen cycling and fertilizer applications",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.6913363610651941
+    },
+    {
+      "name": "phosphate",
+      "label": "variable",
+      "description": "A chemical compound that is essential for plant growth and is often used in fertilizers",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.6108374280337633
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, and supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6257346911232143
+    }
+  ],
+  "(14282, 16976)": [
+    {
+      "name": "BBNFs",
+      "label": "project",
+      "description": "Bio-Based Nitrogen Fertilizers, a type of fertilizer that releases nitrogen slowly, reducing environmental losses",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5392775207712605
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, where plants grow",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6243990911847116
+    },
+    {
+      "name": "denitrification",
+      "label": "natural hazard",
+      "description": "A process by which microorganisms convert nitrogen into nitrogen gas, reducing the amount of nitrogen available to plants",
+      "uuid": "0d0de6a7-c340-4e6b-b01d-ccbb6e7fa913",
+      "score": 0.5654600728575797
+    },
+    {
+      "name": "leaching",
+      "label": "natural hazard",
+      "description": "The process by which nutrients, including nitrogen, are lost from the soil through water movement",
+      "uuid": "0e2b6d0e-bbe4-4852-8fb3-2dd05e70a753",
+      "score": 0.5284220373894881
+    }
+  ],
+  "(16549, 19235)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, which supports plant growth and filters water",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6289300896058683
+    },
+    {
+      "name": "NO3\u2212 leaching",
+      "label": "natural hazard",
+      "description": "The loss of nitrate ions from soil into water, contributing to water pollution",
+      "uuid": "0e2b6d0e-bbe4-4852-8fb3-2dd05e70a753",
+      "score": 0.5748965956548782
+    },
+    {
+      "name": "N2O emissions",
+      "label": "natural hazard",
+      "description": "The release of nitrous oxide gas from soil into the atmosphere, contributing to climate change",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.5800121621649704
+    }
+  ],
+  "(18793, 20984)": [
+    {
+      "name": "BBNF",
+      "label": "platform",
+      "description": "A type of fertilizer that combines biochar with nitrogen to reduce nitrogen loss and improve soil fertility",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5156733358596343
+    },
+    {
+      "name": "NO3\u2212",
+      "label": "variable",
+      "description": "Nitrate, a form of nitrogen that can be lost from soil through leaching",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.5897903464815692
+    },
+    {
+      "name": "NH3",
+      "label": "variable",
+      "description": "Ammonia, a gas that can be emitted from soil as a result of nitrogen loss",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.62215253166599
+    },
+    {
+      "name": "N2O",
+      "label": "variable",
+      "description": "Nitrous oxide, a greenhouse gas that can be emitted from soil as a result of nitrogen loss",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.676769419088557
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6312354590522647
+    },
+    {
+      "name": "NH4+",
+      "label": "variable",
+      "description": "Ammonium, a form of nitrogen that can be lost from soil through leaching",
+      "uuid": "d8271cbe-2f0d-4f68-918d-dd47c7d880bb",
+      "score": 0.5917829306470189
+    },
+    {
+      "name": "percolation water",
+      "label": "location",
+      "description": "Water that moves through the soil and can carry nutrients and pollutants with it",
+      "uuid": "d64094ae-774b-4435-8f2e-a54d114e5555",
+      "score": 0.5819059404915535
+    },
+    {
+      "name": "denitrification",
+      "label": "natural hazard",
+      "description": "The process by which microorganisms in the soil convert nitrogen into nitrogen gases, leading to nitrogen loss",
+      "uuid": "0d0de6a7-c340-4e6b-b01d-ccbb6e7fa913",
+      "score": 0.5888087345245364
+    }
+  ],
+  "(20619, 22669)": [
+    {
+      "name": "BBNFs",
+      "label": "project",
+      "description": "A project that focuses on the development and application of biochar-based nitrogen fertilizers to reduce nitrogen loss and improve nitrogen use efficiency in agricultural soils",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5257577697371711
+    },
+    {
+      "name": "NH 4 +",
+      "label": "variable",
+      "description": "A positively charged ion of ammonia, an important nutrient for plant growth",
+      "uuid": "d8271cbe-2f0d-4f68-918d-dd47c7d880bb",
+      "score": 0.522768194107312
+    },
+    {
+      "name": "NO 3 \u2212",
+      "label": "variable",
+      "description": "A negatively charged ion of nitrate, an important nutrient for plant growth",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.5849038578576228
+    },
+    {
+      "name": "soils",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, water, and air",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6356973330443352
+    },
+    {
+      "name": "aquatic systems",
+      "label": "location",
+      "description": "Ecosystems that exist in water, such as rivers, lakes, and oceans",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.7186244012083239
+    },
+    {
+      "name": "global NH 3 emissions",
+      "label": "variable",
+      "description": "The total amount of ammonia emitted into the atmosphere globally",
+      "uuid": "951ea6d0-2091-44fa-b629-649a709296cd",
+      "score": 0.5729288830080652
+    },
+    {
+      "name": "NH 3 ",
+      "label": "variable",
+      "description": "A colorless, pungent gas that is a major component of ammonia",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.6034776896142314
+    }
+  ],
+  "(22335, 24621)": [
+    {
+      "name": "NH 3",
+      "label": "variable",
+      "description": "A colorless gas with a characteristic pungent smell, often used as an indicator of nitrogen pollution in the environment",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.5848138382981976
+    },
+    {
+      "name": "BBNFs",
+      "label": "platform",
+      "description": "Biochar-based nitrogen fertilizers, a type of fertilizer that combines biochar with nitrogen-rich compounds to enhance soil fertility",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5105597345001763
+    },
+    {
+      "name": "soil pH",
+      "label": "variable",
+      "description": "A measure of the acidity or alkalinity of soil, influencing nutrient availability and microbial activity",
+      "uuid": "357193c5-154d-487b-a1c3-a1a90d15918c",
+      "score": 0.7125189161830053
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, affecting chemical reactions and biological processes in soil",
+      "uuid": "26f5bb2a-b872-41e8-922f-3a9a0e9f9bcd",
+      "score": 0.5925295770670964
+    }
+  ],
+  "(24253, 26674)": [
+    {
+      "name": "NH3",
+      "label": "variable",
+      "description": "A chemical compound and a toxic gas, also known as ammonia, which can be released into the environment through various natural and human-induced processes",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.6527191269795279
+    },
+    {
+      "name": "BBNFs",
+      "label": "fertilizer",
+      "description": "A type of fertilizer that is designed to reduce nitrogen loss and improve soil health",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5135750500255583
+    },
+    {
+      "name": "N2O",
+      "label": "variable",
+      "description": "A potent greenhouse gas, also known as nitrous oxide, which is released into the atmosphere through various natural and human-induced processes",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.7000361881188158
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.679806459607191
+    },
+    {
+      "name": "water holding ratio",
+      "label": "variable",
+      "description": "The ratio of water held in the soil to the total soil weight",
+      "uuid": "223ce1f2-e2f1-4612-8fce-b96b7d34710f",
+      "score": 0.5991192641097852
+    },
+    {
+      "name": "water-holding capacity",
+      "label": "variable",
+      "description": "The ability of soil to retain water",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.7406532641325455
+    },
+    {
+      "name": "soil water holding capacity",
+      "label": "variable",
+      "description": "The ability of soil to retain water",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.7623730543097278
+    },
+    {
+      "name": "waterholding capacity",
+      "label": "variable",
+      "description": "The ability of soil to retain water",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.7362247133308553
+    }
+  ],
+  "(26235, 28509)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The outermost solid layer of the Earth's surface, supporting plant growth and influencing ecosystem health",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6088154198612097
+    },
+    {
+      "name": "water-holding capacity",
+      "label": "variable",
+      "description": "The ability of soil to retain water, crucial for plant growth and soil fertility",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.7284732861273711
+    },
+    {
+      "name": "water-retention period",
+      "label": "variable",
+      "description": "The duration for which soil can retain water, affecting soil moisture and plant water availability",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.5183190668065951
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of soil acidity or alkalinity, influencing nutrient availability and microbial activity",
+      "uuid": "357193c5-154d-487b-a1c3-a1a90d15918c",
+      "score": 0.6685475907217227
+    },
+    {
+      "name": "CEC",
+      "label": "variable",
+      "description": "Cation exchange capacity, an indicator of soil fertility and ability to retain cationic nutrients",
+      "uuid": "9bad3c7b-daf6-428a-89bd-ce62b074dfcf",
+      "score": 0.7182350284260168
+    }
+  ],
+  "(28127, 30457)": [
+    {
+      "name": "CEC",
+      "label": "variable",
+      "description": "Cation exchange capacity, a measure of the soil's ability to retain cationic nutrients",
+      "uuid": "9bad3c7b-daf6-428a-89bd-ce62b074dfcf",
+      "score": 0.7261524796325503
+    },
+    {
+      "name": "BBNFs",
+      "label": "instrument",
+      "description": "Biochar-based nitrogen fertilizers, used to improve soil fertility and structure",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5113483781027112
+    },
+    {
+      "name": "soil fertility",
+      "label": "variable",
+      "description": "The ability of soil to support plant growth and provide necessary nutrients",
+      "uuid": "e4781de7-a4a4-4157-a549-4ac238d36512",
+      "score": 0.7189786757339693
+    },
+    {
+      "name": "SOC",
+      "label": "variable",
+      "description": "Soil organic carbon, a measure of the amount of carbon stored in the soil",
+      "uuid": "39a39084-ae04-421c-892b-f554133ca4e6",
+      "score": 0.668297655904919
+    },
+    {
+      "name": "N fertilizers",
+      "label": "instrument",
+      "description": "Nitrogen-based fertilizers used to promote plant growth",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5113218637254976
+    }
+  ],
+  "(30086, 32412)": [
+    {
+      "name": "BBNFs",
+      "label": "project",
+      "description": "A research project focused on the application of biochar-based nitrogen fertilizers to improve soil health and crop yields",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5254522432217565
+    },
+    {
+      "name": "nitrogen",
+      "label": "variable",
+      "description": "A critical nutrient for plant growth and crop yields, often limiting agricultural productivity",
+      "uuid": "ed7c506e-b18e-4a93-ac03-4bdfe119b72f",
+      "score": 0.667037938284513
+    }
+  ],
+  "(32087, 34360)": [
+    {
+      "name": "BBNFs",
+      "label": "fertilizer",
+      "description": "A type of fertilizer that combines biochar and nitrogen, designed to improve nitrogen use efficiency in crops",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5227235203971682
+    }
+  ],
+  "(34006, 36377)": [
+    {
+      "name": "BBNFs",
+      "label": "fertilizer",
+      "description": "Bio-based nitrogen fertilizers, a type of fertilizer derived from organic materials",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5418250207269967
+    },
+    {
+      "name": "drought conditions",
+      "label": "weather event",
+      "description": "A period of abnormally low rainfall, leading to water shortage and impacts on agriculture",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6578894098388416
+    }
+  ],
+  "(35987, 39038)": [
+    {
+      "name": "BBNFs",
+      "label": "fertilizer",
+      "description": "Bio-based nitrogen fertilizers, a type of fertilizer that utilizes bio-based materials to improve nitrogen use efficiency",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.546092295992695
+    },
+    {
+      "name": "drought conditions",
+      "label": "weather event",
+      "description": "A period of abnormally low rainfall, leading to water scarcity and impacts on agriculture and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6716973532730021
+    },
+    {
+      "name": "N pollution",
+      "label": "environmental impact",
+      "description": "The release of excess nitrogen into the environment, contributing to eutrophication and water pollution",
+      "uuid": "32777aa3-a06a-4719-bbe5-7dcecb1a06f5",
+      "score": 0.5240881042060286
+    }
+  ],
+  "(38577, 41315)": [
+    {
+      "name": "BBNFs",
+      "label": "variable",
+      "description": "Biochar-based nitrogen fertilizers, a type of fertilizer that combines biochar with nitrogen to enhance crop growth and reduce environmental impacts",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5202283072910511
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide, methane, and nitrous oxide into the atmosphere, contributing to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5453324861913514
+    },
+    {
+      "name": "eutrophication",
+      "label": "natural hazard",
+      "description": "A process by which excess nutrients, such as nitrogen and phosphorus, accumulate in an ecosystem, leading to harmful algal blooms and decreased water quality",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.7707807687440755
+    },
+    {
+      "name": "carbon sequestration",
+      "label": "variable",
+      "description": "The process of capturing and storing atmospheric carbon dioxide, often through biological or technological means, to mitigate climate change",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.7313380218092909
+    },
+    {
+      "name": "National Natural Science Foundation of China",
+      "label": "provider",
+      "description": "A Chinese government agency responsible for funding scientific research and development",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.5298534220868674
+    }
+  ],
+  "(40837, 42652)": [
+    {
+      "name": "National Natural Science Foundation of China",
+      "label": "provider",
+      "description": "A Chinese government agency responsible for funding scientific research and development projects",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.5279314526284888
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large and diverse geography and climate",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.690741261569502
+    }
+  ]
+}

@@ -1,0 +1,2176 @@
+{
+  "(0, 3127)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.751139418280364
+    },
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "A land surface scheme used in regional climate models to simulate the interactions between the land surface and the atmosphere",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.5669429434180392
+    },
+    {
+      "name": "Quebec",
+      "label": "location",
+      "description": "A province in Canada, where the des Anglais catchment is located",
+      "uuid": "c977c83a-f171-4337-8001-abb2539cdc76",
+      "score": 0.5463894719889828
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, where the province of Quebec is located",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.6191916686748341
+    },
+    {
+      "name": "river discharge",
+      "label": "variable",
+      "description": "The flow of water in a river, often used as an indicator of hydrological response to climate change",
+      "uuid": "12dc1f4f-2116-4b74-a1bd-bc61e8e57a5b",
+      "score": 0.6810985181364703
+    },
+    {
+      "name": "soil water storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, which can be affected by climate change",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5832542317108154
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, which can be affected by climate change",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6925357061376852
+    },
+    {
+      "name": "surface water",
+      "label": "variable",
+      "description": "The water on the surface of the Earth, including rivers, lakes, and wetlands",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7145003744370904
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "The water stored beneath the Earth's surface, which can be affected by climate change",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.642082313579981
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate, including rising temperatures and altered precipitation patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5977068316656764
+    },
+    {
+      "name": "regional climate systems",
+      "label": "location",
+      "description": "The climate conditions of a specific region, which can be affected by global climate change",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.5638998991975078
+    },
+    {
+      "name": "General circulation models",
+      "label": "model",
+      "description": "A type of climate model that simulates the large-scale circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6918389681657588
+    },
+    {
+      "name": "long-term climate variables",
+      "label": "variable",
+      "description": "Climate variables that are measured over a long period of time, such as temperature and precipitation",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5747726444820546
+    }
+  ],
+  "(2677, 5433)": [
+    {
+      "name": "infiltration",
+      "label": "variable",
+      "description": "The process by which water moves from the Earth's surface into the soil, playing a crucial role in the hydrological cycle",
+      "uuid": "638a22af-4e97-450e-a278-b81338443230",
+      "score": 0.7417846294299915
+    },
+    {
+      "name": "land surface models",
+      "label": "model",
+      "description": "Computational representations of land surface processes, used to simulate and predict energy and moisture fluxes between the land and atmosphere",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.6684422801784868
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7427916005314608
+    },
+    {
+      "name": "surface water",
+      "label": "variable",
+      "description": "Water that collects on the surface of the Earth, including rivers, lakes, and wetlands",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6914735293534262
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The top layer of the Earth's surface, composed of organic and inorganic matter, playing a key role in the hydrological cycle",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6249823944623313
+    },
+    {
+      "name": "fully coupled numerical models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, and biological processes to represent and predict complex systems",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6003426969225216
+    },
+    {
+      "name": "drainage",
+      "label": "variable",
+      "description": "The natural or artificial removal of surface or subsurface water from an area",
+      "uuid": "269c7277-fa8f-4c1c-bd8b-ab772c1df4e5",
+      "score": 0.645791473950406
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The interface between the Earth's surface and the atmosphere, where energy and moisture fluxes occur",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.6797084705315217
+    },
+    {
+      "name": "current land surface models",
+      "label": "model",
+      "description": "The existing computational representations of land surface processes, used to simulate and predict energy and moisture fluxes between the land and atmosphere",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.5810211631150262
+    },
+    {
+      "name": "sensible and latent heat fluxes",
+      "label": "variable",
+      "description": "The transfer of energy from the Earth's surface to the atmosphere through convection and evaporation",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.6805094588986417
+    },
+    {
+      "name": "base flow",
+      "label": "variable",
+      "description": "The steady, low-flow component of a stream or river, maintained by groundwater discharge",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.7158471986930169
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.6381784744721314
+    },
+    {
+      "name": "long-term climate variables",
+      "label": "variable",
+      "description": "The characteristics of the climate system that change over long periods of time, such as temperature, precipitation, and sea level",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6249130288422142
+    },
+    {
+      "name": "freshwater resources",
+      "label": "variable",
+      "description": "The sources of freshwater, including rivers, lakes, wetlands, and groundwater, essential for human consumption, agriculture, and ecosystems",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6459832180375815
+    },
+    {
+      "name": "Soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, playing a key role in the hydrological cycle and energy balance",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6906713275610395
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "The water stored beneath the Earth's surface in soil and rock, recharged from the surface and eventually feeding into streams and rivers",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6727157805124141
+    },
+    {
+      "name": "hydrology",
+      "label": "project",
+      "description": "The scientific study of the Earth's water resources, including the movement, distribution, and quality of water",
+      "uuid": "916b2963-6c1d-48ee-8f97-8606febf8db7",
+      "score": 0.5256376982743827
+    },
+    {
+      "name": "groundwater recharge",
+      "label": "variable",
+      "description": "The process by which water moves from the Earth's surface into the groundwater, replenishing aquifers and maintaining groundwater levels",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.669189484927758
+    },
+    {
+      "name": "atmospheric boundary layer",
+      "label": "location",
+      "description": "The layer of the atmosphere closest to the Earth's surface, where the air is directly influenced by the surface and plays a key role in weather and climate",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.6851210764281598
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water, often connected to lakes, wetlands, and oceans",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.7368976241149134
+    },
+    {
+      "name": "infiltration and soil moisture processes",
+      "label": "variable",
+      "description": "The processes by which water moves into the soil and is stored, playing a crucial role in the hydrological cycle and energy balance",
+      "uuid": "875b1cd8-ca7e-4edb-9e83-ac78f1a3bc9f",
+      "score": 0.6378054094265251
+    }
+  ],
+  "(5006, 7789)": [
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, used for simulating regional climate conditions and predicting future climate changes",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.52482130549784
+    },
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "The Canadian Land Surface Scheme, a model used to simulate land surface processes and interactions with the atmosphere",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.6037642982592738
+    },
+    {
+      "name": "Quebec",
+      "label": "location",
+      "description": "A province in eastern Canada, known for its diverse geography and climate",
+      "uuid": "c977c83a-f171-4337-8001-abb2539cdc76",
+      "score": 0.6475243063745458
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, characterized by its vast territory and varied climate zones",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.6250057097229214
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, influencing hydrological and climate processes",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6569864237747274
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, crucial for hydrological and climate studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6809166277266334
+    },
+    {
+      "name": "land surface model",
+      "label": "model",
+      "description": "A type of model that simulates the interactions between the land surface and the atmosphere, often used in climate and hydrological studies",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.6284084732447777
+    }
+  ],
+  "(7356, 9982)": [
+    {
+      "name": "Canadian Land Surface Scheme",
+      "label": "model",
+      "description": "A model used to simulate land surface processes, including soil water predictions",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.5175635453816673
+    },
+    {
+      "name": "Catchment Hydrology",
+      "label": "model",
+      "description": "A coupled groundwater-surface water model used to simulate hydrological processes",
+      "uuid": "09ef7548-5e64-4296-8129-0ab625e15721",
+      "score": 0.553641970012414
+    },
+    {
+      "name": "aquifer system",
+      "label": "natural hazard",
+      "description": "A system of permeable rocks that store and transmit groundwater",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5460919399135568
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The upper layer of the earth's surface, composed of weathered rock and organic material",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6126593876834179
+    },
+    {
+      "name": "swamps",
+      "label": "location",
+      "description": "A type of wetland that overlies Champlain sea sediments in the northeastern part of the catchment",
+      "uuid": "8f6adff6-672d-4066-8c85-25418a7d0e00",
+      "score": 0.5722064741022412
+    },
+    {
+      "name": "water table fluctuations",
+      "label": "variable",
+      "description": "The changes in the level of the water table over time",
+      "uuid": "ecbe9f17-6012-4e39-a707-713973b7d167",
+      "score": 0.538751713028676
+    },
+    {
+      "name": "Great Lakes and St. Lawrence climate region",
+      "label": "location",
+      "description": "A region characterized by a semihumid climate with cold winters and humid summers",
+      "uuid": "69ef1af3-96de-4aca-95fd-c4ca131bc643",
+      "score": 0.5052049791209137
+    },
+    {
+      "name": "annual mean temperature",
+      "label": "variable",
+      "description": "The average temperature of the study area over a year",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.5650653178346912
+    },
+    {
+      "name": "Environment Canada",
+      "label": "provider",
+      "description": "A Canadian government agency that provides environmental data and information",
+      "uuid": "865ff127-0492-4717-8cd1-f8819f5b0b37",
+      "score": 0.6895161550177759
+    }
+  ],
+  "(9565, 12396)": [
+    {
+      "name": "Great Lakes",
+      "label": "location",
+      "description": "A region in North America characterized by a large group of freshwater lakes, influencing local climate and hydrology",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.7354673136329727
+    },
+    {
+      "name": "St. Lawrence",
+      "label": "location",
+      "description": "A region in North America, including a river and surrounding areas, known for its unique climate and hydrological features",
+      "uuid": "70c4057c-7ecc-4ff5-a6e6-5d5b0bb2af3b",
+      "score": 0.5433528860924467
+    },
+    {
+      "name": "digital elevation model",
+      "label": "instrument",
+      "description": "A 3D representation of the Earth's surface, used for analyzing and visualizing topographic features",
+      "uuid": "395372ad-2883-4b6a-a481-6383a310ca47",
+      "score": 0.6812572435995555
+    },
+    {
+      "name": "weather stations",
+      "label": "instrument",
+      "description": "Devices used to measure and record atmospheric conditions such as temperature, humidity, and precipitation",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.6366159845940847
+    },
+    {
+      "name": "annual mean temperature",
+      "label": "variable",
+      "description": "The average temperature over a year, an important factor in climate and hydrological studies",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.5850730884378934
+    },
+    {
+      "name": "watershed",
+      "label": "location",
+      "description": "An area of land that drains water into a particular river, lake, or ocean, playing a crucial role in hydrological cycles",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.6981129959756347
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The outermost solid surface of the Earth, where interactions between the atmosphere, hydrosphere, and lithosphere occur",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.7158226599358949
+    },
+    {
+      "name": "streamflow gauges",
+      "label": "instrument",
+      "description": "Devices used to measure the flow rate of streams and rivers, essential for hydrological monitoring and research",
+      "uuid": "9bd0a7b8-bb67-4b44-b2bc-cf975f93ea10",
+      "score": 0.722971852347393
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, often resulting from precipitation and influencing hydrological processes",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6566317184492575
+    },
+    {
+      "name": "subsurface flow",
+      "label": "variable",
+      "description": "The movement of water beneath the Earth's surface, an important component of hydrological cycles",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.7420012896783796
+    },
+    {
+      "name": "Environment Canada",
+      "label": "provider",
+      "description": "A Canadian government agency responsible for environmental protection, conservation, and research, including climate and hydrological studies",
+      "uuid": "865ff127-0492-4717-8cd1-f8819f5b0b37",
+      "score": 0.7055287463614962
+    }
+  ],
+  "(11953, 14804)": [
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a three-dimensional, nested grid point atmospheric model used for simulating regional climate and weather patterns",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.5071286709975854
+    },
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "The Canadian Land Surface Scheme, a physically based model for simulating soil-snow-vegetation interactions and exchanges of energy, water, and momentum at the surface-atmosphere interface",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.6069102527511702
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The interface between the Earth's surface and the atmosphere, where exchanges of energy, water, and momentum occur",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.6811298462672359
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, influencing weather and climate",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.631872519693241
+    },
+    {
+      "name": "soil layers",
+      "label": "variable",
+      "description": "Layers of soil with distinct properties, used in modeling soil moisture, temperature, and other soil-related processes",
+      "uuid": "e3c3a76c-92f0-4735-bc9a-ee6a78798524",
+      "score": 0.5709725025484493
+    },
+    {
+      "name": "upper soil layer",
+      "label": "variable",
+      "description": "The topmost layer of soil, typically with a thickness of 10 cm, used in modeling soil moisture and temperature",
+      "uuid": "7e3b1d24-d96d-4b4a-a09c-ed9abd0e81e2",
+      "score": 0.5226614962550581
+    },
+    {
+      "name": "vegetation root zone layer",
+      "label": "variable",
+      "description": "A layer of soil where plant roots are active, typically with a thickness of 25 cm, used in modeling soil moisture and temperature",
+      "uuid": "4353d710-3d65-44b3-b988-26af1415646a",
+      "score": 0.5740406933328788
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the atmosphere through transpiration, influencing the water cycle and climate",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7123118029962175
+    },
+    {
+      "name": "soil temperatures",
+      "label": "variable",
+      "description": "The temperature of the soil, influencing soil moisture, microbial activity, and other soil-related processes",
+      "uuid": "b29ee2f4-b2ce-4b19-b8e3-2d74d071549b",
+      "score": 0.6716064710016739
+    },
+    {
+      "name": "vegetation canopy",
+      "label": "variable",
+      "description": "The layer of leaves and stems of plants, influencing energy and water exchanges between the land surface and the atmosphere",
+      "uuid": "7266c8c3-81eb-47fd-849c-55a1498c4d3d",
+      "score": 0.6469638509508188
+    }
+  ],
+  "(14292, 17015)": [
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "A land surface model that simulates the exchange of water and energy between the land surface and the atmosphere, including processes such as evapotranspiration, soil moisture, and surface runoff",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.5435965728900495
+    },
+    {
+      "name": "soil layer",
+      "label": "location",
+      "description": "A layer of soil, which can be further divided into upper and lower layers, and is an essential component of the land surface in the CLASS model",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5422520122973874
+    },
+    {
+      "name": "vegetation canopy",
+      "label": "instrument",
+      "description": "A component of the CLASS model that allows for stomatal and root zone control of evapotranspiration, influencing the exchange of water and energy between the land surface and the atmosphere",
+      "uuid": "7266c8c3-81eb-47fd-849c-55a1498c4d3d",
+      "score": 0.574648461000625
+    },
+    {
+      "name": "snowpack",
+      "label": "natural hazard",
+      "description": "A layer of snow that forms on the ground during cold seasons, acting as a separate \"soil\" layer in the CLASS model and influencing soil temperatures and hydrology",
+      "uuid": "abc70f23-f386-41da-b1ad-43cd7aebe7c4",
+      "score": 0.5750079387490674
+    },
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a model used to simulate regional climate conditions and is driven by atmospheric fields from the Canadian General Circulation Model",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.5112170321022961
+    },
+    {
+      "name": "CGCM",
+      "label": "model",
+      "description": "The Canadian General Circulation Model, a global climate model that provides atmospheric fields to drive the CRCM",
+      "uuid": "3b20a141-8408-44b2-adf1-632ac9222c61",
+      "score": 0.6121831075278277
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an organization that provides climate projections and scenarios, such as the SRES A2 scenario",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.6653352127933114
+    },
+    {
+      "name": "SRES A2",
+      "label": "experiment",
+      "description": "A scenario used to project future climate conditions, characterized by high greenhouse gas emissions and is used to drive the CRCM and CGCM models",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5265442864389986
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A region of the Earth's surface, covering the United States, Canada, and Mexico, and is the domain of the CRCM simulation",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6645390573303155
+    },
+    {
+      "name": "aerosol",
+      "label": "variable",
+      "description": "A type of particle that is present in the atmosphere and influences climate conditions, and is used to drive the CRCM and CGCM models",
+      "uuid": "49c6b17a-73b3-4a88-921e-960c5ceca013",
+      "score": 0.6410140208922772
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land surface to the atmosphere, and is a key component of the CLASS model",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.72386289183503
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, and is a key component of the CLASS model",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6864883354172422
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, and is a key component of the CLASS model",
+      "uuid": "c6cef513-7c32-4b3a-beed-f09dd790933b",
+      "score": 0.6533216259177694
+    }
+  ],
+  "(16613, 19284)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that provides scientific advice on climate change to policymakers",
+      "uuid": "3fbcf679-578f-4f06-bd33-9fac85df2c58",
+      "score": 0.7202018418718565
+    },
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a climate model used to simulate regional climate conditions",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.515001925128177
+    },
+    {
+      "name": "SRES A2",
+      "label": "experiment",
+      "description": "A greenhouse gas and aerosol emission scenario developed by the IPCC, representing a high-emission scenario",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5606561872548916
+    },
+    {
+      "name": "CGCM",
+      "label": "model",
+      "description": "A Coupled Global Climate Model, used to simulate the global climate system",
+      "uuid": "3b20a141-8408-44b2-adf1-632ac9222c61",
+      "score": 0.6176444944595582
+    },
+    {
+      "name": "land surface deep soil layer",
+      "label": "location",
+      "description": "The layer of soil beneath the land surface, which plays a crucial role in the climate system",
+      "uuid": "90761f8d-6abe-499c-b711-acec394daa59",
+      "score": 0.5110743026714033
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, which can have significant impacts on the environment, human health, and the economy",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5862320118250708
+    },
+    {
+      "name": "adaptation",
+      "label": "project",
+      "description": "The process of adjusting to the impacts of climate change, including the development of strategies to reduce vulnerability",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6321885697700357
+    },
+    {
+      "name": "mitigation",
+      "label": "project",
+      "description": "The process of reducing the causes of climate change, including the reduction of greenhouse gas emissions",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.652792013678699
+    }
+  ],
+  "(19019, 21291)": [
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded during a given period, often used to analyze climate trends and patterns",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6133155352026853
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded during a given period, often used to analyze climate trends and patterns",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.5964535535049016
+    },
+    {
+      "name": "annual precipitation",
+      "label": "variable",
+      "description": "The total amount of precipitation that occurs over a year, an important factor in climate and hydrological studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5221579027364588
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "A measure of the rate of change of a variable, often used to analyze trends in time series data",
+      "uuid": "aeb02243-583f-444e-a2a4-341ab351a3d8",
+      "score": 0.5189137089261558
+    }
+  ],
+  "(20797, 23784)": [
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a climate model used to simulate and predict regional climate patterns",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.5244201112071514
+    },
+    {
+      "name": "CGCM",
+      "label": "model",
+      "description": "The Canadian Global Climate Model, a climate model used to simulate and predict global climate patterns",
+      "uuid": "3b20a141-8408-44b2-adf1-632ac9222c61",
+      "score": 0.5901293735689166
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded during a given time period, often used in climate studies",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6151735833943375
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded during a given time period, often used in climate studies",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6296153996490842
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "A measure of the amount of water that could be evaporated from the surface and transpired by plants, important in hydrological studies",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7414774341078273
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that reaches the Earth's surface, influencing climate and hydrological processes",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6762081229378029
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, often studied in the context of hydrology and climate change",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5776602045986821
+    },
+    {
+      "name": "annual precipitation",
+      "label": "variable",
+      "description": "The total amount of precipitation that falls in a given year, an important factor in climate and hydrological studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5358754559461772
+    },
+    {
+      "name": "total precipitation",
+      "label": "variable",
+      "description": "The total amount of precipitation that falls in a given area, often used in climate and hydrological studies",
+      "uuid": "9466020a-db25-40ba-a76f-4720800efc92",
+      "score": 0.6228856658909236
+    }
+  ],
+  "(23307, 25997)": [
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a climate model used to simulate regional climate patterns",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.520956244649139
+    },
+    {
+      "name": "weather stations",
+      "label": "instrument",
+      "description": "Devices used to measure and record weather conditions, such as temperature and precipitation",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.6487208945777326
+    },
+    {
+      "name": "hydrological model",
+      "label": "model",
+      "description": "A computational model used to simulate the movement and distribution of water in a given area",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5251548096235754
+    },
+    {
+      "name": "des Anglais basin",
+      "label": "location",
+      "description": "A geographic region, likely a watershed or drainage basin, where the hydrological model is applied",
+      "uuid": "b3715333-62d3-40cd-95d6-a8c2d9edc3e4",
+      "score": 0.5289584565580933
+    },
+    {
+      "name": "snow accumulation",
+      "label": "variable",
+      "description": "The process of snow building up in a given area over time",
+      "uuid": "7b8ad020-7eff-4639-b8c1-8b22e1535c00",
+      "score": 0.5567340559988764
+    },
+    {
+      "name": "snowmelt",
+      "label": "variable",
+      "description": "The process of snow melting and turning into water",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6342291737455107
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6909966787049034
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used in climate and weather studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6616626728806544
+    }
+  ],
+  "(25776, 27786)": [
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a tool used for simulating regional climate patterns and changes",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.5143090724136765
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, an important factor in climate and hydrological studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6694311273429872
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal state of the atmosphere, influencing climate, weather, and various environmental processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6405958244022487
+    },
+    {
+      "name": "past",
+      "label": "experiment",
+      "description": "Climate simulations based on historical data, used as a reference for comparing future projections",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5677774306233246
+    },
+    {
+      "name": "future",
+      "label": "experiment",
+      "description": "Climate simulations predicting future conditions, often used to assess potential impacts of climate change",
+      "uuid": "c15e05c9-9dc4-4712-98ba-a05d61bdf1c1",
+      "score": 0.5233415493047435
+    },
+    {
+      "name": "agriculture",
+      "label": "land use",
+      "description": "The practice of cultivating the soil, growing crops, and raising livestock, which can impact climate and environmental conditions",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5608409079166708
+    },
+    {
+      "name": "deciduous forest",
+      "label": "land use",
+      "description": "A type of forest where trees lose their leaves seasonally, playing a role in carbon sequestration and climate regulation",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6136511552205348
+    },
+    {
+      "name": "coniferous forest",
+      "label": "land use",
+      "description": "A type of forest dominated by evergreen trees, contributing to carbon storage and influencing local climate conditions",
+      "uuid": "5d8236b5-bf5b-499f-a8e7-0cd80e00d261",
+      "score": 0.600040460212411
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that could be evaporated from the Earth's surface if there were sufficient water available, an important factor in climate and hydrological studies",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7484526072609036
+    },
+    {
+      "name": "snow melting rate",
+      "label": "variable",
+      "description": "The rate at which snow melts, influenced by factors such as temperature, solar radiation, and land cover",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6313675462677987
+    }
+  ],
+  "(27401, 29168)": [
+    {
+      "name": "deciduous forest",
+      "label": "location",
+      "description": "A forest dominated by trees that shed their leaves annually, typically found in temperate climates",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6647708893846317
+    },
+    {
+      "name": "snow melting rate",
+      "label": "variable",
+      "description": "The rate at which snow melts, often used in climate and hydrological studies",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6504295857231097
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "A measure of the amount of water that could evaporate from the surface and be transpired by plants if there were no limitations on water availability",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7369530316254238
+    },
+    {
+      "name": "coniferous forest",
+      "label": "location",
+      "description": "A forest dominated by coniferous trees, typically found in cooler climates",
+      "uuid": "5d8236b5-bf5b-499f-a8e7-0cd80e00d261",
+      "score": 0.6230081726750752
+    },
+    {
+      "name": "DEM",
+      "label": "instrument",
+      "description": "A digital elevation model, a digital representation of the Earth's surface used for mapping and analyzing terrain",
+      "uuid": "395372ad-2883-4b6a-a481-6383a310ca47",
+      "score": 0.7491954600361007
+    }
+  ],
+  "(29736, 31011)": [
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area being studied, characterized by its unique geological and hydrological features",
+      "uuid": "204270d9-8039-4768-851e-63635af5fb65",
+      "score": 0.576257626560155
+    },
+    {
+      "name": "saturated hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the ability of a porous medium to transmit water when it is fully saturated",
+      "uuid": "8f499d5b-1aae-46d5-87c5-bbb0f9cf6947",
+      "score": 0.670060938820224
+    },
+    {
+      "name": "Quaternary stratigraphic sequences",
+      "label": "platform",
+      "description": "A geological formation or series of layers deposited during the Quaternary period, consisting of various sediment types such as sand, clay, and till",
+      "uuid": "c7e7fb38-44ef-4c5b-aa1d-b3fdcf89d838",
+      "score": 0.5825768719223461
+    },
+    {
+      "name": "anisotropy",
+      "label": "variable",
+      "description": "A property of a material or system that exhibits different values or behaviors in different directions, often relevant in geological and hydrological contexts",
+      "uuid": "00c1d7b9-61d8-40ad-8c33-f27006832866",
+      "score": 0.6492985774294441
+    },
+    {
+      "name": "bedrock",
+      "label": "location",
+      "description": "Solid, unweathered rock that lies beneath the Earth's surface, often influencing groundwater flow and geology",
+      "uuid": "4beaeec9-0750-44e6-8fb4-8d0085efc82e",
+      "score": 0.6300206475327381
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The top layer of the Earth's surface, composed of organic and inorganic materials, supporting plant growth and influencing hydrology",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6279106739044115
+    },
+    {
+      "name": "marine clay",
+      "label": "location",
+      "description": "A type of sediment deposited in marine environments, characterized by its fine-grained texture",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.5163767214686302
+    },
+    {
+      "name": "till",
+      "label": "location",
+      "description": "A type of sediment deposited directly by glaciers, often consisting of a mixture of clay, silt, and sand",
+      "uuid": "bffac466-83aa-4060-a378-6d2d6e49f2a1",
+      "score": 0.5099549236431673
+    }
+  ],
+  "(30582, 33084)": [
+    {
+      "name": "saturated hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the ability of a porous material to transmit water, important for understanding groundwater flow",
+      "uuid": "8f499d5b-1aae-46d5-87c5-bbb0f9cf6947",
+      "score": 0.675382107184971
+    },
+    {
+      "name": "porosity",
+      "label": "variable",
+      "description": "The proportion of void space in a material, affecting its ability to store and transmit water",
+      "uuid": "0317caf8-af0a-4abe-89fb-fd1d9c33b9e7",
+      "score": 0.6911837328804059
+    },
+    {
+      "name": "anisotropy",
+      "label": "variable",
+      "description": "A measure of the directional dependence of hydraulic properties in a material, influencing groundwater flow",
+      "uuid": "00c1d7b9-61d8-40ad-8c33-f27006832866",
+      "score": 0.5768726463829839
+    },
+    {
+      "name": "topographic maps",
+      "label": "instrument",
+      "description": "Tools used to represent the Earth's surface features, such as elevation and landforms",
+      "uuid": "f7d2e34a-c5c2-4c21-9132-2472620dbda1",
+      "score": 0.6235178714649784
+    },
+    {
+      "name": "soil hydraulic properties",
+      "label": "variable",
+      "description": "Characteristics of soils that influence their ability to store and transmit water",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.5235158951335112
+    },
+    {
+      "name": "main streamflow station",
+      "label": "instrument",
+      "description": "A location where the flow rate of a stream or river is measured, providing data for hydrological studies",
+      "uuid": "7b335954-929b-4568-a758-1640d15c2504",
+      "score": 0.6311928947616048
+    },
+    {
+      "name": "gauge",
+      "label": "instrument",
+      "description": "A device used to measure the flow rate or water level in a stream or river",
+      "uuid": "9bd0a7b8-bb67-4b44-b2bc-cf975f93ea10",
+      "score": 0.6456643526179396
+    },
+    {
+      "name": "low hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the limited ability of a material to transmit water, affecting groundwater flow",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.5675616470140644
+    },
+    {
+      "name": "fine marine sediments",
+      "label": "platform",
+      "description": "A type of geological material deposited in marine environments, influencing local hydrology",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.5963841366090558
+    },
+    {
+      "name": "till",
+      "label": "platform",
+      "description": "A type of geological material deposited by glaciers, affecting local hydrology",
+      "uuid": "bffac466-83aa-4060-a378-6d2d6e49f2a1",
+      "score": 0.5226188839874902
+    },
+    {
+      "name": "subsurface hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the ability of a material to transmit water below the Earth's surface, important for understanding groundwater flow",
+      "uuid": "e2a88ac8-7bf3-408c-b2b4-b3217f9e4917",
+      "score": 0.6431061579182159
+    }
+  ],
+  "(32721, 34651)": [
+    {
+      "name": "subsurface hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the ease with which water can flow through the subsurface soil or rock, influencing groundwater movement",
+      "uuid": "e2a88ac8-7bf3-408c-b2b4-b3217f9e4917",
+      "score": 0.6615242319000907
+    },
+    {
+      "name": "surface hydraulic geometry",
+      "label": "variable",
+      "description": "Characteristics of the surface water flow, including channel dimensions and shape, that affect the movement of water in a catchment",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5007540318325632
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers, often used as an indicator of catchment hydrology",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5633684057175391
+    },
+    {
+      "name": "gauges",
+      "label": "instrument",
+      "description": "Devices used to measure the flow rate or level of water in streams, rivers, or reservoirs",
+      "uuid": "9bd0a7b8-bb67-4b44-b2bc-cf975f93ea10",
+      "score": 0.7019161583227332
+    },
+    {
+      "name": "groundwater level",
+      "label": "variable",
+      "description": "The depth below the ground surface at which water is found, indicating the amount of water stored in the subsurface",
+      "uuid": "3bc9781d-87b7-49c6-9647-876c7144eade",
+      "score": 0.5763686492209117
+    }
+  ],
+  "(34429, 36459)": [
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The rate at which water flows through a given area, often measured in cubic meters per second",
+      "uuid": "36a2999b-2255-4d4e-a249-40df3b7b3aaf",
+      "score": 0.6814307520688841
+    },
+    {
+      "name": "internal streamflow stations",
+      "label": "platform",
+      "description": "Locations where streamflow measurements are taken to monitor and study water flow within a catchment",
+      "uuid": "7b335954-929b-4568-a758-1640d15c2504",
+      "score": 0.564982974146428
+    },
+    {
+      "name": "gauge",
+      "label": "instrument",
+      "description": "A device used to measure the flow rate or level of water in a stream, river, or reservoir",
+      "uuid": "9bd0a7b8-bb67-4b44-b2bc-cf975f93ea10",
+      "score": 0.6347033736412357
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a river or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5485997297582526
+    },
+    {
+      "name": "model",
+      "label": "model",
+      "description": "A computational representation of a system, in this case, a hydrological model used to simulate and predict water flow",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.545458980098043
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, often measured in terms of discharge or flow rate",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5575426283513018
+    }
+  ],
+  "(36151, 38947)": [
+    {
+      "name": "atmospheric data set",
+      "label": "variable",
+      "description": "A collection of data related to atmospheric conditions, used as input for climate models to simulate and predict future climate scenarios",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.550950120823607
+    },
+    {
+      "name": "river discharge",
+      "label": "variable",
+      "description": "The flow rate of water in a river, an important component of the hydrologic cycle and a key indicator of climate change impacts",
+      "uuid": "12dc1f4f-2116-4b74-a1bd-bc61e8e57a5b",
+      "score": 0.6946986134708796
+    },
+    {
+      "name": "aquifer recharge",
+      "label": "variable",
+      "description": "The process by which water is replenished in an aquifer, crucial for maintaining groundwater levels and ensuring a sustainable water supply",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.7297610582759235
+    },
+    {
+      "name": "near-surface soil water storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil near the surface, influencing soil moisture, evapotranspiration, and plant growth",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5621145745461927
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from liquid to gas, an essential component of the hydrologic cycle and a key factor in climate change",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.7080999102247739
+    },
+    {
+      "name": "gauge",
+      "label": "instrument",
+      "description": "A device used to measure and record the flow rate or water level in a river or stream, providing valuable data for hydrologic studies and climate modeling",
+      "uuid": "9bd0a7b8-bb67-4b44-b2bc-cf975f93ea10",
+      "score": 0.6470847776738671
+    },
+    {
+      "name": "subsurface water",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface, including groundwater and soil moisture, playing a crucial role in the hydrologic cycle and climate regulation",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.6093405683330836
+    },
+    {
+      "name": "groundwater levels",
+      "label": "variable",
+      "description": "The depth or height of the water table, an important indicator of groundwater availability and a key component of the hydrologic cycle",
+      "uuid": "04655f0e-81f1-411c-9cfe-994cd743701e",
+      "score": 0.6000329250489771
+    }
+  ],
+  "(38416, 41446)": [
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "A climate model used to simulate surface and subsurface processes in a river basin",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.5388342960170891
+    },
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, used to generate past and future climate scenarios",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.5081079831314135
+    },
+    {
+      "name": "river discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a river, often used as an indicator of climate change impacts",
+      "uuid": "12dc1f4f-2116-4b74-a1bd-bc61e8e57a5b",
+      "score": 0.6923144704631025
+    },
+    {
+      "name": "aquifer recharge",
+      "label": "variable",
+      "description": "The process by which water moves from the surface to an aquifer, influencing groundwater levels and quality",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.7079873490673676
+    },
+    {
+      "name": "near-surface soil water storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil near the surface, affecting plant growth and runoff",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5571630940512987
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, influencing water flow and climate patterns",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6513847225628199
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water falling to the Earth's surface, a key factor in climate change impacts",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6405068653253997
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transferred from the Earth's surface to the atmosphere, influencing climate patterns",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.7035768363268727
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "The amount of snow covering the ground, affecting climate patterns and water availability",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.6871906591629218
+    },
+    {
+      "name": "infiltration",
+      "label": "variable",
+      "description": "The process by which water moves from the surface to the soil, influencing groundwater recharge and runoff",
+      "uuid": "638a22af-4e97-450e-a278-b81338443230",
+      "score": 0.7258393719153924
+    },
+    {
+      "name": "surface and subsurface runoff",
+      "label": "variable",
+      "description": "The flow of water over and through the ground, influencing river discharge and water quality",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6125663594129682
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, often used as an indicator of climate change impacts",
+      "uuid": "cde7aacb-0204-4a84-afcb-279cc3d0870c",
+      "score": 0.5729733905678727
+    },
+    {
+      "name": "total precipitation",
+      "label": "variable",
+      "description": "The total amount of precipitation falling to the Earth's surface, a key factor in climate change impacts",
+      "uuid": "9466020a-db25-40ba-a76f-4720800efc92",
+      "score": 0.6799391858644321
+    }
+  ],
+  "(40902, 43880)": [
+    {
+      "name": "infiltration",
+      "label": "variable",
+      "description": "The process by which water enters the soil and becomes part of the groundwater",
+      "uuid": "638a22af-4e97-450e-a278-b81338443230",
+      "score": 0.7286395970828997
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6575371730179683
+    },
+    {
+      "name": "river discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a river over a given period",
+      "uuid": "1dec8f93-1fdc-4d60-9753-38294e60a930",
+      "score": 0.6325689872704412
+    },
+    {
+      "name": "geology",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.6107961315033242
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water transforms from a liquid to a gas",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.6820546348139748
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6289747345490292
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5500516145957319
+    },
+    {
+      "name": "total precipitation",
+      "label": "variable",
+      "description": "The total amount of rainfall and other forms of moisture that fall to the Earth's surface",
+      "uuid": "9466020a-db25-40ba-a76f-4720800efc92",
+      "score": 0.6518803164748015
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that stores and transmits large amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5903341072701214
+    }
+  ],
+  "(43376, 46317)": [
+    {
+      "name": "groundwater reservoir",
+      "label": "location",
+      "description": "A subsurface storage of water that feeds rivers and streams, and is affected by climate change",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5614132781969697
+    },
+    {
+      "name": "water fluxes",
+      "label": "variable",
+      "description": "The movement of water through a system, such as a catchment, including processes like evaporation, infiltration, and runoff",
+      "uuid": "32a88fee-dfa9-4ef8-ab6d-cbc18426da53",
+      "score": 0.5637785353848597
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, influencing soil moisture, groundwater recharge, and streamflow",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6271264591815269
+    },
+    {
+      "name": "subsurface flow",
+      "label": "variable",
+      "description": "The movement of water beneath the Earth's surface, including processes like infiltration, percolation, and groundwater flow",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.7336173084113826
+    },
+    {
+      "name": "soil water storage",
+      "label": "variable",
+      "description": "The amount of water held in the soil, which affects plant growth, evapotranspiration, and runoff",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.5679152862551067
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, influencing the water balance and energy budget of a system",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.6999938662812106
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The combined process of evaporation from the soil and transpiration from plants, affecting the water balance and energy budget of a system",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6913805549250651
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, influenced by precipitation, infiltration, and groundwater recharge",
+      "uuid": "48f02169-8eab-487d-a24b-4b36ec707b13",
+      "score": 0.567437459689098
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "A layer of permeable rock or soil that stores and transmits large amounts of water, supplying wells and springs",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5866158120916628
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water that often serves as a conduit for water and sediment transport, and is influenced by climate change",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.710489598384977
+    },
+    {
+      "name": "boundary",
+      "label": "location",
+      "description": "The edge or limit of a system, such as a catchment, where water and energy fluxes are exchanged with the surrounding environment",
+      "uuid": "b98123fc-6a87-4396-8e1a-ae7406e76ff6",
+      "score": 0.5351994078482621
+    }
+  ],
+  "(45805, 48877)": [
+    {
+      "name": "water fluxes",
+      "label": "variable",
+      "description": "The movement of water through the environment, including precipitation, evapotranspiration, and runoff",
+      "uuid": "bdd42024-d1a4-4fb2-a16a-06ac0cc1dedc",
+      "score": 0.5628546389971207
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a river or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5485997297582526
+    },
+    {
+      "name": "water table",
+      "label": "location",
+      "description": "The underground depth below which the ground is completely saturated with water",
+      "uuid": "ecbe9f17-6012-4e39-a707-713973b7d167",
+      "score": 0.6934182263195432
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "Changes in global weather patterns over time, including rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5793043749736406
+    },
+    {
+      "name": "soil",
+      "label": "platform",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, and supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6254320733250105
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and hail",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7006996909903381
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the air through their leaves",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6965093673566245
+    },
+    {
+      "name": "atmosphere",
+      "label": "platform",
+      "description": "The layer of gases surrounding the Earth, including nitrogen, oxygen, and carbon dioxide",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.624294030168607
+    },
+    {
+      "name": "soil depths",
+      "label": "location",
+      "description": "The different layers of soil, each with its own characteristics and properties",
+      "uuid": "60e783c1-4b33-4ab3-860b-8bd4ed00dc9f",
+      "score": 0.6140693424879461
+    },
+    {
+      "name": "boundary",
+      "label": "location",
+      "description": "The edge or limit of a particular area or region",
+      "uuid": "07a856fd-75e2-46e8-91eb-8a8562d3452f",
+      "score": 0.5623250277610583
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including hills, valleys, and rivers",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6685779164079093
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A specific area or part of the Earth's surface, defined by its geography, climate, or other characteristics",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.6315054662241851
+    },
+    {
+      "name": "surface soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil at the surface, which can affect plant growth and other environmental processes",
+      "uuid": "09e712bf-7389-4980-8115-af4282469eb8",
+      "score": 0.73129331206684
+    },
+    {
+      "name": "hillslope",
+      "label": "location",
+      "description": "A sloping area of land, often found in mountainous or hilly regions",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.512026221664318
+    }
+  ],
+  "(48337, 51505)": [
+    {
+      "name": "surface soil moisture",
+      "label": "variable",
+      "description": "The moisture content in the top layer of soil, influenced by factors such as precipitation, evapotranspiration, and soil properties",
+      "uuid": "09e712bf-7389-4980-8115-af4282469eb8",
+      "score": 0.7516033433292814
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water transforms from liquid to gas state, playing a crucial role in the water cycle and climate system",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.7121935385542554
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The combined process of evaporation from the soil surface and transpiration from plants, influencing the water and energy balance",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7019286543576855
+    },
+    {
+      "name": "soil layer",
+      "label": "variable",
+      "description": "A distinct layer within the soil profile, characterized by specific properties such as texture, porosity, and hydraulic conductivity",
+      "uuid": "7a16aa40-c74b-4a69-a230-1edd1b453332",
+      "score": 0.5519020517656869
+    },
+    {
+      "name": "Climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.660245487025847
+    },
+    {
+      "name": "actual evaporation",
+      "label": "variable",
+      "description": "The real amount of water evaporated from the surface, as opposed to the potential evaporation, which is the maximum amount that can evaporate under given conditions",
+      "uuid": "3f84c899-1916-41c5-bf4e-c94ad77aaeee",
+      "score": 0.5260202711965767
+    },
+    {
+      "name": "soil moisture content",
+      "label": "variable",
+      "description": "The amount of water held in the soil, which affects plant growth, runoff, and groundwater recharge",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.7006876311452453
+    },
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "The Canadian Land Surface Scheme, a model used to simulate land surface processes, including soil moisture, evaporation, and energy balance",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.6020067304083057
+    },
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a model used to simulate regional climate and hydrological processes",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.5192083642042578
+    },
+    {
+      "name": "des Anglais river basin",
+      "label": "location",
+      "description": "A geographic area drained by the des Anglais river, used as a study site for hydrological and climate modeling",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5347298143383443
+    }
+  ],
+  "(51041, 53493)": [
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "A land surface scheme used in climate models to simulate energy and water balance at the ground surface",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.5697572784672243
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from liquid to gas, an important component of the water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.6885691701477372
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, and playing a crucial role in the Earth's ecosystem",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6492659518492386
+    },
+    {
+      "name": "soil layer",
+      "label": "variable",
+      "description": "A distinct layer within the soil profile, characterized by specific properties and processes",
+      "uuid": "7a16aa40-c74b-4a69-a230-1edd1b453332",
+      "score": 0.5555247713191287
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The process by which water falls to the Earth's surface, an essential component of the water cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6773208970645828
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, including trees, crops, and grass, which plays a significant role in the Earth's ecosystem and climate",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6486444275185564
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Areas characterized by high population density and human development, often with distinct climate and environmental conditions",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7326289514726013
+    },
+    {
+      "name": "soil hydraulic properties",
+      "label": "variable",
+      "description": "Properties of the soil that influence its ability to retain and transmit water, such as hydraulic conductivity and porosity",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.5546926713974489
+    },
+    {
+      "name": "soil texture",
+      "label": "variable",
+      "description": "The composition of the soil in terms of the proportion of different particle sizes, such as sand, silt, and clay",
+      "uuid": "afd1d3cb-d31d-4069-8cff-b592887aa18c",
+      "score": 0.6904756800850383
+    }
+  ],
+  "(53199, 55965)": [
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "The Canadian Land Surface Scheme, a model used to simulate land surface processes, including hydrology and energy balance",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.5993074645001596
+    },
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a model used for simulating regional climate and hydrology",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.5230062909165649
+    },
+    {
+      "name": "river discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a river over a given period of time",
+      "uuid": "1dec8f93-1fdc-4d60-9753-38294e60a930",
+      "score": 0.6346658326803735
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, often resulting from precipitation or snowmelt",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6486831828729557
+    },
+    {
+      "name": "subsurface runoff",
+      "label": "variable",
+      "description": "The flow of water beneath the land surface, often recharging groundwater or feeding into streams and rivers",
+      "uuid": "31d58c88-2b4e-49a5-b5c0-9408353d7ba1",
+      "score": 0.6416857632506697
+    },
+    {
+      "name": "calibration",
+      "label": "experiment",
+      "description": "The process of adjusting model parameters to match observed data, ensuring the model accurately represents real-world conditions",
+      "uuid": "ecf29317-bd5e-447b-b911-f8bfb153c83b",
+      "score": 0.6202993944072881
+    },
+    {
+      "name": "peak flow",
+      "label": "variable",
+      "description": "The maximum rate of water flow during a specific period, often occurring during events like snowmelt or heavy rainfall",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.7790006212771463
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, often measured to understand hydrological processes and water availability",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5646179880197468
+    }
+  ],
+  "(55406, 58334)": [
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "A land surface model that describes the physical processes occurring at the land surface, including surface and subsurface hydrology",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.5569681430543254
+    },
+    {
+      "name": "infiltration",
+      "label": "variable",
+      "description": "The process by which water moves from the Earth's surface into the soil, influencing soil moisture and runoff",
+      "uuid": "638a22af-4e97-450e-a278-b81338443230",
+      "score": 0.7205375964418766
+    },
+    {
+      "name": "land surface models",
+      "label": "model",
+      "description": "Computational representations of the physical processes occurring at the land surface, including hydrology, energy balance, and vegetation dynamics",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.6609559930690778
+    },
+    {
+      "name": "soil water storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, which influences soil moisture, evapotranspiration, and runoff",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5750790876628815
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, often resulting from precipitation exceeding infiltration capacity",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7313989150669093
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, influencing plant growth, evapotranspiration, and runoff",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6662705915206076
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land surface to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7475503048461912
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, resulting from precipitation exceeding infiltration capacity",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6359856628065796
+    },
+    {
+      "name": "subsurface processes",
+      "label": "variable",
+      "description": "The physical processes occurring beneath the land surface, including infiltration, percolation, and groundwater flow",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.574127859025781
+    },
+    {
+      "name": "soil profile",
+      "label": "variable",
+      "description": "A vertical cross-section of the soil, describing its composition, structure, and properties",
+      "uuid": "7a16aa40-c74b-4a69-a230-1edd1b453332",
+      "score": 0.5765215953521406
+    },
+    {
+      "name": "subsurface runoff",
+      "label": "variable",
+      "description": "The flow of water through the soil and underlying rock, contributing to groundwater recharge and streamflow",
+      "uuid": "31d58c88-2b4e-49a5-b5c0-9408353d7ba1",
+      "score": 0.6324945721178423
+    }
+  ],
+  "(57947, 60840)": [
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "A model used for simulating land surface processes and hydrology",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.5688272458458252
+    },
+    {
+      "name": "soil water storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, an important factor in hydrology and land surface processes",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.6155974162816719
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess rainwater, snowmelt, or other sources flow over the land, an important aspect of hydrology",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7298635725543283
+    },
+    {
+      "name": "soil profile",
+      "label": "variable",
+      "description": "A description of the layers of soil, including their composition and properties",
+      "uuid": "7a16aa40-c74b-4a69-a230-1edd1b453332",
+      "score": 0.5994975295382102
+    },
+    {
+      "name": "bedrock",
+      "label": "location",
+      "description": "The solid, unweathered rock that lies beneath the soil and other loose material on the Earth's surface",
+      "uuid": "4beaeec9-0750-44e6-8fb4-8d0085efc82e",
+      "score": 0.6105353765229259
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The interface between the Earth's surface and the atmosphere, playing a crucial role in hydrology and climate",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.7106838787044223
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, influencing weather and climate",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.631872519693241
+    },
+    {
+      "name": "aquifers",
+      "label": "location",
+      "description": "Layers of permeable rock or soil that can store and transmit significant amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.6702916863406503
+    },
+    {
+      "name": "infiltration",
+      "label": "variable",
+      "description": "The process by which water moves from the Earth's surface into the soil",
+      "uuid": "638a22af-4e97-450e-a278-b81338443230",
+      "score": 0.7166868992354172
+    },
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The region beneath the Earth's surface, including soil, rock, and groundwater",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.5845944383334071
+    },
+    {
+      "name": "total precipitation",
+      "label": "variable",
+      "description": "The total amount of precipitation that falls on an area, an important factor in hydrology and climate",
+      "uuid": "9466020a-db25-40ba-a76f-4720800efc92",
+      "score": 0.6065267286523784
+    },
+    {
+      "name": "land surface water and energy budgets",
+      "label": "variable",
+      "description": "The balance of water and energy at the land surface, influencing hydrology and climate",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.6052217623196947
+    }
+  ],
+  "(60354, 63521)": [
+    {
+      "name": "Kansas",
+      "label": "location",
+      "description": "A state in the United States, located in the central part of the country",
+      "uuid": "42b510c8-3f17-4f95-85f5-011065fcc038",
+      "score": 0.7121230213340648
+    },
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "A land surface model used to simulate the interactions between the land surface and the atmosphere",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.594144258495808
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land surface to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7475503048461912
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface, playing a crucial role in the hydrological cycle",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.7015095151076793
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, influencing weather and climate",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.631872519693241
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The interface between the Earth's solid surface and the atmosphere, playing a key role in the hydrological cycle",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.7107640512218956
+    },
+    {
+      "name": "energy budget",
+      "label": "variable",
+      "description": "The balance between the energy inputs and outputs of a system, such as the Earth's climate system",
+      "uuid": "7cacbfdf-71a3-4fac-b690-9aa54e4060dd",
+      "score": 0.5591403196915513
+    },
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, used to simulate regional climate scenarios",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.5122978297556585
+    },
+    {
+      "name": "river discharge",
+      "label": "variable",
+      "description": "The flow of water in a river, influenced by precipitation, evapotranspiration, and other hydrological processes",
+      "uuid": "12dc1f4f-2116-4b74-a1bd-bc61e8e57a5b",
+      "score": 0.6429951089925783
+    },
+    {
+      "name": "aquifer recharge",
+      "label": "variable",
+      "description": "The process by which water seeps into the ground and replenishes aquifers",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.7148362550685009
+    },
+    {
+      "name": "soil water storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, influencing plant growth and hydrological processes",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5985556650972053
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, influencing the hydrological cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.661663031142807
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing the hydrological cycle and climate",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6341204146997969
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, influenced by precipitation, evapotranspiration, and other hydrological processes",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5545049966014979
+    },
+    {
+      "name": "gauge",
+      "label": "instrument",
+      "description": "A device used to measure the flow of water in a stream or river",
+      "uuid": "9bd0a7b8-bb67-4b44-b2bc-cf975f93ea10",
+      "score": 0.6222423097433594
+    },
+    {
+      "name": "geologic",
+      "label": "variable",
+      "description": "Relating to the study of the Earth's physical structure, composition, and processes",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.5185816722897535
+    }
+  ],
+  "(62934, 66311)": [
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "A land surface scheme used to simulate the interactions between the land surface and the atmosphere, often coupled with climate models",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.5611152576677373
+    },
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a climate model used to simulate regional climate patterns and predict future climate changes",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.5239525687382488
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across vast distances, in this case referring to the impacts of global climate change on regional hydrology",
+      "uuid": "3fe9c479-3cb5-45bf-8f4d-637282dccfa3",
+      "score": 0.5143543345000204
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, a key driver of hydrological processes",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6397157200796358
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from liquid to gas, an important component of the hydrological cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.6885783673194725
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The combination of evaporation from the soil and transpiration from plants, a key factor in the hydrological balance",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.670158011969569
+    },
+    {
+      "name": "river discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a river, an important indicator of hydrological response to climate change",
+      "uuid": "12dc1f4f-2116-4b74-a1bd-bc61e8e57a5b",
+      "score": 0.6781665231209338
+    },
+    {
+      "name": "soil moisture content",
+      "label": "variable",
+      "description": "The amount of water held in the soil, a critical factor in determining hydrological response to climate change",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.7037252263237453
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, an important component of the hydrological cycle",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5447226034300902
+    },
+    {
+      "name": "gauge",
+      "label": "instrument",
+      "description": "A device used to measure the flow of water in a stream or river",
+      "uuid": "9bd0a7b8-bb67-4b44-b2bc-cf975f93ea10",
+      "score": 0.6222423097433594
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a river or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5485997297582526
+    },
+    {
+      "name": "overland runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, an important component of the hydrological cycle",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6057105727155148
+    },
+    {
+      "name": "base flow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river that is sustained by groundwater, an important component of the hydrological cycle",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.7274214852133298
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that stores and transmits water, an important component of the hydrological system",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.6060107953960353
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water is added to an aquifer, an important component of the hydrological cycle",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6653342703683259
+    }
+  ],
+  "(65769, 67913)": [
+    {
+      "name": "CLASS",
+      "label": "model",
+      "description": "The Canadian Land Surface Scheme, a model used to simulate land surface processes in climate models",
+      "uuid": "9da230c7-0b08-4dfa-afca-e5fcf4be0bf2",
+      "score": 0.5998041563830998
+    },
+    {
+      "name": "CRCM",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a climate model used for regional climate simulations",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.5173531389401115
+    },
+    {
+      "name": "Natural Sciences and Engineering Research Council of Canada",
+      "label": "provider",
+      "description": "A Canadian government agency that provides funding for scientific research and engineering projects",
+      "uuid": "0c6938d2-01be-4330-b080-cf1196309982",
+      "score": 0.5180336972521059
+    },
+    {
+      "name": "Canadian Center for Climate Modeling and Analysis",
+      "label": "provider",
+      "description": "A Canadian research institution focused on climate modeling and analysis",
+      "uuid": "1dae6409-deae-4997-b279-b3931bec7bc4",
+      "score": 0.7004462734951905
+    },
+    {
+      "name": "soil water storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, an important factor in hydrological and climate modeling",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.6155632687890098
+    },
+    {
+      "name": "surface and subsurface runoff",
+      "label": "variable",
+      "description": "The flow of water over and through the land surface, an important factor in hydrological and climate modeling",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6382867409187265
+    },
+    {
+      "name": "peak flow",
+      "label": "variable",
+      "description": "The maximum rate of water flow during a storm or snowmelt event, an important factor in hydrological modeling",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.7645117872261306
+    },
+    {
+      "name": "land surface scheme",
+      "label": "model",
+      "description": "A component of climate models that simulates the exchange of energy and water between the land surface and the atmosphere",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.5504227154772573
+    }
+  ]
+}

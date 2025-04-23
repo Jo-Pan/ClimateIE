@@ -1,0 +1,1352 @@
+{
+  "(0, 2881)": [
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere by both evaporation from soil and other surfaces and by transpiration from plants",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7474855365813
+    },
+    {
+      "name": "heatwaves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally hot weather, which can have significant impacts on the environment, human health, and the economy",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.7138399410486019
+    },
+    {
+      "name": "eco-hydrological simulations",
+      "label": "model",
+      "description": "Computational models that integrate ecological and hydrological processes to simulate the interactions between the environment, water, and living organisms",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5238130078670193
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7427981435761997
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Germany, Poland, and Austria, which are vulnerable to droughts and water scarcity",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.6458347814649563
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability of water for human consumption, agriculture, industry, and other uses, which is affected by climate change and droughts",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6933026414190513
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air compared to the maximum amount of moisture the air can hold at a given temperature",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7057028297843204
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, which can have significant impacts on the environment, human health, and the economy",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5861795886630815
+    },
+    {
+      "name": "climatic extremes",
+      "label": "natural hazard",
+      "description": "Severe weather events, such as heatwaves, droughts, and floods, which are becoming more frequent due to climate change",
+      "uuid": "83e9ddee-5887-4758-a3ba-5cb17a7d4ed5",
+      "score": 0.5736639512466477
+    }
+  ],
+  "(2397, 5307)": [
+    {
+      "name": "hydrosphere",
+      "label": "location",
+      "description": "The region of the Earth where water is present, including the oceans, atmosphere, and land surface",
+      "uuid": "885735f3-121e-4ca0-ac8b-f37dbc972f03",
+      "score": 0.631583956005549
+    },
+    {
+      "name": "biosphere",
+      "label": "location",
+      "description": "The region of the Earth where living organisms exist, including the land, oceans, and atmosphere",
+      "uuid": "91c64c46-d040-4daa-b26c-61952fdfaf50",
+      "score": 0.7079356755502421
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.680557041432352
+    },
+    {
+      "name": "land-surface models",
+      "label": "model",
+      "description": "Computational representations of land surface processes, used to simulate and predict energy and water fluxes",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.6728504896590525
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, influencing plant growth and ecosystem function",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6749784696351129
+    },
+    {
+      "name": "plant transpiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the atmosphere, influencing the water cycle and climate",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.552288105261333
+    },
+    {
+      "name": "pan-Alpine database",
+      "label": "project",
+      "description": "A comprehensive dataset compiling meteorological, discharge, and snow depth measurements across the Alpine region",
+      "uuid": "cbcdf37a-0921-4a20-8f4a-00cb40b43098",
+      "score": 0.5206278871803489
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water falling to the Earth's surface, influencing the water cycle and climate",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6723186347016245
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, influencing climate and ecosystem function",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6551175571986089
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun, influencing climate and ecosystem function",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6614006239875084
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The speed at which air moves, influencing climate and ecosystem function",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6733918757720173
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The amount of water vapor in the air, influencing climate and ecosystem function",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7323735656104838
+    },
+    {
+      "name": "hourly time scale",
+      "label": "variable",
+      "description": "A temporal resolution at which data is collected or simulated, in this case, every hour",
+      "uuid": "027dee16-b361-481e-868d-add966eb5b71",
+      "score": 0.687313340419899
+    },
+    {
+      "name": "land-surface energy and water fluxes",
+      "label": "variable",
+      "description": "The exchange of energy and water between the land surface and atmosphere, influencing climate and ecosystem function",
+      "uuid": "05dd9887-0b58-45f2-b3ea-6e26bbee6990",
+      "score": 0.582605046845622
+    },
+    {
+      "name": "local topographic and microclimatic effects",
+      "label": "variable",
+      "description": "The influence of local terrain and climate conditions on ecosystem function and climate",
+      "uuid": "05bef198-cfff-48be-b0cb-14e296d38dbc",
+      "score": 0.5469680908204024
+    }
+  ],
+  "(4850, 7611)": [
+    {
+      "name": "Alpine ecosystems",
+      "label": "location",
+      "description": "A region in Europe characterized by mountainous terrain and unique ecological conditions",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.6375564070177556
+    },
+    {
+      "name": "model",
+      "label": "model",
+      "description": "A computational representation of environmental processes used to simulate and predict climate and water fluxes",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.6287964059319051
+    },
+    {
+      "name": "radiation",
+      "label": "variable",
+      "description": "The emission or transmission of energy in the form of waves or particles, influencing climate and environmental conditions",
+      "uuid": "4ad0c52d-6449-48ff-8678-adc6b2cebcb7",
+      "score": 0.5506877868254796
+    },
+    {
+      "name": "water transfer",
+      "label": "variable",
+      "description": "The movement of water within the environment, including processes such as evaporation, condensation, and precipitation",
+      "uuid": "a997c21b-ca61-4e78-8828-aa3e144976c3",
+      "score": 0.511626947251139
+    },
+    {
+      "name": "topographic effects",
+      "label": "variable",
+      "description": "The influence of terrain features on environmental processes, such as climate, water fluxes, and ecosystems",
+      "uuid": "05bef198-cfff-48be-b0cb-14e296d38dbc",
+      "score": 0.6454199961862029
+    },
+    {
+      "name": "eddy covariance flux towers",
+      "label": "instrument",
+      "description": "Devices used to measure the exchange of energy and matter between the atmosphere and the surface",
+      "uuid": "f5a3c5f6-b575-48f4-8479-2bc4092c8f99",
+      "score": 0.5963963237567527
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that influences climate and environmental conditions",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6613788484233475
+    },
+    {
+      "name": "water fluxes",
+      "label": "variable",
+      "description": "The movement of water within the environment, including processes such as evaporation, condensation, and precipitation",
+      "uuid": "32a88fee-dfa9-4ef8-ab6d-cbc18426da53",
+      "score": 0.5658580582515318
+    },
+    {
+      "name": "energy fluxes",
+      "label": "variable",
+      "description": "The transfer of energy within the environment, including processes such as radiation, convection, and conduction",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.5438447647141338
+    },
+    {
+      "name": "ERA Interim",
+      "label": "model",
+      "description": "A model used to simulate and predict environmental processes, including climate and weather patterns",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7185273536389488
+    },
+    {
+      "name": "ET",
+      "label": "variable",
+      "description": "Evapotranspiration, the process by which water is transferred from the surface to the atmosphere",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6964079098961569
+    },
+    {
+      "name": "GPP",
+      "label": "variable",
+      "description": "Gross primary production, the rate at which plants produce organic matter through photosynthesis",
+      "uuid": "9926f517-829e-4870-b18c-9f7cee875b85",
+      "score": 0.651117836273985
+    }
+  ],
+  "(7189, 9770)": [
+    {
+      "name": "latent heat",
+      "label": "variable",
+      "description": "The energy released or absorbed during a phase transition, such as evaporation or condensation, influencing climate and weather patterns",
+      "uuid": "05dd9887-0b58-45f2-b3ea-6e26bbee6990",
+      "score": 0.6280071710672026
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of an object or point in relation to sea level or ground level, affecting climate, vegetation, and water fluxes",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.5973129966814898
+    },
+    {
+      "name": "water fluxes",
+      "label": "variable",
+      "description": "The movement of water through a system, including precipitation, evaporation, and runoff, crucial for understanding hydrological cycles",
+      "uuid": "bdd42024-d1a4-4fb2-a16a-06ac0cc1dedc",
+      "score": 0.5602832087486568
+    },
+    {
+      "name": "ET",
+      "label": "variable",
+      "description": "Evapotranspiration, the process by which water is transferred from the land surface to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6931722580502129
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and hail, influencing climate and water budgets",
+      "uuid": "6c71e621-aae6-436b-9405-5dc6ed2a527e",
+      "score": 0.7049022911682343
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river or lake, used to study hydrological processes",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5742714280107825
+    },
+    {
+      "name": "Alpine domain",
+      "label": "location",
+      "description": "The region of the European Alps, characterized by unique geological and climatic features",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5058471700413559
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess water from precipitation, snowmelt, or other sources flows over the land surface and into streams and rivers",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7321818082141979
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country located in the European Alps, known for its unique climate and geological features",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.686172054313757
+    },
+    {
+      "name": "discharge measurements",
+      "label": "instrument",
+      "description": "The process of measuring the flow of water in a stream or river, used to validate simulations and assess drought severity",
+      "uuid": "36a2999b-2255-4d4e-a249-40df3b7b3aaf",
+      "score": 0.5930492721883731
+    },
+    {
+      "name": "total water budget",
+      "label": "variable",
+      "description": "The balance of water inputs and outputs in a system, including precipitation, evaporation, and runoff, crucial for understanding hydrological cycles",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.7163854152126182
+    }
+  ],
+  "(9335, 12161)": [
+    {
+      "name": "discharge measurements",
+      "label": "variable",
+      "description": "The quantity of water flowing through a river or stream, often used to assess water availability and hydrological processes",
+      "uuid": "36a2999b-2255-4d4e-a249-40df3b7b3aaf",
+      "score": 0.6447668755379369
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, playing a crucial role in the Earth's water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.7145260804240244
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The degree of heat in the air, measured in degrees Celsius or Fahrenheit, and influencing various climate and weather phenomena",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6490308539300025
+    },
+    {
+      "name": "2003 drought",
+      "label": "weather event",
+      "description": "A significant meteorological event characterized by abnormally low rainfall, impacting ecosystems, water resources, and human activities",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5743703930095067
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river or lake, and are often used as units for hydrological studies",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5614715754420335
+    },
+    {
+      "name": "green water flux",
+      "label": "variable",
+      "description": "The flow of water through plants, soil, and atmosphere, influencing the water balance and ecosystem functioning",
+      "uuid": "23be936b-4614-4f9b-a2ef-efe3a4725cc5",
+      "score": 0.5131224224935389
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water over land into surface water bodies, such as rivers, lakes, or oceans, and an important component of the hydrological cycle",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7514272810273798
+    }
+  ],
+  "(11659, 14457)": [
+    {
+      "name": "ET",
+      "label": "variable",
+      "description": "Evapotranspiration, a measure of the amount of water transferred from the land to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6425699714679879
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing climate and weather patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6409653495719957
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the western United States, characterized by a diverse range of climates and ecosystems",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6228739829134623
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, influencing climate, weather, and water availability",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6588745793082115
+    },
+    {
+      "name": "snowmelt",
+      "label": "variable",
+      "description": "The process by which snow melts, contributing to water availability and influencing climate and weather patterns",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6278808362014849
+    },
+    {
+      "name": "ice melt",
+      "label": "variable",
+      "description": "The process by which ice melts, contributing to water availability and influencing climate and weather patterns",
+      "uuid": "8ea93d94-9a95-4dc0-8ad9-08896541fea9",
+      "score": 0.6229332870781435
+    },
+    {
+      "name": "soil water",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, influencing plant growth, climate, and weather patterns",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.5853371034899315
+    },
+    {
+      "name": "grass",
+      "label": "variable",
+      "description": "A type of vegetation, influencing climate, weather, and ecosystem processes",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5357212513209663
+    },
+    {
+      "name": "deciduous forests",
+      "label": "variable",
+      "description": "A type of forest characterized by trees that shed their leaves seasonally, influencing climate, weather, and ecosystem processes",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6275991926732316
+    },
+    {
+      "name": "T&C",
+      "label": "model",
+      "description": "A climate model or simulation tool, used to analyze and predict climate and weather patterns",
+      "uuid": "b36ff4df-7af6-41a1-9eaa-3d0ee28e1fc4",
+      "score": 0.5303619743322934
+    },
+    {
+      "name": "evergreen forests",
+      "label": "variable",
+      "description": "A type of forest characterized by trees that keep their leaves year-round, influencing climate, weather, and ecosystem processes",
+      "uuid": "16a7b4d6-e47f-4753-8803-f72edc4e1c5e",
+      "score": 0.5764050514497332
+    },
+    {
+      "name": "grasslands",
+      "label": "variable",
+      "description": "A type of ecosystem characterized by grasses and other herbaceous plants, influencing climate, weather, and ecosystem processes",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.664238657001057
+    }
+  ],
+  "(14006, 17032)": [
+    {
+      "name": "2003 drought",
+      "label": "weather event",
+      "description": "A significant meteorological event characterized by abnormally low rainfall, leading to water stress and impacts on vegetation productivity",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5697136290611429
+    },
+    {
+      "name": "evergreen forests",
+      "label": "vegetation type",
+      "description": "A type of forest characterized by trees that keep their leaves year-round, often found in temperate and tropical regions",
+      "uuid": "16a7b4d6-e47f-4753-8803-f72edc4e1c5e",
+      "score": 0.5722456628235942
+    },
+    {
+      "name": "grasslands",
+      "label": "vegetation type",
+      "description": "Areas of land dominated by grasses and other herbaceous plants, often found in temperate and tropical regions",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6181436126666652
+    },
+    {
+      "name": "deciduous forests",
+      "label": "vegetation type",
+      "description": "A type of forest characterized by trees that shed their leaves seasonally, often found in temperate regions",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6513709961182949
+    },
+    {
+      "name": "ET",
+      "label": "variable",
+      "description": "Evapotranspiration, a measure of the amount of water transferred from the land surface to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6447647701115871
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, an important factor influencing vegetation productivity and water yield",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6768562649824647
+    },
+    {
+      "name": "vegetation productivity",
+      "label": "variable",
+      "description": "A measure of the amount of biomass produced by vegetation, often influenced by factors such as climate, soil moisture, and nutrient availability",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5959061555905608
+    },
+    {
+      "name": "water yield",
+      "label": "variable",
+      "description": "The amount of water produced by a catchment or watershed, often influenced by factors such as precipitation, evapotranspiration, and soil moisture",
+      "uuid": "04922ba6-8f00-4f54-b80c-ce2414c91e2e",
+      "score": 0.6871353666087308
+    },
+    {
+      "name": "annual timescale",
+      "label": "time period",
+      "description": "A period of one year, often used as a reference frame for studying climate and vegetation patterns",
+      "uuid": "40e09855-fb48-4a7d-9851-d6e809e6c309",
+      "score": 0.6098503103160566
+    },
+    {
+      "name": "invariable rooting depths",
+      "label": "variable",
+      "description": "A simplification used in modeling, assuming that the depth of plant roots remains constant across different vegetation types and locations",
+      "uuid": "a3fcd632-ccb8-4c18-817b-d6b56ec8601b",
+      "score": 0.5599545498025625
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or snowfall that falls on a given area, an important factor influencing vegetation productivity and water yield",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6119614236109814
+    }
+  ],
+  "(16515, 19654)": [
+    {
+      "name": "Alpine region",
+      "label": "location",
+      "description": "A mountainous region in Europe, known for its unique climate and vegetation patterns",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5159231830499204
+    },
+    {
+      "name": "annual timescale",
+      "label": "variable",
+      "description": "A time frame of one year, used to analyze and understand climate and environmental patterns",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.6263717183121241
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing climate and environmental processes",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6355277931201774
+    },
+    {
+      "name": "ET",
+      "label": "variable",
+      "description": "Evapotranspiration, the process by which water is transferred from the land to the atmosphere through plants and evaporation",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6888294356912881
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, influencing climate and environmental patterns",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6538879050875688
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water over land into streams, rivers, and lakes, influenced by climate and environmental factors",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7388280168077864
+    },
+    {
+      "name": "atmospheric circulation patterns",
+      "label": "ocean circulation",
+      "description": "The movement of air in the atmosphere, influencing climate and weather patterns",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.5121803581843908
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, influencing climate and environmental processes",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6563797571078224
+    },
+    {
+      "name": "vegetation types",
+      "label": "variable",
+      "description": "The different types of plant species and communities found in a region, influencing climate and environmental patterns",
+      "uuid": "de0ace5c-fa2b-47ca-93db-79d8df7ab6f2",
+      "score": 0.5965133273836624
+    },
+    {
+      "name": "vegetation composition",
+      "label": "variable",
+      "description": "The makeup of plant species and communities in a region, influencing climate and environmental patterns",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5482309668294495
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region in Europe, known for its unique climate and environmental patterns",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.6601090783698763
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the United States, known for its unique climate and environmental patterns",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.5990640632743074
+    }
+  ],
+  "(19130, 22316)": [
+    {
+      "name": "European water resources",
+      "label": "variable",
+      "description": "The availability and management of water resources across Europe, crucial for ecosystem functioning, energy production, and human consumption",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6623779312684219
+    },
+    {
+      "name": "ecohydrological simulations",
+      "label": "model",
+      "description": "Computational models that integrate ecological and hydrological processes to study the interactions between water, vegetation, and climate",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5218687300760936
+    },
+    {
+      "name": "hydrometeorological forcing",
+      "label": "variable",
+      "description": "The input data used to drive ecohydrological simulations, including precipitation, temperature, and other meteorological factors",
+      "uuid": "862e790e-d42f-433a-8561-107562aceb64",
+      "score": 0.5213487255578838
+    },
+    {
+      "name": "water budget",
+      "label": "variable",
+      "description": "The balance between water inputs, outputs, and storage in a given area, essential for understanding water availability and vulnerability to climate change",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.7091868168617133
+    },
+    {
+      "name": "vegetation types",
+      "label": "variable",
+      "description": "The different types of plant species and functional groups present in an ecosystem, influencing water and carbon cycles",
+      "uuid": "de0ace5c-fa2b-47ca-93db-79d8df7ab6f2",
+      "score": 0.5650341771920121
+    },
+    {
+      "name": "soil water content changes",
+      "label": "variable",
+      "description": "The dynamics of water storage and movement in the soil profile, affected by factors such as precipitation, infiltration, and evapotranspiration",
+      "uuid": "27d80b52-c755-463e-b8c5-e60834e37ac7",
+      "score": 0.5817512870542673
+    },
+    {
+      "name": "soil biogeochemistry module",
+      "label": "model",
+      "description": "A component of ecohydrological models that simulates the cycling of carbon, nitrogen, and other elements in the soil",
+      "uuid": "b69052b9-69ab-4294-aa04-5ad639d1b31d",
+      "score": 0.5807810814782726
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a given area, including temperature, precipitation, and other factors",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.500886900724605
+    }
+  ],
+  "(21779, 24909)": [
+    {
+      "name": "soil biogeochemistry module",
+      "label": "model",
+      "description": "A component of climate models that simulates the interactions between soil, organisms, and the environment, including carbon and nutrient cycling>",
+      "uuid": "b69052b9-69ab-4294-aa04-5ad639d1b31d",
+      "score": 0.6136734342454857
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, influencing plant growth, soil erosion, and other environmental processes>",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6835465252430369
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of organic compounds>",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6770053571649329
+    },
+    {
+      "name": "phenological phases",
+      "label": "variable",
+      "description": "The stages of plant growth and development, such as dormancy, growth, and senescence, influenced by environmental factors like temperature and daylight>",
+      "uuid": "c6f81edb-b683-4356-93e6-5852766a5ee8",
+      "score": 0.5523041340408064
+    },
+    {
+      "name": "soil carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in soil, which plays a crucial role in the global carbon cycle and climate regulation>",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.6724215617936834
+    },
+    {
+      "name": "soil temperature",
+      "label": "variable",
+      "description": "The temperature of the soil, influencing microbial activity, plant growth, and other ecological processes>",
+      "uuid": "b29ee2f4-b2ce-4b19-b8e3-2d74d071549b",
+      "score": 0.695659860501941
+    },
+    {
+      "name": "phenological phase",
+      "label": "variable",
+      "description": "A specific stage of plant growth and development, such as dormancy, growth, or senescence, influenced by environmental factors like temperature and daylight>",
+      "uuid": "0f18f64b-dfac-4f93-9ded-89c8f249c2d1",
+      "score": 0.5625230461193217
+    },
+    {
+      "name": "vapor pressure deficit",
+      "label": "variable",
+      "description": "The difference between the amount of moisture in the air and the amount of moisture the air can hold, influencing plant water stress and photosynthesis>",
+      "uuid": "433ea253-243d-42e4-bc61-f85eb7a73879",
+      "score": 0.5181481048172227
+    },
+    {
+      "name": "stomatal resistance",
+      "label": "variable",
+      "description": "The resistance to gas exchange through the stomata of plants, influencing photosynthesis, transpiration, and plant water stress>",
+      "uuid": "ae5ed212-3980-444f-b49b-4e37eebb3eba",
+      "score": 0.6157756544703593
+    },
+    {
+      "name": "Swiss plateau",
+      "label": "location",
+      "description": "A region in Switzerland, characterized by a relatively flat topography and a specific ecological profile>",
+      "uuid": "694e18ec-ceaf-4070-9763-f3ee6dbd6b5b",
+      "score": 0.5172725027835604
+    }
+  ],
+  "(24453, 27335)": [
+    {
+      "name": "SoilGrids",
+      "label": "provider",
+      "description": "A global soil information system that provides soil data and maps at various resolutions",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.536281681578511
+    },
+    {
+      "name": "DEM",
+      "label": "instrument",
+      "description": "A digital elevation model, a digital representation of the Earth's surface topography",
+      "uuid": "395372ad-2883-4b6a-a481-6383a310ca47",
+      "score": 0.7544399877491911
+    },
+    {
+      "name": "stream network",
+      "label": "variable",
+      "description": "A network of streams and rivers in a given area, often used in hydrological modeling",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5425258667794938
+    },
+    {
+      "name": "soil texture",
+      "label": "variable",
+      "description": "The composition of soil in terms of sand, silt, clay, and organic content, influencing soil properties and behavior",
+      "uuid": "fb05c0c0-7fcd-470c-ba2b-755f04f5d811",
+      "score": 0.6861995127471527
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical coverage of the Earth's surface, including vegetation, water, and urban areas",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6735686911592967
+    },
+    {
+      "name": "Corine",
+      "label": "provider",
+      "description": "A European land cover database, providing information on land cover and land use",
+      "uuid": "3ced2adf-ad4a-45ab-a043-4b02ccae0463",
+      "score": 0.7724819862117946
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process of water changing from a liquid to a gas state, often simulated in hydrological and climate models",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.6740289392116291
+    }
+  ],
+  "(26836, 29818)": [
+    {
+      "name": "carbon pools",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in different components of an ecosystem, such as vegetation and soil",
+      "uuid": "a85012cc-766c-43d3-958e-5c72ebada9d3",
+      "score": 0.5757203010337212
+    },
+    {
+      "name": "vegetation types",
+      "label": "variable",
+      "description": "Different categories of plant species and communities, such as evergreen forests, used to parameterize models",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6019890175759893
+    },
+    {
+      "name": "meteorological forcing",
+      "label": "variable",
+      "description": "Atmospheric conditions, such as temperature and precipitation, used to drive climate models",
+      "uuid": "862e790e-d42f-433a-8561-107562aceb64",
+      "score": 0.5324875447370822
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, an important factor in climate and hydrological modeling",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.7073001605507412
+    },
+    {
+      "name": "channel water storage",
+      "label": "variable",
+      "description": "The amount of water stored in rivers and streams, influencing hydrological and climate processes",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5171552716776295
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, a key variable in climate modeling and analysis",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.7150798044818786
+    },
+    {
+      "name": "snow water equivalent",
+      "label": "variable",
+      "description": "The amount of water stored in snowpack, an important factor in hydrological and climate modeling",
+      "uuid": "587e4d68-36f0-45b5-9978-4b3edd58a1c0",
+      "score": 0.7858191221251642
+    },
+    {
+      "name": "Alpine precipitation grid dataset",
+      "label": "project",
+      "description": "A dataset providing daily precipitation data for the Alpine region, used for climate and hydrological research",
+      "uuid": "81a3e695-afb3-4460-8522-5992309c120d",
+      "score": 0.5473602059990926
+    },
+    {
+      "name": "Austria",
+      "label": "location",
+      "description": "A country in Central Europe, part of the Alpine region",
+      "uuid": "e4d33a7a-f145-4aec-9d15-e21dc9916aad",
+      "score": 0.6424208219030285
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Western Europe, part of the Alpine region",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.6578554842514537
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, part of the Alpine region",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.5677438825449853
+    },
+    {
+      "name": "Italy",
+      "label": "location",
+      "description": "A country in Southern Europe, part of the Alpine region",
+      "uuid": "ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4",
+      "score": 0.6760656125180985
+    },
+    {
+      "name": "Lichtenstein",
+      "label": "location",
+      "description": "A small country in Central Europe, part of the Alpine region",
+      "uuid": "df8d8422-8497-44c4-a147-1e4d0bdb4ad0",
+      "score": 0.5489162465269088
+    },
+    {
+      "name": "Slovenia",
+      "label": "location",
+      "description": "A country in Central Europe, part of the Alpine region",
+      "uuid": "1e7cf5e6-e98a-45ae-a300-6ee43aaf9a1d",
+      "score": 0.5822408732928637
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country in Central Europe, part of the Alpine region",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.690835370638114
+    },
+    {
+      "name": "hourly precipitation fields",
+      "label": "variable",
+      "description": "Precipitation data with hourly temporal resolution, used to drive climate and hydrological models",
+      "uuid": "2f0f103a-4fe9-429f-a783-ba1d6e6a446a",
+      "score": 0.6345231129904069
+    },
+    {
+      "name": "gridded daily product",
+      "label": "variable",
+      "description": "A dataset providing daily precipitation data on a grid, used for climate and hydrological research",
+      "uuid": "81a3e695-afb3-4460-8522-5992309c120d",
+      "score": 0.5898435663610466
+    }
+  ],
+  "(29322, 32110)": [
+    {
+      "name": "ECMWF ERA INTERIM",
+      "label": "model",
+      "description": "A global atmospheric reanalysis model produced by the European Centre for Medium-Range Weather Forecasts, providing data on various atmospheric variables>",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7784185235318398
+    },
+    {
+      "name": "ERA INTERIM",
+      "label": "model",
+      "description": "A global atmospheric reanalysis model produced by the European Centre for Medium-Range Weather Forecasts, providing data on various atmospheric variables>",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7937815114530803
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, an independent intergovernmental organization providing weather forecasts and climate research>",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7597419739546745
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, an important factor in climate and weather studies>",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6681608004155503
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "A measure of the speed of the wind, an important factor in climate and weather studies>",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6732384957944226
+    },
+    {
+      "name": "atmospheric pressure",
+      "label": "variable",
+      "description": "A measure of the pressure of the atmosphere, an important factor in climate and weather studies>",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.7115183705822768
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, an important factor in climate and weather studies>",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.722084004694382
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rain or other forms of moisture falling from the sky, an important factor in climate and weather studies>",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6836448946196738
+    },
+    {
+      "name": "ERA INTERIM grid cells",
+      "label": "platform",
+      "description": "A grid system used for modeling and analyzing climate and weather data>",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.615497098120812
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country in Europe, used as a reference for downscaling wind speed data>",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.6210084980253955
+    }
+  ],
+  "(31564, 34486)": [
+    {
+      "name": "ERA INTERIM",
+      "label": "project",
+      "description": "A reanalysis project that provides global atmospheric and surface data, including temperature, wind, and humidity, from 1979 to 2019",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7442612603072744
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, expressed as a percentage of the maximum amount of moisture the air can hold at a given temperature",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7185078176978433
+    },
+    {
+      "name": "dew temperature",
+      "label": "variable",
+      "description": "The temperature at which the air becomes saturated with water vapor and dew or frost begins to form",
+      "uuid": "0c28d9e4-c848-4628-9c00-45a540707b59",
+      "score": 0.6682244432572794
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, typically measured in degrees Celsius or Fahrenheit",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6640801511051156
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that reaches the Earth's surface, including direct and diffuse radiation",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6976907378880355
+    },
+    {
+      "name": "meteorological stations",
+      "label": "platform",
+      "description": "Locations where weather and climate data are collected, including measurements of temperature, precipitation, and other atmospheric conditions",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.7039968665938309
+    },
+    {
+      "name": "direct shortwave radiation",
+      "label": "variable",
+      "description": "The amount of solar radiation that reaches the Earth's surface directly from the sun, without being scattered by the atmosphere",
+      "uuid": "74de6492-617b-4046-8a4e-1336c3238a7e",
+      "score": 0.6432485607954862
+    },
+    {
+      "name": "diffuse shortwave radiation",
+      "label": "variable",
+      "description": "The amount of solar radiation that reaches the Earth's surface after being scattered by the atmosphere, coming from all directions",
+      "uuid": "9c30f54f-5c80-4bf6-8314-82acfa7c4cc6",
+      "score": 0.6288824307301999
+    },
+    {
+      "name": "atmospheric pressure",
+      "label": "variable",
+      "description": "The force exerted by the weight of the atmosphere on the Earth's surface, typically measured in units of pressure such as millibars or pascals",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.7302230092553025
+    },
+    {
+      "name": "vapor pressure",
+      "label": "variable",
+      "description": "The pressure exerted by water vapor in the air, which is a key factor in determining humidity and precipitation",
+      "uuid": "433ea253-243d-42e4-bc61-f85eb7a73879",
+      "score": 0.7172501981099323
+    },
+    {
+      "name": "local and remote topographic effects",
+      "label": "variable",
+      "description": "The influence of nearby and distant terrain features on the local climate and weather patterns, including effects such as shading and backscatter",
+      "uuid": "05bef198-cfff-48be-b0cb-14e296d38dbc",
+      "score": 0.5907944776080182
+    },
+    {
+      "name": "incoming longwave radiation",
+      "label": "variable",
+      "description": "The amount of energy from the Earth's surface and atmosphere that is emitted as longwave radiation, which is an important component of the Earth's energy balance",
+      "uuid": "5d9c7b8a-41cd-474c-a602-f4d286537c69",
+      "score": 0.6379645933678905
+    },
+    {
+      "name": "clear-sky radiation",
+      "label": "variable",
+      "description": "The amount of solar radiation that reaches the Earth's surface on a clear day, without any cloud cover or atmospheric interference",
+      "uuid": "7ca7007e-e9da-4776-bd7f-3372c991a858",
+      "score": 0.6269863956730504
+    },
+    {
+      "name": "cloud cover",
+      "label": "variable",
+      "description": "The amount of cloudiness in the sky, which can affect the amount of solar radiation that reaches the Earth's surface",
+      "uuid": "6d496890-1853-4515-97f9-73cccb84514c",
+      "score": 0.6052622723378717
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the air through transpiration, which is an important component of the Earth's water cycle",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7063205982098355
+    },
+    {
+      "name": "vegetation type",
+      "label": "variable",
+      "description": "The classification of plants and vegetation into different categories, such as grassland, evergreen, deciduous, and mixed forest",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.5648149657933439
+    }
+  ],
+  "(33966, 36803)": [
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through the combined processes of evaporation and transpiration>",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.749679290444984
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the atmosphere, often used in climate and environmental studies>",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6665056161377418
+    },
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer, an instrument used for remote sensing of the Earth\u2019s surface and atmosphere>",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7590690110901045
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "The extent of snow on the ground, often used as an indicator of climate and weather patterns>",
+      "uuid": "8ef6560e-c699-49b4-bcb3-6db68506ca22",
+      "score": 0.7285461903473978
+    },
+    {
+      "name": "FLUXNET",
+      "label": "project",
+      "description": "A network of sites that measure the exchange of carbon and water between the atmosphere and terrestrial ecosystems>",
+      "uuid": "fc35b6d6-ab5b-407f-bc83-871d9cf73cc1",
+      "score": 0.7613208157321802
+    },
+    {
+      "name": "GPP",
+      "label": "variable",
+      "description": "Gross Primary Production, the total amount of carbon fixed by plants through photosynthesis>",
+      "uuid": "ba70b595-5263-4ffd-97a2-f86ba91681ae",
+      "score": 0.650734113877058
+    },
+    {
+      "name": "LE",
+      "label": "variable",
+      "description": "Latent Heat, a measure of the energy transferred from the Earth's surface to the atmosphere through evaporation>",
+      "uuid": "05dd9887-0b58-45f2-b3ea-6e26bbee6990",
+      "score": 0.6768390274622239
+    },
+    {
+      "name": "FLUXCOM",
+      "label": "project",
+      "description": "A project that provides distributed products of evapotranspiration and gross primary production>",
+      "uuid": "fc35b6d6-ab5b-407f-bc83-871d9cf73cc1",
+      "score": 0.6230804719525123
+    },
+    {
+      "name": "vegetation type",
+      "label": "variable",
+      "description": "A classification of plant species and communities based on their characteristics and growth habits>",
+      "uuid": "de0ace5c-fa2b-47ca-93db-79d8df7ab6f2",
+      "score": 0.6117133250309169
+    }
+  ],
+  "(36384, 39123)": [
+    {
+      "name": "FLUXCOM",
+      "label": "project",
+      "description": "A project providing datasets of evapotranspiration and gross primary production through the upscaling of flux tower measurements>",
+      "uuid": "fc35b6d6-ab5b-407f-bc83-871d9cf73cc1",
+      "score": 0.6549659246582354
+    },
+    {
+      "name": "TRENDY",
+      "label": "project",
+      "description": "A project aiming to understand the dynamics of the terrestrial carbon cycle through model intercomparisons>",
+      "uuid": "614b0942-6420-457c-b68d-82ac64df0a19",
+      "score": 0.5060487482960639
+    },
+    {
+      "name": "ERA Interim",
+      "label": "project",
+      "description": "A reanalysis project by the European Centre for Medium-Range Weather Forecasts providing global atmospheric data>",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7736437602625764
+    },
+    {
+      "name": "ET",
+      "label": "variable",
+      "description": "Evapotranspiration, a measure of the amount of water transferred from the land surface to the atmosphere>",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6467526478674576
+    },
+    {
+      "name": "GPP",
+      "label": "variable",
+      "description": "Gross Primary Production, a measure of the amount of carbon fixed by plants through photosynthesis>",
+      "uuid": "ba70b595-5263-4ffd-97a2-f86ba91681ae",
+      "score": 0.6671799409015331
+    },
+    {
+      "name": "T&C",
+      "label": "model",
+      "description": "A model used for simulating water fluxes, including evapotranspiration and runoff>",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.509010116647008
+    },
+    {
+      "name": "CLM4CN",
+      "label": "model",
+      "description": "The Community Land Model version 4 with carbon and nitrogen cycling, used for simulating land surface processes>",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6087296252022901
+    },
+    {
+      "name": "LPJ_GUESS",
+      "label": "model",
+      "description": "A dynamic vegetation model used for simulating the dynamics of vegetation and terrestrial carbon cycle>",
+      "uuid": "3e06da32-2340-4565-b944-d3c5141f5522",
+      "score": 0.6060207346467197
+    },
+    {
+      "name": "LPJ",
+      "label": "model",
+      "description": "A model used for simulating land surface processes, including vegetation dynamics and hydrology>",
+      "uuid": "3e06da32-2340-4565-b944-d3c5141f5522",
+      "score": 0.748873928455792
+    },
+    {
+      "name": "OCN",
+      "label": "model",
+      "description": "A model used for simulating oceanic processes, including ocean carbon cycle>",
+      "uuid": "c61a56a3-c08f-4989-92f3-0f0787688424",
+      "score": 0.5762543466337754
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country located in Europe, known for its mountainous terrain and diverse climate>",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.7352900135392015
+    },
+    {
+      "name": "Austria",
+      "label": "location",
+      "description": "A country located in Europe, known for its mountainous terrain and diverse climate>",
+      "uuid": "e4d33a7a-f145-4aec-9d15-e21dc9916aad",
+      "score": 0.6635212904843321
+    },
+    {
+      "name": "Italy",
+      "label": "location",
+      "description": "A country located in Europe, known for its diverse climate and geography>",
+      "uuid": "ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4",
+      "score": 0.7599521400201293
+    },
+    {
+      "name": "vegetation type",
+      "label": "variable",
+      "description": "A characteristic of the land surface, influencing processes such as evapotranspiration and runoff>",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6030624575015189
+    }
+  ],
+  "(38707, 40419)": [
+    {
+      "name": "MODIS snow cover product",
+      "label": "instrument",
+      "description": "A remote sensing product used to measure snow cover, provided by the Moderate Resolution Imaging Spectroradiometer instrument",
+      "uuid": "c8ff0035-4776-4eb9-8cc9-a63d380102c8",
+      "score": 0.6016978775125116
+    },
+    {
+      "name": "atmospheric surface layer",
+      "label": "location",
+      "description": "The lowest part of the atmosphere, where the atmosphere interacts with the Earth's surface",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.5860906408900062
+    },
+    {
+      "name": "measured runoff",
+      "label": "variable",
+      "description": "The amount of water that flows over the land and into streams, measured through field observations or experiments",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6562003782295728
+    },
+    {
+      "name": "natural catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, without significant human regulation or modification",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.525531004646408
+    },
+    {
+      "name": "P-ET",
+      "label": "variable",
+      "description": "The difference between precipitation and evapotranspiration, used as a proxy for runoff in this study",
+      "uuid": "af1a60a3-afdf-4d0e-b438-dcbb7b469d3f",
+      "score": 0.5063447077123285
+    },
+    {
+      "name": "DEM",
+      "label": "instrument",
+      "description": "A digital elevation model, a digital representation of the Earth's surface topography",
+      "uuid": "395372ad-2883-4b6a-a481-6383a310ca47",
+      "score": 0.7544399877491911
+    },
+    {
+      "name": "land cover product",
+      "label": "instrument",
+      "description": "A dataset that categorizes the different types of land cover, such as vegetation, soil, or water",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5752600572077456
+    },
+    {
+      "name": "icemelt",
+      "label": "variable",
+      "description": "The amount of ice that melts, contributing to runoff in glacierized catchments",
+      "uuid": "f34a69c1-96d2-4096-96f6-f7e6130c3e44",
+      "score": 0.5557731104159592
+    }
+  ]
+}

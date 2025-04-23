@@ -1,0 +1,1835 @@
+{
+  "(0, 3060)": [
+    {
+      "name": "global climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6305681617537005
+    },
+    {
+      "name": "groundwater resources",
+      "label": "variable",
+      "description": "The water stored beneath the Earth's surface, which can be used for various purposes such as drinking, irrigation, and industrial activities",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.627481641483402
+    },
+    {
+      "name": "WAVES",
+      "label": "model",
+      "description": "A specific implementation of the Soil-Vegetation-Atmosphere-Transfer model, used for simulating groundwater recharge",
+      "uuid": "097dc475-d0f6-464c-bc41-bb14bc9e826a",
+      "score": 0.5264950927540705
+    },
+    {
+      "name": "U.S. High Plains region",
+      "label": "location",
+      "description": "A semi-arid region in the central United States, known for its significant agricultural production and groundwater resources",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.6996997193494909
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "label": "provider",
+      "description": "An international organization that assesses the science related to climate change and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7076197226325327
+    },
+    {
+      "name": "High Plains Aquifer",
+      "label": "location",
+      "description": "A large underground aquifer system located in the central United States, providing water for irrigation, drinking, and other purposes",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.558899286387837
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate, affecting various aspects of the environment and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5900854773255356
+    }
+  ],
+  "(2615, 5407)": [
+    {
+      "name": "High Plains Aquifer",
+      "label": "location",
+      "description": "A major groundwater aquifer located in the central United States, providing significant water resources for irrigation and other uses",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5679199708253038
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, with diverse climate and geographical features",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7331347419112431
+    },
+    {
+      "name": "National Agricultural Statistics Services",
+      "label": "provider",
+      "description": "An organization that collects and analyzes data on agricultural statistics in the United States",
+      "uuid": "c373186f-c8be-454d-8308-069d57d10039",
+      "score": 0.5707030285699685
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface, often used for irrigation, drinking water, and other purposes",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6837460836420407
+    },
+    {
+      "name": "irrigation",
+      "label": "variable",
+      "description": "The application of water to land for agricultural purposes, often relying on groundwater or surface water sources",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7033615510572077
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term shift in global weather patterns, influencing temperature, precipitation, and other environmental factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5633349243722096
+    },
+    {
+      "name": "paleoclimate",
+      "label": "variable",
+      "description": "The study of past climates, often using proxy data such as tree rings, ice cores, and sediment cores",
+      "uuid": "c7245882-84a1-4192-acfa-a758b5b9c151",
+      "score": 0.7129740216763771
+    },
+    {
+      "name": "Southern High Plains",
+      "label": "location",
+      "description": "A subregion of the High Plains Aquifer, located in the southern United States",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5775916169623266
+    },
+    {
+      "name": "Central High Plains",
+      "label": "location",
+      "description": "A subregion of the High Plains Aquifer, located in the central United States",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.6344417272146494
+    },
+    {
+      "name": "Northern High Plains",
+      "label": "location",
+      "description": "A subregion of the High Plains Aquifer, located in the northern United States",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.6049324353552943
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict climate patterns and changes",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7119865334727428
+    },
+    {
+      "name": "global warming",
+      "label": "teleconnection",
+      "description": "The long-term increase in global temperatures, often associated with climate change",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5675515796733459
+    },
+    {
+      "name": "CO2 concentration",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, influencing climate patterns and global warming",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.6143505693516974
+    }
+  ],
+  "(4871, 7528)": [
+    {
+      "name": "High Plains Aquifer",
+      "label": "location",
+      "description": "A major aquifer system located in the central United States, covering parts of eight states and playing a crucial role in the region's water resources",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.6008732253222017
+    },
+    {
+      "name": "High Plains",
+      "label": "location",
+      "description": "A region in the central United States, characterized by a semi-arid climate and significant agricultural activity",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.7280584756490281
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides projections for future climate scenarios",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7470284953534012
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors, with significant impacts on the environment and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5937066367893478
+    },
+    {
+      "name": "irrigated agriculture",
+      "label": "experiment",
+      "description": "A type of agricultural practice that involves the use of irrigation systems to support crop growth, often in areas with limited rainfall",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5925149194863906
+    },
+    {
+      "name": "temperature gradient",
+      "label": "variable",
+      "description": "A measure of the change in temperature over a given distance or area, often used to describe climate patterns and trends",
+      "uuid": "99d567bb-7767-4ea4-a135-a611eac6a669",
+      "score": 0.7035741732671152
+    },
+    {
+      "name": "mean annual potential evapotranspiration",
+      "label": "variable",
+      "description": "A measure of the amount of water that could be evaporated from the surface of the Earth, given the climate and vegetation conditions",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6338867421682888
+    },
+    {
+      "name": "surface water",
+      "label": "variable",
+      "description": "Water that is located on the surface of the Earth, including rivers, lakes, and reservoirs",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7071081063383946
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water that is located beneath the surface of the Earth, often used for irrigation and drinking water supplies",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6792534454290011
+    },
+    {
+      "name": "water table",
+      "label": "variable",
+      "description": "The depth below the surface of the Earth at which the soil or rock is saturated with water, often used to describe groundwater levels and trends",
+      "uuid": "ecbe9f17-6012-4e39-a707-713973b7d167",
+      "score": 0.7288948833099903
+    }
+  ],
+  "(7098, 9679)": [
+    {
+      "name": "water table",
+      "label": "variable",
+      "description": "The level at which the water table stands in an aquifer, indicating the depth to groundwater>",
+      "uuid": "ecbe9f17-6012-4e39-a707-713973b7d167",
+      "score": 0.6982499174594204
+    },
+    {
+      "name": "CHP",
+      "label": "location",
+      "description": "The Central High Plains, a region in the United States known for its significant groundwater depletion>",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5379265003712972
+    },
+    {
+      "name": "Texas",
+      "label": "location",
+      "description": "A state in the United States where significant groundwater depletion has been observed>",
+      "uuid": "0f01d3b9-3691-471e-b21b-3f42c512dcd2",
+      "score": 0.5030316934773306
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water is added to an aquifer, influencing groundwater levels and storage>",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6797033808049826
+    },
+    {
+      "name": "soil texture",
+      "label": "variable",
+      "description": "The composition and structure of soil, affecting its ability to retain and transmit water>",
+      "uuid": "afd1d3cb-d31d-4069-8cff-b592887aa18c",
+      "score": 0.6218054973771149
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface in aquifers, playing a crucial role in the hydrologic cycle>",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6985875595477823
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that stores and transmits significant amounts of water>",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.6022297957909892
+    }
+  ],
+  "(9199, 11826)": [
+    {
+      "name": "irrigation",
+      "label": "instrument",
+      "description": "A system or process used for supplying water to land or crops to help growth",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6963772260687804
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "The water located beneath Earth's surface in soil pore spaces and in the fractures of rock formations",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6665423294259718
+    },
+    {
+      "name": "CHP",
+      "label": "location",
+      "description": "A region, possibly referring to a specific geographical area, such as the Central High Plains in the United States",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5401477674221402
+    },
+    {
+      "name": "SHP",
+      "label": "location",
+      "description": "A region, possibly referring to a specific geographical area, such as the Southern High Plains in the United States",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5034582516301909
+    },
+    {
+      "name": "water table",
+      "label": "variable",
+      "description": "The upper surface of the zone of saturation in the soil, where the water table meets the ground surface",
+      "uuid": "ecbe9f17-6012-4e39-a707-713973b7d167",
+      "score": 0.7051712004210843
+    },
+    {
+      "name": "deep water tables",
+      "label": "variable",
+      "description": "Water tables located at a significant depth below the ground surface, which can impact groundwater recharge",
+      "uuid": "04655f0e-81f1-411c-9cfe-994cd743701e",
+      "score": 0.5762890398829111
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water is added to the groundwater system, often through infiltration of precipitation or irrigation",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6602034158602902
+    },
+    {
+      "name": "irrigated agriculture",
+      "label": "instrument",
+      "description": "Agricultural practices that involve the use of irrigation systems to supply water to crops",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6094080824285865
+    },
+    {
+      "name": "Texas",
+      "label": "location",
+      "description": "A state in the United States, which is part of the CHP and SHP regions",
+      "uuid": "0f01d3b9-3691-471e-b21b-3f42c512dcd2",
+      "score": 0.6320033799889619
+    },
+    {
+      "name": "Kansas",
+      "label": "location",
+      "description": "A state in the United States, which is part of the CHP region",
+      "uuid": "42b510c8-3f17-4f95-85f5-011065fcc038",
+      "score": 0.6420862177318736
+    },
+    {
+      "name": "Nebraska",
+      "label": "location",
+      "description": "A state in the United States, which is part of the NHP region",
+      "uuid": "48c90518-9246-452b-8874-d50975e87ef6",
+      "score": 0.6497930748962123
+    },
+    {
+      "name": "ET data",
+      "label": "variable",
+      "description": "Evapotranspiration data, which measures the amount of water lost to the atmosphere through evaporation and plant transpiration",
+      "uuid": "af1a60a3-afdf-4d0e-b438-dcbb7b469d3f",
+      "score": 0.5668674049958189
+    },
+    {
+      "name": "water resources management",
+      "label": "project",
+      "description": "The planning, development, and management of water resources, to ensure their sustainable use and protection",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6135536872639566
+    },
+    {
+      "name": "baseflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, which is maintained by groundwater discharge",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.7264635689253788
+    },
+    {
+      "name": "stream baseflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, which is maintained by groundwater discharge",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6852857736353528
+    },
+    {
+      "name": "aquatic habitat",
+      "label": "location",
+      "description": "The environment and ecosystem that supports aquatic life, such as migratory birds",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.5985265655018004
+    }
+  ],
+  "(11320, 14037)": [
+    {
+      "name": "High Plains Aquifer",
+      "label": "location",
+      "description": "A major aquifer located in the central United States, providing water for irrigation, drinking water, and other uses",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5618971479793823
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, used as a comparison for studying climate change impacts on recharge",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.6242193443095844
+    },
+    {
+      "name": "groundwater recharge",
+      "label": "variable",
+      "description": "The process by which water moves from the Earth's surface to the groundwater, influencing aquifer levels and stream baseflow",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.658557646881266
+    },
+    {
+      "name": "stream baseflow",
+      "label": "variable",
+      "description": "The flow of water in a stream that comes from groundwater, important for maintaining aquatic ecosystems",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6813486569888779
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in temperature, precipitation, and other climate variables, impacting groundwater recharge and aquifer levels",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5258788045820606
+    },
+    {
+      "name": "Penman-Monteith equation",
+      "label": "model",
+      "description": "A mathematical equation used to simulate evapotranspiration, a key component of the water balance in the WAVES model",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.7032726735902367
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "A key input dataset for the WAVES model, influencing water balances and groundwater recharge",
+      "uuid": "fb27559f-a2af-4fb5-960d-4635e13fecea",
+      "score": 0.5326477576776588
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "A key input dataset for the WAVES model, influencing water balances and groundwater recharge through transpiration and other processes",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.615971988236263
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "A factor influencing plant growth and transpiration, simulated in the WAVES model",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.5571964623159802
+    },
+    {
+      "name": "light",
+      "label": "variable",
+      "description": "A factor influencing plant growth and transpiration, simulated in the WAVES model",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.51245738366487
+    }
+  ],
+  "(13556, 16272)": [
+    {
+      "name": "HELP",
+      "label": "model",
+      "description": "A hydrological model used to simulate water flow and recharge in various environments",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5011059599790657
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "A measure of the atmospheric conditions, including temperature, precipitation, and other factors that influence hydrological processes",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5393672651884371
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "A measure of the properties of the soil, including its texture, structure, and water-holding capacity",
+      "uuid": "fb27559f-a2af-4fb5-960d-4635e13fecea",
+      "score": 0.5854756045194159
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "A measure of the type and density of plant cover, which influences hydrological processes such as evapotranspiration",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6752565076814446
+    },
+    {
+      "name": "SHR",
+      "label": "location",
+      "description": "The Southern High Plains, a region in the United States known for its semi-arid climate and significant groundwater recharge",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5133077281283516
+    },
+    {
+      "name": "National Climate Data Center",
+      "label": "provider",
+      "description": "An organization that provides access to historical climate data, including temperature and precipitation records",
+      "uuid": "02598fdd-7ff8-4d38-a2ac-f29d71523f18",
+      "score": 0.5658477141937664
+    },
+    {
+      "name": "National Centre for Atmospheric Research",
+      "label": "provider",
+      "description": "An organization that provides access to atmospheric data, including reanalysis datasets",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.6746998266927674
+    },
+    {
+      "name": "National Centre for Environmental Prediction",
+      "label": "provider",
+      "description": "An organization that provides access to environmental data, including reanalysis datasets",
+      "uuid": "f30a086a-f7e6-4708-9df0-7d38b58782e3",
+      "score": 0.6169098324983208
+    },
+    {
+      "name": "vapor pressure deficit",
+      "label": "variable",
+      "description": "A measure of the difference between the actual vapor pressure and the saturation vapor pressure, which influences evapotranspiration",
+      "uuid": "433ea253-243d-42e4-bc61-f85eb7a73879",
+      "score": 0.5269254031572101
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "A measure of the amount of energy from the sun that is available for hydrological processes",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6252854498972491
+    },
+    {
+      "name": "water table",
+      "label": "variable",
+      "description": "The depth below which the ground is saturated with water, which influences groundwater recharge",
+      "uuid": "ecbe9f17-6012-4e39-a707-713973b7d167",
+      "score": 0.6940075199037649
+    },
+    {
+      "name": "dew point temperatures",
+      "label": "variable",
+      "description": "A measure of the temperature at which the air becomes saturated with water vapor, which influences hydrological processes",
+      "uuid": "76103e17-59c2-4458-972d-9ff9801e5d32",
+      "score": 0.7526204915952248
+    },
+    {
+      "name": "snowmelt processes",
+      "label": "variable",
+      "description": "The process by which snow melts and contributes to hydrological processes such as runoff and recharge",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6141556340872187
+    },
+    {
+      "name": "reanalysis data",
+      "label": "variable",
+      "description": "A type of data that combines model outputs with observational data to provide a comprehensive picture of historical climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7430044500089401
+    }
+  ],
+  "(15816, 18304)": [
+    {
+      "name": "vapor pressure deficit",
+      "label": "variable",
+      "description": "A measure of the difference between the amount of moisture in the air and the amount of moisture the air can hold at a given temperature",
+      "uuid": "433ea253-243d-42e4-bc61-f85eb7a73879",
+      "score": 0.5280159688802606
+    },
+    {
+      "name": "WAVES",
+      "label": "model",
+      "description": "A climate modeling system used to simulate and predict various climate-related phenomena",
+      "uuid": "3660e2aa-1e70-4fdc-9369-b588e89a8fe7",
+      "score": 0.554395116481492
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that is received by the Earth's surface",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6805458714748622
+    },
+    {
+      "name": "National Centre for Atmospheric Research/National Centre for Environmental Prediction",
+      "label": "provider",
+      "description": "A research institution that provides atmospheric and environmental data, including reanalysis data",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.6534084842282092
+    },
+    {
+      "name": "NCAR/NCEP reanalysis data",
+      "label": "project",
+      "description": "A dataset of atmospheric and environmental data that has been reanalyzed to provide a consistent and reliable record of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.6514891767444305
+    },
+    {
+      "name": "30 year climate time series",
+      "label": "variable",
+      "description": "A sequence of climate data that spans 30 years, used to represent long-term climate patterns",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.6041911517007985
+    },
+    {
+      "name": "Atmospheric CO 2 concentration",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, which affects the Earth's climate",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5820477114214911
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an organization that assesses and reports on climate change research",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7390192480389107
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028741732486364
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "World Climate Research Programme's Coupled Model Intercomparison Project phase 3",
+      "label": "project",
+      "description": "A research program that aims to improve our understanding of the climate system and predict future climate change",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.6922655123562464
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, computational representations of the Earth's climate system used to simulate and predict climate patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7333735947377433
+    }
+  ],
+  "(17893, 20700)": [
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028741732486364
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, computational representations of the Earth's climate system used to simulate and predict climate patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7643747536022683
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Quantities or characteristics that can be measured or observed in climate experiments, such as temperature, humidity, and solar radiation",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6995484182597279
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, an important factor in climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5553140452786463
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the atmosphere, often used in climate and environmental studies",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6587186706034955
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air, an important factor in climate and weather studies",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6785214086825094
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that reaches the Earth's surface, influencing climate and weather patterns",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6852073680743982
+    },
+    {
+      "name": "global warming",
+      "label": "variable",
+      "description": "The long-term rise in the average surface temperature of the Earth, primarily due to human activities",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5267128579106429
+    },
+    {
+      "name": "WAVES",
+      "label": "model",
+      "description": "A computational model used to simulate and study various environmental processes, including soil and water dynamics",
+      "uuid": "097dc475-d0f6-464c-bc41-bb14bc9e826a",
+      "score": 0.5050504489231119
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, an important factor in agricultural and environmental studies",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6907739788135128
+    },
+    {
+      "name": "hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the ability of water to flow through the soil, influencing soil and water dynamics",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.7661356575683991
+    },
+    {
+      "name": "soil textural and hydraulic conductivity variables",
+      "label": "variable",
+      "description": "Characteristics of the soil that influence its ability to retain and transmit water",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.5846000193499772
+    },
+    {
+      "name": "land use/land cover types",
+      "label": "variable",
+      "description": "Classifications of how the land is used or covered, such as dryland cropland, irrigated cropland, and perennial grasses",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.676074270281315
+    },
+    {
+      "name": "dryland cropland",
+      "label": "location",
+      "description": "A type of agricultural land use where crops are grown without irrigation",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.527735554205078
+    },
+    {
+      "name": "irrigated cropland",
+      "label": "location",
+      "description": "A type of agricultural land use where crops are grown with the use of irrigation",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.5402919497826187
+    }
+  ],
+  "(20215, 22989)": [
+    {
+      "name": "LU/LC",
+      "label": "variable",
+      "description": "Land use and land cover types, which can affect water balance and recharge processes",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.582871435994812
+    },
+    {
+      "name": "High Plains",
+      "label": "location",
+      "description": "A region in the United States known for its significant agricultural activities and water management challenges",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.6601485388646814
+    },
+    {
+      "name": "C4 crop",
+      "label": "variable",
+      "description": "A type of crop that uses the C4 photosynthetic pathway, such as corn or cotton",
+      "uuid": "449869ea-f556-47a3-bfc7-b674818c36d8",
+      "score": 0.5291504308721102
+    },
+    {
+      "name": "irrigation water",
+      "label": "variable",
+      "description": "Water applied to crops through irrigation systems",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6208754683221094
+    },
+    {
+      "name": "climate stations",
+      "label": "location",
+      "description": "Sites where climate data are collected and used to inform water balance and recharge simulations",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.5937726110308772
+    },
+    {
+      "name": "aquifer recharge raster",
+      "label": "variable",
+      "description": "A spatial representation of aquifer recharge rates, often used in water resource management and planning",
+      "uuid": "3609b843-d840-460c-b1a3-d4fcc69a32f6",
+      "score": 0.6126755646920953
+    },
+    {
+      "name": "vegetation type",
+      "label": "variable",
+      "description": "The type of vegetation present in a given area, which can affect water balance and recharge processes",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5586273079718749
+    }
+  ],
+  "(22534, 25109)": [
+    {
+      "name": "PRISM",
+      "label": "provider",
+      "description": "The PRISM Climate Group, a research institution at Oregon State University, providing high-resolution climate data for the United States>",
+      "uuid": "d4d82a6b-35c4-449e-bc95-a5545be9a785",
+      "score": 0.6511693379744511
+    },
+    {
+      "name": "PRISM Climate Group",
+      "label": "provider",
+      "description": "The PRISM Climate Group, a research institution at Oregon State University, providing high-resolution climate data for the United States>",
+      "uuid": "d4d82a6b-35c4-449e-bc95-a5545be9a785",
+      "score": 0.6135217140041032
+    },
+    {
+      "name": "Oregon State University",
+      "label": "provider",
+      "description": "A public research university in the United States, known for its programs in agriculture, engineering, and natural resources>",
+      "uuid": "0fe42cd1-b50a-49e5-956c-c8262cb0ea80",
+      "score": 0.5896671971276701
+    },
+    {
+      "name": "NRCS",
+      "label": "provider",
+      "description": "The Natural Resources Conservation Service, a federal agency in the United States responsible for conservation and management of natural resources>",
+      "uuid": "48cd088a-497f-49bb-8eeb-fc43b171a94a",
+      "score": 0.5863611488285738
+    },
+    {
+      "name": "National Land Cover Data",
+      "label": "project",
+      "description": "A dataset providing information on land cover and land use across the United States>",
+      "uuid": "367a6df7-8536-440b-9c14-d086915bfa85",
+      "score": 0.5995633193089753
+    },
+    {
+      "name": "NLCD 2001",
+      "label": "project",
+      "description": "The National Land Cover Database for the year 2001, a dataset providing information on land cover and land use across the United States>",
+      "uuid": "367a6df7-8536-440b-9c14-d086915bfa85",
+      "score": 0.5470421571378323
+    },
+    {
+      "name": "aquifer recharge raster",
+      "label": "variable",
+      "description": "A dataset representing the amount of water recharging an aquifer, often used in hydrologic and climate studies>",
+      "uuid": "3609b843-d840-460c-b1a3-d4fcc69a32f6",
+      "score": 0.6562463109275911
+    },
+    {
+      "name": "vegetation type",
+      "label": "variable",
+      "description": "A characteristic of the land surface, describing the type of plants and vegetation present>",
+      "uuid": "2bf08c64-dabc-42ab-99ae-3cf3104cd596",
+      "score": 0.6213337243052444
+    },
+    {
+      "name": "soil type",
+      "label": "variable",
+      "description": "A characteristic of the land surface, describing the properties and composition of the soil>",
+      "uuid": "650548c5-fccc-4e26-a040-0e5d47316e63",
+      "score": 0.5550954645758494
+    },
+    {
+      "name": "mean annual recharge",
+      "label": "variable",
+      "description": "A measure of the average amount of water recharging an aquifer over a year>",
+      "uuid": "2cd0b33e-4805-4930-ba84-fef6c625a9b4",
+      "score": 0.5975034126846324
+    },
+    {
+      "name": "raster",
+      "label": "instrument",
+      "description": "A type of data format used to represent geographic information as a grid of pixels>",
+      "uuid": "1aee02b9-bf37-4197-bb7f-bd6f040d26f6",
+      "score": 0.6020022545108233
+    },
+    {
+      "name": "grid cell",
+      "label": "location",
+      "description": "A small area of the Earth's surface, represented by a single pixel in a raster dataset>",
+      "uuid": "bb6184eb-1ced-44fb-9668-d57cf1baa2e3",
+      "score": 0.5292550057543467
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, sophisticated computer simulations used to represent and predict the Earth's climate system>",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7194078991741892
+    },
+    {
+      "name": "global warming",
+      "label": "weather event",
+      "description": "A long-term increase in the average temperature of the Earth's atmosphere, often associated with climate change>",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5722156174547457
+    }
+  ],
+  "(24655, 27563)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models used to simulate different global warming scenarios and predict their effects on recharge",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6340616920649694
+    },
+    {
+      "name": "climate station",
+      "label": "location",
+      "description": "A location where climate data is collected and used to study the impact of climate change on recharge",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.5602700241504762
+    },
+    {
+      "name": "soil type",
+      "label": "variable",
+      "description": "A characteristic of the soil that affects its hydraulic conductivity and plant available water capacity",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.5156475219598604
+    },
+    {
+      "name": "vegetation type",
+      "label": "variable",
+      "description": "A characteristic of the vegetation that affects its water usage and sensitivity to climate change",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.596486014173874
+    },
+    {
+      "name": "hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the soil's ability to transmit water, used in the study to investigate recharge sensitivity to climate change",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.7049018586586291
+    },
+    {
+      "name": "plant available water capacity",
+      "label": "variable",
+      "description": "A measure of the soil's ability to hold water available for plant use, used in the study to investigate recharge sensitivity to climate change",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.5631053904755986
+    }
+  ],
+  "(27104, 30055)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.748741754223816
+    },
+    {
+      "name": "scenario",
+      "label": "experiment",
+      "description": "A structured simulation designed to test specific hypotheses, investigate climate processes, or assess the impact of various forcings on the climate system",
+      "uuid": "6062293a-f372-4e65-9bab-27355f0ebc59",
+      "score": 0.5516089527377819
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The outermost solid layer of the Earth, playing a crucial role in the climate system through its interactions with the atmosphere and water cycle",
+      "uuid": "fb27559f-a2af-4fb5-960d-4635e13fecea",
+      "score": 0.61291335472476
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that stores and transmits significant amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5956337983468191
+    },
+    {
+      "name": "AWC",
+      "label": "variable",
+      "description": "Plant available water capacity, a measure of the amount of water in the soil that can be used by plants",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.5277149653837606
+    },
+    {
+      "name": "k",
+      "label": "variable",
+      "description": "Saturated hydraulic conductivity of the soil, a measure of the ease with which water can move through the soil",
+      "uuid": "8f499d5b-1aae-46d5-87c5-bbb0f9cf6947",
+      "score": 0.6954976897329257
+    },
+    {
+      "name": "rasters",
+      "label": "instrument",
+      "description": "A type of data format used to represent geographic data, such as satellite images or climate model outputs",
+      "uuid": "83eb2a9c-5f56-4512-94c1-acd084a5bf9d",
+      "score": 0.5731489199073119
+    },
+    {
+      "name": "WAVES",
+      "label": "model",
+      "description": "A climate modeling framework used to simulate and predict various aspects of the Earth's climate system",
+      "uuid": "3660e2aa-1e70-4fdc-9369-b588e89a8fe7",
+      "score": 0.5875620908910341
+    },
+    {
+      "name": "historical climate simulations",
+      "label": "experiment",
+      "description": "Climate simulations or experiments that are based on past observed data to compare model outputs with historical climate patterns",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.6490096369847843
+    },
+    {
+      "name": "soil texture",
+      "label": "variable",
+      "description": "The composition and arrangement of soil particles, influencing the soil's water-holding capacity and other properties",
+      "uuid": "fb05c0c0-7fcd-470c-ba2b-755f04f5d811",
+      "score": 0.6323240684064557
+    },
+    {
+      "name": "hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the ease with which water can move through a material, such as soil",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.747122577821229
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, which plays a crucial role in the climate system through its interactions with the atmosphere, soil, and water cycle",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6531829154636272
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the ground, an important factor influencing the climate and water cycle",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5235332295177215
+    }
+  ],
+  "(29538, 32442)": [
+    {
+      "name": "WAVES",
+      "label": "model",
+      "description": "A computational model used to simulate water flow and recharge in various environments",
+      "uuid": "98ff2ee3-a7fa-4b78-a281-b828547005d3",
+      "score": 0.5080099080284193
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.723548238927943
+    },
+    {
+      "name": "High Plains",
+      "label": "location",
+      "description": "A region in the United States known for its significant role in agriculture and water resources, spanning parts of several states",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.6965697169406383
+    },
+    {
+      "name": "NHP",
+      "label": "location",
+      "description": "The Northern High Plains, a sub-region of the High Plains, characterized by its unique hydrological and climatic features",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5595160197721897
+    },
+    {
+      "name": "SHP",
+      "label": "location",
+      "description": "The Southern High Plains, a sub-region of the High Plains, known for its distinct soil and vegetation characteristics",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5175334464028055
+    },
+    {
+      "name": "CHP",
+      "label": "location",
+      "description": "The Central High Plains, a sub-region of the High Plains, with its own set of hydrological and climatic conditions",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5745665250697649
+    },
+    {
+      "name": "soil texture",
+      "label": "variable",
+      "description": "A characteristic of soil that influences its water-holding capacity, infiltration rate, and overall hydrological behavior",
+      "uuid": "fb05c0c0-7fcd-470c-ba2b-755f04f5d811",
+      "score": 0.5630024584849659
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, a crucial factor in determining recharge rates",
+      "uuid": "f9c86356-381e-4f7e-9193-10c274eae41c",
+      "score": 0.5292384313649102
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water moves downward from the Earth's surface to replenish groundwater, an essential component of the hydrological cycle",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6662010626967151
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant life in a particular region, which affects evapotranspiration, soil moisture, and recharge rates",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5803525776839374
+    }
+  ],
+  "(31916, 34595)": [
+    {
+      "name": "historical baseline scenario",
+      "label": "experiment",
+      "description": "A climate simulation or experiment based on past observed data to compare model outputs with historical climate patterns>",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5773023039344792
+    },
+    {
+      "name": "climate stations",
+      "label": "location",
+      "description": "Places where climate data, such as temperature and precipitation, are collected>",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.6302740515632312
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, sophisticated computer simulations used to represent and predict Earth's climate system>",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7189843040511935
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface>",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5656097417708322
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water moves downward from the Earth's surface to recharge groundwater>",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6534836952448505
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that can store and transmit significant amounts of water>",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.604579135821123
+    }
+  ],
+  "(34039, 36959)": [
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that stores and transmits large amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5903062467771343
+    },
+    {
+      "name": "global warming",
+      "label": "teleconnection",
+      "description": "A long-term increase in Earth's average surface temperature, primarily caused by human activities and affecting global climate patterns",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5548460588664699
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water is added to an aquifer, often measured as the rate of water inflow",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6771703374771026
+    }
+  ],
+  "(36561, 38961)": [
+    {
+      "name": "CHP",
+      "label": "project",
+      "description": "A project focused on studying the impacts of climate change on groundwater recharge in a specific region>",
+      "uuid": "176d9f9a-b586-477d-8ddf-607daddd8bf1",
+      "score": 0.5762730146173659
+    },
+    {
+      "name": "SHP",
+      "label": "project",
+      "description": "A project focused on studying the impacts of climate change on groundwater recharge in a specific region>",
+      "uuid": "7b7149b9-f5f9-4dfa-8c63-7c4944b16be1",
+      "score": 0.5340135244106733
+    },
+    {
+      "name": "High Plains",
+      "label": "location",
+      "description": "A region in the United States known for its significant groundwater resources and vulnerability to climate change>",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.6424697573072838
+    },
+    {
+      "name": "soil 1",
+      "label": "variable",
+      "description": "A type of soil with specific characteristics, such as sand, that affect groundwater recharge>",
+      "uuid": "fb27559f-a2af-4fb5-960d-4635e13fecea",
+      "score": 0.5156464529924704
+    },
+    {
+      "name": "soil 5",
+      "label": "variable",
+      "description": "A type of soil with specific characteristics, such as loam, that affect groundwater recharge>",
+      "uuid": "fb27559f-a2af-4fb5-960d-4635e13fecea",
+      "score": 0.506209254755184
+    },
+    {
+      "name": "soil 10",
+      "label": "variable",
+      "description": "A type of soil with specific characteristics, such as clay-loam, that affect groundwater recharge>",
+      "uuid": "fb27559f-a2af-4fb5-960d-4635e13fecea",
+      "score": 0.5098448149866096
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "A measure of precipitation that affects groundwater recharge>",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5038022297316652
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water seeps into the soil and becomes groundwater>",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6320364449798587
+    }
+  ],
+  "(38541, 41546)": [
+    {
+      "name": "irrigated vegetation",
+      "label": "experiment",
+      "description": "A type of land use/land cover scenario that involves irrigating vegetation to study its effects on groundwater recharge",
+      "uuid": "59b3849e-6704-402f-9a3e-512db10c2f51",
+      "score": 0.5336017394213783
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation that falls on a given area",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5519793504340067
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "A measure of the amount of water that replenishes groundwater aquifers",
+      "uuid": "2cd0b33e-4805-4930-ba84-fef6c625a9b4",
+      "score": 0.7107708651200259
+    },
+    {
+      "name": "vegetation water use efficiency",
+      "label": "variable",
+      "description": "A measure of how efficiently vegetation uses water",
+      "uuid": "ff141ffe-05ea-4901-a243-e6186826b05c",
+      "score": 0.5744558511147005
+    },
+    {
+      "name": "potential ET",
+      "label": "variable",
+      "description": "A measure of the maximum amount of evapotranspiration that can occur in a given area",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6846378638671333
+    },
+    {
+      "name": "actual ET",
+      "label": "variable",
+      "description": "A measure of the actual amount of evapotranspiration that occurs in a given area",
+      "uuid": "f28060e0-1c51-41df-8451-6c98b3e77e8a",
+      "score": 0.5077867509863351
+    },
+    {
+      "name": "leaf area index",
+      "label": "variable",
+      "description": "A measure of the amount of leaf surface area per unit of ground area",
+      "uuid": "201b21eb-5781-4d69-ba1f-026111b3b1e5",
+      "score": 0.7714381212397025
+    }
+  ],
+  "(41108, 43655)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7195815526608993
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, often used in climate and hydrological studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5748291212368987
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The ratio of the amount of water vapor in the air to the maximum amount of water vapor the air can hold at a given temperature",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7392251967317165
+    },
+    {
+      "name": "minimum temperatures",
+      "label": "variable",
+      "description": "The lowest temperature recorded during a specific time period, often used in climate studies",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.5984614087979344
+    },
+    {
+      "name": "maximum temperatures",
+      "label": "variable",
+      "description": "The highest temperature recorded during a specific time period, often used in climate studies",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.615472494236914
+    },
+    {
+      "name": "leaf area index",
+      "label": "variable",
+      "description": "A measure of the amount of leaf surface area per unit ground area, often used in studies of vegetation and climate",
+      "uuid": "201b21eb-5781-4d69-ba1f-026111b3b1e5",
+      "score": 0.7851523369142125
+    },
+    {
+      "name": "Penman-Monteith equation",
+      "label": "model",
+      "description": "A mathematical model used to estimate evapotranspiration from vegetation, incorporating factors such as net radiation, temperature, and humidity",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.7525188005130327
+    },
+    {
+      "name": "net radiation",
+      "label": "variable",
+      "description": "The difference between the amount of solar radiation absorbed by the Earth's surface and the amount of radiation lost to space",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.7407559128552469
+    },
+    {
+      "name": "soil heat flux",
+      "label": "variable",
+      "description": "The transfer of heat energy between the soil and the atmosphere",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.6771054540919654
+    },
+    {
+      "name": "saturation vapor pressure",
+      "label": "variable",
+      "description": "The maximum amount of water vapor that the air can hold at a given temperature",
+      "uuid": "1a2332d9-fd69-4002-89a5-203d748a4e21",
+      "score": 0.7529134070744057
+    },
+    {
+      "name": "actual vapor pressure",
+      "label": "variable",
+      "description": "The amount of water vapor present in the air",
+      "uuid": "433ea253-243d-42e4-bc61-f85eb7a73879",
+      "score": 0.5798229586754212
+    }
+  ],
+  "(43268, 46074)": [
+    {
+      "name": "net radiation",
+      "label": "variable",
+      "description": "The difference between the incoming and outgoing radiation at the Earth's surface, influencing energy balance and climate",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.7403167829855105
+    },
+    {
+      "name": "soil heat flux",
+      "label": "variable",
+      "description": "The flow of heat into or out of the soil, affecting soil temperature and moisture",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.6409140944108872
+    },
+    {
+      "name": "mean daily temperature",
+      "label": "variable",
+      "description": "The average temperature over a 24-hour period, used to study climate and weather patterns",
+      "uuid": "f86e464a-cf9d-4e15-a39b-501855d1dc5a",
+      "score": 0.5164903445982008
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The speed at which air moves, influencing weather, climate, and environmental conditions",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.681277619713652
+    },
+    {
+      "name": "saturation vapor pressure",
+      "label": "variable",
+      "description": "The maximum amount of water vapor that can be held in the air at a given temperature, important for understanding evaporation and precipitation",
+      "uuid": "1a2332d9-fd69-4002-89a5-203d748a4e21",
+      "score": 0.7666069681097112
+    },
+    {
+      "name": "actual vapor pressure",
+      "label": "variable",
+      "description": "The amount of water vapor present in the air, compared to the saturation vapor pressure",
+      "uuid": "1a2332d9-fd69-4002-89a5-203d748a4e21",
+      "score": 0.5741445597828272
+    },
+    {
+      "name": "vapor pressure deficit",
+      "label": "variable",
+      "description": "The difference between saturation vapor pressure and actual vapor pressure, influencing evapotranspiration and plant growth",
+      "uuid": "433ea253-243d-42e4-bc61-f85eb7a73879",
+      "score": 0.5288400314146935
+    },
+    {
+      "name": "High Plains",
+      "label": "location",
+      "description": "A region in North America, known for its semi-arid climate and significant agricultural production",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.6898787638189925
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.724407428033122
+    },
+    {
+      "name": "LU/LC",
+      "label": "variable",
+      "description": "Land use and land cover, influencing local climate, hydrology, and ecosystems",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6385069772734062
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water moves downward from the soil surface to the water table, replenishing groundwater",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6397105173557309
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the ground, influencing climate, hydrology, and ecosystems",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5323133640251344
+    },
+    {
+      "name": "PET",
+      "label": "variable",
+      "description": "Potential Evapotranspiration, the amount of water that could be evaporated from the soil and plants if there is enough water available",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6733240488503901
+    },
+    {
+      "name": "Uganda",
+      "label": "location",
+      "description": "A country in East Africa, with a diverse climate and geography",
+      "uuid": "cdb3d558-8f51-45bc-8845-7362c63aa0f7",
+      "score": 0.6831282588675
+    },
+    {
+      "name": "NHP",
+      "label": "location",
+      "description": "The Northern High Plains, a region in North America with a semi-arid climate",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5563198739359859
+    },
+    {
+      "name": "CHP",
+      "label": "location",
+      "description": "The Central High Plains, a region in North America with a semi-arid climate",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5779396676341636
+    }
+  ],
+  "(45633, 48436)": [
+    {
+      "name": "GISS",
+      "label": "model",
+      "description": "A global climate model developed by the Goddard Institute for Space Studies, used for simulating and predicting Earth's climate system",
+      "uuid": "b34605dc-d488-4596-8545-d3b37c5d126f",
+      "score": 0.6615806520145643
+    },
+    {
+      "name": "NHP",
+      "label": "location",
+      "description": "The Northern High Plains, a region in the United States known for its significant groundwater resources",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5350965270566825
+    },
+    {
+      "name": "CHP",
+      "label": "location",
+      "description": "The Central High Plains, a region in the United States characterized by its high plains and significant agricultural activities",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.6019384325908596
+    },
+    {
+      "name": "SHP",
+      "label": "location",
+      "description": "The Southern High Plains, a region in the United States known for its dry climate and significant water management challenges",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5180191535046116
+    },
+    {
+      "name": "High Plains Aquifer",
+      "label": "location",
+      "description": "A major aquifer in the United States, spanning across several states and providing significant groundwater resources",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5747779543598704
+    },
+    {
+      "name": "Soil Water Assessment Tool (SWAT)",
+      "label": "model",
+      "description": "A computer model used for simulating water flow, sediment, and chemical transport in watersheds",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5646650444956858
+    },
+    {
+      "name": "WAVES",
+      "label": "model",
+      "description": "A model used for simulating and analyzing water resources and climate change impacts",
+      "uuid": "98ff2ee3-a7fa-4b78-a281-b828547005d3",
+      "score": 0.5228303632913613
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028741732486364
+    },
+    {
+      "name": "Rosenberg et al. [1999]",
+      "label": "provider",
+      "description": "A research study or publication focused on climate change and its impacts on water resources",
+      "uuid": "b8c2ef9e-2683-4eca-b94a-0f6f4bbeb9db",
+      "score": 0.5098105820397879
+    },
+    {
+      "name": "Ng et al. [2010]",
+      "label": "provider",
+      "description": "A research study or publication focused on climate change and its impacts on water resources",
+      "uuid": "b8c2ef9e-2683-4eca-b94a-0f6f4bbeb9db",
+      "score": 0.501069961004316
+    },
+    {
+      "name": "Arnold et al. [1998]",
+      "label": "provider",
+      "description": "A research study or publication focused on the development of the Soil Water Assessment Tool (SWAT) model",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5486732428859946
+    },
+    {
+      "name": "Crosbie et al. [2011]",
+      "label": "provider",
+      "description": "A research study or publication focused on climate change and its impacts on water resources",
+      "uuid": "b8c2ef9e-2683-4eca-b94a-0f6f4bbeb9db",
+      "score": 0.5149699969024651
+    },
+    {
+      "name": "water resources management",
+      "label": "project",
+      "description": "The planning, development, and management of water resources to meet societal needs while ensuring sustainability",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6021784630341258
+    },
+    {
+      "name": "groundwater management",
+      "label": "project",
+      "description": "The planning, development, and management of groundwater resources to meet societal needs while ensuring sustainability",
+      "uuid": "96810430-e7e1-45eb-a4eb-8a7e17fe5076",
+      "score": 0.6733165516947232
+    },
+    {
+      "name": "base flow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river that is maintained by groundwater discharge",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.7252776773894486
+    },
+    {
+      "name": "water table",
+      "label": "variable",
+      "description": "The upper surface of the zone of saturation in the soil or rock, below which the ground is saturated with water",
+      "uuid": "ecbe9f17-6012-4e39-a707-713973b7d167",
+      "score": 0.728273064121486
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water is added to the groundwater system, often through precipitation or irrigation",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6470576976875382
+    }
+  ],
+  "(47914, 50584)": [
+    {
+      "name": "water resources management",
+      "label": "project",
+      "description": "The process of planning, developing, and managing water resources to meet the needs of people and the environment",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5933403308050101
+    },
+    {
+      "name": "base flow",
+      "label": "variable",
+      "description": "The steady, low-flow component of a stream's discharge, often maintained by groundwater inputs",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.7184115476580073
+    },
+    {
+      "name": "water table",
+      "label": "location",
+      "description": "The upper surface of the zone of saturation in the soil or rock, below which the ground is completely saturated with water",
+      "uuid": "ecbe9f17-6012-4e39-a707-713973b7d167",
+      "score": 0.7266292325509605
+    },
+    {
+      "name": "High Plains",
+      "label": "location",
+      "description": "A region in the United States, known for its significant groundwater resources and agricultural activities",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.6597076525399327
+    },
+    {
+      "name": "Texas",
+      "label": "location",
+      "description": "A state in the United States, part of the High Plains region",
+      "uuid": "0f01d3b9-3691-471e-b21b-3f42c512dcd2",
+      "score": 0.6520770269996763
+    },
+    {
+      "name": "New Mexico",
+      "label": "location",
+      "description": "A state in the United States, part of the High Plains region",
+      "uuid": "b8bdae16-f063-42a5-8d47-2ee863fa56e9",
+      "score": 0.6663596420076441
+    },
+    {
+      "name": "SD",
+      "label": "location",
+      "description": "The state of South Dakota in the United States",
+      "uuid": "d401d70a-eacf-4ee7-89a4-70b67f711ccd",
+      "score": 0.6211030347515568
+    },
+    {
+      "name": "WY",
+      "label": "location",
+      "description": "The state of Wyoming in the United States",
+      "uuid": "c2847793-0bb8-41cf-b3e0-d4e4b27914ce",
+      "score": 0.6194596149092877
+    },
+    {
+      "name": "NE",
+      "label": "location",
+      "description": "The state of Nebraska in the United States",
+      "uuid": "48c90518-9246-452b-8874-d50975e87ef6",
+      "score": 0.5581920424440036
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by long-term changes in the Earth's climate, influencing various environmental and societal aspects",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5831367528371549
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface, often used as a source of freshwater for human consumption, agriculture, and industry",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6916979305778288
+    }
+  ],
+  "(50098, 52937)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.748741754223816
+    },
+    {
+      "name": "vegetation type",
+      "label": "variable",
+      "description": "A characteristic of the land surface that can influence hydrological processes such as recharge",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5643719496325577
+    },
+    {
+      "name": "water resources management",
+      "label": "project",
+      "description": "The planning, development, and management of water resources to meet societal needs while ensuring sustainability",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6021784630341258
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water moves downward from the soil surface to the water table, replenishing groundwater",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6397105173557309
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A change in global or regional climate patterns, potentially influencing local hydrological processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5517617386197173
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028741732486364
+    },
+    {
+      "name": "High Plains",
+      "label": "location",
+      "description": "A region in North America, known for its significant role in hydrological and climate processes",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.6557801679361918
+    }
+  ],
+  "(52466, 53792)": [
+    {
+      "name": "High Plains",
+      "label": "location",
+      "description": "A region in the United States known for its semi-arid climate and significant agricultural production",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.7116744836738945
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028741732486364
+    },
+    {
+      "name": "PCMDI",
+      "label": "provider",
+      "description": "The Program for Climate Model Diagnosis and Intercomparison, an organization that supports the development and comparison of climate models",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.8211869569930886
+    },
+    {
+      "name": "WCRP",
+      "label": "provider",
+      "description": "The World Climate Research Programme, an international program that coordinates research on climate variability and change",
+      "uuid": "485e86f3-7cd1-43c0-bb02-a929b7d96e43",
+      "score": 0.7990378719210118
+    },
+    {
+      "name": "NCEP Reanalysis data",
+      "label": "dataset",
+      "description": "A dataset of atmospheric and oceanic reanalysis data provided by the National Centers for Environmental Prediction",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.6685666166897657
+    },
+    {
+      "name": "NOAA/OAR/ESRL PSD",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration's Earth System Research Laboratory Physical Sciences Division, a research institution that provides climate and weather data",
+      "uuid": "944a63c8-aa46-4181-9758-e4973588d785",
+      "score": 0.7940284552983948
+    },
+    {
+      "name": "U.S. Department of Energy",
+      "label": "provider",
+      "description": "A government agency that promotes energy security and develops new energy technologies",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6892628475722916
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, computational representations of the Earth's climate system used to simulate and predict climate change",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7344988129613867
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process of replenishing groundwater aquifers, an important aspect of hydrologic cycles and climate studies",
+      "uuid": "3609b843-d840-460c-b1a3-d4fcc69a32f6",
+      "score": 0.6827529227274941
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant life in a particular region, which can influence climate patterns and recharge rates",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6247721224671918
+    },
+    {
+      "name": "soil classes",
+      "label": "variable",
+      "description": "Categories of soil types, which can affect recharge rates and climate patterns",
+      "uuid": "2f57fd58-d8e4-4e6d-b8c3-2a9ef7e64f54",
+      "score": 0.5170761450744278
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the ground, an important aspect of climate studies and recharge patterns",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5094325360812523
+    },
+    {
+      "name": "RSF",
+      "label": "variable",
+      "description": "The Root Zone Soil Moisture, a measure of the amount of water in the soil, which can influence climate patterns and recharge rates",
+      "uuid": "4353d710-3d65-44b3-b988-26af1415646a",
+      "score": 0.5815397732519942
+    },
+    {
+      "name": "global warming scenario",
+      "label": "experiment",
+      "description": "A hypothetical scenario used to study the potential impacts of climate change on the environment",
+      "uuid": "6062293a-f372-4e65-9bab-27355f0ebc59",
+      "score": 0.5060037108825088
+    }
+  ]
+}

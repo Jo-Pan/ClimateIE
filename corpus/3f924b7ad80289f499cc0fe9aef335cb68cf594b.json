@@ -1,0 +1,1621 @@
+{
+  "(0, 2679)": [
+    {
+      "name": "Permafrost carbon feedback",
+      "label": "project",
+      "description": "A research initiative focused on understanding the impact of permafrost thaw on global climate warming through the release of carbon dioxide and methane emissions>",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6246586509841126
+    },
+    {
+      "name": "land models",
+      "label": "model",
+      "description": "Computational representations of land surface processes used to simulate and predict the behavior of permafrost and its impact on climate>",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.5639847507697354
+    },
+    {
+      "name": "methane",
+      "label": "variable",
+      "description": "A potent greenhouse gas released from permafrost thaw, contributing to global climate warming>",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6936867535013763
+    },
+    {
+      "name": "carbon dioxide",
+      "label": "variable",
+      "description": "A greenhouse gas released from permafrost thaw, contributing to global climate warming>",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.62387940883531
+    },
+    {
+      "name": "permafrost-soil carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between permafrost soils and the atmosphere, influenced by thawing and decomposition>",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.534731034937769
+    },
+    {
+      "name": "representative concentration pathways",
+      "label": "experiment",
+      "description": "Scenarios used to predict future climate change, including RCP4.5 and RCP8.5>",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5701225654579063
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A moderate representative concentration pathway scenario, predicting a lower level of greenhouse gas emissions>",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6234718114899472
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high representative concentration pathway scenario, predicting a higher level of greenhouse gas emissions>",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.675978493777273
+    },
+    {
+      "name": "earth system models",
+      "label": "model",
+      "description": "Comprehensive climate models that integrate physical, chemical, and biological processes to simulate the Earth's climate system>",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.5643275081442659
+    },
+    {
+      "name": "permafrost",
+      "label": "location",
+      "description": "A region of frozen soil and rock, storing large amounts of organic carbon>",
+      "uuid": "08240c92-00b5-4f25-bf2e-8030531a78d2",
+      "score": 0.7189446180960501
+    },
+    {
+      "name": "Northern permafrost soils",
+      "label": "location",
+      "description": "A specific region of permafrost soils in the Northern Hemisphere, representing a large terrestrial organic carbon pool>",
+      "uuid": "08240c92-00b5-4f25-bf2e-8030531a78d2",
+      "score": 0.5313494955604068
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "label": "provider",
+      "description": "An international organization assessing climate change science and providing guidance for policymakers>",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7135909147838253
+    },
+    {
+      "name": "IPCC's Fifth Assessment Report",
+      "label": "project",
+      "description": "A comprehensive report on climate change, published by the Intergovernmental Panel on Climate Change>",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5646333497847066
+    },
+    {
+      "name": "radiocarbon dating",
+      "label": "instrument",
+      "description": "A method used to determine the age of organic materials, including permafrost soils>",
+      "uuid": "8f4e90e0-aea0-40cd-b781-a6a69a6e6cb3",
+      "score": 0.5942279307957906
+    },
+    {
+      "name": "remote sensing",
+      "label": "instrument",
+      "description": "A technique used to collect data about the Earth's surface, including permafrost thaw and soil carbon emissions>",
+      "uuid": "c38e16d1-61f9-4189-a3c9-33e2015db137",
+      "score": 0.5228211057180354
+    }
+  ],
+  "(2258, 4868)": [
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A greenhouse gas concentration trajectory used in climate modeling to project future climate change, representing a high-emissions scenario",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6541711203237706
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6623960376795508
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas with a high global warming potential",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7069080307189805
+    },
+    {
+      "name": "PCF",
+      "label": "variable",
+      "description": "Permafrost carbon feedback, the release of carbon from thawing permafrost, which amplifies climate change",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5921739350615458
+    },
+    {
+      "name": "land-surface carbon models",
+      "label": "model",
+      "description": "Computational representations of carbon cycling in terrestrial ecosystems, used to simulate and predict carbon fluxes",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.5778750894940793
+    },
+    {
+      "name": "permafrost soils",
+      "label": "location",
+      "description": "Soils that remain frozen for two or more consecutive years, storing large amounts of carbon",
+      "uuid": "369c608c-787a-4ca6-8811-cc8eca7447d5",
+      "score": 0.6578247037689576
+    },
+    {
+      "name": "taliks",
+      "label": "location",
+      "description": "Unfrozen areas of soil or rock that form beneath thawing permafrost, often associated with thermokarst lakes",
+      "uuid": "78e5e44c-7832-456d-a599-893ea87ae695",
+      "score": 0.715645119494325
+    },
+    {
+      "name": "CLM4.5BGC",
+      "label": "model",
+      "description": "The Community Land Model version 4.5, a computational representation of terrestrial ecosystems and their interactions with the climate system",
+      "uuid": "38a54a71-d8fd-4be7-93f7-997fdb5a33f7",
+      "score": 0.6107691890571388
+    },
+    {
+      "name": "permafrost carbon processes",
+      "label": "variable",
+      "description": "The cycling of carbon in permafrost ecosystems, including thawing, decomposition, and emission of greenhouse gases",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5477085589270067
+    },
+    {
+      "name": "multiple soil organic carbon pools",
+      "label": "variable",
+      "description": "The different components of soil organic carbon in permafrost ecosystems, including active layer and permafrost carbon",
+      "uuid": "a85012cc-766c-43d3-958e-5c72ebada9d3",
+      "score": 0.5480487787519203
+    },
+    {
+      "name": "circumpolar permafrost-carbon emissions",
+      "label": "variable",
+      "description": "The release of carbon from permafrost ecosystems in the Arctic region, which contributes to climate change",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6019509027834236
+    },
+    {
+      "name": "seasonal active layer",
+      "label": "location",
+      "description": "The layer of soil that thaws and freezes seasonally in permafrost ecosystems, influencing carbon cycling and greenhouse gas emissions",
+      "uuid": "2e544263-d92f-46c2-9568-25e36d0b9825",
+      "score": 0.7121306464605327
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, which influences permafrost thaw and carbon cycling in terrestrial ecosystems",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.5854217523641563
+    }
+  ],
+  "(4434, 7202)": [
+    {
+      "name": "permafrost",
+      "label": "location",
+      "description": "A region of frozen soil and rock, typically found in high-latitude or high-altitude areas, that plays a crucial role in the global carbon cycle",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.7272427758208638
+    },
+    {
+      "name": "carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between different components of the Earth's system, including the atmosphere, oceans, and land",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.7341863481678448
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas that contributes to global warming",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7168156474600644
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6623960376795508
+    },
+    {
+      "name": "circumpolar permafrost-carbon radiative effect",
+      "label": "variable",
+      "description": "The radiative forcing due to atmospheric perturbations in CH4 and CO2 concentration for permafrost-soil-carbon flux trajectories",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5194858959486848
+    },
+    {
+      "name": "National Center for Atmospheric Research",
+      "label": "provider",
+      "description": "An American research institution focused on atmospheric science and climate research",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.6823382872767944
+    },
+    {
+      "name": "permafrost-carbon emissions",
+      "label": "variable",
+      "description": "The release of carbon from permafrost soils, which can contribute to global warming",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6333304993557561
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The change in the balance between the amount of energy absorbed by the Earth and the amount of energy emitted back into space, often used to quantify the impact of greenhouse gases on the climate",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7928463422151331
+    }
+  ],
+  "(6796, 9232)": [
+    {
+      "name": "CLM4.5BGC",
+      "label": "model",
+      "description": "The Community Land Model version 4.5 with Biogeochemistry, a climate model used to simulate land surface processes and carbon cycling>",
+      "uuid": "38a54a71-d8fd-4be7-93f7-997fdb5a33f7",
+      "score": 0.619249324931322
+    },
+    {
+      "name": "permafrost region",
+      "label": "location",
+      "description": "A geographic area where the ground remains frozen for two or more consecutive years, storing large amounts of carbon>",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.6739396931469244
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas released from thawing permafrost>",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.6580031636957601
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States with significant permafrost coverage>",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.6038073373553874
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An island in the North Atlantic with extensive permafrost and ice sheets>",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.6569856205898504
+    },
+    {
+      "name": "earth system models",
+      "label": "model",
+      "description": "Complex computer models that simulate the Earth's climate system, including the interactions between atmosphere, oceans, land, and ice>",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.5612917304412036
+    },
+    {
+      "name": "permafrost-carbon emissions",
+      "label": "variable",
+      "description": "The release of carbon from thawing permafrost, contributing to climate change>",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6649431793593331
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The change in energy balance of the Earth's climate system, often used to quantify the impact of greenhouse gases>",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.8035142289742973
+    },
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "The increase in global temperatures due to human activities, leading to thawing of permafrost and other climate-related changes>",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6765591922520992
+    }
+  ],
+  "(8767, 11578)": [
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "A period of long-term increase in global temperatures, often associated with human activities and greenhouse gas emissions",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6524894493995651
+    },
+    {
+      "name": "early Holocene",
+      "label": "location",
+      "description": "A geological epoch that spans from approximately 11,700 to 5,000 years ago, characterized by significant changes in Earth's climate and ecosystems",
+      "uuid": "e000088a-8252-4603-ba55-38189c45612c",
+      "score": 0.6423735927972983
+    },
+    {
+      "name": "carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between different components of the Earth's system, including the atmosphere, oceans, and land surfaces",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.7359358352514432
+    },
+    {
+      "name": "permafrost carbon emissions",
+      "label": "variable",
+      "description": "The release of carbon dioxide and methane from thawing permafrost, a potential feedback loop amplifying climate change",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6748132375759915
+    },
+    {
+      "name": "upland terrestrial ecosystems",
+      "label": "location",
+      "description": "Land-based ecosystems found in higher elevations, often characterized by lower carbon fluxes compared to wetland or lake ecosystems",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.5934035693806837
+    },
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellites providing high-resolution imagery for land use, climate, and environmental studies",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7302434262715081
+    },
+    {
+      "name": "Holocene optimum",
+      "label": "weather event",
+      "description": "A period of relatively warm climate during the Holocene epoch, often used as a reference point for studying past climate variability",
+      "uuid": "e000088a-8252-4603-ba55-38189c45612c",
+      "score": 0.5502089378334699
+    },
+    {
+      "name": "pan-arctic regions",
+      "label": "location",
+      "description": "The Arctic region, encompassing the northernmost parts of Europe, Asia, and North America, characterized by unique and sensitive ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.6656735891025855
+    },
+    {
+      "name": "aerial photographs",
+      "label": "instrument",
+      "description": "Images taken from aircraft, used for monitoring and analyzing changes in the environment, including thermokarst-lake formation and surface ice-wedge melt",
+      "uuid": "3cb5948f-2a92-4c2a-9410-eb17a1045d8e",
+      "score": 0.5450895002943333
+    }
+  ],
+  "(11065, 13593)": [
+    {
+      "name": "Holocene",
+      "label": "location",
+      "description": "A geological epoch that spans from approximately 11,700 years ago to the present, characterized by a relatively stable climate",
+      "uuid": "e000088a-8252-4603-ba55-38189c45612c",
+      "score": 0.7912704670619598
+    },
+    {
+      "name": "land-surface models",
+      "label": "model",
+      "description": "Computational representations of land surface processes used to simulate and predict land-atmosphere interactions and carbon cycling",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.6574109844056724
+    },
+    {
+      "name": "abrupt permafrost thaw",
+      "label": "natural hazard",
+      "description": "A rapid and significant thawing of permafrost, leading to the release of stored carbon and potential changes in ecosystems and climate",
+      "uuid": "ed0501c5-310c-42ab-b1eb-66e211f22803",
+      "score": 0.5676809761192878
+    },
+    {
+      "name": "permafrost-carbon emissions",
+      "label": "variable",
+      "description": "The release of carbon from thawing permafrost, which can contribute to climate change",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6515236863668228
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "A region located at the northernmost part of the Earth, characterized by cold temperatures, ice, and unique ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.8110346025159604
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes a moderate increase in greenhouse gas emissions and a peak in radiative forcing by 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6069996780497993
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes a high increase in greenhouse gas emissions and a continued rise in radiative forcing throughout the 21st century",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6899756221473929
+    },
+    {
+      "name": "CLM",
+      "label": "model",
+      "description": "The Community Land Model, a computational representation of land surface processes used to simulate and predict land-atmosphere interactions and carbon cycling",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6601390194384196
+    },
+    {
+      "name": "PCF",
+      "label": "variable",
+      "description": "Permafrost carbon feedback, the process by which thawing permafrost releases stored carbon, leading to an amplification of climate change",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5798501212466503
+    },
+    {
+      "name": "CPCRE",
+      "label": "variable",
+      "description": "Circumpolar permafrost carbon emissions, the release of carbon from thawing permafrost in the Arctic region",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5587448295007627
+    }
+  ],
+  "(13146, 15513)": [
+    {
+      "name": "permafrost-carbon emissions",
+      "label": "variable",
+      "description": "The release of carbon from permafrost due to thawing, contributing to climate change",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6573676724681415
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling to predict future climate changes with moderate greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.625386046412572
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling to predict future climate changes with high greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6775197289870706
+    },
+    {
+      "name": "permafrost-dominated landscape",
+      "label": "location",
+      "description": "Areas of land where permafrost is prevalent, often found in high-latitude regions",
+      "uuid": "b6723314-3db7-4bdd-85ee-0b8507e6ae1b",
+      "score": 0.571546458004351
+    },
+    {
+      "name": "active layer soils",
+      "label": "location",
+      "description": "The top layer of soil in permafrost regions that thaws and freezes seasonally, playing a crucial role in carbon cycling",
+      "uuid": "2e544263-d92f-46c2-9568-25e36d0b9825",
+      "score": 0.7410797257232571
+    },
+    {
+      "name": "climate mitigation scenarios",
+      "label": "project",
+      "description": "Strategies and plans developed to reduce greenhouse gas emissions and mitigate the effects of climate change",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.5808370289848113
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas that contributes to climate change",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7207091008277234
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6657960623838751
+    },
+    {
+      "name": "CLM",
+      "label": "model",
+      "description": "The Community Land Model, a computational model used to simulate land surface processes and their interactions with the climate system",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6624839221559043
+    }
+  ],
+  "(15096, 17539)": [
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas with a high global warming potential",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7069080307189805
+    },
+    {
+      "name": "CPCRE",
+      "label": "variable",
+      "description": "Cumulative Permafrost Carbon Release Equivalent, a measure of the total amount of carbon released from permafrost thaw",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5228783727571548
+    },
+    {
+      "name": "CLM",
+      "label": "model",
+      "description": "The Community Land Model, a numerical model used to simulate land surface processes and carbon cycling",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6528494852241776
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario assuming high greenhouse gas emissions and minimal climate change mitigation efforts",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6773196873102961
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario assuming moderate greenhouse gas emissions and some climate change mitigation efforts",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.630628665922895
+    },
+    {
+      "name": "permafrost",
+      "label": "location",
+      "description": "A region of frozen soil and rock, typically found in high-latitude or high-altitude areas",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.7394883025963132
+    },
+    {
+      "name": "old permafrost carbon",
+      "label": "variable",
+      "description": "Carbon stored in permafrost for thousands of years, released as permafrost thaws",
+      "uuid": "369c608c-787a-4ca6-8811-cc8eca7447d5",
+      "score": 0.5224083608860332
+    },
+    {
+      "name": "talik",
+      "label": "location",
+      "description": "A layer of unfrozen soil or rock beneath a lake or wetland in permafrost regions",
+      "uuid": "78e5e44c-7832-456d-a599-893ea87ae695",
+      "score": 0.7191519990399795
+    },
+    {
+      "name": "AEM",
+      "label": "instrument",
+      "description": "Airborne Electromagnetic surveying, a method used to measure the depth of talik and permafrost",
+      "uuid": "3a45d262-7ff0-4f69-8e31-48f56a7edb82",
+      "score": 0.6315948243510996
+    },
+    {
+      "name": "helicopter-borne",
+      "label": "platform",
+      "description": "A helicopter-mounted system used to conduct airborne surveys and measurements",
+      "uuid": "06e037ed-f463-4fa3-a23e-8f694b321eb1",
+      "score": 0.5256209420074277
+    },
+    {
+      "name": "lake CH4 emissions",
+      "label": "variable",
+      "description": "Methane emissions from lakes, which can be an important source of greenhouse gas emissions in permafrost regions",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.513144025872212
+    },
+    {
+      "name": "active layer",
+      "label": "location",
+      "description": "The top layer of soil in permafrost regions, which thaws and freezes seasonally",
+      "uuid": "2e544263-d92f-46c2-9568-25e36d0b9825",
+      "score": 0.7737042243108223
+    },
+    {
+      "name": "active-layer-soil carbon mineralization",
+      "label": "variable",
+      "description": "The process by which carbon is released from the active layer of permafrost soils as they thaw and decompose",
+      "uuid": "10270ee0-8d85-4c75-9fa2-49e7a9755cb3",
+      "score": 0.5334835100478191
+    },
+    {
+      "name": "land surface model",
+      "label": "model",
+      "description": "A numerical model used to simulate the exchange of energy, water, and carbon between the land surface and the atmosphere",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.6003004315197195
+    },
+    {
+      "name": "NEE",
+      "label": "variable",
+      "description": "Net Ecosystem Exchange, a measure of the net carbon flux between the land surface and the atmosphere",
+      "uuid": "f6a8db71-9686-46ec-a3ac-66ca4a0ec1bd",
+      "score": 0.7945388461111919
+    }
+  ],
+  "(17146, 19775)": [
+    {
+      "name": "upland tundra",
+      "label": "location",
+      "description": "A type of Arctic landscape characterized by treeless, rolling hills and permafrost",
+      "uuid": "46ecf46f-a710-4589-82b2-34aebf35c3c0",
+      "score": 0.5796151090201616
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An island in the North Atlantic where permafrost thaw and its impacts have been researched",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.6053372519785687
+    },
+    {
+      "name": "permafrost",
+      "label": "natural hazard",
+      "description": "A type of soil or rock that remains frozen for two or more consecutive years, storing large amounts of carbon",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.730042939758474
+    },
+    {
+      "name": "talik",
+      "label": "location",
+      "description": "A layer of unfrozen soil or rock beneath a lake or river in permafrost regions",
+      "uuid": "78e5e44c-7832-456d-a599-893ea87ae695",
+      "score": 0.7190185947066294
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "net surface carbon fluxes",
+      "label": "variable",
+      "description": "The rate at which carbon is exchanged between the atmosphere and the land surface",
+      "uuid": "9e551d24-6772-4e66-ba29-edcfee2e02fa",
+      "score": 0.6247518971911782
+    },
+    {
+      "name": "radiocarbon age",
+      "label": "variable",
+      "description": "A measure of the age of carbon in a sample, used to track the movement of carbon through the environment",
+      "uuid": "bf0db125-0182-42e7-81c9-6ed55a05ddd0",
+      "score": 0.6338397832186522
+    },
+    {
+      "name": "groundwater system",
+      "label": "location",
+      "description": "The zone of saturated soil and rock beneath the Earth's surface, where water flows and is stored",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6037445309690697
+    },
+    {
+      "name": "permafrost-carbon source",
+      "label": "variable",
+      "description": "The amount of carbon stored in permafrost, which can be released into the atmosphere as the permafrost thaws",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5601577921985746
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the air, influencing the Earth's climate and hydrological cycle",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7073928095172193
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where climate processes and carbon cycling occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.5664099445688036
+    }
+  ],
+  "(19312, 21822)": [
+    {
+      "name": "groundwater system",
+      "label": "location",
+      "description": "A subsurface water system that stores and transmits water through aquifers and soil pores",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6070639797629999
+    },
+    {
+      "name": "lake basins",
+      "label": "location",
+      "description": "Depressions in the Earth's surface that hold water and can be connected to the groundwater system",
+      "uuid": "272700c5-d762-452b-8e9f-130e3a51efb5",
+      "score": 0.5060672672371745
+    },
+    {
+      "name": "carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between the atmosphere, oceans, and terrestrial ecosystems, essential for studying the carbon cycle",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.7274172363505753
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario used in climate modeling to predict future climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6724790259519281
+    },
+    {
+      "name": "permafrost land areas",
+      "label": "location",
+      "description": "Regions of the Earth where the soil and rock remain frozen for two or more consecutive years",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.6844827884085622
+    },
+    {
+      "name": "CPCRE",
+      "label": "variable",
+      "description": "The cumulative permafrost carbon release to the atmosphere, an important metric for understanding climate change",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5421890187607729
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A moderate climate mitigation scenario used in climate modeling to predict future climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6115354445223693
+    }
+  ],
+  "(21432, 24041)": [
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "A potent greenhouse gas, methane, whose increase in atmospheric concentration is a concern for global climate change",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.6731050298199989
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a moderate mitigation strategy",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6182827481390726
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a high-emissions scenario",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6787860988144387
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas whose increasing atmospheric concentration is a primary driver of global climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6825688278322419
+    },
+    {
+      "name": "permafrost",
+      "label": "location",
+      "description": "A region of soil and rock that remains frozen for two or more consecutive years, storing significant amounts of carbon",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.737324970140586
+    },
+    {
+      "name": "lake taliks",
+      "label": "location",
+      "description": "Thawed areas beneath lakes in permafrost regions, contributing to carbon emissions",
+      "uuid": "78e5e44c-7832-456d-a599-893ea87ae695",
+      "score": 0.6312507958193712
+    },
+    {
+      "name": "CLM4.5BGC",
+      "label": "model",
+      "description": "The Community Land Model version 4.5 with biogeochemistry, used to simulate permafrost processes and carbon emissions",
+      "uuid": "38a54a71-d8fd-4be7-93f7-997fdb5a33f7",
+      "score": 0.5875074517823262
+    },
+    {
+      "name": "AThaw",
+      "label": "model",
+      "description": "A model parameterizing soil thaw rates in permafrost regions",
+      "uuid": "0a23c6c7-d4e5-4ab4-a906-03e9b9bbee64",
+      "score": 0.5068060067018144
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an organization assessing climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7505393212951953
+    },
+    {
+      "name": "permafrost-carbon emissions",
+      "label": "variable",
+      "description": "The release of carbon from thawing permafrost, contributing to greenhouse gas emissions",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6585744030006668
+    },
+    {
+      "name": "Land Use Change",
+      "label": "variable",
+      "description": "Changes in the way land is used, such as deforestation or urbanization, affecting carbon emissions",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5425742090299648
+    }
+  ],
+  "(23586, 26287)": [
+    {
+      "name": "CLM4.5BGC",
+      "label": "model",
+      "description": "A climate model that simulates the carbon cycle and permafrost degradation, including gradual thaw in terrestrial uplands",
+      "uuid": "38a54a71-d8fd-4be7-93f7-997fdb5a33f7",
+      "score": 0.55057257581905
+    },
+    {
+      "name": "permafrost carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in permafrost, which can be released as the permafrost thaws",
+      "uuid": "369c608c-787a-4ca6-8811-cc8eca7447d5",
+      "score": 0.5812501739188211
+    },
+    {
+      "name": "active layer",
+      "label": "variable",
+      "description": "The layer of soil and rock that thaws and freezes seasonally, playing a crucial role in permafrost degradation",
+      "uuid": "2e544263-d92f-46c2-9568-25e36d0b9825",
+      "score": 0.7597876496136177
+    },
+    {
+      "name": "active layer depth",
+      "label": "variable",
+      "description": "The thickness of the active layer, which can vary depending on factors such as climate and soil properties",
+      "uuid": "2e544263-d92f-46c2-9568-25e36d0b9825",
+      "score": 0.6732820369123973
+    },
+    {
+      "name": "surface air temperatures",
+      "label": "variable",
+      "description": "The temperature of the air near the surface of the Earth, which can influence permafrost degradation and carbon release",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.601022791093925
+    },
+    {
+      "name": "talik",
+      "label": "variable",
+      "description": "A layer of thawed soil or rock beneath a thermokarst lake, which can play a role in carbon release and permafrost degradation",
+      "uuid": "78e5e44c-7832-456d-a599-893ea87ae695",
+      "score": 0.7034217849061325
+    },
+    {
+      "name": "biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of elements and compounds between living organisms and the environment, including the release of carbon from permafrost",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.6493428042157949
+    },
+    {
+      "name": "organic matter",
+      "label": "variable",
+      "description": "The remains of plants and animals that are stored in soils and sediments, which can release carbon as they decompose",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.6848735088268724
+    },
+    {
+      "name": "carbon fluxes",
+      "label": "variable",
+      "description": "The movement of carbon between different reservoirs, including the release of carbon from permafrost and its uptake by vegetation",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.6694416099406045
+    },
+    {
+      "name": "permafrost degradation",
+      "label": "natural hazard",
+      "description": "The thawing of permafrost, which can lead to the release of stored carbon and influence local and global climate conditions",
+      "uuid": "ed0501c5-310c-42ab-b1eb-66e211f22803",
+      "score": 0.611161018812734
+    }
+  ],
+  "(25879, 28561)": [
+    {
+      "name": "AThaw",
+      "label": "model",
+      "description": "A climate model that simulates the release of carbon from permafrost soils due to thawing, taking into account factors such as soil physics, carbon quantity and quality, and biogeochemistry",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.52598355922241
+    },
+    {
+      "name": "permafrost soils",
+      "label": "location",
+      "description": "Soils that remain frozen for two or more consecutive years, typically found in high-latitude regions and storing significant amounts of carbon",
+      "uuid": "fb3ce3be-d830-407f-bd7c-58d66c24b6be",
+      "score": 0.6740948637603041
+    },
+    {
+      "name": "soil organic matter",
+      "label": "variable",
+      "description": "The amount of organic carbon stored in soils, which can be released as greenhouse gases when soils thaw",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.6663784439410853
+    },
+    {
+      "name": "carbon pools",
+      "label": "variable",
+      "description": "The reservoirs of carbon in the environment, including passive, slow, and fast cycling pools with different decomposition timescales",
+      "uuid": "a85012cc-766c-43d3-958e-5c72ebada9d3",
+      "score": 0.5198170864571651
+    },
+    {
+      "name": "Community Land Model (CLM4.5)",
+      "label": "model",
+      "description": "A land surface model used to simulate the exchange of energy, water, and carbon between the land and atmosphere",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6237153480806218
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, characterized by cold temperatures, ice, and permafrost",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7366861159486212
+    },
+    {
+      "name": "surface air temperature anomaly",
+      "label": "variable",
+      "description": "The difference between the current surface air temperature and a reference temperature, often used to study climate change",
+      "uuid": "904f3b34-20c8-4eb8-bf68-6304edecf945",
+      "score": 0.6504547478794105
+    },
+    {
+      "name": "near-surface ground ice",
+      "label": "variable",
+      "description": "Ice found near the surface of permafrost soils, which can melt and contribute to thermokarst lake formation",
+      "uuid": "5b4dde5a-733e-4e55-97c9-2108b337cfeb",
+      "score": 0.5599100709959363
+    },
+    {
+      "name": "sub-lake taliks",
+      "label": "location",
+      "description": "Unfrozen zones beneath lakes, which can form when the lake water is warmer than the surrounding permafrost",
+      "uuid": "78e5e44c-7832-456d-a599-893ea87ae695",
+      "score": 0.6113919349278488
+    },
+    {
+      "name": "biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of elements and compounds between living organisms and the environment",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.6686297487698606
+    }
+  ],
+  "(28110, 30845)": [
+    {
+      "name": "early Holocene",
+      "label": "time period",
+      "description": "A geological epoch that occurred approximately 11,700 to 5,200 years ago, characterized by significant climate changes",
+      "uuid": "e000088a-8252-4603-ba55-38189c45612c",
+      "score": 0.6356218325558236
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "A region located at the northernmost tip of the Earth, characterized by cold temperatures and permafrost",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7767238163951848
+    },
+    {
+      "name": "permafrost soils",
+      "label": "variable",
+      "description": "Soils that remain frozen for two or more consecutive years, often found in Arctic regions",
+      "uuid": "fb3ce3be-d830-407f-bd7c-58d66c24b6be",
+      "score": 0.6717283397944002
+    },
+    {
+      "name": "organic soil surfaces",
+      "label": "variable",
+      "description": "Soil surfaces composed of organic matter, which can protect permafrost from warming and thawing",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.5078664578561799
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to study climate change",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6708024119011121
+    },
+    {
+      "name": "lake area",
+      "label": "variable",
+      "description": "The surface area of a lake, often used to study lake dynamics and thermokarst activity",
+      "uuid": "d52e6680-dbf6-4e64-91a5-061001cceded",
+      "score": 0.5080859998429873
+    },
+    {
+      "name": "model ensemble",
+      "label": "experiment",
+      "description": "A set of multiple model runs with varying parameters, used to capture uncertainty in model predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.603010862436313
+    },
+    {
+      "name": "Northern Hemisphere land areas",
+      "label": "location",
+      "description": "The land areas located in the Northern Hemisphere, which have experienced significant climate changes throughout history",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.6065925769988684
+    },
+    {
+      "name": "permafrost temperature",
+      "label": "variable",
+      "description": "The temperature of permafrost soils, which can affect thermokarst lake formation and drainage",
+      "uuid": "d8606e80-3d34-4540-a355-5f99737f7ab7",
+      "score": 0.6784054569279266
+    },
+    {
+      "name": "active layer deepening",
+      "label": "variable",
+      "description": "The process of the active layer, the top layer of soil that thaws and freezes seasonally, becoming deeper due to climate warming",
+      "uuid": "2e544263-d92f-46c2-9568-25e36d0b9825",
+      "score": 0.6499768512881365
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, often used to study climate change and its effects on permafrost",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6368661329266392
+    },
+    {
+      "name": "coldest permafrost regions",
+      "label": "location",
+      "description": "The regions with the coldest permafrost temperatures, often found in Arctic areas",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.5481080926529656
+    }
+  ],
+  "(30384, 33016)": [
+    {
+      "name": "permafrost warming",
+      "label": "natural hazard",
+      "description": "The warming of permafrost, a frozen soil layer, due to climate change, leading to thawing and degradation of the soil and associated ecosystems",
+      "uuid": "ed0501c5-310c-42ab-b1eb-66e211f22803",
+      "score": 0.6229452621961672
+    },
+    {
+      "name": "Arctic regions",
+      "label": "location",
+      "description": "The northernmost parts of the Earth, characterized by cold temperatures, ice, and unique ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7713312697696579
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, an important factor in climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6499825823714612
+    },
+    {
+      "name": "Canadian Arctic Archipelago",
+      "label": "location",
+      "description": "A group of islands in the Canadian Arctic, known for their cold climate and unique geological features",
+      "uuid": "cbd0d3aa-ef63-4920-bd0d-75ca27cf6066",
+      "score": 0.7381383690065632
+    },
+    {
+      "name": "climatic warming",
+      "label": "weather event",
+      "description": "The increase in global temperatures due to climate change, leading to changes in weather patterns and ecosystems",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6211445817801605
+    },
+    {
+      "name": "coldest permafrost regions",
+      "label": "location",
+      "description": "The areas with the coldest permafrost, typically found in the Arctic and sub-Arctic regions",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.560579154051955
+    },
+    {
+      "name": "active layer deepening",
+      "label": "natural hazard",
+      "description": "The process of the active layer, the top layer of soil that thaws and freezes seasonally, becoming deeper due to permafrost thawing",
+      "uuid": "2e544263-d92f-46c2-9568-25e36d0b9825",
+      "score": 0.6609336772483614
+    },
+    {
+      "name": "northern Alaska",
+      "label": "location",
+      "description": "The northern part of the state of Alaska, known for its cold climate and unique ecosystems",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.539718645668961
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway, a scenario used to model the effects of climate change, with a radiative forcing of 4.5 W/m\u00b2 by 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6171012413594609
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway, a scenario used to model the effects of climate change, with a radiative forcing of 8.5 W/m\u00b2 by 2100",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6925291587609927
+    }
+  ],
+  "(32553, 35307)": [
+    {
+      "name": "paleoenvironmental evidence",
+      "label": "variable",
+      "description": "Information about past environmental conditions, used to inform and validate climate models",
+      "uuid": "c9a5b3eb-7556-41a8-a2b8-c015db80e5b2",
+      "score": 0.5451009604885702
+    },
+    {
+      "name": "historical observations",
+      "label": "variable",
+      "description": "Data collected from past events or periods, used to understand and predict future climate patterns",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5189867838905003
+    },
+    {
+      "name": "permafrost dynamics",
+      "label": "variable",
+      "description": "The processes and changes that occur in permafrost, including thawing and freezing, which impact the climate system",
+      "uuid": "ed0501c5-310c-42ab-b1eb-66e211f22803",
+      "score": 0.5407861008159218
+    },
+    {
+      "name": "PCF",
+      "label": "variable",
+      "description": "Permafrost carbon feedback, the process by which thawing permafrost releases carbon into the atmosphere, amplifying climate change",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5802753900035592
+    },
+    {
+      "name": "high latitude warming",
+      "label": "variable",
+      "description": "The increase in temperature at high latitudes, which can lead to permafrost thawing and other climate-related changes",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5181189984087606
+    },
+    {
+      "name": "Arctic climatic zones",
+      "label": "location",
+      "description": "Regions in the Arctic with distinct climate characteristics, including temperature, precipitation, and permafrost conditions",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.5771478619645218
+    },
+    {
+      "name": "permafrost temperatures",
+      "label": "variable",
+      "description": "The temperatures of permafrost, which can impact its stability and thawing rate",
+      "uuid": "d8606e80-3d34-4540-a355-5f99737f7ab7",
+      "score": 0.6681276574942997
+    },
+    {
+      "name": "ground ice content",
+      "label": "variable",
+      "description": "The amount of ice present in the ground, which can affect permafrost thawing and thermokarst lake formation",
+      "uuid": "4931dcac-8b89-4bc9-ba59-469cfdcf6f12",
+      "score": 0.6071686891260695
+    },
+    {
+      "name": "ice-layer thickness",
+      "label": "variable",
+      "description": "The depth of ice layers in permafrost, which can influence its thawing rate and stability",
+      "uuid": "9c1c8ef1-d196-471a-b610-8d06d75008e6",
+      "score": 0.5546678126997575
+    },
+    {
+      "name": "RCP scenarios",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, scenarios of future greenhouse gas concentrations and climate change, used for modeling and prediction",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5708272592224026
+    },
+    {
+      "name": "CMIP5 models",
+      "label": "model",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing and evaluating climate models",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.7826833438679603
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the atmosphere, which can impact the climate system",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7008324357698292
+    },
+    {
+      "name": "methane",
+      "label": "variable",
+      "description": "A potent greenhouse gas, which can be released from permafrost and thermokarst lakes, contributing to climate change",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6418400634257484
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to climate change, which can be released from permafrost and thermokarst lakes",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.5862157826816584
+    }
+  ],
+  "(34844, 37489)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "AThaw",
+      "label": "model",
+      "description": "A model simulating pan-Arctic CH4 and CO2 release from thermokarst lakes, driven by temperature changes and thawing of permafrost",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5009102307023031
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The northernmost region of the Earth, characterized by cold temperatures, ice, and permafrost",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7671301786425749
+    },
+    {
+      "name": "methane",
+      "label": "variable",
+      "description": "A potent greenhouse gas released from thawing permafrost and thermokarst lakes",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6492259966963803
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas released from thawing permafrost and thermokarst lakes",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5666412226427998
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7470823172044253
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water falling to the Earth's surface, influencing the water balance and climate",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6637834756114647
+    },
+    {
+      "name": "atmospheric temperature anomalies",
+      "label": "variable",
+      "description": "Changes in atmospheric temperature relative to a reference value, driving thawing of permafrost and lake bottom temperatures",
+      "uuid": "7ca345d4-8e15-49ae-98a7-1c387f61ea85",
+      "score": 0.6123551247172697
+    },
+    {
+      "name": "talik",
+      "label": "location",
+      "description": "A layer of unfrozen soil beneath a lake or river, formed by the thermal influence of the water body",
+      "uuid": "78e5e44c-7832-456d-a599-893ea87ae695",
+      "score": 0.6920852969810644
+    },
+    {
+      "name": "permafrost",
+      "label": "location",
+      "description": "A type of soil or rock that remains frozen for two or more consecutive years, storing large amounts of carbon",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.730042939758474
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario of high greenhouse gas emissions, used to simulate future climate change and its impacts",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6774823199386029
+    }
+  ],
+  "(37089, 39466)": [
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A climate change scenario that represents a high-emissions pathway, used to simulate future climate conditions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6890088615275312
+    },
+    {
+      "name": "permafrost region",
+      "label": "location",
+      "description": "A geographic area where the ground remains frozen for two or more consecutive years, typically found in Arctic and sub-Arctic regions",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.6842904884886625
+    },
+    {
+      "name": "talik",
+      "label": "variable",
+      "description": "A layer of unfrozen ground within permafrost, which can form due to thermal or hydrological processes",
+      "uuid": "78e5e44c-7832-456d-a599-893ea87ae695",
+      "score": 0.7573723559304468
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The northernmost region of the Earth, characterized by cold temperatures, ice, and permafrost",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7671301786425749
+    }
+  ],
+  "(39138, 41404)": [
+    {
+      "name": "lakes",
+      "label": "location",
+      "description": "Bodies of water formed in depressions in the Earth's surface, often found in permafrost regions and contributing to methane emissions>",
+      "uuid": "3d64f625-fb84-4178-ad08-4be2dd15979b",
+      "score": 0.605372477331528
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A climate change scenario representing a high-emissions future, used to model and predict environmental impacts>",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6738765219604477
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A climate change scenario representing a medium-emissions future, used to model and predict environmental impacts>",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6275489652263221
+    },
+    {
+      "name": "permafrost domain",
+      "label": "location",
+      "description": "The area of the Arctic where permafrost is found, encompassing regions with frozen soil and rock>",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.6478073564034649
+    },
+    {
+      "name": "Holocene",
+      "label": "natural hazard",
+      "description": "The current geological epoch, characterized by significant climate variability and human impact on the environment>",
+      "uuid": "e000088a-8252-4603-ba55-38189c45612c",
+      "score": 0.7425320366282117
+    },
+    {
+      "name": "ground subsidence",
+      "label": "natural hazard",
+      "description": "The sinking or collapse of the ground surface due to thawing permafrost or other geological processes>",
+      "uuid": "ba064d3f-0327-49d2-9984-332de1a97146",
+      "score": 0.6048058082325954
+    },
+    {
+      "name": "methane emissions",
+      "label": "variable",
+      "description": "The release of methane, a potent greenhouse gas, into the atmosphere, often resulting from permafrost thaw>",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.6297680434627156
+    },
+    {
+      "name": "permafrost ice concentration",
+      "label": "variable",
+      "description": "The amount of ice present in permafrost soils, influencing their potential for thaw and methane emission>",
+      "uuid": "369c608c-787a-4ca6-8811-cc8eca7447d5",
+      "score": 0.5708624807393498
+    }
+  ],
+  "(41024, 43638)": [
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario used in climate modeling to predict future environmental changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6728616373437919
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A medium-emissions scenario used in climate modeling to predict future environmental changes",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6252746832281542
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas that contributes to global warming",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7168156474600644
+    },
+    {
+      "name": "pan-arctic",
+      "label": "location",
+      "description": "The Arctic region, including the Arctic Ocean and surrounding land masses",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.5954307291005858
+    },
+    {
+      "name": "abrupt-thaw emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases from permafrost that thaws suddenly",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5526000302842419
+    },
+    {
+      "name": "Supplementary Data 1",
+      "label": "dataset",
+      "description": "A collection of data used to support the research findings",
+      "uuid": "7f40895f-fb79-4587-acac-37b2dedcd16f",
+      "score": 0.5114047559709706
+    },
+    {
+      "name": "Quebec",
+      "label": "location",
+      "description": "A province in Canada where permafrost thaw and lake expansion are occurring",
+      "uuid": "c977c83a-f171-4337-8001-abb2539cdc76",
+      "score": 0.5474127574109351
+    },
+    {
+      "name": "talik",
+      "label": "variable",
+      "description": "A layer of thawed soil or rock that forms beneath a lake or other body of water",
+      "uuid": "78e5e44c-7832-456d-a599-893ea87ae695",
+      "score": 0.6746570993682082
+    },
+    {
+      "name": "permafrost degradation",
+      "label": "natural hazard",
+      "description": "The process of permafrost thawing and releasing stored carbon and other substances",
+      "uuid": "ed0501c5-310c-42ab-b1eb-66e211f22803",
+      "score": 0.5732139797827224
+    },
+    {
+      "name": "permafrost thaw",
+      "label": "natural hazard",
+      "description": "The process of permafrost thawing and releasing stored carbon and other substances",
+      "uuid": "478092f3-7cdd-4136-84ec-cebf0d539480",
+      "score": 0.5922494084168934
+    },
+    {
+      "name": "cold continuous permafrost zone",
+      "label": "location",
+      "description": "A region where permafrost is continuous and frozen for long periods of time",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.602654316213488
+    },
+    {
+      "name": "coastal erosion",
+      "label": "natural hazard",
+      "description": "The process of soil or rock being worn away by the ocean or other bodies of water",
+      "uuid": "cd7a7748-7231-4a73-b85c-b5696066230a",
+      "score": 0.6199916539957242
+    },
+    {
+      "name": "river erosion",
+      "label": "natural hazard",
+      "description": "The process of soil or rock being worn away by rivers or streams",
+      "uuid": "cd7a7748-7231-4a73-b85c-b5696066230a",
+      "score": 0.5343393939304155
+    }
+  ],
+  "(43157, 46020)": [
+    {
+      "name": "cold continuous permafrost zone",
+      "label": "location",
+      "description": "A region characterized by continuous permafrost, where the ground remains frozen for two or more consecutive years",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.6153070060539495
+    },
+    {
+      "name": "permafrost degradation",
+      "label": "natural hazard",
+      "description": "The process of permafrost thawing, which can lead to the release of greenhouse gases and have significant impacts on the environment",
+      "uuid": "ed0501c5-310c-42ab-b1eb-66e211f22803",
+      "score": 0.6188964465189308
+    },
+    {
+      "name": "carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between the atmosphere, oceans, and terrestrial ecosystems, which plays a crucial role in the climate system",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.7416022401143085
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used to simulate the effects of climate change, assuming a moderate increase in greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6292749183632217
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used to simulate the effects of climate change, assuming a high increase in greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6799888960714582
+    },
+    {
+      "name": "CLM4.5BGC",
+      "label": "model",
+      "description": "The Community Land Model version 4.5, used to simulate the interactions between the land surface and the atmosphere",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6008938249123356
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States, known for its cold and icy climate, and its vulnerability to permafrost thaw",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.6361324999051184
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "A measure of the energy imbalance in the climate system, caused by changes in greenhouse gas concentrations or other factors",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7879810986468616
+    }
+  ],
+  "(45524, 47668)": [
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas that plays a significant role in Earth's climate system",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7206170504610652
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming and climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6668729287859193
+    },
+    {
+      "name": "CLM",
+      "label": "model",
+      "description": "The Community Land Model, a numerical model used to simulate the dynamics of the Earth's land surface and its interactions with the atmosphere",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6498396938799739
+    },
+    {
+      "name": "permafrost",
+      "label": "location",
+      "description": "A region of soil and rock that remains frozen for two or more consecutive years, storing large amounts of carbon",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.7341528541545793
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States located in the northwest corner of North America, known for its permafrost regions and sensitivity to climate change",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7042353781239223
+    },
+    {
+      "name": "National Energy Research Scientific Computing Center",
+      "label": "provider",
+      "description": "A United States Department of Energy facility that provides computational resources and data storage for scientific research",
+      "uuid": "28f0e118-9b87-4173-8189-52ed2eb5adfb",
+      "score": 0.5488260504880375
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "A measure of the energy imbalance in the Earth's climate system, often used to quantify the effects of greenhouse gases",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7917556111148095
+    },
+    {
+      "name": "radiocarbon ages",
+      "label": "variable",
+      "description": "A measure of the age of organic materials based on the decay of radioactive carbon-14",
+      "uuid": "bf0db125-0182-42e7-81c9-6ed55a05ddd0",
+      "score": 0.6263627252035777
+    }
+  ]
+}

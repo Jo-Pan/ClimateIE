@@ -1,0 +1,1719 @@
+{
+  "(0, 2808)": [
+    {
+      "name": "SWAT",
+      "label": "model",
+      "description": "The Soil and Water Assessment Tool, a hydrological modeling system used to simulate streamflow and assess the impacts of climate change on water resources",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5755837856461986
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Circulation Models, computational representations of the Earth's climate system used to simulate and predict climate patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7442706110048505
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "The Representative Concentration Pathway 4.5, a greenhouse gas concentration trajectory used in climate change scenarios to predict future climate conditions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6059879418086676
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "The Representative Concentration Pathway 8.5, a greenhouse gas concentration trajectory used in climate change scenarios to predict future climate conditions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6670913654189898
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers, an important indicator of hydrological processes and water availability",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5623487750842691
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a given area, often used to assess the impacts of climate change on hydrology and water resources",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.6925140153465246
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Severe and unusual hydrological occurrences that can cause significant damage to infrastructure and human populations",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.68812289692358
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "Prolonged periods of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7078496874473866
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability and quality of water for human consumption, agriculture, and ecosystems, influenced by climate change and hydrological processes",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.7143271858795438
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water falling to the Earth's surface, a key driver of hydrological processes and climate patterns",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6698953232931806
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, influencing climate patterns and hydrological processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6445300179089072
+    }
+  ],
+  "(2338, 5278)": [
+    {
+      "name": "SRES",
+      "label": "experiment",
+      "description": "The Special Report on Emissions Scenarios, a set of scenarios used to study the potential impacts of climate change",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.7129823234327733
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to Earth's surface over a specific period, crucial for studying climate and hydrology",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.669118549427552
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy in a system, essential for understanding climate patterns and processes",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.663433028244408
+    },
+    {
+      "name": "snowfall",
+      "label": "weather event",
+      "description": "A type of precipitation in the form of snow, influencing climate, hydrology, and ecosystems",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.679858601212798
+    },
+    {
+      "name": "monsoon rainfall",
+      "label": "weather event",
+      "description": "A seasonal weather pattern characterized by significant rainfall, shaping regional climate and hydrology",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6414999876167932
+    },
+    {
+      "name": "glaciers",
+      "label": "natural hazard",
+      "description": "Permanently frozen bodies of ice that can influence climate, hydrology, and sea levels",
+      "uuid": "4a426aab-4a95-4bf4-8449-19a72a251541",
+      "score": 0.6386155699959122
+    },
+    {
+      "name": "Pakistan Meteorological Department",
+      "label": "provider",
+      "description": "The national meteorological agency of Pakistan, responsible for weather forecasting and climate research",
+      "uuid": "617ef080-a917-4365-b114-c50ca7b71716",
+      "score": 0.5138003305732606
+    },
+    {
+      "name": "Surface Water Hydrology Project",
+      "label": "project",
+      "description": "A project focused on the study and management of surface water hydrology, including data collection and analysis",
+      "uuid": "9a0c4d32-54c1-450e-aafd-f086678ed176",
+      "score": 0.5943451014668368
+    },
+    {
+      "name": "Indian Meteorological Department",
+      "label": "provider",
+      "description": "The national meteorological agency of India, responsible for weather forecasting and climate research",
+      "uuid": "8ab7b279-982f-41a8-876b-cfa120d066ec",
+      "score": 0.502423568698718
+    },
+    {
+      "name": "National Centers for Environmental Prediction",
+      "label": "provider",
+      "description": "A US government agency responsible for environmental prediction and climate research",
+      "uuid": "f30a086a-f7e6-4708-9df0-7d38b58782e3",
+      "score": 0.6502758470293623
+    },
+    {
+      "name": "Climate Forecast System Reanalysis",
+      "label": "model",
+      "description": "A climate model used for reanalysis and forecasting, providing insights into past and future climate patterns",
+      "uuid": "e4c077f0-4556-41bf-b8f0-58e3fd9c1a9f",
+      "score": 0.6680346722926052
+    },
+    {
+      "name": "CFSR data",
+      "label": "dataset",
+      "description": "A dataset generated by the Climate Forecast System Reanalysis model, used for climate research and analysis",
+      "uuid": "e4c077f0-4556-41bf-b8f0-58e3fd9c1a9f",
+      "score": 0.7785905408710697
+    },
+    {
+      "name": "Tmax",
+      "label": "variable",
+      "description": "The maximum daily temperature, an important variable for studying climate patterns and processes",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.640741505464612
+    },
+    {
+      "name": "Tmin",
+      "label": "variable",
+      "description": "The minimum daily temperature, a crucial variable for understanding climate patterns and processes",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.6521979384943122
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy received from the sun, influencing climate, weather, and ecosystems",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6685013753172077
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "A measure of the speed of wind, essential for understanding weather patterns and climate processes",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6784608143671889
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air, influencing climate, weather, and ecosystems",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7156546513449555
+    },
+    {
+      "name": "Lapse rate",
+      "label": "variable",
+      "description": "The rate at which temperature decreases with altitude, an important factor in understanding climate and weather patterns",
+      "uuid": "090697f0-a982-4cda-94f6-9375d0c816c5",
+      "score": 0.6761461290000031
+    },
+    {
+      "name": "altitude",
+      "label": "variable",
+      "description": "The height of an object or point above sea level, influencing climate, weather, and ecosystems",
+      "uuid": "16bfcf54-f8e1-4c8e-9bd4-a1ac06ea95a0",
+      "score": 0.6977978197457362
+    },
+    {
+      "name": "climate stations",
+      "label": "instrument",
+      "description": "Locations where climate data is collected, used to monitor and study climate patterns and processes",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.6267297171914356
+    },
+    {
+      "name": "climatological stations",
+      "label": "instrument",
+      "description": "Locations where climatological data is collected, used to monitor and study climate patterns and processes",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.5580289344419088
+    },
+    {
+      "name": "meteorological stations",
+      "label": "instrument",
+      "description": "Locations where meteorological data is collected, used to monitor and study weather patterns and climate processes",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.6966977536319511
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The amount of water flowing through a river or stream, an important variable for studying hydrology and climate",
+      "uuid": "36a2999b-2255-4d4e-a249-40df3b7b3aaf",
+      "score": 0.6825157360732771
+    },
+    {
+      "name": "monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern characterized by significant rainfall, shaping regional climate and hydrology",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.701503083384446
+    }
+  ],
+  "(4769, 7502)": [
+    {
+      "name": "Tmax",
+      "label": "variable",
+      "description": "The maximum daily temperature, a measure of the highest temperature reached during a day",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.6131341568682912
+    },
+    {
+      "name": "Tmin",
+      "label": "variable",
+      "description": "The minimum daily temperature, a measure of the lowest temperature reached during a day",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.614229105837453
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground, an essential component of the water cycle",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6455331271323946
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy received from the sun, influencing temperature, climate, and weather patterns",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6602266292945931
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The rate at which air moves, affecting weather patterns, climate, and the dispersion of pollutants",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6647582541469439
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The percentage of water vapor in the air compared to the maximum amount the air can hold at a given temperature",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7300042341490018
+    },
+    {
+      "name": "meteorological stations",
+      "label": "instrument",
+      "description": "Locations equipped with instruments to measure and record weather and climate data",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.7001569164720999
+    },
+    {
+      "name": "CFSR data",
+      "label": "dataset",
+      "description": "Climate Forecast System Reanalysis data, a collection of historical weather and climate data used for research and forecasting",
+      "uuid": "e4c077f0-4556-41bf-b8f0-58e3fd9c1a9f",
+      "score": 0.7659218142544276
+    },
+    {
+      "name": "altitude",
+      "label": "variable",
+      "description": "The height of an object or point in relation to sea level or ground level",
+      "uuid": "16bfcf54-f8e1-4c8e-9bd4-a1ac06ea95a0",
+      "score": 0.6924896362051262
+    },
+    {
+      "name": "climate stations",
+      "label": "instrument",
+      "description": "Locations equipped with instruments to measure and record climate data",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.63062177590395
+    },
+    {
+      "name": "climatological stations",
+      "label": "instrument",
+      "description": "Locations equipped with instruments to measure and record long-term climate data",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.5711291794813419
+    }
+  ],
+  "(7106, 9572)": [
+    {
+      "name": "Pakistan",
+      "label": "location",
+      "description": "A country in South Asia, home to the Jhelum River Basin and various hydrological features",
+      "uuid": "60b17f24-cf23-4209-91c4-975a87a7acb0",
+      "score": 0.5554599364242381
+    },
+    {
+      "name": "Tmax",
+      "label": "variable",
+      "description": "The maximum temperature, an important climate variable used in hydrological and meteorological studies",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.6186736978634195
+    },
+    {
+      "name": "Tmin",
+      "label": "variable",
+      "description": "The minimum temperature, a key climate variable used in understanding temperature trends and patterns",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.6338718353433599
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface, an important component of the hydrological cycle",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7569849881985513
+    },
+    {
+      "name": "stream flow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, influenced by factors such as precipitation, temperature, and catchment characteristics",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5608861613113687
+    },
+    {
+      "name": "watershed area",
+      "label": "location",
+      "description": "A region of land that drains all the streams and rainfall to a single exit point, such as a river or lake, and is used for hydrological analysis and management",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.6882609468387534
+    },
+    {
+      "name": "average monthly flow",
+      "label": "variable",
+      "description": "The mean flow of water in a river or stream over a month, used to understand hydrological patterns and trends",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.6074491443874344
+    }
+  ],
+  "(9208, 11343)": [
+    {
+      "name": "Digital Elevation Model",
+      "label": "instrument",
+      "description": "A 3D representation of the Earth's surface created from a variety of data sources, used for analyzing terrain and hydrological features",
+      "uuid": "395372ad-2883-4b6a-a481-6383a310ca47",
+      "score": 0.6869286495082143
+    },
+    {
+      "name": "stream",
+      "label": "location",
+      "description": "A natural flowing body of water, often studied in hydrology and climate research",
+      "uuid": "1d2d0777-b47e-45ee-ac85-2d7b9f6e4ffd",
+      "score": 0.718113578789677
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a US government agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6859193901468745
+    },
+    {
+      "name": "SRTM",
+      "label": "instrument",
+      "description": "The Shuttle Radar Topography Mission, a NASA mission that used radar to create high-resolution topographic maps of the Earth's surface",
+      "uuid": "0287b3bd-ed50-4662-96e9-7f7469179344",
+      "score": 0.7721275535646458
+    },
+    {
+      "name": "DEM",
+      "label": "instrument",
+      "description": "A digital representation of the Earth's surface, used for analyzing terrain and hydrological features",
+      "uuid": "395372ad-2883-4b6a-a481-6383a310ca47",
+      "score": 0.722133150384819
+    },
+    {
+      "name": "Soil data",
+      "label": "variable",
+      "description": "Information about the composition, properties, and characteristics of soil, used in climate and environmental studies",
+      "uuid": "fb27559f-a2af-4fb5-960d-4635e13fecea",
+      "score": 0.6470586976860343
+    },
+    {
+      "name": "FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, an agency that works to reduce hunger and poverty worldwide",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5609616800801891
+    }
+  ],
+  "(11068, 13193)": [
+    {
+      "name": "Calcaric Phaeozems",
+      "label": "soil class",
+      "description": "A type of soil with a high concentration of calcium carbonate, often found in areas with dry climates",
+      "uuid": "7367c08c-304f-4ce7-b716-975f835ba711",
+      "score": 0.5099284092174567
+    },
+    {
+      "name": "Calcic Chernozems",
+      "label": "soil class",
+      "description": "A type of soil with a high concentration of calcium carbonate, often found in areas with temperate grasslands",
+      "uuid": "7367c08c-304f-4ce7-b716-975f835ba711",
+      "score": 0.5093716827756518
+    },
+    {
+      "name": "Food and Agriculture Organization of the United Nations (FAO)",
+      "label": "provider",
+      "description": "An international organization that leads global efforts to defeat hunger and improve nutrition and food security",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5727719204077645
+    },
+    {
+      "name": "soil bulk density",
+      "label": "soil property",
+      "description": "The mass of dry soil per unit volume, often used to characterize soil structure and fertility",
+      "uuid": "62d5fb39-e9ee-47db-a426-1991537f8a4d",
+      "score": 0.7674537156557251
+    },
+    {
+      "name": "soil electric conductivity",
+      "label": "soil property",
+      "description": "The ability of soil to conduct electricity, often used to characterize soil salinity and fertility",
+      "uuid": "781bf38b-2797-4415-8d5a-67e9f3a2f5fe",
+      "score": 0.738981498984518
+    },
+    {
+      "name": "soil composition",
+      "label": "soil property",
+      "description": "The proportion of different components in the soil, such as sand, silt, and clay",
+      "uuid": "afd1d3cb-d31d-4069-8cff-b592887aa18c",
+      "score": 0.5419302586221736
+    },
+    {
+      "name": "soil available water capacity",
+      "label": "soil property",
+      "description": "The amount of water that can be stored in the soil and made available to plants",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.624663982632446
+    },
+    {
+      "name": "silt",
+      "label": "soil component",
+      "description": "A type of soil particle with a diameter between 0.002 and 0.05 mm",
+      "uuid": "06d12e44-55b6-488e-92fd-28fdc6a2ca06",
+      "score": 0.5439022027392588
+    },
+    {
+      "name": "clay",
+      "label": "soil component",
+      "description": "A type of soil particle with a diameter less than 0.002 mm",
+      "uuid": "295a6644-6fa6-460f-950a-b1e6c380c7dc",
+      "score": 0.6078268657782413
+    },
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer, a satellite instrument used to collect data on land cover and other environmental parameters",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7541017120524707
+    },
+    {
+      "name": "grassland",
+      "label": "land use",
+      "description": "A type of land cover characterized by a dominance of grasses and other herbaceous plants",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6183518437661593
+    },
+    {
+      "name": "forest",
+      "label": "land use",
+      "description": "A type of land cover characterized by a dominance of trees and other woody vegetation",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6268449124170586
+    }
+  ],
+  "(12788, 15067)": [
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer, an instrument used for remote sensing of the Earth\u2019s surface and atmosphere",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7622181096973467
+    },
+    {
+      "name": "agriculture",
+      "label": "land cover",
+      "description": "A type of land use that involves the cultivation of crops and rearing of livestock",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5040078889850956
+    },
+    {
+      "name": "grassland",
+      "label": "land cover",
+      "description": "A type of land cover characterized by grasses and other herbaceous plants",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6148892156074223
+    },
+    {
+      "name": "forest",
+      "label": "land cover",
+      "description": "A type of land cover dominated by trees and other woody vegetation",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6291760460794243
+    },
+    {
+      "name": "savannas",
+      "label": "land cover",
+      "description": "A type of land cover characterized by a mixture of grasses and trees",
+      "uuid": "f8d55ee4-1efb-4d83-b07f-1029ab0fa9e1",
+      "score": 0.6949634235094061
+    },
+    {
+      "name": "shrubland",
+      "label": "land cover",
+      "description": "A type of land cover dominated by shrubs and other low-growing vegetation",
+      "uuid": "e018b139-7e05-4155-8e2e-8d5603b5fe47",
+      "score": 0.6427074654250363
+    },
+    {
+      "name": "snow and ice",
+      "label": "land cover",
+      "description": "A type of land cover characterized by the presence of snow and ice",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.6334157184179592
+    },
+    {
+      "name": "water",
+      "label": "land cover",
+      "description": "A type of land cover that includes rivers, lakes, and other bodies of water",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.5679861158703201
+    },
+    {
+      "name": "urban land",
+      "label": "land cover",
+      "description": "A type of land cover that includes cities, towns, and other human settlements",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.6281109469556106
+    },
+    {
+      "name": "wetland",
+      "label": "land cover",
+      "description": "A type of land cover that includes marshes, swamps, and other areas with saturated soil",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.6777915952778174
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7244542853466465
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, scenarios used to project future climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5569536541679276
+    },
+    {
+      "name": "Tmax",
+      "label": "variable",
+      "description": "The maximum temperature, a variable used to study climate patterns",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.6054765017717895
+    },
+    {
+      "name": "Tmin",
+      "label": "variable",
+      "description": "The minimum temperature, a variable used to study climate patterns",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.594133224735704
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6660531500710053
+    },
+    {
+      "name": "climate data",
+      "label": "variable",
+      "description": "Data related to the Earth's climate system, including temperature, precipitation, and other variables",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.6355951279672226
+    }
+  ],
+  "(14559, 17365)": [
+    {
+      "name": "SWAT hydrological model",
+      "label": "model",
+      "description": "A comprehensive model used to simulate the flow of water, sediment, and chemicals in watersheds and catchments",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5600295700891741
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that falls to the ground, an essential component of the hydrologic cycle",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6433465827569961
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface, often entering streams, rivers, and lakes",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7571691570303904
+    },
+    {
+      "name": "climate data",
+      "label": "variable",
+      "description": "Information about past and present climate conditions, including temperature, precipitation, and other meteorological factors",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5842377036939078
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, which supports plant growth and filters water",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6289483895466388
+    },
+    {
+      "name": "watershed",
+      "label": "location",
+      "description": "An area of land that drains all the streams and rainfall to a single exit point, often used to study and manage water resources",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.6892946664096363
+    },
+    {
+      "name": "Hydro-Quebec",
+      "label": "provider",
+      "description": "A Canadian public utility that generates, transmits, and distributes electricity, also involved in hydrological research and management",
+      "uuid": "ca12cfea-18da-4e3d-b3c2-bed3855cfd75",
+      "score": 0.5539268882559395
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "The angle of inclination of the Earth's surface, influencing runoff, erosion, and other hydrological processes",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.6167615601185498
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a given point in a river or stream over a specific period of time, often used to measure the health of a water body",
+      "uuid": "36a2999b-2255-4d4e-a249-40df3b7b3aaf",
+      "score": 0.6733371431023943
+    }
+  ],
+  "(16900, 19582)": [
+    {
+      "name": "SWAT",
+      "label": "model",
+      "description": "Soil and Water Assessment Tool, a model used for hydrological studies to simulate the impact of climate and land management practices on water, sediment, and agricultural chemical yields in large complex watersheds",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5742908357785674
+    },
+    {
+      "name": "Mangla watershed",
+      "label": "location",
+      "description": "A geographic area of land that drains water into a common outlet, in this case, the Mangla Dam",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5356583281185695
+    },
+    {
+      "name": "snow-melting",
+      "label": "process",
+      "description": "The process by which snow turns into water, an important component of hydrological modeling",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6310640437003997
+    },
+    {
+      "name": "streamflows",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, an important variable in hydrological studies",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5352080064150143
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A change in global or regional climate patterns, often resulting in more frequent and severe weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5737564795342693
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The way in which land is used by humans, such as for agriculture, urban development, or conservation",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5652078912928802
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, water, and air",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.640102223864537
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "The angle of inclination of the land surface, an important factor in hydrological modeling",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.5965407075457089
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important input to hydrological models",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6412034629884135
+    },
+    {
+      "name": "Tmax",
+      "label": "variable",
+      "description": "The maximum temperature, an important variable in hydrological modeling",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.6079869744731358
+    },
+    {
+      "name": "Tmin",
+      "label": "variable",
+      "description": "The minimum temperature, an important variable in hydrological modeling",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.5985268519745103
+    },
+    {
+      "name": "ET",
+      "label": "variable",
+      "description": "Evapotranspiration, the process by which plants release water vapor into the air",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6612202165782812
+    },
+    {
+      "name": "evapotranspiration method",
+      "label": "instrument",
+      "description": "A method used to estimate evapotranspiration, such as the Hargreaves method",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.5089585675703807
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that reaches the Earth's surface, an important variable in hydrological modeling",
+      "uuid": "6b3be650-6625-40b5-9b40-9e7c8a9fd336",
+      "score": 0.6473155675075939
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The speed at which wind blows, an important variable in hydrological modeling",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6229165730638366
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The amount of water vapor in the air, an important variable in hydrological modeling",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7193956601095617
+    },
+    {
+      "name": "ArcSWAT",
+      "label": "instrument",
+      "description": "A graphical user interface for the SWAT model, used for setting up and running the model",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5719909095277902
+    },
+    {
+      "name": "hydrological stations",
+      "label": "location",
+      "description": "Places where data on hydrological variables, such as streamflow and precipitation, are collected",
+      "uuid": "7b335954-929b-4568-a758-1640d15c2504",
+      "score": 0.5327320108619239
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The amount of water that flows through a given point in a stream or river, an important variable in hydrological studies",
+      "uuid": "36a2999b-2255-4d4e-a249-40df3b7b3aaf",
+      "score": 0.6770635230600535
+    },
+    {
+      "name": "calibration",
+      "label": "process",
+      "description": "The process of adjusting model parameters to match observed data",
+      "uuid": "7995f479-ea09-43f2-b48f-a3ea7e9a8bcd",
+      "score": 0.6053081664614273
+    },
+    {
+      "name": "validation",
+      "label": "process",
+      "description": "The process of evaluating the performance of a model using independent data",
+      "uuid": "b283a59c-0e9a-469c-baf4-591b64cd4671",
+      "score": 0.5977201164562747
+    }
+  ],
+  "(19137, 21594)": [
+    {
+      "name": "hydrological stations",
+      "label": "platform",
+      "description": "Places where data on water flow, quality, and other hydrological parameters are collected and monitored",
+      "uuid": "7b335954-929b-4568-a758-1640d15c2504",
+      "score": 0.5366563221664243
+    },
+    {
+      "name": "calibration",
+      "label": "experiment",
+      "description": "The process of adjusting model parameters to match observed data, used to improve the accuracy of hydrological simulations",
+      "uuid": "7995f479-ea09-43f2-b48f-a3ea7e9a8bcd",
+      "score": 0.5500483004848464
+    },
+    {
+      "name": "validation",
+      "label": "experiment",
+      "description": "The process of evaluating the performance of a model by comparing its outputs with observed data, used to assess the reliability of hydrological simulations",
+      "uuid": "b283a59c-0e9a-469c-baf4-591b64cd4671",
+      "score": 0.5955380215307542
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate system, influencing weather patterns, sea levels, and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6024672146242691
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a given area over a certain period, often used to study hydrological processes and climate change impacts",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.714043553720524
+    },
+    {
+      "name": "low flow",
+      "label": "variable",
+      "description": "A measure of the minimum flow of water in a river or stream, often used to study droughts and water scarcity",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5212452212140456
+    },
+    {
+      "name": "median flow",
+      "label": "variable",
+      "description": "A measure of the middle value of the flow of water in a river or stream, often used to study hydrological processes and climate change impacts",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5101308297777326
+    },
+    {
+      "name": "mean flow",
+      "label": "variable",
+      "description": "A measure of the average flow of water in a river or stream, often used to study hydrological processes and climate change impacts",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.6237069960900403
+    },
+    {
+      "name": "high flow",
+      "label": "variable",
+      "description": "A measure of the maximum flow of water in a river or stream, often used to study floods and extreme weather events",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.656859225247009
+    }
+  ],
+  "(21073, 23776)": [
+    {
+      "name": "GFDL-CM3",
+      "label": "model",
+      "description": "A global climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating and predicting climate change",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.7913642216040194
+    },
+    {
+      "name": "MIROC5",
+      "label": "model",
+      "description": "A global climate model developed by the University of Tokyo, used for simulating and predicting climate change",
+      "uuid": "80122908-8018-4511-810c-dd7aaf639b91",
+      "score": 0.7968067828078311
+    },
+    {
+      "name": "UKMO-HadGEM2",
+      "label": "model",
+      "description": "A global climate model developed by the UK Met Office, used for simulating and predicting climate change",
+      "uuid": "028fe075-8ed0-47f0-b462-71e4adf72a4e",
+      "score": 0.7031044508167257
+    },
+    {
+      "name": "CSIRO BOM ACCESS1-0",
+      "label": "model",
+      "description": "A global climate model developed by the Commonwealth Scientific and Industrial Research Organisation and the Australian Bureau of Meteorology, used for simulating and predicting climate change",
+      "uuid": "4270e57b-0ed2-43ab-9a7a-cd09e3983691",
+      "score": 0.6929657694123177
+    },
+    {
+      "name": "MRI-CGCM3",
+      "label": "model",
+      "description": "A global climate model developed by the Meteorological Research Institute, used for simulating and predicting climate change",
+      "uuid": "c8a4a768-cdad-42ab-b2b5-3100440ffd8f",
+      "score": 0.7821696205174625
+    },
+    {
+      "name": "BCC-CSM 1.1-m",
+      "label": "model",
+      "description": "A global climate model developed by the Beijing Climate Center, used for simulating and predicting climate change",
+      "uuid": "0ee363c2-c374-458f-a95b-885393a7c112",
+      "score": 0.7688523830273727
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "A global climate model developed by the National Center for Atmospheric Research, used for simulating and predicting climate change",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7745816293231149
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of water that falls to the Earth's surface, an important factor in climate and hydrology",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6651560746575982
+    },
+    {
+      "name": "annual temperature",
+      "label": "variable",
+      "description": "The average temperature of a region or the entire Earth over a year, a key indicator of climate change",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.5751262581978646
+    },
+    {
+      "name": "stream",
+      "label": "location",
+      "description": "A natural flowing body of water, often studied in hydrology and climate research",
+      "uuid": "1d2d0777-b47e-45ee-ac85-2d7b9f6e4ffd",
+      "score": 0.718113578789677
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow rate of water in a stream, an important factor in hydrology and water resource management",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5559222151068139
+    },
+    {
+      "name": "water resource management",
+      "label": "project",
+      "description": "The planning, development, and management of water resources to meet the needs of human societies and ecosystems",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5904298950459164
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario used in climate modeling, representing a moderate emissions reduction trajectory",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6216340566381627
+    }
+  ],
+  "(23329, 25624)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in the atmosphere or on the Earth's surface, often used to study climate patterns and changes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.664508878602943
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall, snowfall, or other forms of moisture that fall to the Earth's surface, an important factor in climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6707619042607962
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7195795415683549
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A greenhouse gas concentration trajectory used in climate modeling, representing a moderate increase in emissions and radiative forcing",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5845811458191699
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A greenhouse gas concentration trajectory used in climate modeling, representing a high increase in emissions and radiative forcing",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6606864120510869
+    },
+    {
+      "name": "GFDL",
+      "label": "provider",
+      "description": "The Geophysical Fluid Dynamics Laboratory, a research institution focused on climate modeling and prediction",
+      "uuid": "7699f957-bcfc-4069-b506-73b1973b8e4d",
+      "score": 0.6988213899853949
+    }
+  ],
+  "(25336, 27465)": [
+    {
+      "name": "GFDL",
+      "label": "model",
+      "description": "The Geophysical Fluid Dynamics Laboratory model, used for climate simulations and predictions",
+      "uuid": "6f1cba1b-2e48-48b3-bc4f-53264f5a757e",
+      "score": 0.6846223884358787
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A greenhouse gas concentration trajectory adopted by the Intergovernmental Panel on Climate Change, representing a scenario with moderate greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5829959857597073
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A greenhouse gas concentration trajectory adopted by the Intergovernmental Panel on Climate Change, representing a scenario with high greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6526256373158273
+    },
+    {
+      "name": "Tmax",
+      "label": "variable",
+      "description": "The maximum temperature, often used as an indicator of climate change",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.5796864526271485
+    },
+    {
+      "name": "Tmin",
+      "label": "variable",
+      "description": "The minimum temperature, often used as an indicator of climate change",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.5684877828443937
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6531401660446238
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, used for simulating the Earth's climate system and predicting future climate change",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7523762380651581
+    },
+    {
+      "name": "SWAT",
+      "label": "model",
+      "description": "The Soil and Water Assessment Tool, a model used for simulating the impact of climate change on water resources and ecosystems",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5769269942185167
+    },
+    {
+      "name": "calibration",
+      "label": "experiment",
+      "description": "The process of adjusting model parameters to match observed data, used to improve the accuracy of climate models",
+      "uuid": "ecf29317-bd5e-447b-b911-f8bfb153c83b",
+      "score": 0.6069555626095314
+    },
+    {
+      "name": "validation",
+      "label": "experiment",
+      "description": "The process of evaluating the performance of a climate model by comparing its output to observed data, used to assess the model's accuracy and reliability",
+      "uuid": "b283a59c-0e9a-469c-baf4-591b64cd4671",
+      "score": 0.6228457474204647
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The amount of water flowing through a river or stream, an important component of the climate system",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.643746428025733
+    }
+  ],
+  "(27130, 29436)": [
+    {
+      "name": "calibration",
+      "label": "experiment",
+      "description": "The process of adjusting and refining a model to better match observed data, often used in climate modeling to improve simulation accuracy",
+      "uuid": "ecf29317-bd5e-447b-b911-f8bfb153c83b",
+      "score": 0.6265285676077006
+    },
+    {
+      "name": "validation",
+      "label": "experiment",
+      "description": "The process of evaluating a model's performance by comparing its outputs with observed data, used to assess the model's reliability and accuracy",
+      "uuid": "b283a59c-0e9a-469c-baf4-591b64cd4671",
+      "score": 0.6380206362874237
+    },
+    {
+      "name": "MRI-CGCM3",
+      "label": "model",
+      "description": "A global climate model developed by the Meteorological Research Institute, used for simulating and predicting climate patterns and changes",
+      "uuid": "c8a4a768-cdad-42ab-b2b5-3100440ffd8f",
+      "score": 0.7864275204230083
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario used in climate modeling, representing a possible future pathway with significant greenhouse gas emissions and associated climate changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6812418639812559
+    },
+    {
+      "name": "precipitation gauges",
+      "label": "instrument",
+      "description": "Devices used to measure the amount of precipitation, such as rain or snow, at a specific location",
+      "uuid": "6a0afbcb-36d7-4b10-a2c1-35d4d14d6c75",
+      "score": 0.6780757648753636
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a given area, often used to study and manage water resources",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.7074403279342697
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, sleet, and hail, playing a crucial role in the water cycle and climate",
+      "uuid": "6c71e621-aae6-436b-9405-5dc6ed2a527e",
+      "score": 0.6959813127816951
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, sophisticated computer simulations used to study and predict climate patterns and changes",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7064422503322632
+    }
+  ],
+  "(29010, 31120)": [
+    {
+      "name": "MRI-CGCM3",
+      "label": "model",
+      "description": "A global climate model developed by the Meteorological Research Institute, used for simulating climate change and its impacts",
+      "uuid": "c8a4a768-cdad-42ab-b2b5-3100440ffd8f",
+      "score": 0.780150688083463
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway, a greenhouse gas concentration trajectory used in climate modeling to project future climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6469786023689083
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The rate at which water flows through a given area, often used to study the impacts of climate change on water resources",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.6874829823334901
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important factor influencing climate and water resources",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6379521049157187
+    },
+    {
+      "name": "seven GCMs",
+      "label": "model",
+      "description": "A group of global climate models used for simulating and projecting climate change, including MRI-CGCM3",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.561618463494482
+    },
+    {
+      "name": "spring",
+      "label": "location",
+      "description": "A season of the year, characterized by mild temperatures and increasing sunlight, often used as a time frame for studying climate variability",
+      "uuid": "620a9e6c-5851-48b7-93c5-a1706546f5d1",
+      "score": 0.5194396484745964
+    }
+  ],
+  "(30844, 32571)": [
+    {
+      "name": "CSIRO BOM ACCESS1-0",
+      "label": "model",
+      "description": "A climate model developed by the Commonwealth Scientific and Industrial Research Organisation and the Australian Bureau of Meteorology, used for climate predictions and research",
+      "uuid": "4270e57b-0ed2-43ab-9a7a-cd09e3983691",
+      "score": 0.7030966511436484
+    },
+    {
+      "name": "GFDL-CM3",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating and predicting Earth's climate system",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.8086877735834073
+    },
+    {
+      "name": "UKMO-HadGEM",
+      "label": "model",
+      "description": "A climate model developed by the Met Office Hadley Centre, used for weather forecasting and climate studies",
+      "uuid": "028fe075-8ed0-47f0-b462-71e4adf72a4e",
+      "score": 0.6899270488396252
+    },
+    {
+      "name": "MRI-CGCM3",
+      "label": "model",
+      "description": "A climate model developed by the Meteorological Research Institute, used for simulating and predicting Earth's climate system",
+      "uuid": "c8a4a768-cdad-42ab-b2b5-3100440ffd8f",
+      "score": 0.7938133943971887
+    },
+    {
+      "name": "MIROC5",
+      "label": "model",
+      "description": "A climate model developed by the University of Tokyo and the National Institute for Environmental Studies, used for simulating and predicting Earth's climate system",
+      "uuid": "80122908-8018-4511-810c-dd7aaf639b91",
+      "score": 0.8016410035755985
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "A climate model developed by the National Center for Atmospheric Research, used for simulating and predicting Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7914416222378114
+    },
+    {
+      "name": "BCC-CSM 1.1-m",
+      "label": "model",
+      "description": "A climate model developed by the Beijing Climate Center, used for simulating and predicting Earth's climate system",
+      "uuid": "0ee363c2-c374-458f-a95b-885393a7c112",
+      "score": 0.7753639405340662
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a given area, often used as an indicator of hydrological changes",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.7027110494186553
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas emissions and concentrations, used to project future climate changes",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6278603252669397
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A scenario of high greenhouse gas emissions and concentrations, used to project future climate changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6845626685835696
+    }
+  ],
+  "(32255, 34655)": [
+    {
+      "name": "CSIRO BOM ACCESS1-0",
+      "label": "model",
+      "description": "A coupled climate model developed by the Commonwealth Scientific and Industrial Research Organisation and the Australian Bureau of Meteorology",
+      "uuid": "4270e57b-0ed2-43ab-9a7a-cd09e3983691",
+      "score": 0.685418946067926
+    },
+    {
+      "name": "GFDL-CM3",
+      "label": "model",
+      "description": "A coupled climate model developed by the Geophysical Fluid Dynamics Laboratory",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.8065409890073368
+    },
+    {
+      "name": "MIROC5",
+      "label": "model",
+      "description": "A coupled climate model developed by the University of Tokyo and the Japan Agency for Marine-Earth Science and Technology",
+      "uuid": "80122908-8018-4511-810c-dd7aaf639b91",
+      "score": 0.7859750980073616
+    },
+    {
+      "name": "MRI-CGCM3",
+      "label": "model",
+      "description": "A coupled climate model developed by the Meteorological Research Institute",
+      "uuid": "c8a4a768-cdad-42ab-b2b5-3100440ffd8f",
+      "score": 0.7827316079351846
+    },
+    {
+      "name": "UKMO-HadGEM2",
+      "label": "model",
+      "description": "A coupled climate model developed by the Met Office Hadley Centre",
+      "uuid": "028fe075-8ed0-47f0-b462-71e4adf72a4e",
+      "score": 0.7123609678651494
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "A coupled climate model developed by the National Center for Atmospheric Research",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7717948292128383
+    },
+    {
+      "name": "BCC-CSM1.1-m",
+      "label": "model",
+      "description": "A coupled climate model developed by the Beijing Climate Center",
+      "uuid": "0ee363c2-c374-458f-a95b-885393a7c112",
+      "score": 0.7712611828287919
+    },
+    {
+      "name": "observed discharge",
+      "label": "variable",
+      "description": "The amount of water flowing through a river or stream, measured over a specific period of time",
+      "uuid": "36a2999b-2255-4d4e-a249-40df3b7b3aaf",
+      "score": 0.5511532796807422
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a moderate increase in greenhouse gas emissions and radiative forcing",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6441205201227976
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a high increase in greenhouse gas emissions and radiative forcing",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.7085257018701658
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "A natural disaster characterized by an overflow of water that can cause damage to infrastructure, agriculture, and human settlements",
+      "uuid": "fd03d204-4391-4e98-8142-8b8efa235231",
+      "score": 0.6850256961675394
+    },
+    {
+      "name": "flooding",
+      "label": "natural hazard",
+      "description": "A natural disaster characterized by an overflow of water that can cause damage to infrastructure, agriculture, and human settlements",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.6683016636589908
+    }
+  ],
+  "(34166, 36812)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, computational tools used to simulate and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7325156182175423
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, used to explore the impact of different greenhouse gas concentrations on climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6287123400186532
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, used to explore the impact of different greenhouse gas concentrations on climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6862407210071663
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6303072075859071
+    },
+    {
+      "name": "Pakistan",
+      "label": "location",
+      "description": "A country in South Asia, known for its diverse climate and geography",
+      "uuid": "60b17f24-cf23-4209-91c4-975a87a7acb0",
+      "score": 0.6779835426209787
+    },
+    {
+      "name": "MRI-CGCM3",
+      "label": "model",
+      "description": "A Global Climate Model developed by the Meteorological Research Institute, used for climate simulations and predictions",
+      "uuid": "c8a4a768-cdad-42ab-b2b5-3100440ffd8f",
+      "score": 0.7838076547582842
+    },
+    {
+      "name": "MIROC5",
+      "label": "model",
+      "description": "A Global Climate Model developed by the University of Tokyo, used for climate simulations and predictions",
+      "uuid": "80122908-8018-4511-810c-dd7aaf639b91",
+      "score": 0.7916366478147988
+    },
+    {
+      "name": "GFDL CM",
+      "label": "model",
+      "description": "A Global Climate Model developed by the Geophysical Fluid Dynamics Laboratory, used for climate simulations and predictions",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.6968963401819227
+    }
+  ],
+  "(36451, 38872)": [
+    {
+      "name": "MRI-CGCM3",
+      "label": "model",
+      "description": "A global climate model developed by the Meteorological Research Institute of Japan, used for climate simulations and predictions",
+      "uuid": "c8a4a768-cdad-42ab-b2b5-3100440ffd8f",
+      "score": 0.7765275880993807
+    },
+    {
+      "name": "MIROC5",
+      "label": "model",
+      "description": "A global climate model developed by the University of Tokyo, used for climate simulations and predictions",
+      "uuid": "80122908-8018-4511-810c-dd7aaf639b91",
+      "score": 0.7979888002206622
+    },
+    {
+      "name": "GFDL CM3",
+      "label": "model",
+      "description": "A global climate model developed by the Geophysical Fluid Dynamics Laboratory, used for climate simulations and predictions",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.7865429229319164
+    },
+    {
+      "name": "UKMO-HadGEM",
+      "label": "model",
+      "description": "A global climate model developed by the UK Met Office, used for climate simulations and predictions",
+      "uuid": "028fe075-8ed0-47f0-b462-71e4adf72a4e",
+      "score": 0.6874088417929851
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a given point in a river or stream over a specific period of time",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.666073311021753
+    },
+    {
+      "name": "peak flows",
+      "label": "variable",
+      "description": "The maximum rate of water flow through a river or stream during a specific period of time",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.7242470786981433
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a river or stream, often measured in terms of volume or rate of flow",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5522324840243074
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Overflow of water that can cause damage to the environment, human settlements, and infrastructure",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.687675877216608
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes a moderate increase in greenhouse gas emissions, leading to a stabilization of radiative forcing at 4.5 W/m\u00b2",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6117025510426854
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes a high increase in greenhouse gas emissions, leading to a stabilization of radiative forcing at 8.5 W/m\u00b2",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6939162483494433
+    },
+    {
+      "name": "monsoon events",
+      "label": "weather event",
+      "description": "Seasonal weather patterns characterized by significant rainfall and wind changes, often associated with the summer months in certain regions",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.7437799704630887
+    }
+  ],
+  "(38478, 40989)": [
+    {
+      "name": "Pakistan",
+      "label": "location",
+      "description": "A country in South Asia, known for its diverse geography and climate, and facing significant water stress due to changing climate conditions",
+      "uuid": "60b17f24-cf23-4209-91c4-975a87a7acb0",
+      "score": 0.6581413308583812
+    },
+    {
+      "name": "SWAT hydrological model",
+      "label": "model",
+      "description": "A computational model used to simulate and predict the behavior of water flow and quality in watersheds",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5641331238206603
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A scenario of future climate change used in the Coupled Model Intercomparison Project Phase 5, representing a moderate level of greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6385164231496505
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A scenario of future climate change used in the Coupled Model Intercomparison Project Phase 5, representing a high level of greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6958867175686949
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A General Circulation Model, used to simulate the behavior of the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7513757294999741
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, often used as an indicator of water availability and quality",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5513233900297222
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The sources of water available for human use, including rivers, lakes, reservoirs, and groundwater",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6903231749970651
+    },
+    {
+      "name": "changing climate",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5324604163894703
+    }
+  ],
+  "(40503, 43239)": [
+    {
+      "name": "SWAT",
+      "label": "model",
+      "description": "A comprehensive model used for simulating the impact of climate and land management practices on water, sediment, and agricultural chemical yields in watersheds",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.6035233863895144
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7244542853466465
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, used to project the future climate based on a specific level of greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6306527022145592
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, used to project the future climate based on a specific level of greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6832566046913551
+    },
+    {
+      "name": "Tmax",
+      "label": "variable",
+      "description": "The maximum temperature, an important variable in climate studies",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.6172343279048896
+    },
+    {
+      "name": "Tmin",
+      "label": "variable",
+      "description": "The minimum temperature, an important variable in climate studies",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.60496356575606
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that falls to the Earth's surface",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6675578710145817
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, an important variable in hydrological studies",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5541540748666669
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "A natural disaster that occurs when water overflows onto land that is normally dry",
+      "uuid": "fd03d204-4391-4e98-8142-8b8efa235231",
+      "score": 0.6716692091933955
+    }
+  ],
+  "(42687, 44391)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict climate patterns on a global scale",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7094716492192994
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, used to study the impact of climate change under a moderate greenhouse gas emission trajectory",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6222560473787663
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, used to study the impact of climate change under a high greenhouse gas emission trajectory",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.688333132664841
+    },
+    {
+      "name": "hydrological model",
+      "label": "model",
+      "description": "A computational representation of the hydrological processes, used to simulate and predict water flow and quality in a given region",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5305817627493438
+    },
+    {
+      "name": "peak flows",
+      "label": "variable",
+      "description": "The maximum rate of water flow in a river or stream, often used to design and operate dams and other water management infrastructure",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.7400104524740129
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a river or stream, often used to study and manage water resources",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5523635943763496
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability and quality of water in a given region, essential for human consumption, agriculture, and ecosystem health",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.7160060672751758
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451761247480406
+    },
+    {
+      "name": "water management",
+      "label": "project",
+      "description": "A set of activities and strategies aimed at managing water resources in a sustainable and efficient manner",
+      "uuid": "14555831-70ae-4650-8983-956d65595575",
+      "score": 0.6353670695808747
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "(0, 3028)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7561494701582913
+    },
+    {
+      "name": "Indian Ocean dipole",
+      "label": "teleconnection",
+      "description": "A climate phenomenon characterized by fluctuations in the sea surface temperature difference between the western and eastern Indian Ocean, influencing regional climate patterns",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.5092461106235785
+    },
+    {
+      "name": "east Australia",
+      "label": "location",
+      "description": "A region in Australia, known for its diverse climate and weather patterns",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5211618257322087
+    },
+    {
+      "name": "rainfall events",
+      "label": "weather event",
+      "description": "Occurrences of precipitation, often studied to understand climate variability and its impacts on water resources",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.532476627097803
+    },
+    {
+      "name": "climate events",
+      "label": "weather event",
+      "description": "Significant meteorological occurrences, such as floods, droughts, or heatwaves, that can have substantial impacts on the environment and human societies",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.6577148281632688
+    },
+    {
+      "name": "rainfall variability",
+      "label": "variable",
+      "description": "The degree of change in rainfall patterns over time, often influenced by large-scale climate modes and teleconnections",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.6095451934131474
+    },
+    {
+      "name": "continent",
+      "label": "location",
+      "description": "A large area of land, often characterized by distinct climate and geological features",
+      "uuid": "0a672f19-dad5-4114-819a-2eb55bdbb56a",
+      "score": 0.6364399172631903
+    },
+    {
+      "name": "daily and subdaily rainfall datasets",
+      "label": "project",
+      "description": "Collections of data used to study rainfall patterns at various time scales, essential for understanding climate variability and its impacts",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.5458269080304771
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability and management of water, crucial for human consumption, agriculture, and ecosystems",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.7309548360434065
+    },
+    {
+      "name": "central and eastern tropical Pacific Ocean",
+      "label": "location",
+      "description": "A region of the Pacific Ocean, known for its significant role in global climate variability, particularly in relation to ENSO",
+      "uuid": "ad5bde75-1f54-4f7e-a958-3adaf9f40639",
+      "score": 0.6117761421170275
+    }
+  ],
+  "(2561, 5386)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7561494701582913
+    },
+    {
+      "name": "Southern Oscillation",
+      "label": "teleconnection",
+      "description": "A fluctuation in atmospheric pressure between the eastern and western Pacific Ocean, closely related to the El Ni\u00f1o-Southern Oscillation (ENSO) phenomenon",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.6213926668474603
+    },
+    {
+      "name": "La Ni\u00f1 a",
+      "label": "teleconnection",
+      "description": "The cooler phase of the El Ni\u00f1o-Southern Oscillation (ENSO) phenomenon, characterized by below-average sea surface temperatures in the central and eastern Pacific Ocean",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.5106624257726687
+    },
+    {
+      "name": "El Ni\u00f1 o",
+      "label": "teleconnection",
+      "description": "The warmer phase of the El Ni\u00f1o-Southern Oscillation (ENSO) phenomenon, characterized by above-average sea surface temperatures in the central and eastern Pacific Ocean",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6062067744660101
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its diverse climate and weather patterns",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6970017198216691
+    },
+    {
+      "name": "central and eastern tropical Pacific Ocean",
+      "label": "location",
+      "description": "A region of the Pacific Ocean where the El Ni\u00f1o-Southern Oscillation (ENSO) phenomenon is centered",
+      "uuid": "ad5bde75-1f54-4f7e-a958-3adaf9f40639",
+      "score": 0.578695465888326
+    },
+    {
+      "name": "South American continent",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, known for its diverse climate and geography",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6420258971156286
+    },
+    {
+      "name": "subdaily rain gauge dataset",
+      "label": "instrument",
+      "description": "A collection of data from rain gauges, recorded at intervals shorter than a day, used to study precipitation patterns and variability",
+      "uuid": "6a0afbcb-36d7-4b10-a2c1-35d4d14d6c75",
+      "score": 0.5054361948387639
+    },
+    {
+      "name": "daily time scales",
+      "label": "variable",
+      "description": "A measure of time used to analyze and study climate and weather patterns, focusing on daily intervals",
+      "uuid": "f86e464a-cf9d-4e15-a39b-501855d1dc5a",
+      "score": 0.630866045826935
+    },
+    {
+      "name": "crop growing season",
+      "label": "variable",
+      "description": "The period of time during which crops are grown and developed, influenced by climate and weather conditions",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5863396638345384
+    },
+    {
+      "name": "precipitation event",
+      "label": "weather event",
+      "description": "An occurrence of precipitation, such as rain or snow, which can be studied to understand climate and weather patterns",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5762035591126184
+    },
+    {
+      "name": "intense rainfall",
+      "label": "weather event",
+      "description": "A type of precipitation event characterized by heavy rainfall, which can have significant impacts on the environment and human activities",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.579898983597618
+    }
+  ],
+  "(4850, 7753)": [
+    {
+      "name": "Southern Oscillation",
+      "label": "teleconnection",
+      "description": "A large-scale climate phenomenon characterized by fluctuations in atmospheric pressure between the eastern and western Pacific Ocean, influencing global climate patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6584302274013173
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.789214123813956
+    },
+    {
+      "name": "Indian Ocean dipole",
+      "label": "teleconnection",
+      "description": "A climate phenomenon characterized by fluctuations in sea surface temperatures in the Indian Ocean, influencing regional climate patterns in Australia and other parts of the world",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.5163821802955368
+    },
+    {
+      "name": "high-quality rain gauges",
+      "label": "instrument",
+      "description": "Precise instruments used to measure rainfall, selected based on their accuracy and completeness of data",
+      "uuid": "6a0afbcb-36d7-4b10-a2c1-35d4d14d6c75",
+      "score": 0.6514044484051621
+    },
+    {
+      "name": "ENSO-rainfall teleconnection",
+      "label": "teleconnection",
+      "description": "The relationship between ENSO and rainfall patterns, which can influence the variability and predictability of rainfall in different regions",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.5861170859525774
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its diverse climate and weather patterns, influenced by various climate modes",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.638932095839613
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A general term referring to a geographic area, which can be influenced by various climate modes and phenomena",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.6643196216066889
+    }
+  ],
+  "(7294, 10087)": [
+    {
+      "name": "Australian Bureau of Meteorology",
+      "label": "provider",
+      "description": "The national meteorological service of Australia, responsible for providing weather forecasts, warnings, and climate data",
+      "uuid": "7680f9a6-9dac-4029-81fa-bbed0388bfcc",
+      "score": 0.6943314026348497
+    },
+    {
+      "name": "high-quality rain gauges",
+      "label": "instrument",
+      "description": "Precise measurement devices used to record rainfall amounts, essential for hydrological and climate studies",
+      "uuid": "6a0afbcb-36d7-4b10-a2c1-35d4d14d6c75",
+      "score": 0.6744735080755485
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its diverse climate and geography",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6805597029990227
+    },
+    {
+      "name": "Southern Oscillation index",
+      "label": "variable",
+      "description": "A measure of the difference in atmospheric pressure between Tahiti and Darwin, used as an indicator of ENSO activity",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.7740348282170563
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon involving fluctuations in ocean temperatures and atmospheric pressures in the Pacific",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7824757220608538
+    },
+    {
+      "name": "SST-based indices",
+      "label": "variable",
+      "description": "Measures of sea surface temperature used to represent ENSO variability",
+      "uuid": "a084d58c-c4f6-40fa-a645-96d9bef021aa",
+      "score": 0.6095200709090057
+    },
+    {
+      "name": "Tahiti",
+      "label": "location",
+      "description": "The largest island in French Polynesia, used as a reference point for the Southern Oscillation index",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.5132494444677811
+    },
+    {
+      "name": "Darwin",
+      "label": "location",
+      "description": "A city in northern Australia, used as a reference point for the Southern Oscillation index",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.5383617437298112
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "The third-largest ocean, playing a significant role in global climate patterns and variability",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.7540308472321228
+    }
+  ],
+  "(9617, 12356)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a periodic climate phenomenon that affects global weather patterns and climate variability",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7915297269031438
+    },
+    {
+      "name": "IOD",
+      "label": "teleconnection",
+      "description": "The Indian Ocean Dipole, a climate pattern that affects the Indian Ocean and surrounding regions",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.5005220086242751
+    },
+    {
+      "name": "Australian Bureau of Meteorology",
+      "label": "provider",
+      "description": "The national meteorological service of Australia, responsible for providing weather forecasts and climate data",
+      "uuid": "7680f9a6-9dac-4029-81fa-bbed0388bfcc",
+      "score": 0.69522550280186
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the ground, an important factor in climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5335860049582198
+    },
+    {
+      "name": "rainfall total",
+      "label": "variable",
+      "description": "The total amount of rainfall over a given period, often used to study climate variability and trends",
+      "uuid": "9466020a-db25-40ba-a76f-4720800efc92",
+      "score": 0.5198754518976503
+    }
+  ],
+  "(11870, 14981)": [
+    {
+      "name": "rain events",
+      "label": "weather event",
+      "description": "Occurrences of precipitation that are separated by dry periods",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.5033735148634575
+    },
+    {
+      "name": "climate modes",
+      "label": "teleconnection",
+      "description": "Large-scale climate patterns that influence weather and climate phenomena across vast distances, such as El Ni\u00f1o and La Ni\u00f1a",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.5094414200252384
+    },
+    {
+      "name": "rainfall variables",
+      "label": "variable",
+      "description": "Quantities or characteristics that can be measured or observed in relation to rainfall, such as intensity, frequency, and duration",
+      "uuid": "a3260779-0923-4f25-94c3-0c2e5cb904df",
+      "score": 0.5056001725769974
+    },
+    {
+      "name": "climate indices",
+      "label": "variable",
+      "description": "Quantitative measures used to describe and analyze climate patterns, such as the Southern Oscillation Index (SOI) and the Dipole Mode Index (DMI",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.6106234662958675
+    },
+    {
+      "name": "hydroclimatology research",
+      "label": "project",
+      "description": "A field of study that focuses on the interactions between the climate system and the hydrologic cycle, including the impact of climate variability on water resources",
+      "uuid": "9a0c4d32-54c1-450e-aafd-f086678ed176",
+      "score": 0.61410607717948
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6496736295796106
+    }
+  ],
+  "(14493, 17372)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "A complex climate phenomenon characterized by fluctuations in the surface temperature of the Pacific Ocean, affecting global climate patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7579649558597226
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A phase of the ENSO cycle, marked by warmer-than-average sea surface temperatures in the eastern Pacific, often associated with droughts in certain regions",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.622038711333986
+    },
+    {
+      "name": "East Australia",
+      "label": "location",
+      "description": "A region in Australia known for its diverse climate and weather patterns, influenced by the ENSO cycle",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5026953950255533
+    },
+    {
+      "name": "SOI",
+      "label": "variable",
+      "description": "The Southern Oscillation Index, a measure used to quantify the strength of the ENSO cycle, calculated based on atmospheric pressure differences between Tahiti and Darwin",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.7250567262818458
+    }
+  ],
+  "(16935, 20022)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "A complex climate pattern characterized by fluctuations in the ocean temperatures and atmospheric pressures in the Pacific Ocean, influencing global climate variability",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7709074516394342
+    },
+    {
+      "name": "east Australia",
+      "label": "location",
+      "description": "A region in the eastern part of Australia, known for its diverse climate and weather patterns",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5172127481523162
+    },
+    {
+      "name": "SOI",
+      "label": "variable",
+      "description": "The Southern Oscillation Index, a measure used to quantify the strength of the El Ni\u00f1o-Southern Oscillation (ENSO) phenomenon",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.67960486697542
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, an important factor in climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5553014262285698
+    },
+    {
+      "name": "stations",
+      "label": "platform",
+      "description": "Locations where data is collected, often used in climate and weather research",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.6128603795610772
+    }
+  ],
+  "(19456, 22603)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by fluctuations in the surface temperature of the Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7567706941564439
+    },
+    {
+      "name": "east Australian region",
+      "label": "location",
+      "description": "A region in eastern Australia, known for its diverse climate and weather patterns",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.506597766916292
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, an important factor in climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5553014262285698
+    },
+    {
+      "name": "Southern Oscillation",
+      "label": "teleconnection",
+      "description": "A fluctuation in atmospheric pressure between the eastern and western Pacific Ocean, closely related to ENSO",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.6340931211275778
+    },
+    {
+      "name": "SOI",
+      "label": "variable",
+      "description": "The Southern Oscillation Index, a measure used to quantify the strength and phase of ENSO",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.6847335545682577
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "weather event",
+      "description": "A phase of ENSO characterized by warmer-than-average sea surface temperatures in the central and eastern Pacific Ocean, leading to significant changes in global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6644739607933527
+    },
+    {
+      "name": "La Ni\u00f1a",
+      "label": "weather event",
+      "description": "A phase of ENSO characterized by cooler-than-average sea surface temperatures in the central and eastern Pacific Ocean, leading to significant changes in global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.5412026503774804
+    }
+  ],
+  "(22152, 24852)": [
+    {
+      "name": "El Ni\u00f1 o",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6291687494263716
+    },
+    {
+      "name": "La Ni\u00f1 a",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the cooling of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.531644352287435
+    },
+    {
+      "name": "rainfall variables",
+      "label": "variable",
+      "description": "Measurements of rainfall, including total rainfall, number of wet days, and rainfall intensity",
+      "uuid": "aab15612-f050-4ec0-9bb1-f72eb5bf0e44",
+      "score": 0.5227486858270048
+    },
+    {
+      "name": "subdaily time scale",
+      "label": "variable",
+      "description": "A time scale shorter than one day, used to study high-frequency climate variability and extreme weather events",
+      "uuid": "7afdb8ba-a504-45b6-b301-730e3c69d23a",
+      "score": 0.5168517075828161
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "weather event",
+      "description": "Unusually heavy or intense rainfall events, often associated with climate variability and extremes",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6136866789461244
+    }
+  ],
+  "(24419, 27243)": [
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6496736295796106
+    },
+    {
+      "name": "east Australia",
+      "label": "location",
+      "description": "A region in Australia that includes the eastern states and territories, characterized by diverse climate and rainfall patterns",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5144850719764549
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "The El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon that affects global weather patterns and involves fluctuations in ocean temperatures and atmospheric circulation",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7936959156846813
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "variable",
+      "description": "Unusually high or low amounts of rainfall, often associated with severe weather events and climate variability",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6026898453157288
+    },
+    {
+      "name": "total rainfall amount",
+      "label": "variable",
+      "description": "The total amount of rainfall measured over a specific period of time, often used to study climate patterns and trends",
+      "uuid": "9466020a-db25-40ba-a76f-4720800efc92",
+      "score": 0.544333005602954
+    },
+    {
+      "name": "daily rainfall",
+      "label": "variable",
+      "description": "The amount of rainfall measured over a 24-hour period, used to study climate patterns and trends",
+      "uuid": "12250935-8f40-4279-aada-2f22cbef1459",
+      "score": 0.5443960482345792
+    }
+  ],
+  "(26763, 29555)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7561494701582913
+    },
+    {
+      "name": "El Ni\u00f1 o",
+      "label": "weather event",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6291687494263716
+    },
+    {
+      "name": "La Ni\u00f1 a",
+      "label": "weather event",
+      "description": "A periodic climate phenomenon characterized by the cooling of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.531644352287435
+    },
+    {
+      "name": "east Australia",
+      "label": "location",
+      "description": "A region in Australia, known for its diverse climate and weather patterns",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5211618257322087
+    },
+    {
+      "name": "IOD",
+      "label": "teleconnection",
+      "description": "The Indian Ocean Dipole, a climate phenomenon characterized by the difference in sea surface temperature between the western and eastern Indian Ocean, affecting global weather patterns",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.504020506548195
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5467818148690797
+    },
+    {
+      "name": "SOI",
+      "label": "variable",
+      "description": "The Southern Oscillation Index, a measure of the difference in atmospheric pressure between Tahiti and Darwin, used to monitor ENSO",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.729360681187789
+    }
+  ],
+  "(29103, 31786)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon involving fluctuations in ocean temperatures and atmospheric pressure in the Pacific Ocean",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7834965056480407
+    },
+    {
+      "name": "Southern Oscillation",
+      "label": "teleconnection",
+      "description": "A seesaw pattern of atmospheric pressure between the eastern and western Pacific Ocean, closely related to ENSO",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.6360277290434102
+    },
+    {
+      "name": "atmospheric pressure fluctuations",
+      "label": "variable",
+      "description": "Changes in atmospheric pressure that influence weather patterns and climate phenomena",
+      "uuid": "c0656cbc-5d94-4945-bbfd-1c8eabb059b2",
+      "score": 0.5556583686448432
+    },
+    {
+      "name": "Pacific",
+      "label": "location",
+      "description": "The largest of the world's five oceans, playing a crucial role in global climate regulation and weather patterns",
+      "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+      "score": 0.7645971554608244
+    },
+    {
+      "name": "rainfall variables",
+      "label": "variable",
+      "description": "Quantities used to measure and analyze rainfall, such as intensity, frequency, and duration",
+      "uuid": "a3260779-0923-4f25-94c3-0c2e5cb904df",
+      "score": 0.5017743261713044
+    },
+    {
+      "name": "convection",
+      "label": "variable",
+      "description": "The process by which heat and moisture are transferred from the surface to the atmosphere, influencing weather and climate",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6635323311333408
+    },
+    {
+      "name": "east Australia",
+      "label": "location",
+      "description": "A region in Australia, known for its varied climate and weather patterns influenced by ENSO and the IOD",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.504134561949986
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "The third-largest of the world's five oceans, playing a significant role in global climate patterns and the IOD",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.7236437489239361
+    }
+  ],
+  "(31285, 34113)": [
+    {
+      "name": "east Australian region",
+      "label": "location",
+      "description": "A part of Australia located in the eastern part of the country, known for its varied climate and weather patterns",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5148048110644293
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon involving fluctuations in ocean temperatures and atmospheric circulation in the Pacific Ocean",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7808456178783002
+    },
+    {
+      "name": "convection",
+      "label": "variable",
+      "description": "The process by which heat is transferred through the movement of fluids, playing a key role in shaping weather patterns and climate",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6723838346298923
+    },
+    {
+      "name": "continent",
+      "label": "location",
+      "description": "One of the seven large landmasses on Earth, characterized by distinct geological and geographical features",
+      "uuid": "0a672f19-dad5-4114-819a-2eb55bdbb56a",
+      "score": 0.6493888634639989
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographical area with distinct characteristics, often used to describe areas with unique climate, culture, or economic features",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.6249611502184668
+    },
+    {
+      "name": "southern parts",
+      "label": "location",
+      "description": "The southern areas of a region or continent, often characterized by unique climate and geographical features",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.5454707629332399
+    },
+    {
+      "name": "SE Australia",
+      "label": "location",
+      "description": "The southeastern part of Australia, known for its diverse climate and geography",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.512755848908939
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the ground, often used to study climate patterns and weather events",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.548923999259267
+    },
+    {
+      "name": "daily rainfall variables",
+      "label": "variable",
+      "description": "Measurements of rainfall that occur on a daily basis, used to study climate patterns and weather events",
+      "uuid": "f86e464a-cf9d-4e15-a39b-501855d1dc5a",
+      "score": 0.5172161799956024
+    }
+  ],
+  "(33705, 36637)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by fluctuations in the temperature of the surface of the Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7548053743617847
+    },
+    {
+      "name": "IOD",
+      "label": "teleconnection",
+      "description": "The Indian Ocean Dipole, a climate phenomenon that affects the Indian Ocean and surrounding regions, influencing rainfall and temperature patterns",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.5048260328043721
+    },
+    {
+      "name": "east Australia",
+      "label": "location",
+      "description": "A region in Australia, known for its varied climate and weather patterns",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5118366273300836
+    },
+    {
+      "name": "southern region",
+      "label": "location",
+      "description": "A region in Australia, characterized by its distinct climate and weather patterns",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.5409190772365037
+    },
+    {
+      "name": "SOI",
+      "label": "variable",
+      "description": "The Southern Oscillation Index, a measure of the atmospheric pressure difference between Tahiti and Darwin, used to track ENSO events",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.7302961363239167
+    },
+    {
+      "name": "SAM index",
+      "label": "variable",
+      "description": "A measure of the Southern Annular Mode, used to track SAM events",
+      "uuid": "2c1e046e-2feb-4cb7-a6dd-f3753db7b5f5",
+      "score": 0.5277377946754019
+    }
+  ],
+  "(36103, 39288)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon characterized by fluctuations in the surface temperature of the Pacific Ocean, impacting global climate patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.8122392971411877
+    },
+    {
+      "name": "east Australia",
+      "label": "location",
+      "description": "A region in Australia, known for its diverse climate and weather patterns, influenced by various climate modes",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5132543545729054
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, a key component of the climate system and a vital aspect of weather and climate research",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5681613668030716
+    },
+    {
+      "name": "southern region",
+      "label": "location",
+      "description": "A geographic area in the Southern Hemisphere, potentially referring to a specific part of Australia or another region",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6460382904793406
+    },
+    {
+      "name": "climate modes",
+      "label": "model",
+      "description": "Conceptual frameworks or simulations used to represent and understand various aspects of the climate system, including teleconnections and other climate phenomena",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.503690025093939
+    },
+    {
+      "name": "ENSO variability",
+      "label": "variable",
+      "description": "The fluctuations in the El Ni\u00f1o-Southern Oscillation, a key driver of climate variability in the Pacific and globally",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7229641761028974
+    },
+    {
+      "name": "SON",
+      "label": "weather event",
+      "description": "The Southern Oscillation Index, a measure of the atmospheric pressure difference between Tahiti and Darwin, used to track the El Ni\u00f1o-Southern Oscillation",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.7124387032020477
+    },
+    {
+      "name": "SOI",
+      "label": "variable",
+      "description": "The Southern Oscillation Index, a measure used to quantify the strength of the El Ni\u00f1o-Southern Oscillation",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.6869763748410377
+    }
+  ],
+  "(38755, 42026)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate pattern that affects global weather and climate variability",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7830858336065846
+    },
+    {
+      "name": "teleconnections",
+      "label": "teleconnection",
+      "description": "Large-scale patterns of climate variability that link weather and climate phenomena across vast distances",
+      "uuid": "b887d3e5-4280-43d2-a34e-0f63ac086b6a",
+      "score": 0.7075987512459353
+    },
+    {
+      "name": "warming climate",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by the long-term increase in Earth's average surface temperature, leading to various environmental and climatic changes",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6635234375737621
+    },
+    {
+      "name": "rainfall events",
+      "label": "weather event",
+      "description": "Occurrences of precipitation, ranging from light drizzle to heavy downpours, which can have significant impacts on the environment and human activities",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.558360598541026
+    },
+    {
+      "name": "east Australia",
+      "label": "location",
+      "description": "A region in Australia known for its diverse climate and geography, including coastal areas and inland regions",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5256514227302717
+    },
+    {
+      "name": "IPO",
+      "label": "teleconnection",
+      "description": "The Interdecadal Pacific Oscillation, a long-term climate pattern that affects the Pacific Ocean and global climate variability",
+      "uuid": "2de06b90-4abe-4c71-a537-978679bf8aea",
+      "score": 0.6061046120059783
+    },
+    {
+      "name": "SOI",
+      "label": "variable",
+      "description": "The Southern Oscillation Index, a measure of the atmospheric pressure difference between Tahiti and Darwin, used to monitor ENSO activity",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.7293665612156125
+    }
+  ],
+  "(41481, 44084)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "A complex climate pattern characterized by fluctuations in the temperature of the Pacific Ocean, affecting global climate variability",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7496207571883741
+    },
+    {
+      "name": "SOI",
+      "label": "variable",
+      "description": "The Southern Oscillation Index, a measure of the difference in atmospheric pressure between Tahiti and Darwin, used to track the phase of ENSO",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.7190884032652565
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "weather event",
+      "description": "A phase of ENSO characterized by warmer-than-average sea surface temperatures in the eastern Pacific, often associated with droughts in certain regions",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6184949584448566
+    },
+    {
+      "name": "water resources applications",
+      "label": "project",
+      "description": "The use of water resources for various purposes, including drinking water supply, irrigation, and hydroelectric power generation",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.6139625582309115
+    },
+    {
+      "name": "infiltration properties",
+      "label": "variable",
+      "description": "The ability of soil to absorb and retain water, influencing the likelihood and severity of floods",
+      "uuid": "875b1cd8-ca7e-4edb-9e83-ac78f1a3bc9f",
+      "score": 0.5810372986045871
+    },
+    {
+      "name": "evaporation losses",
+      "label": "variable",
+      "description": "The amount of water lost through evaporation, influencing the availability of water resources",
+      "uuid": "1e10e790-9f01-437e-8846-6c10d8330d6e",
+      "score": 0.5341067834052272
+    },
+    {
+      "name": "climate system",
+      "label": "model",
+      "description": "A complex system that includes the atmosphere, oceans, land, and ice, and the interactions among these components",
+      "uuid": "6a6bed83-f95a-44e6-8ae0-1371b532abc3",
+      "score": 0.5071810920686283
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its unique climate and weather patterns",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6992992021726937
+    }
+  ],
+  "(43745, 44441)": [
+    {
+      "name": "Australian Bureau of Meteorology",
+      "label": "provider",
+      "description": "The national weather service of Australia, responsible for providing weather forecasts, warnings, and climate information",
+      "uuid": "7680f9a6-9dac-4029-81fa-bbed0388bfcc",
+      "score": 0.6871901817344931
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, an important component of the water cycle and climate system",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.556668192375089
+    },
+    {
+      "name": "rainfall stations",
+      "label": "platform",
+      "description": "Locations where rainfall is measured and recorded, often using instruments such as rain gauges",
+      "uuid": "6a0afbcb-36d7-4b10-a2c1-35d4d14d6c75",
+      "score": 0.5312567185116082
+    },
+    {
+      "name": "SOI",
+      "label": "variable",
+      "description": "The Southern Oscillation Index, a measure of the difference in atmospheric pressure between Tahiti and Darwin, used to track El Ni\u00f1o and La Ni\u00f1a events",
+      "uuid": "eaa0bc43-e283-4bf1-ba20-ca32850a66ef",
+      "score": 0.721888391324788
+    }
+  ]
+}

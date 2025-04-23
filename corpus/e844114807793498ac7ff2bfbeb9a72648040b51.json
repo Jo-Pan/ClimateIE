@@ -1,0 +1,383 @@
+{
+  "(0, 3110)": [
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, affecting its suitability for various uses and the health of ecosystems",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7160677503036891
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the Earth's climate, driven by human activities and natural processes, influencing global weather patterns and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5811018853160377
+    },
+    {
+      "name": "harmful algal blooms",
+      "label": "natural hazard",
+      "description": "The rapid growth of algae in water, producing toxins that harm humans, animals, and the environment",
+      "uuid": "1b6e67ff-351f-490c-bb43-646ac71f52ea",
+      "score": 0.7233318538127164
+    },
+    {
+      "name": "hypoxic 'dead zones'",
+      "label": "natural hazard",
+      "description": "Areas in water where the oxygen levels are too low to support most forms of life, often caused by excess nutrients and pollution",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.6465764977017677
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "Intense, rotating storm systems that form over warm ocean waters, bringing strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.7359462977125943
+    },
+    {
+      "name": "Great Lakes",
+      "label": "location",
+      "description": "A series of five large freshwater lakes in North America, important for drinking water, recreation, and ecosystem health",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.7295112202885088
+    },
+    {
+      "name": "Chesapeake Bay",
+      "label": "location",
+      "description": "A large estuary on the east coast of the United States, known for its water quality issues and vulnerability to climate change",
+      "uuid": "fe83704a-e7f2-4e96-aacb-7c735d35cad6",
+      "score": 0.6802384673219763
+    },
+    {
+      "name": "Lake Erie",
+      "label": "location",
+      "description": "One of the Great Lakes, prone to harmful algal blooms and water quality issues due to climate and environmental factors",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.5137546530819038
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, with diverse climate zones, ecosystems, and water resources",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6971118416734782
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large and diverse range of climates, ecosystems, and water resources",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6751170515743229
+    },
+    {
+      "name": "World Health Organization",
+      "label": "provider",
+      "description": "A specialized agency of the United Nations, responsible for international public health and setting standards for water quality and safety",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6156100179251202
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances such as nitrogen and phosphorus that are essential for plant growth, but can pollute water and harm ecosystems when in excess",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.6300367476641855
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plants that live in water, playing a crucial role in the aquatic food chain and ecosystem health",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6789102912600876
+    },
+    {
+      "name": "organic carbon",
+      "label": "variable",
+      "description": "Carbon-based compounds that are found in all living things, influencing water quality and ecosystem health",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6437707704421214
+    }
+  ],
+  "(2664, 5575)": [
+    {
+      "name": "Great Lakes",
+      "label": "location",
+      "description": "A series of five interconnected freshwater lakes in North America, playing a crucial role in the region's ecosystem and water supply",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.79899346146485
+    },
+    {
+      "name": "Chesapeake Bay",
+      "label": "location",
+      "description": "The largest estuary in the United States, located on the east coast, known for its importance in marine biodiversity and water quality",
+      "uuid": "fe83704a-e7f2-4e96-aacb-7c735d35cad6",
+      "score": 0.6602000443418358
+    },
+    {
+      "name": "Lake Erie",
+      "label": "location",
+      "description": "One of the Great Lakes, located on the border between the United States and Canada, significant for its freshwater resources and ecosystem",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.6173279010679571
+    },
+    {
+      "name": "phyto plankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that produce toxins and are a key component of aquatic ecosystems",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6585214065769838
+    },
+    {
+      "name": "World Health Organization",
+      "label": "provider",
+      "description": "An international organization that sets standards for health and safety, including guidelines for safe levels of toxins in drinking water",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.5193102924675969
+    },
+    {
+      "name": "harmful algal blooms",
+      "label": "weather event",
+      "description": "The rapid growth of algae in water bodies, often producing toxins harmful to humans and wildlife",
+      "uuid": "1b6e67ff-351f-490c-bb43-646ac71f52ea",
+      "score": 0.7297294872646628
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the chemical, physical, and biological characteristics of water, affecting its suitability for human consumption, aquatic life, and other uses",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7204801818381849
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors that influence weather patterns",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5118498370764222
+    },
+    {
+      "name": "hydrological cycle",
+      "label": "ocean circulation",
+      "description": "The continuous process by which water is circulated between the Earth's oceans, atmosphere, and land, influencing climate and weather patterns",
+      "uuid": "885735f3-121e-4ca0-ac8b-f37dbc972f03",
+      "score": 0.5332538945746909
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "The largest state in the United States, located in the northwest corner of North America, with diverse marine and freshwater ecosystems",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.6808076269093336
+    },
+    {
+      "name": "Gulf of Mexico",
+      "label": "location",
+      "description": "A large body of water located in the southeastern United States and eastern Mexico, known for its rich marine biodiversity and commercial fisheries",
+      "uuid": "75fab119-51a6-4b59-9711-f6c3cd3139db",
+      "score": 0.7367669429335502
+    }
+  ],
+  "(5040, 8301)": [
+    {
+      "name": "harmful algal blooms",
+      "label": "weather event",
+      "description": "A type of aquatic phenomenon characterized by the rapid growth of algae, potentially producing toxins harmful to humans and wildlife",
+      "uuid": "ba506291-2799-4877-a886-8e906704a060",
+      "score": 0.735217058193203
+    },
+    {
+      "name": "phosphorus",
+      "label": "variable",
+      "description": "A nutrient that can contribute to the growth of algae in aquatic systems, often originating from agricultural runoff or other human activities",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.6230792365533903
+    },
+    {
+      "name": "land-management practices",
+      "label": "platform",
+      "description": "Human activities that can influence water quality by altering nutrient loads, sedimentation, and other factors affecting aquatic ecosystems",
+      "uuid": "2be0af28-a6b8-4fce-82e4-1ad86788a4d5",
+      "score": 0.5073933893467744
+    },
+    {
+      "name": "Microcystis cyanobacteria",
+      "label": "variable",
+      "description": "A type of algae that can produce toxins harmful to humans and wildlife, often associated with harmful algal blooms",
+      "uuid": "166de4c9-89ad-4248-b771-512beb1705cf",
+      "score": 0.5590940661064588
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in temperature, precipitation, and other environmental factors, potentially impacting water quality and aquatic ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5311645405195939
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, influencing its suitability for human use and aquatic life",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7163326824851867
+    },
+    {
+      "name": "watersheds",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a lake or river, and can be impacted by human activities affecting water quality",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.6721679012417391
+    },
+    {
+      "name": "estuaries",
+      "label": "location",
+      "description": "Coastal ecosystems where freshwater and saltwater mix, often supporting diverse aquatic life and being vulnerable to water quality issues",
+      "uuid": "8d634619-aed2-4326-a73d-cec49ff74398",
+      "score": 0.6943269572401987
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances such as phosphorus and nitrogen that can contribute to the growth of algae and other aquatic life, potentially impacting water quality",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.6332755854157308
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plants that form the base of aquatic food webs, potentially contributing to harmful algal blooms and water quality issues",
+      "uuid": "235996b1-b1a8-4c20-bb1f-711fb1a0c952",
+      "score": 0.6464492655952737
+    }
+  ],
+  "(7772, 10727)": [
+    {
+      "name": "harmful algal bloom",
+      "label": "weather event",
+      "description": "A sudden increase in the growth of algae in a water body, which can produce toxins harmful to humans and wildlife",
+      "uuid": "1b6e67ff-351f-490c-bb43-646ac71f52ea",
+      "score": 0.7092194052922582
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that live in water and are the primary producers of aquatic ecosystems",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.675671812455167
+    },
+    {
+      "name": "toxins",
+      "label": "variable",
+      "description": "Substances produced by certain microorganisms, such as algae, that can be harmful to humans and wildlife",
+      "uuid": "631935dd-0a9f-4627-bbb1-c224ac0a7766",
+      "score": 0.5425237932454291
+    },
+    {
+      "name": "ecosystem",
+      "label": "location",
+      "description": "A community of living and non-living components that interact with each other in a specific environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6726691267715063
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The way in which land is utilized by humans, such as for agriculture, urban development, or conservation",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.566089010214826
+    },
+    {
+      "name": "land management",
+      "label": "variable",
+      "description": "The practice of managing land resources to achieve specific goals, such as sustainable development or environmental conservation",
+      "uuid": "2be0af28-a6b8-4fce-82e4-1ad86788a4d5",
+      "score": 0.6867456255642931
+    },
+    {
+      "name": "population distributions",
+      "label": "variable",
+      "description": "The way in which people are distributed across a particular area or region",
+      "uuid": "ae9f3a07-f23e-4116-b172-677435102b2f",
+      "score": 0.6196955884640323
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, an effort to compare climate projections under different scenarios",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8186070774996513
+    },
+    {
+      "name": "hypoxic dead zones",
+      "label": "natural hazard",
+      "description": "Areas in water bodies where there is not enough oxygen to support most forms of life",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.5955644227608791
+    },
+    {
+      "name": "recreational waters",
+      "label": "location",
+      "description": "Bodies of water used for recreational activities, such as swimming, boating, or fishing",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.5135453736974427
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6658183508968357
+    },
+    {
+      "name": "high precipitation",
+      "label": "weather event",
+      "description": "A significant amount of rainfall or other forms of precipitation that can cause flooding or other impacts on human populations and ecosystems",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6121161721252798
+    },
+    {
+      "name": "warm temperatures",
+      "label": "weather event",
+      "description": "Higher-than-average temperatures that can cause heat stress or other impacts on human populations and ecosystems",
+      "uuid": "bb9c9be6-78c7-4fbd-9a35-a218276393ec",
+      "score": 0.5509093057452757
+    },
+    {
+      "name": "GEO",
+      "label": "provider",
+      "description": "The Group on Earth Observations, an international partnership that aims to improve the use of Earth observations for sustainable development",
+      "uuid": "283815b3-8467-422e-9def-114d3436b772",
+      "score": 0.6459301553852954
+    },
+    {
+      "name": "AquaWatch",
+      "label": "project",
+      "description": "An initiative that aims to improve the monitoring and prediction of water quality and availability",
+      "uuid": "d4dd9cfc-2625-4d4d-9b5b-67bb541baa8d",
+      "score": 0.506342724870557
+    },
+    {
+      "name": "Sustainable Development Goal",
+      "label": "project",
+      "description": "A set of goals adopted by the United Nations to promote sustainable development and improve the well-being of people and the planet",
+      "uuid": "8d11c81c-ff5b-4cc0-9be2-8e73dddcb51b",
+      "score": 0.5507528983507793
+    }
+  ],
+  "(10639, 10727)": [
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, used to assess its suitability for various uses",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7162070071879337
+    },
+    {
+      "name": "extremes",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences, such as floods, droughts, or heatwaves, that can impact water quantity and quality",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5807027000992467
+    }
+  ]
+}

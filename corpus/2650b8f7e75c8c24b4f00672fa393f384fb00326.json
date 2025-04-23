@@ -1,0 +1,720 @@
+{
+  "(0, 3132)": [
+    {
+      "name": "general climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6672102318298071
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over a period of time, often referring to global warming and its effects on the environment",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5690299261404369
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including landforms, elevation, and terrain",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6798369961363471
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The human use of land for purposes such as agriculture, urbanization, and conservation, which can impact ecological communities and climate change",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5835393337713485
+    },
+    {
+      "name": "plant community",
+      "label": "variable",
+      "description": "A group of plant species that co-occur in a particular area, often influenced by factors such as climate, topography, and land use",
+      "uuid": "ad7abcce-b88e-46c7-be44-496d60c88f25",
+      "score": 0.501071382804858
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of an area above sea level, which can impact climate, vegetation, and ecological communities",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.531483334509228
+    }
+  ],
+  "(2547, 5649)": [
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A research initiative focused on understanding and mitigating the impacts of global warming on ecosystems and biodiversity",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5954195824851666
+    },
+    {
+      "name": "western United States",
+      "label": "location",
+      "description": "A region in North America, characterized by diverse ecosystems and significant climate variability",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.6970297464961327
+    },
+    {
+      "name": "alpine",
+      "label": "location",
+      "description": "A high-elevation region in mountainous areas, often with unique and fragile ecosystems",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.6054048577836342
+    },
+    {
+      "name": "Oregon",
+      "label": "location",
+      "description": "A state in the United States, characterized by diverse ecosystems and significant climate variability",
+      "uuid": "699d5c22-6bcd-4cfa-be0f-f06e34a63513",
+      "score": 0.6638279154384126
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used to study climate patterns and ecosystem responses",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6566260663692219
+    },
+    {
+      "name": "snow-free growing season",
+      "label": "variable",
+      "description": "The period of time during which plants can grow, influenced by temperature and snow cover",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6121466237803407
+    },
+    {
+      "name": "plant productivity",
+      "label": "variable",
+      "description": "A measure of the amount of biomass produced by plants, often used to study ecosystem responses to climate change",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5589488425879935
+    },
+    {
+      "name": "drought stress",
+      "label": "variable",
+      "description": "A measure of the water deficit experienced by plants, often used to study ecosystem responses to climate change",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5795227774599424
+    },
+    {
+      "name": "tree growth rates",
+      "label": "variable",
+      "description": "A measure of the rate at which trees grow, often used to study ecosystem responses to climate change",
+      "uuid": "6444fc67-8cad-41c0-9ded-e93f604ba8b0",
+      "score": 0.5279584236763007
+    },
+    {
+      "name": "remotely sensed productivity indices",
+      "label": "variable",
+      "description": "Measurements of ecosystem productivity, often used to study responses to climate change",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5326950687447515
+    },
+    {
+      "name": "flowering phenology",
+      "label": "variable",
+      "description": "The study of the timing of plant flowering, often used to study ecosystem responses to climate change",
+      "uuid": "c6f81edb-b683-4356-93e6-5852766a5ee8",
+      "score": 0.5769081044172406
+    },
+    {
+      "name": "human land-use history",
+      "label": "project",
+      "description": "A research initiative focused on understanding the impacts of human activities on ecosystems and biodiversity",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5005932137619977
+    },
+    {
+      "name": "snow relative density",
+      "label": "variable",
+      "description": "A measure of the density of snow, often used to study climate patterns and ecosystem responses",
+      "uuid": "fde70d8c-d64c-4784-971d-589eedfc42d1",
+      "score": 0.6848346897937866
+    },
+    {
+      "name": "snow-water equivalent",
+      "label": "variable",
+      "description": "A measure of the amount of water stored in snow, often used to study climate patterns and ecosystem responses",
+      "uuid": "587e4d68-36f0-45b5-9978-4b3edd58a1c0",
+      "score": 0.7945231142937293
+    },
+    {
+      "name": "clear-cut logging",
+      "label": "project",
+      "description": "A human activity that involves the removal of all trees in a forested area, often used to study ecosystem responses to land use change",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.5084819262958299
+    }
+  ],
+  "(5118, 8054)": [
+    {
+      "name": "snow relative density",
+      "label": "variable",
+      "description": "A measure of the density of snow, which is used to calculate snow-water equivalent",
+      "uuid": "fde70d8c-d64c-4784-971d-589eedfc42d1",
+      "score": 0.6629333538910328
+    },
+    {
+      "name": "snow-water equivalent",
+      "label": "variable",
+      "description": "The product of snow depth and snow relative density, used to estimate the amount of water stored in snowpack",
+      "uuid": "587e4d68-36f0-45b5-9978-4b3edd58a1c0",
+      "score": 0.7541788415782811
+    },
+    {
+      "name": "mean annual temperatures",
+      "label": "variable",
+      "description": "The average temperature of a region over a year, used to study climate trends",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.5320321236557748
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6909685933805586
+    },
+    {
+      "name": "upper montane to subalpine forests",
+      "label": "location",
+      "description": "Forests located at higher elevations in mountainous regions, characterized by specific vegetation and climate conditions",
+      "uuid": "99e09719-f1f8-439e-be4c-759242612a84",
+      "score": 0.5082555959484282
+    },
+    {
+      "name": "specific leaf area (SLA)",
+      "label": "variable",
+      "description": "A measure of the area of a leaf divided by its dry mass, used to study plant morphology and ecology",
+      "uuid": "f829171e-8b22-4f93-8f71-7932dfd7a70b",
+      "score": 0.54137321926968
+    },
+    {
+      "name": "relative cover by herbs",
+      "label": "variable",
+      "description": "The proportion of an area covered by herbaceous plants, used to study vegetation composition and ecology",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.5308758365730916
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, which can have significant environmental and ecological impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5766838519494589
+    }
+  ],
+  "(7511, 10302)": [
+    {
+      "name": "upper montane to subalpine forests",
+      "label": "location",
+      "description": "Forested regions at high elevations, typically characterized by specific tree species and understory vegetation adapted to harsh climate conditions",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.5141022270460577
+    },
+    {
+      "name": "drought stress",
+      "label": "natural hazard",
+      "description": "A condition where plants experience water scarcity, often leading to changes in ecosystem composition and function",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5542288994136223
+    },
+    {
+      "name": "human land-use history",
+      "label": "variable",
+      "description": "The record of how humans have used and modified the land over time, including activities such as logging, agriculture, and urbanization",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5028232730803609
+    },
+    {
+      "name": "climatic warming",
+      "label": "variable",
+      "description": "The increase in global temperatures due to climate change, often affecting ecosystems and species distributions",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6282597363989293
+    },
+    {
+      "name": "logging",
+      "label": "variable",
+      "description": "The removal of trees from a forest, often for timber or other wood products, which can impact ecosystem function and biodiversity",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.5196914861374288
+    },
+    {
+      "name": "fire",
+      "label": "natural hazard",
+      "description": "An uncontrolled blaze that can occur in wildland areas, often affecting ecosystems and species distributions",
+      "uuid": "868b87a1-d8c2-49b3-8bbd-9cbbed115271",
+      "score": 0.5784124475869815
+    },
+    {
+      "name": "grazing",
+      "label": "variable",
+      "description": "The act of animals feeding on plants, often impacting ecosystem function and biodiversity",
+      "uuid": "c09be13f-5dc2-4460-9055-1a7232aa41ae",
+      "score": 0.5641606269840429
+    },
+    {
+      "name": "exotic species",
+      "label": "variable",
+      "description": "Non-native species introduced to an ecosystem, often outcompeting native species for resources and habitat",
+      "uuid": "ddeb06af-5c36-428d-801e-e9f9a60ce429",
+      "score": 0.722704161245758
+    },
+    {
+      "name": "forest canopy cover",
+      "label": "variable",
+      "description": "The amount of area covered by the upper layer of a forest, often influencing understory vegetation and ecosystem function",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.6155462700010441
+    },
+    {
+      "name": "succession",
+      "label": "variable",
+      "description": "The process of ecological change over time, often following disturbances such as fire or logging",
+      "uuid": "ad7abcce-b88e-46c7-be44-496d60c88f25",
+      "score": 0.5880541393882003
+    }
+  ],
+  "(9955, 12615)": [
+    {
+      "name": "SLA",
+      "label": "variable",
+      "description": "Specific Leaf Area, a trait used to measure the abundance-weighted mean of plant species",
+      "uuid": "201b21eb-5781-4d69-ba1f-026111b3b1e5",
+      "score": 0.5460805569769903
+    },
+    {
+      "name": "subalpine forest",
+      "label": "location",
+      "description": "A forest ecosystem located in the subalpine region, characterized by specific vegetation and climate conditions",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.6174631753917768
+    }
+  ],
+  "(12121, 14447)": [
+    {
+      "name": "SLA",
+      "label": "variable",
+      "description": "A measure of the specific leaf area, which is the ratio of leaf surface area to leaf dry mass",
+      "uuid": "f829171e-8b22-4f93-8f71-7932dfd7a70b",
+      "score": 0.5521387784030293
+    },
+    {
+      "name": "mean canopy cover",
+      "label": "variable",
+      "description": "A measure of the percentage of the forest floor covered by the canopy of trees and other vegetation",
+      "uuid": "7266c8c3-81eb-47fd-849c-55a1498c4d3d",
+      "score": 0.6251587339479283
+    },
+    {
+      "name": "subalpine forest",
+      "label": "location",
+      "description": "A type of forest ecosystem located in subalpine regions, characterized by specific plant and animal species",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.612676594528393
+    }
+  ],
+  "(14017, 16545)": [
+    {
+      "name": "western United States",
+      "label": "location",
+      "description": "A region in North America, characterized by diverse landscapes and climates, including deserts, mountains, and coastlines",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.7231544385048816
+    },
+    {
+      "name": "climatic warming",
+      "label": "weather event",
+      "description": "A long-term increase in global temperatures, leading to changes in climate patterns and ecosystems",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6085770026568741
+    },
+    {
+      "name": "subalpine forest",
+      "label": "location",
+      "description": "A type of forest ecosystem found in mountainous regions, typically at high elevations, and characterized by specific plant and animal species",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.6043752551448239
+    },
+    {
+      "name": "forest succession",
+      "label": "natural hazard",
+      "description": "The process of change in forest ecosystems over time, often in response to disturbances such as fires, floods, or climate change",
+      "uuid": "ad7abcce-b88e-46c7-be44-496d60c88f25",
+      "score": 0.5344044338944416
+    },
+    {
+      "name": "canopy expansion",
+      "label": "variable",
+      "description": "An increase in the area covered by the upper layer of a forest, often in response to environmental changes such as warming or increased precipitation",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.5784550986806248
+    },
+    {
+      "name": "SLA",
+      "label": "variable",
+      "description": "Specific Leaf Area, a measure of the surface area of a leaf per unit of leaf mass, used to describe the characteristics of plant species",
+      "uuid": "f829171e-8b22-4f93-8f71-7932dfd7a70b",
+      "score": 0.5579153317859267
+    },
+    {
+      "name": "ecological communities",
+      "label": "variable",
+      "description": "Groups of living organisms, including plants, animals, and microorganisms, that interact with each other and their environment in a specific ecosystem",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5252294201993022
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in global climate patterns, leading to changes in ecosystems, biodiversity, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5810872097516558
+    }
+  ],
+  "(16042, 19022)": [
+    {
+      "name": "forest canopy cover",
+      "label": "variable",
+      "description": "A measure of the amount of area covered by the upper layer of a forest, often used to study the effects of climate change on ecosystems>",
+      "uuid": "7266c8c3-81eb-47fd-849c-55a1498c4d3d",
+      "score": 0.6487634984539098
+    },
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A research initiative to study the impacts of global warming on ecosystems and communities>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5941251965957958
+    },
+    {
+      "name": "study region",
+      "label": "location",
+      "description": "The area where the research was conducted, used to study the effects of climate change on ecosystems>",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.5373533230489375
+    },
+    {
+      "name": "ecological communities",
+      "label": "variable",
+      "description": "A group of different species that interact with each other in a particular area, often used to study the effects of climate change on ecosystems>",
+      "uuid": "8fb66b46-b998-4412-a541-d2acabdf484b",
+      "score": 0.5196732197864039
+    },
+    {
+      "name": "high-elevation ecosystems",
+      "label": "location",
+      "description": "Ecosystems found at high elevations, often used to study the effects of climate change on sensitive environments>",
+      "uuid": "944d9d09-4317-4e9a-9aa5-dc4282be406e",
+      "score": 0.5064781493427015
+    },
+    {
+      "name": "snowpack",
+      "label": "variable",
+      "description": "A layer of snow that covers the ground, often used to study the effects of climate change on water availability>",
+      "uuid": "abc70f23-f386-41da-b1ad-43cd7aebe7c4",
+      "score": 0.580714805447279
+    },
+    {
+      "name": "fire cycle",
+      "label": "variable",
+      "description": "The frequency and pattern of wildfires in a particular area, often used to study the effects of climate change on ecosystems>",
+      "uuid": "e6f1ee58-fb71-42dd-b071-c1637da7e51f",
+      "score": 0.5814807247392958
+    },
+    {
+      "name": "herb cover",
+      "label": "variable",
+      "description": "A measure of the amount of area covered by herbaceous plants, often used to study the effects of climate change on ecosystems>",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.5516830803342114
+    },
+    {
+      "name": "human land-use activities",
+      "label": "project",
+      "description": "Research initiatives that study the impacts of human activities on the environment>",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5436030777967458
+    }
+  ],
+  "(18528, 21472)": [
+    {
+      "name": "western United States",
+      "label": "location",
+      "description": "A region in the United States, characterized by diverse landscapes, climates, and ecosystems",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.7060901801412318
+    },
+    {
+      "name": "exotic species",
+      "label": "variable",
+      "description": "Non-native species that have been introduced to an ecosystem, potentially causing harm to native species and ecosystems",
+      "uuid": "ddeb06af-5c36-428d-801e-e9f9a60ce429",
+      "score": 0.7217720126137935
+    },
+    {
+      "name": "evergreen hardwoods",
+      "label": "variable",
+      "description": "A type of tree, characterized by its ability to retain leaves year-round and its hardwood characteristics",
+      "uuid": "16a7b4d6-e47f-4753-8803-f72edc4e1c5e",
+      "score": 0.5137454695646291
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872681524345835
+    },
+    {
+      "name": "forest succession",
+      "label": "natural hazard",
+      "description": "The process of change in the species composition of a forest over time, potentially influenced by factors such as climate change, fire, and human activity",
+      "uuid": "ad7abcce-b88e-46c7-be44-496d60c88f25",
+      "score": 0.5358089602382857
+    },
+    {
+      "name": "fire suppression",
+      "label": "experiment",
+      "description": "A management strategy aimed at preventing or reducing the occurrence of wildfires, potentially influencing forest ecosystems and biodiversity",
+      "uuid": "5e693789-87a8-4f94-9b5d-a50cecf55e24",
+      "score": 0.5934398966286132
+    }
+  ],
+  "(21131, 23612)": [
+    {
+      "name": "conifers",
+      "label": "variable",
+      "description": "A type of tree species",
+      "uuid": "b26769a1-f023-4ab1-bc21-78ef2a5fd185",
+      "score": 0.7010836127057148
+    },
+    {
+      "name": "climate data",
+      "label": "variable",
+      "description": "Data related to temperature and precipitation patterns",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.6038199455940769
+    },
+    {
+      "name": "snowwater equivalent",
+      "label": "variable",
+      "description": "A measure of the amount of water in snow",
+      "uuid": "30bd3a01-8cb0-4045-a998-582adbf97df9",
+      "score": 0.7668565636731856
+    }
+  ],
+  "(23240, 25793)": [
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant species and communities found in a particular area, often used to study ecosystem variation and response to environmental changes",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6097836505341315
+    },
+    {
+      "name": "snowwater equivalent",
+      "label": "variable",
+      "description": "A measure of the amount of water contained in snow, calculated as the product of snow depth and water content",
+      "uuid": "30bd3a01-8cb0-4045-a998-582adbf97df9",
+      "score": 0.7609666682704239
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including elevation, slope, and aspect",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6711714734118832
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of an object or point in relation to sea level or ground level, often used to describe the physical environment of a study area",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.6145191331549037
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "The angle of inclination of a surface, often used to describe the physical environment of a study area",
+      "uuid": "aeb02243-583f-444e-a2a4-341ab351a3d8",
+      "score": 0.5900030754809984
+    },
+    {
+      "name": "conifers",
+      "label": "variable",
+      "description": "A type of tree that produces cones and has needle-like leaves, often used as an indicator species in ecological studies",
+      "uuid": "b26769a1-f023-4ab1-bc21-78ef2a5fd185",
+      "score": 0.7139356387231313
+    }
+  ],
+  "(25382, 27964)": [
+    {
+      "name": "global positioning system",
+      "label": "instrument",
+      "description": "A device used for navigation and precise location determination",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.7006806090541716
+    },
+    {
+      "name": "site locations",
+      "label": "variable",
+      "description": "Data on the location of research sites, including road, elevation, slope, and aspect",
+      "uuid": "ca8f355b-7f63-407d-89bb-d3a6cd10d683",
+      "score": 0.5098943543059854
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of a location above sea level",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.609454912147832
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "The incline or steepness of a location",
+      "uuid": "aeb02243-583f-444e-a2a4-341ab351a3d8",
+      "score": 0.559902016285014
+    },
+    {
+      "name": "aspect",
+      "label": "variable",
+      "description": "The direction or orientation of a location",
+      "uuid": "284594aa-8f07-41db-927c-f84980da2877",
+      "score": 0.5004923565474471
+    },
+    {
+      "name": "dbh",
+      "label": "variable",
+      "description": "The diameter at breast height of a tree, a measurement used to estimate tree size",
+      "uuid": "91608ee6-a979-4be5-8405-31cb9d94a85a",
+      "score": 0.6359534280675304
+    },
+    {
+      "name": "SLA",
+      "label": "variable",
+      "description": "Specific leaf area, a measurement of the area of a leaf per unit mass",
+      "uuid": "f829171e-8b22-4f93-8f71-7932dfd7a70b",
+      "score": 0.5573849823300636
+    }
+  ],
+  "(27536, 30224)": [
+    {
+      "name": "SLA",
+      "label": "variable",
+      "description": "Specific Leaf Area, a measure of the area of a leaf per unit of its dry mass, used to characterize plant species and communities",
+      "uuid": "f829171e-8b22-4f93-8f71-7932dfd7a70b",
+      "score": 0.5554553278830128
+    },
+    {
+      "name": "LMA",
+      "label": "variable",
+      "description": "Leaf Mass per Area, the inverse of Specific Leaf Area, used to characterize plant species and communities",
+      "uuid": "201b21eb-5781-4d69-ba1f-026111b3b1e5",
+      "score": 0.5573202789833287
+    },
+    {
+      "name": "topographic microclimates",
+      "label": "location",
+      "description": "Small-scale environments that are influenced by the shape and features of the surrounding landscape",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.5358113570458457
+    }
+  ],
+  "(29759, 32234)": [
+    {
+      "name": "warming climate",
+      "label": "weather event",
+      "description": "A period of significant increase in global temperatures, leading to changes in climate patterns and ecosystems",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.634968540829738
+    },
+    {
+      "name": "topographic microclimates",
+      "label": "location",
+      "description": "Small-scale climate variations caused by the physical features of an area, such as slope and aspect",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.573995521769826
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the northern hemisphere, comprising the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7142507186617466
+    }
+  ],
+  "(31829, 34616)": [
+    {
+      "name": "US Department of Agriculture",
+      "label": "provider",
+      "description": "A government agency responsible for promoting agriculture and natural resources in the United States",
+      "uuid": "90bb0b25-358d-4f12-afca-fc54e99379ff",
+      "score": 0.6948184694817786
+    },
+    {
+      "name": "US Forest Service",
+      "label": "provider",
+      "description": "A government agency responsible for managing national forests in the United States",
+      "uuid": "f274fd77-02d2-4c98-b3c4-a9073b9c2e5a",
+      "score": 0.6366043213004412
+    },
+    {
+      "name": "aerial photographs",
+      "label": "instrument",
+      "description": "Images taken from an aircraft to study the Earth's surface",
+      "uuid": "3cb5948f-2a92-4c2a-9410-eb17a1045d8e",
+      "score": 0.6150836417356919
+    },
+    {
+      "name": "forest canopy cover",
+      "label": "variable",
+      "description": "The layer of leaves and branches at the top of a forest, influencing climate and ecosystem processes",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.6172188509558325
+    },
+    {
+      "name": "field-measured latitude",
+      "label": "variable",
+      "description": "A measurement of the geographic latitude of a location, obtained through field observations",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.507343753112079
+    }
+  ],
+  "(34047, 34750)": [
+    {
+      "name": "forest canopy cover",
+      "label": "variable",
+      "description": "A measure of the proportion of the forest floor covered by the canopy of trees, often used as an indicator of forest health and structure",
+      "uuid": "7266c8c3-81eb-47fd-849c-55a1498c4d3d",
+      "score": 0.6182782884258745
+    },
+    {
+      "name": "community type",
+      "label": "location",
+      "description": "A classification of forest ecosystems based on their composition and structure, which can influence the distribution and abundance of plant and animal species",
+      "uuid": "a8d3f9a0-be0b-4690-86b9-ac64d951886a",
+      "score": 0.5045238146356193
+    },
+    {
+      "name": "SLA",
+      "label": "variable",
+      "description": "Specific Leaf Area, a measure of the ratio of leaf area to leaf mass, often used to describe plant species' characteristics and their responses to environmental conditions",
+      "uuid": "f829171e-8b22-4f93-8f71-7932dfd7a70b",
+      "score": 0.5621805849029233
+    },
+    {
+      "name": "aerial photos",
+      "label": "instrument",
+      "description": "Photographs taken from aircraft or satellites, used to monitor and analyze changes in forest cover and other environmental features over time",
+      "uuid": "3cb5948f-2a92-4c2a-9410-eb17a1045d8e",
+      "score": 0.5449909514164086
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "(0, 2736)": [
+    {
+      "name": "warming climate system",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across vast distances, characterized by an increase in global temperatures",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.528375519041818
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across vast distances, characterized by an increase in global temperatures",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5305629574263396
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a diverse geography and climate, and a significant impact on global climate change",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6952708549993549
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability of water for human consumption, agriculture, and other uses, which is affected by climate change",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6839458324739965
+    },
+    {
+      "name": "CO2 emission",
+      "label": "variable",
+      "description": "The amount of carbon dioxide released into the atmosphere, which contributes to climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.5607099407094003
+    },
+    {
+      "name": "soil salinization",
+      "label": "natural hazard",
+      "description": "The process of increasing salt concentration in soil, which can be exacerbated by climate change and affect land productivity",
+      "uuid": "3b54403e-25a1-43cc-97ac-7c14e73bda96",
+      "score": 0.5424639990490061
+    },
+    {
+      "name": "land productivity",
+      "label": "variable",
+      "description": "The ability of land to produce crops, which can be affected by climate change and soil salinization",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.6725744380743137
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that provides scientific advice on climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7223458457301821
+    },
+    {
+      "name": "tropical cyclone",
+      "label": "weather event",
+      "description": "A type of extreme weather event characterized by strong winds and heavy rainfall, which can be affected by climate change",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6860956727722813
+    },
+    {
+      "name": "sea level",
+      "label": "variable",
+      "description": "The level of the ocean's surface, which is rising due to climate change",
+      "uuid": "9ac7a1c5-4179-47bc-8589-ebaa90d6cbd1",
+      "score": 0.7132844794257461
+    }
+  ],
+  "(2275, 4767)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international body that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7482752988170279
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the planet due to increased greenhouse gas emissions, leading to various impacts on the environment and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.599560355956594
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on agriculture, ecosystems, and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7166298980179693
+    },
+    {
+      "name": "irrigation facilities",
+      "label": "instrument",
+      "description": "Infrastructure used to supply water to agricultural land for crop growth",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5742192859838235
+    },
+    {
+      "name": "irrigated agricultural land",
+      "label": "location",
+      "description": "Agricultural land that is supplied with water through irrigation facilities",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5642568794901799
+    },
+    {
+      "name": "surface water",
+      "label": "variable",
+      "description": "Water that is found on the surface of the Earth, including rivers, lakes, and reservoirs",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7063642281780876
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water that is stored beneath the Earth's surface in soil and rock formations",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6806512627316281
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability of water for human use, including surface water, groundwater, and other sources",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6917154614547413
+    }
+  ],
+  "(4325, 6878)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across vast distances, impacting global ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5187699091917652
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability and quality of water for various uses, including agricultural, industrial, and domestic purposes",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6855504304728971
+    },
+    {
+      "name": "agriculture",
+      "label": "platform",
+      "description": "The practice of cultivating the soil, growing crops, and raising livestock, playing a crucial role in food security and sustainable development",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5190865152515831
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability and access to sufficient, safe, and nutritious food for all people, essential for human well-being and sustainable development",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7252723461861881
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large and growing population, facing significant challenges in water resources management and climate change adaptation",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.573886935747608
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases, such as carbon dioxide and methane, that contribute to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5184611683957562
+    }
+  ],
+  "(6491, 9344)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large and diverse geography, climate, and population",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6826035143173997
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon of rising temperatures and changing weather patterns, affecting ecosystems, economies, and societies worldwide",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5887021746880832
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability of sufficient, safe, and nutritious food for all people, influenced by factors such as climate change, agricultural production, and water resources",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6983144140423111
+    },
+    {
+      "name": "irrigation",
+      "label": "variable",
+      "description": "The application of controlled amounts of water to plants at needed intervals, essential for agricultural production and influenced by climate change",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7082903002065327
+    },
+    {
+      "name": "agricultural production",
+      "label": "variable",
+      "description": "The output of agricultural activities, including crops, livestock, and other products, influenced by factors such as climate change, water resources, and irrigation practices",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5733941770018844
+    }
+  ],
+  "(8862, 11379)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its large population and significant agricultural production",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.582165210295696
+    },
+    {
+      "name": "surface water",
+      "label": "variable",
+      "description": "Water that collects on the surface of the Earth, including rivers, lakes, and reservoirs",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6936875265915871
+    },
+    {
+      "name": "ground water",
+      "label": "variable",
+      "description": "Water that is stored beneath the Earth's surface, often used for irrigation and drinking water",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6924323798579494
+    },
+    {
+      "name": "water",
+      "label": "variable",
+      "description": "A vital resource for irrigation, often used to calculate water savings and energy consumption",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.5485550859002241
+    }
+  ],
+  "(11090, 13411)": [
+    {
+      "name": "MWRC",
+      "label": "provider",
+      "description": "A research institution or organization that publishes guidelines and standards for irrigation and drainage engineering",
+      "uuid": "769fdf92-9850-4a67-8949-a9244746a8ea",
+      "score": 0.5208410722535639
+    }
+  ],
+  "(12948, 15380)": [
+    {
+      "name": "provincial level",
+      "label": "location",
+      "description": "Administrative divisions of a country, typically including provinces or states",
+      "uuid": "3381412c-54f0-4911-85ef-81d669c896cf",
+      "score": 0.5127398465662755
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a diverse geography and climate",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6848249986740013
+    },
+    {
+      "name": "ground water level",
+      "label": "variable",
+      "description": "The level of water in the ground, which can fluctuate due to various factors such as pumping and climate change",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6030090780808672
+    }
+  ],
+  "(16817, 19637)": [
+    {
+      "name": "climate change mitigation",
+      "label": "project",
+      "description": "Efforts and strategies to reduce greenhouse gas emissions and slow the rate of global warming",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6631802737429143
+    },
+    {
+      "name": "climate change adaptation",
+      "label": "project",
+      "description": "Initiatives and measures to adapt to the impacts of climate change, focusing on resilience and sustainability",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6248382092802318
+    },
+    {
+      "name": "CO2 emission",
+      "label": "variable",
+      "description": "The amount of carbon dioxide released into the atmosphere, a key indicator of greenhouse gas emissions",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.5659354395850149
+    },
+    {
+      "name": "irrigation",
+      "label": "instrument",
+      "description": "A system or method for supplying water to land or crops to help growth",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6972396890900674
+    }
+  ],
+  "(19212, 21516)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with significant agricultural production and water management challenges",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5626299459359019
+    },
+    {
+      "name": "irrigated acreage",
+      "label": "variable",
+      "description": "The area of land equipped for irrigation, an important factor in agricultural water management",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.506646031268228
+    }
+  ],
+  "(21178, 23599)": [
+    {
+      "name": "water",
+      "label": "variable",
+      "description": "A vital component of the Earth's climate system, essential for agriculture, human consumption, and ecosystem health",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5671349590550239
+    },
+    {
+      "name": "emission",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide, into the atmosphere, contributing to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.6126457455191946
+    },
+    {
+      "name": "irrigation areas",
+      "label": "location",
+      "description": "Regions where irrigation is used to support agricultural production, often relying on water-saving measures to reduce energy consumption and emissions",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5962164566924165
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events, impacting agriculture and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5604651235767797
+    },
+    {
+      "name": "agriculture",
+      "label": "platform",
+      "description": "The practice of cultivating land, raising crops, and rearing livestock, often vulnerable to climate change and relying on water-saving irrigation measures",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.555187129672469
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, often impacting agriculture and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6966671933589501
+    },
+    {
+      "name": "GHG emission",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide, into the atmosphere, contributing to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5164079892851331
+    }
+  ],
+  "(23140, 25649)": [
+    {
+      "name": "agricultural production",
+      "label": "project",
+      "description": "The production of food, fiber, and other plant and animal products through farming, ranching, and other agricultural practices",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5435094866854564
+    },
+    {
+      "name": "irrigation",
+      "label": "instrument",
+      "description": "The artificial application of water to land or soil to support plant growth, often used in agriculture",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.717951896445155
+    },
+    {
+      "name": "water management",
+      "label": "experiment",
+      "description": "The process of planning, developing, and controlling water resources to meet the needs of people and the environment",
+      "uuid": "14555831-70ae-4650-8983-956d65595575",
+      "score": 0.6123535129767254
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its large population, diverse geography, and significant impact on global climate and economy",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6756369859545629
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming and climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6668672422974816
+    },
+    {
+      "name": "MWRC",
+      "label": "provider",
+      "description": "The Ministry of Water Resources of China, a government agency responsible for managing and regulating water resources in China",
+      "uuid": "769fdf92-9850-4a67-8949-a9244746a8ea",
+      "score": 0.5216199702548413
+    }
+  ],
+  "(25175, 27774)": [
+    {
+      "name": "CO2 emission",
+      "label": "variable",
+      "description": "The amount of carbon dioxide released into the atmosphere, a key factor in climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.5736569835414965
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability of water for various uses, including agricultural, industrial, and domestic purposes",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6750152050722448
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, altered ecosystems, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5976517020413595
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability of sufficient, safe, and nutritious food to meet the dietary needs of a population",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6914628840950768
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, experiencing significant economic growth and facing challenges related to water management and food security",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5519925118401008
+    },
+    {
+      "name": "agricultural production",
+      "label": "variable",
+      "description": "The process of cultivating crops and raising livestock to produce food and other agricultural products",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5278826768429322
+    }
+  ],
+  "(27385, 29900)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia with significant agricultural production and water management challenges",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5284065518652099
+    },
+    {
+      "name": "MWRC",
+      "label": "provider",
+      "description": "The Ministry of Water Resources of China, responsible for water resource management and policy",
+      "uuid": "769fdf92-9850-4a67-8949-a9244746a8ea",
+      "score": 0.5076276018977149
+    },
+    {
+      "name": "TI",
+      "label": "experiment",
+      "description": "Traditional Irrigation, a conventional method of irrigating crops that may lead to water waste and environmental degradation",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5004661102486051
+    },
+    {
+      "name": "SI",
+      "label": "experiment",
+      "description": "Sprinkler Irrigation, a type of irrigation that distributes water through sprinklers, which can be more water-efficient than traditional methods",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5066056311012611
+    },
+    {
+      "name": "MI",
+      "label": "experiment",
+      "description": "Micro-Irrigation, a precise irrigation method that delivers water directly to the roots of plants, reducing evaporation and runoff",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5060104677953031
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability and quality of water for various uses, including agriculture, industry, and human consumption",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.7018055921172227
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872478600468966
+    },
+    {
+      "name": "water availability",
+      "label": "variable",
+      "description": "The amount of water available for human use, which is impacted by climate change, population growth, and water management practices",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5171795087424105
+    }
+  ],
+  "(29421, 32155)": [
+    {
+      "name": "TI",
+      "label": "project",
+      "description": "Traditional Irrigation, a conventional method of irrigation used in agricultural production",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5014071193194625
+    },
+    {
+      "name": "MI",
+      "label": "project",
+      "description": "Micro-Irrigation, a type of irrigation that delivers water directly to the roots of plants, reducing evaporation and runoff",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5072145422904898
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, where the study on WSI was conducted",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5587679016632437
+    },
+    {
+      "name": "CO2 emissions",
+      "label": "variable",
+      "description": "The amount of carbon dioxide released into the atmosphere, a key indicator of greenhouse gas emissions",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.5645862160041467
+    },
+    {
+      "name": "water",
+      "label": "variable",
+      "description": "A vital resource used in agricultural production, and a key factor in irrigation practices",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5218575461872923
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872478600468966
+    },
+    {
+      "name": "agricultural production",
+      "label": "project",
+      "description": "The practice of growing crops and raising livestock, which is impacted by climate change and irrigation practices",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5368325532945631
+    }
+  ],
+  "(31742, 32155)": [
+    {
+      "name": "University of East Anglia",
+      "label": "provider",
+      "description": "A public research university in Norwich, England, recognized for its research in environmental sciences, climate change, and related fields",
+      "uuid": "a32f3c0b-b3e9-4e93-a9d2-53c2f61404d8",
+      "score": 0.5075403753286939
+    },
+    {
+      "name": "Creative Commons Attribution Noncommercial License",
+      "label": "platform",
+      "description": "A license that allows for the free use, distribution, and reproduction of copyrighted materials for non-commercial purposes, provided the original authors and source are credited",
+      "uuid": "864c23f7-6e71-4c7a-8426-bac06d51b2e3",
+      "score": 0.6295929745142347
+    }
+  ]
+}

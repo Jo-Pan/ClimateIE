@@ -1,0 +1,1317 @@
+{
+  "(0, 3194)": [
+    {
+      "name": "urban landscapes",
+      "label": "location",
+      "description": "Areas in cities that provide ecological, social, and psychological services to urban residents, including parks, gardens, and green spaces",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.5184763819870569
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the Earth's atmosphere, oceans, and land surfaces, influencing ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5866833255743006
+    },
+    {
+      "name": "native plant species",
+      "label": "variable",
+      "description": "Plant species that are naturally occurring in a particular region, which can provide ecosystem services and support biodiversity",
+      "uuid": "cd9f44da-b3b4-4f9c-a21f-89b59a29b235",
+      "score": 0.545882726727741
+    },
+    {
+      "name": "non-native plant species",
+      "label": "variable",
+      "description": "Plant species that are introduced to a region, which can potentially alter ecosystem services and biodiversity",
+      "uuid": "ddeb06af-5c36-428d-801e-e9f9a60ce429",
+      "score": 0.5350157074193449
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that contributes to climate change, with increasing concentrations in the atmosphere due to human activities",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6498248701697983
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air in a particular region, which can be influenced by climate change and urbanization",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6330937515933936
+    },
+    {
+      "name": "rainfall conditions",
+      "label": "variable",
+      "description": "The patterns and amounts of precipitation in a particular region, which can be affected by climate change",
+      "uuid": "279961c4-dac3-4188-917f-fa11982f957e",
+      "score": 0.5103675857433381
+    },
+    {
+      "name": "city parks",
+      "label": "location",
+      "description": "Public green spaces in cities, which provide ecosystem services and recreational opportunities for urban residents",
+      "uuid": "2b1f7993-2d54-40de-abc4-3909f619ad4e",
+      "score": 0.5511824398683254
+    },
+    {
+      "name": "microclimate",
+      "label": "variable",
+      "description": "The local atmospheric conditions in a particular region, which can be influenced by urban design and climate change",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.707793950278039
+    }
+  ],
+  "(2691, 5524)": [
+    {
+      "name": "urban parks",
+      "label": "location",
+      "description": "Areas within cities designated for recreation, conservation, and aesthetic purposes, often featuring green spaces and water features",
+      "uuid": "2b1f7993-2d54-40de-abc4-3909f619ad4e",
+      "score": 0.5467473564285226
+    },
+    {
+      "name": "forests",
+      "label": "location",
+      "description": "Large areas of land dominated by trees and other woody vegetation, playing a crucial role in regulating the climate and supporting biodiversity",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6414378596204103
+    },
+    {
+      "name": "water",
+      "label": "variable",
+      "description": "A vital component of ecosystems, essential for life and influencing climate regulation, weather patterns, and human health",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.556587905626873
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities and towns, characterized by high population densities, urban infrastructure, and human-dominated landscapes",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.752525288185243
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon involving long-term changes in the Earth's climate, driven by human activities and natural processes, with far-reaching impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5914954093031466
+    },
+    {
+      "name": "mental health",
+      "label": "variable",
+      "description": "A state of well-being characterized by emotional, psychological, and social stability, influenced by various factors, including environmental conditions and social support",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5366470836106175
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors that influence the environment and human activities",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.514395758666477
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing climate patterns, weather events, and environmental conditions",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6399758638320932
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide, methane, and nitrous oxide into the atmosphere, contributing to climate change and global warming",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5459117239027528
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses and reports on climate change science, impacts, and mitigation strategies",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7605012430776572
+    },
+    {
+      "name": "biological phenomena",
+      "label": "variable",
+      "description": "The processes and events that occur within living organisms, influenced by environmental factors, climate change, and human activities",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.5375964681194153
+    },
+    {
+      "name": "rising sea levels",
+      "label": "natural hazard",
+      "description": "The increase in the average level of the world's oceans, caused by climate change, ice melting, and other factors, posing a threat to coastal ecosystems, human settlements, and infrastructure",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7006646706012347
+    },
+    {
+      "name": "water shortages",
+      "label": "natural hazard",
+      "description": "A lack of sufficient water resources, often caused by climate change, drought, or human activities, affecting human health, ecosystems, and economic development",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5413224456275914
+    },
+    {
+      "name": "flooding",
+      "label": "natural hazard",
+      "description": "The overflow of water that submerges land, often caused by heavy rainfall, storm surges, or human activities, posing a threat to human settlements, infrastructure, and ecosystems",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.7245157233050237
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different species of plants, animals, and microorganisms that live in an ecosystem or on Earth as a whole, influenced by climate change, human activities, and environmental factors",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.559741314202563
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "The measure of the cleanliness of the air, influenced by factors such as pollution, climate change, and human activities, affecting human health and environmental conditions",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6836708080387148
+    },
+    {
+      "name": "forest fires",
+      "label": "natural hazard",
+      "description": "Uncontrolled fires that occur in forests, often caused by climate change, human activities, or natural factors, posing a threat to ecosystems, human settlements, and infrastructure",
+      "uuid": "855dc9f5-ccbf-4972-8828-41e11f2aca7a",
+      "score": 0.5943085863816433
+    }
+  ],
+  "(5127, 7930)": [
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "label": "provider",
+      "description": "An international organization that assesses the science related to climate change, its impacts, and future risks, and options for adaptation and mitigation",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7241194255738654
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "Abbreviation for the Intergovernmental Panel on Climate Change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.6695624911554315
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide, methane, and nitrous oxide into the Earth's atmosphere, contributing to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5535813197739424
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different plants, animals, and microorganisms that live in an ecosystem or on Earth as a whole",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5551162454050841
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the cleanliness of the air, including the levels of pollutants such as particulate matter, nitrogen dioxide, and ozone",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6661465040876267
+    },
+    {
+      "name": "wild-occurring vegetation",
+      "label": "variable",
+      "description": "Plants that grow naturally in an area without human intervention or cultivation",
+      "uuid": "0bfb8ae4-c08a-4d69-82d2-1b1b0d4acef6",
+      "score": 0.5389049577953957
+    },
+    {
+      "name": "water",
+      "label": "variable",
+      "description": "A vital component of the Earth's hydrologic cycle, essential for life and influencing climate and weather patterns",
+      "uuid": "286d2ae0-9d86-4ef0-a2b4-014843a98532",
+      "score": 0.5443984208281704
+    },
+    {
+      "name": "flooding",
+      "label": "natural hazard",
+      "description": "An overflow of water that can cause damage to the environment, human settlements, and infrastructure",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.6898385632844459
+    },
+    {
+      "name": "sea levels",
+      "label": "variable",
+      "description": "The average height of the ocean's surface, which can impact coastlines, marine ecosystems, and human populations",
+      "uuid": "9ac7a1c5-4179-47bc-8589-ebaa90d6cbd1",
+      "score": 0.696223699013137
+    },
+    {
+      "name": "forest fires",
+      "label": "natural hazard",
+      "description": "Uncontrolled fires occurring in forests, often caused by drought, heat, or human activity, and posing a threat to the environment and human safety",
+      "uuid": "855dc9f5-ccbf-4972-8828-41e11f2aca7a",
+      "score": 0.5786642455430189
+    },
+    {
+      "name": "Western Europe",
+      "label": "location",
+      "description": "A region of Europe that includes countries such as the United Kingdom, France, and Germany, characterized by a temperate maritime climate",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.7085235770634991
+    },
+    {
+      "name": "Britain",
+      "label": "location",
+      "description": "An island nation in Northwest Europe, comprising England, Scotland, and Wales, with a diverse climate and geography",
+      "uuid": "c9e8dfcd-18ac-405d-b6a0-934ae3c743d3",
+      "score": 0.5558124583768561
+    },
+    {
+      "name": "urban heat island effect",
+      "label": "climate phenomenon",
+      "description": "A phenomenon where urban areas experience higher temperatures than surrounding rural areas due to the concentration of heat-absorbing surfaces and human activities",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.760849961805207
+    },
+    {
+      "name": "southern England",
+      "label": "location",
+      "description": "A region in the southern part of England, characterized by a temperate maritime climate and urbanized areas",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.5020352553827319
+    },
+    {
+      "name": "drought conditions",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human activities",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6869474777815421
+    },
+    {
+      "name": "grass",
+      "label": "variable",
+      "description": "A type of plant commonly found in lawns, parks, and natural ecosystems, sensitive to drought and climate change",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.5054027452108948
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming and climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6668672422974816
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing climate and weather patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6409348463723722
+    },
+    {
+      "name": "biomass production",
+      "label": "variable",
+      "description": "The amount of organic matter produced by plants and other organisms, influenced by factors such as climate, soil, and water availability",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5782556510020982
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6909966787049034
+    }
+  ],
+  "(7441, 10435)": [
+    {
+      "name": "CO 2 ",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a crucial role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.67910033125529
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the environment, influencing various ecological and climatic processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6188549315849173
+    },
+    {
+      "name": "moisture",
+      "label": "variable",
+      "description": "The amount of water present in the environment, affecting plant growth and ecosystem functioning",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.5250211802000775
+    },
+    {
+      "name": "plant species",
+      "label": "variable",
+      "description": "The different types of plants that exist in an ecosystem, each with unique characteristics and responses to environmental changes",
+      "uuid": "de0ace5c-fa2b-47ca-93db-79d8df7ab6f2",
+      "score": 0.5480918252404796
+    },
+    {
+      "name": "biomass production",
+      "label": "variable",
+      "description": "The amount of organic matter produced by plants, influenced by factors such as CO 2 , temperature, and precipitation",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5405861116114425
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground, impacting ecosystem functioning and plant growth",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5970817350086031
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy, influenced by factors such as CO 2 , temperature, and moisture",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6491487030544871
+    },
+    {
+      "name": "decomposition",
+      "label": "process",
+      "description": "The process by which organic matter is broken down into simpler components, influenced by factors such as temperature and moisture",
+      "uuid": "560eac7e-d172-4a31-a659-a3e99d5f61ac",
+      "score": 0.6809893374830969
+    },
+    {
+      "name": "ecosystem",
+      "label": "system",
+      "description": "A community of living and non-living components that interact with each other and their environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6738574198143428
+    },
+    {
+      "name": "global climate change",
+      "label": "phenomenon",
+      "description": "The long-term warming of the planet due to human activities, such as the emission of greenhouse gases",
+      "uuid": "b45d57f9-5c45-4e46-8dcd-6158fee8151b",
+      "score": 0.5331322500699051
+    },
+    {
+      "name": "annual grasslands",
+      "label": "location",
+      "description": "A type of ecosystem characterized by grasses that complete their life cycle within a year",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.5640734305922352
+    },
+    {
+      "name": "global change experiments",
+      "label": "experiment",
+      "description": "Studies that investigate the effects of climate change on ecosystems",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.5016238753645516
+    },
+    {
+      "name": "microbial",
+      "label": "variable",
+      "description": "A type of microorganism that can be found in an ecosystem",
+      "uuid": "adf5f515-c7b4-4662-a144-580659957ce1",
+      "score": 0.5051548912697423
+    },
+    {
+      "name": "soil processes",
+      "label": "process",
+      "description": "The chemical, physical, and biological processes that occur in soil, influencing ecosystem functioning",
+      "uuid": "df5ff39e-b49f-4517-afc0-1842a1a6fdc7",
+      "score": 0.5364307963484359
+    }
+  ],
+  "(9957, 12854)": [
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that plays a significant role in the Earth's climate system, with its concentration influencing global temperatures and weather patterns",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6454454458127962
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, oceans, and land surfaces, crucial for understanding climate dynamics",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6925097803635476
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, essential for studying climate patterns, weather events, and ecosystem responses",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6661885486469541
+    },
+    {
+      "name": "terrestrial ecosystems",
+      "label": "location",
+      "description": "Ecosystems found on land, including forests, grasslands, and deserts, which support a wide range of plant and animal species",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.6989611784150405
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors, with significant impacts on ecosystems, weather patterns, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6011860987191086
+    },
+    {
+      "name": "urban landscape",
+      "label": "location",
+      "description": "The combination of natural and human-made features in urban areas, including parks, gardens, and green spaces",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.5075630320176227
+    },
+    {
+      "name": "urban greenspace",
+      "label": "location",
+      "description": "Areas of vegetation and greenery within urban environments, providing ecosystem services and mitigating the effects of climate change",
+      "uuid": "fef15af1-607d-4005-b1a8-778af1a4dca9",
+      "score": 0.5223568798672787
+    },
+    {
+      "name": "urban parks and gardens",
+      "label": "location",
+      "description": "Specific areas within urban landscapes designed for recreation, conservation, and aesthetic purposes",
+      "uuid": "2b1f7993-2d54-40de-abc4-3909f619ad4e",
+      "score": 0.5424592488650966
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering, bird migration, and animal hibernation, which can be affected by climate change",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6930316076428242
+    }
+  ],
+  "(12337, 15219)": [
+    {
+      "name": "urban heat island",
+      "label": "natural hazard",
+      "description": "A phenomenon where built-up areas, such as cities, experience warmer temperatures than surrounding rural areas due to human activities and infrastructure",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7817952684258193
+    },
+    {
+      "name": "plant phenology",
+      "label": "variable",
+      "description": "The study of periodic plant life cycle events, such as flowering, leafing, and fruiting, and how they are influenced by environmental factors like climate change",
+      "uuid": "c6f81edb-b683-4356-93e6-5852766a5ee8",
+      "score": 0.6581996503941614
+    },
+    {
+      "name": "UK",
+      "label": "location",
+      "description": "The United Kingdom, a country in Northwest Europe that is experiencing changes in climate and weather patterns",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6280687974069895
+    },
+    {
+      "name": "Wales",
+      "label": "location",
+      "description": "A country that is part of the UK, located in Northwest Europe, and experiencing changes in climate and weather patterns",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.5098099104969183
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to climate change and affects plant growth and development",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6428417416099138
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in an environment, influencing plant growth and development",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5542495379329131
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region in southern Europe, known for its hot and dry climate, and influencing the types of plants that can grow in urban environments",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.5077252313573194
+    }
+  ],
+  "(14751, 17697)": [
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by a warm and dry climate",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.5975786624941957
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities and towns, often characterized by high population densities and modified environments",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7257104972016213
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon of rising temperatures and changing weather patterns, with significant impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6002471214216454
+    },
+    {
+      "name": "droughts",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally low rainfall, often leading to water shortages and ecosystem stress",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.680898319436013
+    },
+    {
+      "name": "pathogens",
+      "label": "variable",
+      "description": "Microorganisms that cause disease in plants and animals",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5678491459476752
+    },
+    {
+      "name": "rooting depth",
+      "label": "variable",
+      "description": "The depth to which plant roots penetrate the soil, influencing water and nutrient uptake",
+      "uuid": "2b91245e-a779-42fa-89c2-303217463b95",
+      "score": 0.6807836766357122
+    },
+    {
+      "name": "green spaces",
+      "label": "location",
+      "description": "Areas of urban environments dedicated to parks, gardens, and other vegetation, providing habitats for wildlife",
+      "uuid": "eeba88d2-20bf-43b1-bccf-b125485405f4",
+      "score": 0.5039736797449167
+    },
+    {
+      "name": "invertebrates",
+      "label": "variable",
+      "description": "Animals without backbones, such as insects, slugs, and snails, playing crucial roles in ecosystems",
+      "uuid": "abc6f016-d1f0-4725-b847-639de054d13f",
+      "score": 0.6608184570680377
+    },
+    {
+      "name": "pollen",
+      "label": "variable",
+      "description": "The fine powder produced by plants as part of their reproductive cycle, essential for many ecosystems",
+      "uuid": "b0ad34ee-4b38-4a8d-a483-b3bfea66fa82",
+      "score": 0.666785786979053
+    },
+    {
+      "name": "slugs",
+      "label": "variable",
+      "description": "A type of invertebrate animal, often found in moist environments and feeding on plants",
+      "uuid": "d2db293d-2ed7-4831-9794-a2cf903e4d4d",
+      "score": 0.5254668258079621
+    },
+    {
+      "name": "snails",
+      "label": "variable",
+      "description": "A type of invertebrate animal, often found in moist environments and feeding on plants",
+      "uuid": "d2db293d-2ed7-4831-9794-a2cf903e4d4d",
+      "score": 0.5511692518368149
+    },
+    {
+      "name": "insects",
+      "label": "variable",
+      "description": "A class of invertebrate animals, often found in a wide range of environments and playing crucial roles in ecosystems",
+      "uuid": "44e49605-e860-41d0-8ef8-cb74419f831d",
+      "score": 0.6615553673318689
+    },
+    {
+      "name": "urban ecosystems",
+      "label": "location",
+      "description": "Ecosystems found in urban environments, often characterized by modified habitats and human influences",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.5376360318217681
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different species and ecosystems found in a particular region or environment",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5378513878035128
+    },
+    {
+      "name": "ecosystem services",
+      "label": "variable",
+      "description": "The benefits that humans derive from functioning ecosystems, including clean air and water, food, and climate regulation",
+      "uuid": "233a4d81-44f8-4b0e-8ad3-695f641729f8",
+      "score": 0.5524589751843891
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which plants convert sunlight into energy, forming the base of many food webs",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7707681439751607
+    },
+    {
+      "name": "water flux",
+      "label": "variable",
+      "description": "The movement of water through an ecosystem, influencing plant growth, soil moisture, and aquatic habitats",
+      "uuid": "32a88fee-dfa9-4ef8-ab6d-cbc18426da53",
+      "score": 0.5344022742071564
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "The chemical, physical, and biological characteristics of water, influencing its suitability for human use and ecosystem health",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7188151874784577
+    },
+    {
+      "name": "climate-change-related responses",
+      "label": "variable",
+      "description": "The ways in which ecosystems and species respond to the impacts of climate change",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.5925639037919876
+    },
+    {
+      "name": "invertebrates",
+      "label": "variable",
+      "description": "Animals without backbones, such as insects, slugs, and snails, playing crucial roles in ecosystems",
+      "uuid": "abc6f016-d1f0-4725-b847-639de054d13f",
+      "score": 0.6608184570680377
+    }
+  ],
+  "(17173, 19837)": [
+    {
+      "name": "Herbivory",
+      "label": "variable",
+      "description": "The act of consuming plant material by animals, influencing ecosystem balance and plant species distribution",
+      "uuid": "40766d01-bda1-420b-9fd1-fba6d6924f3f",
+      "score": 0.701494342706681
+    },
+    {
+      "name": "food web interactions",
+      "label": "experiment",
+      "description": "The study of the relationships between different species within an ecosystem, including predator-prey interactions and competition for resources",
+      "uuid": "4a55497b-8e07-431a-9af9-fece001f1dd7",
+      "score": 0.5989949274012042
+    },
+    {
+      "name": "climate-change-related responses",
+      "label": "experiment",
+      "description": "Research investigating how organisms and ecosystems respond to changes in climate, including shifts in temperature, precipitation, and other environmental factors",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.604757556511171
+    },
+    {
+      "name": "invertebrates",
+      "label": "variable",
+      "description": "Animals without backbones, including insects, molluscs, and other species that play crucial roles in ecosystems",
+      "uuid": "abc6f016-d1f0-4725-b847-639de054d13f",
+      "score": 0.6838795780236253
+    },
+    {
+      "name": "ecosystem services",
+      "label": "variable",
+      "description": "The benefits that humans derive from functioning ecosystems, including pollination, pest control, and nutrient cycling",
+      "uuid": "233a4d81-44f8-4b0e-8ad3-695f641729f8",
+      "score": 0.5520925091494434
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, influencing many biological and ecological processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5977818487609364
+    },
+    {
+      "name": "native insects",
+      "label": "variable",
+      "description": "Insect species that are originally from a particular region or country, often adapted to local environmental conditions",
+      "uuid": "cd9f44da-b3b4-4f9c-a21f-89b59a29b235",
+      "score": 0.5071096159721243
+    },
+    {
+      "name": "continental Europe",
+      "label": "location",
+      "description": "A region of Europe that includes countries such as France, Germany, and Italy, characterized by a diverse range of ecosystems and climates",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.589863799436775
+    },
+    {
+      "name": "UK",
+      "label": "location",
+      "description": "The United Kingdom, a country in Northwest Europe with a temperate maritime climate",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6328467487738001
+    },
+    {
+      "name": "molluscs",
+      "label": "variable",
+      "description": "A group of invertebrate animals that include slugs, snails, and other species that play important roles in ecosystems",
+      "uuid": "d85c386f-e4f7-4e1c-a16e-34dbb12bb2be",
+      "score": 0.6058952351406808
+    },
+    {
+      "name": "slug herbivory",
+      "label": "variable",
+      "description": "The act of slugs consuming plant material, influencing ecosystem balance and plant species distribution",
+      "uuid": "40766d01-bda1-420b-9fd1-fba6d6924f3f",
+      "score": 0.5453822543201929
+    },
+    {
+      "name": "plant species",
+      "label": "variable",
+      "description": "The different types of plants present in an ecosystem, often influenced by factors such as climate, soil quality, and herbivory",
+      "uuid": "de0ace5c-fa2b-47ca-93db-79d8df7ab6f2",
+      "score": 0.5363091386942676
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant community present in a particular region or ecosystem, often influenced by factors such as climate, soil quality, and herbivory",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6220155915532666
+    },
+    {
+      "name": "climate change",
+      "label": "experiment",
+      "description": "The phenomenon of global warming and associated changes in precipitation, sea level, and other environmental factors, often studied in the context of ecosystem responses and impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.599398676468802
+    }
+  ],
+  "(19495, 22179)": [
+    {
+      "name": "UK",
+      "label": "location",
+      "description": "The United Kingdom, a country in Northwest Europe with a temperate maritime climate",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6328467487738001
+    },
+    {
+      "name": "molluscs",
+      "label": "variable",
+      "description": "A group of invertebrate animals, including slugs and snails, that play a significant role in ecosystems",
+      "uuid": "d85c386f-e4f7-4e1c-a16e-34dbb12bb2be",
+      "score": 0.5934483978456003
+    },
+    {
+      "name": "slug herbivory",
+      "label": "variable",
+      "description": "The process by which slugs consume plant material, influencing plant communities and ecosystems",
+      "uuid": "40766d01-bda1-420b-9fd1-fba6d6924f3f",
+      "score": 0.5473125064714333
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451761247480406
+    },
+    {
+      "name": "temperate climates",
+      "label": "location",
+      "description": "Regions with moderate temperatures, rainfall, and seasonal changes, often supporting diverse ecosystems",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.5128535547658222
+    }
+  ],
+  "(21691, 24755)": [
+    {
+      "name": "molluscs",
+      "label": "species",
+      "description": "A group of invertebrate animals, including snails, slugs, clams, mussels, oysters, squids, and octopuses",
+      "uuid": "d85c386f-e4f7-4e1c-a16e-34dbb12bb2be",
+      "score": 0.6338972660932973
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, influencing the behavior and growth of living organisms",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5878272101371593
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, affecting the growth and development of plants",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.637282714155078
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7085533111508902
+    },
+    {
+      "name": "snails",
+      "label": "species",
+      "description": "A type of mollusc with a shell, capable of managing water loss and feeding under drier conditions",
+      "uuid": "d2db293d-2ed7-4831-9794-a2cf903e4d4d",
+      "score": 0.5542389846802668
+    },
+    {
+      "name": "slugs",
+      "label": "species",
+      "description": "A type of mollusc without a shell, more sensitive to dry conditions and requiring more humid environments",
+      "uuid": "d2db293d-2ed7-4831-9794-a2cf903e4d4d",
+      "score": 0.5140619088508085
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on the Eurasian landmass, comprising many countries with diverse climates and ecosystems",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6781154431937255
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico, with a varied climate and geography",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7105691081374708
+    },
+    {
+      "name": "UK",
+      "label": "location",
+      "description": "The United Kingdom, a country in Northwest Europe, with a temperate maritime climate and diverse ecosystems",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6491136002592849
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country in North America, with a varied climate and geography",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7192565469933087
+    },
+    {
+      "name": "urban landscapes",
+      "label": "location",
+      "description": "Man-made environments in cities and towns, designed for human habitation and activity",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.55271548651601
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon of rising temperatures and altered weather patterns, impacting ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5996195268545799
+    },
+    {
+      "name": "exotic plant species",
+      "label": "species",
+      "description": "Non-native plant species introduced to an area, potentially invasive and affecting local ecosystems",
+      "uuid": "ddeb06af-5c36-428d-801e-e9f9a60ce429",
+      "score": 0.6790401225731355
+    },
+    {
+      "name": "native species",
+      "label": "species",
+      "description": "Plant species that are naturally occurring in a specific area, often preferred in planting design for their adaptability and support of local biodiversity",
+      "uuid": "cd9f44da-b3b4-4f9c-a21f-89b59a29b235",
+      "score": 0.5602434512529739
+    }
+  ],
+  "(24285, 27417)": [
+    {
+      "name": "exotic species",
+      "label": "species",
+      "description": "Non-native species introduced to an environment, potentially causing harm or providing benefits to the ecosystem",
+      "uuid": "ddeb06af-5c36-428d-801e-e9f9a60ce429",
+      "score": 0.7263186055702072
+    },
+    {
+      "name": "native species",
+      "label": "species",
+      "description": "Species that are naturally found in a particular environment, often considered more suitable for sustainable planting",
+      "uuid": "cd9f44da-b3b4-4f9c-a21f-89b59a29b235",
+      "score": 0.5932072355460969
+    },
+    {
+      "name": "invasion biology",
+      "label": "field",
+      "description": "A discipline that studies the introduction and impact of non-native species on ecosystems",
+      "uuid": "7bfdbe8d-3945-4678-a90b-d2251f973955",
+      "score": 0.5376352428787039
+    },
+    {
+      "name": "ecosystem services",
+      "label": "variable",
+      "description": "The benefits provided by ecosystems, such as air and water purification, soil formation, and climate regulation",
+      "uuid": "233a4d81-44f8-4b0e-8ad3-695f641729f8",
+      "score": 0.5355275698016158
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country with a diverse range of ecosystems and species",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6129679677326463
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent with a rich history of introducing non-native species to designed landscapes",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.5497490404925564
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent with a long history of using exotic plants in designed landscapes",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.5361300456430386
+    }
+  ],
+  "(26899, 29945)": [
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent located in the Northern Hemisphere, known for its diverse climate and cultural heritage",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7517529268949019
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent located primarily in the Northern Hemisphere, characterized by its vast size and diverse climate conditions",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.7481602373238481
+    },
+    {
+      "name": "urban landscapes",
+      "label": "location",
+      "description": "Areas where human settlements and infrastructure dominate the environment, often with unique climate and ecological conditions",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.6036355282177613
+    },
+    {
+      "name": "native species",
+      "label": "variable",
+      "description": "Plant species that are naturally found in a specific region or environment",
+      "uuid": "cd9f44da-b3b4-4f9c-a21f-89b59a29b235",
+      "score": 0.6064735965028915
+    },
+    {
+      "name": "urban setting",
+      "label": "location",
+      "description": "Areas where human settlements and infrastructure dominate the environment, often with unique climate and ecological conditions",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6213121122082401
+    },
+    {
+      "name": "altitude",
+      "label": "variable",
+      "description": "The height of a location above sea level, which can affect climate and environmental conditions",
+      "uuid": "16bfcf54-f8e1-4c8e-9bd4-a1ac06ea95a0",
+      "score": 0.6539654330733653
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, which can affect plant growth and survival",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6570437037610148
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, often caused by human activities and resulting in significant impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5845582633430065
+    },
+    {
+      "name": "urban landscape",
+      "label": "location",
+      "description": "Areas where human settlements and infrastructure dominate the environment, often with unique climate and ecological conditions",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.5871343844627855
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability of a system or process to be maintained at a certain level over time, often in the context of environmental and social responsibility",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6972511567779136
+    },
+    {
+      "name": "Eurasian meadow",
+      "label": "location",
+      "description": "A type of grassland ecosystem found in Eurasia, characterized by its diverse plant and animal species",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.5024921631517225
+    }
+  ],
+  "(29356, 32433)": [
+    {
+      "name": "species phenology",
+      "label": "variable",
+      "description": "The study of periodic biological events in plants and animals, such as flowering, migration, and hibernation, in relation to environmental factors like climate and weather",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6152495152502052
+    },
+    {
+      "name": "urban landscapes",
+      "label": "location",
+      "description": "Areas within cities and towns where human activity has significantly altered the natural environment, often requiring specific management and design strategies",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.566706990430518
+    },
+    {
+      "name": "native species",
+      "label": "variable",
+      "description": "Plant or animal species that are originally from a specific geographic region and have not been introduced by human activity",
+      "uuid": "cd9f44da-b3b4-4f9c-a21f-89b59a29b235",
+      "score": 0.6267214408007681
+    },
+    {
+      "name": "non-native species",
+      "label": "variable",
+      "description": "Plant or animal species that have been introduced to a geographic region by human activity, often potentially disrupting local ecosystems",
+      "uuid": "ddeb06af-5c36-428d-801e-e9f9a60ce429",
+      "score": 0.5781846300930683
+    },
+    {
+      "name": "ecological concepts",
+      "label": "model",
+      "description": "Theoretical frameworks used to understand and manage the interactions between living organisms and their environment, often applied in conservation, agriculture, and urban planning",
+      "uuid": "6bef0291-a9ca-4832-bbb4-80459dc1493f",
+      "score": 0.5030147629210993
+    },
+    {
+      "name": "exotic species",
+      "label": "variable",
+      "description": "Plant or animal species that have been introduced to a geographic region by human activity, often potentially disrupting local ecosystems",
+      "uuid": "ddeb06af-5c36-428d-801e-e9f9a60ce429",
+      "score": 0.7100954400442
+    },
+    {
+      "name": "plant density",
+      "label": "variable",
+      "description": "The number of plants per unit area, often considered in landscaping for its impact on ecosystem function and aesthetic value",
+      "uuid": "244a2eb6-bb6c-462c-978e-f9cfe96dffba",
+      "score": 0.593867957884997
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of periodic biological events in plants and animals, such as flowering, migration, and hibernation, in relation to environmental factors like climate and weather",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6394344515416991
+    },
+    {
+      "name": "spontaneous vegetation",
+      "label": "platform",
+      "description": "Vegetation that grows and develops without human intervention or management, often considered in urban planning for its impact on ecological value",
+      "uuid": "0bfb8ae4-c08a-4d69-82d2-1b1b0d4acef6",
+      "score": 0.5171153604797991
+    },
+    {
+      "name": "native invertebrate species",
+      "label": "variable",
+      "description": "Insect species that are originally from a specific geographic region and have not been introduced by human activity",
+      "uuid": "cd9f44da-b3b4-4f9c-a21f-89b59a29b235",
+      "score": 0.5412789176059728
+    },
+    {
+      "name": "monocultural plantings",
+      "label": "experiment",
+      "description": "A type of landscaping where a single species of plant is used to create a uniform appearance, often criticized for its lack of biodiversity and ecological value",
+      "uuid": "941c691a-3bff-4c58-854a-16c5529524e9",
+      "score": 0.5581610095608408
+    },
+    {
+      "name": "fauna",
+      "label": "variable",
+      "description": "Animals that live in a particular region or ecosystem, often considered in urban planning for their impact on ecological value",
+      "uuid": "cffe377f-d840-4bcf-9223-8379b72defe7",
+      "score": 0.5459845691482006
+    }
+  ],
+  "(31993, 35137)": [
+    {
+      "name": "species phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering, in relation to environmental factors",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.5683487650331828
+    },
+    {
+      "name": "fauna",
+      "label": "variable",
+      "description": "The animals that inhabit a particular region or time period",
+      "uuid": "cffe377f-d840-4bcf-9223-8379b72defe7",
+      "score": 0.5566075118849999
+    },
+    {
+      "name": "native species",
+      "label": "variable",
+      "description": "Species that are naturally found in a particular region or environment",
+      "uuid": "cd9f44da-b3b4-4f9c-a21f-89b59a29b235",
+      "score": 0.6392345289620724
+    },
+    {
+      "name": "non-native species",
+      "label": "variable",
+      "description": "Species that have been introduced to a region or environment where they are not naturally found",
+      "uuid": "ddeb06af-5c36-428d-801e-e9f9a60ce429",
+      "score": 0.5797309963909169
+    },
+    {
+      "name": "urban places",
+      "label": "location",
+      "description": "Cities, towns, and other areas with high human population density",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6886845099464034
+    },
+    {
+      "name": "monocultural plantings",
+      "label": "variable",
+      "description": "Plantings that consist of a single species or a limited number of species",
+      "uuid": "941c691a-3bff-4c58-854a-16c5529524e9",
+      "score": 0.5354451237383235
+    },
+    {
+      "name": "grassland",
+      "label": "location",
+      "description": "Landscapes dominated by grasses and other herbaceous vegetation",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6157875105826097
+    },
+    {
+      "name": "water",
+      "label": "location",
+      "description": "Bodies of water, such as lakes, rivers, and wetlands",
+      "uuid": "959f1861-a776-41b1-ba6b-d23c71d4d1eb",
+      "score": 0.5811792074627367
+    },
+    {
+      "name": "scrub",
+      "label": "location",
+      "description": "Landscapes dominated by shrubs and other low-growing vegetation",
+      "uuid": "e018b139-7e05-4155-8e2e-8d5603b5fe47",
+      "score": 0.6221849812896967
+    }
+  ],
+  "(34578, 37483)": [
+    {
+      "name": "Urban landscape",
+      "label": "location",
+      "description": "A human-made environment in cities and towns, including parks, gardens, and other green spaces",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.530207457910725
+    },
+    {
+      "name": "native species",
+      "label": "variable",
+      "description": "Plants and animals that are naturally found in a specific geographic region",
+      "uuid": "cd9f44da-b3b4-4f9c-a21f-89b59a29b235",
+      "score": 0.6009420475582475
+    },
+    {
+      "name": "non-native species",
+      "label": "variable",
+      "description": "Plants and animals that are introduced to a region outside of their natural range",
+      "uuid": "ddeb06af-5c36-428d-801e-e9f9a60ce429",
+      "score": 0.5650604672867267
+    },
+    {
+      "name": "UK",
+      "label": "location",
+      "description": "The United Kingdom, a country in Northwest Europe",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6106882591237776
+    }
+  ],
+  "(37019, 40054)": [
+    {
+      "name": "UK",
+      "label": "location",
+      "description": "The United Kingdom, a country in Northwest Europe, known for its diverse landscapes and urban areas",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6204489084552076
+    },
+    {
+      "name": "ecology",
+      "label": "variable",
+      "description": "The study of the relationships between living organisms and their environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5087999928636998
+    },
+    {
+      "name": "fauna",
+      "label": "variable",
+      "description": "Animals that live in a particular region or ecosystem",
+      "uuid": "cffe377f-d840-4bcf-9223-8379b72defe7",
+      "score": 0.5501844698691594
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability of naturalistic landscapes to maintain their ecological integrity and support biodiversity over time",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.5688909320941719
+    }
+  ],
+  "(39452, 42085)": [
+    {
+      "name": "climate change adaptation",
+      "label": "project",
+      "description": "The process of adjusting to the impacts of climate change, including efforts to design and manage ecosystems that can withstand changing environmental conditions",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6461272156021532
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different species of plants, animals, and microorganisms that live in an ecosystem or on Earth as a whole",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5503545854308962
+    },
+    {
+      "name": "urban landscape",
+      "label": "location",
+      "description": "The combination of natural and human-made features within a city or metropolitan area, including buildings, parks, and infrastructure",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.5198236566664871
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a crucial role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6831988491097487
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, which can be affected by climate change and have significant impacts on ecosystems and human health",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6262540399563878
+    },
+    {
+      "name": "native species",
+      "label": "variable",
+      "description": "Plant or animal species that are originally from a particular region or ecosystem",
+      "uuid": "cd9f44da-b3b4-4f9c-a21f-89b59a29b235",
+      "score": 0.6200249535708912
+    },
+    {
+      "name": "non-native species",
+      "label": "variable",
+      "description": "Plant or animal species that have been introduced to a region or ecosystem where they are not originally from",
+      "uuid": "ddeb06af-5c36-428d-801e-e9f9a60ce429",
+      "score": 0.5780933264766075
+    }
+  ]
+}

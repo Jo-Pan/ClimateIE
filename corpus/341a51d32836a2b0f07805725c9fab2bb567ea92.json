@@ -1,0 +1,856 @@
+{
+  "(0, 3125)": [
+    {
+      "name": "mangroves",
+      "label": "location",
+      "description": "A type of coastal ecosystem characterized by the presence of mangrove trees, known for their high carbon storage capacity and biodiversity",
+      "uuid": "04c4a85f-91ce-4d64-9e19-b3e0897ff187",
+      "score": 0.6858492755357075
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different species of plants, animals, and microorganisms that live in an ecosystem or on Earth as a whole",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5503371875461446
+    },
+    {
+      "name": "carbon storage",
+      "label": "variable",
+      "description": "The process of storing carbon in natural systems, such as forests, soils, and oceans, which helps to mitigate climate change",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.6125790578440556
+    },
+    {
+      "name": "sediment salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of dissolved salts in sediment, which can affect the growth and diversity of plants and animals in mangrove ecosystems",
+      "uuid": "a38db528-3064-449d-ae70-af86997a11f4",
+      "score": 0.504827082312977
+    },
+    {
+      "name": "above-and belowground plant biomass carbon",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in the above-ground and below-ground biomass of plants in an ecosystem",
+      "uuid": "df7e4050-d8bc-4982-bc9a-e737823d4a0b",
+      "score": 0.5652890036432822
+    },
+    {
+      "name": "sediment organic carbon",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in the sediment of an ecosystem, such as a mangrove forest",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5699405283272351
+    },
+    {
+      "name": "total ecosystem carbon storage",
+      "label": "variable",
+      "description": "A measure of the total amount of carbon stored in an ecosystem, including in plants, soils, and sediments",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5148284469832067
+    },
+    {
+      "name": "climate change mitigation",
+      "label": "project",
+      "description": "Efforts to reduce the impact of climate change, such as by reducing greenhouse gas emissions or enhancing carbon sinks",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6769090095874862
+    },
+    {
+      "name": "Convention of Biological Diversity",
+      "label": "provider",
+      "description": "An international agreement aimed at conserving and sustainably using biodiversity, while promoting the fair and equitable sharing of benefits arising from its use",
+      "uuid": "71d14fb4-d4b1-47ed-a548-98be9fb8a040",
+      "score": 0.5221224339548654
+    }
+  ],
+  "(2583, 5888)": [
+    {
+      "name": "Convention of Biological Diversity",
+      "label": "provider",
+      "description": "An international organization dedicated to promoting the conservation and sustainable use of biodiversity>",
+      "uuid": "71d14fb4-d4b1-47ed-a548-98be9fb8a040",
+      "score": 0.5821892997962955
+    },
+    {
+      "name": "mangrove rehabilitation",
+      "label": "project",
+      "description": "Efforts to restore and conserve mangrove ecosystems, which provide important ecosystem services and support biodiversity>",
+      "uuid": "04c4a85f-91ce-4d64-9e19-b3e0897ff187",
+      "score": 0.5042330542499969
+    },
+    {
+      "name": "afforestation",
+      "label": "project",
+      "description": "The process of establishing a new forest in an area where there was no previous forest cover, often used to sequester carbon and promote biodiversity>",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.709589537531296
+    },
+    {
+      "name": "terrestrial ecosystems",
+      "label": "location",
+      "description": "Ecosystems that exist on land, including forests, grasslands, and deserts, which play a critical role in regulating the climate and supporting biodiversity>",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.6917561436883645
+    },
+    {
+      "name": "ecosystem processes",
+      "label": "variable",
+      "description": "The interactions and functions that occur within an ecosystem, including nutrient cycling, primary production, and decomposition>",
+      "uuid": "233a4d81-44f8-4b0e-8ad3-695f641729f8",
+      "score": 0.5665220587652875
+    },
+    {
+      "name": "functional diversity",
+      "label": "variable",
+      "description": "The variety of different functions and traits present in an ecosystem, which can influence ecosystem functioning and resilience>",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.534075625866243
+    },
+    {
+      "name": "carbon storage",
+      "label": "variable",
+      "description": "The amount of carbon sequestered in an ecosystem, which can influence the climate and support biodiversity>",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.6075823494124505
+    },
+    {
+      "name": "wood density",
+      "label": "variable",
+      "description": "A measure of the density of wood, which can influence tree growth, survival, and forest carbon stock>",
+      "uuid": "a1442b82-dfd2-46ee-aae3-e6ceda513648",
+      "score": 0.5117664286910766
+    },
+    {
+      "name": "maximum canopy height",
+      "label": "variable",
+      "description": "A measure of the height of the forest canopy, which can influence light interception, biomass allocation, and carbon storage>",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.5772242924492471
+    },
+    {
+      "name": "specific leaf area",
+      "label": "variable",
+      "description": "A measure of the area of a leaf per unit mass, which can influence photosynthesis, growth, and carbon storage>",
+      "uuid": "201b21eb-5781-4d69-ba1f-026111b3b1e5",
+      "score": 0.5394076387158835
+    },
+    {
+      "name": "leaf photosynthesis rate",
+      "label": "variable",
+      "description": "A measure of the rate at which leaves undergo photosynthesis, which can influence carbon storage and ecosystem functioning>",
+      "uuid": "b23f0161-64bb-45d7-b0c1-85aa9a1d2c8d",
+      "score": 0.5139511348998778
+    },
+    {
+      "name": "leaf carbon and nitrogen content",
+      "label": "variable",
+      "description": "A measure of the amount of carbon and nitrogen present in leaves, which can influence litter quality, decomposition, and nutrient cycling>",
+      "uuid": "dfd5bcb9-0312-4b62-a9b5-dbb1a81d78f5",
+      "score": 0.5514997662247096
+    },
+    {
+      "name": "nutrient cycling",
+      "label": "variable",
+      "description": "The process by which nutrients are exchanged between different components of an ecosystem, which can influence ecosystem functioning and resilience>",
+      "uuid": "7a33a978-8ef6-4313-b489-c06cfc6d9cec",
+      "score": 0.7245138179375321
+    },
+    {
+      "name": "mangroves",
+      "label": "location",
+      "description": "A type of coastal ecosystem characterized by the presence of mangrove trees, which provide important ecosystem services and support biodiversity>",
+      "uuid": "04c4a85f-91ce-4d64-9e19-b3e0897ff187",
+      "score": 0.6928090161009214
+    }
+  ],
+  "(5379, 8581)": [
+    {
+      "name": "mangroves",
+      "label": "location",
+      "description": "A type of coastal ecosystem characterized by dense vegetation and high levels of biodiversity, found in tropical and subtropical regions",
+      "uuid": "04c4a85f-91ce-4d64-9e19-b3e0897ff187",
+      "score": 0.6981151303244371
+    },
+    {
+      "name": "sediment organic carbon",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon stored in sediment, often used as an indicator of ecosystem health and carbon sequestration",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5904409375307573
+    },
+    {
+      "name": "aboveground and belowground plant biomass carbon",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in plant biomass, including both aboveground and belowground components",
+      "uuid": "df7e4050-d8bc-4982-bc9a-e737823d4a0b",
+      "score": 0.5465940818532047
+    },
+    {
+      "name": "total ecosystem carbon storage",
+      "label": "variable",
+      "description": "A measure of the total amount of carbon stored in an ecosystem, including all components such as vegetation, soil, and sediment",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5137413720588234
+    },
+    {
+      "name": "sediment salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of dissolved salts in sediment, often used as an indicator of environmental conditions and ecosystem health",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.5499976334598452
+    },
+    {
+      "name": "functional diversity",
+      "label": "variable",
+      "description": "A measure of the range of functional traits present in an ecosystem, often used as an indicator of ecosystem health and resilience",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5003581976686723
+    }
+  ],
+  "(8104, 11378)": [
+    {
+      "name": "sediment organic carbon",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon stored in sediments, often used to study carbon cycling and storage in ecosystems",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5964801503768591
+    },
+    {
+      "name": "leaf litter nitrogen content",
+      "label": "variable",
+      "description": "A measure of the amount of nitrogen present in leaf litter, used to study nutrient cycling and ecosystem processes",
+      "uuid": "50153029-9bc0-42bb-86ba-edcb02149d28",
+      "score": 0.586543192727351
+    },
+    {
+      "name": "afforestation",
+      "label": "project",
+      "description": "The process of establishing a forest in an area where there was no previous forest cover, often used for conservation and rehabilitation efforts",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6960116424956997
+    },
+    {
+      "name": "aboveground and belowground plant biomass carbon",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in plant biomass, both above and below the ground, used to study carbon sequestration and ecosystem processes",
+      "uuid": "df7e4050-d8bc-4982-bc9a-e737823d4a0b",
+      "score": 0.5474265020284937
+    },
+    {
+      "name": "different carbon pools",
+      "label": "variable",
+      "description": "Refers to the various forms and locations of carbon storage in an ecosystem, including plant biomass, soil, and sediments",
+      "uuid": "a85012cc-766c-43d3-958e-5c72ebada9d3",
+      "score": 0.5615826381541262
+    },
+    {
+      "name": "mangroves",
+      "label": "location",
+      "description": "A type of coastal ecosystem characterized by the presence of mangrove trees, often found in tropical and subtropical regions",
+      "uuid": "04c4a85f-91ce-4d64-9e19-b3e0897ff187",
+      "score": 0.7021343799044164
+    },
+    {
+      "name": "organic carbon storage",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon stored in a particular ecosystem or location, often used to study carbon cycling and storage",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6055182288273155
+    },
+    {
+      "name": "functional diversity",
+      "label": "variable",
+      "description": "A measure of the range and variety of functional traits present in an ecosystem, used to study ecosystem function and processes",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5007431587684111
+    },
+    {
+      "name": "sediment salinity",
+      "label": "variable",
+      "description": "A measure of the salt content in sediments, often used to study the effects of salinity on ecosystem processes",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.5397883445502638
+    }
+  ],
+  "(10884, 13896)": [
+    {
+      "name": "sediment organic carbon",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon stored in sediments, an important component of blue carbon storage",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5891227921681244
+    },
+    {
+      "name": "leaf litter nitrogen content",
+      "label": "variable",
+      "description": "A measure of the amount of nitrogen present in leaf litter, influencing ecosystem processes and carbon storage",
+      "uuid": "50153029-9bc0-42bb-86ba-edcb02149d28",
+      "score": 0.6031144436443977
+    },
+    {
+      "name": "leaf litter characteristics",
+      "label": "variable",
+      "description": "Properties of leaf litter, such as dry matter content and nitrogen content, that affect ecosystem functioning and carbon storage",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5959831687407515
+    },
+    {
+      "name": "aboveground and belowground biomass carbon",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in aboveground and belowground plant biomass, a key component of ecosystem carbon storage",
+      "uuid": "df7e4050-d8bc-4982-bc9a-e737823d4a0b",
+      "score": 0.561264544587311
+    },
+    {
+      "name": "aboveground and belowground plant biomass carbon",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in aboveground and belowground plant biomass, a key component of ecosystem carbon storage",
+      "uuid": "df7e4050-d8bc-4982-bc9a-e737823d4a0b",
+      "score": 0.5517331233678786
+    },
+    {
+      "name": "mangrove",
+      "label": "location",
+      "description": "A type of coastal ecosystem characterized by mangrove trees, known for its high carbon storage capacity",
+      "uuid": "7c666111-3297-474b-ba7b-c93db3a52cb0",
+      "score": 0.6716185202959248
+    },
+    {
+      "name": "blue carbon storage",
+      "label": "variable",
+      "description": "The amount of carbon stored in coastal ecosystems, such as mangroves, which play a crucial role in mitigating climate change",
+      "uuid": "111801cb-56c1-4c63-bdc9-660c36266012",
+      "score": 0.5332896520804701
+    },
+    {
+      "name": "sediment salinity",
+      "label": "variable",
+      "description": "A measure of the salt concentration in sediments, influencing ecosystem processes and carbon storage",
+      "uuid": "1a4e5774-7d4a-4ce7-9a4c-e2c72c8c377f",
+      "score": 0.5374969667210435
+    },
+    {
+      "name": "wood density",
+      "label": "variable",
+      "description": "A measure of the density of wood, influencing ecosystem processes and carbon storage",
+      "uuid": "a1442b82-dfd2-46ee-aae3-e6ceda513648",
+      "score": 0.5558292898650214
+    },
+    {
+      "name": "maximum canopy height",
+      "label": "variable",
+      "description": "A measure of the height of the canopy, influencing ecosystem processes and carbon storage",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.5915322454587907
+    }
+  ],
+  "(13414, 16883)": [
+    {
+      "name": "aboveground plant biomass carbon",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in the aboveground parts of plants, such as leaves, stems, and branches",
+      "uuid": "64fcb510-2fd5-41dc-9a14-7fc2d7043253",
+      "score": 0.5384707855316071
+    },
+    {
+      "name": "sediment organic carbon",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in sediment, such as in mangrove forests",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5775604195423995
+    },
+    {
+      "name": "plant above-and belowground biomass carbon",
+      "label": "variable",
+      "description": "A measure of the total amount of carbon stored in both the aboveground and belowground parts of plants",
+      "uuid": "df7e4050-d8bc-4982-bc9a-e737823d4a0b",
+      "score": 0.5575436518354567
+    },
+    {
+      "name": "mangrove forests",
+      "label": "location",
+      "description": "A type of coastal ecosystem characterized by the presence of mangrove trees, often found in tropical and subtropical regions",
+      "uuid": "7c666111-3297-474b-ba7b-c93db3a52cb0",
+      "score": 0.6699578048664362
+    },
+    {
+      "name": "belowground plant biomass carbon",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in the belowground parts of plants, such as roots",
+      "uuid": "df7e4050-d8bc-4982-bc9a-e737823d4a0b",
+      "score": 0.5917678901293273
+    },
+    {
+      "name": "aboveground and belowground biomass carbon",
+      "label": "variable",
+      "description": "A measure of the total amount of carbon stored in both the aboveground and belowground parts of plants",
+      "uuid": "df7e4050-d8bc-4982-bc9a-e737823d4a0b",
+      "score": 0.5487362088800972
+    },
+    {
+      "name": "mangroves",
+      "label": "location",
+      "description": "A type of coastal ecosystem characterized by the presence of mangrove trees, often found in tropical and subtropical regions",
+      "uuid": "04c4a85f-91ce-4d64-9e19-b3e0897ff187",
+      "score": 0.7021343799044164
+    },
+    {
+      "name": "maximum canopy height",
+      "label": "variable",
+      "description": "A measure of the maximum height of the canopy in a forest or woodland ecosystem",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.5838911904360822
+    },
+    {
+      "name": "litter nitrogen",
+      "label": "variable",
+      "description": "A measure of the amount of nitrogen present in litter, such as fallen leaves or branches",
+      "uuid": "50153029-9bc0-42bb-86ba-edcb02149d28",
+      "score": 0.6051230952846725
+    },
+    {
+      "name": "sediment salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of salt in sediment, often used as an environmental variable in ecological studies",
+      "uuid": "1a4e5774-7d4a-4ce7-9a4c-e2c72c8c377f",
+      "score": 0.5496644091374878
+    },
+    {
+      "name": "climate change mitigation",
+      "label": "project",
+      "description": "Efforts to reduce or prevent the emission of greenhouse gases, such as carbon dioxide, in order to mitigate the effects of climate change",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.681472765383196
+    }
+  ],
+  "(16267, 19675)": [
+    {
+      "name": "mangroves",
+      "label": "location",
+      "description": "A type of coastal ecosystem characterized by the presence of mangrove trees and shrubs, known for their importance in carbon sequestration and coastal protection",
+      "uuid": "04c4a85f-91ce-4d64-9e19-b3e0897ff187",
+      "score": 0.6933804807565311
+    },
+    {
+      "name": "sediment organic carbon",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon stored in sediments, often used as an indicator of ecosystem carbon storage",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5916477269352922
+    },
+    {
+      "name": "total ecosystem carbon",
+      "label": "variable",
+      "description": "A measure of the total amount of carbon stored in an ecosystem, including both aboveground and belowground carbon pools",
+      "uuid": "d3de94c5-a990-424c-ad15-33faaf393e7a",
+      "score": 0.5204384514877884
+    },
+    {
+      "name": "blue carbon storage",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in coastal ecosystems, such as mangroves, salt marshes, and seagrasses",
+      "uuid": "111801cb-56c1-4c63-bdc9-660c36266012",
+      "score": 0.5158038507322332
+    },
+    {
+      "name": "functional diversity",
+      "label": "variable",
+      "description": "A measure of the variety of different functional traits present in an ecosystem, often used as an indicator of ecosystem resilience",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5032985015415747
+    },
+    {
+      "name": "climate change mitigation",
+      "label": "project",
+      "description": "Efforts to reduce or prevent the emission of greenhouse gases, such as carbon dioxide, in order to mitigate the impacts of climate change",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6829854917622854
+    },
+    {
+      "name": "dominant species",
+      "label": "variable",
+      "description": "A species that is most abundant or has the greatest impact on an ecosystem, often used as an indicator of ecosystem function",
+      "uuid": "df597f06-8575-4726-acac-65b2bd432d59",
+      "score": 0.730281076921329
+    },
+    {
+      "name": "aboveground biomass carbon storage",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in aboveground plant biomass, such as leaves, stems, and branches",
+      "uuid": "64fcb510-2fd5-41dc-9a14-7fc2d7043253",
+      "score": 0.534400680044659
+    }
+  ],
+  "(19108, 22405)": [
+    {
+      "name": "mangrove forest",
+      "label": "location",
+      "description": "A coastal ecosystem characterized by the presence of mangrove trees, playing a crucial role in carbon sequestration and biodiversity conservation",
+      "uuid": "7c666111-3297-474b-ba7b-c93db3a52cb0",
+      "score": 0.6341275812707039
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances essential for plant growth and development, often imported into mangrove ecosystems through freshwater input from rivers",
+      "uuid": "8dd7c9f0-51d0-4037-b1d0-a2517c1770ad",
+      "score": 0.5877334846090705
+    },
+    {
+      "name": "rehabilitation or afforestation success",
+      "label": "project",
+      "description": "Efforts aimed at restoring or reestablishing degraded or deforested areas, including mangrove forests, to promote ecosystem recovery and biodiversity conservation",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.5941338105805151
+    },
+    {
+      "name": "rehabilitation or afforestation efforts",
+      "label": "project",
+      "description": "Activities focused on restoring or reestablishing degraded or deforested areas, including mangrove forests, to promote ecosystem recovery and biodiversity conservation",
+      "uuid": "a28eeef3-b252-4309-957b-860d2e0f97ef",
+      "score": 0.6125118391441283
+    },
+    {
+      "name": "sea level rise",
+      "label": "natural hazard",
+      "description": "The increase in global sea levels due to climate change, posing a threat to coastal ecosystems, including mangroves, and human settlements",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.6999741290652873
+    },
+    {
+      "name": "different carbon pools",
+      "label": "variable",
+      "description": "Reservoirs of carbon within an ecosystem, including above- and belowground plant biomass, sediment, and atmospheric carbon dioxide",
+      "uuid": "a85012cc-766c-43d3-958e-5c72ebada9d3",
+      "score": 0.5452305008820386
+    },
+    {
+      "name": "climate change mitigation",
+      "label": "project",
+      "description": "Efforts aimed at reducing the impact of climate change, including the conservation and restoration of ecosystems like mangroves that sequester carbon",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6211403409766689
+    },
+    {
+      "name": "rising sea levels",
+      "label": "natural hazard",
+      "description": "The increase in global sea levels due to climate change, posing a threat to coastal ecosystems, including mangroves, and human settlements",
+      "uuid": "2aad0e7e-1c96-4d87-adeb-4894225e2922",
+      "score": 0.6571173891517065
+    },
+    {
+      "name": "inundation frequency",
+      "label": "variable",
+      "description": "The frequency at which an area, such as a mangrove forest, is flooded by water, which can impact ecosystem health and carbon storage",
+      "uuid": "3265052b-38e1-472c-ab91-70b39b549854",
+      "score": 0.7062230401027129
+    },
+    {
+      "name": "salinity levels",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, which can affect the growth and survival of mangrove species and the overall health of the ecosystem",
+      "uuid": "a38db528-3064-449d-ae70-af86997a11f4",
+      "score": 0.5502713046633497
+    },
+    {
+      "name": "wood density",
+      "label": "variable",
+      "description": "A measure of the density of wood, which can influence the carbon storage capacity of mangrove trees",
+      "uuid": "a1442b82-dfd2-46ee-aae3-e6ceda513648",
+      "score": 0.5285714553463448
+    },
+    {
+      "name": "maximum canopy height",
+      "label": "variable",
+      "description": "The maximum height of the canopy in a mangrove forest, which can impact ecosystem productivity and carbon storage",
+      "uuid": "2eac47f3-9ea1-41d3-88ff-48cceeadf652",
+      "score": 0.5128682233460381
+    },
+    {
+      "name": "litter nitrogen",
+      "label": "variable",
+      "description": "The amount of nitrogen present in leaf litter, which can influence nutrient cycling and ecosystem health in mangrove forests",
+      "uuid": "50153029-9bc0-42bb-86ba-edcb02149d28",
+      "score": 0.6032700164177388
+    },
+    {
+      "name": "blue carbon storage",
+      "label": "variable",
+      "description": "The storage of carbon in coastal ecosystems like mangroves, which can help mitigate climate change",
+      "uuid": "111801cb-56c1-4c63-bdc9-660c36266012",
+      "score": 0.5259689099653873
+    }
+  ],
+  "(21917, 24692)": [
+    {
+      "name": "sea level rise",
+      "label": "natural hazard",
+      "description": "A phenomenon where the average sea level increases, often caused by climate change, leading to more frequent flooding and coastal erosion>",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7408723062576028
+    },
+    {
+      "name": "mangrove stands",
+      "label": "location",
+      "description": "A type of coastal ecosystem characterized by mangrove trees, providing important habitat for various species and protecting against storms and erosion>",
+      "uuid": "7c666111-3297-474b-ba7b-c93db3a52cb0",
+      "score": 0.6381948736827325
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, an important factor influencing the distribution and abundance of plants and animals in coastal ecosystems>",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6522782682392239
+    },
+    {
+      "name": "blue carbon",
+      "label": "variable",
+      "description": "The carbon stored in coastal ecosystems such as mangroves, salt marshes, and seagrasses, which helps to mitigate climate change>",
+      "uuid": "111801cb-56c1-4c63-bdc9-660c36266012",
+      "score": 0.5630024642358568
+    },
+    {
+      "name": "spatial interpolation",
+      "label": "model",
+      "description": "A statistical method used to estimate values at unsampled locations based on nearby measurements>",
+      "uuid": "e8e3ba6c-599e-4d7d-b498-93b15c32d820",
+      "score": 0.5262405671009647
+    },
+    {
+      "name": "canal",
+      "label": "location",
+      "description": "A man-made waterway, often used for transportation or irrigation>",
+      "uuid": "a0c33d15-b76c-4a0d-abb7-6919102b2977",
+      "score": 0.6550388758070631
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water, often influencing the surrounding ecosystem>",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.7229197683328867
+    },
+    {
+      "name": "cyclone",
+      "label": "weather event",
+      "description": "A type of storm that forms over warm ocean waters, characterized by strong winds and heavy rainfall>",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6093419676672236
+    },
+    {
+      "name": "fire",
+      "label": "natural hazard",
+      "description": "An uncontrolled blaze, often caused by human activity or natural factors, which can damage ecosystems and infrastructure>",
+      "uuid": "855dc9f5-ccbf-4972-8828-41e11f2aca7a",
+      "score": 0.5736160267219356
+    },
+    {
+      "name": "aboveground biomass",
+      "label": "variable",
+      "description": "The mass of living organisms above the ground, including trees, shrubs, and other vegetation>",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5416228572487841
+    },
+    {
+      "name": "belowground biomass",
+      "label": "variable",
+      "description": "The mass of living organisms below the ground, including roots and other subterranean structures>",
+      "uuid": "df7e4050-d8bc-4982-bc9a-e737823d4a0b",
+      "score": 0.5396756529779235
+    },
+    {
+      "name": "sediment organic carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in sediments, often measured to assess the carbon sequestration potential of ecosystems>",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5885591741741625
+    }
+  ],
+  "(24296, 27039)": [
+    {
+      "name": "Bangladesh Forest Research Institute",
+      "label": "provider",
+      "description": "A research institution responsible for conducting forestry research and providing technical services in Bangladesh",
+      "uuid": "1344a158-af89-41ef-9e98-1a64c83bb3e5",
+      "score": 0.506942809679658
+    },
+    {
+      "name": "organic carbon concentration",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon present in a sample, often used to estimate carbon storage and cycling in ecosystems",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6225214290672211
+    },
+    {
+      "name": "sediment organic carbon",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon stored in sediments, often used to estimate carbon sequestration and storage in ecosystems",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5913668131529568
+    },
+    {
+      "name": "leaf photosynthesis rate",
+      "label": "variable",
+      "description": "A measure of the rate at which leaves undergo photosynthesis, often used as a functional trait to describe tree species and their characteristics",
+      "uuid": "b23f0161-64bb-45d7-b0c1-85aa9a1d2c8d",
+      "score": 0.5028489091228602
+    },
+    {
+      "name": "maximum canopy height",
+      "label": "variable",
+      "description": "A measure of the maximum height of a tree's canopy, often used as a functional trait to describe tree species and their characteristics",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.5605330016905401
+    },
+    {
+      "name": "leaf-litter qualities",
+      "label": "variable",
+      "description": "A measure of the characteristics of leaf litter, including carbon, nitrogen, and carbon-to-nitrogen ratio, often used as functional traits to describe tree species and their characteristics",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5367487202736829
+    }
+  ],
+  "(26626, 29518)": [
+    {
+      "name": "sediment salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of dissolved salts in sediment, often used to study coastal and marine ecosystems",
+      "uuid": "1a4e5774-7d4a-4ce7-9a4c-e2c72c8c377f",
+      "score": 0.554069451165087
+    },
+    {
+      "name": "total organic matter",
+      "label": "variable",
+      "description": "A measure of the amount of organic material in sediment or soil, often used to study ecosystem carbon cycling",
+      "uuid": "e82c0632-5a3c-4da2-ba10-55c0fc222580",
+      "score": 0.6263924184619921
+    },
+    {
+      "name": "total nitrogen",
+      "label": "variable",
+      "description": "A measure of the amount of nitrogen in sediment or soil, often used to study ecosystem nutrient cycling",
+      "uuid": "dc748b93-e7d6-419d-a9f0-f370556d6f8e",
+      "score": 0.5090496424579924
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required by living organisms to grow, reproduce, and maintain health, often studied in the context of ecosystem nutrient cycling",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.6601441335795706
+    },
+    {
+      "name": "functional diversity",
+      "label": "variable",
+      "description": "A measure of the range of functional traits and characteristics in an ecosystem, often used to study ecosystem function and resilience",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5045877402437839
+    },
+    {
+      "name": "carbon pools",
+      "label": "variable",
+      "description": "Reservoirs of carbon in an ecosystem, often studied in the context of ecosystem carbon cycling and climate change",
+      "uuid": "a85012cc-766c-43d3-958e-5c72ebada9d3",
+      "score": 0.5463182723005727
+    }
+  ],
+  "(28957, 32465)": [
+    {
+      "name": "biodiversity components",
+      "label": "variable",
+      "description": "The different aspects of biodiversity, including species richness, functional composition, and functional diversity, which are essential for understanding ecosystem function and resilience",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5826418858138984
+    },
+    {
+      "name": "terrestrial ecosystems",
+      "label": "location",
+      "description": "Ecosystems that exist on land, as opposed to aquatic or marine ecosystems, and are characterized by unique biotic and abiotic factors",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.6882148113225296
+    },
+    {
+      "name": "sediment organic carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in sediment, which is an important component of the global carbon cycle and can impact climate change",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5782211107865709
+    },
+    {
+      "name": "ecosystem function",
+      "label": "variable",
+      "description": "The processes and interactions that occur within an ecosystem, including primary production, decomposition, and nutrient cycling, which are critical for maintaining ecosystem health and resilience",
+      "uuid": "233a4d81-44f8-4b0e-8ad3-695f641729f8",
+      "score": 0.6615593327815219
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, which can impact the distribution and abundance of organisms and the functioning of ecosystems",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.671268688029164
+    },
+    {
+      "name": "aboveground and belowground plant biomass carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in plant biomass, both above and below ground, which is an important component of the global carbon cycle and can impact climate change",
+      "uuid": "df7e4050-d8bc-4982-bc9a-e737823d4a0b",
+      "score": 0.542042551011569
+    }
+  ],
+  "(31872, 34366)": [
+    {
+      "name": "National Key Research and Development Program of China",
+      "label": "provider",
+      "description": "A funding agency supporting research and development projects in China>",
+      "uuid": "cc924b13-041b-4966-a08b-c45bd5a86473",
+      "score": 0.5118526135152216
+    },
+    {
+      "name": "United States Agency for International Development",
+      "label": "provider",
+      "description": "An independent agency of the United States federal government that provides economic and humanitarian assistance worldwide>",
+      "uuid": "90bb0b25-358d-4f12-afca-fc54e99379ff",
+      "score": 0.5118340106366982
+    },
+    {
+      "name": "carbon pools",
+      "label": "variable",
+      "description": "The amount of carbon stored in a particular ecosystem or reservoir>",
+      "uuid": "a85012cc-766c-43d3-958e-5c72ebada9d3",
+      "score": 0.5387986128148775
+    },
+    {
+      "name": "sediment salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of dissolved salts in sediment>",
+      "uuid": "a38db528-3064-449d-ae70-af86997a11f4",
+      "score": 0.5493529955059502
+    }
+  ],
+  "(33867, 35535)": [
+    {
+      "name": "National Key Research and Development Program of China",
+      "label": "provider",
+      "description": "A Chinese government program that funds research and development projects, including those related to climate change and environmental science",
+      "uuid": "89d5144f-b4b4-443a-a990-bc080e0ee7de",
+      "score": 0.5042973682508206
+    },
+    {
+      "name": "United States Agency for International Development",
+      "label": "provider",
+      "description": "A US government agency that provides financial and technical assistance to developing countries, including support for climate change and environmental projects",
+      "uuid": "90bb0b25-358d-4f12-afca-fc54e99379ff",
+      "score": 0.5161004108131263
+    },
+    {
+      "name": "Springer Nature",
+      "label": "provider",
+      "description": "A publisher of scientific journals and books, including Nature Communications",
+      "uuid": "67aee06b-a1df-4d00-9945-c9229f1ad121",
+      "score": 0.530121588861457
+    }
+  ]
+}

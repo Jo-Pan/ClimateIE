@@ -1,0 +1,918 @@
+{
+  "(0, 2661)": [
+    {
+      "name": "coral reefs",
+      "label": "ecosystem",
+      "description": "One of the most biodiverse and economically important ecosystems in the world, characterized by a complex community of coral, fish, and other organisms",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.6915096168351068
+    },
+    {
+      "name": "coral bleaching events",
+      "label": "weather event",
+      "description": "Mass coral death due to increased sea temperatures, causing coral to expel its algal symbionts and turn white",
+      "uuid": "f5df87b6-ed50-4da0-9ba5-7ce4c907bdb3",
+      "score": 0.6964973674427235
+    },
+    {
+      "name": "eutrophication",
+      "label": "natural hazard",
+      "description": "Excessive nutrient enrichment in water bodies, leading to harmful algal blooms and decreased water quality",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.7556510906387344
+    },
+    {
+      "name": "sedimentation",
+      "label": "natural hazard",
+      "description": "The process of sediment particles settling and accumulating in a new location, often causing harm to aquatic ecosystems",
+      "uuid": "984e15c6-7eac-45b8-b098-ad82eab6be6e",
+      "score": 0.6163265075195565
+    },
+    {
+      "name": "ocean warming",
+      "label": "weather event",
+      "description": "The increase in the temperature of the ocean due to global climate change, affecting marine ecosystems and biodiversity",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5708850801377369
+    },
+    {
+      "name": "ocean acidification",
+      "label": "weather event",
+      "description": "The decrease in the pH level of the ocean due to the absorption of excess carbon dioxide from the atmosphere, affecting marine life and ecosystems",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.7614816349741114
+    },
+    {
+      "name": "hypoxia events",
+      "label": "natural hazard",
+      "description": "Periods of low oxygen levels in the ocean, which can be harmful to marine life and ecosystems",
+      "uuid": "b846063c-e218-4fc6-9866-0cdca24e9023",
+      "score": 0.6755429966346369
+    },
+    {
+      "name": "marine heatwaves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally high sea temperatures, which can cause coral bleaching and other impacts on marine ecosystems",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.5664711684116852
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by a warm and humid climate",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.737420495542026
+    },
+    {
+      "name": "nearshore areas",
+      "label": "location",
+      "description": "Coastal regions where the land meets the sea, often affected by human activities such as coastal development and pollution",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5978728880357365
+    }
+  ],
+  "(2301, 4657)": [
+    {
+      "name": "coral bleaching events",
+      "label": "weather event",
+      "description": "A mass mortality event affecting coral reefs, often caused by high water temperatures, pollution, or other environmental stressors",
+      "uuid": "f5df87b6-ed50-4da0-9ba5-7ce4c907bdb3",
+      "score": 0.6472820860150065
+    },
+    {
+      "name": "coral reefs",
+      "label": "location",
+      "description": "Shallow, tropical ecosystems dominated by coral polyps, providing habitat for diverse marine life and protecting coastlines",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.6976030165112312
+    },
+    {
+      "name": "oxygen-depleted 'dead zones'",
+      "label": "natural hazard",
+      "description": "Areas in the ocean where oxygen levels are too low to support most marine life, often caused by pollution or climate change",
+      "uuid": "b846063c-e218-4fc6-9866-0cdca24e9023",
+      "score": 0.5641826179219693
+    },
+    {
+      "name": "hypoxia events",
+      "label": "natural hazard",
+      "description": "Short-term or seasonal events where oxygen levels in the water are too low to support most marine life",
+      "uuid": "b846063c-e218-4fc6-9866-0cdca24e9023",
+      "score": 0.6490729103505898
+    },
+    {
+      "name": "marine heatwaves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally high water temperatures in the ocean, often causing harm to marine ecosystems",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.566268727753254
+    },
+    {
+      "name": "coral cover",
+      "label": "variable",
+      "description": "The percentage of the seafloor covered by living coral, an indicator of the health of coral reef ecosystems",
+      "uuid": "7e24064a-7035-402a-ab9d-fa5e5c359720",
+      "score": 0.5362562117442753
+    },
+    {
+      "name": "coral assemblages",
+      "label": "variable",
+      "description": "The composition of coral species within a reef ecosystem, which can shift in response to environmental changes",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.5161362677346688
+    },
+    {
+      "name": "reef scientists",
+      "label": "provider",
+      "description": "Researchers who study coral reefs and their ecosystems, often working to understand and mitigate the impacts of climate change",
+      "uuid": "367718c8-cc3b-4c94-a270-0a278afabb43",
+      "score": 0.5816147655767414
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of biodiversity",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7517686346735052
+    },
+    {
+      "name": "lab",
+      "label": "platform",
+      "description": "A controlled environment used for scientific experiments and research",
+      "uuid": "3cbb9f17-ddb1-48d3-a507-786887e485af",
+      "score": 0.6289844490140729
+    }
+  ],
+  "(4078, 7111)": [
+    {
+      "name": "coral reefs",
+      "label": "location",
+      "description": "Tropical and subtropical ecosystems formed by coral polyps, providing habitat for diverse marine life and protecting coastlines from erosion",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.7144333400501804
+    },
+    {
+      "name": "intertidal",
+      "label": "location",
+      "description": "The area of a coast that is exposed to air at low tide and submerged at high tide, characterized by unique and diverse ecosystems",
+      "uuid": "82b62e59-6ea1-48e1-a402-bd386c5046eb",
+      "score": 0.6991866032984773
+    },
+    {
+      "name": "shallow reefs",
+      "label": "location",
+      "description": "Reef environments located in shallow waters, often subject to varying environmental conditions such as temperature, pH, and turbidity",
+      "uuid": "367718c8-cc3b-4c94-a270-0a278afabb43",
+      "score": 0.521442590139428
+    },
+    {
+      "name": "high temperatures",
+      "label": "weather event",
+      "description": "Abnormally high temperatures, often associated with heatwaves or extreme weather events",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.6261829259576905
+    },
+    {
+      "name": "high pH",
+      "label": "variable",
+      "description": "A measure of the acidity or basicity of a solution, with high pH indicating basic conditions",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.5837223570397975
+    },
+    {
+      "name": "turbidity",
+      "label": "variable",
+      "description": "A measure of the cloudiness or haziness of a fluid, often used to describe water quality",
+      "uuid": "68e2c729-f729-4936-af2e-0ecf7ee7d231",
+      "score": 0.7442391484531948
+    },
+    {
+      "name": "sedimentation",
+      "label": "natural hazard",
+      "description": "The process of sediment settling and accumulating, potentially leading to changes in ecosystem structure and function",
+      "uuid": "984e15c6-7eac-45b8-b098-ad82eab6be6e",
+      "score": 0.6227395081320614
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important factor influencing marine ecosystems",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7016653726434965
+    },
+    {
+      "name": "urbanized areas",
+      "label": "location",
+      "description": "Regions with high population density and development, often associated with environmental degradation and pollution",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6543821126209131
+    },
+    {
+      "name": "acidified environments",
+      "label": "location",
+      "description": "Ecosystems with low pH, often resulting from ocean acidification or other environmental stressors",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.5453122513165041
+    }
+  ],
+  "(6622, 9284)": [
+    {
+      "name": "coral reefs",
+      "label": "location",
+      "description": "Shallow and coastal ecosystems formed by coral polyps, known for their high biodiversity and sensitivity to environmental changes",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.7049189030734725
+    },
+    {
+      "name": "intertidal",
+      "label": "location",
+      "description": "The area between the highest and lowest tides, characterized by variable and often extreme environmental conditions",
+      "uuid": "82b62e59-6ea1-48e1-a402-bd386c5046eb",
+      "score": 0.690721874260856
+    },
+    {
+      "name": "American Samoa",
+      "label": "location",
+      "description": "A US territory in the southern Pacific Ocean, known for its coral reefs and marine biodiversity",
+      "uuid": "d4db292f-3097-4843-a6c5-291cf993bea9",
+      "score": 0.7414596415093174
+    },
+    {
+      "name": "sea surface temperatures",
+      "label": "variable",
+      "description": "The temperature of the surface layer of the ocean, influencing climate and marine ecosystems",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7550974177282601
+    },
+    {
+      "name": "turbidity",
+      "label": "variable",
+      "description": "A measure of water clarity, with high turbidity indicating the presence of suspended particles or sediments",
+      "uuid": "68e2c729-f729-4936-af2e-0ecf7ee7d231",
+      "score": 0.7407345575459637
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, affecting marine life and ecosystems",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7041361573565802
+    },
+    {
+      "name": "sedimentation",
+      "label": "variable",
+      "description": "The process of sediment particles settling to the bottom of a body of water, influencing water quality and ecosystems",
+      "uuid": "984e15c6-7eac-45b8-b098-ad82eab6be6e",
+      "score": 0.6348075257836776
+    },
+    {
+      "name": "marine heatwaves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally high sea surface temperatures, potentially causing harm to marine ecosystems",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.571441718445177
+    },
+    {
+      "name": "coral",
+      "label": "variable",
+      "description": "A small, sessile animal that forms the base of coral reef ecosystems, sensitive to environmental changes",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.5532511299309665
+    }
+  ],
+  "(8830, 11587)": [
+    {
+      "name": "coral reefs",
+      "label": "location",
+      "description": "Tropical or subtropical ecosystems formed by coral polyps, often found in shallow, sunlit waters with high levels of biodiversity",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.6743800049218176
+    },
+    {
+      "name": "El-Nino-Southern Oscillation",
+      "label": "teleconnection",
+      "description": "A complex climate phenomenon characterized by fluctuations in ocean temperatures and atmospheric pressure in the Pacific, influencing global climate patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7655722595140415
+    },
+    {
+      "name": "intertidal coral assemblages",
+      "label": "location",
+      "description": "Communities of coral species found in the intertidal zone, the area between the highest and lowest tides",
+      "uuid": "82b62e59-6ea1-48e1-a402-bd386c5046eb",
+      "score": 0.5292130888140784
+    }
+  ],
+  "(11131, 13892)": [
+    {
+      "name": "El-Nino-Southern Oscillation",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7498439341166547
+    },
+    {
+      "name": "coral reefs",
+      "label": "location",
+      "description": "Shallow, tropical marine ecosystems formed by coral polyps, providing habitat for diverse marine life",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.6937617762801649
+    },
+    {
+      "name": "intertidal corals",
+      "label": "variable",
+      "description": "Corals that live in the area between high and low tide marks, subject to varying environmental conditions",
+      "uuid": "82b62e59-6ea1-48e1-a402-bd386c5046eb",
+      "score": 0.550414095158463
+    },
+    {
+      "name": "mangrove lagoons",
+      "label": "location",
+      "description": "Shallow, coastal ecosystems characterized by the presence of mangrove trees and restricted water exchange",
+      "uuid": "7c666111-3297-474b-ba7b-c93db3a52cb0",
+      "score": 0.5896770012982314
+    },
+    {
+      "name": "turbid reefs",
+      "label": "location",
+      "description": "Coral reefs with high levels of suspended sediments or other particles in the water, often found in areas with high river runoff or coastal development",
+      "uuid": "68e2c729-f729-4936-af2e-0ecf7ee7d231",
+      "score": 0.5097040378500732
+    },
+    {
+      "name": "microbiome",
+      "label": "variable",
+      "description": "The community of microorganisms living in association with corals, playing a crucial role in their health and resilience",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.6347342698771227
+    },
+    {
+      "name": "coral holobiont",
+      "label": "variable",
+      "description": "The collective term for the coral animal, its algal symbionts, and associated microorganisms, forming a complex biological system",
+      "uuid": "f8845bec-c628-4185-aac1-4af22481c024",
+      "score": 0.6253125298529568
+    }
+  ],
+  "(13389, 16054)": [
+    {
+      "name": "corals",
+      "label": "location",
+      "description": "Tropical and subtropical regions of the world's oceans, known for their diverse ecosystems and sensitivity to environmental changes",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.6110542725831134
+    },
+    {
+      "name": "lagoon corals",
+      "label": "location",
+      "description": "Shallow bodies of water separated from the open sea by barrier islands or coral reefs, often characterized by unique environmental conditions",
+      "uuid": "081d131a-6bef-47dc-adb3-f96da9123f93",
+      "score": 0.6687295403930068
+    },
+    {
+      "name": "next-generation sequencing",
+      "label": "instrument",
+      "description": "A high-throughput technology for analyzing genetic data, enabling the study of complex biological systems",
+      "uuid": "5804d1a5-c96d-4863-881d-6f763ecee262",
+      "score": 0.5599761722860084
+    },
+    {
+      "name": "bacterial microbiome",
+      "label": "variable",
+      "description": "The community of bacteria living in association with corals, influencing coral health and environmental adaptability",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.542402187119175
+    },
+    {
+      "name": "Persian/Arabian Gulf",
+      "label": "location",
+      "description": "A body of water located in the Middle East, characterized by extreme sea surface temperatures and salinity levels",
+      "uuid": "9e75b714-9315-42e8-85c7-dbe502659e98",
+      "score": 0.7092379124284407
+    },
+    {
+      "name": "Red Sea",
+      "label": "location",
+      "description": "A body of water located between Africa and Asia, known for its unique environmental conditions and diverse marine ecosystems",
+      "uuid": "08c6b9f0-9edf-4d1a-99d5-ca60c2ae2eb2",
+      "score": 0.7519071253155067
+    },
+    {
+      "name": "open reef habitats",
+      "label": "location",
+      "description": "Coral reef ecosystems located in open ocean environments, often characterized by high levels of biodiversity",
+      "uuid": "367718c8-cc3b-4c94-a270-0a278afabb43",
+      "score": 0.5606875235075349
+    },
+    {
+      "name": "extreme sea surface temperatures",
+      "label": "weather event",
+      "description": "Unusually high or low sea surface temperatures, potentially impacting coral health and resilience",
+      "uuid": "4b862c68-9cd9-4fee-942a-7cec0e6b05c2",
+      "score": 0.5746707443169249
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, influencing coral health and environmental adaptability",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6420439069937445
+    },
+    {
+      "name": "bacterial microbiome changes",
+      "label": "experiment",
+      "description": "Changes in the community of bacteria associated with corals, potentially influencing coral health and environmental adaptability",
+      "uuid": "adf5f515-c7b4-4662-a144-580659957ce1",
+      "score": 0.581625627693499
+    }
+  ],
+  "(15731, 18130)": [
+    {
+      "name": "Persian/Arabian Gulf",
+      "label": "location",
+      "description": "A body of water located in the Middle East, characterized by high salinity and temperature, and home to diverse coral reef ecosystems",
+      "uuid": "9e75b714-9315-42e8-85c7-dbe502659e98",
+      "score": 0.7144745245859397
+    },
+    {
+      "name": "Red Sea",
+      "label": "location",
+      "description": "A body of water located between Africa and Asia, known for its unique coral reef ecosystems and high biodiversity",
+      "uuid": "08c6b9f0-9edf-4d1a-99d5-ca60c2ae2eb2",
+      "score": 0.7696095274540949
+    },
+    {
+      "name": "corals",
+      "label": "variable",
+      "description": "A type of marine invertebrate that forms the foundation of coral reef ecosystems, sensitive to changes in water temperature and chemistry",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.5858577571187128
+    },
+    {
+      "name": "Sea of Oman",
+      "label": "location",
+      "description": "A body of water located in the Arabian Sea, adjacent to the Persian/Arabian Gulf, with different environmental conditions and coral reef ecosystems",
+      "uuid": "a186eed4-d1b4-4d11-b218-b61708a9124c",
+      "score": 0.5416897548228465
+    }
+  ],
+  "(17728, 20441)": [
+    {
+      "name": "Persian/Arabian Gulf",
+      "label": "location",
+      "description": "A semi-enclosed sea located in the Middle East, known for its extreme environmental conditions such as high salinity and temperature",
+      "uuid": "9e75b714-9315-42e8-85c7-dbe502659e98",
+      "score": 0.7308704102116026
+    },
+    {
+      "name": "corals",
+      "label": "variable",
+      "description": "A type of marine invertebrate that forms the base of coral reef ecosystems, sensitive to changes in water temperature and chemistry",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.581720724507538
+    },
+    {
+      "name": "reef fishes",
+      "label": "variable",
+      "description": "A group of fish species that inhabit coral reef ecosystems, influenced by environmental conditions such as water temperature and quality",
+      "uuid": "367718c8-cc3b-4c94-a270-0a278afabb43",
+      "score": 0.5300861818143545
+    }
+  ],
+  "(19953, 22842)": [
+    {
+      "name": "plankton",
+      "label": "food resource",
+      "description": "A diverse group of small, usually microscopic, organisms that drift in the water column and serve as a food source for many marine animals",
+      "uuid": "a69dd814-e7c0-437f-ba2a-63500f68c9a3",
+      "score": 0.6821920575763145
+    },
+    {
+      "name": "benthic resources",
+      "label": "food resource",
+      "description": "Organisms or materials found on or near the seafloor, serving as a food source for various marine species",
+      "uuid": "09a78997-581b-4d1b-ae71-b2b3f96ef719",
+      "score": 0.5995251446692197
+    },
+    {
+      "name": "benthic organisms",
+      "label": "species",
+      "description": "Organisms that live on, in, or near the seafloor, playing important roles in marine ecosystems",
+      "uuid": "09a78997-581b-4d1b-ae71-b2b3f96ef719",
+      "score": 0.6307312574189867
+    },
+    {
+      "name": "turbid water",
+      "label": "environmental condition",
+      "description": "Water with high levels of suspended sediments or other particles, reducing light penetration and affecting marine life",
+      "uuid": "68e2c729-f729-4936-af2e-0ecf7ee7d231",
+      "score": 0.6477622277551247
+    },
+    {
+      "name": "photosynthesis",
+      "label": "biological process",
+      "description": "The process by which organisms, such as plants and some microorganisms, convert light energy into chemical energy",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6686251949319322
+    },
+    {
+      "name": "coral reefs",
+      "label": "ecosystem",
+      "description": "Diverse and complex ecosystems found in tropical and subtropical oceans, formed by coral polyps and providing habitat for numerous species",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.7205143996276115
+    }
+  ],
+  "(22485, 24952)": [
+    {
+      "name": "turbidity",
+      "label": "variable",
+      "description": "A measure of the cloudiness or haziness of a fluid caused by individual particles or suspended solids that are generally invisible to the naked eye, often used to describe water quality",
+      "uuid": "68e2c729-f729-4936-af2e-0ecf7ee7d231",
+      "score": 0.7490451180529878
+    },
+    {
+      "name": "coral reefs",
+      "label": "location",
+      "description": "Shallow, sun-drenched ecosystems found in tropical and subtropical oceans, formed by coral polyps and providing habitat for diverse marine life",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.6984104717584547
+    },
+    {
+      "name": "solar irradiance",
+      "label": "variable",
+      "description": "The amount of solar energy received per unit area, often used to describe the impact of sunlight on ecosystems",
+      "uuid": "33f0ec3e-cd6d-498c-9468-749741fc12e2",
+      "score": 0.7160678397070496
+    },
+    {
+      "name": "ocean acidification",
+      "label": "natural hazard",
+      "description": "The decrease in the pH level of the ocean over time, caused by the uptake of excess carbon dioxide from the atmosphere, which can have negative impacts on marine life, especially organisms with calcium carbonate shells",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.7725326457611427
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required by living organisms to grow, reproduce, and maintain their health, often used to describe the chemical composition of water or soil",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.683218766178346
+    },
+    {
+      "name": "terrigenous sediment",
+      "label": "variable",
+      "description": "Sediment that originates from land and is transported to the ocean, often affecting water quality and marine ecosystems",
+      "uuid": "31cf96eb-7fcd-490d-9e10-7f17dc12e1e3",
+      "score": 0.6939092600914398
+    },
+    {
+      "name": "field studies",
+      "label": "experiment",
+      "description": "Research investigations conducted in natural environments, often used to collect data and test hypotheses",
+      "uuid": "cca1ba09-0595-4ab0-a28f-158f988e9301",
+      "score": 0.5218306283665587
+    },
+    {
+      "name": "modeling studies",
+      "label": "experiment",
+      "description": "Research investigations that use computational models to simulate and analyze complex systems, often used to predict future outcomes and test hypotheses",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5122590147503812
+    }
+  ],
+  "(24575, 27096)": [
+    {
+      "name": "corals",
+      "label": "variable",
+      "description": "A type of marine invertebrate that forms the basis of coral reef ecosystems",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.5723856360234448
+    },
+    {
+      "name": "herbivores",
+      "label": "variable",
+      "description": "Organisms that feed on plants, playing a crucial role in maintaining the balance of coral reef ecosystems",
+      "uuid": "40766d01-bda1-420b-9fd1-fba6d6924f3f",
+      "score": 0.5151159812055757
+    },
+    {
+      "name": "fishes",
+      "label": "variable",
+      "description": "Aquatic animals that inhabit coral reefs and are affected by changes in water quality",
+      "uuid": "ea855d4c-f132-44f9-b31c-447e1101684d",
+      "score": 0.5058354756491608
+    },
+    {
+      "name": "turbidity",
+      "label": "variable",
+      "description": "The cloudiness or haziness of water, often caused by the presence of suspended sediment or other particles",
+      "uuid": "68e2c729-f729-4936-af2e-0ecf7ee7d231",
+      "score": 0.755237040908319
+    },
+    {
+      "name": "sedimentation",
+      "label": "natural hazard",
+      "description": "The process of sediment settling and accumulating on the seafloor, which can harm coral reefs",
+      "uuid": "2cca0a13-3c6f-4617-aca9-bff7f8142c52",
+      "score": 0.5708208978424728
+    },
+    {
+      "name": "reefs",
+      "label": "location",
+      "description": "Shallow, sun-drenched ecosystems formed by coral polyps, often found in tropical and subtropical oceans",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.6494285021446837
+    },
+    {
+      "name": "UNEP",
+      "label": "provider",
+      "description": "The United Nations Environment Programme, an international organization focused on environmental issues and sustainable development",
+      "uuid": "687d4231-8da8-4236-9cc4-26d7ff198578",
+      "score": 0.6161391482684976
+    },
+    {
+      "name": "urban reefs",
+      "label": "location",
+      "description": "Coral reefs located near urban areas, often subject to pollution, sedimentation, and other human impacts",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.5140233173913124
+    },
+    {
+      "name": "eutrophication",
+      "label": "natural hazard",
+      "description": "The process of excessive nutrient enrichment in water bodies, leading to harmful algal blooms and decreased water quality",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.7693002115053631
+    },
+    {
+      "name": "microbiome",
+      "label": "variable",
+      "description": "The community of microorganisms that live in association with corals and play a crucial role in their health and resilience",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.6425925788189054
+    }
+  ],
+  "(26555, 29432)": [
+    {
+      "name": "coral",
+      "label": "organism",
+      "description": "A small, sessile animal that lives in colonies and forms a symbiotic relationship with algae and bacteria",
+      "uuid": "dd4de9c8-e078-43cf-a7d8-78f289c8618e",
+      "score": 0.5361238641787422
+    },
+    {
+      "name": "microbiome",
+      "label": "variable",
+      "description": "The community of microorganisms, such as bacteria, that live in and around an organism, in this case, corals",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.6823674584323545
+    },
+    {
+      "name": "Hong Kong",
+      "label": "location",
+      "description": "A Special Administrative Region of China, known for its urbanized coastline and diverse marine ecosystems",
+      "uuid": "d5182160-6764-4662-80fe-1ec252d36f20",
+      "score": 0.689235430960433
+    },
+    {
+      "name": "Singapore",
+      "label": "location",
+      "description": "A city-state in Southeast Asia, known for its urbanized reef environment and diverse marine ecosystems",
+      "uuid": "6364bdbb-cdec-4059-a2b5-6b873c09fc7d",
+      "score": 0.5994334697318987
+    }
+  ],
+  "(29015, 31615)": [
+    {
+      "name": "Singapore",
+      "label": "location",
+      "description": "A country located in Southeast Asia, known for its urbanized environment and unique biodiversity",
+      "uuid": "6364bdbb-cdec-4059-a2b5-6b873c09fc7d",
+      "score": 0.6402806947701544
+    },
+    {
+      "name": "ocean acidification",
+      "label": "natural hazard",
+      "description": "The decrease in the pH level of the ocean over time, caused by the increase in CO2 levels in the atmosphere",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.7249135681010901
+    },
+    {
+      "name": "volcanic CO2 vents",
+      "label": "location",
+      "description": "Underwater springs that release carbon dioxide from volcanic activity, often used as natural laboratories to study ocean acidification",
+      "uuid": "b677862b-7921-458f-a6db-0eb46469df33",
+      "score": 0.5631121037991649
+    },
+    {
+      "name": "future ocean acidification",
+      "label": "natural hazard",
+      "description": "The predicted decrease in the pH level of the ocean in the future, caused by the increase in CO2 levels in the atmosphere",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.6429727281540654
+    },
+    {
+      "name": "hard corals",
+      "label": "variable",
+      "description": "A type of coral that has a hard, calcium carbonate skeleton",
+      "uuid": "dd4de9c8-e078-43cf-a7d8-78f289c8618e",
+      "score": 0.6525934786584593
+    },
+    {
+      "name": "soft coral",
+      "label": "variable",
+      "description": "A type of coral that has a soft, flexible skeleton",
+      "uuid": "7836e8bd-176d-4e2f-9ac1-7f9d9a152b4e",
+      "score": 0.6548070174624266
+    },
+    {
+      "name": "macro-algal",
+      "label": "variable",
+      "description": "A type of algae that grows in coral reef ecosystems",
+      "uuid": "e731c2a1-e4b0-42e9-bed9-bd911c9b496c",
+      "score": 0.5681068359407938
+    },
+    {
+      "name": "geographic regions",
+      "label": "location",
+      "description": "Areas on the Earth's surface that are defined by their geographical characteristics, such as climate, topography, and vegetation",
+      "uuid": "204270d9-8039-4768-851e-63635af5fb65",
+      "score": 0.6578307996370913
+    }
+  ],
+  "(31121, 33854)": [
+    {
+      "name": "coral colonies",
+      "label": "platform",
+      "description": "A group of coral polyps that form a single living entity, often found in coral reefs",
+      "uuid": "dff4d4af-e1e0-4991-884b-a1c088a802b2",
+      "score": 0.5086828117462925
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or basicity of a solution, with lower values indicating higher acidity",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.7288426249661322
+    },
+    {
+      "name": "tidal cycles",
+      "label": "ocean circulation",
+      "description": "The periodic rising and falling of the sea level caused by the gravitational pull of the Moon and Sun on the Earth's oceans",
+      "uuid": "e3bef663-6116-4f15-995c-38c7cdc9652c",
+      "score": 0.55129576616731
+    },
+    {
+      "name": "Papua New Guinea",
+      "label": "location",
+      "description": "A country in the Pacific Islands, known for its diverse marine ecosystems and coral reefs",
+      "uuid": "f0757092-c0bf-4937-83bc-6011c682bae9",
+      "score": 0.6625253234310043
+    },
+    {
+      "name": "Indonesia",
+      "label": "location",
+      "description": "A country in Southeast Asia, comprising thousands of islands and home to many coral reef ecosystems",
+      "uuid": "84aeedd2-6093-4252-9895-8dc063a9ad97",
+      "score": 0.6174090573806373
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "An island country in East Asia, with a coastline along the Pacific Ocean and a diverse range of marine ecosystems",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.6294808077293211
+    },
+    {
+      "name": "Mariana Islands",
+      "label": "location",
+      "description": "A chain of islands in the Pacific Ocean, known for their unique marine ecosystems and coral reefs",
+      "uuid": "39fefc6a-a548-4a7f-96a8-434dae6d56ed",
+      "score": 0.6330724608433194
+    },
+    {
+      "name": "Caribbean",
+      "label": "location",
+      "description": "A region in the Americas, consisting of the Caribbean Sea, its islands, and the surrounding coasts",
+      "uuid": "ad18da3f-fbdb-4bc1-ab4d-008e9b8f6002",
+      "score": 0.6949789004938607
+    },
+    {
+      "name": "coral reefs",
+      "label": "platform",
+      "description": "Shallow, sun-drenched ecosystems formed by coral polyps, often found in tropical and subtropical oceans",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.6846352443529291
+    },
+    {
+      "name": "fault lines",
+      "label": "location",
+      "description": "Geological features where tectonic plates meet and move past each other, sometimes producing earthquakes and volcanic activity",
+      "uuid": "181fb5a4-125b-445d-b65f-adf9a919c800",
+      "score": 0.519230326838046
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by a warm and relatively constant temperature",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7381457655885678
+    },
+    {
+      "name": "marginal reef systems",
+      "label": "platform",
+      "description": "Coral reef ecosystems that exist in environments with extreme or unusual conditions, such as high temperatures or low pH",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.5097489309252364
+    },
+    {
+      "name": "global climate change",
+      "label": "teleconnection",
+      "description": "The long-term warming of the planet due to human activities, such as the burning of fossil fuels and deforestation",
+      "uuid": "b45d57f9-5c45-4e46-8dcd-6158fee8151b",
+      "score": 0.5245863651641598
+    },
+    {
+      "name": "1998 global bleaching event",
+      "label": "weather event",
+      "description": "A widespread coral bleaching event that occurred in 1998, caused by high sea temperatures and other environmental stressors",
+      "uuid": "f5df87b6-ed50-4da0-9ba5-7ce4c907bdb3",
+      "score": 0.5126106712541042
+    },
+    {
+      "name": "coastal environments",
+      "label": "location",
+      "description": "The areas where the land meets the sea, often characterized by unique ecosystems and environmental conditions",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.6531736819938135
+    }
+  ],
+  "(33516, 36103)": [
+    {
+      "name": "corals",
+      "label": "variable",
+      "description": "Marine invertebrates that form the foundation of coral reef ecosystems, often used as indicators of environmental health",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.60321964648329
+    },
+    {
+      "name": "turbid reefs",
+      "label": "location",
+      "description": "Coral reefs characterized by high levels of suspended sediment, which can reduce light availability and impact coral health",
+      "uuid": "68e2c729-f729-4936-af2e-0ecf7ee7d231",
+      "score": 0.5080182294447154
+    },
+    {
+      "name": "Persian/Arabian Gulf",
+      "label": "location",
+      "description": "A body of water located in the Middle East, known for its high water temperatures and salinity, which can be challenging for coral reefs",
+      "uuid": "9e75b714-9315-42e8-85c7-dbe502659e98",
+      "score": 0.6636532895080803
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, often driven by human activities such as greenhouse gas emissions, which can have significant impacts on coral reefs and other ecosystems",
+      "uuid": "8c89ede4-94d8-4fd4-a3df-f9d42e9835eb",
+      "score": 0.5508237741275054
+    },
+    {
+      "name": "conservation",
+      "label": "project",
+      "description": "Efforts to protect and preserve coral reefs and other ecosystems, often involving research, management, and policy interventions",
+      "uuid": "40869a25-edea-4438-80f9-47c9e6910b9b",
+      "score": 0.5848895058693566
+    },
+    {
+      "name": "management",
+      "label": "project",
+      "description": "The process of planning, implementing, and monitoring activities to maintain or improve the health of coral reefs and other ecosystems",
+      "uuid": "3edb3342-dab8-41d6-9f6a-28dd448528ec",
+      "score": 0.5103464585478678
+    }
+  ],
+  "(35618, 36461)": [
+    {
+      "name": "reef systems",
+      "label": "ecosystem",
+      "description": "A complex community of living organisms, such as plants, animals, and microorganisms, interacting with each other and their physical environment",
+      "uuid": "367718c8-cc3b-4c94-a270-0a278afabb43",
+      "score": 0.5975198663994928
+    },
+    {
+      "name": "climate change science",
+      "label": "field of study",
+      "description": "An interdisciplinary field of research focused on understanding the causes, impacts, and mitigation strategies of climate change",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5123801416910959
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "A region of the Earth located between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of biodiversity",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7718289977210848
+    }
+  ]
+}

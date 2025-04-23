@@ -1,0 +1,660 @@
+{
+  "(0, 3121)": [
+    {
+      "name": "NDVI",
+      "label": "instrument",
+      "description": "Normalized Difference Vegetation Index, a remote sensing technique used to measure vegetation health and activity",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7812245905406212
+    },
+    {
+      "name": "vegetation activity",
+      "label": "variable",
+      "description": "The level of growth, health, and productivity of vegetation, often measured using indices like NDVI",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5880557122108605
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy in the atmosphere, influencing vegetation growth and ecosystem processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6372014630534184
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture falling to the Earth's surface, affecting vegetation and climate",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6581064125503051
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of recurring biological events and their relationship with climate and weather patterns",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.597632940823314
+    },
+    {
+      "name": "growing season",
+      "label": "variable",
+      "description": "The period of the year when plants are actively growing, influenced by climate factors like temperature and precipitation",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6694220583636626
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate system, influencing ecosystems and weather patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5833797927464665
+    },
+    {
+      "name": "terrestrial ecosystems",
+      "label": "platform",
+      "description": "Ecosystems found on land, including forests, grasslands, and deserts, which play a crucial role in regulating the Earth's climate",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.6913683431053812
+    },
+    {
+      "name": "carbon uptake",
+      "label": "variable",
+      "description": "The process by which ecosystems absorb and store carbon dioxide from the atmosphere, influencing the global carbon cycle",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.6053253685021196
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, encompassing a wide range of ecosystems and climate zones",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7616960484343008
+    }
+  ],
+  "(2691, 5713)": [
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies north of the equator, encompassing a wide range of climates and ecosystems",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7613456506937751
+    },
+    {
+      "name": "mid to high latitudes",
+      "label": "location",
+      "description": "Regions on Earth between 30\u00b0 and 90\u00b0 latitude, characterized by temperate to polar climates",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.7114953089429411
+    },
+    {
+      "name": "instrumental climate record",
+      "label": "project",
+      "description": "A collection of climate data from direct measurements, such as temperature and precipitation, used to study climate trends and variability",
+      "uuid": "b2140059-b3ca-415c-b0a7-3e142783ffe8",
+      "score": 0.5138200855918887
+    },
+    {
+      "name": "alpine meadows",
+      "label": "location",
+      "description": "Grassy areas found in high-altitude mountainous regions, often sensitive to climate change",
+      "uuid": "944d9d09-4317-4e9a-9aa5-dc4282be406e",
+      "score": 0.5303849702079858
+    },
+    {
+      "name": "net primary productivity (NPP)",
+      "label": "variable",
+      "description": "A measure of the amount of organic matter produced by plants in an ecosystem, indicating ecosystem health and productivity",
+      "uuid": "9926f517-829e-4870-b18c-9f7cee875b85",
+      "score": 0.7134875490843567
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors, with significant impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.596741966479378
+    },
+    {
+      "name": "seasonality",
+      "label": "variable",
+      "description": "The periodic fluctuation in climate conditions, such as temperature and precipitation, that occur at regular intervals throughout the year",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.519979748345179
+    },
+    {
+      "name": "variability",
+      "label": "variable",
+      "description": "The degree to which climate conditions, such as temperature and precipitation, fluctuate over time, influencing ecosystem dynamics",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.5972507453468705
+    },
+    {
+      "name": "frost days",
+      "label": "weather event",
+      "description": "Days on which the air temperature drops below 0\u00b0C, affecting plant growth and ecosystem processes",
+      "uuid": "226d4804-1a09-4d9b-a5c1-346f52a2e709",
+      "score": 0.5099843790234183
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, influencing ecosystem productivity and climate patterns",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6412248239643072
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "Biological communities of interacting organisms and their physical environment, often sensitive to climate change",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6785414997706156
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering and migration, in relation to climate and environmental factors",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6204473289528046
+    },
+    {
+      "name": "mean sea level",
+      "label": "location",
+      "description": "The average height of the ocean's surface, used as a reference point for measuring elevation and sea level rise",
+      "uuid": "f3ea8884-87a8-4a12-96d5-98e21a9fa2c7",
+      "score": 0.8141066129289558
+    }
+  ],
+  "(5268, 8023)": [
+    {
+      "name": "Indian Ocean monsoon",
+      "label": "teleconnection",
+      "description": "A seasonal weather pattern that brings significant rainfall and influences climate conditions in the region",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6227057813098427
+    },
+    {
+      "name": "Normalized Difference Vegetation Index (NDVI)",
+      "label": "variable",
+      "description": "A satellite-derived metric used to monitor vegetation growth and photosynthetic capacity",
+      "uuid": "2297a00a-80f5-466e-b28e-b9ca42562d3f",
+      "score": 0.7807329217749491
+    },
+    {
+      "name": "Global Land Cover Facility",
+      "label": "provider",
+      "description": "An organization that provides data and resources for land cover and vegetation studies",
+      "uuid": "756202fb-cdf7-4b34-8346-140464ec369d",
+      "score": 0.6030012171925361
+    },
+    {
+      "name": "NOAA/AVHRR",
+      "label": "instrument",
+      "description": "A satellite instrument used to collect data for vegetation monitoring and ecological modeling",
+      "uuid": "600b228b-165c-4f80-96e2-7ee2d9989680",
+      "score": 0.6888641642990354
+    },
+    {
+      "name": "NDVI data",
+      "label": "variable",
+      "description": "Data derived from satellite imagery, used to measure vegetation growth and photosynthetic capacity",
+      "uuid": "2297a00a-80f5-466e-b28e-b9ca42562d3f",
+      "score": 0.6954831899431001
+    },
+    {
+      "name": "NDVI ratio method",
+      "label": "model",
+      "description": "A method used to evaluate grassland phenology and detect changes in vegetation activity",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5288392768259569
+    },
+    {
+      "name": "phenological phases",
+      "label": "variable",
+      "description": "Stages of plant growth and development, such as the beginning of the growing season and the start of vegetation green-up",
+      "uuid": "0f18f64b-dfac-4f93-9ded-89c8f249c2d1",
+      "score": 0.5708294296884019
+    },
+    {
+      "name": "phenological dates",
+      "label": "variable",
+      "description": "Specific dates that mark the beginning of different stages of plant growth and development",
+      "uuid": "c6f81edb-b683-4356-93e6-5852766a5ee8",
+      "score": 0.5212133971574262
+    },
+    {
+      "name": "vegetation monitoring",
+      "label": "experiment",
+      "description": "The process of tracking and analyzing changes in vegetation growth and development over time",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5312319128464987
+    },
+    {
+      "name": "vegetation activity measurements",
+      "label": "variable",
+      "description": "Data used to evaluate changes in vegetation growth and development",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.599095251219683
+    },
+    {
+      "name": "mean sea level",
+      "label": "variable",
+      "description": "A reference point used to measure elevation and sea level changes",
+      "uuid": "f3ea8884-87a8-4a12-96d5-98e21a9fa2c7",
+      "score": 0.758074832708852
+    }
+  ],
+  "(7579, 10297)": [
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "Normalized Difference Vegetation Index, a measure of vegetation health and density derived from remote sensing data",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7904332793442225
+    },
+    {
+      "name": "GIMMS-NDVI",
+      "label": "instrument",
+      "description": "The Global Inventory Modeling and Mapping Studies - Normalized Difference Vegetation Index, a dataset providing vegetation indices from satellite imagery",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.6160322042034839
+    },
+    {
+      "name": "BGS",
+      "label": "variable",
+      "description": "Beginning of the growing season, the date when vegetation starts to grow",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5177328577071482
+    },
+    {
+      "name": "EGS",
+      "label": "variable",
+      "description": "End of the growing season, the date when vegetation stops growing",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5078020632163572
+    },
+    {
+      "name": "University of Delaware",
+      "label": "provider",
+      "description": "An academic institution providing climate datasets and research",
+      "uuid": "00cfeb3e-249e-47bc-9e2a-0275131daa6b",
+      "score": 0.6505925330637519
+    },
+    {
+      "name": "Gridded Monthly Time Series database",
+      "label": "project",
+      "description": "A dataset providing global gridded climate data, including temperature and precipitation",
+      "uuid": "def20f70-39f3-4d20-9844-0389a5780f52",
+      "score": 0.5851349144917433
+    },
+    {
+      "name": "mean monthly temperature",
+      "label": "variable",
+      "description": "The average temperature for a given month, used to study climate patterns",
+      "uuid": "8c8c70b1-f6c5-4f34-89b5-510049b8c8ab",
+      "score": 0.5459601889524202
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture falling to the ground, used to study climate patterns",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6487173459373903
+    }
+  ],
+  "(9819, 12952)": [
+    {
+      "name": "University of Delaware",
+      "label": "provider",
+      "description": "An academic institution providing climate-related datasets and research",
+      "uuid": "00cfeb3e-249e-47bc-9e2a-0275131daa6b",
+      "score": 0.6568870275385643
+    },
+    {
+      "name": "Global gridded datasets",
+      "label": "project",
+      "description": "A collection of climate data organized in a grid format to facilitate analysis and modeling of global climate patterns",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.6139119953226159
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and activity",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7777823258863495
+    },
+    {
+      "name": "vegetation phase",
+      "label": "variable",
+      "description": "A stage in the life cycle of vegetation, such as growth or senescence",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.5013049912648779
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere",
+      "uuid": "f721be74-a590-4147-8af4-f2804aea4c0b",
+      "score": 0.6697402229041366
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of water falling to the Earth's surface",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7054000621051879
+    }
+  ],
+  "(12404, 15629)": [
+    {
+      "name": "vegetation variables",
+      "label": "variable",
+      "description": "Characteristics or properties of vegetation, such as NDVI or the beginning of the growing season, used to assess vegetation activity and growth stages",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5956265009785581
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric conditions such as temperature and precipitation that influence vegetation growth and development",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6196203002464786
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air or environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6201437997960231
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6536711921744406
+    }
+  ],
+  "(15068, 17977)": [
+    {
+      "name": "regression model",
+      "label": "model",
+      "description": "A statistical model used to establish relationships between independent variables and a dependent variable",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.5499087775080996
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in a given environment, often used as an independent variable in climate studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6576702790380313
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that falls to the Earth's surface, often used as an independent variable in climate studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6571841085750929
+    },
+    {
+      "name": "vegetation parameters",
+      "label": "variable",
+      "description": "Characteristics or properties of vegetation, such as green-up dates, growing season length, and NDVI values, used to study vegetation dynamics",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5824224882530996
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and density, calculated from satellite imagery",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7698881175025071
+    },
+    {
+      "name": "growing season",
+      "label": "variable",
+      "description": "The period of time when vegetation is actively growing, often used as a phenological metric",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6678828857596305
+    }
+  ],
+  "(17543, 20474)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat in the environment, affecting climate, weather, and ecosystems",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6205974932781094
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, crucial for climate, weather, and water resources",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.662267303017724
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and activity derived from satellite data",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7816094884034656
+    }
+  ],
+  "(20008, 22972)": [
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering or bird migration, in relation to environmental factors",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6062600714521175
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air or an object",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6178774536765277
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rain, snow, or other forms of moisture that fall to the Earth's surface",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6750434346522302
+    },
+    {
+      "name": "growing season",
+      "label": "variable",
+      "description": "The period of the year when plants are actively growing",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6417444377925386
+    }
+  ],
+  "(22485, 25495)": [
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and activity derived from satellite imagery",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7763519169569968
+    },
+    {
+      "name": "vegetation activity",
+      "label": "variable",
+      "description": "A measure of the growth, development, and health of vegetation, often used in climate and environmental studies",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6312373037582183
+    },
+    {
+      "name": "fast growth stage",
+      "label": "experiment",
+      "description": "A stage of vegetation growth, typically occurring during the summer months, characterized by rapid growth and development",
+      "uuid": "0f18f64b-dfac-4f93-9ded-89c8f249c2d1",
+      "score": 0.5042253887201513
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to describe climate and weather patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6613986420153251
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used to describe climate and weather patterns",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6778970049040048
+    }
+  ],
+  "(24996, 28180)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to study climate trends and patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6650840753478814
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important factor in climate and weather studies",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6591313695332428
+    },
+    {
+      "name": "spring phenology",
+      "label": "experiment",
+      "description": "The study of the timing of seasonal events, such as plant growth and flowering, during the spring season",
+      "uuid": "c6f81edb-b683-4356-93e6-5852766a5ee8",
+      "score": 0.5267015732104227
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and activity",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7777823258863495
+    }
+  ],
+  "(27675, 30960)": [
+    {
+      "name": "NDVI",
+      "label": "instrument",
+      "description": "The Normalized Difference Vegetation Index, a measure used to assess vegetation health and density",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7705993109596351
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy in the environment, influencing plant growth and development",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5668399666015831
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant growth and development, influenced by environmental factors such as temperature and precipitation",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6158463135441649
+    },
+    {
+      "name": "photosynthetic capacity",
+      "label": "variable",
+      "description": "The ability of plants to produce energy through photosynthesis, often used as an indicator of plant health and productivity",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.5029105323354438
+    },
+    {
+      "name": "grasslands",
+      "label": "location",
+      "description": "A type of ecosystem characterized by grasses and other herbaceous plants, often found on the Tibetan Plateau",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6393922832475865
+    }
+  ],
+  "(30399, 33821)": [
+    {
+      "name": "ecological models",
+      "label": "model",
+      "description": "Computational representations of ecological systems used to simulate and predict the behavior of ecosystems",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5318306962501567
+    },
+    {
+      "name": "net primary productivity",
+      "label": "variable",
+      "description": "A measure of the rate at which plants produce new biomass, often used as an indicator of ecosystem health",
+      "uuid": "569a2936-7543-434e-92e2-6f75a5be68c0",
+      "score": 0.639507741474541
+    },
+    {
+      "name": "carbon sequestration",
+      "label": "variable",
+      "description": "The process by which ecosystems absorb and store carbon dioxide from the atmosphere",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.7596649896460291
+    },
+    {
+      "name": "ecological indicators",
+      "label": "variable",
+      "description": "Quantities used to measure the health and status of ecosystems, such as species diversity and nutrient cycling",
+      "uuid": "d3c5e3e3-97bf-4e74-9f8d-523dce5f9270",
+      "score": 0.5663752139800429
+    },
+    {
+      "name": "Dynamic Vegetation Models",
+      "label": "model",
+      "description": "A type of ecological model that simulates the dynamics of vegetation growth and composition in response to environmental changes",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.6517472636708977
+    },
+    {
+      "name": "empirical species distribution modeling",
+      "label": "model",
+      "description": "A method used to predict the distribution of species based on empirical relationships between species presence and environmental factors",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.6147919329796426
+    },
+    {
+      "name": "species migration",
+      "label": "process",
+      "description": "The movement of species from one location to another in response to environmental changes",
+      "uuid": "0de668aa-cc97-482d-a0eb-cddcb1a705b6",
+      "score": 0.6853792397238778
+    },
+    {
+      "name": "climate change impact projection",
+      "label": "project",
+      "description": "An initiative to study and predict the effects of climate change on ecosystems and biodiversity",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.5254630625987259
+    },
+    {
+      "name": "phenological events",
+      "label": "variable",
+      "description": "Recurring biological events, such as flowering or migration, that are influenced by environmental factors",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6158488225694265
+    }
+  ],
+  "(33249, 34046)": [
+    {
+      "name": "phenological events",
+      "label": "variable",
+      "description": "The recurring biological events or stages in the life cycle of plants and animals, such as flowering, leafing, or migration, often used as indicators of climate change",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.694616782540786
+    },
+    {
+      "name": "vegetation activity",
+      "label": "variable",
+      "description": "The growth, development, and productivity of plant communities, influenced by climate, soil, and other environmental factors",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.560960861973422
+    }
+  ]
+}

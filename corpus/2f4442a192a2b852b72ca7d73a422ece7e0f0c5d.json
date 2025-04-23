@@ -1,0 +1,843 @@
+{
+  "(0, 2872)": [
+    {
+      "name": "Pleistocene",
+      "label": "location",
+      "description": "A geologic epoch that spanned from about 2,580,000 to 11,700 years ago, marked by repeated glacial cycles and significant climate fluctuations",
+      "uuid": "a686e751-3639-4cd0-840b-c8ad25c441c1",
+      "score": 0.7997520095531465
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, consisting of the United States, Canada, Mexico, and many smaller territories and islands",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7129569520665094
+    },
+    {
+      "name": "extinctions",
+      "label": "natural hazard",
+      "description": "The process or state of a species or group of organisms becoming extinct, often due to environmental changes, human activities, or other factors",
+      "uuid": "f27f7bf4-53fd-41bb-8e7e-b771f48f3bcc",
+      "score": 0.5545906005340798
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the average weather patterns of a region or the entire planet, often driven by human activities or natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5637840774577186
+    },
+    {
+      "name": "human populations",
+      "label": "variable",
+      "description": "The number of people living in a particular area or region, which can impact the environment, ecosystems, and climate",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5606854510548893
+    },
+    {
+      "name": "late Quaternary extinctions",
+      "label": "natural hazard",
+      "description": "A wave of extinctions that occurred at the end of the Quaternary period, affecting many species and ecosystems worldwide",
+      "uuid": "9f54bcf3-64dc-480b-ba75-3298c2299f35",
+      "score": 0.5784075056277963
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, including trees, grasses, and other flora, which plays a crucial role in shaping ecosystems, influencing climate, and supporting biodiversity",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6581408697033041
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area with distinct characteristics, such as climate, vegetation, or geology, which can be affected by human activities and environmental changes",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.6119640990075457
+    }
+  ],
+  "(2342, 5332)": [
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the northern hemisphere, consisting of the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7100314516299941
+    },
+    {
+      "name": "human population",
+      "label": "variable",
+      "description": "The number of humans living in a particular area or region, often used to study demographic changes and their impact on the environment",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.645958621421108
+    },
+    {
+      "name": "radiocarbon dates",
+      "label": "instrument",
+      "description": "A method used to determine the age of organic materials, based on the amount of radioactive carbon-14 present",
+      "uuid": "8f4e90e0-aea0-40cd-b781-a6a69a6e6cb3",
+      "score": 0.6329241299491036
+    },
+    {
+      "name": "Pleistocene",
+      "label": "location",
+      "description": "A geological epoch that spanned from about 2.6 million years ago to 11,700 years ago, characterized by repeated glacial cycles",
+      "uuid": "a686e751-3639-4cd0-840b-c8ad25c441c1",
+      "score": 0.8057519242754261
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the average weather patterns of a region or the entire planet, often used to explain changes in ecosystems and species populations",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5396976006686689
+    }
+  ],
+  "(4819, 7630)": [
+    {
+      "name": "radiocarbon records",
+      "label": "instrument",
+      "description": "A method for determining the age of organic materials, used in archaeological and paleoclimatic research",
+      "uuid": "8f4e90e0-aea0-40cd-b781-a6a69a6e6cb3",
+      "score": 0.6600031087173682
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall or other forms of moisture that fall to the Earth's surface",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6903720048942137
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico, among other countries",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7221044464155457
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A combined landmass of Europe and Asia, encompassing a wide range of climates and ecosystems",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.7556260843230099
+    },
+    {
+      "name": "late Pleistocene climatic episodes",
+      "label": "natural hazard",
+      "description": "Periods of significant climate change that occurred during the late Pleistocene era, around 126,000 to 11,700 years ago",
+      "uuid": "9f54bcf3-64dc-480b-ba75-3298c2299f35",
+      "score": 0.5977272353217261
+    },
+    {
+      "name": "extinctions",
+      "label": "natural hazard",
+      "description": "The process of species dying out, often due to environmental or climatic changes",
+      "uuid": "f27f7bf4-53fd-41bb-8e7e-b771f48f3bcc",
+      "score": 0.5583907869949475
+    },
+    {
+      "name": "atmospheric CO2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the Earth's atmosphere, a key factor in climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6713134503697785
+    }
+  ],
+  "(7127, 9986)": [
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area characterized by specific climate, vegetation, and other environmental conditions",
+      "uuid": "204270d9-8039-4768-851e-63635af5fb65",
+      "score": 0.6095760133944148
+    },
+    {
+      "name": "human radiocarbon records",
+      "label": "dataset",
+      "description": "A collection of radiocarbon dates used to study the timing and dynamics of human populations",
+      "uuid": "bf0db125-0182-42e7-81c9-6ed55a05ddd0",
+      "score": 0.5251200269474542
+    },
+    {
+      "name": "late Pleistocene",
+      "label": "experiment",
+      "description": "A geologic epoch spanning from approximately 126,000 to 11,700 years ago, characterized by significant climate fluctuations",
+      "uuid": "9f54bcf3-64dc-480b-ba75-3298c2299f35",
+      "score": 0.7645230872228572
+    },
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The continental United States, excluding Alaska and Hawaii, representing a distinct geographic and climatic region",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7377050827873425
+    },
+    {
+      "name": "extinctions",
+      "label": "natural hazard",
+      "description": "The process or state of a species or group of species becoming extinct, often due to environmental or climatic factors",
+      "uuid": "f27f7bf4-53fd-41bb-8e7e-b771f48f3bcc",
+      "score": 0.5577100578794082
+    },
+    {
+      "name": "atmospheric CO",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the Earth's atmosphere, an important factor influencing climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6386100188005435
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of individuals of a species or group living in a particular area or region",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6603847963381679
+    }
+  ],
+  "(9550, 11958)": [
+    {
+      "name": "late Pleistocene",
+      "label": "location",
+      "description": "A geological epoch spanning from approximately 126,000 to 11,700 years ago, characterized by the presence of large ice sheets in the Northern Hemisphere",
+      "uuid": "9f54bcf3-64dc-480b-ba75-3298c2299f35",
+      "score": 0.755875403834957
+    },
+    {
+      "name": "contiguous United States",
+      "label": "location",
+      "description": "The 48 connected states of the United States, excluding Alaska and Hawaii",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7653666304105208
+    },
+    {
+      "name": "human population",
+      "label": "variable",
+      "description": "The total number of humans living in a particular area or region",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6287167706915295
+    }
+  ],
+  "(11628, 13983)": [
+    {
+      "name": "radiocarbon records",
+      "label": "instrument",
+      "description": "A method of dating organic materials based on the decay rate of radioactive carbon-14, used to determine the age of samples",
+      "uuid": "8f4e90e0-aea0-40cd-b781-a6a69a6e6cb3",
+      "score": 0.6543911077525635
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area with defined boundaries, used for organizing and analyzing data",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.6368838427143438
+    },
+    {
+      "name": "Great Lakes",
+      "label": "location",
+      "description": "A series of five interconnected freshwater lakes in North America, known for their significant ecological and economic importance",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.7606150104286554
+    },
+    {
+      "name": "extinctions",
+      "label": "natural hazard",
+      "description": "The process or state of a species or group of species becoming extinct, often due to environmental or human factors",
+      "uuid": "f27f7bf4-53fd-41bb-8e7e-b771f48f3bcc",
+      "score": 0.5570172530268931
+    },
+    {
+      "name": "human population",
+      "label": "variable",
+      "description": "The number of people living in a particular area or region, often studied in the context of demographics, ecology, and climate change",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6666236764047728
+    }
+  ],
+  "(13536, 16342)": [
+    {
+      "name": "radiocarbon records",
+      "label": "instrument",
+      "description": "Measurements of the amount of radioactive carbon-14 in a sample, used to determine its age",
+      "uuid": "8f4e90e0-aea0-40cd-b781-a6a69a6e6cb3",
+      "score": 0.6510786215445328
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area, such as the contiguous US scale or the Great Lakes region",
+      "uuid": "204270d9-8039-4768-851e-63635af5fb65",
+      "score": 0.5698233532976366
+    },
+    {
+      "name": "Great Lakes region",
+      "label": "location",
+      "description": "A region in North America, surrounding the Great Lakes, with a distinct climate and ecosystem",
+      "uuid": "69ef1af3-96de-4aca-95fd-c4ca131bc643",
+      "score": 0.6717926702362456
+    },
+    {
+      "name": "contiguous US scale",
+      "label": "location",
+      "description": "The contiguous United States, excluding Alaska and Hawaii, with a diverse range of climates and ecosystems",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.6266372229545554
+    },
+    {
+      "name": "extinctions",
+      "label": "natural hazard",
+      "description": "The process or state of a species or group of species becoming extinct",
+      "uuid": "f27f7bf4-53fd-41bb-8e7e-b771f48f3bcc",
+      "score": 0.5384736320958889
+    }
+  ],
+  "(15878, 18951)": [
+    {
+      "name": "northern Europe",
+      "label": "location",
+      "description": "A region in Europe characterized by cold climate, known for its role in studying megafaunal extinctions",
+      "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+      "score": 0.6530446359029811
+    },
+    {
+      "name": "assembly",
+      "label": "project",
+      "description": "A project that integrates paleoclimatic, paleoecological, and archeological data to study the biogeographic histories of individual taxa",
+      "uuid": "fdbee1a3-10cd-4d07-ada0-dadbef9a5216",
+      "score": 0.5119191502291901
+    },
+    {
+      "name": "Great Lakes region",
+      "label": "location",
+      "description": "A region in North America surrounding the Great Lakes, known for its unique ecosystem and biodiversity",
+      "uuid": "69ef1af3-96de-4aca-95fd-c4ca131bc643",
+      "score": 0.6818432657518066
+    },
+    {
+      "name": "broader Great Lakes area",
+      "label": "location",
+      "description": "A larger geographic area that encompasses the Great Lakes region and surrounding territories",
+      "uuid": "69ef1af3-96de-4aca-95fd-c4ca131bc643",
+      "score": 0.5280316519065371
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, known for its diverse climate, geography, and ecosystems",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7203967828063516
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A combined continental landmass of Europe and Asia, characterized by a wide range of climates, cultures, and ecosystems",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.7469364863478738
+    },
+    {
+      "name": "extinctions",
+      "label": "natural hazard",
+      "description": "The process of species becoming extinct, often due to climate change, human activities, or other environmental factors",
+      "uuid": "703d0c14-1978-4e7f-a51a-233c695823b9",
+      "score": 0.5768879816623393
+    }
+  ],
+  "(18418, 21432)": [
+    {
+      "name": "New York",
+      "label": "location",
+      "description": "A state in the northeastern United States, part of the region where megafauna extinctions occurred during the Pleistocene epoch",
+      "uuid": "854d0bb3-dcc3-48eb-a65a-2d26a8b87394",
+      "score": 0.5196752621552634
+    },
+    {
+      "name": "Great Lakes",
+      "label": "location",
+      "description": "A series of large lakes in North America, part of the region where megafauna extinctions occurred during the Pleistocene epoch",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.6129639234366507
+    },
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The continental United States, excluding Alaska and Hawaii, where megafauna extinctions occurred during the Pleistocene epoch",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.6475609267204417
+    },
+    {
+      "name": "terminal Pleistocene",
+      "label": "experiment",
+      "description": "The final period of the Pleistocene epoch, during which significant climate change and extinctions occurred",
+      "uuid": "a686e751-3639-4cd0-840b-c8ad25c441c1",
+      "score": 0.574687106515922
+    },
+    {
+      "name": "predation",
+      "label": "variable",
+      "description": "The act of one animal hunting and killing another, potentially influencing the extinction of megafauna",
+      "uuid": "b69d76ba-ad69-4418-8e5b-ebb659604dda",
+      "score": 0.5736417441152225
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area, potentially influencing the extinction of megafauna through its unique characteristics and conditions",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.5213367689123872
+    },
+    {
+      "name": "Pleistocene epoch",
+      "label": "experiment",
+      "description": "A geologic epoch that spanned from about 2.6 million to 11,700 years ago, during which significant climate change and extinctions occurred",
+      "uuid": "a686e751-3639-4cd0-840b-c8ad25c441c1",
+      "score": 0.7749328225221829
+    }
+  ],
+  "(20903, 23922)": [
+    {
+      "name": "sheep",
+      "label": "taxa",
+      "description": "A species of large, hoofed, herbivorous mammal that is native to Eurasia",
+      "uuid": "33e2e026-e40b-4932-95a9-b2ca1a7aa407",
+      "score": 0.5412721243094759
+    },
+    {
+      "name": "deer",
+      "label": "taxa",
+      "description": "A species of large, hoofed, herbivorous mammal that is native to North America and Eurasia",
+      "uuid": "5557a4f3-8392-4df5-81a9-206c2a86da89",
+      "score": 0.5278292869375131
+    },
+    {
+      "name": "moose",
+      "label": "taxa",
+      "description": "A species of large, hoofed, herbivorous mammal that is native to North America",
+      "uuid": "5557a4f3-8392-4df5-81a9-206c2a86da89",
+      "score": 0.5114237320237546
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the northern hemisphere that includes the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7100497720722222
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A continent that includes Europe and Asia",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.6720090218008254
+    },
+    {
+      "name": "terminal Pleistocene",
+      "label": "event",
+      "description": "The final period of the Pleistocene epoch, which spanned from approximately 126,000 to 11,700 years ago",
+      "uuid": "a686e751-3639-4cd0-840b-c8ad25c441c1",
+      "score": 0.6155025279522213
+    },
+    {
+      "name": "early Holocene",
+      "label": "event",
+      "description": "The early period of the Holocene epoch, which spanned from approximately 11,700 to 5,000 years ago",
+      "uuid": "e000088a-8252-4603-ba55-38189c45612c",
+      "score": 0.5824515572668206
+    },
+    {
+      "name": "radiocarbon record",
+      "label": "dataset",
+      "description": "A collection of radiocarbon dates that provide information about the age of organic materials",
+      "uuid": "8f4e90e0-aea0-40cd-b781-a6a69a6e6cb3",
+      "score": 0.5903340900189262
+    },
+    {
+      "name": "population sizes",
+      "label": "variable",
+      "description": "The number of individuals in a population",
+      "uuid": "dd0b8bc9-90b3-4e7d-a021-e91dc676d622",
+      "score": 0.6438511414292628
+    },
+    {
+      "name": "extinctions",
+      "label": "event",
+      "description": "The process of a species becoming extinct",
+      "uuid": "f27f7bf4-53fd-41bb-8e7e-b771f48f3bcc",
+      "score": 0.5457161676455919
+    }
+  ],
+  "(23369, 26205)": [
+    {
+      "name": "radiocarbon record",
+      "label": "instrument",
+      "description": "A method of dating organic materials by measuring the amount of radioactive carbon-14 present",
+      "uuid": "8f4e90e0-aea0-40cd-b781-a6a69a6e6cb3",
+      "score": 0.64267414559599
+    },
+    {
+      "name": "Pleistocene",
+      "label": "location",
+      "description": "A geological epoch that spanned from about 2.6 million years ago to 11,700 years ago, characterized by repeated glacial cycles",
+      "uuid": "a686e751-3639-4cd0-840b-c8ad25c441c1",
+      "score": 0.8057519242754261
+    },
+    {
+      "name": "eastern Beringia",
+      "label": "location",
+      "description": "A region that includes parts of modern-day Alaska and eastern Russia, known for its role in the migration of humans and animals during the Pleistocene",
+      "uuid": "3a6b742f-1330-4636-87ab-da45c5182c79",
+      "score": 0.5112208888647473
+    },
+    {
+      "name": "terminal Pleistocene",
+      "label": "location",
+      "description": "The final period of the Pleistocene epoch, spanning from approximately 50,000 to 11,700 years ago",
+      "uuid": "a686e751-3639-4cd0-840b-c8ad25c441c1",
+      "score": 0.6114826910992113
+    },
+    {
+      "name": "human impacts",
+      "label": "natural hazard",
+      "description": "The effects of human activity on the environment, such as hunting and habitat destruction",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.6031842625600183
+    },
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The 48 states of the United States that are connected by land, excluding Alaska and Hawaii",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7458172113392741
+    },
+    {
+      "name": "Canadian provinces",
+      "label": "location",
+      "description": "A region in Canada that includes the provinces of Alberta, Ontario, and Nova Scotia",
+      "uuid": "9dc6c179-4631-4804-99be-bdbbff83c679",
+      "score": 0.5453890781086871
+    },
+    {
+      "name": "Americas",
+      "label": "location",
+      "description": "The continents of North and South America, connected by land",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.5082091541158186
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent that includes the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.6826512670635004
+    }
+  ],
+  "(25760, 28574)": [
+    {
+      "name": "Americas",
+      "label": "location",
+      "description": "The continent in the Western Hemisphere, comprising North, Central, and South America, where human colonization and various climate phenomena have occurred",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.5276077408003415
+    },
+    {
+      "name": "radiocarbon",
+      "label": "variable",
+      "description": "A measure of the amount of radioactive carbon-14 in organic materials, used for dating archaeological and paleontological samples",
+      "uuid": "bf0db125-0182-42e7-81c9-6ed55a05ddd0",
+      "score": 0.7043368442836008
+    },
+    {
+      "name": "population size",
+      "label": "variable",
+      "description": "The number of individuals within a human population, which can influence the production of dateable archaeological materials",
+      "uuid": "dd0b8bc9-90b3-4e7d-a021-e91dc676d622",
+      "score": 0.5844012634003817
+    }
+  ],
+  "(28140, 30635)": [
+    {
+      "name": "radiocarbon",
+      "label": "instrument",
+      "description": "A technique used for dating organic materials, based on the measurement of the radioactive isotope carbon-14",
+      "uuid": "bf0db125-0182-42e7-81c9-6ed55a05ddd0",
+      "score": 0.6866807157864127
+    },
+    {
+      "name": "rcarbon",
+      "label": "model",
+      "description": "A software package used for calibrating radiocarbon dates and analyzing the resulting data",
+      "uuid": "bf0db125-0182-42e7-81c9-6ed55a05ddd0",
+      "score": 0.5299867111187162
+    },
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The 48 connected states of the United States, excluding Alaska and Hawaii",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7570501156221632
+    },
+    {
+      "name": "Southwest",
+      "label": "location",
+      "description": "A region in the United States, including the states of California, Nevada, Utah, Arizona, and New Mexico",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.5274060374767222
+    },
+    {
+      "name": "Great Lakes",
+      "label": "location",
+      "description": "A region in North America, including the states and provinces that border the Great Lakes, such as Ontario, New York, and Michigan",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.6923762551290844
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the western United States, known for its diverse geography and climate",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6550165375917218
+    },
+    {
+      "name": "Nevada",
+      "label": "location",
+      "description": "A state in the western United States, known for its desert landscapes and mountain ranges",
+      "uuid": "2bdea9ad-43c4-4559-a156-6dad5d9ba137",
+      "score": 0.7045240197791341
+    },
+    {
+      "name": "Utah",
+      "label": "location",
+      "description": "A state in the western United States, known for its mountainous terrain and natural landmarks",
+      "uuid": "71a722af-0cd9-4052-b4e8-f3af56201401",
+      "score": 0.699202933323623
+    },
+    {
+      "name": "Arizona",
+      "label": "location",
+      "description": "A state in the southwestern United States, known for its desert landscapes and hot climate",
+      "uuid": "c46d59a8-d874-4db8-87f5-d59ecbb79a29",
+      "score": 0.7387295300232799
+    },
+    {
+      "name": "New Mexico",
+      "label": "location",
+      "description": "A state in the southwestern United States, known for its desert landscapes and cultural heritage",
+      "uuid": "b8bdae16-f063-42a5-8d47-2ee863fa56e9",
+      "score": 0.7139110741083545
+    },
+    {
+      "name": "Ontario",
+      "label": "location",
+      "description": "A province in eastern Canada, known for its diverse geography and climate",
+      "uuid": "b907550e-6aa1-4cbf-b83b-08546f949d12",
+      "score": 0.7023408112679438
+    },
+    {
+      "name": "New York",
+      "label": "location",
+      "description": "A state in the northeastern United States, known for its urban centers and natural landscapes",
+      "uuid": "854d0bb3-dcc3-48eb-a65a-2d26a8b87394",
+      "score": 0.6052912249444117
+    },
+    {
+      "name": "Pennsylvania",
+      "label": "location",
+      "description": "A state in the northeastern United States, known for its history and natural landscapes",
+      "uuid": "d7fa4d05-8c37-4e23-99eb-4f9a888a0d5d",
+      "score": 0.5879430060600114
+    },
+    {
+      "name": "Ohio",
+      "label": "location",
+      "description": "A state in the Midwestern United States, known for its industrial heritage and natural landscapes",
+      "uuid": "c23966c4-9e16-484c-a1ef-efcd2354d71c",
+      "score": 0.6422780880800975
+    },
+    {
+      "name": "Michigan",
+      "label": "location",
+      "description": "A state in the Great Lakes region of the United States, known for its natural beauty and industrial heritage",
+      "uuid": "5561d10d-5224-4e09-9d68-caffd6bc3d74",
+      "score": 0.7220477828381465
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the Midwestern United States, known for its agricultural production and natural landscapes",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.6755925100937459
+    },
+    {
+      "name": "Illinois",
+      "label": "location",
+      "description": "A state in the Midwestern United States, known for its urban centers and agricultural production",
+      "uuid": "06b1e163-667a-4d13-b638-5273e7a65dad",
+      "score": 0.6773286101429159
+    },
+    {
+      "name": "Wisconsin",
+      "label": "location",
+      "description": "A state in the Great Lakes region of the United States, known for its natural beauty and agricultural production",
+      "uuid": "d8ad42ae-624f-48a2-be40-cf04c53e6543",
+      "score": 0.6067703962698932
+    },
+    {
+      "name": "Minnesota",
+      "label": "location",
+      "description": "A state in the Great Lakes region of the United States, known for its natural beauty and industrial heritage",
+      "uuid": "2e2d65b6-d3de-4921-877c-2d3a4e447978",
+      "score": 0.5954678809022661
+    }
+  ],
+  "(30237, 33141)": [
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, often used as a region for studying historical population trends and climate change",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6446637697386494
+    },
+    {
+      "name": "radiocarbon dates",
+      "label": "variable",
+      "description": "A type of data used to reconstruct past population trends and climate patterns",
+      "uuid": "8f4e90e0-aea0-40cd-b781-a6a69a6e6cb3",
+      "score": 0.5898401377369171
+    }
+  ],
+  "(32595, 35725)": [
+    {
+      "name": "population dynamics",
+      "label": "variable",
+      "description": "The study of the growth, decline, and stability of populations over time, influenced by factors such as birth rates, death rates, and environmental conditions",
+      "uuid": "ad3a5f4f-4624-4a08-b875-6723c2615e90",
+      "score": 0.6941017823834148
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "A group of individuals of the same species living in a particular geographic area, subject to demographic changes and environmental pressures",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6540452817409105
+    }
+  ],
+  "(35149, 38379)": [
+    {
+      "name": "terminal Pleistocene",
+      "label": "location",
+      "description": "The time period at the end of the Pleistocene epoch, characterized by significant changes in climate and ecosystems",
+      "uuid": "a686e751-3639-4cd0-840b-c8ad25c441c1",
+      "score": 0.5799489414309342
+    },
+    {
+      "name": "population dynamics",
+      "label": "variable",
+      "description": "The study of the changes in the size, structure, and distribution of populations over time, influenced by factors such as birth rates, death rates, and environmental conditions",
+      "uuid": "ad3a5f4f-4624-4a08-b875-6723c2615e90",
+      "score": 0.7072936616277197
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "A group of individuals of the same species living in a particular geographic area, subject to changes in size, structure, and distribution over time",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6403144671970057
+    }
+  ],
+  "(37858, 40681)": [
+    {
+      "name": "EPICA Dome C",
+      "label": "location",
+      "description": "A research station in Antarctica where ice cores are extracted for paleoclimatic studies",
+      "uuid": "820f2f42-79e8-4ea5-be0b-b828766e11ad",
+      "score": 0.6397892894079309
+    },
+    {
+      "name": "NGRIP ice core",
+      "label": "instrument",
+      "description": "An ice core extracted from the North Greenland Ice Core Project, used for paleoclimatic research",
+      "uuid": "5debca96-f263-457f-b013-ecdd358a0fef",
+      "score": 0.691339596598389
+    },
+    {
+      "name": "CO 2 data",
+      "label": "variable",
+      "description": "Measurements of carbon dioxide levels, often used to study climate change and paleoclimatic conditions",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.5891538851489416
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The southernmost continent, known for its extreme climate and role in global climate regulation",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7392710222929225
+    },
+    {
+      "name": "ice core",
+      "label": "instrument",
+      "description": "A cylindrical sample of ice extracted from glaciers or ice sheets, used to study past climate conditions",
+      "uuid": "08a4f002-f368-414d-b923-83dd498452d8",
+      "score": 0.6612116180151988
+    },
+    {
+      "name": "paleoclimatic data",
+      "label": "variable",
+      "description": "Data related to the study of past climates, often derived from natural archives such as ice cores, sediments, or tree rings",
+      "uuid": "7ee90f7c-bdc6-403a-b447-2100d573cad6",
+      "score": 0.6276582121081425
+    },
+    {
+      "name": "\u03b4 18 O values",
+      "label": "variable",
+      "description": "Measurements of the oxygen isotope ratio, used as a proxy for past temperatures and climate conditions",
+      "uuid": "e91ff41a-5cf5-460b-b765-c553ca2a4ae2",
+      "score": 0.5922545126825768
+    },
+    {
+      "name": "insolation seasonality values",
+      "label": "variable",
+      "description": "Measurements of the variation in solar radiation throughout the year, used to study climate patterns and seasonality",
+      "uuid": "6b3be650-6625-40b5-9b40-9e7c8a9fd336",
+      "score": 0.5076765998082599
+    }
+  ],
+  "(40334, 42182)": [
+    {
+      "name": "EPICA Dome C",
+      "label": "location",
+      "description": "A research station in Antarctica where the EPICA ice core was drilled, providing valuable climate data from the past 800,000 years",
+      "uuid": "820f2f42-79e8-4ea5-be0b-b828766e11ad",
+      "score": 0.6578726480790344
+    },
+    {
+      "name": "NGRIP ice core",
+      "label": "instrument",
+      "description": "A ice core extracted from the North Greenland Ice Core Project, used to study past climate conditions by analyzing the composition of the ice and trapped air bubbles",
+      "uuid": "5debca96-f263-457f-b013-ecdd358a0fef",
+      "score": 0.6871325905753984
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent at the South Pole, known for its extreme climate and importance in global climate regulation",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7346699972002512
+    },
+    {
+      "name": "University of Utah",
+      "label": "provider",
+      "description": "An American public research university, with a strong focus on academic and research programs, including archaeology and climate science",
+      "uuid": "51d44dd8-ccb1-4dac-8fe8-9e1b887b975e",
+      "score": 0.5765963951420757
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a crucial role in the Earth's climate system, influencing global temperatures and weather patterns",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6788580895071181
+    }
+  ]
+}

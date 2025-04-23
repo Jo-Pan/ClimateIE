@@ -1,0 +1,859 @@
+{
+  "(0, 3316)": [
+    {
+      "name": "Environmental Protection Agency",
+      "label": "provider",
+      "description": "A government agency responsible for protecting the environment and public health>",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.688784814899601
+    },
+    {
+      "name": "Environmental Quality Index",
+      "label": "model",
+      "description": "A quantitative measure used to evaluate the ecological and environmental quality of a region>",
+      "uuid": "897b3d65-709c-4739-9ba6-85911295d843",
+      "score": 0.5405456960667705
+    },
+    {
+      "name": "Ministry of Environmental Protection of China",
+      "label": "provider",
+      "description": "A government agency responsible for protecting the environment in China>",
+      "uuid": "85536e75-507b-4c8e-93f0-9048ef53e8f6",
+      "score": 0.5077766646548935
+    },
+    {
+      "name": "biomass abundance index",
+      "label": "variable",
+      "description": "A measure of the amount of living organisms in a given area>",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.519265727996329
+    },
+    {
+      "name": "vegetation cover index",
+      "label": "variable",
+      "description": "A measure of the amount of vegetation in a given area>",
+      "uuid": "e63844c1-015c-4776-b01c-e3e7d5dd3d0c",
+      "score": 0.668528117737849
+    },
+    {
+      "name": "environmental limitation index",
+      "label": "variable",
+      "description": "A measure of the limitations on the environment in a given area>",
+      "uuid": "897b3d65-709c-4739-9ba6-85911295d843",
+      "score": 0.5446898355368346
+    },
+    {
+      "name": "remote sensing technology",
+      "label": "instrument",
+      "description": "A technology used to collect data about the environment from a distance>",
+      "uuid": "c38e16d1-61f9-4189-a3c9-33e2015db137",
+      "score": 0.5193518768342782
+    },
+    {
+      "name": "Normalized Difference Vegetation Index",
+      "label": "variable",
+      "description": "A measure of the health and density of vegetation in a given area>",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7631542237757716
+    },
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A satellite used to collect data about the environment>",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.657090019158242
+    },
+    {
+      "name": "Normalized Difference Water Index",
+      "label": "variable",
+      "description": "A measure of the amount of water in a given area>",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.6365427918375733
+    },
+    {
+      "name": "Modified Normalized Difference Water Index",
+      "label": "variable",
+      "description": "A modified version of the Normalized Difference Water Index>",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5493257882187494
+    },
+    {
+      "name": "Normalized Difference Pond Index",
+      "label": "variable",
+      "description": "A measure of the amount of ponds in a given area>",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5667909127059748
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "A measure of the health and density of vegetation in a given area>",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7174900416175333
+    },
+    {
+      "name": "Ramsar wetland ecosystem",
+      "label": "ecosystem",
+      "description": "A type of ecosystem found in wetlands>",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.5335764378402407
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "A measure of the type of land use in a given area>",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6121155401991771
+    },
+    {
+      "name": "wetland ecosystem",
+      "label": "ecosystem",
+      "description": "A type of ecosystem found in wetlands>",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.6330678534938988
+    }
+  ],
+  "(2814, 5827)": [
+    {
+      "name": "MNDWI",
+      "label": "index",
+      "description": "The Modified Normalized Difference Water Index, used to identify and classify water bodies and wetlands",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5335638606357502
+    },
+    {
+      "name": "NDPI",
+      "label": "index",
+      "description": "The Normalized Difference Pond Index, used to identify and classify ponds and small water bodies",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5567898425702189
+    },
+    {
+      "name": "NDVI",
+      "label": "index",
+      "description": "The Normalized Difference Vegetation Index, used to assess vegetation health and density",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7713047139461348
+    },
+    {
+      "name": "Ramsar wetland ecosystem",
+      "label": "ecosystem",
+      "description": "A type of wetland ecosystem designated for conservation and sustainable use under the Ramsar Convention",
+      "uuid": "1a2a0074-5a83-4b47-b358-64497ee3fc74",
+      "score": 0.5467557059697911
+    },
+    {
+      "name": "croplands",
+      "label": "land cover",
+      "description": "A type of land use characterized by the cultivation of crops",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6751426692252489
+    },
+    {
+      "name": "human settlements",
+      "label": "human activity",
+      "description": "The establishment of residential areas, which can impact the environment",
+      "uuid": "fee25cad-7ffe-4ee2-a6f2-8116b8a0a707",
+      "score": 0.6309465892171614
+    },
+    {
+      "name": "remote sensing technology",
+      "label": "technique",
+      "description": "A method of collecting data about the environment using sensors on aircraft or satellites",
+      "uuid": "c38e16d1-61f9-4189-a3c9-33e2015db137",
+      "score": 0.5398250757969784
+    },
+    {
+      "name": "mining areas",
+      "label": "location",
+      "description": "Areas where mining activities take place, which can have environmental impacts",
+      "uuid": "7d8dcf2c-133f-47b2-9195-17dd263ec8a3",
+      "score": 0.5120008067730508
+    },
+    {
+      "name": "EQI",
+      "label": "index",
+      "description": "The Ecological Quality Index, a measure of the health and sustainability of an ecosystem",
+      "uuid": "4497eb1b-b64d-46ff-a18d-37d217430777",
+      "score": 0.5273549935253299
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the Earth's surface",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.7149781363147875
+    },
+    {
+      "name": "drought index",
+      "label": "index",
+      "description": "A measure of the severity of drought conditions",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.6390721049145345
+    },
+    {
+      "name": "greenness",
+      "label": "variable",
+      "description": "A measure of the health and density of vegetation",
+      "uuid": "e63844c1-015c-4776-b01c-e3e7d5dd3d0c",
+      "score": 0.5015289055872842
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.698081800045467
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air or surface",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6510397394715326
+    },
+    {
+      "name": "remote sensing images",
+      "label": "data",
+      "description": "Images of the Earth's surface collected using remote sensing technology",
+      "uuid": "6015ef7b-f3bd-49e1-9193-cc23db566b69",
+      "score": 0.5260398941747595
+    },
+    {
+      "name": "urban development",
+      "label": "human activity",
+      "description": "The development of urban areas, which can impact the environment",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5286341348432024
+    },
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate-Resolution Imaging Spectroradiometer, a satellite instrument used to collect remote sensing data",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.769688232835042
+    },
+    {
+      "name": "Sahel Region",
+      "label": "location",
+      "description": "A region in Africa characterized by a semi-arid climate and vulnerable to drought",
+      "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+      "score": 0.7333483355831999
+    },
+    {
+      "name": "desertification indexes",
+      "label": "index",
+      "description": "Measures of the severity of desertification, a process of land degradation",
+      "uuid": "dee57819-62c7-4f89-87e5-90a87a07820a",
+      "score": 0.5487940620929067
+    },
+    {
+      "name": "drought",
+      "label": "variable",
+      "description": "A measure of the lack of precipitation",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6620574451648192
+    },
+    {
+      "name": "moisture",
+      "label": "variable",
+      "description": "A measure of the amount of water in the soil or air",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.5836239558356984
+    },
+    {
+      "name": "desertification",
+      "label": "variable",
+      "description": "A measure of the degradation of land into desert-like conditions",
+      "uuid": "dee57819-62c7-4f89-87e5-90a87a07820a",
+      "score": 0.6771740160294089
+    }
+  ],
+  "(5317, 8471)": [
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer, an instrument used for remote sensing of the Earth\u2019s surface and atmosphere",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7621943222188522
+    },
+    {
+      "name": "Sahel Region",
+      "label": "location",
+      "description": "A semi-arid region in Africa located south of the Sahara Desert, known for its vulnerability to droughts",
+      "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+      "score": 0.7503586677164658
+    },
+    {
+      "name": "drought",
+      "label": "variable",
+      "description": "A decrease in amount of rainfall beyond certain threshold over a period",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6592236824737349
+    },
+    {
+      "name": "moisture",
+      "label": "variable",
+      "description": "The amount of water present in the environment, often used to study ecological conditions",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.5422257950216466
+    },
+    {
+      "name": "greenness",
+      "label": "variable",
+      "description": "A measure of vegetation health and density, often used in remote sensing applications",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5631804199959428
+    },
+    {
+      "name": "desertification",
+      "label": "natural hazard",
+      "description": "The degradation of land in arid, semi-arid, and dry sub-humid areas, resulting from various factors including climate change and human activities",
+      "uuid": "dee57819-62c7-4f89-87e5-90a87a07820a",
+      "score": 0.7506226177756893
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country in East Africa, known for its diverse geography and climate",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6582021216556048
+    },
+    {
+      "name": "Landsat series images",
+      "label": "instrument",
+      "description": "A series of satellite images used for remote sensing and land cover analysis",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.6359531357621894
+    }
+  ],
+  "(7985, 10727)": [
+    {
+      "name": "United States Geological Survey (USGS)",
+      "label": "provider",
+      "description": "A scientific agency of the United States government, responsible for providing information on the country's geology, hydrology, and natural resources",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6739075399433936
+    },
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellites that acquire images of the Earth's surface, used for remote sensing and land use analysis",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7360814823653176
+    },
+    {
+      "name": "Landsat 5 Thematic Mapper (TM)",
+      "label": "instrument",
+      "description": "A sensor on the Landsat 5 satellite, used for collecting data on the Earth's surface, including land use, land cover, and environmental changes",
+      "uuid": "bfc07fb2-ca22-48e6-8171-84527b0faae7",
+      "score": 0.7652604582915481
+    },
+    {
+      "name": "Landsat 8 Operational Land Imager (OLI)",
+      "label": "instrument",
+      "description": "A sensor on the Landsat 8 satellite, used for collecting data on the Earth's surface, including land use, land cover, and environmental changes",
+      "uuid": "e8a6f9ad-e376-495c-869e-3467526b49ec",
+      "score": 0.7207620191472369
+    },
+    {
+      "name": "Modified Normalized Difference Water Index (MNDWI)",
+      "label": "variable",
+      "description": "A remote sensing index used to identify and extract water bodies from images",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5267031523125405
+    }
+  ],
+  "(10219, 13032)": [
+    {
+      "name": "ENVI",
+      "label": "platform",
+      "description": "A software platform for visualizing and analyzing geospatial imagery, used for calculating various remote sensing indices>",
+      "uuid": "5782afb9-caa8-44c4-8dec-e793d990b75d",
+      "score": 0.5902036912460344
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and density>",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7776951370410986
+    },
+    {
+      "name": "WET",
+      "label": "variable",
+      "description": "The moisture index, a measure of surface humidity>",
+      "uuid": "07826fba-f581-4119-803e-14f3bfc2d14c",
+      "score": 0.6086649788626363
+    },
+    {
+      "name": "NDBSI",
+      "label": "variable",
+      "description": "The Normalized Difference Built-up and Soil Index, a measure of urbanization and soil characteristics>",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5255066230814243
+    },
+    {
+      "name": "LST",
+      "label": "variable",
+      "description": "The Land Surface Temperature, a measure of surface temperature>",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7110392569713745
+    },
+    {
+      "name": "MNDWI",
+      "label": "variable",
+      "description": "The Modified Normalized Difference Water Index, used for extracting water bodies from remote sensing images>",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5465466112027829
+    },
+    {
+      "name": "Globe Land 30",
+      "label": "dataset",
+      "description": "A global land cover dataset with a resolution of 30 meters, used for monitoring land cover changes>",
+      "uuid": "39e16b32-ce0a-49ce-b809-c7167cfc3ae4",
+      "score": 0.5573468839717
+    },
+    {
+      "name": "Loess Plateau Science Data Center",
+      "label": "provider",
+      "description": "A data sharing platform providing scientific data for research purposes>",
+      "uuid": "817c28c8-ce61-4d14-95e2-dfa9a351abc0",
+      "score": 0.5105539827940779
+    }
+  ],
+  "(12578, 15322)": [
+    {
+      "name": "Globe Land 30",
+      "label": "dataset",
+      "description": "A global land cover dataset with a spatial resolution of 30 meters, used for land cover classification and change analysis",
+      "uuid": "39e16b32-ce0a-49ce-b809-c7167cfc3ae4",
+      "score": 0.5553472965108228
+    },
+    {
+      "name": "National Earth System Science Data Sharing Service Platform-Loess Plateau Science Data Center",
+      "label": "provider",
+      "description": "A data sharing platform providing access to earth system science data, including land cover and environmental datasets",
+      "uuid": "e9c97ed0-c08a-4759-811b-0497cd6c9775",
+      "score": 0.5215814889490915
+    },
+    {
+      "name": "ArcGIS",
+      "label": "platform",
+      "description": "A geographic information system software used for spatial analysis, mapping, and data visualization",
+      "uuid": "67084eeb-2dca-4a4c-b5dd-0c37fc7b6c9a",
+      "score": 0.5710176159514694
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical material at the surface of the earth, including water, arable land, forest, grassland, and artificial surfaces",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6336032094643428
+    }
+  ],
+  "(14963, 17448)": [
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure used to assess vegetation health and density",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7706183469443135
+    },
+    {
+      "name": "NDBSI",
+      "label": "variable",
+      "description": "The Normalized Difference Built-up Soil Index, a measure used to evaluate urban expansion and bare soil distribution",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5155558384647185
+    },
+    {
+      "name": "WET",
+      "label": "variable",
+      "description": "A measure used to assess wetland areas and their impact on ecological environment quality",
+      "uuid": "b5349985-14e5-4f7a-a409-3742d6d607cf",
+      "score": 0.5371590199507636
+    },
+    {
+      "name": "LST",
+      "label": "variable",
+      "description": "The Land Surface Temperature, a measure used to evaluate temperature changes and their impact on ecological environment quality",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.6797227999615265
+    },
+    {
+      "name": "SPSS 26.0",
+      "label": "instrument",
+      "description": "A software package used for statistical analysis and data processing",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.5829813104148954
+    },
+    {
+      "name": "remote sensing data",
+      "label": "variable",
+      "description": "Data collected through remote sensing technologies, used to extract information about land types and ecological environment quality",
+      "uuid": "afa11694-6aad-4d0b-8588-5ae14cce35cc",
+      "score": 0.538808938594285
+    }
+  ],
+  "(17169, 19631)": [
+    {
+      "name": "RSEI",
+      "label": "variable",
+      "description": "The Regional Sustainable Ecological Index, a measure used to evaluate the ecological environment quality of a region",
+      "uuid": "6efd7ce6-ef47-4527-b7e4-88484f74633e",
+      "score": 0.5065905499569394
+    }
+  ],
+  "(19214, 21547)": [
+    {
+      "name": "RSEI",
+      "label": "variable",
+      "description": "The Regional Sustainable Ecological Index, a measure of environmental quality",
+      "uuid": "6efd7ce6-ef47-4527-b7e4-88484f74633e",
+      "score": 0.5218054992090917
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and density",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7709110671502595
+    },
+    {
+      "name": "BAI",
+      "label": "variable",
+      "description": "The Biological Activity Index, an indicator of ecological environment quality",
+      "uuid": "4497eb1b-b64d-46ff-a18d-37d217430777",
+      "score": 0.5314440627705351
+    }
+  ],
+  "(21152, 23775)": [
+    {
+      "name": "BAI",
+      "label": "variable",
+      "description": "The Biodiversity Assessment Index, a measure of ecological environment quality",
+      "uuid": "4497eb1b-b64d-46ff-a18d-37d217430777",
+      "score": 0.526389191090611
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical coverage of the Earth's surface, including categories such as woodland, grassland, cultivated land, and artificial surfaces",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.65792979710148
+    },
+    {
+      "name": "grassland",
+      "label": "location",
+      "description": "A type of land cover characterized by grasses and other herbaceous plants",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6148861338349754
+    },
+    {
+      "name": "cultivated land",
+      "label": "location",
+      "description": "A type of land cover used for agricultural purposes",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.55187039365169
+    },
+    {
+      "name": "crop land",
+      "label": "location",
+      "description": "A type of land cover used for growing crops",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6390960680057544
+    },
+    {
+      "name": "forest land",
+      "label": "location",
+      "description": "A type of land cover characterized by dense tree growth",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5302718206964601
+    }
+  ],
+  "(23354, 26178)": [
+    {
+      "name": "land cover change data",
+      "label": "variable",
+      "description": "Information on the changes in land use and land cover over time, used to analyze urban expansion and landscape pattern variations",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5482358267067783
+    },
+    {
+      "name": "habitat fragmentation index",
+      "label": "variable",
+      "description": "A measure of the degree to which a landscape is broken up into smaller patches, affecting biodiversity and ecological processes",
+      "uuid": "f1682ed1-2d9c-41ec-9553-49b9ab55df9b",
+      "score": 0.5422566224394806
+    },
+    {
+      "name": "crop land",
+      "label": "location",
+      "description": "Areas used for agricultural purposes, such as growing crops",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6281959709217141
+    },
+    {
+      "name": "forest land",
+      "label": "location",
+      "description": "Areas covered by forests, providing ecosystem services and habitat for wildlife",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5528170564323787
+    },
+    {
+      "name": "grassland",
+      "label": "location",
+      "description": "Areas of land dominated by grasses and other herbaceous plants, often used for grazing or conservation",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6093058093256559
+    },
+    {
+      "name": "water",
+      "label": "location",
+      "description": "Areas of land covered by water, including rivers, lakes, and wetlands",
+      "uuid": "959f1861-a776-41b1-ba6b-d23c71d4d1eb",
+      "score": 0.5647602763316385
+    }
+  ],
+  "(25655, 28372)": [
+    {
+      "name": "land cover change data",
+      "label": "variable",
+      "description": "Data describing changes in land use and land cover over time, such as transitions from cultivated land to construction land",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5556463020437692
+    },
+    {
+      "name": "urban expansion",
+      "label": "natural hazard",
+      "description": "The process of cities growing into surrounding areas, potentially leading to environmental and ecological changes",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5630614427731307
+    }
+  ],
+  "(27914, 30334)": [
+    {
+      "name": "cultivated land",
+      "label": "location",
+      "description": "Areas used for agricultural purposes, which can impact landscape metrics and RSEI",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.5511653524385363
+    },
+    {
+      "name": "construction land",
+      "label": "location",
+      "description": "Areas used for urban development, which can lead to changes in landscape metrics and RSEI",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.5142945920688307
+    },
+    {
+      "name": "urban expansion",
+      "label": "natural hazard",
+      "description": "The rapid growth of cities, which can cause changes in landscape metrics and impact RSEI",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5219437192232538
+    }
+  ],
+  "(29904, 32550)": [
+    {
+      "name": "landcover",
+      "label": "variable",
+      "description": "The physical coverage of land, including different types such as cultivated land, construction land, and natural vegetation",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6345840925573194
+    },
+    {
+      "name": "urban expansion",
+      "label": "natural hazard",
+      "description": "The rapid growth and development of urban areas, leading to changes in land use and land cover",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5566110983902702
+    }
+  ],
+  "(32049, 34779)": [
+    {
+      "name": "landscape changes",
+      "label": "variable",
+      "description": "Changes in land cover, land use, or other environmental factors that affect the landscape",
+      "uuid": "6c44a08d-0a08-47f5-b819-7e561445e613",
+      "score": 0.5852319560312365
+    },
+    {
+      "name": "FRAC_MN",
+      "label": "variable",
+      "description": "A metric used to describe the fragmentation of land cover types",
+      "uuid": "e4c1b7f5-e04e-4265-8ff4-6d4eeeae6a73",
+      "score": 0.5210335312668224
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a metric used to describe the greenness and vegetation health of an area",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7673186346990233
+    },
+    {
+      "name": "NDBSI",
+      "label": "variable",
+      "description": "The Normalized Difference Built-up Soil Index, a metric used to describe the built-up and urbanized areas",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5192614428886886
+    },
+    {
+      "name": "LST",
+      "label": "variable",
+      "description": "The Land Surface Temperature, a metric used to describe the heat and temperature of an area",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.6842957701410218
+    }
+  ],
+  "(34341, 36822)": [
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of greenness and vegetation health",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7735526768656805
+    },
+    {
+      "name": "NDBSI",
+      "label": "variable",
+      "description": "The Normalized Difference Built-up Soil Index, an indicator of dryness and built-up areas",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5177173103425782
+    },
+    {
+      "name": "LST",
+      "label": "variable",
+      "description": "Land Surface Temperature, a measure of heat and thermal conditions in the environment",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7120102478275663
+    }
+  ],
+  "(36505, 39451)": [
+    {
+      "name": "RESI",
+      "label": "variable",
+      "description": "The Ecological Security Index, a measure used to evaluate the ecological environmental quality of an area",
+      "uuid": "6efd7ce6-ef47-4527-b7e4-88484f74633e",
+      "score": 0.5764693657586053
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical characteristics of the land surface, including vegetation, soil, water, and other features",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6337265599838593
+    },
+    {
+      "name": "landscape",
+      "label": "variable",
+      "description": "The visible features of an area of land, including physical elements such as landforms, water bodies, and vegetation",
+      "uuid": "f36d71c6-f2ad-49c4-809f-09b4f0688412",
+      "score": 0.6435330003806011
+    },
+    {
+      "name": "cultivated land",
+      "label": "location",
+      "description": "Areas of land used for agriculture and farming",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.5250264454950498
+    },
+    {
+      "name": "urban expansion",
+      "label": "natural hazard",
+      "description": "The process of cities growing and expanding, often leading to environmental and social impacts",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5716298081084273
+    }
+  ],
+  "(38871, 41775)": [
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical characteristics of the land surface, including vegetation, soil, water, and other features",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6337265599838593
+    },
+    {
+      "name": "Landsat satellite images",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellites used to collect data on the Earth's surface, including land cover, vegetation, and climate patterns",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.6981411869553513
+    },
+    {
+      "name": "ENVI 5.3",
+      "label": "platform",
+      "description": "A software platform used for geospatial analysis, including remote sensing and GIS applications",
+      "uuid": "5782afb9-caa8-44c4-8dec-e793d990b75d",
+      "score": 0.563945165099118
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and density",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7709110671502595
+    },
+    {
+      "name": "WET",
+      "label": "variable",
+      "description": "A measure of surface wetness, often used in remote sensing applications",
+      "uuid": "1456bd4b-1226-4c08-b4f1-e37ed138798a",
+      "score": 0.5202733267091868
+    },
+    {
+      "name": "NDBSI",
+      "label": "variable",
+      "description": "The Normalized Difference Built-up Soil Index, a measure of urbanization and built-up areas",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.523041990230724
+    },
+    {
+      "name": "LST",
+      "label": "variable",
+      "description": "Land Surface Temperature, a measure of the temperature of the Earth's surface",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7240012576269027
+    },
+    {
+      "name": "urban expansion",
+      "label": "natural hazard",
+      "description": "The growth and development of urban areas, often leading to environmental challenges and ecological degradation",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5667729097499671
+    }
+  ],
+  "(41332, 44291)": [
+    {
+      "name": "built-up areas",
+      "label": "location",
+      "description": "Urbanized regions within Tongling city, characterized by high population density and infrastructure development",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5577631975489847
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical material at the surface of the earth, including vegetation, soil, and water, which can impact ecological quality",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6138227020867533
+    },
+    {
+      "name": "Loess plateau science data center",
+      "label": "provider",
+      "description": "An organization providing data support for scientific research, including the study on Tongling city's ecological quality",
+      "uuid": "cc924b13-041b-4966-a08b-c45bd5a86473",
+      "score": 0.5033370494551764
+    },
+    {
+      "name": "National Earth System Science Data Sharing Infrastructure",
+      "label": "provider",
+      "description": "A platform for sharing data related to earth system science, supporting research on ecological quality and environmental changes",
+      "uuid": "de1e0fd4-d865-4726-9bde-96804cf455b7",
+      "score": 0.5275030879702675
+    }
+  ]
+}

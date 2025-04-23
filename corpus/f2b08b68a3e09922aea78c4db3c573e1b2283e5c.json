@@ -1,0 +1,2737 @@
+{
+  "(0, 2729)": [
+    {
+      "name": "EC-Earth2.3",
+      "label": "model",
+      "description": "A global coupled climate model used for simulating the Earth's climate system, including the atmosphere, oceans, and land surfaces",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7335705699948246
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "A region located in the northernmost part of the Earth, characterized by cold temperatures, ice, and snow, and playing a significant role in the global climate system",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7917450060962653
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coasts of Norway and Russia, known for its significant role in Arctic climate variability",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8342556131829739
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emission scenario used in climate modeling, representing a possible future pathway of greenhouse gas emissions and their impacts on the climate system",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6837317429611538
+    },
+    {
+      "name": "Arctic mean near-surface temperature",
+      "label": "variable",
+      "description": "A measure of the average temperature near the surface of the Earth in the Arctic region, used to study climate change and variability",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5028779564869171
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A type of ice that forms on the surface of the ocean, particularly in polar regions, and plays a crucial role in the Earth's climate system",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.78481388837166
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, extending from the surface up to the edge of space, and playing a vital role in the climate system",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6211384517622743
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a central role in the climate system and global weather patterns",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7238245699879461
+    },
+    {
+      "name": "freshwater",
+      "label": "variable",
+      "description": "Water that contains low concentrations of salts, essential for human consumption, agriculture, and ecosystems, and playing a significant role in the Earth's hydrologic cycle",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.5618068483919175
+    },
+    {
+      "name": "river runoff",
+      "label": "variable",
+      "description": "The flow of water from rivers into the ocean, influenced by precipitation, snowmelt, and human activities, and affecting the global water cycle and climate system",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7022415508400485
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located north of the equator, known for its significant role in global ocean circulation and climate variability",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7825378109022151
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions and understand the Earth's climate system",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8163386182277654
+    },
+    {
+      "name": "surface heat fluxes",
+      "label": "variable",
+      "description": "The exchange of heat energy between the Earth's surface and the atmosphere, playing a crucial role in shaping regional and global climate patterns",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.703450347116026
+    },
+    {
+      "name": "cloudiness",
+      "label": "variable",
+      "description": "The amount of cloud cover in the atmosphere, influencing the Earth's energy balance and climate system",
+      "uuid": "70f5b8a3-3f52-467c-957c-7ca98e1c6184",
+      "score": 0.5921941872368055
+    },
+    {
+      "name": "meridional heat flux",
+      "label": "variable",
+      "description": "The transfer of heat energy from the equator towards the poles, playing a significant role in the Earth's climate system and global energy balance",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.5883463053878953
+    }
+  ],
+  "(2422, 4822)": [
+    {
+      "name": "Arctic regions",
+      "label": "location",
+      "description": "The northernmost region of the Earth, characterized by cold temperatures, ice, and snow, and playing a significant role in global climate regulation",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7631705479196127
+    },
+    {
+      "name": "Fram Strait",
+      "label": "location",
+      "description": "A strait between Greenland and the Svalbard archipelago, connecting the Arctic Ocean to the North Atlantic Ocean",
+      "uuid": "aae8d964-6870-45ea-9fff-8c1b580d614d",
+      "score": 0.7576478441807236
+    },
+    {
+      "name": "meridional overturning circulation",
+      "label": "ocean circulation",
+      "description": "A global ocean circulation pattern that plays a crucial role in regulating Earth's climate, characterized by the movement of warm and cold water masses",
+      "uuid": "d0c16581-6951-4e8d-a0c1-97e9fcaa031a",
+      "score": 0.5982726178341355
+    },
+    {
+      "name": "ice-albedo feedback",
+      "label": "teleconnection",
+      "description": "A climate feedback mechanism where changes in sea ice cover influence the amount of solar radiation absorbed by the Earth's surface, amplifying climate change",
+      "uuid": "5332daa8-b5c4-4ac9-8a0e-6f60614ac760",
+      "score": 0.5958107398920673
+    },
+    {
+      "name": "sea ice cover",
+      "label": "variable",
+      "description": "The extent and thickness of ice covering the ocean's surface, an important indicator of climate change",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.7122250325156392
+    },
+    {
+      "name": "clouds",
+      "label": "variable",
+      "description": "Atmospheric formations of water vapor and tiny particles, influencing Earth's energy balance and climate",
+      "uuid": "162e2243-3266-4999-b352-d8a1a9dc82ac",
+      "score": 0.6800482061107861
+    },
+    {
+      "name": "water vapour",
+      "label": "variable",
+      "description": "A gaseous state of water, playing a crucial role in the Earth's energy balance and climate system",
+      "uuid": "15029eb0-6342-4066-8ac9-c50f7dbfb392",
+      "score": 0.7190111946023167
+    },
+    {
+      "name": "Bering Strait",
+      "label": "location",
+      "description": "A strait between Asia and North America, connecting the Pacific and Arctic Oceans and influencing regional climate patterns",
+      "uuid": "bd16fdb1-ead7-41bc-981b-9ed725dd8f7f",
+      "score": 0.7718090651428635
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization assessing climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7512081867026467
+    },
+    {
+      "name": "ACIA",
+      "label": "provider",
+      "description": "The Arctic Climate Impact Assessment, an international project evaluating climate change impacts in the Arctic region",
+      "uuid": "fd88f6ab-af8a-4bb2-852b-5abc779f991d",
+      "score": 0.5807150374365355
+    },
+    {
+      "name": "AR4",
+      "label": "project",
+      "description": "The Fourth Assessment Report of the Intergovernmental Panel on Climate Change, a comprehensive assessment of climate change science and impacts",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.5400466703153097
+    },
+    {
+      "name": "advection",
+      "label": "variable",
+      "description": "The transport of heat, moisture, or other properties through the movement of air or water masses",
+      "uuid": "5f6358aa-872c-4c1c-9388-4714138f034a",
+      "score": 0.7026551715737663
+    },
+    {
+      "name": "Arctic warming amplification",
+      "label": "natural hazard",
+      "description": "The phenomenon of accelerated climate change in the Arctic region, resulting in more rapid warming than the global average",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5068946869740667
+    }
+  ],
+  "(4412, 6937)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A global coupled climate model used to simulate Earth's climate system, developed by the European Centre for Medium-Range Weather Forecasts",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7632491825775074
+    },
+    {
+      "name": "IPSL",
+      "label": "provider",
+      "description": "The Institute Pierre Simon Laplace, a French research institute that develops and uses climate models to study Earth's climate system",
+      "uuid": "e8df7edd-a176-45c9-8515-3a520948ef63",
+      "score": 0.7711894588973522
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, a European organization that provides weather forecasts and climate research",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7571718671107004
+    },
+    {
+      "name": "NEMO",
+      "label": "model",
+      "description": "The Nucleus for European Modelling of the Ocean, a ocean model developed by the Institute Pierre Simon Laplace",
+      "uuid": "785f7c57-93c9-4fe0-8309-ff32aa59a637",
+      "score": 0.5937504770191582
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "A continent located at the South Pole, known for its extreme climate and unique ecosystems",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7847257953301522
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the Earth's climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7335508864387607
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, essential for life and climate regulation",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6249802428389098
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A type of ice that forms when seawater freezes, playing a significant role in the Earth's climate system",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7573068582119
+    },
+    {
+      "name": "land surface scheme",
+      "label": "model",
+      "description": "A component of climate models that represents the interactions between the atmosphere and the land surface",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.5516644156491477
+    },
+    {
+      "name": "IFS",
+      "label": "model",
+      "description": "The Integrated Forecast System, a weather forecasting model developed by the European Centre for Medium-Range Weather Forecasts",
+      "uuid": "47ee8305-57b9-4df1-84ce-f563df48cf69",
+      "score": 0.6666767012224847
+    },
+    {
+      "name": "RCPs",
+      "label": "variable",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future greenhouse gas concentrations and climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5514937293364671
+    },
+    {
+      "name": "AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, a comprehensive report on climate change science, impacts, and mitigation strategies",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.5601056287571625
+    }
+  ],
+  "(6594, 9170)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A comprehensive Earth system model that integrates physical, chemical, and biological processes to simulate Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7632568194386226
+    },
+    {
+      "name": "NEMO",
+      "label": "model",
+      "description": "A computational model used to simulate ocean dynamics and thermodynamics",
+      "uuid": "785f7c57-93c9-4fe0-8309-ff32aa59a637",
+      "score": 0.5875201476552782
+    },
+    {
+      "name": "OASIS",
+      "label": "platform",
+      "description": "The Ocean, Atmosphere, Sea Ice, Soil coupler, a software framework used to couple different climate models",
+      "uuid": "ba2cf9cf-36c9-421b-bd6e-339e7cef1092",
+      "score": 0.6495780201669953
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492816239530663
+    },
+    {
+      "name": "EC-Earth results",
+      "label": "variable",
+      "description": "The output data from the EC-Earth model simulations",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.6393582199485544
+    },
+    {
+      "name": "ERA-interim reanalysis",
+      "label": "dataset",
+      "description": "A global atmospheric reanalysis dataset produced by the European Centre for Medium-Range Weather Forecasts",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.8039984151189498
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent surrounding the South Pole, known for its extreme climate and unique ecosystems",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7429314974713621
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region surrounding the North Pole, characterized by cold temperatures and sea ice",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7413870849955828
+    },
+    {
+      "name": "atmosphere",
+      "label": "variable",
+      "description": "The layer of gases surrounding the Earth, influencing climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6283499920751152
+    },
+    {
+      "name": "ocean",
+      "label": "variable",
+      "description": "The vast body of saltwater that covers most of the Earth's surface, playing a crucial role in the climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7238427014295691
+    },
+    {
+      "name": "sea ice concentration",
+      "label": "variable",
+      "description": "The amount of sea ice present in a given area, an important indicator of climate change",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.8010348847225001
+    },
+    {
+      "name": "clouds",
+      "label": "variable",
+      "description": "Visible masses of water droplets or ice crystals suspended in the atmosphere, influencing climate and weather patterns",
+      "uuid": "162e2243-3266-4999-b352-d8a1a9dc82ac",
+      "score": 0.6833464181831089
+    },
+    {
+      "name": "bathymetry",
+      "label": "variable",
+      "description": "The study of the depth and shape of the ocean floor, essential for understanding ocean circulation and marine ecosystems",
+      "uuid": "80d79c7e-6c64-4ada-bfcc-4093969758a5",
+      "score": 0.674595196105302
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including mountains, valleys, and oceans",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6769490673335322
+    }
+  ],
+  "(8627, 11455)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A climate model used for simulating Earth's climate system, developed by the European Consortium for Earth System Modelling",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7705246828312343
+    },
+    {
+      "name": "ERA-Interim",
+      "label": "project",
+      "description": "A reanalysis project from the European Centre for Medium-Range Weather Forecasts, providing a comprehensive dataset of atmospheric conditions from 1979 to 2019",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.8043976169316596
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The northernmost region of the Earth, characterized by cold temperatures, ice, and unique ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7932315753046333
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "A vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7474273777018722
+    },
+    {
+      "name": "satellite products",
+      "label": "instrument",
+      "description": "Data and images collected by artificial satellites in orbit around the Earth, used for various applications including weather forecasting and climate research",
+      "uuid": "17b1489c-fba7-4252-bf23-b981148343f1",
+      "score": 0.5462904519635038
+    },
+    {
+      "name": "Nimbus-7 Scanning Multichannel Microwave Radiometer",
+      "label": "instrument",
+      "description": "A satellite instrument used to measure brightness temperature data, which can be used to derive information about sea ice concentration and other environmental parameters",
+      "uuid": "6d529763-54c7-4f14-8f0a-988af122c6fe",
+      "score": 0.6023585378915866
+    },
+    {
+      "name": "DMSP",
+      "label": "platform",
+      "description": "The Defense Meteorological Satellite Program, a series of satellites operated by the United States Department of Defense for weather forecasting and other applications",
+      "uuid": "d313966a-c22e-4c20-898e-b741d9d2138d",
+      "score": 0.7998941421732858
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a United States government agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6847464046552499
+    },
+    {
+      "name": "AVHRR",
+      "label": "instrument",
+      "description": "The Advanced Very High Resolution Radiometer, a satellite instrument used to collect data on cloud cover, sea surface temperature, and other environmental parameters",
+      "uuid": "e64e83bd-02b3-4a47-830d-00e1aa4b04d3",
+      "score": 0.7240872036820754
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, an independent intergovernmental organization that provides weather forecasts and climate research",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7589772004329746
+    },
+    {
+      "name": "clouds",
+      "label": "variable",
+      "description": "Visible masses of water droplets or ice crystals suspended in the atmosphere, playing a crucial role in the Earth's climate system",
+      "uuid": "162e2243-3266-4999-b352-d8a1a9dc82ac",
+      "score": 0.7019292945274548
+    },
+    {
+      "name": "sea ice concentration",
+      "label": "variable",
+      "description": "The percentage of sea surface covered by ice, an important parameter for understanding climate change and its impacts on the polar regions",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.80493668538431
+    },
+    {
+      "name": "brightness temperature data",
+      "label": "variable",
+      "description": "A measure of the temperature of an object or surface as determined by its radiation, often used in remote sensing applications",
+      "uuid": "8d28c44d-b17d-4e31-9834-dd98f39312cd",
+      "score": 0.7862322377985027
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, essential for life and climate regulation",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6249802428389098
+    },
+    {
+      "name": "Oceans and Ice Branch",
+      "label": "provider",
+      "description": "A research division within NASA's Laboratory for Hydrospheric Processes, focused on studying the Earth's oceans and ice cover",
+      "uuid": "f6317c94-107f-4604-87e7-18f412607d85",
+      "score": 0.5460633199235408
+    },
+    {
+      "name": "Laboratory for Hydrospheric Processes",
+      "label": "provider",
+      "description": "A research laboratory within NASA's Goddard Space Flight Center, focused on studying the Earth's hydrosphere and its interactions with the atmosphere and land surfaces",
+      "uuid": "aba26186-32a9-40e3-9264-87d884c74eef",
+      "score": 0.6234882118953228
+    },
+    {
+      "name": "GSFC",
+      "label": "provider",
+      "description": "The NASA Goddard Space Flight Center, a major research center for Earth and space sciences",
+      "uuid": "13ac08f2-85c4-481a-be94-4640bbb8f7c9",
+      "score": 0.6654274304430148
+    },
+    {
+      "name": "APP-x",
+      "label": "instrument",
+      "description": "The Advanced Very High Resolution Radiometer Polar Pathfinder product, a dataset of cloud and surface parameters derived from AVHRR satellite data",
+      "uuid": "b679fbfd-35db-4169-8a16-9163919d261d",
+      "score": 0.5736912542770601
+    },
+    {
+      "name": "CASPR",
+      "label": "model",
+      "description": "The Cloud and Surface Parameter Retrieval system, a computational method for deriving cloud and surface parameters from satellite data",
+      "uuid": "fd5678a0-5d76-4cde-90da-4316bf535212",
+      "score": 0.5305546010217318
+    }
+  ],
+  "(11014, 13903)": [
+    {
+      "name": "ERA-Interim",
+      "label": "project",
+      "description": "A reanalysis project that provides a comprehensive dataset of atmospheric and climate variables, using a version of the ECMWF forecast model",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7658253991531151
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A coupled climate model that integrates physical, chemical, and biological processes to simulate Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7578343843107205
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, a research institution focused on weather forecasting and climate studies",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7670742750101849
+    },
+    {
+      "name": "NCAR",
+      "label": "provider",
+      "description": "The National Center for Atmospheric Research, an American research institution focused on atmospheric and climate research",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.7639113954969247
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "A region located at the northernmost tip of the Earth, characterized by its unique climate and environmental conditions",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7894169984919117
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "A vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in regulating the climate",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7338507295669162
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The solid surface of the Earth, including continents, islands, and underwater landmasses, influencing local climate and weather patterns",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.6866576510546399
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A measure of the extent and thickness of ice covering the ocean's surface, an important indicator of climate change",
+      "uuid": "101904f4-75f6-4b76-9adf-a6a4c8009667",
+      "score": 0.7231033513116735
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, influencing climate, weather, and air quality",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6282039712649783
+    }
+  ],
+  "(13445, 15951)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A sophisticated computer simulation used to represent and predict Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7182497315859452
+    },
+    {
+      "name": "Arctic sea ice volume",
+      "label": "variable",
+      "description": "A measure of the total amount of ice in the Arctic region, often used to study climate change and sea ice dynamics",
+      "uuid": "32929f40-ee7f-411d-8d2d-1d2cd9b78b09",
+      "score": 0.6977772774094194
+    },
+    {
+      "name": "ice extent",
+      "label": "variable",
+      "description": "The area covered by sea ice in a particular region, often used as an indicator of climate change",
+      "uuid": "50f0cf56-c119-4ac1-9a88-8eb04fa666ad",
+      "score": 0.7478340189697087
+    },
+    {
+      "name": "sea ice extent",
+      "label": "variable",
+      "description": "The area covered by sea ice in a particular region, often used as an indicator of climate change",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.7180474124808607
+    },
+    {
+      "name": "CO 2 concentrations",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, often used as a measure of greenhouse gas emissions and climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.60140543916282
+    },
+    {
+      "name": "sea ice change",
+      "label": "variable",
+      "description": "The rate of change in the extent or volume of sea ice over time, often used to study climate change and sea ice dynamics",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.6071408477360245
+    },
+    {
+      "name": "ice volume",
+      "label": "variable",
+      "description": "The total amount of ice in a particular region, often used to study climate change and sea ice dynamics",
+      "uuid": "32929f40-ee7f-411d-8d2d-1d2cd9b78b09",
+      "score": 0.6735377669259767
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a sophisticated computer simulation used to represent and predict Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7710470924082086
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028232342314525
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a low-emissions future",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.675743876003376
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a moderate-emissions future",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6280370895515206
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a high-emissions future",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6770682681093098
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "A region located at the northernmost tip of the Earth, characterized by cold temperatures and sea ice",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.782669685960888
+    }
+  ],
+  "(15578, 18118)": [
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028232342314525
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a coupled climate model used for simulating the Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7950060455738115
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a high greenhouse gas emissions future",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6941884120078249
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The northernmost region of the Earth, characterized by its unique and fragile ecosystem",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7950543054026118
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A measure of the extent and thickness of ice covering the ocean's surface, an important indicator of climate change",
+      "uuid": "101904f4-75f6-4b76-9adf-a6a4c8009667",
+      "score": 0.7231033513116735
+    },
+    {
+      "name": "ice thickness",
+      "label": "variable",
+      "description": "The depth of ice covering the ocean's surface, an important factor in understanding sea ice dynamics",
+      "uuid": "a735d8ca-182c-4307-9305-186a065e84a4",
+      "score": 0.6897012422375282
+    },
+    {
+      "name": "ice concentration",
+      "label": "variable",
+      "description": "The percentage of the ocean's surface covered by ice, an important indicator of sea ice extent",
+      "uuid": "bb27bbb7-7bc4-4e38-833a-30e0a7861ccc",
+      "score": 0.7345905963554646
+    },
+    {
+      "name": "Central Arctic",
+      "label": "location",
+      "description": "The central region of the Arctic Ocean, characterized by its deep waters and unique ecosystem",
+      "uuid": "4e009e27-aa50-423e-8407-6cba81ff5f2c",
+      "score": 0.596287960352263
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coasts of Norway and Russia",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8204393922424663
+    },
+    {
+      "name": "Greenland Sea",
+      "label": "location",
+      "description": "A part of the Arctic Ocean, located between Greenland and the Norwegian Sea",
+      "uuid": "91dd3935-a1ae-48ca-b263-9b10ac732372",
+      "score": 0.6210238809315265
+    },
+    {
+      "name": "Labrador Sea",
+      "label": "location",
+      "description": "A part of the North Atlantic Ocean, located off the coast of Labrador, Canada",
+      "uuid": "0006e246-4296-448c-9b81-a0831cad7f1c",
+      "score": 0.8156008024985482
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a low greenhouse gas emissions future",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6816563316145506
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a moderate greenhouse gas emissions future",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6418384278085697
+    },
+    {
+      "name": "coupled climate models",
+      "label": "model",
+      "description": "Computational representations of the Earth's climate system, integrating atmospheric, oceanic, and terrestrial processes",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.7822513505574787
+    }
+  ],
+  "(17664, 20058)": [
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emission scenario used in climate modeling to simulate the effects of greenhouse gas emissions on the climate system",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6818079765959286
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A medium-emission scenario used in climate modeling to simulate the effects of greenhouse gas emissions on the climate system",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6242914199811243
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A low-emission scenario used in climate modeling to simulate the effects of greenhouse gas emissions on the climate system",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6742112707530556
+    },
+    {
+      "name": "sea ice concentration",
+      "label": "variable",
+      "description": "The amount of sea ice present in a given area, typically measured as a percentage of the total area",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.7857778407150293
+    },
+    {
+      "name": "Barents Sea region",
+      "label": "location",
+      "description": "A region in the Arctic Ocean, located north of Norway and Russia, known for its significant sea ice coverage",
+      "uuid": "ff04d3c5-d89a-436a-ae78-c6bb7a2320b0",
+      "score": 0.792254979344627
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A climate model developed by the European Consortium for Earth System Modelling, used to simulate and predict climate changes",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7736241336369509
+    },
+    {
+      "name": "ERA-Interim",
+      "label": "dataset",
+      "description": "A global atmospheric reanalysis dataset produced by the European Centre for Medium-Range Weather Forecasts, used for climate research and modeling",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.8223260093676737
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, characterized by cold temperatures, sea ice, and unique ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7689073285244333
+    },
+    {
+      "name": "Greenland Sea",
+      "label": "location",
+      "description": "A part of the Arctic Ocean, located between Greenland and Norway, known for its sea ice coverage and ocean currents",
+      "uuid": "91dd3935-a1ae-48ca-b263-9b10ac732372",
+      "score": 0.6338597516285654
+    },
+    {
+      "name": "Nordic Seas",
+      "label": "location",
+      "description": "A region of the North Atlantic Ocean, located off the coasts of Norway and Iceland, characterized by cold water and sea ice",
+      "uuid": "d366e721-8a65-478c-a84a-b2101a417416",
+      "score": 0.6647379595448022
+    },
+    {
+      "name": "North-Atlantic",
+      "label": "location",
+      "description": "The part of the Atlantic Ocean located north of the equator, known for its significant role in global ocean circulation and climate regulation",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.793993027811393
+    },
+    {
+      "name": "turbulent heat fluxes",
+      "label": "variable",
+      "description": "The exchange of heat between the atmosphere and the ocean or land surface, driven by turbulent motions in the atmosphere",
+      "uuid": "7ee32363-7c39-40c3-95b3-4f24e284abb6",
+      "score": 0.7342090822367662
+    },
+    {
+      "name": "sensible heat flux",
+      "label": "variable",
+      "description": "The transfer of heat between the atmosphere and the surface through conduction and convection",
+      "uuid": "6a2d1d48-d2cc-4fe7-85f5-c98ab3a11262",
+      "score": 0.7261930168409481
+    },
+    {
+      "name": "latent heat flux",
+      "label": "variable",
+      "description": "The transfer of heat between the atmosphere and the surface through the process of evaporation and condensation",
+      "uuid": "05dd9887-0b58-45f2-b3ea-6e26bbee6990",
+      "score": 0.7885772665447418
+    },
+    {
+      "name": "SHEBA",
+      "label": "project",
+      "description": "The Surface Heat Budget of the Arctic Ocean project, a research initiative to study the energy balance of the Arctic Ocean",
+      "uuid": "af6c4ef7-c65e-4adb-a075-0ea9144dea95",
+      "score": 0.8100590135668136
+    },
+    {
+      "name": "Cavalieri et al.",
+      "label": "provider",
+      "description": "A research group or authors who have published studies on climate and sea ice, in this case, referenced for their work on sea ice concentration",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.5037612330761893
+    }
+  ],
+  "(19740, 22079)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A climate model developed by the European Consortium for Earth System Modelling, used for simulating and predicting Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.777329183674268
+    },
+    {
+      "name": "ERA-Interim",
+      "label": "project",
+      "description": "A reanalysis project that provides a consistent and reliable dataset of atmospheric conditions from 1979 to 2019",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7709004690671234
+    },
+    {
+      "name": "sensible heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat from the Earth's surface to the atmosphere through convection and conduction",
+      "uuid": "6a2d1d48-d2cc-4fe7-85f5-c98ab3a11262",
+      "score": 0.7247004012160744
+    },
+    {
+      "name": "latent heat flux",
+      "label": "variable",
+      "description": "The transfer of heat from the Earth's surface to the atmosphere through the process of evaporation and condensation",
+      "uuid": "05dd9887-0b58-45f2-b3ea-6e26bbee6990",
+      "score": 0.8072312173566587
+    },
+    {
+      "name": "ice edge",
+      "label": "location",
+      "description": "The boundary between sea ice and open ocean, playing a crucial role in Earth's climate system",
+      "uuid": "f4c1a555-4758-47ce-baa6-536730333833",
+      "score": 0.6965334894085351
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and coldest of the world's five oceans, located in the northernmost part of the world and surrounding the North Pole",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.7446311556776593
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coasts of Norway and Russia",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8204393922424663
+    },
+    {
+      "name": "Iceland",
+      "label": "location",
+      "description": "An island nation in the North Atlantic, known for its unique geology and climate",
+      "uuid": "5e64ca14-42f3-4222-8f2c-5db3c7b71d8f",
+      "score": 0.7140247439185226
+    },
+    {
+      "name": "Kara Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coast of Russia",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.6242488216208255
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario that aims to limit global warming to 2\u00b0C above pre-industrial levels",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6471091102501235
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario that aims to limit global warming to 4.5\u00b0C above pre-industrial levels",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5991939378521837
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario that aims to limit global warming to 8.5\u00b0C above pre-industrial levels",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6670381124838481
+    },
+    {
+      "name": "Cavalieri et al.",
+      "label": "provider",
+      "description": "A research group or institution that published a study on sea ice concentration",
+      "uuid": "8012fda7-3ea4-4ef2-bb4e-0f66d4d9e850",
+      "score": 0.5135855405709567
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028232342314525
+    }
+  ],
+  "(21655, 24262)": [
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emission scenario used in climate modeling to project future changes in the climate system",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6859981685055415
+    },
+    {
+      "name": "Iceland",
+      "label": "location",
+      "description": "An island country in the North Atlantic Ocean, known for its unique geology and climate",
+      "uuid": "5e64ca14-42f3-4222-8f2c-5db3c7b71d8f",
+      "score": 0.7246859370041313
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coasts of Norway and Russia",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8204393922424663
+    },
+    {
+      "name": "Kara Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coast of Russia",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.6242488216208255
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A climate model developed by the European Consortium for Earth System Modeling, used for simulating and predicting Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7748503222869247
+    },
+    {
+      "name": "ERA-Interim-reanalysis",
+      "label": "project",
+      "description": "A reanalysis project that provides a comprehensive dataset of atmospheric conditions from 1979 to 2019, used for climate research and model validation",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7895975942946969
+    },
+    {
+      "name": "sea-ice",
+      "label": "variable",
+      "description": "The extent and concentration of ice covering the ocean surface, an important factor in climate modeling and sea surface temperature regulation",
+      "uuid": "101904f4-75f6-4b76-9adf-a6a4c8009667",
+      "score": 0.7025375576856623
+    },
+    {
+      "name": "sensible heat flux",
+      "label": "variable",
+      "description": "The transfer of heat from the surface to the atmosphere through conduction and convection, an important component of the Earth's energy balance",
+      "uuid": "6a2d1d48-d2cc-4fe7-85f5-c98ab3a11262",
+      "score": 0.7373565994555006
+    },
+    {
+      "name": "latent heat flux",
+      "label": "variable",
+      "description": "The transfer of heat from the surface to the atmosphere through the evaporation and condensation of water, an important component of the Earth's energy balance",
+      "uuid": "05dd9887-0b58-45f2-b3ea-6e26bbee6990",
+      "score": 0.8122015082288239
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and shallowest of the world's five oceans, surrounding the North Pole and playing a crucial role in global climate regulation",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.7413488639013041
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States, located in the northwest corner of North America, known for its cold and varied climate",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7406460971686737
+    },
+    {
+      "name": "turbulent surface fluxes",
+      "label": "variable",
+      "description": "The transfer of heat, momentum, and moisture between the ocean surface and the atmosphere through turbulent motions, an important component of the Earth's energy balance",
+      "uuid": "7ee32363-7c39-40c3-95b3-4f24e284abb6",
+      "score": 0.6923306173010586
+    },
+    {
+      "name": "2-m air temperature",
+      "label": "variable",
+      "description": "The temperature of the air at a height of 2 meters above the surface, a common metric used to measure and study climate and weather patterns",
+      "uuid": "520a14d3-818b-4d8a-8bae-67307b4b6539",
+      "score": 0.6601874614565012
+    },
+    {
+      "name": "ice edge",
+      "label": "location",
+      "description": "The boundary between sea ice and open water, an important feature in polar climate systems",
+      "uuid": "f4c1a555-4758-47ce-baa6-536730333833",
+      "score": 0.6749300969465603
+    },
+    {
+      "name": "ice fraction",
+      "label": "variable",
+      "description": "The proportion of a grid cell or area covered by sea ice, used in climate modeling to represent sea ice extent and concentration",
+      "uuid": "a3f36d7c-4eed-4d7a-8902-a5fcdc1b6261",
+      "score": 0.7787686514830564
+    }
+  ],
+  "(23905, 26323)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A climate model developed by the European Consortium for Earth System Modelling, used for simulating and predicting Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.777329183674268
+    },
+    {
+      "name": "ERA-Interim-reanalysis",
+      "label": "model",
+      "description": "A reanalysis dataset produced by the European Centre for Medium-Range Weather Forecasts, combining observational data and model outputs to provide a consistent climate record",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.8008758445982045
+    },
+    {
+      "name": "T2m",
+      "label": "variable",
+      "description": "A measure of the 2-m air temperature, commonly used in climate studies to represent near-surface air temperature",
+      "uuid": "520a14d3-818b-4d8a-8bae-67307b4b6539",
+      "score": 0.7106882765368039
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and coldest of the world's five oceans, surrounding the North Pole and playing a significant role in global climate regulation",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.7486374555534169
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States, known for its vast wilderness and cold climate, located in the northwest corner of North America",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7443904163523021
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea located off the northern coasts of Norway and Russia, known for its significant role in Arctic climate and ocean circulation patterns",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8343321760200948
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model developed by the National Center for Atmospheric Research, used for simulating and predicting Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.8007806628539809
+    },
+    {
+      "name": "AR4-models",
+      "label": "project",
+      "description": "The Fourth Assessment Report climate models, a set of climate models used in the Intergovernmental Panel on Climate Change Fourth Assessment Report",
+      "uuid": "08ccef97-4faf-4678-8404-03945170aa21",
+      "score": 0.5370823702684204
+    },
+    {
+      "name": "AR5-models",
+      "label": "project",
+      "description": "The Fifth Assessment Report climate models, a set of climate models used in the Intergovernmental Panel on Climate Change Fifth Assessment Report",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.574962244169689
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, used in climate modeling to represent a low-emissions future with strong mitigation efforts",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6794019398425738
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, used in climate modeling to represent a medium-emissions future with moderate mitigation efforts",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6319950050990644
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, used in climate modeling to represent a high-emissions future with minimal mitigation efforts",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6747315847161042
+    }
+  ],
+  "(25887, 28516)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A climate model used for simulating Earth's climate system, including atmosphere, ocean, and land processes",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7821236988390844
+    },
+    {
+      "name": "AR4",
+      "label": "project",
+      "description": "The Fourth Assessment Report of the Intergovernmental Panel on Climate Change, which provides an assessment of climate change research and projections",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.5494577735366237
+    },
+    {
+      "name": "AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, which updates the understanding of climate change and its impacts",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.5456361790440141
+    },
+    {
+      "name": "ERA-Interim",
+      "label": "model",
+      "description": "A global atmospheric reanalysis produced by the European Centre for Medium-Range Weather Forecasts, used for climate research and validation of climate models",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.778409568013485
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used for simulating Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7994000386571287
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a low greenhouse gas emission scenario",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6760326774378972
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a medium greenhouse gas emission scenario",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6244277501397434
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a high greenhouse gas emission scenario",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6797457131991511
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and coldest of the world's five oceans, surrounding the North Pole and playing a significant role in global climate regulation",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.7486374555534169
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and other bodies of water, which plays a crucial role in climate regulation and ecosystem diversity",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6706983673876892
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A critical component of the Earth's climate system, influencing global temperatures, ocean currents, and weather patterns",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7496357589613845
+    },
+    {
+      "name": "negative net radiation",
+      "label": "variable",
+      "description": "The difference between the amount of solar radiation absorbed by the Earth's surface and the amount of radiation emitted back into space, influencing climate and weather patterns",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.6553713268918394
+    },
+    {
+      "name": "decadal time scales",
+      "label": "variable",
+      "description": "Time periods of ten years or more, used to study long-term climate trends and variability",
+      "uuid": "3d97e993-dc6a-41ff-8a49-3e837c1fc2b1",
+      "score": 0.7427313482334775
+    },
+    {
+      "name": "decadal scale variations",
+      "label": "variable",
+      "description": "Changes or fluctuations in climate patterns that occur over decadal time scales, influencing regional and global climate conditions",
+      "uuid": "addadf3e-ae8d-49aa-9b5d-abee1952a543",
+      "score": 0.6298718027006399
+    }
+  ],
+  "(28053, 30529)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A global climate model developed by the European Consortium for Earth System Modelling, used for simulating and predicting climate patterns",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7677773974501998
+    },
+    {
+      "name": "ERA-Interim reanalysis",
+      "label": "dataset",
+      "description": "A reanalysis dataset produced by the European Centre for Medium-Range Weather Forecasts, combining model outputs with observational data to provide a consistent and reliable representation of the climate system",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7996800549637376
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States located in the northwest corner of North America, known for its cold and variable climate",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.743584433302337
+    },
+    {
+      "name": "Bering Strait",
+      "label": "location",
+      "description": "A narrow waterway between Asia and North America, connecting the Pacific and Arctic Oceans and playing a significant role in global ocean circulation",
+      "uuid": "bd16fdb1-ead7-41bc-981b-9ed725dd8f7f",
+      "score": 0.8104855447820954
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coast of Europe and known for its harsh and variable climate",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.7808518785519647
+    },
+    {
+      "name": "Bering Sea",
+      "label": "location",
+      "description": "A marginal sea of the Pacific Ocean, located between Asia and North America and known for its rich marine ecosystems and significant role in global ocean circulation",
+      "uuid": "d85ae1ed-4b5f-440d-aaf0-7f9d605fec3b",
+      "score": 0.8441791675299959
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and coldest of the world's five oceans, surrounding the North Pole and playing a crucial role in global climate regulation",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.750602592000356
+    },
+    {
+      "name": "atmosphere",
+      "label": "variable",
+      "description": "The layer of gases surrounding the Earth, essential for climate regulation and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6193093857074029
+    },
+    {
+      "name": "sea level pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere at sea level, an important factor in weather and climate patterns",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.7622628375367363
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An autonomous territory within the Kingdom of Denmark, located in the North Atlantic and known for its significant ice sheet and role in global climate regulation",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.785989820600906
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, representing a low-emissions future with a peak in radiative forcing at 3.1 W/m\u00b2 before 2100 and then declining",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6844289823960926
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, representing a medium-emissions future with a peak in radiative forcing at 4.5 W/m\u00b2 in 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6366674390708049
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, representing a high-emissions future with a peak in radiative forcing at 8.5 W/m\u00b2 in 2100",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.7169645464800568
+    }
+  ],
+  "(30095, 32764)": [
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A climate change scenario used in the Representative Concentration Pathways, representing a moderate increase in greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6163495818610996
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A climate change scenario used in the Representative Concentration Pathways, representing a high increase in greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6735654361468078
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coasts of Norway and Russia",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8204393922424663
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An autonomous territory within the Kingdom of Denmark, known for its significant ice sheet and influence on global sea levels",
+      "uuid": "f08d8e34-01db-4e89-a840-336432d18ecb",
+      "score": 0.7691213332893376
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A part of the Atlantic Ocean, extending north of the equator, playing a significant role in global climate variability",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7319307451363016
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and shallowest of the world's five oceans, surrounding the North Pole and influencing global climate patterns",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.722967450341682
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A global climate model developed by the European Consortium for Earth System Modelling, used for simulating and predicting climate change",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.769625364869761
+    },
+    {
+      "name": "SLP",
+      "label": "variable",
+      "description": "Sea Level Pressure, a measure of atmospheric pressure at sea level, used in climate and weather studies",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.717591699218693
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the hydrological cycle and climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6669005331685466
+    },
+    {
+      "name": "ERA-Interim reanalysis",
+      "label": "dataset",
+      "description": "A global atmospheric reanalysis dataset, providing a consistent and comprehensive record of atmospheric conditions",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7840020751313982
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States, located in the northwest corner of North America, known for its cold and varied climate",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7406460971686737
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a global climate model used for simulating and predicting climate change",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.786798401533574
+    }
+  ],
+  "(32348, 34723)": [
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The northernmost region of the Earth, characterized by its cold climate and unique ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7913961113785096
+    },
+    {
+      "name": "Nordic Seas",
+      "label": "location",
+      "description": "A part of the North Atlantic Ocean located near Norway, playing a role in regional climate patterns",
+      "uuid": "91dd3935-a1ae-48ca-b263-9b10ac732372",
+      "score": 0.660141586468501
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coasts of Norway and Russia",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8204393922424663
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "The world's largest island, located between the Arctic and Atlantic Oceans, with a significant impact on global climate due to its ice sheet",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.716785186451033
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States, located in the northwest corner of North America, known for its diverse and extreme climate conditions",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7417738838463909
+    },
+    {
+      "name": "Beaufort Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located north of Canada and Alaska, known for its harsh climate and sea ice cover",
+      "uuid": "86ed3782-8e30-4547-a774-35100b224d5a",
+      "score": 0.827571837232963
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A low-emissions scenario used in climate modeling to predict future climate changes, assuming significant reductions in greenhouse gas emissions",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6727326633264772
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A medium-emissions scenario used in climate modeling to predict future climate changes, assuming moderate reductions in greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6225269254182879
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario used in climate modeling to predict future climate changes, assuming little to no reductions in greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6695040383452876
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A climate model used for simulating the Earth's climate system, developed by the European Consortium for Earth System Modelling",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7718188825625739
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model developed by the National Center for Atmospheric Research",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7995095792639241
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to Earth's surface, including rain, snow, and other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6885836931283729
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, an important component of the Earth's water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.7065586310051094
+    },
+    {
+      "name": "cloud fraction",
+      "label": "variable",
+      "description": "The proportion of the sky covered by clouds, which plays a significant role in regulating the Earth's climate",
+      "uuid": "b296b688-0ff0-4212-9b30-30e9fe413709",
+      "score": 0.7458149753816693
+    },
+    {
+      "name": "ice edge",
+      "label": "location",
+      "description": "The boundary between sea ice and open water in polar regions, which affects local climate conditions and marine ecosystems",
+      "uuid": "f4c1a555-4758-47ce-baa6-536730333833",
+      "score": 0.6792675282997216
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "Areas of the Earth's surface that are not covered by water, including continents, islands, and other terrestrial regions",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6293197658493485
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and coldest of the world's five oceans, surrounding the North Pole and playing a crucial role in global ocean circulation and climate regulation",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.7561813189960238
+    },
+    {
+      "name": "ensemble means",
+      "label": "variable",
+      "description": "The average value of a set of model simulations, used to quantify the uncertainty and variability in climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5403463967803703
+    },
+    {
+      "name": "clouds",
+      "label": "variable",
+      "description": "Visible masses of water droplets or ice crystals suspended in the atmosphere, which influence the Earth's climate by reflecting sunlight and trapping heat",
+      "uuid": "162e2243-3266-4999-b352-d8a1a9dc82ac",
+      "score": 0.6870227831592136
+    },
+    {
+      "name": "liquid water path",
+      "label": "variable",
+      "description": "The amount of liquid water present in clouds, which affects the Earth's energy balance and climate",
+      "uuid": "3e0e1ef8-1172-4509-898e-4374feeba700",
+      "score": 0.6789246443793159
+    },
+    {
+      "name": "ice water path",
+      "label": "variable",
+      "description": "The amount of ice present in clouds, which influences the Earth's climate by affecting the amount of solar radiation that is reflected back into space",
+      "uuid": "7ec9473a-0d08-4fb1-b2e8-b83d590d710c",
+      "score": 0.7464838905341664
+    },
+    {
+      "name": "longwave",
+      "label": "variable",
+      "description": "A type of electromagnetic radiation with a long wavelength, which plays a role in the Earth's energy balance and climate",
+      "uuid": "68323795-3614-462f-8259-bd5293620799",
+      "score": 0.693663281825845
+    }
+  ],
+  "(34366, 36714)": [
+    {
+      "name": "clouds",
+      "label": "variable",
+      "description": "A collection of water droplets or ice crystals suspended in the atmosphere, playing a significant role in Earth's climate system",
+      "uuid": "162e2243-3266-4999-b352-d8a1a9dc82ac",
+      "score": 0.7061754924820729
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A climate model used to simulate and study the Earth's climate system, including atmospheric and oceanic processes",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7910367009373537
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, characterized by cold temperatures, sea ice, and unique climate conditions",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7517785430149555
+    },
+    {
+      "name": "ERA-Interim",
+      "label": "model",
+      "description": "A global atmospheric reanalysis model produced by the European Centre for Medium-Range Weather Forecasts, used for climate research and weather forecasting",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7945449153419962
+    },
+    {
+      "name": "cloud water path",
+      "label": "variable",
+      "description": "A measure of the total amount of water in clouds, including both liquid and ice phases",
+      "uuid": "db0ff132-48ed-429b-b7e7-6a173b380421",
+      "score": 0.7346005793505952
+    },
+    {
+      "name": "liquid water path",
+      "label": "variable",
+      "description": "The amount of liquid water present in clouds, influencing cloud optical properties and radiative effects",
+      "uuid": "3e0e1ef8-1172-4509-898e-4374feeba700",
+      "score": 0.7014226202804678
+    },
+    {
+      "name": "ice water path",
+      "label": "variable",
+      "description": "The amount of ice present in clouds, affecting cloud radiative properties and climate processes",
+      "uuid": "7ec9473a-0d08-4fb1-b2e8-b83d590d710c",
+      "score": 0.7632533269007615
+    },
+    {
+      "name": "sea-ice",
+      "label": "variable",
+      "description": "Frozen seawater, playing a crucial role in the Earth's climate system, particularly in polar regions",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7857329298760942
+    },
+    {
+      "name": "cloud fraction",
+      "label": "variable",
+      "description": "The proportion of the sky covered by clouds, influencing the Earth's energy balance and climate",
+      "uuid": "b296b688-0ff0-4212-9b30-30e9fe413709",
+      "score": 0.7417011088651668
+    },
+    {
+      "name": "Barents Sea region",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coasts of Norway and Russia, known for its unique oceanographic and climate characteristics",
+      "uuid": "ff04d3c5-d89a-436a-ae78-c6bb7a2320b0",
+      "score": 0.826601907429458
+    },
+    {
+      "name": "latitude",
+      "label": "variable",
+      "description": "A measure of the distance north or south of the Earth's equator, used to describe geographic locations and climate patterns",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6959623819184206
+    },
+    {
+      "name": "RCP emission scenario",
+      "label": "experiment",
+      "description": "A set of greenhouse gas concentration trajectories used in climate modeling to project future climate changes",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5698593588559325
+    }
+  ],
+  "(36245, 38833)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A climate model developed by the European Consortium for Earth System Modelling, used for simulating and predicting climate changes",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7748860075358591
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea located off the northern coasts of Norway and Russia, known for its significant role in Arctic climate variability",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8189035451748662
+    },
+    {
+      "name": "sea-ice",
+      "label": "variable",
+      "description": "The floating ice cover on the surface of the ocean, playing a crucial role in regulating Earth's climate and weather patterns",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7755473630150799
+    },
+    {
+      "name": "cloud fraction",
+      "label": "variable",
+      "description": "The proportion of the sky covered by clouds, an important factor in determining the Earth's energy balance and climate",
+      "uuid": "b296b688-0ff0-4212-9b30-30e9fe413709",
+      "score": 0.7373502156976264
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028232342314525
+    },
+    {
+      "name": "SRES A1B",
+      "label": "experiment",
+      "description": "A scenario from the Special Report on Emissions Scenarios, describing a future world with rapid economic growth and a balanced energy mix",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5336235129157008
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, describing a future world with high greenhouse gas emissions and significant climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6787567469148198
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, describing a future world with moderate greenhouse gas emissions and climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6257979973452885
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, describing a future world with low greenhouse gas emissions and limited climate change",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6763673518585039
+    }
+  ],
+  "(38430, 40823)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A global climate model used for simulating Earth's climate system, developed by the European Consortium for Earth System Modelling",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7619655754790317
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario used in climate modeling, representing a low greenhouse gas emission pathway",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6725136842439559
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario used in climate modeling, representing a medium greenhouse gas emission pathway",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6263274161141998
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario used in climate modeling, representing a high greenhouse gas emission pathway",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.678231069853952
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, characterized by cold temperatures, sea ice, and unique ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7689073285244333
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea located off the northern coasts of Europe and Asia, known for its role in regional climate and ocean circulation",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.7886766467568385
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, encompassing a wide range of climates and ecosystems",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7660047142471073
+    },
+    {
+      "name": "cloud",
+      "label": "variable",
+      "description": "A collection of water droplets or ice crystals suspended in the atmosphere, influencing Earth's climate through radiative effects",
+      "uuid": "1c08d8f3-f733-41d8-a01b-2f4044043224",
+      "score": 0.6878271801847812
+    },
+    {
+      "name": "sea-ice",
+      "label": "variable",
+      "description": "Frozen seawater that floats on the surface of the ocean, playing a crucial role in Earth's climate system",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7813902652083001
+    },
+    {
+      "name": "cloud albedo",
+      "label": "variable",
+      "description": "The measure of how much sunlight is reflected by clouds, influencing the amount of solar radiation that reaches the Earth's surface",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7643399388756833
+    },
+    {
+      "name": "surface albedo",
+      "label": "variable",
+      "description": "The measure of how much sunlight is reflected by the Earth's surface, influencing the amount of solar radiation that is absorbed",
+      "uuid": "5395e33c-02cb-4027-b425-e771eab13610",
+      "score": 0.7490365086982683
+    },
+    {
+      "name": "LW CRF",
+      "label": "variable",
+      "description": "The longwave cloud radiative forcing, a measure of the impact of clouds on the Earth's energy balance",
+      "uuid": "345ab082-59ac-4649-9a2a-a3bef0d26a06",
+      "score": 0.6576320294055414
+    },
+    {
+      "name": "SW CRF",
+      "label": "variable",
+      "description": "The shortwave cloud radiative forcing, a measure of the impact of clouds on the Earth's energy balance",
+      "uuid": "345ab082-59ac-4649-9a2a-a3bef0d26a06",
+      "score": 0.6679532577483134
+    },
+    {
+      "name": "cloud fraction",
+      "label": "variable",
+      "description": "The proportion of the sky covered by clouds, influencing the amount of solar radiation that reaches the Earth's surface",
+      "uuid": "b296b688-0ff0-4212-9b30-30e9fe413709",
+      "score": 0.7306388053214371
+    },
+    {
+      "name": "high-level clouds",
+      "label": "variable",
+      "description": "Clouds that form at high altitudes, typically above 6,500 meters, influencing the Earth's climate through radiative effects",
+      "uuid": "705cd3a0-ea07-40c8-bfa1-9c26f22d13ba",
+      "score": 0.6306968960233521
+    },
+    {
+      "name": "low-level clouds",
+      "label": "variable",
+      "description": "Clouds that form at low altitudes, typically below 6,500 meters, influencing the Earth's climate through radiative effects",
+      "uuid": "20365b0a-f8df-437a-8b31-25557f7b4d82",
+      "score": 0.5797278114842629
+    }
+  ],
+  "(40444, 43029)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A European climate model used for simulating and predicting Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.782104800909007
+    },
+    {
+      "name": "ERA-Interim",
+      "label": "model",
+      "description": "A global atmospheric reanalysis model developed by the European Centre for Medium-Range Weather Forecasts, providing historical climate data",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.8096892337785588
+    },
+    {
+      "name": "NCEP-NCAR reanalysis",
+      "label": "project",
+      "description": "A collaborative project between the National Centers for Environmental Prediction and the National Center for Atmospheric Research to provide historical climate data through reanalysis",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.6143409710216552
+    },
+    {
+      "name": "rawinsonde measurements",
+      "label": "instrument",
+      "description": "A type of weather observation that uses balloons to measure atmospheric conditions such as temperature, humidity, and wind",
+      "uuid": "ab3f8fdd-fec8-4c56-b9e4-481f93cb85b9",
+      "score": 0.6304057120708505
+    },
+    {
+      "name": "specific humidity",
+      "label": "variable",
+      "description": "A measure of the mass of water vapor in a given mass of air, important for understanding atmospheric moisture and climate processes",
+      "uuid": "811391d2-4113-4d52-9c88-47d56afda481",
+      "score": 0.7979709843273224
+    },
+    {
+      "name": "latent heat of condensation",
+      "label": "variable",
+      "description": "The amount of heat released or absorbed during the process of condensation, influencing the Earth's energy balance and climate",
+      "uuid": "9985d211-1056-4a7a-a1c8-550923ea5a81",
+      "score": 0.6051648763374481
+    },
+    {
+      "name": "surface pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the atmosphere at the Earth's surface, an important factor in weather and climate patterns",
+      "uuid": "b54de5cd-4475-4c7b-acbc-4eb529b9396e",
+      "score": 0.7062452057844901
+    },
+    {
+      "name": "geopotential height",
+      "label": "variable",
+      "description": "A measure of the height of a point in the atmosphere, taking into account both the actual height and the gravitational potential energy",
+      "uuid": "afa85e48-5967-45f0-aeab-cdf73d1d23a8",
+      "score": 0.7702224907315927
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, characterized by cold temperatures, ice, and unique climate conditions",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7400683553336822
+    },
+    {
+      "name": "ensemble means",
+      "label": "experiment",
+      "description": "A statistical method used in climate modeling to combine the results of multiple simulations, reducing uncertainty and improving predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5788795935907741
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling to predict future climate changes based on a specific level of greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6253214644584871
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling to predict future climate changes based on a high level of greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.678765293513097
+    },
+    {
+      "name": "reference salinity",
+      "label": "variable",
+      "description": "A standard value of salinity used as a reference point for measuring changes in ocean salinity",
+      "uuid": "1a4e5774-7d4a-4ce7-9a4c-e2c72c8c377f",
+      "score": 0.5905126194150114
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, influencing climate and weather patterns",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6942097886393145
+    },
+    {
+      "name": "condensation",
+      "label": "process",
+      "description": "The process by which water vapor in the air is changed into liquid water, releasing heat and influencing the Earth's energy balance",
+      "uuid": "d7fbbafe-fc73-4b63-9837-3d53d2370d9d",
+      "score": 0.7041983751655648
+    }
+  ],
+  "(42591, 45150)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A comprehensive Earth system model developed by the European Consortium for Earth System Modelling, used for climate simulations and predictions",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7854324446431584
+    },
+    {
+      "name": "ocean surface",
+      "label": "location",
+      "description": "The surface layer of the ocean, playing a crucial role in global climate regulation through interactions with the atmosphere",
+      "uuid": "5810d615-a3fc-4f79-947a-bae456b728c2",
+      "score": 0.5856607544058391
+    },
+    {
+      "name": "ice area",
+      "label": "location",
+      "description": "Regions covered by sea ice, which influence Earth's climate by reflecting sunlight and affecting ocean currents",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.6827852780996052
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and shallowest of the world's five oceans, located in the northernmost part of the world and playing a significant role in global climate patterns",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.7339113721874542
+    },
+    {
+      "name": "Arctic Ocean circulation",
+      "label": "ocean circulation",
+      "description": "The movement of water masses in the Arctic Ocean, driven by wind, density differences, and the Coriolis effect, which regulates Earth's climate",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.5645492610694426
+    },
+    {
+      "name": "Beaufort Gyre",
+      "label": "ocean circulation",
+      "description": "A large-scale circulation pattern in the Arctic Ocean, characterized by a clockwise rotation of ocean currents",
+      "uuid": "fc0a6bb2-27f0-48e8-89f1-ebfc7ccd4823",
+      "score": 0.553019760089104
+    },
+    {
+      "name": "transpolar currents",
+      "label": "ocean circulation",
+      "description": "Ocean currents that flow across the polar regions, playing a key role in the global thermohaline circulation and climate regulation",
+      "uuid": "510c5f78-e19e-4ce4-b59a-8937aeb84631",
+      "score": 0.5252450571381662
+    },
+    {
+      "name": "Fram Strait",
+      "label": "location",
+      "description": "A strait located between Greenland and Svalbard, connecting the Arctic Ocean to the North Atlantic and influencing ocean circulation and climate",
+      "uuid": "aae8d964-6870-45ea-9fff-8c1b580d614d",
+      "score": 0.7940426282652073
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coasts of Norway and Russia, and playing a role in regional climate patterns",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8133255382042538
+    },
+    {
+      "name": "Bering Strait",
+      "label": "location",
+      "description": "A strait connecting the Pacific and Arctic Oceans, separating Asia from North America and influencing global ocean circulation and climate",
+      "uuid": "bd16fdb1-ead7-41bc-981b-9ed725dd8f7f",
+      "score": 0.7859812388347335
+    },
+    {
+      "name": "Canadian Archipelago",
+      "label": "location",
+      "description": "A group of islands in the Arctic Ocean, located north of Canada, and influencing regional ocean currents and climate patterns",
+      "uuid": "cbd0d3aa-ef63-4920-bd0d-75ca27cf6066",
+      "score": 0.7511605472489258
+    },
+    {
+      "name": "ensemble means",
+      "label": "experiment",
+      "description": "A statistical method used in climate modeling to combine the results of multiple simulations, reducing uncertainty and improving predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5788795935907741
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, describing a possible future climate trajectory with moderate greenhouse gas emissions and mitigation efforts",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6327622028045846
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, describing a possible future climate trajectory with high greenhouse gas emissions and minimal mitigation efforts",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6802938581820633
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, describing a possible future climate trajectory with low greenhouse gas emissions and strong mitigation efforts",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6841638804518673
+    },
+    {
+      "name": "ocean heat transport",
+      "label": "variable",
+      "description": "The movement of heat through the ocean, playing a crucial role in global climate regulation and regional weather patterns",
+      "uuid": "299923f8-d5cd-47bf-abd4-6135ef0d7b1a",
+      "score": 0.6157595073909282
+    },
+    {
+      "name": "surface albedo",
+      "label": "variable",
+      "description": "The measure of the amount of sunlight reflected by the Earth's surface, influencing the planet's energy balance and climate",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7573762044428615
+    },
+    {
+      "name": "reference salinity",
+      "label": "variable",
+      "description": "A standard value of salinity used as a reference point in oceanographic studies, typically around 34.9 psu",
+      "uuid": "1a4e5774-7d4a-4ce7-9a4c-e2c72c8c377f",
+      "score": 0.5830141792101663
+    }
+  ],
+  "(44821, 47404)": [
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A scenario of the Representative Concentration Pathways, representing a low greenhouse gas emission pathway",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6723548831623138
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario of the Representative Concentration Pathways, representing a high greenhouse gas emission pathway",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6874487939729363
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario of the Representative Concentration Pathways, representing a medium greenhouse gas emission pathway",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.63423167676356
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A global climate model that integrates physical, chemical, and biological processes to simulate Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7527297519435779
+    },
+    {
+      "name": "World Ocean Atlas 2009",
+      "label": "dataset",
+      "description": "A comprehensive dataset providing information on the physical and chemical properties of the world's oceans",
+      "uuid": "a71f951c-7865-4994-8302-ae8581bc4888",
+      "score": 0.5497439046440337
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A floating ice cover on the surface of the ocean, playing a crucial role in the Earth's climate system",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7645716309333697
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coasts of Norway and Russia",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8204393922424663
+    },
+    {
+      "name": "Nordic Seas",
+      "label": "location",
+      "description": "A region of the North Atlantic Ocean, located between Norway, Iceland, and Greenland",
+      "uuid": "d366e721-8a65-478c-a84a-b2101a417416",
+      "score": 0.6549490100446334
+    },
+    {
+      "name": "CCSM4 model",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a global climate model used for simulating and predicting Earth's climate",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7826152814289715
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and coldest of the world's five oceans, surrounding the North Pole and playing a significant role in global climate regulation",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.7486374555534169
+    },
+    {
+      "name": "Chukchi Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located between Alaska and Russia",
+      "uuid": "7e35ea67-a0c9-49fa-97de-e5f8f5b9ee6d",
+      "score": 0.7987293249646048
+    },
+    {
+      "name": "Beaufort Gyre",
+      "label": "ocean circulation",
+      "description": "A large-scale circulation pattern in the Arctic Ocean, characterized by a clockwise rotation of water masses",
+      "uuid": "fc0a6bb2-27f0-48e8-89f1-ebfc7ccd4823",
+      "score": 0.5380995831158476
+    }
+  ],
+  "(46999, 49790)": [
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and coldest of the world's five oceans, located in the northernmost part of the world, playing a crucial role in global climate regulation",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.7572935601728203
+    },
+    {
+      "name": "Arctic Ocean freshwater budget",
+      "label": "project",
+      "description": "A study or initiative focused on understanding and quantifying the freshwater components and fluxes within the Arctic Ocean",
+      "uuid": "bdd42024-d1a4-4fb2-a16a-06ac0cc1dedc",
+      "score": 0.5429138698701585
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A European Earth system model used for climate simulations and predictions, integrating various components of the Earth's system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.800440139225298
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used for simulating the Earth's climate system and its components",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.8023604362647638
+    },
+    {
+      "name": "river runoff",
+      "label": "variable",
+      "description": "The flow of water from land into rivers, lakes, and oceans, an important component of the Earth's hydrological cycle",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7119941521399797
+    },
+    {
+      "name": "Fram Strait",
+      "label": "location",
+      "description": "A strait located between Greenland and the Svalbard archipelago, connecting the Arctic Ocean to the North Atlantic Ocean",
+      "uuid": "aae8d964-6870-45ea-9fff-8c1b580d614d",
+      "score": 0.7760497755455107
+    },
+    {
+      "name": "Canadian Archipelago",
+      "label": "location",
+      "description": "A group of islands in the Arctic Ocean, part of Canada, influencing ocean currents and climate patterns in the region",
+      "uuid": "cbd0d3aa-ef63-4920-bd0d-75ca27cf6066",
+      "score": 0.7412261800626149
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coasts of Norway and Russia, known for its significant role in ocean circulation and climate regulation",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8369236427058944
+    },
+    {
+      "name": "Bering Strait",
+      "label": "location",
+      "description": "A strait connecting the Pacific and Arctic Oceans, between Asia and North America, playing a crucial role in global ocean circulation and climate patterns",
+      "uuid": "bd16fdb1-ead7-41bc-981b-9ed725dd8f7f",
+      "score": 0.8273069065830632
+    },
+    {
+      "name": "reference salinity",
+      "label": "variable",
+      "description": "A standard or baseline value of salinity used for comparison or calculation in oceanographic studies",
+      "uuid": "1a4e5774-7d4a-4ce7-9a4c-e2c72c8c377f",
+      "score": 0.5664465059859085
+    },
+    {
+      "name": "ocean heat transport",
+      "label": "variable",
+      "description": "The movement of heat through the ocean, an important process influencing global climate patterns and ocean circulation",
+      "uuid": "299923f8-d5cd-47bf-abd4-6135ef0d7b1a",
+      "score": 0.6075220240898049
+    },
+    {
+      "name": "high surface salinity",
+      "label": "variable",
+      "description": "A condition characterized by higher-than-average salinity levels at the surface of the ocean, which can affect ocean circulation and climate",
+      "uuid": "1d8525f0-0cfc-4d59-8677-da5c8038deb7",
+      "score": 0.6161775791068723
+    },
+    {
+      "name": "heat transport",
+      "label": "variable",
+      "description": "The transfer of heat energy through the ocean, atmosphere, or other media, playing a crucial role in shaping climate patterns and weather phenomena",
+      "uuid": "299923f8-d5cd-47bf-abd4-6135ef0d7b1a",
+      "score": 0.5850129703849227
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future climate change based on different levels of greenhouse gas emissions",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5611590511898081
+    }
+  ],
+  "(49331, 51827)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A global climate model used for simulating Earth's climate system, developed by the European Consortium for Earth System Modelling",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7619655754790317
+    },
+    {
+      "name": "ocean heat content",
+      "label": "variable",
+      "description": "A measure of the total heat stored in the ocean, influencing climate patterns and ocean circulation",
+      "uuid": "63bc0693-52eb-4ebd-a39e-e77e96409072",
+      "score": 0.5768785378597192
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and shallowest of the world's five oceans, located in the northernmost part of the world and playing a significant role in global climate regulation",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.7429513283855095
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea located off the northern coasts of Norway and Russia, known for its role in the Arctic climate system",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8178868854369732
+    },
+    {
+      "name": "Fram Strait",
+      "label": "location",
+      "description": "A narrow waterway between Greenland and Svalbard, connecting the Arctic and Atlantic Oceans and playing a crucial role in ocean heat transport",
+      "uuid": "aae8d964-6870-45ea-9fff-8c1b580d614d",
+      "score": 0.7956997237822131
+    },
+    {
+      "name": "Canadian Archipelago",
+      "label": "location",
+      "description": "A group of islands in the Arctic Ocean, north of Canada, influencing local climate and ocean currents",
+      "uuid": "cbd0d3aa-ef63-4920-bd0d-75ca27cf6066",
+      "score": 0.7328951603558601
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An autonomous territory within the Kingdom of Denmark, located between the Arctic and Atlantic Oceans and known for its significant ice sheet and climate impact",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.8109733945434079
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, playing a crucial role in climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6256774910133359
+    },
+    {
+      "name": "heat flux",
+      "label": "variable",
+      "description": "The rate of heat transfer per unit area, often used to study energy balance and climate dynamics",
+      "uuid": "49fd6f11-5682-4d27-8fc6-66bf3faadf39",
+      "score": 0.7070764076986523
+    },
+    {
+      "name": "ocean heat transport",
+      "label": "ocean circulation",
+      "description": "The movement of heat through the ocean, driven by currents and playing a key role in global climate regulation",
+      "uuid": "299923f8-d5cd-47bf-abd4-6135ef0d7b1a",
+      "score": 0.6170973916972843
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas concentrations and emissions, used in climate modeling to predict future climate changes",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.665321606074429
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas concentrations and emissions, used in climate modeling to predict future climate changes",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6203477753109711
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas concentrations and emissions, used in climate modeling to predict future climate changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6681350966737047
+    }
+  ],
+  "(51394, 54156)": [
+    {
+      "name": "heat flux",
+      "label": "variable",
+      "description": "The flow of heat energy through a given area, often used to describe the movement of heat in the ocean or atmosphere",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.7101719223113454
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A global coupled climate model used for simulating and predicting Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7623553503209535
+    },
+    {
+      "name": "Fram Strait",
+      "label": "location",
+      "description": "A narrow waterway between Greenland and the Svalbard archipelago, connecting the Arctic Ocean to the North Atlantic Ocean",
+      "uuid": "aae8d964-6870-45ea-9fff-8c1b580d614d",
+      "score": 0.7595033171121504
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located north of Norway and Russia, known for its role in ocean heat transport and climate regulation",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8168651617539968
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, influencing climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6283499920751152
+    },
+    {
+      "name": "Barents and Kara Sea region",
+      "label": "location",
+      "description": "A region in the Arctic Ocean, encompassing the Barents and Kara Seas, important for sea ice formation and ocean heat transport",
+      "uuid": "ff04d3c5-d89a-436a-ae78-c6bb7a2320b0",
+      "score": 0.6522977013689369
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A layer of frozen seawater floating on the surface of the ocean, playing a crucial role in Earth's climate system",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7776118365190072
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a global coupled climate model used for simulating Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7907482063955509
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, describing a possible future climate trajectory with a radiative forcing of 4.5 W/m^2 by 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6456812632817825
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, describing a possible future climate trajectory with a radiative forcing of 8.5 W/m^2 by 2100",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.7207852853274829
+    },
+    {
+      "name": "Nordic Seas",
+      "label": "location",
+      "description": "A region of the North Atlantic Ocean, located off the coast of Norway, known for its role in ocean circulation and climate regulation",
+      "uuid": "d366e721-8a65-478c-a84a-b2101a417416",
+      "score": 0.6936704230795492
+    },
+    {
+      "name": "Kara Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the coast of Russia, known for its role in ocean heat transport and climate regulation",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.6300560123553971
+    }
+  ],
+  "(53637, 56674)": [
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A global coupled climate model used for simulating and predicting Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7623553503209535
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "A region located at the northernmost tip of the Earth, characterized by cold temperatures and sea ice coverage",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.786393932191582
+    },
+    {
+      "name": "atmospheric CO2 concentration",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the Earth's atmosphere, influencing the greenhouse effect and climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6262559480157663
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A low emission scenario used in climate modeling to predict future climate changes based on reduced greenhouse gas emissions",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6724107144052444
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high emission scenario used in climate modeling to predict future climate changes based on high greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6770097901235159
+    },
+    {
+      "name": "Barents Sea",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coasts of Norway and Russia",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.8204393922424663
+    },
+    {
+      "name": "Barents Sea region",
+      "label": "location",
+      "description": "A geographic area surrounding the Barents Sea, known for its significant role in Arctic climate dynamics",
+      "uuid": "ff04d3c5-d89a-436a-ae78-c6bb7a2320b0",
+      "score": 0.700920502673218
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A floating ice cover on the Arctic Ocean, influencing climate, ocean currents, and marine ecosystems",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7079892845846073
+    },
+    {
+      "name": "SLP",
+      "label": "variable",
+      "description": "Sea Level Pressure, a measure of atmospheric pressure at sea level, influencing weather patterns and climate",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.7017008572657178
+    },
+    {
+      "name": "Nordic Seas",
+      "label": "location",
+      "description": "A region of the North Atlantic Ocean, located between Norway, Iceland, and Greenland, playing a role in ocean heat transport and climate regulation",
+      "uuid": "d366e721-8a65-478c-a84a-b2101a417416",
+      "score": 0.668429619776246
+    },
+    {
+      "name": "Western Europe",
+      "label": "location",
+      "description": "A region of Europe, including countries such as the UK, France, and Germany, influenced by climate changes in the Arctic",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.6653999289713429
+    },
+    {
+      "name": "Kara Seas",
+      "label": "location",
+      "description": "A marginal sea of the Arctic Ocean, located off the northern coast of Russia",
+      "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+      "score": 0.6024162619557248
+    },
+    {
+      "name": "Barents and Kara Seas region",
+      "label": "location",
+      "description": "A geographic area surrounding the Barents and Kara Seas, known for its significant role in Arctic climate dynamics and ocean heat transport",
+      "uuid": "ff04d3c5-d89a-436a-ae78-c6bb7a2320b0",
+      "score": 0.6285985015643145
+    },
+    {
+      "name": "upper ocean currents",
+      "label": "ocean circulation",
+      "description": "The movement of water in the upper layers of the ocean, influencing climate, marine ecosystems, and ocean heat transport",
+      "uuid": "510c5f78-e19e-4ce4-b59a-8937aeb84631",
+      "score": 0.5920408949932365
+    },
+    {
+      "name": "heat flux",
+      "label": "variable",
+      "description": "The transfer of heat energy through the ocean or atmosphere, influencing climate and ocean currents",
+      "uuid": "ae1c9b54-caf2-4726-b180-5c6544f09111",
+      "score": 0.7330252028099504
+    },
+    {
+      "name": "latent and sensible heat fluxes",
+      "label": "variable",
+      "description": "Measures of heat transfer through evaporation and conduction, influencing climate and ocean currents",
+      "uuid": "c7dc02a5-0db0-43cf-ac7a-8768b7ddda5f",
+      "score": 0.6913857650469806
+    },
+    {
+      "name": "cloud fraction",
+      "label": "variable",
+      "description": "The proportion of the sky covered by clouds, influencing climate, radiation, and precipitation patterns",
+      "uuid": "b296b688-0ff0-4212-9b30-30e9fe413709",
+      "score": 0.7345587519470443
+    },
+    {
+      "name": "low-level clouds",
+      "label": "variable",
+      "description": "Clouds that form at low altitudes, influencing climate, radiation, and precipitation patterns",
+      "uuid": "3375096a-7782-42e8-97d2-0febf63893e0",
+      "score": 0.5507801363161707
+    },
+    {
+      "name": "high-level clouds",
+      "label": "variable",
+      "description": "Clouds that form at high altitudes, influencing climate, radiation, and precipitation patterns",
+      "uuid": "705cd3a0-ea07-40c8-bfa1-9c26f22d13ba",
+      "score": 0.6033706773024924
+    },
+    {
+      "name": "total atmospheric energy flux",
+      "label": "variable",
+      "description": "The total amount of energy transferred through the atmosphere, influencing climate and weather patterns",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.5425325027207946
+    }
+  ],
+  "(56191, 58584)": [
+    {
+      "name": "Barents Sea Opening",
+      "label": "location",
+      "description": "A strait connecting the Barents Sea to the Arctic Ocean, playing a significant role in ocean currents and climate regulation in the region",
+      "uuid": "96d9740b-fabd-48eb-8852-57566ba83ce3",
+      "score": 0.7675396411188536
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and shallowest of the world's five oceanic divisions, surrounding the North Pole and influencing global climate patterns",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.715103364348227
+    },
+    {
+      "name": "Barents and Kara Seas region",
+      "label": "location",
+      "description": "A subarctic region located in the Arctic Ocean, characterized by its unique oceanography and vulnerability to climate change",
+      "uuid": "ff04d3c5-d89a-436a-ae78-c6bb7a2320b0",
+      "score": 0.6745288800153475
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A European climate model used for simulating and predicting Earth's climate system, developed by the EC-Earth consortium",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7814362115012209
+    },
+    {
+      "name": "heat flux",
+      "label": "variable",
+      "description": "The flow of heat energy through a given surface, often used to study climate dynamics and energy balance",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.7264211072832055
+    },
+    {
+      "name": "atmospheric energy flux",
+      "label": "variable",
+      "description": "The transfer of energy through the atmosphere, influencing climate patterns and weather phenomena",
+      "uuid": "49fd6f11-5682-4d27-8fc6-66bf3faadf39",
+      "score": 0.5760663811072798
+    },
+    {
+      "name": "upper ocean currents",
+      "label": "ocean circulation",
+      "description": "The movement of water in the upper layers of the ocean, driven by wind, tides, and thermohaline circulation",
+      "uuid": "510c5f78-e19e-4ce4-b59a-8937aeb84631",
+      "score": 0.6195610853293652
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario assuming a low greenhouse gas emission trajectory, used for climate modeling and prediction",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6755872186288947
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario assuming a moderate greenhouse gas emission trajectory, used for climate modeling and prediction",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6246335126231894
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario assuming a high greenhouse gas emission trajectory, used for climate modeling and prediction",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6868671894672007
+    },
+    {
+      "name": "SMHI",
+      "label": "provider",
+      "description": "The Swedish Meteorological and Hydrological Institute, a government agency responsible for weather forecasting, climate research, and hydrological monitoring",
+      "uuid": "e87a9997-f0b1-4017-bd9c-2ef105616900",
+      "score": 0.6393381474029862
+    },
+    {
+      "name": "ADSIMNOR",
+      "label": "project",
+      "description": "A research project focused on climate modeling and simulation, financed by the Swedish Research Council Formas",
+      "uuid": "280ad0d1-f0eb-4e36-acd3-882ea19e1713",
+      "score": 0.5438501454113733
+    },
+    {
+      "name": "Creative Commons Attribution License",
+      "label": "platform",
+      "description": "A public license that allows for the free use, distribution, and reproduction of creative works, provided the original author and source are credited",
+      "uuid": "95c7e601-fcfe-4fc9-9994-8105a1e11428",
+      "score": 0.6902101462159748
+    }
+  ]
+}

@@ -1,0 +1,1797 @@
+{
+  "(0, 3126)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A semi-enclosed brackish sea in Northern Europe, suffering from eutrophication due to human impact",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.6750298442235533
+    },
+    {
+      "name": "eutrophication",
+      "label": "natural hazard",
+      "description": "A process by which a body of water becomes enriched with excess nutrients, leading to harmful algal blooms and decreased water quality",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.7570868349192024
+    },
+    {
+      "name": "global climate model",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6089730962471908
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, influencing weather and climate patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6235509636160989
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, influencing climate and biogeochemical cycles through human activities and natural processes",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6356532281638051
+    },
+    {
+      "name": "biogeochemical cycling",
+      "label": "process",
+      "description": "The movement of nutrients and elements through the environment, influenced by physical, chemical, and biological processes",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.695246629860887
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which plants and algae convert sunlight into organic matter, influencing the food chain and ecosystem health",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.8012687698199003
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, influencing ocean circulation and biogeochemical processes",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7295382989666402
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "The formation of ice on the surface of the ocean, influencing climate and biogeochemical processes",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7264467581153601
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water from land into bodies of water, influencing nutrient loads and biogeochemical cycles",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7113706225593623
+    },
+    {
+      "name": "warming climate",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability characterized by increasing global temperatures, influencing biogeochemical cycles and ecosystem health",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6226881273021708
+    }
+  ],
+  "(2666, 5180)": [
+    {
+      "name": "biogeochemical cycling",
+      "label": "variable",
+      "description": "The process by which living organisms and the environment interact to exchange and transform chemical elements, such as carbon, nitrogen, and oxygen",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.690840394253633
+    },
+    {
+      "name": "BACC II",
+      "label": "project",
+      "description": "The Second Assessment of Climate Change for the Baltic Sea Basin, a research project aimed at understanding climate change impacts on the region",
+      "uuid": "2a2bef31-8665-45e4-8ccc-625694e7a9de",
+      "score": 0.5399715226438208
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its unique ecosystem and environmental challenges",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7612079947578893
+    },
+    {
+      "name": "marine environment",
+      "label": "location",
+      "description": "The ecosystem and physical conditions of the ocean, including the water, seabed, and atmosphere that surrounds it",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.5938406321844499
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases that surrounds the Earth, playing a crucial role in regulating climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6210888689069429
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, including continents, islands, and the seabed",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6258904072633786
+    },
+    {
+      "name": "river flows",
+      "label": "variable",
+      "description": "The movement of water in rivers, which can be influenced by climate change, human activities, and other factors",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.5650947114970162
+    },
+    {
+      "name": "biogeochemical cycles sensitivity",
+      "label": "variable",
+      "description": "The responsiveness of biogeochemical processes to changes in environmental conditions, such as temperature, nutrient availability, and human activities",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.6104836424753476
+    },
+    {
+      "name": "marine ecosystem",
+      "label": "location",
+      "description": "The community of living organisms, including plants, animals, and microorganisms, that interact with each other and their environment in the ocean",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6482323915251479
+    },
+    {
+      "name": "global general circulation models",
+      "label": "model",
+      "description": "Complex computer simulations that represent the Earth's climate system, including the atmosphere, oceans, and land surfaces",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6740847484501563
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "The long-term warming of the planet, caused by human activities such as burning fossil fuels, deforestation, and other greenhouse gas emissions",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5447605866513
+    },
+    {
+      "name": "Baltic Sea region",
+      "label": "location",
+      "description": "The geographic area surrounding the Baltic Sea, including the coastal countries and the sea itself",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.6193779408888936
+    }
+  ],
+  "(4676, 7572)": [
+    {
+      "name": "Baltic Sea region",
+      "label": "location",
+      "description": "A region in Northern Europe surrounding the Baltic Sea, known for its unique ecosystem and sensitivity to climate change",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.6747519437137699
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "Shared Socio-economic Pathways",
+      "label": "experiment",
+      "description": "A set of scenarios used to estimate the impact of socio-economic changes on the environment and climate",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.6959642478105516
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7402139755674466
+    },
+    {
+      "name": "hydrological model",
+      "label": "model",
+      "description": "A computational representation of hydrological processes, used to simulate and predict water flow, nutrient transport, and other hydrological phenomena",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5428038306809454
+    },
+    {
+      "name": "ocean model",
+      "label": "model",
+      "description": "A computational representation of oceanic processes, used to simulate and predict ocean currents, temperature, and other oceanic phenomena",
+      "uuid": "c61a56a3-c08f-4989-92f3-0f0787688424",
+      "score": 0.5978490846047965
+    },
+    {
+      "name": "atmospheric forcing",
+      "label": "variable",
+      "description": "The influence of atmospheric conditions on other environmental systems, such as oceans and land surfaces",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5452012253241021
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7427916005314608
+    },
+    {
+      "name": "sediment",
+      "label": "variable",
+      "description": "Material that settles to the bottom of a body of water, often consisting of particles such as sand, silt, or clay",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6077139876677966
+    },
+    {
+      "name": "river flows",
+      "label": "variable",
+      "description": "The flow of water in rivers, often measured in terms of volume or velocity",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.5675000473930901
+    },
+    {
+      "name": "changing climate",
+      "label": "weather event",
+      "description": "A long-term change in the statistical distribution of weather patterns over a significant period, often referring to global warming or other large-scale climate phenomena",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5073741032304746
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A General Circulation Model, a type of climate model that simulates the general circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7652046190481605
+    },
+    {
+      "name": "Representative Concentration Pathways",
+      "label": "experiment",
+      "description": "A set of scenarios used to estimate the impact of different greenhouse gas emission pathways on the climate",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5018590923508429
+    }
+  ],
+  "(7146, 9699)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "Baltic Sea model",
+      "label": "model",
+      "description": "A three-dimensional physical-biogeochemical model for simulating the Baltic Sea's climate and ecosystem dynamics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5443453393350409
+    },
+    {
+      "name": "Baltic Sea area",
+      "label": "location",
+      "description": "A region of the Baltic Sea, a semi-enclosed brackish water body located in Northern Europe",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7092268680894421
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7402139755674466
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, influencing climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6283499920751152
+    },
+    {
+      "name": "sediment",
+      "label": "variable",
+      "description": "Material that settles to the bottom of a body of water, often studied in the context of oceanography and climate science",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6536695102708755
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface, often studied in the context of hydrology and climate science",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7830110087932114
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important property influencing ocean circulation and climate",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.727917400467263
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A chemical element essential for life, often studied in the context of oceanography and climate science",
+      "uuid": "90aa8838-79bd-4b28-b518-8217e863c385",
+      "score": 0.6685684356940469
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that live in the ocean and play a crucial role in the marine food chain and climate regulation",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6875808032001142
+    },
+    {
+      "name": "zooplankton",
+      "label": "variable",
+      "description": "Small animal-like organisms that live in the ocean and play a crucial role in the marine food chain and climate regulation",
+      "uuid": "0399b52c-e3de-4dcc-9eb6-b1e3acf2cf1b",
+      "score": 0.7055487207095464
+    },
+    {
+      "name": "nitrogen fixation",
+      "label": "variable",
+      "description": "The process by which certain organisms convert atmospheric nitrogen into a form that can be used by other organisms, often studied in the context of oceanography and climate science",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5980413224483274
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which phytoplankton convert sunlight into organic matter, often studied in the context of oceanography and climate science",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7796522740266731
+    },
+    {
+      "name": "concentrations",
+      "label": "variable",
+      "description": "The amount of a substance per unit volume or mass, often studied in the context of oceanography and climate science",
+      "uuid": "12ed4fa0-27cc-4e05-a2b7-bbf2fde871f6",
+      "score": 0.624134624019762
+    }
+  ],
+  "(9361, 11787)": [
+    {
+      "name": "MPI-ESM-LR",
+      "label": "model",
+      "description": "A global climate model developed by the Max Planck Institute for Meteorology, used for simulating climate scenarios",
+      "uuid": "4baeaba9-9381-4ed5-b7aa-75879bacbb03",
+      "score": 0.7446662752940985
+    },
+    {
+      "name": "RCA4-NEMO",
+      "label": "model",
+      "description": "A coupled atmosphere-ice-ocean model used for downscaling global climate models to regional scales",
+      "uuid": "1ecb106d-cd95-4680-b31d-7894e820f594",
+      "score": 0.5192091487960753
+    },
+    {
+      "name": "EURO-CORDEX",
+      "label": "project",
+      "description": "A European climate downscaling initiative, providing high-resolution climate projections for the European region",
+      "uuid": "68885007-d975-4f24-bdd5-dd19b246bdf6",
+      "score": 0.6710550370950815
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and influenced by regional climate patterns",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7960708010087909
+    },
+    {
+      "name": "Baltic Sea region",
+      "label": "location",
+      "description": "The geographical area surrounding the Baltic Sea, including parts of Northern Europe and the Baltic countries",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.6331578414373547
+    },
+    {
+      "name": "atmosphere",
+      "label": "variable",
+      "description": "The gaseous envelope surrounding the Earth, composed of various gases and influencing climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6489310074381465
+    },
+    {
+      "name": "sea level pressure",
+      "label": "variable",
+      "description": "The atmospheric pressure at sea level, an important factor in determining weather and climate patterns",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.7575388206610931
+    },
+    {
+      "name": "IPCCs Fifth Assessment Report",
+      "label": "project",
+      "description": "A comprehensive report by the Intergovernmental Panel on Climate Change, assessing the current state of climate change knowledge and providing projections for future climate scenarios",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5710291856474012
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future greenhouse gas concentrations and their impacts on the climate system",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.554970178189832
+    },
+    {
+      "name": "European Reanalysis and Observations for Monitoring",
+      "label": "project",
+      "description": "A European initiative for reanalyzing and monitoring climate and weather data, providing a consistent and reliable dataset for climate research",
+      "uuid": "32658d24-ab47-41b5-9614-2becccde8e55",
+      "score": 0.5824915881009348
+    },
+    {
+      "name": "Swedish Meteorological and Hydrological Institute",
+      "label": "provider",
+      "description": "A Swedish national agency responsible for meteorology, hydrology, and climate research, providing data and forecasts for the region",
+      "uuid": "e87a9997-f0b1-4017-bd9c-2ef105616900",
+      "score": 0.639925862729392
+    }
+  ],
+  "(11366, 14288)": [
+    {
+      "name": "Swedish Meteorological and Hydrological Institute",
+      "label": "provider",
+      "description": "The national weather service of Sweden, providing data, forecasts, and climate-related research",
+      "uuid": "e87a9997-f0b1-4017-bd9c-2ef105616900",
+      "score": 0.6210168403544124
+    },
+    {
+      "name": "RCM",
+      "label": "model",
+      "description": "A regional climate model, used for simulating and predicting climate at a regional scale",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5288723431771105
+    },
+    {
+      "name": "SMHI",
+      "label": "provider",
+      "description": "The Swedish Meteorological and Hydrological Institute, a provider of weather and climate data",
+      "uuid": "e87a9997-f0b1-4017-bd9c-2ef105616900",
+      "score": 0.6822154573433192
+    },
+    {
+      "name": "sea level pressure",
+      "label": "variable",
+      "description": "The atmospheric pressure at sea level, an important variable in climate and weather studies",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.773113562049901
+    },
+    {
+      "name": "2 m air temperature",
+      "label": "variable",
+      "description": "The temperature of the air at a height of 2 meters above the surface, a key variable in climate and weather research",
+      "uuid": "520a14d3-818b-4d8a-8bae-67307b4b6539",
+      "score": 0.6939393451741109
+    },
+    {
+      "name": "2 m relative humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air at a height of 2 meters above the surface, relative to the maximum amount of moisture the air can hold",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.6020399520776035
+    },
+    {
+      "name": "total cloud cover",
+      "label": "variable",
+      "description": "The percentage of the sky covered by clouds, an important factor in climate and weather studies",
+      "uuid": "0b94a648-4883-48fc-b3d1-59a14fe6a8ed",
+      "score": 0.6216966067086632
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and hail",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7006996909903381
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The speed at which wind is blowing, an important factor in climate and weather studies",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6739776580774511
+    },
+    {
+      "name": "geostrophic wind speeds",
+      "label": "variable",
+      "description": "The wind speed calculated from the pressure gradient force and the Coriolis force, used in climate and weather research",
+      "uuid": "3f5f93ef-2c60-406c-800c-ee9b058f6f66",
+      "score": 0.5550939742965284
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and playing a significant role in regional climate and ecosystems",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.8096223156083588
+    },
+    {
+      "name": "Baltic Sea ecosystem",
+      "label": "platform",
+      "description": "The complex network of living organisms and their environment within the Baltic Sea, including plants, animals, and microorganisms",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5180685828165811
+    },
+    {
+      "name": "atmospheric and hydrological forcing",
+      "label": "experiment",
+      "description": "The external factors that influence the climate and hydrology of a region, including atmospheric and oceanic conditions",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5195872753713184
+    },
+    {
+      "name": "sea level",
+      "label": "variable",
+      "description": "The level of the ocean's surface, an important variable in climate and weather studies",
+      "uuid": "9ac7a1c5-4179-47bc-8589-ebaa90d6cbd1",
+      "score": 0.7369173583062033
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway, a scenario used to project future climate change based on different levels of greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6159201716651601
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway, a scenario used to project future climate change based on different levels of greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6658444588833348
+    },
+    {
+      "name": "E-HYPE v3",
+      "label": "model",
+      "description": "A hydrological model used for simulating and predicting water flow and water quality in rivers and catchments",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5092617093662368
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances that are essential for the growth and survival of living organisms, including nitrogen, phosphorus, and other elements",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.6715772898774607
+    },
+    {
+      "name": "river runoff",
+      "label": "variable",
+      "description": "The flow of water from the land into rivers and streams, an important factor in climate and hydrology studies",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6883814144124846
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The volume of water that flows through a given area over a certain period of time, an important variable in hydrology and climate studies",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.7018415712917759
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air, an important factor in climate and weather studies",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6784701308645533
+    },
+    {
+      "name": "realistic decadal variability",
+      "label": "experiment",
+      "description": "A simulation or experiment that aims to capture the natural variability of climate and weather patterns over decadal timescales",
+      "uuid": "addadf3e-ae8d-49aa-9b5d-abee1952a543",
+      "score": 0.5323940434066873
+    },
+    {
+      "name": "Baltic Sea area",
+      "label": "location",
+      "description": "The region surrounding the Baltic Sea, including the sea itself and the surrounding land areas",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.6076187477765238
+    }
+  ],
+  "(13806, 16578)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and connected to the North Sea through the Kattegat and Skagerrak straits",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7686921279428193
+    },
+    {
+      "name": "river runoff",
+      "label": "variable",
+      "description": "The flow of water from rivers into larger bodies of water, such as oceans or seas, influenced by factors like precipitation, evaporation, and human activities",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.6833246475025847
+    },
+    {
+      "name": "atmospheric conditions",
+      "label": "variable",
+      "description": "Weather and climate conditions in the atmosphere, including factors like temperature, precipitation, and air quality",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.5045174691837291
+    },
+    {
+      "name": "future climate scenario simulations",
+      "label": "experiment",
+      "description": "Simulations that represent potential future climate conditions, used to predict and analyze the impacts of climate change",
+      "uuid": "c15e05c9-9dc4-4712-98ba-a05d61bdf1c1",
+      "score": 0.5029012422453474
+    },
+    {
+      "name": "RCA4/MPI-ESM-LR",
+      "label": "model",
+      "description": "A regional climate model used for simulating climate conditions in specific regions, driven by global climate models like MPI-ESM-LR",
+      "uuid": "08ccef97-4faf-4678-8404-03945170aa21",
+      "score": 0.5170316226880836
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes a moderate increase in greenhouse gas emissions, leading to a stabilization of radiative forcing at 4.5 W/m\u00b2 by 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6113499401642203
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes a high increase in greenhouse gas emissions, leading to a stabilization of radiative forcing at 8.5 W/m\u00b2 by 2100",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6998327042305371
+    },
+    {
+      "name": "SSPs",
+      "label": "experiment",
+      "description": "Shared Socioeconomic Pathways, a set of scenarios used to explore the impacts of different socioeconomic and climate change scenarios on the environment and human societies",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.8140781644588075
+    },
+    {
+      "name": "Finland",
+      "label": "location",
+      "description": "A country located in Northern Europe, bordering the Baltic Sea and known for its natural environment and climate research",
+      "uuid": "b198283f-02d9-424e-838a-8997a18139a9",
+      "score": 0.7717806755452926
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, influencing its suitability for human consumption, aquatic life, and other uses",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7232393108715995
+    },
+    {
+      "name": "seasonal pattern",
+      "label": "variable",
+      "description": "The periodic changes in climate and environmental conditions that occur throughout the year, influencing factors like temperature, precipitation, and river runoff",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5438391016369436
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a river or stream, influenced by factors like precipitation, evaporation, and human activities",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.6724020467944065
+    },
+    {
+      "name": "adaptation",
+      "label": "variable",
+      "description": "The process of adjusting to or coping with the impacts of climate change, including changes in human societies, ecosystems, and natural environments",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.652702025440225
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water, often connecting lakes, wetlands, and oceans, and playing a crucial role in shaping the surrounding landscape and influencing local climate conditions",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.7318519741789915
+    }
+  ],
+  "(16033, 18946)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and playing a significant role in regional climate and ecosystem dynamics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.81651710269755
+    },
+    {
+      "name": "SSP1",
+      "label": "scenario",
+      "description": "A Shared Socioeconomic Pathway representing a future with low challenges for mitigation and adaptation, characterized by sustainable development, reduced inequality, and a gradual shift towards a less resource-intensive lifestyle",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.6157244531040176
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process without depleting natural resources, and the capacity to endure over time",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6634465488840298
+    },
+    {
+      "name": "adaptation",
+      "label": "variable",
+      "description": "The process of adjusting to actual or expected climate change or its effects, through various means such as technological, economic, or social changes",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6462475919274951
+    },
+    {
+      "name": "atmospheric deposition",
+      "label": "variable",
+      "description": "The process by which pollutants and nutrients are deposited from the atmosphere to the Earth's surface, influencing ecosystems and climate",
+      "uuid": "dbeff538-6857-4573-8d14-12009e0ee078",
+      "score": 0.5488173182258593
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface, often carrying nutrients and pollutants into water bodies",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7421421073930229
+    },
+    {
+      "name": "soil properties",
+      "label": "variable",
+      "description": "The characteristics of soil, such as its composition, structure, and fertility, which influence its ability to support plant growth and filter water",
+      "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
+      "score": 0.5713776296375882
+    },
+    {
+      "name": "sewage water treatment",
+      "label": "instrument",
+      "description": "The process of removing contaminants from wastewater and sewage to produce a treated effluent that can be safely released into the environment",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5459262272814941
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "scenario",
+      "description": "A Representative Concentration Pathway representing a future with moderate greenhouse gas emissions, leading to a stabilization of radiative forcing at 4.5 W/m\u00b2 by 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6054058298393737
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "scenario",
+      "description": "A Representative Concentration Pathway representing a future with high greenhouse gas emissions, leading to a significant increase in radiative forcing by 2100",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6975829405930445
+    },
+    {
+      "name": "SSP2",
+      "label": "scenario",
+      "description": "A Shared Socioeconomic Pathway representing a future with medium challenges for mitigation and adaptation, characterized by a continuation of current trends and a \"middle of the road\" approach to development",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.5716489157063468
+    },
+    {
+      "name": "SSP5",
+      "label": "scenario",
+      "description": "A Shared Socioeconomic Pathway representing a future with high challenges for mitigation and adaptation, characterized by a fossil-fuelled development with rapid globalization and development of developing countries",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.6137672699309116
+    }
+  ],
+  "(18447, 21515)": [
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required for growth and development of living organisms, often studied in the context of marine ecosystems and water quality",
+      "uuid": "8dd7c9f0-51d0-4037-b1d0-a2517c1770ad",
+      "score": 0.7514556013574485
+    },
+    {
+      "name": "marine ecosystem",
+      "label": "location",
+      "description": "A community of living and non-living components interacting in a marine environment, such as the Baltic Sea",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6403805837561203
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A chemical element essential for the survival of most living organisms, often measured in aquatic environments to assess water quality",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.6619043759947824
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important property influencing ocean circulation and marine ecosystems",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7308378057478752
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that form the base of aquatic food webs, often studied in the context of marine ecosystems and primary production",
+      "uuid": "235996b1-b1a8-4c20-bb1f-711fb1a0c952",
+      "score": 0.6866009259465845
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which phytoplankton and other organisms convert sunlight into organic matter, serving as the base of aquatic food webs",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7763128233491728
+    },
+    {
+      "name": "nitrogen fixation",
+      "label": "variable",
+      "description": "The process by which certain microorganisms convert atmospheric nitrogen into a form that can be used by living organisms, often studied in the context of marine ecosystems and nutrient cycling",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5758047889411103
+    },
+    {
+      "name": "concentrations",
+      "label": "variable",
+      "description": "The amount of a substance per unit volume or mass, often used to describe the levels of nutrients, oxygen, or other substances in aquatic environments",
+      "uuid": "12ed4fa0-27cc-4e05-a2b7-bbf2fde871f6",
+      "score": 0.5704771058701528
+    },
+    {
+      "name": "atmospheric forcing",
+      "label": "variable",
+      "description": "The influence of atmospheric conditions, such as wind, temperature, and precipitation, on the behavior of a system, such as a marine ecosystem",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5451800772433082
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, known for its unique marine ecosystem and environmental challenges",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7525897525729979
+    },
+    {
+      "name": "SSP2",
+      "label": "project",
+      "description": "The Shared Socioeconomic Pathway 2, a scenario that assumes a middle-of-the-road development with moderate economic growth and demographic changes",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.6049702837945632
+    },
+    {
+      "name": "SSP5",
+      "label": "project",
+      "description": "The Shared Socioeconomic Pathway 5, a scenario that assumes a fossil-fuelled development with accelerated globalization and rapid development of developing countries",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.6156549549968303
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "project",
+      "description": "The Representative Concentration Pathway 4.5, a scenario that assumes a moderate increase in greenhouse gas emissions and a corresponding increase in global temperatures",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6018629883022877
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "project",
+      "description": "The Representative Concentration Pathway 8.5, a scenario that assumes a high increase in greenhouse gas emissions and a corresponding high increase in global temperatures",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6676244051565902
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "The General Circulation Model, used for simulating global climate patterns and predicting future climate changes",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7275503550160346
+    }
+  ],
+  "(20983, 23619)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by nine countries and connected to the North Sea through the Kattegat and Skagerrak straits",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7615096408375295
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A Global Climate Model, used for simulating and predicting Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7210400254613796
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to describe the climate and weather patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6525885711306479
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important property influencing ocean circulation and climate",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.727917400467263
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances that are essential for the growth and development of living organisms, often studied in the context of ocean biogeochemistry",
+      "uuid": "8dd7c9f0-51d0-4037-b1d0-a2517c1770ad",
+      "score": 0.7491524152945422
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A chemical element essential for life, often measured in ocean waters to understand biogeochemical processes",
+      "uuid": "90aa8838-79bd-4b28-b518-8217e863c385",
+      "score": 0.6265395906400939
+    },
+    {
+      "name": "phosphate",
+      "label": "variable",
+      "description": "A nutrient essential for the growth of living organisms, often studied in the context of ocean biogeochemistry",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.7535529198021161
+    },
+    {
+      "name": "ammonium",
+      "label": "variable",
+      "description": "A nutrient essential for the growth of living organisms, often studied in the context of ocean biogeochemistry",
+      "uuid": "64d17528-29b4-4e2e-843a-7f7035bb5717",
+      "score": 0.6648201076509427
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the air, often used to describe the climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6494137504444836
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, often used to describe the climate and weather patterns",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7800756440634039
+    },
+    {
+      "name": "sea ice cover",
+      "label": "variable",
+      "description": "The extent and thickness of ice covering the ocean surface, often used to describe the climate and weather patterns",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.6744357133715649
+    },
+    {
+      "name": "surface albedo",
+      "label": "variable",
+      "description": "The measure of the amount of sunlight that is reflected by the Earth's surface, often used to describe the climate and weather patterns",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7584154778302018
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when the soil is infiltrated to full capacity and excess water flows over the land, often used to describe the hydrological cycle",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.696941973740168
+    },
+    {
+      "name": "main biogeochemical processes",
+      "label": "variable",
+      "description": "The chemical, physical, and biological processes that occur within the Earth's systems, often studied in the context of ocean biogeochemistry",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.7263613515690974
+    },
+    {
+      "name": "Gulf of Finland",
+      "label": "location",
+      "description": "A bay located in the northeastern part of the Baltic Sea, known for its unique oceanographic characteristics",
+      "uuid": "9c31f745-a3d1-4007-99ae-fceca2019fab",
+      "score": 0.5250034597902552
+    },
+    {
+      "name": "Kattegat",
+      "label": "location",
+      "description": "A strait located between Denmark and Sweden, connecting the Baltic Sea to the North Sea",
+      "uuid": "f60b1c04-da51-4668-8f94-45215994e78e",
+      "score": 0.5326321979390174
+    },
+    {
+      "name": "Bothnian Bay",
+      "label": "location",
+      "description": "A bay located in the northern part of the Baltic Sea, known for its unique oceanographic characteristics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.541874742406701
+    }
+  ],
+  "(23196, 25893)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish inland sea located in Northern Europe, bordered by several countries and known for its unique marine ecosystem",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7847996259962444
+    },
+    {
+      "name": "Gulf of Finland",
+      "label": "location",
+      "description": "A gulf located in the eastern part of the Baltic Sea, bordered by Finland and Russia",
+      "uuid": "b198283f-02d9-424e-838a-8997a18139a9",
+      "score": 0.5044917640624353
+    },
+    {
+      "name": "Kattegat",
+      "label": "location",
+      "description": "A strait located between Denmark and Sweden, connecting the Baltic Sea to the North Sea",
+      "uuid": "f60b1c04-da51-4668-8f94-45215994e78e",
+      "score": 0.5326321979390174
+    },
+    {
+      "name": "Bothnian Bay",
+      "label": "location",
+      "description": "The northernmost part of the Baltic Sea, located between Sweden and Finland",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5109163946888532
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A scenario of climate change mitigation, representing a moderate reduction in greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6129050261923372
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A scenario of high greenhouse gas emissions, representing a worst-case scenario of climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6633918362636716
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to study climate and weather patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6665938298552558
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important property influencing ocean circulation and marine ecosystems",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7308378057478752
+    },
+    {
+      "name": "BACC II",
+      "label": "project",
+      "description": "The Baltic Sea Climate Change Assessment, a research project focused on studying climate change impacts on the Baltic Sea region",
+      "uuid": "2a2bef31-8665-45e4-8ccc-625694e7a9de",
+      "score": 0.5346460146427578
+    },
+    {
+      "name": "climatological temperature and salinity profiles",
+      "label": "variable",
+      "description": "Profiles of temperature and salinity that are representative of long-term climate conditions",
+      "uuid": "f952e80e-77de-4dc8-aa6b-0f3be186aba5",
+      "score": 0.5120951533248295
+    },
+    {
+      "name": "nutrient cycles",
+      "label": "biogeochemical process",
+      "description": "The processes by which nutrients are exchanged between the environment and living organisms, influencing ecosystem functioning and productivity",
+      "uuid": "7a33a978-8ef6-4313-b489-c06cfc6d9cec",
+      "score": 0.690035043048427
+    },
+    {
+      "name": "nutrient loads",
+      "label": "variable",
+      "description": "The amount of nutrients introduced into an ecosystem, often used to study water quality and ecosystem health",
+      "uuid": "cc29a00e-4b42-4da0-844f-3363f86178fc",
+      "score": 0.5011044753063214
+    },
+    {
+      "name": "ammonium",
+      "label": "variable",
+      "description": "A type of nitrogen compound, often used as a nutrient in aquatic ecosystems",
+      "uuid": "64d17528-29b4-4e2e-843a-7f7035bb5717",
+      "score": 0.6085623460665678
+    },
+    {
+      "name": "nitrate",
+      "label": "variable",
+      "description": "A type of nitrogen compound, often used as a nutrient in aquatic ecosystems",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.6823783745842434
+    },
+    {
+      "name": "phosphate",
+      "label": "variable",
+      "description": "A type of phosphorus compound, often used as a nutrient in aquatic ecosystems",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.6829849298550822
+    }
+  ],
+  "(25342, 28335)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its complex ecosystem and environmental challenges",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.758059416474
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required for the growth and survival of living organisms, including ammonium, nitrate, and phosphate",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.6703584447517075
+    },
+    {
+      "name": "ammonium",
+      "label": "variable",
+      "description": "A chemical compound containing nitrogen, often found in aquatic environments and influencing water quality",
+      "uuid": "64d17528-29b4-4e2e-843a-7f7035bb5717",
+      "score": 0.6091256938234093
+    },
+    {
+      "name": "nitrate",
+      "label": "variable",
+      "description": "A chemical compound containing nitrogen, commonly found in water bodies and affecting aquatic ecosystems",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.666528431955838
+    },
+    {
+      "name": "phosphate",
+      "label": "variable",
+      "description": "A chemical compound containing phosphorus, essential for biological processes and often a limiting factor in aquatic ecosystems",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.674658861486646
+    },
+    {
+      "name": "sediments",
+      "label": "location",
+      "description": "Layers of material that settle at the bottom of a body of water, influencing water quality and ecosystem processes",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6541725462179486
+    },
+    {
+      "name": "biogeochemical processes",
+      "label": "ocean circulation",
+      "description": "The cycling of nutrients and elements through the environment, involving biological, geological, and chemical interactions",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.7514347927040783
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which plants and other organisms produce organic matter from inorganic substances, serving as the base of aquatic food webs",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7689981420186083
+    },
+    {
+      "name": "nitrogen fixation",
+      "label": "variable",
+      "description": "The process by which certain organisms convert atmospheric nitrogen into a form that can be used by other living organisms",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5536285125151296
+    },
+    {
+      "name": "oxygen concentration",
+      "label": "variable",
+      "description": "The amount of oxygen dissolved in a given volume of water, crucial for the survival of aquatic organisms",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.5691879346871791
+    },
+    {
+      "name": "hypoxic area",
+      "label": "natural hazard",
+      "description": "Regions in a body of water where the oxygen concentration is too low to support most forms of life",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.6161227609524519
+    },
+    {
+      "name": "climate changes",
+      "label": "teleconnection",
+      "description": "Alterations in global or regional climate patterns, often resulting from human activities and affecting ecosystems and societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5696779988387665
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A scenario of high greenhouse gas emissions, used in climate modeling to project potential future environmental changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6725046226582375
+    }
+  ],
+  "(27792, 30787)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its complex ecosystem and environmental challenges",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.758059416474
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A climate scenario representing a moderate increase in greenhouse gas emissions and a corresponding level of global warming",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6074849778239503
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A climate scenario representing a high increase in greenhouse gas emissions and a corresponding level of global warming",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6673048852254952
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which phytoplankton and other organisms convert sunlight into organic matter, essential for the aquatic food web",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.765833983087071
+    },
+    {
+      "name": "nitrogen fixation",
+      "label": "variable",
+      "description": "The process by which certain microorganisms convert atmospheric nitrogen into a form that can be used by other organisms, important for aquatic ecosystems",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5564674904499208
+    },
+    {
+      "name": "diatoms",
+      "label": "variable",
+      "description": "A type of phytoplankton that plays a crucial role in aquatic ecosystems, particularly in the context of primary production",
+      "uuid": "fdb04105-e8ba-4a83-9c35-ed3c931ccc9f",
+      "score": 0.6723151871693185
+    },
+    {
+      "name": "flagellates",
+      "label": "variable",
+      "description": "A type of phytoplankton that contributes to primary production and aquatic ecosystem dynamics",
+      "uuid": "2095acb5-14af-40fe-af22-e6af2e3528b5",
+      "score": 0.5654755566839971
+    },
+    {
+      "name": "cyanobacteria",
+      "label": "variable",
+      "description": "A type of phytoplankton that can form harmful algal blooms and impact aquatic ecosystems",
+      "uuid": "166de4c9-89ad-4248-b771-512beb1705cf",
+      "score": 0.643251610451267
+    },
+    {
+      "name": "sediment",
+      "label": "location",
+      "description": "The material that settles to the bottom of a body of water, playing a role in aquatic ecosystems and nutrient cycling",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.5972154780326251
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A critical component of aquatic ecosystems, essential for the survival of most aquatic organisms",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.5730206156244116
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that form the base of aquatic food webs and are crucial for primary production",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6649586708449252
+    },
+    {
+      "name": "sea surface",
+      "label": "location",
+      "description": "The uppermost layer of the ocean, where interactions between the atmosphere and ocean occur",
+      "uuid": "5810d615-a3fc-4f79-947a-bae456b728c2",
+      "score": 0.7076930318182798
+    },
+    {
+      "name": "historical climate",
+      "label": "experiment",
+      "description": "A climate scenario based on past observed data, used as a reference for comparing future climate projections",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5619001556107904
+    },
+    {
+      "name": "hypoxic area",
+      "label": "natural hazard",
+      "description": "Areas in aquatic ecosystems where oxygen levels are too low to support most aquatic life, often caused by eutrophication",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.6502458630876032
+    }
+  ],
+  "(30275, 33238)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its unique ecosystem and environmental challenges",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7612079947578893
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A chemical element essential for life, measured in aquatic environments to assess water quality and ecosystem health",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.66621733114911
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that form the base of aquatic food webs and play a crucial role in the Earth's carbon cycle",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6864455047504607
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which phytoplankton convert sunlight into organic matter, serving as a fundamental component of aquatic ecosystems",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7738110000122688
+    },
+    {
+      "name": "nitrogen fixation",
+      "label": "variable",
+      "description": "The process by which certain organisms convert atmospheric nitrogen into a form that can be used by other living organisms",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5536285125151296
+    },
+    {
+      "name": "cod",
+      "label": "variable",
+      "description": "A species of fish that serves as an important indicator of the health of the Baltic Sea ecosystem",
+      "uuid": "340b843e-841e-40d9-97c2-d76cca66c65e",
+      "score": 0.5005776135797505
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of dissolved salts in seawater, influencing the density and circulation of ocean waters",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7247858005480244
+    },
+    {
+      "name": "biogeochemical cycles",
+      "label": "variable",
+      "description": "The pathways by which a chemical substance moves through biotic and abiotic compartments of Earth's system",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.7464036248713551
+    },
+    {
+      "name": "atmospheric forcing",
+      "label": "variable",
+      "description": "The external influences exerted by the atmosphere on the Earth's climate system, including factors such as temperature, precipitation, and wind patterns",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.592350475952194
+    },
+    {
+      "name": "North-Western Gotland Basin",
+      "label": "location",
+      "description": "A sub-basin of the Baltic Sea, known for its distinct hydrological and ecological features",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5203187535072546
+    },
+    {
+      "name": "Archipelago Sea",
+      "label": "location",
+      "description": "A sub-basin of the Baltic Sea, comprising a large number of islands and known for its complex hydrology and biodiversity",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5201835616632157
+    },
+    {
+      "name": "Bothnian Sea",
+      "label": "location",
+      "description": "A sub-basin of the Baltic Sea, located in the northern part of the sea and distinguished by its brackish water and unique ecosystem",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5916487797111482
+    },
+    {
+      "name": "Finland",
+      "label": "location",
+      "description": "A country located in Northern Europe, bordering the Baltic Sea and known for its natural beauty and environmental consciousness",
+      "uuid": "b198283f-02d9-424e-838a-8997a18139a9",
+      "score": 0.7734504556492615
+    },
+    {
+      "name": "phosphate",
+      "label": "variable",
+      "description": "A chemical compound essential for the growth of phytoplankton and other aquatic organisms, often limiting primary production in aquatic ecosystems",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.6781930889541566
+    }
+  ],
+  "(32760, 35570)": [
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, often used in climate and environmental studies",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6881740490168443
+    },
+    {
+      "name": "water temperatures",
+      "label": "variable",
+      "description": "A measure of the temperature of water bodies, such as oceans, lakes, or rivers, often used in climate and environmental studies",
+      "uuid": "46206e8c-8def-406f-9e62-da4e74633a58",
+      "score": 0.7067308596773672
+    },
+    {
+      "name": "total runoff",
+      "label": "variable",
+      "description": "The total amount of water that flows into a water body, such as a river or lake, from the surrounding land",
+      "uuid": "0eb4156f-e4ab-4e02-a473-df4b44290556",
+      "score": 0.7231038463562479
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its unique ecosystem",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7715708980536183
+    },
+    {
+      "name": "sediment",
+      "label": "variable",
+      "description": "Material that settles to the bottom of a water body, such as sand, silt, or clay, often used in environmental and geological studies",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6285123607817126
+    },
+    {
+      "name": "biogeochemical variables",
+      "label": "variable",
+      "description": "Quantities or characteristics that can be measured or observed in biogeochemical processes, such as nutrient concentrations or primary production",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.5873364700119489
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, an important property influencing ocean circulation and aquatic ecosystems",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.71553142463739
+    },
+    {
+      "name": "biogeochemical processes",
+      "label": "variable",
+      "description": "Processes that involve the interaction of biological, geological, and chemical components in the environment, such as nutrient cycling or primary production",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.7466386415488945
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A scenario of future climate change, representing a moderate increase in greenhouse gas emissions and a corresponding rise in global temperatures",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6107739501342025
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A scenario of future climate change, representing a high increase in greenhouse gas emissions and a corresponding significant rise in global temperatures",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6632847667942421
+    },
+    {
+      "name": "Baltic Sea model",
+      "label": "model",
+      "description": "A computational representation of the Baltic Sea ecosystem, used to simulate and predict the behavior of the system under different climate and environmental conditions",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5846256399133107
+    }
+  ],
+  "(35040, 38140)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its unique ecosystem and environmental challenges",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7612079947578893
+    },
+    {
+      "name": "ecosystem",
+      "label": "location",
+      "description": "A community of living and non-living components that interact in a specific environment, such as the Baltic Sea",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.656407156961633
+    },
+    {
+      "name": "biogeochemical variables",
+      "label": "variable",
+      "description": "Quantities that describe the chemical and biological processes within an ecosystem, such as nutrient concentrations and primary production",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.5964904974095387
+    },
+    {
+      "name": "biogeochemical cycles",
+      "label": "ocean circulation",
+      "description": "The movement of nutrients and elements through an ecosystem, influenced by biological, chemical, and physical processes",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.7204525333277102
+    },
+    {
+      "name": "nitrogen fixation",
+      "label": "variable",
+      "description": "The process by which nitrogen is converted into a usable form for living organisms, often measured as a variable in ecosystem studies",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.6267782976301588
+    },
+    {
+      "name": "concentrations",
+      "label": "variable",
+      "description": "The amount of a substance present in a given area or volume, often measured in ecosystem studies",
+      "uuid": "12ed4fa0-27cc-4e05-a2b7-bbf2fde871f6",
+      "score": 0.5751661339772914
+    },
+    {
+      "name": "nutrient",
+      "label": "variable",
+      "description": "Substances required for the growth and survival of living organisms, such as nitrogen and phosphorus",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.6390689064607102
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate, influencing ecosystems and biogeochemical processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.577525929626853
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, describing a future climate scenario with moderate greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6346020889102187
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, describing a future climate scenario with high greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6915319515098308
+    }
+  ],
+  "(37654, 40363)": [
+    {
+      "name": "biogeochemical variables",
+      "label": "variable",
+      "description": "Quantities or characteristics that can be measured or observed in climate experiments, related to the interaction between biological, geological, and chemical processes",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.5800089266877233
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451761247480406
+    },
+    {
+      "name": "nutrient level",
+      "label": "variable",
+      "description": "The concentration of nutrients such as nitrogen and phosphorus in a system, influencing the growth of plants and animals",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.516937851017887
+    },
+    {
+      "name": "Secchi depth",
+      "label": "variable",
+      "description": "A measure of water transparency, used as an indicator of water quality",
+      "uuid": "954c2f25-3ec8-4774-ba34-fa4289f33f0e",
+      "score": 0.7027374457204393
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its unique ecological characteristics",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7707217077734272
+    },
+    {
+      "name": "nitrogen loads",
+      "label": "variable",
+      "description": "The amount of nitrogen entering a system, which can impact the growth of plants and the overall ecological state",
+      "uuid": "cc29a00e-4b42-4da0-844f-3363f86178fc",
+      "score": 0.5013529850760398
+    },
+    {
+      "name": "sediment",
+      "label": "location",
+      "description": "The material that settles to the bottom of a body of water, such as a sea or lake",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6075288473888664
+    }
+  ],
+  "(39885, 42599)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its unique ecosystem and environmental challenges",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7612079947578893
+    },
+    {
+      "name": "biogeochemical cycles",
+      "label": "variable",
+      "description": "The processes by which living organisms and the environment interact to transform and cycle nutrients and elements through ecosystems",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.7286084336055116
+    },
+    {
+      "name": "phosphate",
+      "label": "variable",
+      "description": "A nutrient essential for plant growth, often limiting in aquatic ecosystems and contributing to eutrophication when in excess",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.6725134039490802
+    },
+    {
+      "name": "MPI-ESM-LR",
+      "label": "model",
+      "description": "A global climate model developed by the Max Planck Institute for Meteorology, used for simulating Earth's climate system",
+      "uuid": "4baeaba9-9381-4ed5-b7aa-75879bacbb03",
+      "score": 0.7471399452008612
+    },
+    {
+      "name": "concentrations",
+      "label": "variable",
+      "description": "The amount of a substance per unit volume or mass, often measured in environmental and climate studies",
+      "uuid": "12ed4fa0-27cc-4e05-a2b7-bbf2fde871f6",
+      "score": 0.5921177979998256
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which plants and some microorganisms convert light energy into chemical energy, forming the base of aquatic food webs",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7735433818940227
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and water bodies, which can influence climate and biogeochemical cycles through various processes",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6695696355823476
+    },
+    {
+      "name": "sea level rise",
+      "label": "variable",
+      "description": "The increase in the average level of the world's oceans, primarily caused by climate change and affecting coastal ecosystems and human settlements",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7671877607712406
+    },
+    {
+      "name": "nutrient load",
+      "label": "variable",
+      "description": "The amount of nutrients, such as nitrogen and phosphorus, entering an ecosystem from various sources, including human activities",
+      "uuid": "cc29a00e-4b42-4da0-844f-3363f86178fc",
+      "score": 0.5124220439742563
+    },
+    {
+      "name": "eutrophication",
+      "label": "natural hazard",
+      "description": "The process by which excess nutrients in an ecosystem lead to an overgrowth of plants and algae, degrading water quality and potentially harming aquatic life",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.7538524654719551
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A scenario of high greenhouse gas emissions and significant climate change, used in climate modeling and impact assessments",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6714956506688897
+    }
+  ],
+  "(42110, 44245)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, known for its unique ecosystem and sensitivity to environmental changes",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.760812460958556
+    },
+    {
+      "name": "biogeochemical cycles",
+      "label": "process",
+      "description": "The pathways by which a chemical substance moves through biotic and abiotic compartments of Earth's ecosystems, influencing nutrient availability and climate",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.7599712389580369
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, primarily driven by human activities such as greenhouse gas emissions",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5667051516703095
+    },
+    {
+      "name": "phosphate",
+      "label": "variable",
+      "description": "A chemical compound essential for aquatic life, often used as a nutrient in ecosystems",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.6944815547823947
+    },
+    {
+      "name": "nitrate",
+      "label": "variable",
+      "description": "A compound containing nitrogen, commonly found in aquatic ecosystems and influencing water quality",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.6602368811845377
+    },
+    {
+      "name": "eutrophication",
+      "label": "natural hazard",
+      "description": "The process by which a body of water becomes enriched in dissolved nutrients, leading to excessive growth of algae and potentially harming aquatic ecosystems",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.7632069827394775
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The rate at which plants and other organisms produce organic matter through photosynthesis, a key component of aquatic ecosystems",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7629709955585728
+    },
+    {
+      "name": "nitrogen fixation",
+      "label": "variable",
+      "description": "The process by which nitrogen is converted into a usable form for living organisms, often occurring in aquatic ecosystems",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.5625643345662269
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A greenhouse gas emission scenario used in climate modeling, representing a moderate level of emissions reduction",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6046596063715979
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A greenhouse gas emission scenario used in climate modeling, representing a high level of emissions and significant climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6620450140844233
+    },
+    {
+      "name": "Creative Commons license",
+      "label": "platform",
+      "description": "A public license that allows for the free use, sharing, and adaptation of creative works, under certain conditions",
+      "uuid": "95c7e601-fcfe-4fc9-9994-8105a1e11428",
+      "score": 0.6430569897343396
+    },
+    {
+      "name": "loads",
+      "label": "variable",
+      "description": "The amount of a substance, such as nutrients or pollutants, introduced into an ecosystem or environment",
+      "uuid": "cc29a00e-4b42-4da0-844f-3363f86178fc",
+      "score": 0.5138587737818181
+    },
+    {
+      "name": "warming",
+      "label": "weather event",
+      "description": "An increase in temperature, often referring to global warming caused by climate change",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6283953146942849
+    }
+  ]
+}

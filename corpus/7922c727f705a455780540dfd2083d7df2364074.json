@@ -1,0 +1,1903 @@
+{
+  "(0, 2990)": [
+    {
+      "name": "wind storms",
+      "label": "weather event",
+      "description": "Severe meteorological occurrences characterized by strong winds, often leading to damage and disruption",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.6683033477621918
+    },
+    {
+      "name": "wind speeds",
+      "label": "variable",
+      "description": "Measurements of the velocity of wind, used to quantify storm intensity and characteristics",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.5916531979363769
+    },
+    {
+      "name": "reanalysis data",
+      "label": "dataset",
+      "description": "Historical climate data reconstructed using a combination of observations and models to provide a consistent and comprehensive record of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7539710108684957
+    },
+    {
+      "name": "wind storm events",
+      "label": "weather event",
+      "description": "Specific instances of severe weather characterized by strong winds, often associated with cyclones and low-pressure systems",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.7059809773631699
+    },
+    {
+      "name": "cyclone tracks",
+      "label": "variable",
+      "description": "Paths followed by cyclones as they move across the Earth's surface, often used to study storm behavior and predict future storms",
+      "uuid": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
+      "score": 0.6571372922898259
+    },
+    {
+      "name": "British Isles",
+      "label": "location",
+      "description": "A group of islands in Northwest Europe, including the United Kingdom, Ireland, and surrounding islands",
+      "uuid": "c9e8dfcd-18ac-405d-b6a0-934ae3c743d3",
+      "score": 0.7503768175967614
+    },
+    {
+      "name": "North Sea",
+      "label": "location",
+      "description": "A sea located off the coast of Northwest Europe, bounded by the United Kingdom, Norway, Denmark, Germany, and the Netherlands",
+      "uuid": "4401ec0e-0d64-41d3-b4bd-2ff797865e83",
+      "score": 0.7680495323349439
+    },
+    {
+      "name": "atmospheric circulation",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of air in the atmosphere, influencing weather patterns and climate conditions",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.5146183960469112
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Germany, Poland, and Austria, known for its varied climate and weather patterns",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.7026165092308231
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Large-scale circulation systems in the atmosphere, often associated with low pressure and strong winds",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6395292054857996
+    },
+    {
+      "name": "Validation",
+      "label": "experiment",
+      "description": "The process of evaluating the accuracy and reliability of climate models by comparing their outputs with observational data",
+      "uuid": "b283a59c-0e9a-469c-baf4-591b64cd4671",
+      "score": 0.614375443226128
+    },
+    {
+      "name": "multi-model ensemble",
+      "label": "project",
+      "description": "A collection of climate models used to generate a range of projections and quantify the uncertainty of climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5469922228765731
+    },
+    {
+      "name": "9 coupled global climate model",
+      "label": "model",
+      "description": "A set of computational models that simulate the interactions between the atmosphere, oceans, and land surfaces to predict future climate conditions",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6491456956217254
+    }
+  ],
+  "(2582, 5342)": [
+    {
+      "name": "European storm",
+      "label": "weather event",
+      "description": "A severe weather phenomenon characterized by strong winds, often associated with cyclones or low-pressure systems",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.5332911844041377
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located north of the equator, known for its influence on European climate and weather patterns",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7468059202936024
+    },
+    {
+      "name": "Northeast Atlantic",
+      "label": "location",
+      "description": "A sub-region of the North Atlantic, bounded by Europe to the east and the North American coast to the west",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.5680595270058052
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region of Europe that includes countries such as Germany, Poland, and the Czech Republic, known for its varied climate and weather patterns",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.7129685365019235
+    },
+    {
+      "name": "ACC",
+      "label": "project",
+      "description": "Anthropogenic Climate Change, a research initiative focused on understanding the impact of human activities on the climate system",
+      "uuid": "2a2bef31-8665-45e4-8ccc-625694e7a9de",
+      "score": 0.5884638968830231
+    },
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating and predicting climate patterns",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5759706027677773
+    },
+    {
+      "name": "North Atlantic Oscillation",
+      "label": "teleconnection",
+      "description": "A large-scale atmospheric circulation pattern that influences weather and climate variability across the North Atlantic region",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.7769678651054472
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of storm system characterized by low atmospheric pressure and strong winds, often associated with extreme weather events",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6462641538914575
+    },
+    {
+      "name": "multi-model ensemble",
+      "label": "experiment",
+      "description": "A collection of climate models run with the same inputs and parameters, used to improve the accuracy and reliability of climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5748187734961414
+    },
+    {
+      "name": "cyclone intensity",
+      "label": "variable",
+      "description": "A measure of the strength or severity of a cyclone, often used to predict the potential impact of a storm",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.5526917921073046
+    },
+    {
+      "name": "cyclone activity",
+      "label": "variable",
+      "description": "A measure of the frequency, intensity, or duration of cyclones in a given region or time period",
+      "uuid": "a85b812e-e4d2-4dce-bf67-d89a3e1a9122",
+      "score": 0.5251105656387038
+    }
+  ],
+  "(4806, 7735)": [
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a large-scale climate pattern that affects weather in the North Atlantic region",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.7789228007318305
+    },
+    {
+      "name": "ACC",
+      "label": "experiment",
+      "description": "Anthropogenic Climate Change, an experiment or simulation designed to study the impacts of human activities on the climate system",
+      "uuid": "9aa5e178-40ee-44eb-8731-2d488394da49",
+      "score": 0.5246861941862667
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Model, a type of climate model that simulates the general circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7691934564613159
+    },
+    {
+      "name": "multi-model ensemble",
+      "label": "experiment",
+      "description": "A collection of multiple climate models used to simulate the same climate scenario, allowing for the exploration of model uncertainties and the estimation of robust climate change signals",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5690624985475387
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Germany, France, and Poland, known for its varied climate and weather patterns",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.6999982487694936
+    },
+    {
+      "name": "storm frequencies",
+      "label": "variable",
+      "description": "The number of storms occurring over a given period, often used as a measure of storm activity",
+      "uuid": "de9ffa22-76e3-469c-926b-2dee007702d0",
+      "score": 0.6160770093624606
+    },
+    {
+      "name": "storm intensities",
+      "label": "variable",
+      "description": "The strength or severity of storms, often measured by wind speed, precipitation, or other factors",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.5197558661836973
+    },
+    {
+      "name": "extratropical cyclones",
+      "label": "weather event",
+      "description": "A type of low-pressure system that forms outside the tropics, often associated with strong winds and precipitation",
+      "uuid": "da436e9b-60e5-4a5f-a50a-08794d62bca8",
+      "score": 0.7098354402139347
+    },
+    {
+      "name": "wind storm events",
+      "label": "weather event",
+      "description": "Severe weather events characterized by strong winds, often causing damage or disruption",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.6987840337071559
+    },
+    {
+      "name": "state-of-the-art coupled global climate models",
+      "label": "model",
+      "description": "Advanced climate models that simulate the interactions between the atmosphere, oceans, and land surfaces",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6326721062716351
+    }
+  ],
+  "(7196, 9941)": [
+    {
+      "name": "ENSEMBLES",
+      "label": "project",
+      "description": "The ENSEMBLES project, an initiative focused on climate change and its impacts on European climate, aiming to develop and apply ensemble prediction systems for climate change",
+      "uuid": "07f068a2-87f9-4cc7-a181-7f839064dfb5",
+      "score": 0.5056135623052076
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Model, a type of climate model that simulates the general circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7691934564613159
+    },
+    {
+      "name": "SRES A1B scenario",
+      "label": "experiment",
+      "description": "A greenhouse gas emissions scenario used in climate modeling, representing a future world with high economic growth and a balanced energy source",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5235794510524364
+    },
+    {
+      "name": "ERA40 reanalyses",
+      "label": "dataset",
+      "description": "A set of atmospheric reanalysis data produced by the European Centre for Medium-Range Weather Forecasts, covering the period from 1957 to 2002",
+      "uuid": "3658db7a-74a2-4614-bb3c-7d0eef569aa5",
+      "score": 0.7770573489984999
+    },
+    {
+      "name": "20C",
+      "label": "experiment",
+      "description": "A climate simulation experiment representing recent climate conditions, typically covering the 20th century",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5172266512953347
+    },
+    {
+      "name": "A1B",
+      "label": "experiment",
+      "description": "A climate simulation experiment representing a future climate scenario, typically covering the 21st century",
+      "uuid": "8b5bbffc-65f9-4ec5-ad46-ecb2d4d0745f",
+      "score": 0.5155445994436421
+    },
+    {
+      "name": "PCMDI",
+      "label": "provider",
+      "description": "The Program for Climate Model Diagnosis and Intercomparison, an organization that archives and distributes climate model data",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.8095891929927633
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028232342314525
+    },
+    {
+      "name": "BCCR-BCM2",
+      "label": "model",
+      "description": "A climate model developed by the Bjerknes Centre for Climate Research",
+      "uuid": "7399a2db-3c1c-4208-9cce-d3b616199fdd",
+      "score": 0.6756003619862699
+    },
+    {
+      "name": "CNRM-CM3",
+      "label": "model",
+      "description": "A climate model developed by the Centre National de Recherches M\u00e9t\u00e9orologiques",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.6827886817928496
+    },
+    {
+      "name": "DMI-ECHAM5OM1",
+      "label": "model",
+      "description": "A climate model developed by the Danish Meteorological Institute",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5385204210902015
+    },
+    {
+      "name": "daily maximum wind speed",
+      "label": "variable",
+      "description": "The maximum wind speed recorded over a 24-hour period, often used in climate and weather studies",
+      "uuid": "b18247b9-1d43-4e4a-b7bc-df9a2c2bef62",
+      "score": 0.5724452159248984
+    },
+    {
+      "name": "MSLP",
+      "label": "variable",
+      "description": "Mean sea level pressure, a measure of atmospheric pressure at sea level, used in climate and weather studies",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.6448864135098569
+    },
+    {
+      "name": "cyclone",
+      "label": "weather event",
+      "description": "A large-scale circulation of air that rotates around a central point, often associated with storms and severe weather",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.5979253684616163
+    }
+  ],
+  "(9537, 12180)": [
+    {
+      "name": "vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of fluid or air, used to describe atmospheric circulation patterns",
+      "uuid": "858a80ff-5aa4-4590-b2e2-e88a802a6ee4",
+      "score": 0.7334919976688147
+    },
+    {
+      "name": "ensemble mean",
+      "label": "variable",
+      "description": "A statistical measure representing the average value of a set of data or simulations, used to reduce uncertainty and increase reliability",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5108851031157949
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Germany, Poland, and the Czech Republic, known for its varied climate and weather patterns",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.7128801689807126
+    },
+    {
+      "name": "ERA40-reanalysis data",
+      "label": "project",
+      "description": "A dataset of atmospheric conditions from 1957 to 2002, created by reanalyzing historical weather data using a consistent model",
+      "uuid": "3658db7a-74a2-4614-bb3c-7d0eef569aa5",
+      "score": 0.7649178308782206
+    },
+    {
+      "name": "multi-model ensemble",
+      "label": "project",
+      "description": "A collection of climate models run with the same inputs to generate a range of possible outcomes, used to quantify uncertainty and improve predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5734043006716749
+    },
+    {
+      "name": "GCM simulations",
+      "label": "experiment",
+      "description": "Global Climate Model simulations, used to study and predict climate change and its impacts",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6507380242221663
+    },
+    {
+      "name": "DMI-ECHAM5OM1",
+      "label": "model",
+      "description": "A climate model developed by the Danish Meteorological Institute, used for simulating and predicting climate patterns",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5388193231916161
+    },
+    {
+      "name": "BCCR-BCM2",
+      "label": "model",
+      "description": "A climate model developed by the Bjerknes Centre for Climate Research, used for simulating and predicting climate patterns",
+      "uuid": "7399a2db-3c1c-4208-9cce-d3b616199fdd",
+      "score": 0.6757783000289457
+    },
+    {
+      "name": "CNRM-CM3",
+      "label": "model",
+      "description": "A climate model developed by the Centre National de Recherches M\u00e9t\u00e9orologiques, used for simulating and predicting climate patterns",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.679533260097203
+    },
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating and predicting climate patterns",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5759706027677773
+    },
+    {
+      "name": "MSLP",
+      "label": "variable",
+      "description": "Mean Sea Level Pressure, a measure of atmospheric pressure at sea level, used to describe weather patterns and climate conditions",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.6261016160150975
+    }
+  ],
+  "(11773, 14276)": [
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Germany, Poland, and the Czech Republic, known for its diverse climate and geography",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.7526084124247902
+    },
+    {
+      "name": "cyclone systems",
+      "label": "weather event",
+      "description": "A type of large-scale circulation system in the atmosphere, characterized by low atmospheric pressure and rotating winds",
+      "uuid": "178694aa-5f0a-4de5-a193-74e323dc6aa9",
+      "score": 0.6126477549116163
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7244542853466465
+    },
+    {
+      "name": "ERA40",
+      "label": "model",
+      "description": "The European Centre for Medium-Range Weather Forecasts Re-Analysis 40, a dataset used for climate research and weather forecasting",
+      "uuid": "3658db7a-74a2-4614-bb3c-7d0eef569aa5",
+      "score": 0.8099398751419882
+    },
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "The European Centre Hamburg Model version 5, a climate model used for simulating and predicting the Earth's climate system",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5765875767331469
+    },
+    {
+      "name": "gale days",
+      "label": "weather event",
+      "description": "Days characterized by strong winds, often used as an indicator of stormy weather",
+      "uuid": "530ca9b8-50f3-4bd6-82d4-c49fa688a977",
+      "score": 0.5726172575331747
+    },
+    {
+      "name": "storm days",
+      "label": "weather event",
+      "description": "Days characterized by extreme wind speeds, often used as an indicator of severe weather events",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.5108086331441682
+    },
+    {
+      "name": "wind speeds",
+      "label": "variable",
+      "description": "A measure of the speed of wind, often used in climate and weather research",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.658260015169069
+    }
+  ],
+  "(13881, 16429)": [
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, encompassing a wide range of climate zones and weather patterns",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7555124468089066
+    },
+    {
+      "name": "MSLP",
+      "label": "variable",
+      "description": "Mean Sea Level Pressure, an important atmospheric variable used in weather forecasting and climate studies",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.6225206453236726
+    },
+    {
+      "name": "relative vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air in the atmosphere, important for understanding cyclone dynamics",
+      "uuid": "ace6a51d-36af-4330-893f-d1fecc8ac904",
+      "score": 0.7028779038296391
+    },
+    {
+      "name": "cyclone systems",
+      "label": "weather event",
+      "description": "Large-scale rotating air masses that form over the ocean and can bring severe weather to coastal regions",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.5853639316801128
+    },
+    {
+      "name": "cyclone tracks",
+      "label": "variable",
+      "description": "The paths followed by cyclones as they move across the Earth's surface",
+      "uuid": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
+      "score": 0.634519665631017
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Germany, Poland, and the Czech Republic",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.7511631444126796
+    },
+    {
+      "name": "storm events",
+      "label": "weather event",
+      "description": "Severe weather occurrences that can cause damage and disruption to communities",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.593044154217618
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Model, a type of climate model that simulates the large-scale circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7667072130075575
+    },
+    {
+      "name": "20C forcing",
+      "label": "experiment",
+      "description": "A climate simulation experiment that uses historical greenhouse gas concentrations and other climate forcings from the 20th century",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5863359039234696
+    },
+    {
+      "name": "ERA40 reanalysis data",
+      "label": "dataset",
+      "description": "A dataset of atmospheric and oceanic variables that has been reanalyzed to provide a consistent and reliable record of climate variability",
+      "uuid": "3658db7a-74a2-4614-bb3c-7d0eef569aa5",
+      "score": 0.7526831363347509
+    },
+    {
+      "name": "North Sea",
+      "label": "location",
+      "description": "A sea located off the coast of northern Europe, known for its significant role in regional climate patterns",
+      "uuid": "0845d84f-b266-4ce3-af5a-2458e0e96173",
+      "score": 0.7804956107104268
+    },
+    {
+      "name": "Azores",
+      "label": "location",
+      "description": "A group of islands in the Atlantic Ocean, known for their mild climate and strategic location in the North Atlantic",
+      "uuid": "946f1f4f-fddc-418b-8177-38ba747e0e64",
+      "score": 0.7315423657025973
+    },
+    {
+      "name": "southern Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Spain, Italy, and Greece",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.754658424627429
+    },
+    {
+      "name": "British Isles",
+      "label": "location",
+      "description": "A group of islands located off the coast of northwestern Europe, including the United Kingdom and Ireland",
+      "uuid": "c9e8dfcd-18ac-405d-b6a0-934ae3c743d3",
+      "score": 0.7563376064396029
+    },
+    {
+      "name": "Mediterranean region",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by a mild climate and significant cultural and economic importance",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6067765139907916
+    }
+  ],
+  "(15964, 18565)": [
+    {
+      "name": "Azores",
+      "label": "location",
+      "description": "A group of islands in the North Atlantic Ocean, known for its high-pressure system that affects European climate patterns",
+      "uuid": "946f1f4f-fddc-418b-8177-38ba747e0e64",
+      "score": 0.6660811719637368
+    },
+    {
+      "name": "British Isles",
+      "label": "location",
+      "description": "A group of islands in Northwest Europe, including the United Kingdom, Ireland, and surrounding islands, with a distinct climate influenced by the Atlantic Ocean",
+      "uuid": "c9e8dfcd-18ac-405d-b6a0-934ae3c743d3",
+      "score": 0.7215894477841173
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, surrounded by Europe, Africa, and Asia, and characterized by a unique climate and oceanography",
+      "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+      "score": 0.7422898364330609
+    },
+    {
+      "name": "ERA40",
+      "label": "project",
+      "description": "The European Centre for Medium-Range Weather Forecasts Re-Analysis 40, a project that provides a comprehensive dataset of atmospheric and oceanic conditions from 1957 to 2002",
+      "uuid": "d6141f58-40bf-4a59-9fc2-707528e53486",
+      "score": 0.804811125360846
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7195795415683549
+    },
+    {
+      "name": "IPSL-CM4",
+      "label": "model",
+      "description": "The Institut Pierre-Simon Laplace Climate Model version 4, a global climate model used for simulating and predicting climate patterns",
+      "uuid": "f88c4559-fc4b-4b4a-ac57-0f15bb24e8e0",
+      "score": 0.6435637197783055
+    },
+    {
+      "name": "CNRM-CM3",
+      "label": "model",
+      "description": "The Centre National de Recherches M\u00e9t\u00e9orologiques Climate Model version 3, a global climate model used for simulating and predicting climate patterns",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.6637822278934107
+    },
+    {
+      "name": "BCCR-BCM2",
+      "label": "model",
+      "description": "The Bjerknes Centre for Climate Research Bergen Climate Model version 2, a global climate model used for simulating and predicting climate patterns",
+      "uuid": "7399a2db-3c1c-4208-9cce-d3b616199fdd",
+      "score": 0.6668643563321337
+    },
+    {
+      "name": "HadGEM1",
+      "label": "model",
+      "description": "The Hadley Centre Global Environmental Model version 1, a global climate model used for simulating and predicting climate patterns",
+      "uuid": "071e792f-af6c-46e5-a9f4-732966defdfd",
+      "score": 0.7296501334607056
+    },
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "The European Centre for Medium-Range Weather Forecasts Hamburg Model version 5, a global climate model used for simulating and predicting climate patterns",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5930027340936849
+    },
+    {
+      "name": "MSLP",
+      "label": "variable",
+      "description": "Mean Sea Level Pressure, a measure of atmospheric pressure at sea level, used to study climate patterns and weather phenomena",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.6338415704651011
+    },
+    {
+      "name": "northern Europe",
+      "label": "location",
+      "description": "The northern part of Europe, including countries such as Norway, Sweden, and Finland, characterized by a subarctic climate",
+      "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+      "score": 0.7272147155526119
+    },
+    {
+      "name": "southern Europe",
+      "label": "location",
+      "description": "The southern part of Europe, including countries such as Spain, Italy, and Greece, characterized by a Mediterranean climate",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.7588208855579137
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "The central part of Europe, including countries such as Germany, France, and Poland, characterized by a temperate climate",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.6971917587781653
+    },
+    {
+      "name": "western Europe",
+      "label": "location",
+      "description": "The western part of Europe, including countries such as the United Kingdom, France, and Portugal, characterized by a maritime climate",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.6751224338223855
+    }
+  ],
+  "(18045, 20715)": [
+    {
+      "name": "HadGEM1",
+      "label": "model",
+      "description": "The Hadley Centre Global Environment Model version 1, a climate model used for simulating and predicting global climate patterns",
+      "uuid": "071e792f-af6c-46e5-a9f4-732966defdfd",
+      "score": 0.7335057862955539
+    },
+    {
+      "name": "IPSL-CM4",
+      "label": "model",
+      "description": "The Institut Pierre-Simon Laplace Climate Model version 4, a climate model used for simulating and predicting global climate patterns",
+      "uuid": "f88c4559-fc4b-4b4a-ac57-0f15bb24e8e0",
+      "score": 0.6509541163110458
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, surrounded by Europe, Africa, and Asia, known for its unique climate and ecosystems",
+      "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+      "score": 0.7533517091898668
+    },
+    {
+      "name": "southern Europe",
+      "label": "location",
+      "description": "A region of Europe that includes countries such as Spain, Italy, and Greece, characterized by a Mediterranean climate",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.7680159466386399
+    },
+    {
+      "name": "Scandinavia",
+      "label": "location",
+      "description": "A region in Northern Europe that includes countries such as Norway, Sweden, and Denmark, known for its cold climate and natural beauty",
+      "uuid": "5367bbef-371d-43be-a4cd-5f4f5ccc4403",
+      "score": 0.7883159768900592
+    },
+    {
+      "name": "Bay of Biscay",
+      "label": "location",
+      "description": "A bay located in the northeastern part of the Atlantic Ocean, off the coast of western Europe",
+      "uuid": "66dc90fd-304a-4379-a9e1-18cf184cc6da",
+      "score": 0.5221553492101674
+    },
+    {
+      "name": "western and central Europe",
+      "label": "location",
+      "description": "A region of Europe that includes countries such as the United Kingdom, France, and Germany, characterized by a temperate climate",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.6409434717807523
+    },
+    {
+      "name": "ERA40 reanalysis",
+      "label": "project",
+      "description": "A reanalysis project that provides a consistent and comprehensive dataset of atmospheric and surface variables, covering the period from 1957 to 2002",
+      "uuid": "d6141f58-40bf-4a59-9fc2-707528e53486",
+      "score": 0.7950865262867566
+    },
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a large-scale pattern of climate variability that affects the atmospheric circulation over the North Atlantic and Europe",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.7850265668229057
+    },
+    {
+      "name": "CNRM-CM3",
+      "label": "model",
+      "description": "The Centre National de Recherches M\u00e9t\u00e9orologiques Climate Model version 3, a climate model used for simulating and predicting global climate patterns",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.6703041381795108
+    }
+  ],
+  "(20287, 22438)": [
+    {
+      "name": "MPI-ECHAM5",
+      "label": "model",
+      "description": "A coupled atmosphere-ocean general circulation model developed by the Max Planck Institute for Meteorology",
+      "uuid": "38e9d247-0ece-4e24-9756-b1d47e9b9c1a",
+      "score": 0.6699613054237762
+    },
+    {
+      "name": "IPSL-CM4",
+      "label": "model",
+      "description": "A global climate model developed by the Institut Pierre-Simon Laplace, used for simulating and predicting climate patterns",
+      "uuid": "f88c4559-fc4b-4b4a-ac57-0f15bb24e8e0",
+      "score": 0.6406794349312073
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, a type of climate model that simulates the general circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7805768088055706
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, a research institute that provides weather forecasts and climate data",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7744666065971582
+    },
+    {
+      "name": "ERA40",
+      "label": "project",
+      "description": "A reanalysis project that provides historical climate data from 1957 to 2002, used as a reference for climate model evaluation",
+      "uuid": "d6141f58-40bf-4a59-9fc2-707528e53486",
+      "score": 0.7853176565996273
+    },
+    {
+      "name": "MSLP",
+      "label": "variable",
+      "description": "Mean Sea Level Pressure, a measure of atmospheric pressure at sea level, used in climate and weather forecasting",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.633710651229834
+    },
+    {
+      "name": "storm",
+      "label": "weather event",
+      "description": "A severe weather condition characterized by strong winds, heavy rainfall, and thunderstorms",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.6191397261561763
+    },
+    {
+      "name": "gale",
+      "label": "weather event",
+      "description": "A strong wind that is usually considered to be stronger than a breeze but weaker than a storm",
+      "uuid": "530ca9b8-50f3-4bd6-82d4-c49fa688a977",
+      "score": 0.6796427067693325
+    }
+  ],
+  "(22076, 24496)": [
+    {
+      "name": "IPSL-CM4",
+      "label": "model",
+      "description": "A global climate model developed by the Institut Pierre-Simon Laplace, used for simulating and predicting climate patterns",
+      "uuid": "f88c4559-fc4b-4b4a-ac57-0f15bb24e8e0",
+      "score": 0.6406794349312073
+    },
+    {
+      "name": "storm",
+      "label": "weather event",
+      "description": "Severe meteorological occurrences characterized by strong winds, heavy rainfall, and potential for damage",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.630840475223112
+    },
+    {
+      "name": "ERA40",
+      "label": "project",
+      "description": "The European Centre for Medium-Range Weather Forecasts Re-Analysis 40, a project providing historical climate and weather data for research and analysis",
+      "uuid": "d6141f58-40bf-4a59-9fc2-707528e53486",
+      "score": 0.7902945068166165
+    },
+    {
+      "name": "20C GCM simulations",
+      "label": "experiment",
+      "description": "A set of climate model simulations using global climate models for the 20th century period, designed to study and compare climate patterns and trends",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.507102227613981
+    },
+    {
+      "name": "Atmospheric circulation",
+      "label": "ocean circulation",
+      "description": "The movement of air in the atmosphere, driven by temperature and pressure differences, which influences weather and climate patterns",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.5041623495989872
+    },
+    {
+      "name": "adaptation",
+      "label": "variable",
+      "description": "The process of adjusting to or coping with changes in climate or environmental conditions",
+      "uuid": "cf3d1728-7606-4561-a0dd-116b4dbec21f",
+      "score": 0.5845381206089431
+    },
+    {
+      "name": "ensemble mean",
+      "label": "variable",
+      "description": "The average value of a set of data or simulations, used to represent a typical or expected outcome",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5012973812925614
+    }
+  ],
+  "(24109, 26699)": [
+    {
+      "name": "storm",
+      "label": "weather event",
+      "description": "A severe weather condition characterized by strong winds, often accompanied by heavy rainfall or thunderstorms",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.6078711621852106
+    },
+    {
+      "name": "ERA40 reanalysis data",
+      "label": "dataset",
+      "description": "A set of climate data that combines model output with observational data to provide a comprehensive picture of the atmosphere",
+      "uuid": "3658db7a-74a2-4614-bb3c-7d0eef569aa5",
+      "score": 0.7336564970388453
+    },
+    {
+      "name": "Atmospheric circulation",
+      "label": "ocean circulation",
+      "description": "The movement of air in the atmosphere, driven by wind patterns and influencing weather and climate",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.5148127791168378
+    },
+    {
+      "name": "ensemble mean",
+      "label": "variable",
+      "description": "The average value of a set of simulations or models, used to represent a general trend or pattern",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5160625651959944
+    },
+    {
+      "name": "ERA40 estimates",
+      "label": "dataset",
+      "description": "Climate data derived from the ERA40 reanalysis, used for comparison and validation of model outputs",
+      "uuid": "3658db7a-74a2-4614-bb3c-7d0eef569aa5",
+      "score": 0.7199346287734757
+    },
+    {
+      "name": "20C GCM simulations",
+      "label": "experiment",
+      "description": "Climate model simulations using General Circulation Models for the 20th century, designed to study past climate conditions",
+      "uuid": "f9ce1564-0144-43d2-a9dd-bc48edcefb37",
+      "score": 0.5331067907219962
+    },
+    {
+      "name": "gale days",
+      "label": "weather event",
+      "description": "Days with strong winds, often used as an indicator of storm activity",
+      "uuid": "530ca9b8-50f3-4bd6-82d4-c49fa688a977",
+      "score": 0.5722406458189087
+    },
+    {
+      "name": "CNRM-CM3",
+      "label": "model",
+      "description": "A specific climate model used in the ensemble simulations, developed by the Centre National de Recherches M\u00e9t\u00e9orologiques",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.6612561581065226
+    },
+    {
+      "name": "IPSL-CM4",
+      "label": "model",
+      "description": "A specific climate model used in the ensemble simulations, developed by the Institut Pierre-Simon Laplace",
+      "uuid": "71f69b1f-f00c-4303-809b-027d58ebacf5",
+      "score": 0.6375677386672861
+    },
+    {
+      "name": "HadGEM1",
+      "label": "model",
+      "description": "A specific climate model used in the ensemble simulations, developed by the Met Office Hadley Centre",
+      "uuid": "071e792f-af6c-46e5-a9f4-732966defdfd",
+      "score": 0.7206710405450756
+    },
+    {
+      "name": "BCCR-BCM2",
+      "label": "model",
+      "description": "A specific climate model used in the ensemble simulations, developed by the Bjerknes Centre for Climate Research",
+      "uuid": "7399a2db-3c1c-4208-9cce-d3b616199fdd",
+      "score": 0.6656617183607028
+    }
+  ],
+  "(26238, 28610)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish sea located in Northern Europe, bordered by several countries and known for its significant role in regional climate and oceanography",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.8083444406650712
+    },
+    {
+      "name": "IPSL",
+      "label": "provider",
+      "description": "The Institut Pierre-Simon Laplace, a French research institution focused on Earth and environmental sciences, including climate modeling and research",
+      "uuid": "e8df7edd-a176-45c9-8515-3a520948ef63",
+      "score": 0.8136727144650472
+    },
+    {
+      "name": "intense storms",
+      "label": "weather event",
+      "description": "Severe meteorological events characterized by strong winds, heavy precipitation, and potential for significant damage",
+      "uuid": "ad28623e-bb9b-433c-8fc1-2ab06dda58c4",
+      "score": 0.6463794847057801
+    },
+    {
+      "name": "reanalysis data",
+      "label": "variable",
+      "description": "Historical climate data that has been re-examined and re-analyzed using advanced models and techniques to improve accuracy and consistency",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7172678884843013
+    },
+    {
+      "name": "ensemble mean",
+      "label": "model",
+      "description": "A statistical method used in climate modeling to combine the results of multiple simulations, reducing uncertainty and improving the reliability of predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5496203186294306
+    },
+    {
+      "name": "local wind speeds",
+      "label": "variable",
+      "description": "Measurements of wind speed in specific geographic locations, important for understanding regional climate patterns and weather events",
+      "uuid": "1488b98d-6497-48b9-88db-6ee82a2e3ed3",
+      "score": 0.5867354487076548
+    },
+    {
+      "name": "GCM 20C simulations",
+      "label": "experiment",
+      "description": "Global Climate Model simulations for the 20th century, used to study historical climate patterns and validate climate models",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.545751929839259
+    },
+    {
+      "name": "ERA40 reanalysis wind speed values",
+      "label": "variable",
+      "description": "Re-analyzed wind speed data from the ERA40 project, providing historical wind speed information for climate research and modeling",
+      "uuid": "3658db7a-74a2-4614-bb3c-7d0eef569aa5",
+      "score": 0.6017788162125545
+    },
+    {
+      "name": "Iceland",
+      "label": "location",
+      "description": "An island nation located in the North Atlantic, known for its unique geology and significant role in global ocean currents and climate patterns",
+      "uuid": "5e64ca14-42f3-4222-8f2c-5db3c7b71d8f",
+      "score": 0.6741632056544526
+    },
+    {
+      "name": "North Sea",
+      "label": "location",
+      "description": "A marginal sea located in Northern Europe, bordered by several countries and known for its importance in regional climate, oceanography, and economy",
+      "uuid": "4401ec0e-0d64-41d3-b4bd-2ff797865e83",
+      "score": 0.7859218671490306
+    },
+    {
+      "name": "storm cyclones",
+      "label": "weather event",
+      "description": "Cyclones associated with storm days, characterized by strong winds and low atmospheric pressure",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.5402001953791967
+    },
+    {
+      "name": "Great Britain",
+      "label": "location",
+      "description": "An island nation located in Northwest Europe, known for its significant role in global climate patterns, oceanography, and weather events",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.5797979893152749
+    },
+    {
+      "name": "central North Atlantic",
+      "label": "location",
+      "description": "A region of the North Atlantic Ocean, known for its importance in global ocean currents, climate patterns, and weather events",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.6390571731103986
+    }
+  ],
+  "(28193, 30837)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish sea located in Northern Europe, bordered by several countries and playing a role in regional climate patterns",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7849001566292366
+    },
+    {
+      "name": "southern Europe",
+      "label": "location",
+      "description": "A region of Europe characterized by Mediterranean climate and geography, influenced by the Mediterranean Sea and surrounding mountain ranges",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.7262404232396812
+    },
+    {
+      "name": "maximum wind speeds",
+      "label": "variable",
+      "description": "A measure of the highest wind speeds, often used to study extreme weather events such as storms",
+      "uuid": "106461af-377c-4dc0-bbd7-9769eba05321",
+      "score": 0.6206432815255586
+    },
+    {
+      "name": "reanalysis data",
+      "label": "dataset",
+      "description": "A type of dataset that combines historical observations and model outputs to provide a consistent and comprehensive view of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7724465184975207
+    },
+    {
+      "name": "mean daily maximum wind speed",
+      "label": "variable",
+      "description": "A measure of the average highest wind speed on a given day, used to study climate patterns and extreme weather events",
+      "uuid": "b18247b9-1d43-4e4a-b7bc-df9a2c2bef62",
+      "score": 0.5611834137179239
+    },
+    {
+      "name": "ensemble mean",
+      "label": "experiment",
+      "description": "A method of combining the results of multiple climate model simulations to reduce uncertainty and improve the accuracy of climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5395698223176125
+    },
+    {
+      "name": "GCM 20C simulations",
+      "label": "experiment",
+      "description": "A set of climate model simulations using General Circulation Models, focused on the 20th century and designed to study past climate conditions and variability",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5340748230773223
+    },
+    {
+      "name": "central European area",
+      "label": "location",
+      "description": "A region of Europe that includes several countries and is characterized by a mix of maritime and continental climate influences",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.6253084157051144
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region of Europe that includes several countries and is characterized by a mix of maritime and continental climate influences",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.6710944880391764
+    },
+    {
+      "name": "Iceland",
+      "label": "location",
+      "description": "An island nation located in the North Atlantic, known for its unique geology and climate",
+      "uuid": "5e64ca14-42f3-4222-8f2c-5db3c7b71d8f",
+      "score": 0.7424937491361939
+    },
+    {
+      "name": "climate model simulations",
+      "label": "model",
+      "description": "Computational representations of the Earth's climate system, used to simulate and predict future climate conditions and variability",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5995142125780469
+    },
+    {
+      "name": "ERA40",
+      "label": "dataset",
+      "description": "A reanalysis dataset produced by the European Centre for Medium-Range Weather Forecasts, covering the period from 1957 to 2002",
+      "uuid": "3658db7a-74a2-4614-bb3c-7d0eef569aa5",
+      "score": 0.8469998357233279
+    },
+    {
+      "name": "Great Britain",
+      "label": "location",
+      "description": "An island nation located in Northwest Europe, known for its maritime climate and geographical features",
+      "uuid": "c9e8dfcd-18ac-405d-b6a0-934ae3c743d3",
+      "score": 0.5891446466988828
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global climate patterns and variability",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7766202879561103
+    },
+    {
+      "name": "storm cyclones",
+      "label": "weather event",
+      "description": "A type of extreme weather event characterized by rotating air masses and strong winds, often associated with storms and heavy precipitation",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6263728640989676
+    }
+  ],
+  "(30386, 33255)": [
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located north of the equator, known for its influence on European climate and weather patterns",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7468059202936024
+    },
+    {
+      "name": "wind speeds",
+      "label": "variable",
+      "description": "A measure of the speed of air movement, often used in weather and climate studies",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.656724736103943
+    },
+    {
+      "name": "reanalysis data",
+      "label": "project",
+      "description": "A type of climate data that combines model outputs with observational data to provide a consistent and comprehensive view of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7423830261035078
+    },
+    {
+      "name": "British Isles",
+      "label": "location",
+      "description": "A group of islands in Northwest Europe, including the United Kingdom, Ireland, and surrounding islands",
+      "uuid": "c9e8dfcd-18ac-405d-b6a0-934ae3c743d3",
+      "score": 0.7503768175967614
+    },
+    {
+      "name": "Scandinavia",
+      "label": "location",
+      "description": "A region in Northern Europe, comprising Norway, Sweden, and Denmark, known for its unique climate and geography",
+      "uuid": "5367bbef-371d-43be-a4cd-5f4f5ccc4403",
+      "score": 0.7798872802626726
+    },
+    {
+      "name": "North Sea",
+      "label": "location",
+      "description": "A marginal sea located off the coast of Northern Europe, known for its role in regional climate and weather patterns",
+      "uuid": "0845d84f-b266-4ce3-af5a-2458e0e96173",
+      "score": 0.7837564116537712
+    },
+    {
+      "name": "southern Europe",
+      "label": "location",
+      "description": "A region in Europe, comprising countries such as Spain, Italy, and Greece, known for its Mediterranean climate",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.7758966113812132
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region in Europe, comprising countries such as Germany, France, and Poland, known for its temperate climate",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.7263262520233624
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of storm system characterized by rotating air masses, often associated with strong winds and precipitation",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6252459323697165
+    },
+    {
+      "name": "model ensemble",
+      "label": "project",
+      "description": "A collection of climate models used to simulate and predict future climate conditions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5884507895683966
+    },
+    {
+      "name": "maximum wind speeds",
+      "label": "variable",
+      "description": "A measure of the highest wind speed recorded during a storm or weather event",
+      "uuid": "106461af-377c-4dc0-bbd7-9769eba05321",
+      "score": 0.6237663010991789
+    },
+    {
+      "name": "validation",
+      "label": "experiment",
+      "description": "A process of evaluating the accuracy and reliability of climate models by comparing their outputs with observational data",
+      "uuid": "b283a59c-0e9a-469c-baf4-591b64cd4671",
+      "score": 0.6265355135355599
+    },
+    {
+      "name": "IPSL-CM4 simulation",
+      "label": "model",
+      "description": "A climate model developed by the Institut Pierre-Simon Laplace, used to simulate and predict future climate conditions",
+      "uuid": "a83e2359-c5b5-4dc3-9ecd-1ce2e2029da5",
+      "score": 0.6145405044892442
+    },
+    {
+      "name": "storm",
+      "label": "weather event",
+      "description": "A type of severe weather event characterized by strong winds, heavy precipitation, and thunderstorms",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.6424422881375105
+    },
+    {
+      "name": "boundaries",
+      "label": "variable",
+      "description": "A measure of the limits or edges of a climate-related phenomenon, such as a storm or weather pattern",
+      "uuid": "07a856fd-75e2-46e8-91eb-8a8562d3452f",
+      "score": 0.5545538686240156
+    },
+    {
+      "name": "daily maximum wind speed",
+      "label": "variable",
+      "description": "A measure of the highest wind speed recorded during a 24-hour period",
+      "uuid": "b18247b9-1d43-4e4a-b7bc-df9a2c2bef62",
+      "score": 0.5801173409291902
+    }
+  ],
+  "(32785, 35571)": [
+    {
+      "name": "IPSL",
+      "label": "provider",
+      "description": "A French research institution focused on climate and environmental sciences, providing climate models and data for research and assessment purposes",
+      "uuid": "e8df7edd-a176-45c9-8515-3a520948ef63",
+      "score": 0.8245082214130546
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Germany, Poland, and the Czech Republic, known for its temperate climate and varied geography",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.7457418341584561
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "One of the five oceans, located between the Americas, Europe, and Africa, playing a significant role in global climate regulation and weather patterns",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.8208079526639179
+    },
+    {
+      "name": "British Isles",
+      "label": "location",
+      "description": "A group of islands in Northwest Europe, including the United Kingdom and Ireland, known for their maritime climate and rugged coastlines",
+      "uuid": "c9e8dfcd-18ac-405d-b6a0-934ae3c743d3",
+      "score": 0.7423116285348194
+    },
+    {
+      "name": "North Sea",
+      "label": "location",
+      "description": "A sea located in Northern Europe, bounded by the United Kingdom, Norway, Denmark, and the Netherlands, known for its significant role in regional climate and marine ecosystems",
+      "uuid": "0845d84f-b266-4ce3-af5a-2458e0e96173",
+      "score": 0.8066539041345727
+    },
+    {
+      "name": "storm",
+      "label": "weather event",
+      "description": "Severe weather conditions characterized by strong winds, heavy rainfall, and thunderstorms, often associated with cyclones and other low-pressure systems",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.6409376752659077
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Large-scale rotating weather systems that form over warm ocean waters, characterized by strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.65412677685367
+    },
+    {
+      "name": "MPI-ECHAM5",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating and predicting global climate patterns and weather events",
+      "uuid": "38e9d247-0ece-4e24-9756-b1d47e9b9c1a",
+      "score": 0.6460361791128663
+    },
+    {
+      "name": "ENSEMBLES",
+      "label": "project",
+      "description": "A research project focused on ensemble-based climate prediction, aiming to improve the accuracy and reliability of climate forecasts and scenarios",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5374504712106869
+    },
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating and predicting global climate patterns and weather events",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5903433499163899
+    },
+    {
+      "name": "model ensemble",
+      "label": "project",
+      "description": "A collection of climate models and simulations used to estimate the range and robustness of possible future climate changes and scenarios",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5750002645750685
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "A measure of the speed of wind, often used in climate and weather studies to analyze and predict atmospheric conditions",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6937648434514474
+    },
+    {
+      "name": "track density",
+      "label": "variable",
+      "description": "A measure of the number of cyclone tracks per unit area, used to analyze and predict cyclone activity and storm patterns",
+      "uuid": "9a310897-86d4-4a31-9fe3-4b4ad45b3575",
+      "score": 0.5143389424643511
+    },
+    {
+      "name": "JC35",
+      "label": "experiment",
+      "description": "A set of climate simulations and experiments designed to study and predict future climate changes and scenarios",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5057876820634044
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A type of climate model that simulates the behavior of the atmosphere, oceans, and land surfaces, used to predict future climate changes and scenarios",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7280057080491107
+    }
+  ],
+  "(35115, 37839)": [
+    {
+      "name": "MPI-ECHAM5",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating and predicting climate patterns",
+      "uuid": "38e9d247-0ece-4e24-9756-b1d47e9b9c1a",
+      "score": 0.644139967314328
+    },
+    {
+      "name": "DMI-ECHAM5",
+      "label": "model",
+      "description": "A climate model developed by the Danish Meteorological Institute, used for simulating and predicting climate patterns",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5565219151467609
+    },
+    {
+      "name": "IPSL-CM4",
+      "label": "model",
+      "description": "A climate model developed by the Institut Pierre-Simon Laplace, used for simulating and predicting climate patterns",
+      "uuid": "a83e2359-c5b5-4dc3-9ecd-1ce2e2029da5",
+      "score": 0.6548303128474315
+    },
+    {
+      "name": "wind storm days",
+      "label": "weather event",
+      "description": "Days with strong winds, often associated with storms and cyclones",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.5771555188486982
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Large-scale atmospheric circulation patterns, often associated with storms and strong winds",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6396172746316299
+    },
+    {
+      "name": "track density",
+      "label": "variable",
+      "description": "A measure of the frequency and intensity of cyclones, used to quantify their impact on climate patterns",
+      "uuid": "9a310897-86d4-4a31-9fe3-4b4ad45b3575",
+      "score": 0.5320467906394084
+    },
+    {
+      "name": "intensity of the related cyclones",
+      "label": "variable",
+      "description": "A measure of the strength and severity of cyclones, used to quantify their impact on climate patterns",
+      "uuid": "a85b812e-e4d2-4dce-bf67-d89a3e1a9122",
+      "score": 0.5712231007199614
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "A measure of the speed of winds, used to quantify the intensity of storms and cyclones",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6420116065449063
+    },
+    {
+      "name": "MSLP",
+      "label": "variable",
+      "description": "Mean Sea Level Pressure, a measure of atmospheric pressure at sea level, used to quantify climate patterns",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.6254257786395371
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Model, a type of climate model used to simulate and predict climate patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7503519288721339
+    },
+    {
+      "name": "ensemble",
+      "label": "experiment",
+      "description": "A set of climate simulations, used to quantify the uncertainty and robustness of climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5592603422730753
+    }
+  ],
+  "(37432, 39972)": [
+    {
+      "name": "IPSL-CM4",
+      "label": "model",
+      "description": "The IPSL Climate Model version 4, a global climate model developed by the Institut Pierre-Simon Laplace to simulate and predict climate variability and change",
+      "uuid": "f88c4559-fc4b-4b4a-ac57-0f15bb24e8e0",
+      "score": 0.6405955997464264
+    },
+    {
+      "name": "cyclonic flow",
+      "label": "ocean circulation",
+      "description": "A type of large-scale atmospheric circulation characterized by rotating air masses, often associated with low-pressure systems and stormy weather",
+      "uuid": "178694aa-5f0a-4de5-a193-74e323dc6aa9",
+      "score": 0.5167793537048142
+    },
+    {
+      "name": "ensemble mean",
+      "label": "variable",
+      "description": "The average value of a set of model simulations, used to represent the central tendency of the ensemble and reduce uncertainty",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.515028335764978
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Large-scale rotating low-pressure weather systems, often associated with strong winds, heavy rainfall, and stormy conditions",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.642833827039786
+    },
+    {
+      "name": "model ensemble",
+      "label": "project",
+      "description": "A collection of climate models or simulations, used to quantify uncertainty and improve the accuracy of climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5930874512856098
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "A measure of the speed at which air is moving, often used to study weather patterns, climate variability, and storm intensity",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6899886831462068
+    },
+    {
+      "name": "storm related cyclones",
+      "label": "weather event",
+      "description": "Cyclones that are associated with stormy weather, strong winds, and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.5620830975459674
+    },
+    {
+      "name": "increased GHG forcing",
+      "label": "experiment",
+      "description": "A climate simulation or experiment that investigates the effects of increased greenhouse gas concentrations on the climate system",
+      "uuid": "3faf50b2-1881-471f-8d9c-e3ec8d921231",
+      "score": 0.5680416843870938
+    },
+    {
+      "name": "cyclone activity",
+      "label": "variable",
+      "description": "A measure of the frequency, intensity, or duration of cyclones, often used to study climate variability and change",
+      "uuid": "a85b812e-e4d2-4dce-bf67-d89a3e1a9122",
+      "score": 0.5593305631098069
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent located in the Northern Hemisphere, bounded by the Arctic Ocean, the Atlantic Ocean, and the Mediterranean Sea",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7777493784968332
+    },
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a large-scale climate pattern that influences weather and climate variability across the North Atlantic region",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.785582669891068
+    }
+  ],
+  "(39539, 42343)": [
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a climate pattern characterized by fluctuations in the difference of atmospheric pressure between the Icelandic Low and the Azores High",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.8059614223658033
+    },
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "The European Centre Hamburg Model version 5, a climate model used for simulating and predicting atmospheric and climate phenomena",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5833564996867766
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, the half of the Earth north of the equator",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.6720235658749389
+    },
+    {
+      "name": "cyclone activity",
+      "label": "weather event",
+      "description": "The occurrence and behavior of cyclones, which are large-scale weather systems characterized by low atmospheric pressure and rotating winds",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.5533329902330169
+    },
+    {
+      "name": "MPI-ECHAM5",
+      "label": "model",
+      "description": "A version of the ECHAM5 climate model developed at the Max Planck Institute for Meteorology",
+      "uuid": "38e9d247-0ece-4e24-9756-b1d47e9b9c1a",
+      "score": 0.6542066449198608
+    },
+    {
+      "name": "North Sea",
+      "label": "location",
+      "description": "A sea located off the coast of northern Europe, known for its role in regional climate and weather patterns",
+      "uuid": "0845d84f-b266-4ce3-af5a-2458e0e96173",
+      "score": 0.7740273115163899
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A sea located in northern Europe, bordered by several countries and influenced by regional climate patterns",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7587411778535169
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Germany, Poland, and the Czech Republic, known for its varied climate and weather patterns",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.7128801689807126
+    },
+    {
+      "name": "wind storms",
+      "label": "weather event",
+      "description": "Severe weather events characterized by strong winds, often causing damage and disruption",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.6959834628744492
+    },
+    {
+      "name": "wind speeds",
+      "label": "variable",
+      "description": "A measure of the speed of the wind, often used to study and predict weather and climate patterns",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6426439086255107
+    },
+    {
+      "name": "cyclone tracks",
+      "label": "variable",
+      "description": "The paths followed by cyclones as they move across the Earth's surface",
+      "uuid": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
+      "score": 0.634519665631017
+    },
+    {
+      "name": "cyclonic flow",
+      "label": "variable",
+      "description": "A type of atmospheric flow characterized by rotating winds and low atmospheric pressure",
+      "uuid": "178694aa-5f0a-4de5-a193-74e323dc6aa9",
+      "score": 0.5056032148785276
+    },
+    {
+      "name": "MSLP",
+      "label": "variable",
+      "description": "Mean Sea Level Pressure, a measure of atmospheric pressure at sea level",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.633395607607254
+    }
+  ],
+  "(41795, 44820)": [
+    {
+      "name": "ACC",
+      "label": "variable",
+      "description": "A measure of the changes in storminess and cyclones due to climate change",
+      "uuid": "2ead8ea2-0357-4c95-9483-da8149855fd4",
+      "score": 0.5304388905715366
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Model, a type of climate model used to simulate the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7585748959691607
+    },
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "A specific type of climate model used for simulating the Earth's climate system",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5507679413272345
+    },
+    {
+      "name": "MPI",
+      "label": "provider",
+      "description": "The Max Planck Institute for Meteorology, a research institution focused on climate modeling and research",
+      "uuid": "7cf22186-281a-4665-b79b-5a6e5ea5b471",
+      "score": 0.7109477202932847
+    },
+    {
+      "name": "DMI",
+      "label": "provider",
+      "description": "The Danish Meteorological Institute, a research institution focused on climate modeling and research",
+      "uuid": "15e8c48f-ece5-4502-b255-e66ec88c6f10",
+      "score": 0.6208675608343113
+    },
+    {
+      "name": "storms",
+      "label": "weather event",
+      "description": "Severe weather conditions characterized by strong winds, heavy rainfall, and other extreme weather phenomena",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.6610375815551716
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of storm characterized by rotating air masses and strong winds",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6185148780532689
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5686560206034993
+    }
+  ],
+  "(44359, 47271)": [
+    {
+      "name": "wind storms",
+      "label": "weather event",
+      "description": "Severe meteorological occurrences characterized by strong winds, often leading to damage and disruption",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.6683033477621918
+    },
+    {
+      "name": "wind speeds",
+      "label": "variable",
+      "description": "A measure of the rate of air movement, typically used to describe weather patterns and storm intensity",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6449062247868959
+    },
+    {
+      "name": "storm-related cyclones",
+      "label": "weather event",
+      "description": "Low-pressure systems associated with strong winds and precipitation, often causing significant weather events",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6358189631304185
+    },
+    {
+      "name": "ensemble mean",
+      "label": "model",
+      "description": "A statistical method used to combine the results of multiple climate models, reducing uncertainty and improving predictive accuracy",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5661213479452536
+    },
+    {
+      "name": "atmospheric circulation",
+      "label": "ocean circulation",
+      "description": "The movement of air in the atmosphere, driven by wind, temperature, and pressure differences, influencing weather and climate patterns",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.5112625436768793
+    },
+    {
+      "name": "central Europe",
+      "label": "location",
+      "description": "A region in Europe, including countries such as Germany, France, and Poland, characterized by a temperate climate and varied geography",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.7201689626729277
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Low-pressure systems with rotating air masses, often associated with strong winds, precipitation, and stormy weather",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6222965108045386
+    },
+    {
+      "name": "multi-model ensemble",
+      "label": "model",
+      "description": "A collection of climate models used together to improve the accuracy and reliability of climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5793673095794263
+    },
+    {
+      "name": "GCM simulations",
+      "label": "model",
+      "description": "General Circulation Model simulations, used to study and predict the behavior of the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.668499241033384
+    },
+    {
+      "name": "ERA40",
+      "label": "project",
+      "description": "A reanalysis project providing historical climate data, used as a reference for evaluating climate models",
+      "uuid": "d6141f58-40bf-4a59-9fc2-707528e53486",
+      "score": 0.7784988476823329
+    }
+  ],
+  "(46764, 49817)": [
+    {
+      "name": "ENSEMBLES",
+      "label": "project",
+      "description": "A European Commission-funded project aimed at ensemble-based predictions of climate change and its impacts",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5070562897915518
+    },
+    {
+      "name": "European Commission",
+      "label": "provider",
+      "description": "The executive body of the European Union, responsible for proposing legislation and implementing policies",
+      "uuid": "57a14338-6965-41de-9876-41fa6d259c51",
+      "score": 0.6502902815145999
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, an independent intergovernmental organisation that provides weather forecasts and climate data",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7648471625464465
+    },
+    {
+      "name": "DKRZ",
+      "label": "provider",
+      "description": "The German Climate Computing Centre, a national high-performance computing centre for climate research",
+      "uuid": "8d4da91d-b1c1-4c8f-bd13-925d808d0b75",
+      "score": 0.7493063484193178
+    },
+    {
+      "name": "ERA-40",
+      "label": "project",
+      "description": "A reanalysis project that combines model data with historical weather observations to produce a consistent and reliable climate dataset",
+      "uuid": "d6141f58-40bf-4a59-9fc2-707528e53486",
+      "score": 0.7786002087302953
+    },
+    {
+      "name": "DWD",
+      "label": "provider",
+      "description": "The German Weather Service, a national meteorological service that provides weather forecasts and warnings",
+      "uuid": "0d21b1da-cace-4e32-807e-c7154e8c268f",
+      "score": 0.784414667536251
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of storm system characterized by rotating air that forms over warm ocean waters",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6180247967739498
+    },
+    {
+      "name": "wind storms",
+      "label": "weather event",
+      "description": "Severe weather events characterized by strong winds, often causing damage and disruption",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.6959834628744492
+    },
+    {
+      "name": "atmospheric circulation",
+      "label": "ocean circulation",
+      "description": "The movement of air in the atmosphere, driven by temperature and pressure differences, which influences weather patterns and climate",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.503327312770948
+    },
+    {
+      "name": "British Isles",
+      "label": "location",
+      "description": "A group of islands in Northwest Europe, including the United Kingdom, Ireland, and surrounding islands",
+      "uuid": "c9e8dfcd-18ac-405d-b6a0-934ae3c743d3",
+      "score": 0.7503768175967614
+    },
+    {
+      "name": "North Sea",
+      "label": "location",
+      "description": "A marginal sea located off the coast of Europe, connected to the Atlantic Ocean and known for its significant role in regional climate and weather patterns",
+      "uuid": "0845d84f-b266-4ce3-af5a-2458e0e96173",
+      "score": 0.7868896563659445
+    },
+    {
+      "name": "central European region",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Germany, France, and Austria, characterized by a temperate climate and diverse geography",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.694828378290259
+    },
+    {
+      "name": "vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air or water, often used to study weather patterns and climate phenomena",
+      "uuid": "858a80ff-5aa4-4590-b2e2-e88a802a6ee4",
+      "score": 0.7271758498514819
+    },
+    {
+      "name": "wind speeds",
+      "label": "variable",
+      "description": "A measure of the speed of wind, often used to study weather patterns and climate phenomena",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6431512759042719
+    }
+  ],
+  "(49389, 49817)": [
+    {
+      "name": "European Commission",
+      "label": "provider",
+      "description": "The executive body of the European Union, responsible for proposing legislation and implementing policies",
+      "uuid": "57a14338-6965-41de-9876-41fa6d259c51",
+      "score": 0.6502902815145999
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, an organization that provides global weather forecasts and climate data",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7745796718438328
+    },
+    {
+      "name": "DWD",
+      "label": "provider",
+      "description": "The German Weather Service, a national meteorological agency providing weather forecasts and warnings",
+      "uuid": "0d21b1da-cace-4e32-807e-c7154e8c268f",
+      "score": 0.7898672394791016
+    },
+    {
+      "name": "DKRZ",
+      "label": "provider",
+      "description": "The German Climate Computing Centre, a research institution providing high-performance computing resources for climate modeling and data analysis",
+      "uuid": "8d4da91d-b1c1-4c8f-bd13-925d808d0b75",
+      "score": 0.7819567032744389
+    },
+    {
+      "name": "ERA-40",
+      "label": "project",
+      "description": "A reanalysis project by ECMWF that produced a comprehensive dataset of atmospheric and surface conditions from 1957 to 2002",
+      "uuid": "d6141f58-40bf-4a59-9fc2-707528e53486",
+      "score": 0.7966552539744536
+    },
+    {
+      "name": "ENSEMBLES",
+      "label": "project",
+      "description": "A European Union-funded project that aimed to develop and apply ensemble prediction systems for climate change research",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5022331916074987
+    }
+  ]
+}

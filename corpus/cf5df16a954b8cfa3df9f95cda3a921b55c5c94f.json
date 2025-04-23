@@ -1,0 +1,792 @@
+{
+  "(0, 2985)": [
+    {
+      "name": "Soil moisture",
+      "label": "variable",
+      "description": "The water contained in the weathered and fragmented outer soil layer of the earth's terrestrial surface, essential for understanding physical, chemical, and biological land surface processes",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6937614404507311
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7414456615238761
+    },
+    {
+      "name": "UNFCCC",
+      "label": "provider",
+      "description": "The United Nations Framework Convention on Climate Change, an international treaty aimed at stabilizing greenhouse gas concentrations in the atmosphere",
+      "uuid": "67f93e65-5991-4ffa-85ec-a26bd324181e",
+      "score": 0.7756219114829137
+    },
+    {
+      "name": "ERS",
+      "label": "platform",
+      "description": "The European Remote Sensing satellite, used for Earth observation and climate research",
+      "uuid": "3b6b4870-ae80-4488-b9fb-f9152037ec59",
+      "score": 0.7443615149606803
+    },
+    {
+      "name": "METOP",
+      "label": "platform",
+      "description": "The Meteorological Operational satellite, used for weather forecasting and climate monitoring",
+      "uuid": "8c192c86-d07c-4e7b-af8f-92aa4b40fca7",
+      "score": 0.7587446498963188
+    },
+    {
+      "name": "C-band scatterometers",
+      "label": "instrument",
+      "description": "A type of radar instrument used to measure soil moisture and other land surface properties",
+      "uuid": "563f30c8-43f8-48be-b649-4b548f877fa4",
+      "score": 0.6474036230454826
+    },
+    {
+      "name": "SMMR",
+      "label": "instrument",
+      "description": "The Scanning Multichannel Microwave Radiometer, a satellite instrument used to measure soil moisture and other land surface properties",
+      "uuid": "4a2d4e54-1e39-46d6-aafd-a3f685ed4f85",
+      "score": 0.7695983249005168
+    },
+    {
+      "name": "SSM/I",
+      "label": "instrument",
+      "description": "The Special Sensor Microwave/Imager, a satellite instrument used to measure soil moisture and other land surface properties",
+      "uuid": "c5058bd9-6183-4c0a-a6aa-611540ba1196",
+      "score": 0.6933294308763591
+    },
+    {
+      "name": "TMI",
+      "label": "instrument",
+      "description": "The Tropical Rainfall Measuring Mission Microwave Imager, a satellite instrument used to measure soil moisture and other land surface properties",
+      "uuid": "1449ce31-3588-45cd-88b5-55e24d677210",
+      "score": 0.732201718449237
+    },
+    {
+      "name": "AMSR-E",
+      "label": "instrument",
+      "description": "The Advanced Microwave Scanning Radiometer for the Earth Observing System, a satellite instrument used to measure soil moisture and other land surface properties",
+      "uuid": "92d834e1-689c-4d12-8c4a-74ee4cf75b36",
+      "score": 0.6897294565446345
+    },
+    {
+      "name": "Windsat",
+      "label": "instrument",
+      "description": "The WindSat instrument, a satellite instrument used to measure soil moisture and other land surface properties",
+      "uuid": "75bd4312-5e45-4943-be24-343f42ee5c82",
+      "score": 0.6704331536959718
+    },
+    {
+      "name": "WACMOS",
+      "label": "project",
+      "description": "The Water Cycle Multi-Mission Observation Strategy, a project funded by the European Space Agency to improve soil moisture observations",
+      "uuid": "ac916278-ceee-433e-97a2-582e677eeb13",
+      "score": 0.5188922051085303
+    },
+    {
+      "name": "ESA",
+      "label": "provider",
+      "description": "The European Space Agency, a space agency dedicated to the exploration of space and the development of space-based technologies",
+      "uuid": "8276d6f9-8fd5-44cd-8dd7-3ca326a9c21e",
+      "score": 0.5043882506327934
+    },
+    {
+      "name": "CCI",
+      "label": "project",
+      "description": "The Climate Change Initiative, a programme of the European Space Agency aimed at improving our understanding of climate change",
+      "uuid": "7aa8d139-ef0f-4c35-b2fd-2eb7bab1310f",
+      "score": 0.7119771000750375
+    }
+  ],
+  "(2408, 5489)": [
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, an important factor in climate and environmental studies",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.699145225229343
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "Long-term changes in the Earth's climate, leading to significant impacts on the environment and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5892377506568215
+    },
+    {
+      "name": "Global Climate Observing System",
+      "label": "project",
+      "description": "A framework for coordinating global climate observations, aiming to provide comprehensive and sustained climate data records",
+      "uuid": "8de2a7c3-1e66-4946-a8b3-9a2f79a3086c",
+      "score": 0.536036759881709
+    },
+    {
+      "name": "Group on Earth Observation",
+      "label": "provider",
+      "description": "An international partnership that aims to coordinate Earth observation activities and provide data for informed decision-making",
+      "uuid": "283815b3-8467-422e-9def-114d3436b772",
+      "score": 0.5711707028719021
+    },
+    {
+      "name": "Global Energy and Water Cycle Experiment",
+      "label": "project",
+      "description": "An international research initiative that aims to understand the Earth's energy and water cycles and their role in the climate system",
+      "uuid": "25cffb7e-087b-49aa-ae2a-8ce62acaefaa",
+      "score": 0.7087475361807628
+    },
+    {
+      "name": "European Space Agency",
+      "label": "provider",
+      "description": "An intergovernmental organization dedicated to the exploration and development of space, with a focus on Earth observation and climate research",
+      "uuid": "745ec589-e6be-48e6-90ef-e16e784c6c59",
+      "score": 0.579994707140896
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "label": "provider",
+      "description": "A United States government agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6531273171026383
+    },
+    {
+      "name": "Soil Moisture and Ocean Salinity",
+      "label": "instrument",
+      "description": "A satellite mission launched by the European Space Agency to measure soil moisture and ocean salinity",
+      "uuid": "a641c997-0bd2-41aa-ba43-8e03066c3c2a",
+      "score": 0.641659396083606
+    },
+    {
+      "name": "Soil Moisture Active Passive",
+      "label": "instrument",
+      "description": "A satellite mission launched by the National Aeronautics and Space Administration to measure soil moisture",
+      "uuid": "2c473339-954d-4193-86f5-b427640110f9",
+      "score": 0.6304245832523449
+    },
+    {
+      "name": "Vienna University of Technology",
+      "label": "provider",
+      "description": "A research institution that has published global soil moisture datasets",
+      "uuid": "d4ce9e0d-eafa-4a00-bff5-bae90560b364",
+      "score": 0.5002865498660235
+    },
+    {
+      "name": "long-term satellite soil moisture data sets",
+      "label": "variable",
+      "description": "Datasets that provide information on soil moisture over an extended period, derived from satellite observations",
+      "uuid": "32e1b1ec-fa69-47b5-b0d6-d71948e3997a",
+      "score": 0.5565901605115634
+    },
+    {
+      "name": "global soil moisture data sets",
+      "label": "variable",
+      "description": "Datasets that provide information on soil moisture at the global scale, derived from various sources",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.5692629862493003
+    }
+  ],
+  "(4939, 7868)": [
+    {
+      "name": "Vienna University of Technology",
+      "label": "provider",
+      "description": "A research institution based in Austria, known for its contributions to various scientific fields, including remote sensing and environmental monitoring",
+      "uuid": "b60cff41-3717-4919-8efd-33ee6c173d19",
+      "score": 0.5311775242805528
+    },
+    {
+      "name": "TU Wien",
+      "label": "provider",
+      "description": "The Vienna University of Technology, a research institution based in Austria, known for its contributions to various scientific fields, including remote sensing and environmental monitoring",
+      "uuid": "b60cff41-3717-4919-8efd-33ee6c173d19",
+      "score": 0.5125344026952412
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a United States government agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6847464046552499
+    },
+    {
+      "name": "Vrije Universiteit Amsterdam",
+      "label": "provider",
+      "description": "A research institution based in the Netherlands, known for its contributions to various scientific fields, including environmental science and remote sensing",
+      "uuid": "99dcfaba-f95a-4c1c-a890-a7e64bf229c6",
+      "score": 0.5726250464873411
+    },
+    {
+      "name": "US Navel Research Laboratory",
+      "label": "provider",
+      "description": "A research institution based in the United States, known for its contributions to various scientific fields, including naval research and remote sensing",
+      "uuid": "8b406cf9-54b0-4465-8052-bd52b36806de",
+      "score": 0.5786975255804281
+    },
+    {
+      "name": "EUMETSAT",
+      "label": "provider",
+      "description": "The European Organisation for the Exploitation of Meteorological Satellites, an intergovernmental organisation that operates a system of meteorological satellites",
+      "uuid": "049cb720-9272-409a-b918-73742cf810d6",
+      "score": 0.6689183831610283
+    },
+    {
+      "name": "METOP Advanced Scatterometer",
+      "label": "instrument",
+      "description": "A scatterometer instrument onboard the METOP satellite, used for measuring soil moisture and other environmental parameters",
+      "uuid": "f55d156c-adbc-47db-a69c-981afbaa0cf6",
+      "score": 0.6242657385209673
+    },
+    {
+      "name": "ERS C-band",
+      "label": "instrument",
+      "description": "A C-band scatterometer instrument onboard the ERS satellite, used for measuring soil moisture and other environmental parameters",
+      "uuid": "d1c4be34-1053-42c5-bc81-bfdcb6b27567",
+      "score": 0.657267711113717
+    },
+    {
+      "name": "AMSR-E",
+      "label": "instrument",
+      "description": "The Advanced Microwave Scanning Radiometer for the Earth Observing System, a microwave radiometer instrument used for measuring soil moisture and other environmental parameters",
+      "uuid": "cf664bfd-5313-4472-9979-53b7e810287c",
+      "score": 0.6869960954048171
+    },
+    {
+      "name": "Windsat",
+      "label": "instrument",
+      "description": "A microwave radiometer instrument used for measuring soil moisture and other environmental parameters",
+      "uuid": "75bd4312-5e45-4943-be24-343f42ee5c82",
+      "score": 0.6881196843832614
+    },
+    {
+      "name": "SMOS",
+      "label": "instrument",
+      "description": "The Soil Moisture and Ocean Salinity satellite, a satellite mission used for measuring soil moisture and ocean salinity",
+      "uuid": "a641c997-0bd2-41aa-ba43-8e03066c3c2a",
+      "score": 0.7103035238235981
+    },
+    {
+      "name": "microwave radiometers",
+      "label": "instrument",
+      "description": "A type of instrument used for measuring soil moisture and other environmental parameters using microwave radiation",
+      "uuid": "a0e116bb-56d8-4739-a83a-db7c4935fe72",
+      "score": 0.5978436697128601
+    },
+    {
+      "name": "microwave radiometer measurements",
+      "label": "variable",
+      "description": "Measurements of soil moisture and other environmental parameters using microwave radiation",
+      "uuid": "a0e116bb-56d8-4739-a83a-db7c4935fe72",
+      "score": 0.5922830138485966
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, an important parameter for understanding climate, weather, and environmental processes",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.7151029940494955
+    },
+    {
+      "name": "soil moisture data",
+      "label": "variable",
+      "description": "Data related to the amount of water held in the soil, an important parameter for understanding climate, weather, and environmental processes",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.7022272974793853
+    },
+    {
+      "name": "multi-sensor soil moisture dataset",
+      "label": "project",
+      "description": "A dataset that combines soil moisture data from multiple sensors and sources, used for understanding climate, weather, and environmental processes",
+      "uuid": "afdb5cdb-58da-47c8-87a7-950cc63c53f4",
+      "score": 0.5500801765719309
+    },
+    {
+      "name": "WindSat soil moisture dataset",
+      "label": "project",
+      "description": "A dataset of soil moisture data retrieved from the WindSat satellite, used for understanding climate, weather, and environmental processes",
+      "uuid": "32e1b1ec-fa69-47b5-b0d6-d71948e3997a",
+      "score": 0.5696653317437794
+    }
+  ],
+  "(7376, 10205)": [
+    {
+      "name": "volumetric soil moisture units",
+      "label": "variable",
+      "description": "A measure of soil moisture expressed as the volume of water per unit volume of soil",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.567559794220262
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, an essential component of the Earth's water cycle and climate system",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.7071229861217335
+    },
+    {
+      "name": "soil moisture applications",
+      "label": "project",
+      "description": "The practical uses of soil moisture data, such as in agriculture, hydrology, and climate modeling",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.5931220776085773
+    },
+    {
+      "name": "soil moisture retrievals",
+      "label": "experiment",
+      "description": "The process of estimating soil moisture from remote sensing data, often using complex algorithms and models",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.5587419060853295
+    },
+    {
+      "name": "remotely sensed surface soil moisture measurements",
+      "label": "variable",
+      "description": "Measurements of soil moisture obtained through remote sensing techniques, typically representing the surface layer of the soil",
+      "uuid": "09e712bf-7389-4980-8115-af4282469eb8",
+      "score": 0.6161498001866352
+    },
+    {
+      "name": "soil moisture data sets",
+      "label": "project",
+      "description": "Collections of data related to soil moisture, often used for research, modeling, and applications",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.602559905485749
+    },
+    {
+      "name": "soil moisture content",
+      "label": "variable",
+      "description": "The amount of water present in the soil, usually expressed as a percentage or volumetric unit",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.7253358672110737
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its unique climate and environmental conditions",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7202335669251118
+    }
+  ],
+  "(9738, 12558)": [
+    {
+      "name": "soil moisture retrievals",
+      "label": "variable",
+      "description": "Measurements of the amount of moisture in the soil, often used in climate and environmental studies",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6428575156581764
+    },
+    {
+      "name": "diverse active and passive microwave sensors",
+      "label": "instrument",
+      "description": "Devices used to measure and observe soil moisture, including active and passive microwave remote sensing instruments such as ASCAT, AMSR-E, SMOS, and SMAP",
+      "uuid": "92d834e1-689c-4d12-8c4a-74ee4cf75b36",
+      "score": 0.5716172872858466
+    },
+    {
+      "name": "ECV surface soil moisture data",
+      "label": "project",
+      "description": "A project focused on generating a consistent and harmonized dataset of surface soil moisture measurements, using a variety of active and passive microwave remote sensing instruments",
+      "uuid": "104ca499-ed21-42ba-8f01-402a9b41a37e",
+      "score": 0.6038499275639871
+    },
+    {
+      "name": "different active and passive microwave remote sensing instruments",
+      "label": "instrument",
+      "description": "Devices used to measure and observe soil moisture, including active and passive microwave remote sensing instruments such as ASCAT, AMSR-E, SMOS, and SMAP",
+      "uuid": "92d834e1-689c-4d12-8c4a-74ee4cf75b36",
+      "score": 0.6335856645033022
+    },
+    {
+      "name": "surface soil moisture content",
+      "label": "variable",
+      "description": "The amount of moisture present in the soil, often used in climate and environmental studies",
+      "uuid": "09e712bf-7389-4980-8115-af4282469eb8",
+      "score": 0.7285045376001895
+    },
+    {
+      "name": "multi-sensor approach",
+      "label": "experiment",
+      "description": "A method of combining data from multiple sensors or instruments to improve the accuracy and consistency of soil moisture retrievals",
+      "uuid": "afdb5cdb-58da-47c8-87a7-950cc63c53f4",
+      "score": 0.5535740257347789
+    },
+    {
+      "name": "soil moisture retrieval",
+      "label": "variable",
+      "description": "The process of estimating soil moisture levels using remote sensing data and algorithms",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.565498119129527
+    },
+    {
+      "name": "AMSR-E",
+      "label": "instrument",
+      "description": "The Advanced Microwave Scanning Radiometer for the Earth Observing System, a passive microwave remote sensing instrument used to measure soil moisture and other environmental parameters",
+      "uuid": "92d834e1-689c-4d12-8c4a-74ee4cf75b36",
+      "score": 0.7018406418048664
+    },
+    {
+      "name": "ASCAT",
+      "label": "instrument",
+      "description": "The Advanced Scatterometer, an active microwave remote sensing instrument used to measure soil moisture and other environmental parameters",
+      "uuid": "f55d156c-adbc-47db-a69c-981afbaa0cf6",
+      "score": 0.7835420599526701
+    },
+    {
+      "name": "SMOS",
+      "label": "instrument",
+      "description": "The Soil Moisture and Ocean Salinity mission, a satellite-based passive microwave remote sensing instrument used to measure soil moisture and ocean salinity",
+      "uuid": "a641c997-0bd2-41aa-ba43-8e03066c3c2a",
+      "score": 0.7181945943076659
+    },
+    {
+      "name": "SMAP",
+      "label": "instrument",
+      "description": "The Soil Moisture Active Passive mission, a satellite-based active and passive microwave remote sensing instrument used to measure soil moisture",
+      "uuid": "2c473339-954d-4193-86f5-b427640110f9",
+      "score": 0.7491836112811675
+    }
+  ],
+  "(12065, 14820)": [
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "A measure of the amount of water held in the soil, an important factor in climate and agricultural studies",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.7127789949368003
+    },
+    {
+      "name": "soil moisture estimates",
+      "label": "variable",
+      "description": "Quantitative predictions of soil moisture levels, often derived from remote sensing data",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.5975532015953514
+    },
+    {
+      "name": "surface soil moisture data",
+      "label": "variable",
+      "description": "Measurements of the moisture content at the surface of the soil, used in various climate and environmental applications",
+      "uuid": "09e712bf-7389-4980-8115-af4282469eb8",
+      "score": 0.7564608162993989
+    },
+    {
+      "name": "Level 2 soil moisture retrievals",
+      "label": "instrument",
+      "description": "Processed data that provide estimates of soil moisture, derived from Level 1 microwave observations",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.5202179656827136
+    },
+    {
+      "name": "multi-frequency radiometers",
+      "label": "instrument",
+      "description": "Remote sensing instruments that measure radiation at multiple frequencies to gather data on various environmental parameters",
+      "uuid": "79e79dea-54f1-454d-9def-c05973de6208",
+      "score": 0.7256401603226618
+    },
+    {
+      "name": "METOP ASCAT",
+      "label": "instrument",
+      "description": "A scatterometer instrument on board the Metop satellite, used for measuring wind and soil moisture",
+      "uuid": "f55d156c-adbc-47db-a69c-981afbaa0cf6",
+      "score": 0.7756797381466263
+    },
+    {
+      "name": "scatterometers",
+      "label": "instrument",
+      "description": "Remote sensing instruments that measure the scattering of radiation by the Earth's surface, used to estimate soil moisture and other parameters",
+      "uuid": "563f30c8-43f8-48be-b649-4b548f877fa4",
+      "score": 0.8189348313778667
+    },
+    {
+      "name": "radar altimeters",
+      "label": "instrument",
+      "description": "Remote sensing instruments that measure the height of the Earth's surface using radar, often used in conjunction with other instruments for environmental monitoring",
+      "uuid": "92ddaaca-40b2-4936-bc1a-28cc5743e8b8",
+      "score": 0.8131637787974351
+    },
+    {
+      "name": "microwave remote sensing instruments",
+      "label": "instrument",
+      "description": "Devices used to collect data about the Earth's surface and atmosphere using microwave radiation",
+      "uuid": "6015ef7b-f3bd-49e1-9193-cc23db566b69",
+      "score": 0.6123835099615694
+    }
+  ],
+  "(14402, 17186)": [
+    {
+      "name": "ERS SCAT",
+      "label": "instrument",
+      "description": "A scatterometer instrument on board the European Remote Sensing satellite, used for measuring backscatter from the Earth's surface",
+      "uuid": "d1c4be34-1053-42c5-bc81-bfdcb6b27567",
+      "score": 0.7062784693923227
+    },
+    {
+      "name": "METOP ASCAT",
+      "label": "instrument",
+      "description": "A scatterometer instrument on board the Metop satellite, used for measuring backscatter from the Earth's surface",
+      "uuid": "f55d156c-adbc-47db-a69c-981afbaa0cf6",
+      "score": 0.7829734477978244
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water contained in the soil, an essential parameter for understanding land surface processes and climate dynamics",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.7219152780460864
+    },
+    {
+      "name": "soil moisture estimates",
+      "label": "variable",
+      "description": "Quantitative assessments of soil moisture levels, often derived from remote sensing data and used in climate and hydrological studies",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6362935768722017
+    },
+    {
+      "name": "scatterometers",
+      "label": "instrument",
+      "description": "Instruments used to measure the scattering of electromagnetic waves by surfaces, commonly employed in remote sensing applications",
+      "uuid": "563f30c8-43f8-48be-b649-4b548f877fa4",
+      "score": 0.8169925853080142
+    },
+    {
+      "name": "passive multi-frequency radiometers",
+      "label": "instrument",
+      "description": "Instruments used to measure the radiation emitted by the Earth's surface, often used in remote sensing applications to estimate soil moisture and other land surface parameters",
+      "uuid": "79e79dea-54f1-454d-9def-c05973de6208",
+      "score": 0.660152729482579
+    },
+    {
+      "name": "AMSR-E",
+      "label": "instrument",
+      "description": "The Advanced Microwave Scanning Radiometer for the Earth Observing System, an instrument used for measuring microwave radiation emitted by the Earth's surface",
+      "uuid": "cf664bfd-5313-4472-9979-53b7e810287c",
+      "score": 0.6856774603463789
+    },
+    {
+      "name": "ASCAT calibration",
+      "label": "project",
+      "description": "A project focused on calibrating the Advanced Scatterometer instrument to ensure accurate measurements of backscatter from the Earth's surface",
+      "uuid": "f55d156c-adbc-47db-a69c-981afbaa0cf6",
+      "score": 0.629053274015499
+    },
+    {
+      "name": "advanced scatterometer software",
+      "label": "model",
+      "description": "A software tool used for processing and analyzing data from scatterometer instruments, designed to improve the accuracy of backscatter measurements",
+      "uuid": "563f30c8-43f8-48be-b649-4b548f877fa4",
+      "score": 0.5472546113916696
+    }
+  ],
+  "(16740, 19419)": [
+    {
+      "name": "WACMOS",
+      "label": "project",
+      "description": "A project funded by the European Space Agency (ESA) aimed at producing long-term soil moisture datasets by merging active and passive satellite retrievals",
+      "uuid": "ac916278-ceee-433e-97a2-582e677eeb13",
+      "score": 0.5414536513540162
+    },
+    {
+      "name": "ESA",
+      "label": "provider",
+      "description": "The European Space Agency, an intergovernmental organization dedicated to space exploration, Earth observation, and scientific research",
+      "uuid": "8276d6f9-8fd5-44cd-8dd7-3ca326a9c21e",
+      "score": 0.5429588634056498
+    },
+    {
+      "name": "ERS SCAT",
+      "label": "instrument",
+      "description": "A scatterometer instrument on board the European Remote Sensing satellite, used for measuring soil moisture and other land surface parameters",
+      "uuid": "d1c4be34-1053-42c5-bc81-bfdcb6b27567",
+      "score": 0.6673488570600247
+    },
+    {
+      "name": "METOP ASCAT",
+      "label": "instrument",
+      "description": "A scatterometer instrument on board the MetOp satellite, used for measuring soil moisture and other land surface parameters",
+      "uuid": "f55d156c-adbc-47db-a69c-981afbaa0cf6",
+      "score": 0.762310801465582
+    },
+    {
+      "name": "SMMR",
+      "label": "instrument",
+      "description": "The Scanning Multichannel Microwave Radiometer, an instrument used for measuring microwave radiation emitted by the Earth's surface",
+      "uuid": "4a2d4e54-1e39-46d6-aafd-a3f685ed4f85",
+      "score": 0.7512001745211149
+    },
+    {
+      "name": "SSM/I",
+      "label": "instrument",
+      "description": "The Special Sensor Microwave/Imager, an instrument used for measuring microwave radiation emitted by the Earth's surface",
+      "uuid": "c5058bd9-6183-4c0a-a6aa-611540ba1196",
+      "score": 0.7111358621414395
+    },
+    {
+      "name": "TMI",
+      "label": "instrument",
+      "description": "The Tropical Rainfall Measuring Mission Microwave Imager, an instrument used for measuring microwave radiation emitted by the Earth's surface",
+      "uuid": "1449ce31-3588-45cd-88b5-55e24d677210",
+      "score": 0.730349762144646
+    },
+    {
+      "name": "AMSR-E",
+      "label": "instrument",
+      "description": "The Advanced Microwave Scanning Radiometer for the Earth Observing System, an instrument used for measuring microwave radiation emitted by the Earth's surface",
+      "uuid": "cf664bfd-5313-4472-9979-53b7e810287c",
+      "score": 0.6856774603463789
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, an important parameter for understanding land surface processes and climate variability",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.7258832430216412
+    },
+    {
+      "name": "GLDAS-Noah",
+      "label": "model",
+      "description": "The Global Land Data Assimilation System - Noah model, a land surface model used for simulating land surface processes and soil moisture",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.7218504913633584
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its diverse climate and land cover types",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6894212088070628
+    }
+  ],
+  "(18995, 21702)": [
+    {
+      "name": "WACMOS",
+      "label": "project",
+      "description": "A project aimed at generating a consistent climatology of soil moisture, contributing to the understanding of climate variability and change",
+      "uuid": "ac916278-ceee-433e-97a2-582e677eeb13",
+      "score": 0.5076803572040713
+    },
+    {
+      "name": "GLDAS-Noah",
+      "label": "model",
+      "description": "The Global Land Data Assimilation System-Noah, a land surface model used for simulating soil moisture and other land surface processes",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.7242072940048465
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, known for its diverse climate and geography, and experiencing significant climate-related events such as droughts and floods",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.664422462906872
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, an important factor in understanding climate, hydrology, and agricultural productivity",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.7172760526981298
+    },
+    {
+      "name": "ESA",
+      "label": "provider",
+      "description": "The European Space Agency, an organization dedicated to the exploration and study of space, and involved in various Earth observation and climate-related initiatives",
+      "uuid": "745ec589-e6be-48e6-90ef-e16e784c6c59",
+      "score": 0.582943579539574
+    },
+    {
+      "name": "Climate Change Initiative",
+      "label": "project",
+      "description": "An initiative of the European Space Agency aimed at developing and providing essential climate variables, such as soil moisture, to support climate research and applications",
+      "uuid": "7aa8d139-ef0f-4c35-b2fd-2eb7bab1310f",
+      "score": 0.6091202561331358
+    },
+    {
+      "name": "CCI Soil Moisture",
+      "label": "project",
+      "description": "A project within the Climate Change Initiative, focused on producing high-quality soil moisture data sets for climate research and applications",
+      "uuid": "7aa8d139-ef0f-4c35-b2fd-2eb7bab1310f",
+      "score": 0.6555021352123174
+    }
+  ],
+  "(21174, 22719)": [
+    {
+      "name": "ESA",
+      "label": "provider",
+      "description": "The European Space Agency, an intergovernmental organization dedicated to the exploration of space and the development of space-related technologies",
+      "uuid": "8276d6f9-8fd5-44cd-8dd7-3ca326a9c21e",
+      "score": 0.5273920815564895
+    },
+    {
+      "name": "Climate Change Initiative",
+      "label": "project",
+      "description": "A programme of the European Space Agency focused on addressing the challenges of climate change through space-based Earth observation",
+      "uuid": "7aa8d139-ef0f-4c35-b2fd-2eb7bab1310f",
+      "score": 0.5925143097326196
+    },
+    {
+      "name": "CCI Soil Moisture",
+      "label": "project",
+      "description": "A project within the Climate Change Initiative programme, aiming to produce high-quality soil moisture data sets for climate research and applications",
+      "uuid": "7aa8d139-ef0f-4c35-b2fd-2eb7bab1310f",
+      "score": 0.6512784037434596
+    },
+    {
+      "name": "International Soil Moisture Network",
+      "label": "project",
+      "description": "An initiative to coordinate and standardize in-situ soil moisture measurements from networks around the world, providing valuable data for climate research and validation of satellite products",
+      "uuid": "975af769-4a8e-449e-a4ee-d439e50f47e3",
+      "score": 0.6730297236711625
+    },
+    {
+      "name": "SMALT",
+      "label": "project",
+      "description": "A research project funded by the European Space Agency, focusing on the development of soil moisture retrieval algorithms from satellite radar altimeter data",
+      "uuid": "2c473339-954d-4193-86f5-b427640110f9",
+      "score": 0.5057836044429005
+    },
+    {
+      "name": "WACMOS",
+      "label": "project",
+      "description": "A project of the European Space Agency, focusing on the development of water cycle observation and modeling systems",
+      "uuid": "fa7b282f-c27a-4d22-89a1-35323044cf47",
+      "score": 0.5159880529550606
+    },
+    {
+      "name": "radar altimeters",
+      "label": "instrument",
+      "description": "A type of satellite instrument used to measure the height of the Earth's surface, which can also be used to derive soil moisture information",
+      "uuid": "92ddaaca-40b2-4936-bc1a-28cc5743e8b8",
+      "score": 0.7330860653060377
+    },
+    {
+      "name": "AMSR 2",
+      "label": "instrument",
+      "description": "The Advanced Microwave Scanning Radiometer 2, a satellite instrument used to measure various Earth surface parameters, including soil moisture",
+      "uuid": "92d834e1-689c-4d12-8c4a-74ee4cf75b36",
+      "score": 0.8021608394311394
+    },
+    {
+      "name": "SMOS",
+      "label": "instrument",
+      "description": "The Soil Moisture and Ocean Salinity satellite, a European Space Agency mission dedicated to measuring soil moisture and ocean salinity",
+      "uuid": "a641c997-0bd2-41aa-ba43-8e03066c3c2a",
+      "score": 0.7402661424712977
+    },
+    {
+      "name": "SMAP",
+      "label": "instrument",
+      "description": "The Soil Moisture Active Passive satellite, a NASA mission aimed at measuring soil moisture and its freeze/thaw state",
+      "uuid": "2c473339-954d-4193-86f5-b427640110f9",
+      "score": 0.773289707083862
+    },
+    {
+      "name": "Aquarius",
+      "label": "instrument",
+      "description": "A satellite instrument used to measure sea surface salinity, which can also provide information on soil moisture",
+      "uuid": "a158023c-e9d1-4d71-b8f6-5bd3afa4b095",
+      "score": 0.6716287873969425
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, an essential variable for understanding the Earth's water cycle and climate system",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.7222339840529043
+    }
+  ]
+}

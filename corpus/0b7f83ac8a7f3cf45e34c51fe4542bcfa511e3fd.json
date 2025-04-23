@@ -1,0 +1,505 @@
+{
+  "(0, 2712)": [
+    {
+      "name": "dissolved organic matter (DOM)",
+      "label": "variable",
+      "description": "A mixture of organic compounds dissolved in water, originating from various sources, including microorganisms, plants, and animals",
+      "uuid": "b2bdeb71-81b5-43e6-a8b1-b09c215c8d1a",
+      "score": 0.6148353507388362
+    },
+    {
+      "name": "hydroxyl radicals (\u2022OH)",
+      "label": "variable",
+      "description": "Highly reactive molecules that can oxidize organic compounds and influence the degradation of pollutants",
+      "uuid": "5b49fd6d-3759-4b61-8b04-8309f38b2f90",
+      "score": 0.6666012758591473
+    },
+    {
+      "name": "aquatic environment",
+      "label": "location",
+      "description": "Ecosystems that exist in water, including freshwater and marine environments, where EPS and DOM play important roles",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6277804929246195
+    },
+    {
+      "name": "terrestrial environment",
+      "label": "location",
+      "description": "Ecosystems that exist on land, where EPS and DOM can also be present and influence biogeochemical processes",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.6021844482928037
+    },
+    {
+      "name": "Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR MS)",
+      "label": "instrument",
+      "description": "A highly sensitive and accurate analytical technique used to characterize the molecular composition of complex mixtures",
+      "uuid": "616bdf0f-8797-496b-af3d-50974baa470c",
+      "score": 0.5289235428563797
+    }
+  ],
+  "(2274, 5183)": [
+    {
+      "name": "EPS",
+      "label": "variable",
+      "description": "Extracellular polymeric substances, a complex mixture of polymers produced by microorganisms that play a crucial role in various environmental processes",
+      "uuid": "0c48d025-9e99-4833-9728-b8fedb46a243",
+      "score": 0.5021708975690551
+    },
+    {
+      "name": "DOM",
+      "label": "variable",
+      "description": "Dissolved organic matter, a complex mixture of organic compounds that play a crucial role in various environmental processes, including carbon cycling and photochemical reactions",
+      "uuid": "b2bdeb71-81b5-43e6-a8b1-b09c215c8d1a",
+      "score": 0.6187720292522894
+    },
+    {
+      "name": "aquatic environments",
+      "label": "location",
+      "description": "Ecosystems that exist in water, including rivers, lakes, oceans, and wetlands, which support a wide range of plant and animal life",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.7299502772892581
+    },
+    {
+      "name": "photochemistry research",
+      "label": "project",
+      "description": "A field of study that focuses on the chemical reactions initiated by light, including the photochemical behavior of DOM and EPS",
+      "uuid": "6433e330-3797-4cf9-a8ba-d26d39624459",
+      "score": 0.6074463754595493
+    },
+    {
+      "name": "mass spectrometry",
+      "label": "instrument",
+      "description": "An analytical technique used to identify and quantify the chemical composition of a sample, including the analysis of EPS and DOM",
+      "uuid": "09c35c61-d1ed-4591-b4d5-c539a2a0aec2",
+      "score": 0.5793220418117628
+    },
+    {
+      "name": "fluorescence analyses",
+      "label": "instrument",
+      "description": "A technique used to detect and analyze the fluorescence properties of a sample, including the analysis of EPS and DOM",
+      "uuid": "a2983835-be12-4a07-b2b5-349718045ab4",
+      "score": 0.5611359954623933
+    }
+  ],
+  "(4638, 7322)": [
+    {
+      "name": "mass spectrometry",
+      "label": "instrument",
+      "description": "An analytical technique used to identify and quantify the chemical composition of a sample",
+      "uuid": "09c35c61-d1ed-4591-b4d5-c539a2a0aec2",
+      "score": 0.6310573002605858
+    },
+    {
+      "name": "fluorescence analyses",
+      "label": "instrument",
+      "description": "A technique used to analyze the fluorescence properties of a sample, providing information on its molecular structure and composition",
+      "uuid": "a2983835-be12-4a07-b2b5-349718045ab4",
+      "score": 0.5909294975247954
+    },
+    {
+      "name": "aquatic environments",
+      "label": "location",
+      "description": "Ecosystems located in water, such as rivers, lakes, and oceans, supporting a wide range of plant and animal life",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.7376668398119897
+    },
+    {
+      "name": "TOC analyzer",
+      "label": "instrument",
+      "description": "A device used to measure the total organic carbon content of a sample",
+      "uuid": "58ac7544-7271-4957-a70a-ea7c1a1ae094",
+      "score": 0.7557107377284155
+    },
+    {
+      "name": "fluorescence spectrophotometer",
+      "label": "instrument",
+      "description": "A device used to measure the fluorescence properties of a sample",
+      "uuid": "a2983835-be12-4a07-b2b5-349718045ab4",
+      "score": 0.6724223970918156
+    },
+    {
+      "name": "MATLAB",
+      "label": "platform",
+      "description": "A high-level programming language and software environment used for data analysis, numerical computation, and visualization",
+      "uuid": "10de1987-5896-42d6-be7c-506fd7ba1f21",
+      "score": 0.5780142036964018
+    },
+    {
+      "name": "total organic carbon",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon present in a sample, often used to characterize the composition of environmental samples",
+      "uuid": "58ac7544-7271-4957-a70a-ea7c1a1ae094",
+      "score": 0.617549058957925
+    }
+  ],
+  "(6952, 9300)": [
+    {
+      "name": "MATLAB",
+      "label": "platform",
+      "description": "A high-level programming language and software environment used for data analysis, numerical computation, and visualization",
+      "uuid": "10de1987-5896-42d6-be7c-506fd7ba1f21",
+      "score": 0.5780142036964018
+    },
+    {
+      "name": "FTIR spectrometer",
+      "label": "instrument",
+      "description": "A device used to measure the infrared spectra of samples, providing information on their molecular composition and structure",
+      "uuid": "aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2",
+      "score": 0.6985952639899847
+    },
+    {
+      "name": "ferrioxalate actinometer",
+      "label": "instrument",
+      "description": "A device used to measure the intensity of light",
+      "uuid": "2f239f48-f42e-4129-a3f2-c7a9861c5583",
+      "score": 0.5854710444442437
+    },
+    {
+      "name": "HPLC",
+      "label": "instrument",
+      "description": "A device used for high-performance liquid chromatography, used to quantify the consumption of furfuryl alcohol and TMP",
+      "uuid": "66caadfa-f3e1-4491-918a-5db7c07f8e19",
+      "score": 0.614063110522586
+    },
+    {
+      "name": "dissolved organic carbon",
+      "label": "variable",
+      "description": "A type of organic compound dissolved in water, likely used as a sample in the experiments",
+      "uuid": "b22b0369-cabf-44e8-85af-f084f8a6d5d8",
+      "score": 0.6613329175739739
+    },
+    {
+      "name": "TOC concentration",
+      "label": "variable",
+      "description": "The concentration of total organic carbon in a sample",
+      "uuid": "58ac7544-7271-4957-a70a-ea7c1a1ae094",
+      "score": 0.6306548827163668
+    }
+  ],
+  "(8947, 11039)": [
+    {
+      "name": "HPLC",
+      "label": "instrument",
+      "description": "High-performance liquid chromatography, an analytical technique used to separate, identify, and quantify each component in a mixture",
+      "uuid": "66caadfa-f3e1-4491-918a-5db7c07f8e19",
+      "score": 0.6786570536509713
+    },
+    {
+      "name": "\u2022OH",
+      "label": "variable",
+      "description": "Hydroxyl radical, a highly reactive species",
+      "uuid": "5b49fd6d-3759-4b61-8b04-8309f38b2f90",
+      "score": 0.677374063188206
+    },
+    {
+      "name": "EPS",
+      "label": "variable",
+      "description": "Extracellular polymeric substances",
+      "uuid": "0c48d025-9e99-4833-9728-b8fedb46a243",
+      "score": 0.5191384408529348
+    },
+    {
+      "name": "FT-ICR MS",
+      "label": "instrument",
+      "description": "Fourier transform ion cyclotron resonance mass spectrometry, an analytical technique used to identify and quantify components in a mixture",
+      "uuid": "616bdf0f-8797-496b-af3d-50974baa470c",
+      "score": 0.5494182308459068
+    },
+    {
+      "name": "spectra photon irradiance",
+      "label": "variable",
+      "description": "The intensity of light at a specific wavelength",
+      "uuid": "b7a45c57-b652-469a-a3f2-8d38555bf478",
+      "score": 0.602311880108625
+    }
+  ],
+  "(10604, 13320)": [
+    {
+      "name": "FT-ICR MS",
+      "label": "instrument",
+      "description": "A type of mass spectrometer that uses Fourier transform ion cyclotron resonance to measure the mass-to-charge ratio of ions",
+      "uuid": "616bdf0f-8797-496b-af3d-50974baa470c",
+      "score": 0.521010855688486
+    },
+    {
+      "name": "Compass DataAnalysis 5.0",
+      "label": "platform",
+      "description": "A software tool used for data processing and analysis in various scientific fields",
+      "uuid": "451995e8-a883-4468-abfd-a0e211ca9b72",
+      "score": 0.5000307034234067
+    },
+    {
+      "name": "HPLC",
+      "label": "instrument",
+      "description": "High-performance liquid chromatography, a technique used to separate, identify, and quantify each component in a mixture",
+      "uuid": "66caadfa-f3e1-4491-918a-5db7c07f8e19",
+      "score": 0.6722996822501781
+    },
+    {
+      "name": "M-EPS",
+      "label": "variable",
+      "description": "A specific type of EPS, possibly referring to a particular source or composition",
+      "uuid": "22996c6c-4a7c-4ff3-9782-1fc3c680a88c",
+      "score": 0.5189568662919807
+    },
+    {
+      "name": "fluorescence analysis",
+      "label": "instrument",
+      "description": "A technique used to analyze the composition and properties of a sample based on its fluorescence characteristics",
+      "uuid": "a2983835-be12-4a07-b2b5-349718045ab4",
+      "score": 0.573360531222915
+    }
+  ],
+  "(12803, 15550)": [
+    {
+      "name": "EPS",
+      "label": "project",
+      "description": "A research project focused on the study of extracellular polymeric substances and their properties",
+      "uuid": "0c48d025-9e99-4833-9728-b8fedb46a243",
+      "score": 0.6250543321676119
+    }
+  ],
+  "(15104, 17500)": [
+    {
+      "name": "\u2022OH",
+      "label": "variable",
+      "description": "Hydroxyl radicals, a type of reactive oxygen species",
+      "uuid": "5b49fd6d-3759-4b61-8b04-8309f38b2f90",
+      "score": 0.6522780656500904
+    },
+    {
+      "name": "H2O2",
+      "label": "variable",
+      "description": "Hydrogen peroxide, a chemical compound that can generate hydroxyl radicals",
+      "uuid": "75662ed3-35c5-41ee-abba-51ce435d1b31",
+      "score": 0.6795050021239416
+    },
+    {
+      "name": "DOM",
+      "label": "variable",
+      "description": "Dissolved organic matter, a type of organic compound that can generate hydroxyl radicals",
+      "uuid": "b2bdeb71-81b5-43e6-a8b1-b09c215c8d1a",
+      "score": 0.6125460990057445
+    },
+    {
+      "name": "oxidation process",
+      "label": "variable",
+      "description": "A chemical reaction that involves the loss of electrons, often resulting in the generation of reactive oxygen species",
+      "uuid": "9c2f3bee-4629-4607-9962-12fe919594a0",
+      "score": 0.5725581784719859
+    }
+  ],
+  "(17163, 19428)": [
+    {
+      "name": "E-EPS",
+      "label": "platform",
+      "description": "Another type of EPS, differing from M-EPS in source, composition, or other characteristics",
+      "uuid": "22996c6c-4a7c-4ff3-9782-1fc3c680a88c",
+      "score": 0.5175979514862358
+    },
+    {
+      "name": "hydroxyl radical",
+      "label": "variable",
+      "description": "A highly reactive species, symbolized as \u2022OH, playing a crucial role in oxidation reactions",
+      "uuid": "5b49fd6d-3759-4b61-8b04-8309f38b2f90",
+      "score": 0.6928702772240576
+    }
+  ],
+  "(19108, 21326)": [
+    {
+      "name": "DOM",
+      "label": "variable",
+      "description": "A measure of dissolved organic matter",
+      "uuid": "b2bdeb71-81b5-43e6-a8b1-b09c215c8d1a",
+      "score": 0.5640279972790749
+    }
+  ],
+  "(21028, 23631)": [
+    {
+      "name": "EPS",
+      "label": "variable",
+      "description": "A type of organic compound, likely extracellular polymeric substances, being studied for its properties and behavior under different conditions",
+      "uuid": "0c48d025-9e99-4833-9728-b8fedb46a243",
+      "score": 0.5134321964727137
+    },
+    {
+      "name": "M-EPS",
+      "label": "variable",
+      "description": "A specific type of EPS, possibly modified or derived from the original EPS, with distinct characteristics",
+      "uuid": "22996c6c-4a7c-4ff3-9782-1fc3c680a88c",
+      "score": 0.5150021162450831
+    },
+    {
+      "name": "E-EPS",
+      "label": "variable",
+      "description": "A specific type of EPS, possibly modified or derived from the original EPS, with distinct characteristics",
+      "uuid": "22996c6c-4a7c-4ff3-9782-1fc3c680a88c",
+      "score": 0.5990374689433459
+    },
+    {
+      "name": "S-EPS",
+      "label": "variable",
+      "description": "A specific type of EPS, possibly modified or derived from the original EPS, with distinct characteristics",
+      "uuid": "22996c6c-4a7c-4ff3-9782-1fc3c680a88c",
+      "score": 0.5185131238940017
+    },
+    {
+      "name": "fluorescence intensity",
+      "label": "variable",
+      "description": "A measure of the amount of light emitted by a substance after absorbing light or other electromagnetic radiation",
+      "uuid": "a2983835-be12-4a07-b2b5-349718045ab4",
+      "score": 0.5387769636835268
+    },
+    {
+      "name": "simulated solar irradiation",
+      "label": "experiment",
+      "description": "An artificial simulation of sunlight used to study the effects of solar radiation on various substances or systems",
+      "uuid": "b9e375ed-0fae-4151-b10a-b80ee4ff27cb",
+      "score": 0.5912575757670878
+    },
+    {
+      "name": "\u2022OH",
+      "label": "variable",
+      "description": "A highly reactive chemical species, likely hydroxyl radicals, involved in various chemical reactions",
+      "uuid": "5b49fd6d-3759-4b61-8b04-8309f38b2f90",
+      "score": 0.604011681170357
+    },
+    {
+      "name": "TOC",
+      "label": "variable",
+      "description": "Total Organic Carbon, a measure of the amount of organic carbon present in a substance or system",
+      "uuid": "58ac7544-7271-4957-a70a-ea7c1a1ae094",
+      "score": 0.7491145894325717
+    }
+  ],
+  "(23129, 25993)": [
+    {
+      "name": "FTIR",
+      "label": "instrument",
+      "description": "Fourier Transform Infrared Spectroscopy, a technique used for analyzing the molecular structure of organic compounds",
+      "uuid": "aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2",
+      "score": 0.6272482950072339
+    },
+    {
+      "name": "FT-ICR MS",
+      "label": "instrument",
+      "description": "Fourier Transform Ion Cyclotron Resonance Mass Spectrometry, a technique used for analyzing the molecular composition of organic compounds",
+      "uuid": "616bdf0f-8797-496b-af3d-50974baa470c",
+      "score": 0.5462831100701325
+    }
+  ],
+  "(25504, 28422)": [
+    {
+      "name": "EPS",
+      "label": "project",
+      "description": "A research project studying the effects of photolysis on extracellular polymeric substances",
+      "uuid": "0c48d025-9e99-4833-9728-b8fedb46a243",
+      "score": 0.5936952109049811
+    },
+    {
+      "name": "photolysis",
+      "label": "process",
+      "description": "A chemical reaction that occurs when a molecule is broken down by light energy",
+      "uuid": "0fd2b083-e65c-443b-9794-2c355ebac06b",
+      "score": 0.5662342295458959
+    },
+    {
+      "name": "carbohydrates",
+      "label": "variable",
+      "description": "A type of organic compound containing carbon, hydrogen, and oxygen",
+      "uuid": "19ab681c-bdd7-4793-bbdb-1ec498575314",
+      "score": 0.5054740091200037
+    }
+  ],
+  "(27960, 30582)": [
+    {
+      "name": "hydroxyl radicals",
+      "label": "variable",
+      "description": "A type of reactive species that can react with pollutants, but has a low concentration in this context",
+      "uuid": "5b49fd6d-3759-4b61-8b04-8309f38b2f90",
+      "score": 0.6034094509605347
+    },
+    {
+      "name": "nitrogen gas",
+      "label": "variable",
+      "description": "A gas used to inhibit the generation of singlet oxygen",
+      "uuid": "ef36cb15-ad64-4bdc-9331-42cc5b493671",
+      "score": 0.5015790601951066
+    }
+  ],
+  "(30172, 32654)": [
+    {
+      "name": "hydroxyl radical",
+      "label": "variable",
+      "description": "A reactive molecule that may contribute to the photodegradation of TC, but to a lesser extent than singlet oxygen",
+      "uuid": "5b49fd6d-3759-4b61-8b04-8309f38b2f90",
+      "score": 0.5865220795832748
+    },
+    {
+      "name": "oxidation reaction",
+      "label": "process",
+      "description": "A chemical reaction that involves the loss of electrons and can lead to the degradation of TC",
+      "uuid": "9c2f3bee-4629-4607-9962-12fe919594a0",
+      "score": 0.5092152388926995
+    }
+  ],
+  "(32216, 34948)": [
+    {
+      "name": "EPS",
+      "label": "variable",
+      "description": "Extracellular polymeric substances, a component of effluent organic matters in natural and engineered surface waterbodies",
+      "uuid": "0c48d025-9e99-4833-9728-b8fedb46a243",
+      "score": 0.5027319959233236
+    },
+    {
+      "name": "estuaries",
+      "label": "location",
+      "description": "A partially enclosed coastal body of water, where freshwater from rivers and streams mixes with saltwater from the ocean",
+      "uuid": "5a1ebca4-057d-43b9-af6a-04f57b93f8bb",
+      "score": 0.7127129336712986
+    },
+    {
+      "name": "wetlands",
+      "label": "location",
+      "description": "A land area that is saturated with water, either permanently or seasonally, and is characterized by a unique set of plant and animal species",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.6859566732877822
+    },
+    {
+      "name": "photochemistry",
+      "label": "process",
+      "description": "The study of the chemical reactions that occur when molecules absorb light energy",
+      "uuid": "6433e330-3797-4cf9-a8ba-d26d39624459",
+      "score": 0.6647677773049994
+    },
+    {
+      "name": "water ecological systems",
+      "label": "location",
+      "description": "A system that includes all the living organisms and non-living components that interact with each other in a water environment",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.5530067432051877
+    }
+  ],
+  "(34726, 34948)": [
+    {
+      "name": "EPS",
+      "label": "variable",
+      "description": "A quantity or characteristic that can be measured or observed in environmental studies, likely referring to a specific substance or parameter",
+      "uuid": "0c48d025-9e99-4833-9728-b8fedb46a243",
+      "score": 0.5444423043920518
+    },
+    {
+      "name": "natural waters",
+      "label": "location",
+      "description": "A place on Earth where water occurs naturally, such as oceans, lakes, or rivers",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.5075619281446268
+    },
+    {
+      "name": "environmental impact",
+      "label": "natural hazard",
+      "description": "A phenomenon with the potential to cause significant harm to life, property, and the environment, related to the effects of EPS on ecosystems",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.5550126020838622
+    }
+  ]
+}

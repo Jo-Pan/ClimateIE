@@ -1,0 +1,1188 @@
+{
+  "(0, 3106)": [
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, often used in climate and environmental studies",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6881999927590882
+    },
+    {
+      "name": "infiltration and runoff rates",
+      "label": "variable",
+      "description": "Measures of the movement of water into and over the land surface, influenced by factors such as soil moisture and surface temperature",
+      "uuid": "875b1cd8-ca7e-4edb-9e83-ac78f1a3bc9f",
+      "score": 0.6188401197325942
+    },
+    {
+      "name": "baseflow-dominated streams",
+      "label": "location",
+      "description": "Streams or rivers where the flow is primarily driven by groundwater, often exhibiting stable and consistent flow rates",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6432786541872182
+    },
+    {
+      "name": "decadal climate change",
+      "label": "weather event",
+      "description": "Changes in climate patterns that occur over decades, influencing various environmental and ecological processes",
+      "uuid": "addadf3e-ae8d-49aa-9b5d-abee1952a543",
+      "score": 0.5988536588981365
+    },
+    {
+      "name": "ground surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, which can impact various environmental and ecological processes",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6115525784911142
+    },
+    {
+      "name": "atmospheric climate change",
+      "label": "weather event",
+      "description": "Changes in the climate of the atmosphere, influencing temperature, precipitation, and other environmental factors",
+      "uuid": "fc77777e-614f-41f1-9b97-d5324fa99105",
+      "score": 0.5086712927638009
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, encompassing a diverse range of climates and ecosystems",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7701837066081006
+    },
+    {
+      "name": "New Brunswick",
+      "label": "location",
+      "description": "A province in Canada, known for its forests and water resources",
+      "uuid": "bab83514-4a6a-4ac5-a130-378ee49fdf18",
+      "score": 0.5792591401118361
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, characterized by diverse climates and ecosystems",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.6093454990140603
+    },
+    {
+      "name": "coldwater salmonids",
+      "label": "variable",
+      "description": "A type of fish that requires specific temperature ranges to survive, often used as an indicator of environmental health",
+      "uuid": "0b8d5346-d10b-4e32-8179-7a51970c5e7f",
+      "score": 0.500703833621904
+    },
+    {
+      "name": "surface energy and moisture flux",
+      "label": "variable",
+      "description": "The exchange of energy and moisture between the land surface and the atmosphere, influencing climate and environmental processes",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.5762946157841764
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "The amount and duration of snow on the ground, which can impact surface temperature, groundwater recharge, and other environmental factors",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.7227839813986271
+    },
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water beneath the Earth's surface, which can be influenced by climate change and other environmental factors",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5661266096877685
+    }
+  ],
+  "(2636, 5370)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by long-term changes in the Earth's climate system, driven by various natural and anthropogenic factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5889818659373157
+    },
+    {
+      "name": "soils",
+      "label": "location",
+      "description": "The outermost layer of the Earth's surface, comprising a complex mixture of minerals, organic matter, and living organisms",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6463734698047933
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a crucial role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6832299860854896
+    },
+    {
+      "name": "nutrient concentrations",
+      "label": "variable",
+      "description": "The amount of essential nutrients present in soil water, affecting plant growth and ecosystem health",
+      "uuid": "5069167e-0b99-48af-9f81-8c765e112083",
+      "score": 0.5033046640757092
+    },
+    {
+      "name": "runoff quality",
+      "label": "variable",
+      "description": "The characteristics of water that flows over or through the land, influencing water quality and aquatic ecosystems",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6121575626486007
+    },
+    {
+      "name": "snow-covered period",
+      "label": "variable",
+      "description": "The duration of time when the ground is covered by snow, affecting heat exchange and ecosystem processes",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.579835756837425
+    },
+    {
+      "name": "atmosphere-surface heat exchange",
+      "label": "process",
+      "description": "The transfer of heat energy between the atmosphere and the Earth's surface, influencing climate and weather patterns",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.6118706018857029
+    },
+    {
+      "name": "northern latitudes",
+      "label": "location",
+      "description": "The regions of the Earth located between the Arctic Circle and the equator, characterized by distinct climate and ecosystem features",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.5842786268971867
+    },
+    {
+      "name": "Hadley global climate model",
+      "label": "model",
+      "description": "A sophisticated computer simulation used to represent and predict the Earth's climate system",
+      "uuid": "028fe075-8ed0-47f0-b462-71e4adf72a4e",
+      "score": 0.5645888938844934
+    },
+    {
+      "name": "northern Sweden",
+      "label": "location",
+      "description": "A region in Sweden characterized by subarctic climate and distinct ecosystem features",
+      "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+      "score": 0.5303421431255464
+    },
+    {
+      "name": "HadAm3H GCM",
+      "label": "model",
+      "description": "A global climate model developed by the Hadley Centre, used for simulating and predicting climate processes",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.6605903340877142
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country in Europe characterized by mountainous terrain and distinct climate features",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.6871488716129992
+    }
+  ],
+  "(4900, 7747)": [
+    {
+      "name": "RCM",
+      "label": "model",
+      "description": "Regional Climate Model, a type of climate model that focuses on regional scales>",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5172915554794073
+    },
+    {
+      "name": "HadAm3H GCM",
+      "label": "model",
+      "description": "A global climate model developed by the Hadley Centre, used for climate simulations>",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.6587302009909227
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground Surface Temperature, a measure of the temperature at the surface of the ground>",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5783134326031457
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country in Europe, known for its mountainous terrain and permafrost regions>",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.672654806305777
+    },
+    {
+      "name": "atmospheric climate change",
+      "label": "weather event",
+      "description": "Changes in the Earth's climate due to human activities, resulting in rising temperatures and altered weather patterns>",
+      "uuid": "b45d57f9-5c45-4e46-8dcd-6158fee8151b",
+      "score": 0.5176265060144251
+    },
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water in underground aquifers, influencing the temperature of streams and rivers>",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5409688734430301
+    },
+    {
+      "name": "geothermal flux",
+      "label": "variable",
+      "description": "The flow of heat from the Earth's interior to the surface, influencing ground surface temperature>",
+      "uuid": "258d6984-ff0c-40d5-9dc5-673d211e21e7",
+      "score": 0.6905264135796341
+    },
+    {
+      "name": "shallow groundwater",
+      "label": "location",
+      "description": "Groundwater in the upper layers of the subsurface, typically within 10 meters of the surface>",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5475236458890572
+    },
+    {
+      "name": "riverine systems",
+      "label": "location",
+      "description": "Ecosystems associated with rivers and streams, influenced by groundwater and surface water interactions>",
+      "uuid": "41446bdc-89f6-4d84-a2a4-005390757235",
+      "score": 0.5632880191148998
+    },
+    {
+      "name": "salmonids",
+      "label": "variable",
+      "description": "A family of fish, including salmon and trout, sensitive to changes in water temperature>",
+      "uuid": "0b8d5346-d10b-4e32-8179-7a51970c5e7f",
+      "score": 0.5761582625863212
+    }
+  ],
+  "(7182, 10309)": [
+    {
+      "name": "groundwater discharge",
+      "label": "variable",
+      "description": "The flow of water from the ground into streams, rivers, or other water bodies, often influenced by climate change",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.62515470039216
+    },
+    {
+      "name": "baseflow-dominated streams",
+      "label": "location",
+      "description": "Streams or rivers where the primary source of water is groundwater, rather than surface runoff",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6235604163660867
+    },
+    {
+      "name": "permafrost degradation",
+      "label": "natural hazard",
+      "description": "The thawing of permafrost due to climate change, leading to changes in ecosystems and infrastructure",
+      "uuid": "ed0501c5-310c-42ab-b1eb-66e211f22803",
+      "score": 0.652187236861573
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict climate change",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7119467477393385
+    },
+    {
+      "name": "Minnesota",
+      "label": "location",
+      "description": "A state in the USA where researchers studied the impact of climate change on groundwater temperature",
+      "uuid": "2e2d65b6-d3de-4921-877c-2d3a4e447978",
+      "score": 0.6129316697738751
+    },
+    {
+      "name": "salmonids",
+      "label": "variable",
+      "description": "A type of fish that relies on cold groundwater discharge for thermal refugia",
+      "uuid": "0b8d5346-d10b-4e32-8179-7a51970c5e7f",
+      "score": 0.5027625731291475
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in temperature, precipitation, and other climate variables",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5829216259882335
+    }
+  ],
+  "(9779, 12488)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used for simulating and predicting climate change scenarios",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7106869506577922
+    },
+    {
+      "name": "salmonids",
+      "label": "variable",
+      "description": "A group of fish, including salmon and trout, that are sensitive to water temperature and seek thermal refugia in cold-water habitats",
+      "uuid": "0b8d5346-d10b-4e32-8179-7a51970c5e7f",
+      "score": 0.547793635362395
+    },
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water stored beneath the Earth's surface, influencing the thermal regime of surface waters",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5507327258955995
+    },
+    {
+      "name": "surface processes",
+      "label": "variable",
+      "description": "The physical, chemical, and biological processes occurring at the Earth's surface, including those related to climate, hydrology, and ecology",
+      "uuid": "6c44a08d-0a08-47f5-b819-7e561445e613",
+      "score": 0.5710559252381318
+    },
+    {
+      "name": "warming climate",
+      "label": "weather event",
+      "description": "A long-term increase in global temperatures, leading to changes in climate patterns and ecosystem responses",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6426074870102791
+    },
+    {
+      "name": "shallow aquifers",
+      "label": "location",
+      "description": "Underground layers of permeable rock or soil that store and transmit water, often influencing the thermal regime of surface waters",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5664669395892684
+    },
+    {
+      "name": "baseflow-dominated rivers",
+      "label": "location",
+      "description": "Rivers with flow regimes dominated by groundwater discharge, maintaining relatively stable water temperatures and levels",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6005690136632373
+    }
+  ],
+  "(12068, 14878)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7195815526608993
+    },
+    {
+      "name": "RCMs",
+      "label": "model",
+      "description": "Regional Climate Models, used to dynamically downscale GCM output into finer spatial scales",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5510121134288007
+    },
+    {
+      "name": "local climate variables",
+      "label": "variable",
+      "description": "Climate variables measured at a local scale, such as temperature and precipitation",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5602865658110318
+    },
+    {
+      "name": "large-scale climate variables",
+      "label": "variable",
+      "description": "Climate variables measured at a large scale, such as global temperature and precipitation patterns",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5805033087998162
+    }
+  ],
+  "(14459, 17032)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.748741754223816
+    },
+    {
+      "name": "RCMs",
+      "label": "model",
+      "description": "Regional Climate Models, used to dynamically downscale climate data to a finer spatial resolution",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5217256168595199
+    },
+    {
+      "name": "CRCM 4.2.3",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a regional climate model used for dynamically downscaling climate data",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.5587340182367445
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The third Coupled Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.7882707189341595
+    },
+    {
+      "name": "Universit\u00e9 du Qu\u00e9bec",
+      "label": "provider",
+      "description": "A Canadian university that contributed to the study by providing downscaled climate data",
+      "uuid": "c977c83a-f171-4337-8001-abb2539cdc76",
+      "score": 0.5376268891798637
+    },
+    {
+      "name": "Institut National de la Recherche Scientifique",
+      "label": "provider",
+      "description": "A Canadian research institute that contributed to the study by providing downscaled climate data",
+      "uuid": "79f6c7fd-6615-47f4-ae52-66f4ec3397d2",
+      "score": 0.5252707028054711
+    },
+    {
+      "name": "Environment Canada",
+      "label": "provider",
+      "description": "A Canadian government agency that provided observed and reference climate data for the study",
+      "uuid": "b301e170-c91e-4275-9858-d7720fb93416",
+      "score": 0.6392816063190288
+    },
+    {
+      "name": "eastcentral New Brunswick",
+      "label": "location",
+      "description": "A region in Canada where the study was focused",
+      "uuid": "bab83514-4a6a-4ac5-a130-378ee49fdf18",
+      "score": 0.5119538344985005
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground Surface Temperature, a measure of the temperature at the surface of the Earth",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5852267558878992
+    },
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water beneath the Earth's surface",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5555995201841764
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6473658017629415
+    },
+    {
+      "name": "AT",
+      "label": "variable",
+      "description": "Air Temperature, a measure of the temperature of the air near the Earth's surface",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6687577420183526
+    }
+  ],
+  "(16619, 19297)": [
+    {
+      "name": "CGCM3",
+      "label": "model",
+      "description": "The Canadian Global Climate Model version 3, a sophisticated computer simulation used to represent and predict Earth's climate system",
+      "uuid": "c8a4a768-cdad-42ab-b2b5-3100440ffd8f",
+      "score": 0.578080506703417
+    },
+    {
+      "name": "Echam5",
+      "label": "model",
+      "description": "The European Centre for Medium-Range Weather Forecasts model version 5, used for weather forecasting and climate studies",
+      "uuid": "eb6ac42f-7c8d-4e3f-9f80-e6334c463d26",
+      "score": 0.6042654975483299
+    },
+    {
+      "name": "Environment Canada",
+      "label": "provider",
+      "description": "A Canadian government agency responsible for environmental protection, conservation, and research, including climate data collection and analysis",
+      "uuid": "b301e170-c91e-4275-9858-d7720fb93416",
+      "score": 0.7052702669186076
+    },
+    {
+      "name": "Canadian climate data",
+      "label": "variable",
+      "description": "A collection of data related to Canada's climate, including temperature, precipitation, and other meteorological variables",
+      "uuid": "b301e170-c91e-4275-9858-d7720fb93416",
+      "score": 0.5493445296520008
+    },
+    {
+      "name": "deciduous forest",
+      "label": "location",
+      "description": "A type of forest characterized by trees that shed their leaves seasonally, often found in temperate regions",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6547163018636107
+    },
+    {
+      "name": "coniferous forest",
+      "label": "location",
+      "description": "A type of forest characterized by trees that keep their needles year-round, often found in cooler regions",
+      "uuid": "5d8236b5-bf5b-499f-a8e7-0cd80e00d261",
+      "score": 0.6194153948734274
+    },
+    {
+      "name": "Ontario",
+      "label": "location",
+      "description": "A province in Canada, known for its diverse geography and climate",
+      "uuid": "b907550e-6aa1-4cbf-b83b-08546f949d12",
+      "score": 0.7008770893740561
+    },
+    {
+      "name": "Quebec",
+      "label": "location",
+      "description": "A province in Canada, known for its unique culture and climate",
+      "uuid": "c977c83a-f171-4337-8001-abb2539cdc76",
+      "score": 0.6416297573167685
+    },
+    {
+      "name": "soil temperature",
+      "label": "variable",
+      "description": "The temperature of the soil, an important factor in ecosystem functioning and climate regulation",
+      "uuid": "b29ee2f4-b2ce-4b19-b8e3-2d74d071549b",
+      "score": 0.7004193088755963
+    },
+    {
+      "name": "ground surface temperature",
+      "label": "variable",
+      "description": "The temperature of the ground surface, an important factor in climate regulation and ecosystem functioning",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5989593637807157
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451712273350101
+    },
+    {
+      "name": "surface energy balance",
+      "label": "variable",
+      "description": "The balance between the amount of energy absorbed by the Earth's surface and the amount of energy lost to the atmosphere",
+      "uuid": "8b99fd5b-4be4-4d4b-bdf2-ef92df294738",
+      "score": 0.5599802683921649
+    }
+  ],
+  "(18815, 21591)": [
+    {
+      "name": "forest canopies",
+      "label": "location",
+      "description": "The upper layer of a forest, formed by the tops of trees and other vegetation, influencing local climate and hydrology",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.6231613617710946
+    },
+    {
+      "name": "snowpack depths",
+      "label": "variable",
+      "description": "The depth of snow on the ground, an important factor in hydrological and climate studies",
+      "uuid": "9512b90f-f495-41bb-9600-ff25e4cfc571",
+      "score": 0.6563730943285443
+    },
+    {
+      "name": "AT",
+      "label": "variable",
+      "description": "Air temperature, a key input parameter for hydrological and climate models",
+      "uuid": "0844a959-8ce0-4065-bef4-ee180a346445",
+      "score": 0.6210174999915178
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture falling to the ground, crucial for hydrological simulations",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6547890827705736
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground surface temperature, an important variable in hydrological and climate studies",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5825535693519284
+    },
+    {
+      "name": "VEMCO Minilog",
+      "label": "instrument",
+      "description": "A type of temperature logger used for measuring air, ground surface, and groundwater temperatures",
+      "uuid": "aa58ecd2-c726-48c5-86a3-ec592f6dc95e",
+      "score": 0.5152984822004971
+    },
+    {
+      "name": "EC",
+      "label": "provider",
+      "description": "Environment Canada, a government agency responsible for environmental and climate data collection and research",
+      "uuid": "865ff127-0492-4717-8cd1-f8819f5b0b37",
+      "score": 0.6893796899023777
+    }
+  ],
+  "(21091, 23747)": [
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water in the subsurface, influenced by various factors including climate change>",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.561165302544134
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by long-term changes in the Earth's climate system, affecting various aspects of the environment>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5808792033796829
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground Surface Temperature, a measure of the temperature at the Earth's surface>",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5824448913369602
+    },
+    {
+      "name": "advective heat transport",
+      "label": "process",
+      "description": "The transfer of heat through the movement of fluids, such as groundwater>",
+      "uuid": "5f6358aa-872c-4c1c-9388-4714138f034a",
+      "score": 0.5658332501905957
+    },
+    {
+      "name": "thermal conductivity",
+      "label": "variable",
+      "description": "A measure of the ability of a material to conduct heat>",
+      "uuid": "c67c1e1c-19f1-49de-8b2b-d5ce6f596323",
+      "score": 0.7008410244817129
+    }
+  ],
+  "(23328, 26243)": [
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground Surface Temperature, a measure of the temperature at the surface of the Earth",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5852267558878992
+    },
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water in the groundwater, an important factor in understanding hydrological and climatic processes",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5419923412828133
+    },
+    {
+      "name": "GWT",
+      "label": "variable",
+      "description": "Groundwater Temperature, a measure of the temperature of water in the groundwater",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.5262338540767049
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict the behavior of the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7229950631638208
+    },
+    {
+      "name": "data loggers",
+      "label": "instrument",
+      "description": "Devices used to collect and record data, such as temperature measurements",
+      "uuid": "aa58ecd2-c726-48c5-86a3-ec592f6dc95e",
+      "score": 0.675557006987654
+    }
+  ],
+  "(25764, 28376)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, used to simulate the Earth's climate system>",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7532694344278961
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground Surface Temperature, a measure of the temperature at the ground surface>",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5745156159247649
+    },
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water in the groundwater system>",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5310667806127878
+    },
+    {
+      "name": "MIROC 3.2 HIRES-A1B",
+      "label": "experiment",
+      "description": "A climate scenario simulation using the MIROC 3.2 model with high resolution and the A1B emissions scenario>",
+      "uuid": "59fa4c1e-508a-4e13-81c2-998c21b6e09d",
+      "score": 0.6096049897785086
+    },
+    {
+      "name": "CSIRO Mk3.0-B1",
+      "label": "experiment",
+      "description": "A climate scenario simulation using the CSIRO Mk3.0 model with the B1 emissions scenario>",
+      "uuid": "c15e05c9-9dc4-4712-98ba-a05d61bdf1c1",
+      "score": 0.6422239223518317
+    },
+    {
+      "name": "CRCM 4.2.3 aev-A2",
+      "label": "experiment",
+      "description": "A climate scenario simulation using the CRCM 4.2.3 model with the A2 emissions scenario>",
+      "uuid": "368aa5d4-4a9b-4488-86f6-f06360d0edf5",
+      "score": 0.500303224167323
+    },
+    {
+      "name": "AT",
+      "label": "variable",
+      "description": "Air Temperature, a measure of the temperature in the air>",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.656670565433094
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "The extent and duration of snow on the ground>",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.7319730441478205
+    },
+    {
+      "name": "snowpack depth",
+      "label": "variable",
+      "description": "The depth of the snowpack, an important factor in hydrology and climate studies>",
+      "uuid": "9512b90f-f495-41bb-9600-ff25e4cfc571",
+      "score": 0.6344235938212619
+    }
+  ],
+  "(27901, 30822)": [
+    {
+      "name": "CRCM 4.2.3",
+      "label": "model",
+      "description": "The Canadian Regional Climate Model, a climate simulation tool used for regional climate predictions and studies",
+      "uuid": "27be6a6a-740e-4043-830e-473a2065a2e3",
+      "score": 0.558041945049363
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground Surface Temperature, a measure of the temperature at the surface of the earth",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5835226261017372
+    },
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water stored beneath the Earth's surface, influenced by climate and geological factors",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5616582836530457
+    },
+    {
+      "name": "MIROC 3.2",
+      "label": "model",
+      "description": "A climate model developed by the Meteorological Research Institute, used for simulating and predicting climate change",
+      "uuid": "5948a759-4da8-4c75-8f9c-d11548fe31c5",
+      "score": 0.7116250063409524
+    },
+    {
+      "name": "CSIRO-Mk3.0-B1",
+      "label": "model",
+      "description": "A climate model developed by the Commonwealth Scientific and Industrial Research Organisation, used for simulating and predicting climate change",
+      "uuid": "f77d90ad-5708-4d78-b9a7-a0e5531e73df",
+      "score": 0.743191209373774
+    },
+    {
+      "name": "AT",
+      "label": "variable",
+      "description": "Air Temperature, a measure of the temperature of the air near the Earth's surface",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6687577420183526
+    },
+    {
+      "name": "snowpack",
+      "label": "variable",
+      "description": "A layer of snow on the ground, influencing the thermal resistance between the atmosphere and the ground surface",
+      "uuid": "abc70f23-f386-41da-b1ad-43cd7aebe7c4",
+      "score": 0.5590762290639862
+    }
+  ],
+  "(30309, 33129)": [
+    {
+      "name": "snowpack",
+      "label": "variable",
+      "description": "A layer of snow on the ground, influencing thermal resistance and heat transfer between the atmosphere and the ground surface",
+      "uuid": "abc70f23-f386-41da-b1ad-43cd7aebe7c4",
+      "score": 0.5612613368415252
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground Surface Temperature, a measure of the temperature at the surface of the ground",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5788706469099035
+    },
+    {
+      "name": "AT",
+      "label": "variable",
+      "description": "Air Temperature, a measure of the temperature of the air near the ground surface",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6628018323646782
+    },
+    {
+      "name": "ground surface",
+      "label": "location",
+      "description": "The surface of the Earth, where the atmosphere and lithosphere interact",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.5691189223951391
+    },
+    {
+      "name": "lower atmosphere",
+      "label": "location",
+      "description": "The lowest part of the atmosphere, extending from the ground surface up to about 10 km altitude",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.5278651731103117
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451712273350101
+    },
+    {
+      "name": "spring",
+      "label": "season",
+      "description": "The season of renewal and growth, characterized by increasing temperatures and melting of snow",
+      "uuid": "620a9e6c-5851-48b7-93c5-a1706546f5d1",
+      "score": 0.5191055775737844
+    },
+    {
+      "name": "snowmelt",
+      "label": "weather event",
+      "description": "The process of snow melting, often resulting in increased runoff and recharge of groundwater",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6197014688386409
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface, playing a crucial role in the hydrologic cycle and ecosystem functioning",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.7034957282995667
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, and supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6254314229573708
+    },
+    {
+      "name": "advective heat transport",
+      "label": "variable",
+      "description": "The transfer of heat through the movement of fluids, such as water or air",
+      "uuid": "5f6358aa-872c-4c1c-9388-4714138f034a",
+      "score": 0.5965340770862826
+    },
+    {
+      "name": "soil thermal diffusivity",
+      "label": "variable",
+      "description": "A measure of the ability of soil to conduct heat, influencing the temperature distribution and heat transfer in the subsurface",
+      "uuid": "c67c1e1c-19f1-49de-8b2b-d5ce6f596323",
+      "score": 0.6489959094681857
+    }
+  ],
+  "(32782, 35585)": [
+    {
+      "name": "soil thermal diffusivity",
+      "label": "variable",
+      "description": "A measure of the ability of soil to conduct heat, influencing the temperature-depth profile>",
+      "uuid": "c67c1e1c-19f1-49de-8b2b-d5ce6f596323",
+      "score": 0.6443899363000456
+    },
+    {
+      "name": "groundwater flow",
+      "label": "ocean circulation",
+      "description": "The movement of water beneath the Earth's surface, influencing the temperature-depth profile>",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.6291075132590699
+    },
+    {
+      "name": "MIROC 3.2 HIRES-A1B",
+      "label": "model",
+      "description": "A climate model used to simulate the effects of climate change on groundwater temperature>",
+      "uuid": "1ecb106d-cd95-4680-b31d-7894e820f594",
+      "score": 0.6065840350412347
+    },
+    {
+      "name": "CSIRO Mk3.0-B1",
+      "label": "model",
+      "description": "A climate model used to simulate the effects of climate change on groundwater temperature>",
+      "uuid": "f77d90ad-5708-4d78-b9a7-a0e5531e73df",
+      "score": 0.6924239235696922
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate, influencing the temperature-depth profile>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5802311280722119
+    }
+  ],
+  "(35058, 37997)": [
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water stored beneath the Earth's surface, an important factor in understanding climate change impacts on ecosystems",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5652983775968365
+    },
+    {
+      "name": "shallow groundwater",
+      "label": "location",
+      "description": "A subsurface water zone near the Earth's surface, where water is more susceptible to temperature changes due to climate change",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5590052060076496
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the Earth's climate, driven by various factors including human activities and natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5759632736728543
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground Surface Temperature, a measure of the temperature at the Earth's surface, influencing groundwater temperatures",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5582412788879206
+    },
+    {
+      "name": "stream temperature",
+      "label": "variable",
+      "description": "The temperature of water in streams, which can be affected by climate change and influence aquatic ecosystems",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.5338751979296541
+    },
+    {
+      "name": "AT",
+      "label": "variable",
+      "description": "Air Temperature, a measure of the temperature of the air, which can influence groundwater and stream temperatures",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.5811391800365209
+    }
+  ],
+  "(37613, 40524)": [
+    {
+      "name": "Pennsylvania",
+      "label": "location",
+      "description": "A state in the United States known for its diverse geography and climate",
+      "uuid": "d7fa4d05-8c37-4e23-99eb-4f9a888a0d5d",
+      "score": 0.5636374089251318
+    },
+    {
+      "name": "Oregon",
+      "label": "location",
+      "description": "A state in the United States known for its natural beauty and diverse climate",
+      "uuid": "699d5c22-6bcd-4cfa-be0f-f06e34a63513",
+      "score": 0.6930305026970603
+    },
+    {
+      "name": "AT",
+      "label": "variable",
+      "description": "Air temperature, an important factor influencing stream temperature",
+      "uuid": "0844a959-8ce0-4065-bef4-ee180a346445",
+      "score": 0.5559967120176678
+    },
+    {
+      "name": "stream temperature",
+      "label": "variable",
+      "description": "The temperature of water in streams, which can be affected by air temperature and other factors",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.5384181826385351
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures and changing weather patterns, which can impact stream ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5397281214557961
+    },
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water in groundwater, which can be affected by air temperature and other factors",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.521683203797441
+    },
+    {
+      "name": "MIROC 3.2 HIRES-A1B",
+      "label": "model",
+      "description": "A climate model used to project future changes in groundwater temperature",
+      "uuid": "1ecb106d-cd95-4680-b31d-7894e820f594",
+      "score": 0.5887677072960009
+    },
+    {
+      "name": "shallow groundwater",
+      "label": "location",
+      "description": "Groundwater that is relatively close to the surface, which can be affected by climate change",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5386908858213237
+    },
+    {
+      "name": "riverine ecosystems",
+      "label": "location",
+      "description": "Ecosystems that exist in and around rivers, which can be impacted by changes in groundwater temperature",
+      "uuid": "41446bdc-89f6-4d84-a2a4-005390757235",
+      "score": 0.5252194380573142
+    },
+    {
+      "name": "deforestation",
+      "label": "natural hazard",
+      "description": "The clearance of forests, which can lead to increased temperatures and other environmental impacts",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6372597791643663
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a particular river or stream, which can be protected to preserve thermal refugia",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5068587614546725
+    }
+  ],
+  "(40044, 43105)": [
+    {
+      "name": "warming climate",
+      "label": "weather event",
+      "description": "A period of significant increase in global temperatures, leading to various environmental and climatic changes",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.637785395153982
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground Surface Temperature, a measure of the temperature at the surface of the earth",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5835226261017372
+    },
+    {
+      "name": "AT",
+      "label": "variable",
+      "description": "Air Temperature, a measure of the temperature of the air",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6543073904387425
+    },
+    {
+      "name": "advective heat transport",
+      "label": "process",
+      "description": "The transfer of heat through the movement of fluids, such as water or air",
+      "uuid": "5f6358aa-872c-4c1c-9388-4714138f034a",
+      "score": 0.5965340770862826
+    },
+    {
+      "name": "extreme precipitation events",
+      "label": "weather event",
+      "description": "Unusual and severe rainfall events that can impact hydrological processes and groundwater flow",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6691716811191323
+    },
+    {
+      "name": "freezing and thawing effects",
+      "label": "process",
+      "description": "The physical changes that occur in soil and water when temperatures fluctuate around the freezing point",
+      "uuid": "24b052b6-5996-496d-9e91-1fdbda5897da",
+      "score": 0.5456074529454366
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, which can affect thermal diffusivity and groundwater flow",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6196031104554931
+    },
+    {
+      "name": "horizontal advection",
+      "label": "process",
+      "description": "The movement of water or heat through a medium, such as soil or rock, in a horizontal direction",
+      "uuid": "0cb7f2c6-5e99-4781-8d4f-19ecbad2e2e0",
+      "score": 0.5778893408890462
+    },
+    {
+      "name": "complex subsurface climate change feedbacks",
+      "label": "process",
+      "description": "The interactions and responses of subsurface systems to climate change, involving multiple physical and biological processes",
+      "uuid": "514c891b-60b8-4a6f-adb3-0366c75588e9",
+      "score": 0.5841050921536783
+    },
+    {
+      "name": "atmospheric climate change",
+      "label": "weather event",
+      "description": "Changes in the climate of the atmosphere, including temperature, precipitation, and other factors",
+      "uuid": "fc77777e-614f-41f1-9b97-d5324fa99105",
+      "score": 0.5072149295416408
+    }
+  ],
+  "(42620, 45070)": [
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground surface temperature, a measure of the temperature at the surface of the Earth",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5824039290441628
+    },
+    {
+      "name": "AT",
+      "label": "variable",
+      "description": "Air temperature, a measure of the temperature of the air",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6510418108112527
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a specific river or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5451876065176796
+    },
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water beneath the Earth's surface",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5555995201841764
+    },
+    {
+      "name": "atmospheric climate change",
+      "label": "weather event",
+      "description": "Changes in the Earth's climate due to atmospheric factors",
+      "uuid": "fc77777e-614f-41f1-9b97-d5324fa99105",
+      "score": 0.5099495964247298
+    },
+    {
+      "name": "decadal climate change",
+      "label": "teleconnection",
+      "description": "Long-term changes in the Earth's climate that occur over decades",
+      "uuid": "addadf3e-ae8d-49aa-9b5d-abee1952a543",
+      "score": 0.5856264246698367
+    },
+    {
+      "name": "baseflow-dominated streams",
+      "label": "location",
+      "description": "Streams that are primarily fed by groundwater, rather than surface runoff",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6142029353499313
+    },
+    {
+      "name": "groundwater discharge",
+      "label": "variable",
+      "description": "The flow of groundwater into a stream or river",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.6031259468566331
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A Global Climate Model, used to simulate the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7212326278965553
+    },
+    {
+      "name": "eastern North America",
+      "label": "location",
+      "description": "A region in North America, including the eastern United States and Canada",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.5448589501518737
+    }
+  ]
+}

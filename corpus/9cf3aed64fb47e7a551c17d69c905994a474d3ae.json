@@ -1,0 +1,1234 @@
+{
+  "(0, 3300)": [
+    {
+      "name": "environmental regulation",
+      "label": "project",
+      "description": "Government policies and laws aimed at protecting the environment and public health by controlling pollution and regulating human activities>",
+      "uuid": "57df059e-578a-4371-9484-7a34d63edfa5",
+      "score": 0.6680680150652083
+    },
+    {
+      "name": "National Institute of Environmental Health Sciences",
+      "label": "provider",
+      "description": "A part of the National Institutes of Health, providing funding and support for research on environmental health>",
+      "uuid": "e24eac75-a7a0-42f1-8727-8aa7ef2b7cdd",
+      "score": 0.5139993020439763
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "The overall well-being and condition of the human body and mind, influenced by environmental factors>",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5458993247160896
+    },
+    {
+      "name": "toxicology",
+      "label": "experiment",
+      "description": "The scientific study of the adverse effects of substances on living organisms, often using controlled settings>",
+      "uuid": "dd539b52-6de1-4b1b-a60c-fa5782f4d64b",
+      "score": 0.6358974808758573
+    },
+    {
+      "name": "epidemiology",
+      "label": "experiment",
+      "description": "The study of the distribution and determinants of health-related events, diseases, or health-related characteristics among populations>",
+      "uuid": "b8a877b7-d867-4305-9053-3777e5dd330a",
+      "score": 0.7126166530483872
+    }
+  ],
+  "(2712, 5684)": [
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "A measure of the level of pollutants in the air, which can affect human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6704341731175287
+    },
+    {
+      "name": "cities",
+      "label": "location",
+      "description": "Urban areas with high population densities, which can be sources of pollution and attract high-skilled workers",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5854662969268386
+    },
+    {
+      "name": "toxic exposures",
+      "label": "variable",
+      "description": "The presence of harmful substances in the environment, which can have negative effects on human health",
+      "uuid": "5518feb6-93a8-46fd-9e9a-25be3a832d6d",
+      "score": 0.5257536551668686
+    },
+    {
+      "name": "epidemiologic research",
+      "label": "project",
+      "description": "The study of the distribution and determinants of health-related events, diseases, or health-related characteristics among populations",
+      "uuid": "b8a877b7-d867-4305-9053-3777e5dd330a",
+      "score": 0.589191890813649
+    },
+    {
+      "name": "morbidity",
+      "label": "variable",
+      "description": "The state of being diseased or unhealthy, which can be affected by pollution exposure",
+      "uuid": "8a49484a-a9c8-411b-b911-7646f5323a7b",
+      "score": 0.6813574614623595
+    },
+    {
+      "name": "mortality",
+      "label": "variable",
+      "description": "The state of being dead, which can be affected by pollution exposure",
+      "uuid": "3fd888c4-2fd2-4ce1-8753-3158e2826ef7",
+      "score": 0.5824905041394258
+    },
+    {
+      "name": "productivity",
+      "label": "variable",
+      "description": "The efficiency with which an individual or organization produces goods or services, which can be affected by pollution exposure",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5190932670611281
+    }
+  ],
+  "(5309, 8358)": [
+    {
+      "name": "toxic materials",
+      "label": "variable",
+      "description": "Substances that can cause harm to human health and the environment, often released through pollution",
+      "uuid": "bf3aaf41-3502-49cf-89df-4613ce87c9c3",
+      "score": 0.5992123449327514
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "A measure of the well-being and physical condition of individuals, influenced by environmental factors",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5835313055232306
+    }
+  ],
+  "(7923, 11053)": [
+    {
+      "name": "U.S. Environmental Protection Agency",
+      "label": "provider",
+      "description": "A federal agency responsible for protecting human and environmental health in the United States",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7396606012770922
+    },
+    {
+      "name": "carbon monoxide",
+      "label": "variable",
+      "description": "A colorless, odorless gas produced by burning any type of fuel, which can be harmful to human health",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.7187750093303603
+    },
+    {
+      "name": "sulfur dioxide",
+      "label": "variable",
+      "description": "A toxic air pollutant that can cause respiratory problems and contribute to acid rain",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6590356044570598
+    },
+    {
+      "name": "nitrogen oxide",
+      "label": "variable",
+      "description": "A pollutant that contributes to smog and ozone formation, and can harm human health and the environment",
+      "uuid": "e82ebd1c-8241-4ca0-95a9-a6e1432519cd",
+      "score": 0.6451747203222565
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas that can be harmful to human health and the environment, formed through complex interactions between other pollutants",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5708055351918562
+    },
+    {
+      "name": "lead",
+      "label": "variable",
+      "description": "A toxic metal that can cause serious health problems, especially in children",
+      "uuid": "6fe420c1-2285-4031-babe-f0243c59a617",
+      "score": 0.6089842368740553
+    },
+    {
+      "name": "particulate matter",
+      "label": "variable",
+      "description": "A type of air pollutant that can cause respiratory problems and other health issues",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.733750163571322
+    },
+    {
+      "name": "volatile organic chemicals",
+      "label": "variable",
+      "description": "A type of pollutant that can contribute to ozone formation and other environmental problems",
+      "uuid": "1f3c543d-9ca9-4db4-b4a5-d3e2fd71e4a4",
+      "score": 0.7266591716522781
+    },
+    {
+      "name": "Western U.S.",
+      "label": "location",
+      "description": "A region in the United States that can be affected by pollutants such as mercury",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.5827854885212662
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent that can be a source of pollutants such as mercury",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.5710113490770189
+    }
+  ],
+  "(10474, 13750)": [
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area with defined boundaries, such as a city, state, or country",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.5856956089362656
+    },
+    {
+      "name": "laboratory",
+      "label": "platform",
+      "description": "A controlled environment for conducting scientific experiments and research",
+      "uuid": "3cbb9f17-ddb1-48d3-a507-786887e485af",
+      "score": 0.6926857810389835
+    },
+    {
+      "name": "air quality alerts",
+      "label": "instrument",
+      "description": "Warnings issued to inform people of dangerous levels of air pollution",
+      "uuid": "49c8e881-7100-42cf-9c2e-48f2012e5671",
+      "score": 0.5639587565309848
+    },
+    {
+      "name": "water quality violations",
+      "label": "instrument",
+      "description": "Notifications of water pollution that exceeds safe levels",
+      "uuid": "9a583e74-34e9-4eb5-af7a-03418d702af6",
+      "score": 0.5070570531257996
+    }
+  ],
+  "(13209, 16388)": [
+    {
+      "name": "ozone pollution",
+      "label": "pollutant",
+      "description": "A type of air pollution caused by the presence of ozone, a gas that can harm human health and the environment",
+      "uuid": "426aee98-764c-4c21-ab65-1e9d4bd6b0d0",
+      "score": 0.5012576180505501
+    }
+  ],
+  "(15772, 19074)": [
+    {
+      "name": "environmental health",
+      "label": "project",
+      "description": "A field of study that examines the relationship between environmental factors and human health",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.609290681734477
+    }
+  ],
+  "(21034, 24117)": [
+    {
+      "name": "health",
+      "label": "variable",
+      "description": "A state of complete physical, mental, and social well-being, influenced by various factors including pollution and medical treatment>",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5072707539741315
+    },
+    {
+      "name": "environmental field",
+      "label": "field",
+      "description": "A branch of study that focuses on the natural environment and the impact of human activities on it>",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.5333868908163505
+    }
+  ],
+  "(23549, 26849)": [
+    {
+      "name": "health",
+      "label": "variable",
+      "description": "A measure of the well-being and physical condition of individuals, influenced by various factors including pollution",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5494429864560452
+    },
+    {
+      "name": "environmental field",
+      "label": "location",
+      "description": "The area of study focused on the natural world and the impact of human activities on the environment",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.510423604507316
+    },
+    {
+      "name": "regulation",
+      "label": "instrument",
+      "description": "A set of rules or laws designed to control or influence human behavior, such as reducing pollution",
+      "uuid": "57df059e-578a-4371-9484-7a34d63edfa5",
+      "score": 0.5116788733171573
+    }
+  ],
+  "(26302, 29802)": [
+    {
+      "name": "health",
+      "label": "variable",
+      "description": "A measure of the well-being and quality of life of individuals or populations, often used in studies of environmental impact",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5503963855865771
+    },
+    {
+      "name": "air pollution",
+      "label": "natural hazard",
+      "description": "The release of harmful substances into the air, posing risks to human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.509458934944299
+    },
+    {
+      "name": "toxins",
+      "label": "natural hazard",
+      "description": "Poisonous substances that can harm human health and the environment",
+      "uuid": "bf3aaf41-3502-49cf-89df-4613ce87c9c3",
+      "score": 0.5972427693732939
+    },
+    {
+      "name": "ambient air pollution monitors",
+      "label": "instrument",
+      "description": "Devices used to measure the concentration of pollutants in the air",
+      "uuid": "0282628e-5b4a-41de-aec4-a7dd526b96b1",
+      "score": 0.5715363189465091
+    },
+    {
+      "name": "remote sensing",
+      "label": "instrument",
+      "description": "The use of satellite or aerial imagery to collect data on the environment",
+      "uuid": "c38e16d1-61f9-4189-a3c9-33e2015db137",
+      "score": 0.5383065449962379
+    },
+    {
+      "name": "government agencies",
+      "label": "provider",
+      "description": "Organizations responsible for collecting and managing environmental data",
+      "uuid": "2b890e5b-1b50-4454-90a9-538dd891da9a",
+      "score": 0.5633486870120288
+    },
+    {
+      "name": "geographic identifiers",
+      "label": "variable",
+      "description": "Information used to locate and identify specific geographic areas",
+      "uuid": "204270d9-8039-4768-851e-63635af5fb65",
+      "score": 0.5097684267921646
+    },
+    {
+      "name": "ground-based data collection",
+      "label": "instrument",
+      "description": "Methods used to collect environmental data directly from the field",
+      "uuid": "dbcead38-c78b-4306-b56f-0ea15c0b755b",
+      "score": 0.5868465989950741
+    }
+  ],
+  "(29231, 32352)": [
+    {
+      "name": "particulate matter contamination",
+      "label": "variable",
+      "description": "A measure of the concentration of particulate matter in the air, which can have negative impacts on human health>",
+      "uuid": "681812bd-c115-42b2-b717-f89715e89406",
+      "score": 0.6355700973599118
+    },
+    {
+      "name": "vegetative cover",
+      "label": "variable",
+      "description": "The amount of vegetation in a given area, which can affect air pollution levels>",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.6149814864197473
+    },
+    {
+      "name": "personal monitors",
+      "label": "instrument",
+      "description": "Devices used to measure an individual's exposure to air pollution>",
+      "uuid": "0282628e-5b4a-41de-aec4-a7dd526b96b1",
+      "score": 0.5357587684079577
+    }
+  ],
+  "(31835, 34899)": [
+    {
+      "name": "temperature inversion",
+      "label": "weather event",
+      "description": "A meteorological phenomenon where a layer of warm air forms over a layer of cool air, trapping pollutants and contributing to air pollution",
+      "uuid": "4fa883a3-e312-4dbe-870e-3272de4ac76a",
+      "score": 0.5139771109132683
+    },
+    {
+      "name": "air pollution",
+      "label": "variable",
+      "description": "The presence of pollutants in the air, which can have harmful effects on human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5270867730437274
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "The overall well-being of individuals, influenced by various factors including environmental conditions",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5863673486835517
+    },
+    {
+      "name": "epidemiological investigations",
+      "label": "project",
+      "description": "Studies that examine the distribution and determinants of health-related events, diseases, or health-related characteristics among populations",
+      "uuid": "b8a877b7-d867-4305-9053-3777e5dd330a",
+      "score": 0.5747535815640262
+    },
+    {
+      "name": "toxicology literature",
+      "label": "provider",
+      "description": "The body of research and knowledge on the adverse effects of chemicals on living organisms",
+      "uuid": "dd539b52-6de1-4b1b-a60c-fa5782f4d64b",
+      "score": 0.5484211038786367
+    },
+    {
+      "name": "mortality",
+      "label": "variable",
+      "description": "The number of deaths or death rate, often used as an indicator of the impact of environmental factors on human health",
+      "uuid": "3fd888c4-2fd2-4ce1-8753-3158e2826ef7",
+      "score": 0.6694166048723721
+    },
+    {
+      "name": "morbidities",
+      "label": "variable",
+      "description": "The state of being diseased or unhealthy, which can be affected by environmental factors",
+      "uuid": "8a49484a-a9c8-411b-b911-7646f5323a7b",
+      "score": 0.6452340154074174
+    }
+  ],
+  "(34318, 37730)": [
+    {
+      "name": "mortality",
+      "label": "variable",
+      "description": "The number of deaths occurring within a given population or area",
+      "uuid": "3fd888c4-2fd2-4ce1-8753-3158e2826ef7",
+      "score": 0.5970361533831233
+    },
+    {
+      "name": "morbidities",
+      "label": "variable",
+      "description": "The state of being diseased or having a health condition",
+      "uuid": "8a49484a-a9c8-411b-b911-7646f5323a7b",
+      "score": 0.6182781009624093
+    },
+    {
+      "name": "productivity",
+      "label": "variable",
+      "description": "The rate at which goods and services are produced",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5146468870925697
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A type of air pollutant that can have negative effects on human health",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5504349391684585
+    }
+  ],
+  "(37100, 40335)": [
+    {
+      "name": "health",
+      "label": "variable",
+      "description": "A state of complete physical, mental, and social well-being, influenced by various factors including pollution and exposure",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5194590717844169
+    },
+    {
+      "name": "ambient pollution levels",
+      "label": "variable",
+      "description": "The amount of pollutants present in the environment, typically measured in the air or water",
+      "uuid": "038ac74c-470a-43e0-b80d-2b2fb1acfc13",
+      "score": 0.5054532986842091
+    },
+    {
+      "name": "parks",
+      "label": "location",
+      "description": "Public green spaces or areas set aside for recreation and leisure",
+      "uuid": "2b1f7993-2d54-40de-abc4-3909f619ad4e",
+      "score": 0.5615352531780917
+    },
+    {
+      "name": "environmental quality",
+      "label": "variable",
+      "description": "The state or condition of the natural environment, including factors such as air and water quality, noise pollution, and access to green spaces",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5102860089922592
+    }
+  ],
+  "(39809, 43093)": [
+    {
+      "name": "parks",
+      "label": "location",
+      "description": "Public green spaces that provide recreational areas and contribute to the aesthetic and environmental quality of a neighborhood",
+      "uuid": "2b1f7993-2d54-40de-abc4-3909f619ad4e",
+      "score": 0.5554905181061088
+    },
+    {
+      "name": "environmental quality",
+      "label": "variable",
+      "description": "The measure of the natural and built environment's condition, including factors like air and water quality, noise pollution, and green spaces",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.502355531589819
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities and metropolitan regions characterized by high population density, economic activity, and infrastructure development",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7360748388326257
+    },
+    {
+      "name": "rural areas",
+      "label": "location",
+      "description": "Countryside regions with lower population density, often associated with agricultural activities and natural environments",
+      "uuid": "d83b4271-048c-4763-9d5c-b5ec1b1788f4",
+      "score": 0.7034792305523626
+    },
+    {
+      "name": "suburban areas",
+      "label": "location",
+      "description": "Residential regions surrounding urban areas, typically with a mix of housing, commercial, and recreational spaces",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5286545197255864
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "The measure of the cleanliness and safety of the air in a particular area, influenced by pollution levels and environmental factors",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6643500500974023
+    },
+    {
+      "name": "health",
+      "label": "variable",
+      "description": "The state of physical, mental, and emotional well-being of individuals, influenced by various factors including environmental quality and access to healthcare",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5375763862259125
+    }
+  ],
+  "(42535, 45614)": [
+    {
+      "name": "Air Quality Index",
+      "label": "variable",
+      "description": "A summary measure of air quality across several pollutants, used to quantify the level of air pollution in a given area>",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5766398077673413
+    },
+    {
+      "name": "CDC",
+      "label": "provider",
+      "description": "The Centers for Disease Control and Prevention, a US federal agency responsible for protecting public health and safety>",
+      "uuid": "5fab3862-6df5-4835-843a-3eceae73c119",
+      "score": 0.602898158935229
+    }
+  ],
+  "(45049, 48266)": [
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A type of air pollutant that can have negative impacts on human health and the environment",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5796822533673927
+    },
+    {
+      "name": "weather",
+      "label": "weather event",
+      "description": "Atmospheric conditions that can affect air quality and pollution levels",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5191322735487568
+    },
+    {
+      "name": "temperature inversions",
+      "label": "weather event",
+      "description": "A meteorological phenomenon where a layer of cool air is trapped under a layer of warm air, which can impact air quality",
+      "uuid": "4fa883a3-e312-4dbe-870e-3272de4ac76a",
+      "score": 0.5122577030813763
+    },
+    {
+      "name": "wildfires",
+      "label": "natural hazard",
+      "description": "Uncontrolled fires that occur in wildland areas, which can impact air quality",
+      "uuid": "868b87a1-d8c2-49b3-8bbd-9cbbed115271",
+      "score": 0.6435952054922713
+    }
+  ],
+  "(47731, 50847)": [
+    {
+      "name": "AQI",
+      "label": "variable",
+      "description": "Air Quality Index, a measure of the level of air pollution in a given area>",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5508629103907619
+    },
+    {
+      "name": "air pollution",
+      "label": "variable",
+      "description": "The presence of pollutants in the air, potentially affecting human health>",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5659900604704279
+    }
+  ],
+  "(50314, 53653)": [
+    {
+      "name": "nitrogen dioxide",
+      "label": "variable",
+      "description": "A toxic gas pollutant that can have adverse effects on human health and the environment",
+      "uuid": "f8e65155-27c1-483e-a9b8-85399897c3ae",
+      "score": 0.7053135238311689
+    },
+    {
+      "name": "particulate matter",
+      "label": "variable",
+      "description": "A type of air pollutant consisting of small particles that can be inhaled and cause health problems",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.7286452901524595
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas that can be beneficial in the stratosphere but harmful at ground level, contributing to air pollution and negative health effects",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5968014974174992
+    },
+    {
+      "name": "air quality index (AQI)",
+      "label": "variable",
+      "description": "A measure of the level of air pollution in a given area, used to indicate the potential health risks associated with breathing the air",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5486350396282348
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities and towns with high population densities, often associated with increased air pollution levels",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6791210132514166
+    },
+    {
+      "name": "industrial mix",
+      "label": "variable",
+      "description": "The combination of different industrial activities and their associated emissions in a given area",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5107943110049542
+    }
+  ],
+  "(53027, 56486)": [
+    {
+      "name": "health",
+      "label": "variable",
+      "description": "The state of well-being of individuals or populations, which can be affected by pollution and meteorological conditions",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5328060614894674
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of pollutants into the environment, which can be influenced by various factors, including human activities and meteorological conditions",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.6650460657154675
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A type of air pollutant that can have negative effects on human health and the environment",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5615250462122419
+    },
+    {
+      "name": "air quality alerts",
+      "label": "instrument",
+      "description": "Public information campaigns that inform individuals about pollution levels and help them take steps to reduce their exposure",
+      "uuid": "49c8e881-7100-42cf-9c2e-48f2012e5671",
+      "score": 0.5204397700435308
+    }
+  ],
+  "(55935, 59106)": [
+    {
+      "name": "environmental health production function",
+      "label": "model",
+      "description": "A mathematical representation of the relationship between environmental factors, such as pollution, and health outcomes",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5283674749893212
+    }
+  ],
+  "(61282, 64410)": [
+    {
+      "name": "mortality",
+      "label": "variable",
+      "description": "A measure of death rate, often used as an objective indicator of health status in environmental and health research",
+      "uuid": "3fd888c4-2fd2-4ce1-8753-3158e2826ef7",
+      "score": 0.6430588540099191
+    }
+  ],
+  "(63863, 67141)": [
+    {
+      "name": "particulate matter",
+      "label": "pollutant",
+      "description": "A type of air pollution consisting of small particles that can cause respiratory and cardiovascular problems",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.7331443410142364
+    },
+    {
+      "name": "mortality",
+      "label": "health outcome",
+      "description": "The number of deaths due to a specific cause, such as heart attacks",
+      "uuid": "3fd888c4-2fd2-4ce1-8753-3158e2826ef7",
+      "score": 0.5689104786463587
+    },
+    {
+      "name": "epidemiological studies",
+      "label": "research field",
+      "description": "The study of the distribution and determinants of health-related events, diseases, or health-related characteristics among populations",
+      "uuid": "b8a877b7-d867-4305-9053-3777e5dd330a",
+      "score": 0.5994480278686678
+    }
+  ],
+  "(66610, 69936)": [
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country with a diverse range of healthcare systems and access to care",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5400053784893515
+    }
+  ],
+  "(71872, 74851)": [
+    {
+      "name": "environmental-health relationships",
+      "label": "variable",
+      "description": "The connections between environmental factors and human health outcomes, including the impact of pollution on physical and mental well-being",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.6286954132200601
+    },
+    {
+      "name": "particulate matter pollution",
+      "label": "natural hazard",
+      "description": "A type of air pollution consisting of small particles that can cause respiratory and cardiovascular problems",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.6718863689601987
+    }
+  ],
+  "(74315, 77277)": [
+    {
+      "name": "particulate matter pollution",
+      "label": "variable",
+      "description": "A type of air pollution consisting of small particles that can have negative impacts on human health and the environment",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.6813222361523373
+    },
+    {
+      "name": "environmental policy",
+      "label": "project",
+      "description": "A set of principles and actions aimed at protecting the environment and promoting sustainable development",
+      "uuid": "73266dd6-217a-432f-9237-176d3e94b39b",
+      "score": 0.5033342572593025
+    },
+    {
+      "name": "health impacts",
+      "label": "variable",
+      "description": "The effects of environmental factors on human health, including mortality, hospitalizations, and productivity",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5951151957013758
+    },
+    {
+      "name": "environmental quality",
+      "label": "variable",
+      "description": "The state of the environment, including factors such as air and water quality, and the presence of pollutants",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5274063530043599
+    }
+  ],
+  "(76770, 79904)": [
+    {
+      "name": "health impacts",
+      "label": "variable",
+      "description": "The effects of environmental pollutants or health risks on human well-being, which can include physical, mental, or economic consequences",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5639957835169098
+    }
+  ],
+  "(79296, 82439)": [
+    {
+      "name": "particulate matter",
+      "label": "variable",
+      "description": "A type of air pollution that can have negative effects on human health",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.7158366377965805
+    },
+    {
+      "name": "mortality",
+      "label": "variable",
+      "description": "A measure of the impact of pollution on health, specifically on death rates",
+      "uuid": "3fd888c4-2fd2-4ce1-8753-3158e2826ef7",
+      "score": 0.5977193559538189
+    }
+  ],
+  "(81893, 84934)": [
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6252737187355539
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the United States, located on the West Coast",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6561835891820678
+    },
+    {
+      "name": "carbon monoxide",
+      "label": "variable",
+      "description": "A toxic gas produced by incomplete combustion of fossil fuels, affecting air quality and human health",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.747606819036217
+    },
+    {
+      "name": "ground-level ozone",
+      "label": "variable",
+      "description": "A pollutant formed by the interaction of sunlight, nitrogen oxides, and volatile organic compounds, affecting respiratory health",
+      "uuid": "426aee98-764c-4c21-ab65-1e9d4bd6b0d0",
+      "score": 0.5372363261771707
+    },
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "Carbon monoxide, a toxic gas produced by incomplete combustion of fossil fuels",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.7036691330034015
+    },
+    {
+      "name": "infant mortality",
+      "label": "variable",
+      "description": "The number of deaths of infants under one year of age per 1,000 live births, used as an indicator of environmental health effects",
+      "uuid": "611f0108-5706-43ca-bc39-38e528f6024b",
+      "score": 0.6997819781787161
+    }
+  ],
+  "(84443, 87478)": [
+    {
+      "name": "particulate matter",
+      "label": "variable",
+      "description": "A type of air pollutant consisting of small particles that can be inhaled and have negative health effects",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.7332326029938074
+    },
+    {
+      "name": "CO",
+      "label": "variable",
+      "description": "Carbon monoxide, a toxic gas that can have negative health effects, particularly for pregnant women and infants",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.6345473051335802
+    },
+    {
+      "name": "infant mortality",
+      "label": "health outcome",
+      "description": "The death of a child under the age of one, often used as an indicator of overall health and well-being",
+      "uuid": "611f0108-5706-43ca-bc39-38e528f6024b",
+      "score": 0.6331154637776999
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6252737187355539
+    },
+    {
+      "name": "satellite data",
+      "label": "instrument",
+      "description": "Data collected from satellites orbiting the Earth, used to study various environmental and health phenomena",
+      "uuid": "17b1489c-fba7-4252-bf23-b981148343f1",
+      "score": 0.5440940179828723
+    }
+  ],
+  "(87000, 90157)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, experiencing rapid industrialization and environmental changes",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5930426998262617
+    },
+    {
+      "name": "national water monitoring system",
+      "label": "instrument",
+      "description": "A system for collecting data on water quality",
+      "uuid": "2469d7de-19ea-461a-8a95-a8b96639cf82",
+      "score": 0.5109163690439236
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of pollutants into the environment",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.6816642780525944
+    }
+  ],
+  "(89608, 92895)": [
+    {
+      "name": "vehicle emissions",
+      "label": "variable",
+      "description": "The release of pollutants into the atmosphere from vehicles, contributing to air pollution and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5622872390432283
+    },
+    {
+      "name": "NOx emissions",
+      "label": "variable",
+      "description": "The release of nitrogen oxides into the atmosphere, contributing to air pollution and environmental degradation",
+      "uuid": "e5563c99-0fb6-43a9-8e20-6b47b1144394",
+      "score": 0.6894940635775241
+    },
+    {
+      "name": "mortality",
+      "label": "variable",
+      "description": "The number of deaths, often used as an indicator of health outcomes and population health",
+      "uuid": "3fd888c4-2fd2-4ce1-8753-3158e2826ef7",
+      "score": 0.6231342001077821
+    },
+    {
+      "name": "air quality information",
+      "label": "variable",
+      "description": "Data and forecasts related to the levels of air pollutants, used to inform decisions about outdoor activities and health protection",
+      "uuid": "49c8e881-7100-42cf-9c2e-48f2012e5671",
+      "score": 0.6401678137400282
+    },
+    {
+      "name": "environment-health relationship",
+      "label": "variable",
+      "description": "The complex interactions between environmental factors and human health outcomes",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.6016903728053964
+    },
+    {
+      "name": "smog alerts",
+      "label": "variable",
+      "description": "Warnings issued when ozone levels are forecasted to exceed a certain threshold, used to inform the public about air quality",
+      "uuid": "bad08657-da2b-4e2b-9804-25c5732bc795",
+      "score": 0.5231276383466701
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "The measure of the suitability of water for various uses, including drinking, recreation, and ecosystem health",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.6918147673554952
+    }
+  ],
+  "(92381, 95692)": [
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, affecting its suitability for human consumption and other uses",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7136913358248077
+    },
+    {
+      "name": "Food and Drug Administration",
+      "label": "provider",
+      "description": "A US government agency responsible for protecting public health by regulating food, drugs, and other products",
+      "uuid": "354050b4-7dab-44ea-b74d-9e981462faa5",
+      "score": 0.6060781180632941
+    },
+    {
+      "name": "arsenic pollution",
+      "label": "variable",
+      "description": "The presence of arsenic in drinking water, which can have adverse health effects on humans",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.5536221755054875
+    },
+    {
+      "name": "Bangladesh",
+      "label": "location",
+      "description": "A country in South Asia where arsenic pollution in drinking water is a significant problem",
+      "uuid": "28761db9-82fe-4a24-9a89-0fd6047fa1ea",
+      "score": 0.5253192158137099
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, affecting human comfort and energy consumption",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6187613044909848
+    }
+  ],
+  "(95174, 98482)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in a given environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6093486640171047
+    },
+    {
+      "name": "health risk",
+      "label": "natural hazard",
+      "description": "A potential harm or danger to human health, often associated with environmental factors such as pollution or extreme weather",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5105983468035085
+    },
+    {
+      "name": "smog alerts",
+      "label": "weather event",
+      "description": "Warnings issued when air pollution levels are expected to be high, often triggering avoidance behaviors",
+      "uuid": "bad08657-da2b-4e2b-9804-25c5732bc795",
+      "score": 0.5497956193913126
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas composed of three oxygen atoms, often used as a measure of air quality",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5434488107514911
+    }
+  ],
+  "(97903, 101028)": [
+    {
+      "name": "carbon monoxide",
+      "label": "pollutant",
+      "description": "A colorless, odorless, and tasteless gas that can be harmful to humans and the environment",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.7354351687165661
+    },
+    {
+      "name": "Texas",
+      "label": "location",
+      "description": "A state in the southern United States, known for its diverse geography, climate, and economy",
+      "uuid": "0f01d3b9-3691-471e-b21b-3f42c512dcd2",
+      "score": 0.6613497659889419
+    }
+  ],
+  "(100524, 103426)": [
+    {
+      "name": "sulfur dioxide",
+      "label": "variable",
+      "description": "A type of air pollutant that can have negative effects on human health and the environment",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.6623568649765013
+    },
+    {
+      "name": "arsenic pollution",
+      "label": "variable",
+      "description": "A type of water pollutant that can have negative effects on human health, particularly in high concentrations",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.5516888352906245
+    },
+    {
+      "name": "Bangladesh",
+      "label": "location",
+      "description": "A country in South Asia, known for its high levels of arsenic pollution in drinking water",
+      "uuid": "28761db9-82fe-4a24-9a89-0fd6047fa1ea",
+      "score": 0.5776044605853218
+    },
+    {
+      "name": "Bay of Bengal",
+      "label": "location",
+      "description": "A region in South Asia, known for its high levels of arsenic pollution in drinking water",
+      "uuid": "66dc90fd-304a-4379-a9e1-18cf184cc6da",
+      "score": 0.5965954502977383
+    }
+  ],
+  "(102898, 105976)": [
+    {
+      "name": "arsenic pollution",
+      "label": "natural hazard",
+      "description": "The contamination of water sources with arsenic, a toxic substance that can have severe health impacts>",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.5957196538101704
+    },
+    {
+      "name": "Bay of Bengal",
+      "label": "location",
+      "description": "A region in South Asia where the arsenic contamination is particularly high>",
+      "uuid": "66dc90fd-304a-4379-a9e1-18cf184cc6da",
+      "score": 0.5498096958526284
+    },
+    {
+      "name": "ozone levels",
+      "label": "variable",
+      "description": "The concentration of ozone in the air, which can impact worker productivity>",
+      "uuid": "861b4cd3-ffb6-4e6f-b3df-368d082ca812",
+      "score": 0.5065306618941436
+    },
+    {
+      "name": "lead exposure",
+      "label": "natural hazard",
+      "description": "The contamination of the environment with lead, a toxic substance that can have severe health impacts>",
+      "uuid": "6fe420c1-2285-4031-babe-f0243c59a617",
+      "score": 0.5253032116622836
+    },
+    {
+      "name": "lead pipes",
+      "label": "instrument",
+      "description": "Pipes made of lead, which can contaminate water with lead>",
+      "uuid": "6fe420c1-2285-4031-babe-f0243c59a617",
+      "score": 0.5112279180560345
+    },
+    {
+      "name": "cities",
+      "label": "location",
+      "description": "Urban areas where the lead exposure can have significant impacts>",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5018201100834728
+    }
+  ],
+  "(105500, 108693)": [
+    {
+      "name": "radiation exposure",
+      "label": "variable",
+      "description": "The amount of ionizing radiation that an individual is exposed to, which can have negative effects on human health and development",
+      "uuid": "74851074-27ab-425b-9521-8d139b907b0d",
+      "score": 0.6461834567239355
+    },
+    {
+      "name": "Sweden",
+      "label": "location",
+      "description": "A country in Northern Europe, where the study on the impact of prenatal exposure to radioactive fallout was conducted",
+      "uuid": "2edce566-82e1-4645-a94d-58cffa42f8e2",
+      "score": 0.5480359471144506
+    },
+    {
+      "name": "Texas",
+      "label": "location",
+      "description": "A state in the United States, where the study on the effect of prenatal exposure to TSPs on student performance in high school was conducted",
+      "uuid": "0f01d3b9-3691-471e-b21b-3f42c512dcd2",
+      "score": 0.5374032123377194
+    }
+  ],
+  "(108200, 111407)": [
+    {
+      "name": "Texas",
+      "label": "location",
+      "description": "A state in the United States where the study by Chay and Greenstone was conducted",
+      "uuid": "0f01d3b9-3691-471e-b21b-3f42c512dcd2",
+      "score": 0.5440951817059404
+    },
+    {
+      "name": "Sweden",
+      "label": "location",
+      "description": "A country where a study on the effects of lead exposure was conducted",
+      "uuid": "2edce566-82e1-4645-a94d-58cffa42f8e2",
+      "score": 0.5038123867474555
+    },
+    {
+      "name": "radon",
+      "label": "variable",
+      "description": "A radioactive gas that can be found in the environment",
+      "uuid": "a81f6b17-2a16-4600-84b6-bcbcc5c29d2f",
+      "score": 0.597379734887088
+    },
+    {
+      "name": "US Center for Disease Control and Prevention",
+      "label": "provider",
+      "description": "A US government agency responsible for protecting public health",
+      "uuid": "5fab3862-6df5-4835-843a-3eceae73c119",
+      "score": 0.5942473354231316
+    },
+    {
+      "name": "environmental regulation",
+      "label": "project",
+      "description": "Government policies and laws aimed at protecting the environment",
+      "uuid": "57df059e-578a-4371-9484-7a34d63edfa5",
+      "score": 0.654781938254524
+    }
+  ],
+  "(110791, 114095)": [
+    {
+      "name": "environmental regulation",
+      "label": "policy",
+      "description": "Government actions and laws aimed at protecting the environment and public health by controlling pollution and managing natural resources",
+      "uuid": "57df059e-578a-4371-9484-7a34d63edfa5",
+      "score": 0.6391258911605106
+    },
+    {
+      "name": "economic productivity",
+      "label": "economic concept",
+      "description": "The efficiency with which an economy produces goods and services, which can be influenced by environmental regulation",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.507765661658385
+    }
+  ],
+  "(113517, 116529)": [
+    {
+      "name": "dew point",
+      "label": "variable",
+      "description": "A measure of the temperature at which air becomes saturated with water vapor and dew or frost begins to form",
+      "uuid": "731beb11-9418-40ec-8f2c-c4b320e8231a",
+      "score": 0.758141482655789
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas composed of three oxygen atoms, playing a crucial role in protecting the Earth from ultraviolet radiation and influencing air quality",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6429329682350806
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to describe weather and climate conditions",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6595090532242635
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy emitted by the sun and received by the Earth, influencing climate, weather, and environmental conditions",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6941503230958379
+    },
+    {
+      "name": "barometric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere, used to predict weather patterns and understand atmospheric conditions",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.610319814477313
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "A measure of the rate at which air moves, influencing weather patterns, climate, and environmental conditions",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6886166463306012
+    },
+    {
+      "name": "wind direction",
+      "label": "variable",
+      "description": "The direction from which the wind is blowing, used to understand weather patterns, climate, and environmental conditions",
+      "uuid": "e987550e-d443-48eb-93eb-0bc47a62d4b4",
+      "score": 0.7100756663457204
+    },
+    {
+      "name": "NIH",
+      "label": "provider",
+      "description": "The National Institutes of Health, a US government agency responsible for biomedical and health-related research",
+      "uuid": "780577a1-0563-4f42-b973-934278a8846c",
+      "score": 0.5649331956625275
+    }
+  ],
+  "(116309, 116529)": [
+    {
+      "name": "dew point",
+      "label": "variable",
+      "description": "The temperature at which air becomes saturated with water vapor and dew or frost begins to form",
+      "uuid": "731beb11-9418-40ec-8f2c-c4b320e8231a",
+      "score": 0.7681274668411754
+    },
+    {
+      "name": "barometric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere at a given point on the Earth's surface",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.6548822745110839
+    },
+    {
+      "name": "wind speed and direction",
+      "label": "variable",
+      "description": "Measurements of the velocity and direction of air movement",
+      "uuid": "284d4437-b7f1-4e6d-96f4-92a3b14863c4",
+      "score": 0.6215280427646099
+    }
+  ]
+}

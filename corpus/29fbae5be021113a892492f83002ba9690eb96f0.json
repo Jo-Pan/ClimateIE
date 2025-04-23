@@ -1,0 +1,610 @@
+{
+  "(0, 2918)": [
+    {
+      "name": "Mainland China",
+      "label": "location",
+      "description": "A region in East Asia, comprising the majority of the People's Republic of China's land area",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5493544482793004
+    },
+    {
+      "name": "climate",
+      "label": "model",
+      "description": "A complex system that integrates physical, chemical, and biological processes to simulate and predict Earth's climate",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5412683505958912
+    },
+    {
+      "name": "socio-economic factors",
+      "label": "variable",
+      "description": "Factors related to the interaction between social and economic systems, including aspects such as population density, industrial activity, and education level",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.5822980037337696
+    },
+    {
+      "name": "monthly average precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall in a given area over a specific period, often used in climate and environmental studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5214255200761199
+    },
+    {
+      "name": "monthly average temperature",
+      "label": "variable",
+      "description": "A measure of the average temperature in a given area over a specific period, often used in climate and environmental studies",
+      "uuid": "8c8c70b1-f6c5-4f34-89b5-510049b8c8ab",
+      "score": 0.5470094788274946
+    },
+    {
+      "name": "monthly average wind speed",
+      "label": "variable",
+      "description": "A measure of the average wind speed in a given area over a specific period, often used in climate and environmental studies",
+      "uuid": "284d4437-b7f1-4e6d-96f4-92a3b14863c4",
+      "score": 0.5232609552018455
+    },
+    {
+      "name": "population density",
+      "label": "variable",
+      "description": "A measure of the number of people living in a given area, often used in demographic and epidemiological studies",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7535016112288869
+    },
+    {
+      "name": "Asia Pacific region",
+      "label": "location",
+      "description": "A geographic region that includes countries in East Asia, Southeast Asia, and Oceania, known for its diverse climate, culture, and economy",
+      "uuid": "5366ab82-ff8b-46a4-85d1-672c8bb23480",
+      "score": 0.5911164212952903
+    }
+  ],
+  "(2493, 5145)": [
+    {
+      "name": "epidemiology",
+      "label": "field",
+      "description": "The study of how diseases spread and can be controlled in populations",
+      "uuid": "b8a877b7-d867-4305-9053-3777e5dd330a",
+      "score": 0.705142574605898
+    }
+  ],
+  "(4710, 7376)": [
+    {
+      "name": "rural/urban areas",
+      "label": "location",
+      "description": "Geographic regions with different population densities and characteristics, potentially affecting HFMD risk",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5411606853969182
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric conditions such as temperature, precipitation, and humidity that may influence the risk of HFMD",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5500744101250074
+    },
+    {
+      "name": "Hong Kong",
+      "label": "location",
+      "description": "A city in China with a subtropical climate, where HFMD is a significant public health concern",
+      "uuid": "d5182160-6764-4662-80fe-1ec252d36f20",
+      "score": 0.5279921750931842
+    }
+  ],
+  "(6882, 9808)": [
+    {
+      "name": "Hong Kong",
+      "label": "location",
+      "description": "A Special Administrative Region of China, known for its dense population and urbanization",
+      "uuid": "d5182160-6764-4662-80fe-1ec252d36f20",
+      "score": 0.7074895451268589
+    },
+    {
+      "name": "Chinese Center for Disease Control and Prevention",
+      "label": "provider",
+      "description": "A national public health agency responsible for disease control and prevention in China",
+      "uuid": "5fab3862-6df5-4835-843a-3eceae73c119",
+      "score": 0.5077364893434383
+    },
+    {
+      "name": "climate exposure factors",
+      "label": "variable",
+      "description": "Environmental factors related to climate that can influence the risk of disease occurrence",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5312145110375437
+    },
+    {
+      "name": "China Meteorological Data Sharing Service System",
+      "label": "provider",
+      "description": "A system that provides meteorological data for research and application",
+      "uuid": "e9c97ed0-c08a-4759-811b-0497cd6c9775",
+      "score": 0.5003631615146347
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric conditions such as temperature, humidity, and precipitation that can influence disease risk",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6066798306493136
+    },
+    {
+      "name": "East China",
+      "label": "location",
+      "description": "A region in eastern China, known for its coastal cities and economic development",
+      "uuid": "9b998c13-86dc-4eaa-9bfc-fd98db6184c5",
+      "score": 0.583680486144243
+    },
+    {
+      "name": "South China",
+      "label": "location",
+      "description": "A region in southern China, known for its subtropical climate and population density",
+      "uuid": "53ee6329-f9b7-4e25-9994-61f7dbfb033a",
+      "score": 0.5138791398843406
+    },
+    {
+      "name": "Northwest",
+      "label": "location",
+      "description": "A region in northwestern China, known for its arid climate and natural resources",
+      "uuid": "95bed3b9-3c0f-4333-b9ac-2f2f5fede59e",
+      "score": 0.5112078077953831
+    },
+    {
+      "name": "727 meteorological stations",
+      "label": "instrument",
+      "description": "A network of weather observation stations used to collect climate data",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.5535833112906294
+    }
+  ],
+  "(9269, 12325)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia with a vast territory and diverse climate zones",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6860016875951851
+    },
+    {
+      "name": "East China",
+      "label": "location",
+      "description": "A region in eastern China, known for its humid and subtropical climate",
+      "uuid": "9b998c13-86dc-4eaa-9bfc-fd98db6184c5",
+      "score": 0.5762454357792306
+    },
+    {
+      "name": "South China",
+      "label": "location",
+      "description": "A region in southern China, characterized by its tropical and subtropical climate",
+      "uuid": "53ee6329-f9b7-4e25-9994-61f7dbfb033a",
+      "score": 0.5128681542072584
+    },
+    {
+      "name": "Central China",
+      "label": "location",
+      "description": "A region in central China, known for its humid and subtropical climate",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5104781078296585
+    },
+    {
+      "name": "Northeast",
+      "label": "location",
+      "description": "A region in northeastern China, characterized by its cold and temperate climate",
+      "uuid": "f7e1f17b-7145-49ff-92c5-455ba506f13f",
+      "score": 0.5332642978591542
+    },
+    {
+      "name": "China Meteorological Data Sharing Service System",
+      "label": "provider",
+      "description": "A Chinese government agency responsible for collecting, analyzing, and sharing meteorological data",
+      "uuid": "e9c97ed0-c08a-4759-811b-0497cd6c9775",
+      "score": 0.5410724242996876
+    },
+    {
+      "name": "monthly average wind speed",
+      "label": "variable",
+      "description": "A measure of the average wind speed over a month, used as a climate factor",
+      "uuid": "284d4437-b7f1-4e6d-96f4-92a3b14863c4",
+      "score": 0.5135707297004236
+    },
+    {
+      "name": "monthly average temperature",
+      "label": "variable",
+      "description": "A measure of the average temperature over a month, used as a climate factor",
+      "uuid": "8c8c70b1-f6c5-4f34-89b5-510049b8c8ab",
+      "score": 0.540657704661053
+    },
+    {
+      "name": "monthly average atmospheric pressure",
+      "label": "variable",
+      "description": "A measure of the average atmospheric pressure over a month, used as a climate factor",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.555417990453671
+    },
+    {
+      "name": "monthly average relative humidity",
+      "label": "variable",
+      "description": "A measure of the average relative humidity over a month, used as a climate factor",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.5448273974911738
+    },
+    {
+      "name": "population density",
+      "label": "variable",
+      "description": "A measure of the number of people per unit area, used as a socio-economic factor",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.748333212530153
+    }
+  ],
+  "(11940, 14662)": [
+    {
+      "name": "disease",
+      "label": "natural hazard",
+      "description": "A condition that impairs the normal functioning of the body, often studied in relation to environmental and socio-economic factors",
+      "uuid": "7d59f070-ccac-4a90-815b-edfca521779b",
+      "score": 0.5085260913748676
+    }
+  ],
+  "(14064, 16934)": [
+    {
+      "name": "environmental variables",
+      "label": "variable",
+      "description": "Factors in the environment that can influence the distribution or prevalence of diseases",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.5234966574740644
+    },
+    {
+      "name": "SPSS 19",
+      "label": "instrument",
+      "description": "A statistical software package used for data analysis and modeling",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.571082503842438
+    },
+    {
+      "name": "ArcGIS 10",
+      "label": "instrument",
+      "description": "A geographic information system software used for spatial analysis and mapping",
+      "uuid": "67084eeb-2dca-4a4c-b5dd-0c37fc7b6c9a",
+      "score": 0.5281564488713032
+    }
+  ],
+  "(16539, 19579)": [
+    {
+      "name": "epidemiology",
+      "label": "field",
+      "description": "The study of how diseases spread and can be controlled in populations",
+      "uuid": "b8a877b7-d867-4305-9053-3777e5dd330a",
+      "score": 0.705142574605898
+    },
+    {
+      "name": "climate variable",
+      "label": "variable",
+      "description": "A factor related to weather or climate that may influence the occurrence of a disease or condition",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5961767285984934
+    },
+    {
+      "name": "socio-economic variable",
+      "label": "variable",
+      "description": "A factor related to social or economic conditions that may influence the occurrence of a disease or condition",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.5271015156146557
+    },
+    {
+      "name": "administrative division unit",
+      "label": "location",
+      "description": "A geographic area defined for administrative purposes, such as a city, county, or province",
+      "uuid": "1ae304de-252c-45da-8dd8-df99a281e4f4",
+      "score": 0.5898958255390396
+    },
+    {
+      "name": "SPSS 19.0",
+      "label": "instrument",
+      "description": "A statistical software package used for data analysis",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.5737639688425408
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7210353835428263
+    },
+    {
+      "name": "atmospheric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.737038001744855
+    }
+  ],
+  "(19033, 22053)": [
+    {
+      "name": "climate variable",
+      "label": "variable",
+      "description": "A quantity or characteristic that can be measured or observed in climate experiments, such as temperature, precipitation, or humidity",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6698992816370117
+    },
+    {
+      "name": "regression model",
+      "label": "model",
+      "description": "A statistical model used to establish relationships between variables, often employed in climate and socio-economic studies to predict outcomes or identify risk factors",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.6768322628808857
+    },
+    {
+      "name": "socio-economic variable",
+      "label": "variable",
+      "description": "A quantity or characteristic related to social and economic factors, such as population density, income, or education level, that can influence climate-related outcomes",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.5487417484194201
+    }
+  ],
+  "(21489, 24753)": [
+    {
+      "name": "Taiwan",
+      "label": "location",
+      "description": "An island nation located off the coast of mainland China, with a distinct political and economic system",
+      "uuid": "d4c65f0d-f825-4040-8dd3-69b85979101a",
+      "score": 0.6955569613762633
+    },
+    {
+      "name": "Hong Kong",
+      "label": "location",
+      "description": "A Special Administrative Region of China, known for its financial and trade activities",
+      "uuid": "d5182160-6764-4662-80fe-1ec252d36f20",
+      "score": 0.7014975258364226
+    },
+    {
+      "name": "monthly average temperature",
+      "label": "variable",
+      "description": "A measure of the average temperature over a month, used to study climate patterns and disease outbreaks",
+      "uuid": "8c8c70b1-f6c5-4f34-89b5-510049b8c8ab",
+      "score": 0.5581715821918904
+    },
+    {
+      "name": "population density",
+      "label": "variable",
+      "description": "A measure of the number of people living in a given area, used to study the spread of diseases",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7304153525512563
+    }
+  ],
+  "(24205, 27233)": [
+    {
+      "name": "geographical units",
+      "label": "location",
+      "description": "Divisions of land used for administrative, statistical, or analytical purposes",
+      "uuid": "1ae304de-252c-45da-8dd8-df99a281e4f4",
+      "score": 0.5180558835341874
+    },
+    {
+      "name": "SPSS",
+      "label": "instrument",
+      "description": "A software package used for statistical analysis and data management",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.6124361478959798
+    }
+  ],
+  "(26818, 29786)": [
+    {
+      "name": "SPSS",
+      "label": "platform",
+      "description": "A software package used for statistical analysis and data management",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.6124361478959798
+    },
+    {
+      "name": "average wind speed",
+      "label": "variable",
+      "description": "A measure of the average speed of wind in a given area or time period",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.5816059650770771
+    },
+    {
+      "name": "population density",
+      "label": "variable",
+      "description": "A measure of the number of people living in a given area or region",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7541115245047789
+    }
+  ],
+  "(31735, 34988)": [
+    {
+      "name": "eastern China",
+      "label": "location",
+      "description": "A region in China characterized by high population density and diverse geography, with significant variations in disease risk",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.5236806274398697
+    },
+    {
+      "name": "northeast",
+      "label": "location",
+      "description": "A region in China with cold climate and distinct geography, influencing the local patterns of disease",
+      "uuid": "f7e1f17b-7145-49ff-92c5-455ba506f13f",
+      "score": 0.5203693067031515
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A large and heterogeneous country with diverse geography, climate, and socio-economic factors, influencing the spatial distribution of disease risk",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5877380459057413
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The physical features of the Earth's surface, including landforms, elevation, and slope, which can impact the distribution of disease risk",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6152303032051039
+    },
+    {
+      "name": "socio-economic factors",
+      "label": "variable",
+      "description": "The social and economic conditions of a region, including population density, poverty, and access to healthcare, which can affect the distribution of disease risk",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.5180808030581019
+    }
+  ],
+  "(34417, 37618)": [
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, often used as a climate factor in health risk assessments",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6487717992099061
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, often used as a climate factor in health risk assessments",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7045957939456509
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "A measure of the speed of the wind, often used as a climate factor in health risk assessments",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6536737604809641
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall or other forms of moisture that fall to the ground, often used as a climate factor in health risk assessments",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6522673163062099
+    },
+    {
+      "name": "population density",
+      "label": "variable",
+      "description": "A measure of the number of people living in a given area, often used as a socio-economic factor in health risk assessments",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7266122087339424
+    },
+    {
+      "name": "Taiwan",
+      "label": "location",
+      "description": "An island nation located off the coast of mainland China, with its own government and economy",
+      "uuid": "d4c65f0d-f825-4040-8dd3-69b85979101a",
+      "score": 0.6896863353655841
+    },
+    {
+      "name": "Hong Kong",
+      "label": "location",
+      "description": "A special administrative region of China, located on the southeastern coast of the mainland",
+      "uuid": "d5182160-6764-4662-80fe-1ec252d36f20",
+      "score": 0.7467677786627381
+    }
+  ],
+  "(37082, 40252)": [
+    {
+      "name": "air pollution",
+      "label": "variable",
+      "description": "The presence of pollutants in the air, which can have adverse effects on human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5336210653628113
+    },
+    {
+      "name": "industrialization",
+      "label": "variable",
+      "description": "The process of transforming an economy from an agricultural to an industrial one, often associated with increased economic activity and environmental degradation",
+      "uuid": "92d8968b-617e-433d-ab9b-e269497c3f43",
+      "score": 0.6674514693121887
+    },
+    {
+      "name": "PM2.5",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 2.5 micrometers or less, a common air pollutant that can have negative health effects",
+      "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
+      "score": 0.7525435213439656
+    },
+    {
+      "name": "eastern China",
+      "label": "location",
+      "description": "A region in China that includes the provinces of Shanghai, Jiangsu, and Shandong, among others",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.5259464357562699
+    },
+    {
+      "name": "regression model",
+      "label": "model",
+      "description": "A statistical model that uses linear or non-linear relationships to predict the value of a dependent variable based on one or more independent variables",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.5741603535801573
+    },
+    {
+      "name": "traditional epidemiology",
+      "label": "project",
+      "description": "The study of the distribution and determinants of health-related events, diseases, or health-related characteristics among populations, using traditional methods and approaches",
+      "uuid": "b8a877b7-d867-4305-9053-3777e5dd330a",
+      "score": 0.5538974558403639
+    }
+  ],
+  "(39716, 43115)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a diverse geography and climate, influencing the distribution of diseases",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6758147618931891
+    },
+    {
+      "name": "GIS",
+      "label": "instrument",
+      "description": "Geographic Information System, a tool used for analyzing and visualizing geographically referenced data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.704260345496638
+    },
+    {
+      "name": "socio-economic factors",
+      "label": "variable",
+      "description": "Factors related to the social and economic conditions of a population, influencing the distribution and risk of diseases",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.527561707564594
+    },
+    {
+      "name": "climate indicators",
+      "label": "variable",
+      "description": "Measurements or data related to climate conditions, such as temperature, humidity, and precipitation, affecting the spread of diseases",
+      "uuid": "23703b6b-ee15-4512-b5b2-f441547e2edf",
+      "score": 0.6515982779593436
+    },
+    {
+      "name": "traditional epidemiology",
+      "label": "project",
+      "description": "The study of the distribution and determinants of health-related events, diseases, or health-related characteristics among populations, using conventional methods and approaches",
+      "uuid": "b8a877b7-d867-4305-9053-3777e5dd330a",
+      "score": 0.5562913766207048
+    },
+    {
+      "name": "environmental-related factors",
+      "label": "variable",
+      "description": "Factors related to the natural environment, such as air and water quality, influencing the distribution and risk of diseases",
+      "uuid": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
+      "score": 0.6027050298985671
+    }
+  ],
+  "(42537, 44029)": [
+    {
+      "name": "State Key Lab of Remote Sensing Science",
+      "label": "provider",
+      "description": "A research institution focused on remote sensing science and technology, providing support for scientific research and applications",
+      "uuid": "afa11694-6aad-4d0b-8588-5ae14cce35cc",
+      "score": 0.5444758422056548
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, where the study on HFMD occurrence and prevention was conducted",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.501739076185274
+    },
+    {
+      "name": "GIS",
+      "label": "instrument",
+      "description": "Geographic Information System, a tool used for spatial data analysis and mapping",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.6842179586798195
+    }
+  ]
+}

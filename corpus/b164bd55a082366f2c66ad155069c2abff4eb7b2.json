@@ -1,0 +1,1571 @@
+{
+  "(0, 2696)": [
+    {
+      "name": "MRI-AGCM-3-2-H",
+      "label": "model",
+      "description": "A climate model used in the study, part of the HighResMIP experiment",
+      "uuid": "a9012273-253e-4eb1-9b02-ecb0d478a95b",
+      "score": 0.7672010669459556
+    },
+    {
+      "name": "HighResMIP",
+      "label": "experiment",
+      "description": "A high-resolution model intercomparison project, focusing on improving climate model resolution and accuracy",
+      "uuid": "09347fb2-7842-4939-836e-6b8b2c35f5b1",
+      "score": 0.8275240346085952
+    },
+    {
+      "name": "SSP585",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway experiment, representing a high-emissions scenario used in climate modeling",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7502904387142891
+    },
+    {
+      "name": "ERA5",
+      "label": "dataset",
+      "description": "A reanalysis dataset used for assessing the recent past, providing historical climate data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.7970500041852304
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "precipitation extremes",
+      "label": "variable",
+      "description": "Measures of extreme precipitation events, including rainfall and snowfall",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6316154181723513
+    },
+    {
+      "name": "atmospheric water vapour",
+      "label": "variable",
+      "description": "The amount of water vapor present in the atmosphere, influencing climate and weather patterns",
+      "uuid": "286d2ae0-9d86-4ef0-a2b4-014843a98532",
+      "score": 0.7533865030130537
+    },
+    {
+      "name": "liquid precipitation",
+      "label": "variable",
+      "description": "A type of precipitation that occurs in liquid form, such as rain",
+      "uuid": "4ca02520-1345-475c-9a54-b562a042c4e1",
+      "score": 0.6927623032164408
+    },
+    {
+      "name": "solid precipitation",
+      "label": "variable",
+      "description": "A type of precipitation that occurs in solid form, such as snow",
+      "uuid": "c40d3dbc-5d7e-434d-996e-120ba44a5d44",
+      "score": 0.727404463678158
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, including a diverse range of climates and regions",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7759451629411085
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Severe and unusual meteorological occurrences that can cause significant damage and harm",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6587907744998331
+    },
+    {
+      "name": "landslides",
+      "label": "natural hazard",
+      "description": "Geological phenomena that can cause significant damage and harm, often triggered by heavy precipitation",
+      "uuid": "f81d3752-d97c-4caf-9a79-5709ee693158",
+      "score": 0.6773740813755217
+    },
+    {
+      "name": "soil erosion",
+      "label": "natural hazard",
+      "description": "The process of soil being worn away by natural forces, such as water or wind, often exacerbated by heavy precipitation",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.6993223280902103
+    }
+  ],
+  "(2118, 5285)": [
+    {
+      "name": "extreme-rainfall-related hazards",
+      "label": "natural hazard",
+      "description": "Hazards associated with heavy rainfall, including flooding, landslides, and soil erosion, which pose a significant threat to infrastructure, human life, and the environment",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6293026253197849
+    },
+    {
+      "name": "precipitation extremes",
+      "label": "variable",
+      "description": "The most extreme values of precipitation, such as heavy rainfall or intense snowfall, which can have significant impacts on the environment and human societies",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6835229925605734
+    },
+    {
+      "name": "extreme rainfall events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences characterized by heavy rainfall, which can lead to flooding, landslides, and other hazards",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6733531921719972
+    },
+    {
+      "name": "western United States",
+      "label": "location",
+      "description": "A region in North America, known for its diverse climate and geography, which is prone to various natural hazards, including floods, landslides, and droughts",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.6276034976815565
+    },
+    {
+      "name": "atmospheric water vapour",
+      "label": "variable",
+      "description": "The amount of water vapour present in the atmosphere, which plays a crucial role in the Earth's climate system and is a key factor in the formation of precipitation",
+      "uuid": "286d2ae0-9d86-4ef0-a2b4-014843a98532",
+      "score": 0.7694089239349838
+    },
+    {
+      "name": "extreme total precipitation",
+      "label": "variable",
+      "description": "The total amount of precipitation, including both liquid and solid forms, which can have significant impacts on the environment and human societies",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.650284955445495
+    },
+    {
+      "name": "liquid precipitation",
+      "label": "variable",
+      "description": "Precipitation that falls in liquid form, such as rain, which can lead to rapid runoff and increased risk of flooding and landslides",
+      "uuid": "4ca02520-1345-475c-9a54-b562a042c4e1",
+      "score": 0.6472911445755962
+    },
+    {
+      "name": "solid precipitation",
+      "label": "variable",
+      "description": "Precipitation that falls in solid form, such as snow, which can have significant impacts on the environment and human societies, including altering the risk of flooding and landslides",
+      "uuid": "c40d3dbc-5d7e-434d-996e-120ba44a5d44",
+      "score": 0.7232930210242657
+    },
+    {
+      "name": "mean and extreme precipitation",
+      "label": "variable",
+      "description": "The average and most extreme values of precipitation, which are important factors in understanding and predicting the impacts of climate change on the environment and human societies",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6544257692035415
+    },
+    {
+      "name": "soil erosion",
+      "label": "natural hazard",
+      "description": "The process of soil being worn away or removed, which can be caused by heavy rainfall, landslides, and other natural hazards, and can have significant impacts on the environment and human societies",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.6930453310391272
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies north of the equator, which includes a diverse range of climates and geography, and is prone to various natural hazards, including floods, landslides, and droughts",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7204661821230623
+    },
+    {
+      "name": "climate reanalysis dataset",
+      "label": "project",
+      "description": "A dataset that combines historical climate data with models to provide a comprehensive understanding of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7175410110717534
+    },
+    {
+      "name": "future model projections",
+      "label": "model",
+      "description": "Computer simulations that predict future climate conditions based on various scenarios and assumptions",
+      "uuid": "c15e05c9-9dc4-4712-98ba-a05d61bdf1c1",
+      "score": 0.5294916948875192
+    }
+  ],
+  "(4760, 7668)": [
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation European Centre for Medium-Range Weather Forecasts atmospheric reanalysis, used for studying past climate conditions",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8147196351514187
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "Earth-system models",
+      "label": "model",
+      "description": "Computational representations of the Earth's climate system, including atmosphere, ocean, land, and ice components",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.6113780114835873
+    },
+    {
+      "name": "precipitation extremes",
+      "label": "variable",
+      "description": "Measurements of extreme precipitation events, including rainfall and snowfall",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6288566687316083
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "variable",
+      "description": "Measurements of extreme rainfall events, often used to study flood risks and climate change impacts",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6274452090569957
+    },
+    {
+      "name": "snow fraction",
+      "label": "variable",
+      "description": "The proportion of annual precipitation that falls as snow, influencing regional climate and hydrology",
+      "uuid": "81a02d0d-8cee-4309-a8ef-9d7015d74dc0",
+      "score": 0.5258225073120338
+    },
+    {
+      "name": "high-altitude regions",
+      "label": "location",
+      "description": "Mountainous areas on Earth, characterized by high elevation and unique climate conditions",
+      "uuid": "99e09719-f1f8-439e-be4c-759242612a84",
+      "score": 0.5254230944325126
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, including diverse climate zones and regions",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7675076771025989
+    },
+    {
+      "name": "European Centre for Medium-Range Weather Forecasts",
+      "label": "provider",
+      "description": "An independent international organization providing weather forecasts and climate research",
+      "uuid": "b2acf9ee-ae0e-4754-b17f-efb51868ed2d",
+      "score": 0.7106740242515219
+    },
+    {
+      "name": "Coupled Model Intercomparison Project",
+      "label": "project",
+      "description": "A framework for comparing different climate models to improve climate predictions and understand climate change",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.6790712320958908
+    }
+  ],
+  "(7225, 9690)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "A structured set of climate simulations organized by the Coupled Model Intercomparison Project Phase 6, designed to test specific hypotheses about the climate system",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7735788483924277
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis dataset, providing global atmospheric and meteorological data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8494307470092003
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "variable",
+      "description": "A measure of the intensity and frequency of extreme rainfall events, often used to study climate change impacts",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6046018694261858
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of an object or point in relation to sea level or ground level, used in geographic and climate studies",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.6122695457496169
+    },
+    {
+      "name": "global average surface air temperature",
+      "label": "variable",
+      "description": "The average temperature of the air near the surface of the Earth, used as an indicator of global climate change",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5646484902639349
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and other bodies of water",
+      "uuid": "e85d6a2d-23c7-405a-b062-caf78f6ab827",
+      "score": 0.6634433885452647
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The vast bodies of saltwater that cover most of the Earth's surface, playing a crucial role in the climate system",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.7203815897497278
+    }
+  ],
+  "(9282, 11535)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "reanalysis dataset",
+      "label": "dataset",
+      "description": "A type of dataset that combines model outputs with observational data to provide a comprehensive and consistent record of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7566437909472673
+    },
+    {
+      "name": "ERA5",
+      "label": "dataset",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis dataset, providing high-resolution atmospheric data from 1979 to present",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8449045748574391
+    },
+    {
+      "name": "CMIP6 models",
+      "label": "model",
+      "description": "A set of climate models participating in the Coupled Model Intercomparison Project Phase 6, designed to simulate and predict Earth's climate system",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7616359380716333
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "A measure of the height of a location above sea level, influencing climate conditions and processes",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.5963824101808559
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "variable",
+      "description": "Measurements of the intensity and frequency of extreme rainfall events, which can have significant impacts on ecosystems and human societies",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6091185295738367
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide and methane into the atmosphere, contributing to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5441103281516557
+    },
+    {
+      "name": "global warming",
+      "label": "weather event",
+      "description": "The long-term rise in Earth's average surface temperature, primarily caused by human activities such as burning fossil fuels and deforestation",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5314693993797679
+    },
+    {
+      "name": "AWI-CM-1-1-MR",
+      "label": "model",
+      "description": "A climate model developed by the Alfred Wegener Institute, participating in the CMIP6 project",
+      "uuid": "59e7449f-31bd-4072-9d8c-10fb4752cb99",
+      "score": 0.8383819975618003
+    },
+    {
+      "name": "MPI-ESM1-2-HR",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, participating in the CMIP6 project",
+      "uuid": "b82e3b5b-c989-48d9-8fc4-66b56bf442a9",
+      "score": 0.8073471333717824
+    },
+    {
+      "name": "EC-Earth3",
+      "label": "model",
+      "description": "A climate model developed by the European Consortium for Earth System Modelling, participating in the CMIP6 project",
+      "uuid": "979e8a4e-a41d-4355-91a0-1026375d5bb0",
+      "score": 0.7648108358760091
+    },
+    {
+      "name": "GFDL-ESM4",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, participating in the CMIP6 project",
+      "uuid": "6f7a0a68-6387-4f49-84ea-9652139018f5",
+      "score": 0.8433608254008739
+    },
+    {
+      "name": "BCC-CSM2-MR",
+      "label": "model",
+      "description": "A climate model developed by the Beijing Climate Center, participating in the CMIP6 project",
+      "uuid": "7399a2db-3c1c-4208-9cce-d3b616199fdd",
+      "score": 0.879020718232424
+    },
+    {
+      "name": "CMCC-CM2-SR5",
+      "label": "model",
+      "description": "A climate model developed by the Euro-Mediterranean Center on Climate Change, participating in the CMIP6 project",
+      "uuid": "9a39c0e0-5314-4e44-b572-8230300d2426",
+      "score": 0.8262308629555661
+    },
+    {
+      "name": "TaiESM1",
+      "label": "model",
+      "description": "A climate model developed by the National Central University, participating in the CMIP6 project",
+      "uuid": "f083ae80-224b-4453-8a18-d1b13d9d2f90",
+      "score": 0.7503611375787024
+    },
+    {
+      "name": "MRI-AGCM-3-2-H",
+      "label": "model",
+      "description": "A climate model developed by the Meteorological Research Institute, participating in the CMIP6 project",
+      "uuid": "a9012273-253e-4eb1-9b02-ecb0d478a95b",
+      "score": 0.7983787025152719
+    }
+  ],
+  "(11355, 13594)": [
+    {
+      "name": "MPI-ESM1-2-HR",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "b82e3b5b-c989-48d9-8fc4-66b56bf442a9",
+      "score": 0.7228273497164832
+    },
+    {
+      "name": "EC-Earth3",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "1216e733-a7a9-4711-86f1-30b4ae0fa122",
+      "score": 0.6736002120591311
+    },
+    {
+      "name": "GFDL-ESM4",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "6f7a0a68-6387-4f49-84ea-9652139018f5",
+      "score": 0.7818024950451122
+    },
+    {
+      "name": "BCC-CSM2-MR",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "7399a2db-3c1c-4208-9cce-d3b616199fdd",
+      "score": 0.7541624435413307
+    },
+    {
+      "name": "CMCC-CM2-SR5",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "9a39c0e0-5314-4e44-b572-8230300d2426",
+      "score": 0.726137014337077
+    },
+    {
+      "name": "TaiESM1",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "f083ae80-224b-4453-8a18-d1b13d9d2f90",
+      "score": 0.6399175400971644
+    },
+    {
+      "name": "MRI-AGCM-3-2-H",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "32793ee2-7d5c-49a1-8667-1482c1908b78",
+      "score": 0.7230141266967753
+    },
+    {
+      "name": "AWI-CM-1-1-MR",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "59e7449f-31bd-4072-9d8c-10fb4752cb99",
+      "score": 0.6936627125575312
+    },
+    {
+      "name": "Ensemble mean",
+      "label": "variable",
+      "description": "A statistical measure representing the average value of multiple models or simulations",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5398786251448757
+    },
+    {
+      "name": "daily rainfall extremes",
+      "label": "variable",
+      "description": "A measure of the maximum amount of rainfall occurring within a day, often used to study extreme weather events",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5071739788622432
+    },
+    {
+      "name": "warming levels",
+      "label": "variable",
+      "description": "A measure of the increase in global temperatures, often used to study climate change scenarios",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5651943738645056
+    },
+    {
+      "name": "grid cells",
+      "label": "location",
+      "description": "A discrete area of the Earth's surface used for modeling and analyzing climate data",
+      "uuid": "b9c7e7cf-0c68-4be6-9f20-4802f4e923f8",
+      "score": 0.5177794665938582
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "A measure of the height of a location above sea level, often used to study topographic effects on climate",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.6206263336526922
+    },
+    {
+      "name": "snow fraction",
+      "label": "variable",
+      "description": "A measure of the proportion of snow cover in a given area, often used to study climate change impacts on snowpack",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.5589490191920564
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "ssp585",
+      "label": "experiment",
+      "description": "A climate change scenario used in the CMIP6 project, representing a high-emissions future",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7816090876509696
+    }
+  ],
+  "(13234, 16010)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "GFDL-ESM4",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating and predicting Earth's climate system",
+      "uuid": "6f7a0a68-6387-4f49-84ea-9652139018f5",
+      "score": 0.8562854793733853
+    },
+    {
+      "name": "CMCC-CM2-SR5",
+      "label": "model",
+      "description": "A climate model developed by the Euro-Mediterranean Center on Climate Change, used for simulating and predicting Earth's climate system",
+      "uuid": "9a39c0e0-5314-4e44-b572-8230300d2426",
+      "score": 0.7912490312467222
+    },
+    {
+      "name": "MPI-ESM1-2-HR",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating and predicting Earth's climate system",
+      "uuid": "b82e3b5b-c989-48d9-8fc4-66b56bf442a9",
+      "score": 0.7854638905787112
+    },
+    {
+      "name": "AWI-CM-1-1-MR",
+      "label": "model",
+      "description": "A climate model developed by the Alfred Wegener Institute, used for simulating and predicting Earth's climate system",
+      "uuid": "59e7449f-31bd-4072-9d8c-10fb4752cb99",
+      "score": 0.7843918922602184
+    },
+    {
+      "name": "precipitation extremes",
+      "label": "variable",
+      "description": "The most extreme values of precipitation, such as heavy rainfall or drought, which can have significant impacts on the environment and human societies",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6680130649074586
+    },
+    {
+      "name": "vertically integrated saturation specific humidity",
+      "label": "variable",
+      "description": "A measure of the total amount of water vapor in the atmosphere, which is an important factor in understanding precipitation patterns",
+      "uuid": "ba2491a4-2498-4c9f-9adc-123078eef633",
+      "score": 0.6637935942886878
+    },
+    {
+      "name": "snow fraction",
+      "label": "variable",
+      "description": "The proportion of snow in a given area, which can affect the amount of rainfall and the timing of precipitation extremes",
+      "uuid": "bf22e279-87ef-4f78-aa32-3bd59b9b1ec2",
+      "score": 0.5033319885415188
+    },
+    {
+      "name": "daily timescale",
+      "label": "variable",
+      "description": "A time period of one day, used to analyze and understand daily variations in precipitation patterns",
+      "uuid": "f86e464a-cf9d-4e15-a39b-501855d1dc5a",
+      "score": 0.5983440617664484
+    }
+  ],
+  "(15568, 18258)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "A structured set of climate simulations organized by the Coupled Model Intercomparison Project Phase 6, designed to test specific hypotheses about the climate system",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7735788483924277
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts (ECMWF) atmospheric reanalysis, providing high-resolution climate data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8326131706947538
+    },
+    {
+      "name": "MPI-ESM1-2-HR",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating and predicting climate patterns",
+      "uuid": "b82e3b5b-c989-48d9-8fc4-66b56bf442a9",
+      "score": 0.7907824448735623
+    },
+    {
+      "name": "AWI-CM-1-1-MR",
+      "label": "model",
+      "description": "A climate model developed by the Alfred Wegener Institute, used for simulating and predicting climate patterns",
+      "uuid": "59e7449f-31bd-4072-9d8c-10fb4752cb99",
+      "score": 0.7861733886364446
+    },
+    {
+      "name": "Himalayas",
+      "label": "location",
+      "description": "A mountain range in Asia, known for its high elevation and influence on regional climate patterns",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.6989812142937599
+    },
+    {
+      "name": "high-latitude regions",
+      "label": "location",
+      "description": "Regions on Earth located at high latitudes, characterized by cold climates and unique environmental conditions",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.5724124469723959
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "weather event",
+      "description": "Unusual and severe rainfall events, often associated with flooding and other natural hazards",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6252207279047013
+    },
+    {
+      "name": "snow fraction",
+      "label": "variable",
+      "description": "The proportion of snowfall to total precipitation, an important factor in climate modeling and prediction",
+      "uuid": "bf22e279-87ef-4f78-aa32-3bd59b9b1ec2",
+      "score": 0.5445200150746864
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of a location above sea level, influencing climate patterns and weather events",
+      "uuid": "f1d9391a-071b-4264-a409-de3739e516d0",
+      "score": 0.5515209579968372
+    }
+  ],
+  "(17796, 20498)": [
+    {
+      "name": "Himalayas",
+      "label": "location",
+      "description": "A mountain range in Asia, known for its high elevation and significant impact on regional climate patterns",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.6960605884527422
+    },
+    {
+      "name": "high-latitude regions",
+      "label": "location",
+      "description": "Areas on Earth located at high latitudes, typically characterized by cold climates and unique environmental conditions",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.5798330077669583
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "weather event",
+      "description": "Unusually heavy or intense rainfall events, often leading to flooding and other hazards",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.627501697111338
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of an object or point in relation to sea level or ground level, influencing various environmental and climate factors",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.5894729790175454
+    },
+    {
+      "name": "atmospheric rivers",
+      "label": "teleconnection",
+      "description": "Long, narrow channels of moisture in the atmosphere that can lead to heavy precipitation and flooding",
+      "uuid": "31ca2413-f257-4ceb-849a-68538efecfee",
+      "score": 0.7232523127492825
+    },
+    {
+      "name": "Asian monsoon",
+      "label": "teleconnection",
+      "description": "A seasonal weather pattern in Asia, characterized by significant rainfall and wind changes",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6585018336500875
+    }
+  ],
+  "(19950, 23211)": [
+    {
+      "name": "North American Pacific",
+      "label": "location",
+      "description": "A region in the Pacific Ocean along the western coast of North America, known for its influence on climate patterns>",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.6532347297810251
+    },
+    {
+      "name": "Asian mountain ranges",
+      "label": "location",
+      "description": "Mountain ranges in Asia, including the Himalayas and others, which play a significant role in shaping regional climate>",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.5215043095467956
+    },
+    {
+      "name": "Asian monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings significant rainfall to Asia, influencing regional climate and agriculture>",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6436772092453824
+    },
+    {
+      "name": "atmospheric rivers",
+      "label": "weather event",
+      "description": "Long, narrow channels of moisture in the atmosphere that can lead to heavy precipitation when they reach land>",
+      "uuid": "31ca2413-f257-4ceb-849a-68538efecfee",
+      "score": 0.7108355270562081
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, which includes many snow-dominated regions vulnerable to climate change>",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7120870305817386
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "variable",
+      "description": "Measurements of the intensity and frequency of extreme rainfall events, which can have significant impacts on the environment and human populations>",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6249049225472617
+    },
+    {
+      "name": "snowfall extremes",
+      "label": "variable",
+      "description": "Measurements of the intensity and frequency of extreme snowfall events, which are decreasing in some regions due to climate change>",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.6083940726297083
+    },
+    {
+      "name": "flooding",
+      "label": "natural hazard",
+      "description": "The overflow of water that can cause damage to the environment, infrastructure, and human populations>",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.6878324132069895
+    },
+    {
+      "name": "landslides",
+      "label": "natural hazard",
+      "description": "The movement of rock, debris, or earth down a slope, which can be triggered by heavy rainfall or other factors>",
+      "uuid": "54e5d072-5a2c-471b-bca0-7e4ca32a2001",
+      "score": 0.715471129776796
+    },
+    {
+      "name": "soil erosion",
+      "label": "natural hazard",
+      "description": "The wearing away of soil by natural forces such as water or wind, which can be exacerbated by climate change>",
+      "uuid": "cb21c5cb-cc49-4328-a72d-94ccca1fa888",
+      "score": 0.7071642957834555
+    },
+    {
+      "name": "climate adaptation plans",
+      "label": "project",
+      "description": "Strategies and initiatives aimed at reducing the vulnerability of human populations and the environment to the impacts of climate change>",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5794506477602958
+    },
+    {
+      "name": "water resources management",
+      "label": "project",
+      "description": "The planning, development, and management of water resources to meet human needs while minimizing harm to the environment>",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6313571661856103
+    },
+    {
+      "name": "convective clouds",
+      "label": "weather event",
+      "description": "Clouds that form when warm air rises and cools, leading to precipitation and other weather phenomena>",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.5744874866870476
+    },
+    {
+      "name": "infrastructure",
+      "label": "platform",
+      "description": "The physical structures and systems that support human societies, such as roads, bridges, and buildings>",
+      "uuid": "d4313915-2d24-424c-a171-30ee9a6f4bb5",
+      "score": 0.6794418497216647
+    }
+  ],
+  "(22704, 25791)": [
+    {
+      "name": "extreme-rainfall-related hazards",
+      "label": "natural hazard",
+      "description": "Hazards associated with intense rainfall events, potentially leading to flooding and other disasters",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6459951642383918
+    },
+    {
+      "name": "precipitation extremes",
+      "label": "variable",
+      "description": "Measurements of extreme rainfall events, including intensity, frequency, and duration",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6245570189689115
+    },
+    {
+      "name": "Global Historical Climatology Network",
+      "label": "project",
+      "description": "A network of weather stations and datasets providing historical climate data for research and analysis",
+      "uuid": "c3e53b0d-cf82-4d03-ba0e-5544b99ad238",
+      "score": 0.7247850012904467
+    },
+    {
+      "name": "GHCNd dataset",
+      "label": "project",
+      "description": "The Global Historical Climatology Network daily dataset, a collection of daily climate data from weather stations around the world",
+      "uuid": "c3e53b0d-cf82-4d03-ba0e-5544b99ad238",
+      "score": 0.7113387540354842
+    },
+    {
+      "name": "total and solid precipitation",
+      "label": "variable",
+      "description": "Measurements of the total amount of precipitation, including both liquid and solid forms",
+      "uuid": "c40d3dbc-5d7e-434d-996e-120ba44a5d44",
+      "score": 0.5914734525002938
+    },
+    {
+      "name": "extreme precipitation events",
+      "label": "weather event",
+      "description": "Intense rainfall events that can lead to flooding, landslides, and other hazards",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.7203744523219189
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis dataset, providing global climate data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.845024677623966
+    },
+    {
+      "name": "ERA5 reanalysis dataset",
+      "label": "project",
+      "description": "A comprehensive dataset of global climate variables, including temperature, precipitation, and wind patterns",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8014723078139059
+    },
+    {
+      "name": "GHCNd stations",
+      "label": "instrument",
+      "description": "Weather stations providing daily climate data for the Global Historical Climatology Network daily dataset",
+      "uuid": "c3e53b0d-cf82-4d03-ba0e-5544b99ad238",
+      "score": 0.6351203425743045
+    }
+  ],
+  "(25294, 28208)": [
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth-generation atmospheric reanalysis of the global climate produced by the European Center for Medium-Range Weather Forecasts",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8260687681313921
+    },
+    {
+      "name": "ERA5 hourly land data",
+      "label": "dataset",
+      "description": "A subset of the ERA5 model data, providing hourly land data at a spatial resolution of 1\u00b0 \u00d7 1\u00b0 for the period 1950-2019",
+      "uuid": "931c9090-2136-458b-9047-943c25c65f3a",
+      "score": 0.6616144297994875
+    },
+    {
+      "name": "European Center for Medium-Range Weather Forecasts",
+      "label": "provider",
+      "description": "An independent intergovernmental organization providing weather forecasts and climate research",
+      "uuid": "cdc27449-f9f7-4da2-83ec-f1071b5d4bab",
+      "score": 0.69781350504228
+    },
+    {
+      "name": "GHCNd dataset",
+      "label": "dataset",
+      "description": "A global dataset of ground observations, used for evaluating the accuracy of model estimates",
+      "uuid": "c3e53b0d-cf82-4d03-ba0e-5544b99ad238",
+      "score": 0.671428751678868
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "CMIP6 model simulations",
+      "label": "experiment",
+      "description": "Climate simulations conducted as part of the CMIP6 project, used to study future climate projections",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7115669203387328
+    },
+    {
+      "name": "SSP585 scenario",
+      "label": "experiment",
+      "description": "A high-emissions scenario associated with an increase of 8.5 W m \u22122 by the end of the year 2100, used to study the worst-case climate change scenario",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.6998671424483489
+    },
+    {
+      "name": "GFDL-ESM4",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for studying the Earth's climate system",
+      "uuid": "6f7a0a68-6387-4f49-84ea-9652139018f5",
+      "score": 0.8647872036369918
+    },
+    {
+      "name": "total precipitation",
+      "label": "variable",
+      "description": "The total amount of precipitation, including both liquid and solid forms, measured over a specific period",
+      "uuid": "9466020a-db25-40ba-a76f-4720800efc92",
+      "score": 0.6144973212322968
+    },
+    {
+      "name": "solid precipitation",
+      "label": "variable",
+      "description": "The amount of precipitation that falls in solid form, such as snow or hail",
+      "uuid": "c40d3dbc-5d7e-434d-996e-120ba44a5d44",
+      "score": 0.7196108833265517
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "variable",
+      "description": "The extreme values of rainfall, such as heavy precipitation events or droughts",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.590205160972102
+    },
+    {
+      "name": "orographic effects",
+      "label": "natural phenomenon",
+      "description": "The influence of mountains or hills on the climate and weather patterns in a region",
+      "uuid": "a1df1d50-dd2b-4944-bda5-0cf1127e2f49",
+      "score": 0.5736978211934652
+    },
+    {
+      "name": "nominal spatial resolution",
+      "label": "variable",
+      "description": "The resolution at which a model or dataset is run, measured in terms of the size of the grid cells",
+      "uuid": "c059a189-5d19-42f1-8a3a-1d0154da17dd",
+      "score": 0.7310457771458068
+    },
+    {
+      "name": "hourly temporal resolution",
+      "label": "variable",
+      "description": "The frequency at which model or dataset outputs are provided, measured in hours",
+      "uuid": "31765761-b153-478a-92b3-1088997fd74b",
+      "score": 0.6994261152198904
+    }
+  ],
+  "(27712, 30410)": [
+    {
+      "name": "GFDL-ESM4",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating Earth's climate system",
+      "uuid": "6f7a0a68-6387-4f49-84ea-9652139018f5",
+      "score": 0.8620827191050764
+    },
+    {
+      "name": "MRI-AGCM-3-2-H",
+      "label": "model",
+      "description": "A high-resolution atmospheric climate model developed by the Meteorological Research Institute, used for simulating atmospheric processes",
+      "uuid": "2604ab8f-f4a1-45be-821c-845c9ada5dd8",
+      "score": 0.8009033383643046
+    },
+    {
+      "name": "HighResMIP",
+      "label": "project",
+      "description": "The High-Resolution Model Intercomparison Project, an initiative to compare and evaluate high-resolution climate models",
+      "uuid": "09347fb2-7842-4939-836e-6b8b2c35f5b1",
+      "score": 0.8243143062827758
+    },
+    {
+      "name": "AMIP",
+      "label": "project",
+      "description": "The Atmospheric Model Intercomparison Project, a part of CMIP that focuses on comparing atmospheric-only climate simulations",
+      "uuid": "62bc69a0-d55f-4bd1-9d20-ef1442eec981",
+      "score": 0.801975458916706
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6473658017629415
+    },
+    {
+      "name": "snowfall",
+      "label": "variable",
+      "description": "The amount of snow that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.6944899157670096
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, an important component of the climate system",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6949569314947569
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of the Earth's surface above sea level, an important component of the climate system",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.6086664671383197
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7394753265898041
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases that surrounds the Earth, playing a crucial role in the climate system",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6116179355322061
+    }
+  ],
+  "(30001, 32515)": [
+    {
+      "name": "ERA5",
+      "label": "project",
+      "description": "A European Centre for Medium-Range Weather Forecasts reanalysis dataset, providing global atmospheric and meteorological data>",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8512719445753594
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions>",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8184491554861058
+    },
+    {
+      "name": "latitude",
+      "label": "variable",
+      "description": "A measure of the distance north or south of the Earth's equator, used in geographic coordinates>",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6928749807565673
+    },
+    {
+      "name": "longitude",
+      "label": "variable",
+      "description": "A measure of the distance east or west of the Earth's prime meridian, used in geographic coordinates>",
+      "uuid": "67e9c8dd-8675-41d6-b81c-fef392de682d",
+      "score": 0.6750578626487231
+    },
+    {
+      "name": "reanalysis dataset",
+      "label": "project",
+      "description": "A type of dataset that combines model outputs with observational data to produce a consistent and reliable record of past climate conditions>",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7596669243984029
+    },
+    {
+      "name": "CMIP6 model variables",
+      "label": "variable",
+      "description": "The output variables from the CMIP6 climate models, such as temperature, precipitation, and atmospheric circulation patterns>",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.6388564854313479
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "variable",
+      "description": "The most intense or unusual rainfall events, often used to study climate variability and change>",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5823965373067458
+    },
+    {
+      "name": "global surface air temperature",
+      "label": "variable",
+      "description": "The average temperature of the air near the Earth's surface, used as a key indicator of global climate change>",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5999678480608583
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of a location above sea level, which can influence local climate conditions>",
+      "uuid": "f1d9391a-071b-4264-a409-de3739e516d0",
+      "score": 0.5621713963214199
+    }
+  ],
+  "(32025, 34920)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "ERA5",
+      "label": "project",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis dataset, providing global atmospheric and surface conditions",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8424572732705621
+    },
+    {
+      "name": "global surface air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the surface of the Earth, a key indicator of global climate change",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.604791678624383
+    },
+    {
+      "name": "elevation categories",
+      "label": "location",
+      "description": "Divisions of the Earth's surface based on height above sea level, used to study elevation-dependent climate phenomena",
+      "uuid": "74ed1690-968e-444c-8a31-7b8344a2aad3",
+      "score": 0.518445295335971
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "weather event",
+      "description": "Unusual and severe precipitation events, such as heavy rainfall or droughts, that can have significant impacts on the environment and human societies",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6525272194476214
+    },
+    {
+      "name": "Sahara Desert",
+      "label": "location",
+      "description": "A large desert region in North Africa, known for its extreme climate and low rainfall",
+      "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+      "score": 0.5497048074604977
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An island nation in the North Atlantic, known for its ice sheet and sensitive climate",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.7128607006212068
+    }
+  ],
+  "(34414, 37429)": [
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis model, providing global atmospheric and meteorological data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8337045724491885
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "Sahara Desert",
+      "label": "location",
+      "description": "A large desert region in North Africa, characterized by extreme heat and aridity",
+      "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+      "score": 0.5483762503654553
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An autonomous territory within the Kingdom of Denmark, located in the North Atlantic, known for its ice sheet and climate research",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.7978603072487812
+    },
+    {
+      "name": "Rand's global elevation dataset",
+      "label": "dataset",
+      "description": "A global dataset providing elevation data at a 1\u00b0 spatial resolution, used for various geological and climate studies",
+      "uuid": "493a893e-2d2b-417c-8e72-2ced8a9fffcc",
+      "score": 0.5016142192404941
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of an object or point in relation to sea level or ground level, often used in geological and climate studies",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.6175164017712687
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "variable",
+      "description": "The extreme values of rainfall, often used to study climate patterns and predict weather events",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5757881825526749
+    },
+    {
+      "name": "precipitation extremes",
+      "label": "variable",
+      "description": "The extreme values of precipitation, including rainfall, snowfall, and other forms of moisture, often used to study climate patterns and predict weather events",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6318626459381383
+    },
+    {
+      "name": "regression model",
+      "label": "model",
+      "description": "A statistical model used to establish relationships between variables, often used in climate and data analysis",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.6709781298534157
+    },
+    {
+      "name": "re-sampling approach",
+      "label": "method",
+      "description": "A technique used to change the spatial resolution of data, often used in climate and geographical studies",
+      "uuid": "67239b1c-db58-4f67-a47a-c6f3ba95a16b",
+      "score": 0.5800947960773214
+    },
+    {
+      "name": "CMIP6 repository",
+      "label": "dataset",
+      "description": "A collection of data and models from the Coupled Model Intercomparison Project Phase 6, used for climate research and analysis",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7311743066619493
+    }
+  ],
+  "(36907, 39847)": [
+    {
+      "name": "precipitation extremes",
+      "label": "variable",
+      "description": "The most extreme values of precipitation, often used to study and understand the impacts of climate change on weather patterns",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6458474137722889
+    },
+    {
+      "name": "regression model",
+      "label": "model",
+      "description": "A statistical model used to establish relationships between variables, often employed in climate studies to analyze trends and patterns",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.6773126203402884
+    },
+    {
+      "name": "elevation categories",
+      "label": "location",
+      "description": "Divisions of land based on height above sea level, used to study the effects of elevation on climate and weather patterns",
+      "uuid": "74ed1690-968e-444c-8a31-7b8344a2aad3",
+      "score": 0.5128438175738359
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface as precipitation, often used to study climate and weather patterns",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5551693630158775
+    },
+    {
+      "name": "snow fraction",
+      "label": "variable",
+      "description": "The proportion of precipitation that falls as snow, used to study the impacts of climate change on snowfall and precipitation patterns",
+      "uuid": "61a90e8c-68ca-412b-add9-fd4c28db8d1f",
+      "score": 0.5395326958916075
+    },
+    {
+      "name": "AMS",
+      "label": "instrument",
+      "description": "A tool or method used to measure or analyze precipitation extremes, likely referring to a specific dataset or model output",
+      "uuid": "e3c7cce6-f46a-4c8b-81ea-3007bc792778",
+      "score": 0.5467786738066885
+    },
+    {
+      "name": "grid cells",
+      "label": "location",
+      "description": "Small areas of the Earth's surface used in climate modeling and analysis to study spatial patterns and trends",
+      "uuid": "b9c7e7cf-0c68-4be6-9f20-4802f4e923f8",
+      "score": 0.510674201496712
+    }
+  ],
+  "(39343, 42166)": [
+    {
+      "name": "precipitation extremes",
+      "label": "variable",
+      "description": "The most intense or unusual precipitation events, often studied to understand and predict extreme weather patterns",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6168481929063976
+    },
+    {
+      "name": "grid cells",
+      "label": "location",
+      "description": "Small, discrete areas used in geographic information systems and climate modeling to represent and analyze spatial data",
+      "uuid": "b9c7e7cf-0c68-4be6-9f20-4802f4e923f8",
+      "score": 0.5225817748651332
+    }
+  ],
+  "(41685, 43538)": [
+    {
+      "name": "AMS data",
+      "label": "project",
+      "description": "A dataset or project related to the analysis of extreme weather events, such as heavy rainfall or floods>",
+      "uuid": "405c4422-1460-42f9-b1ce-01b3bf4f222b",
+      "score": 0.5690723363017355
+    },
+    {
+      "name": "model grid cell",
+      "label": "location",
+      "description": "A spatial unit used in climate modeling or analysis, representing a specific area or region>",
+      "uuid": "b9c7e7cf-0c68-4be6-9f20-4802f4e923f8",
+      "score": 0.5450289587938024
+    }
+  ],
+  "(43071, 45630)": [
+    {
+      "name": "geospatial location",
+      "label": "location",
+      "description": "A specific point or area on the Earth's surface, often used in geographic and climatic studies",
+      "uuid": "7a0ab5f9-2317-4217-a081-8d4a46eb5334",
+      "score": 0.5805893062828409
+    },
+    {
+      "name": "ERA5",
+      "label": "project",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis dataset, providing global climate and weather data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8467942978472428
+    },
+    {
+      "name": "ERA5 AMS",
+      "label": "model",
+      "description": "A specific configuration of the ERA5 project focused on atmospheric modeling and simulation",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.6404623489042717
+    },
+    {
+      "name": "GHCNd dataset",
+      "label": "project",
+      "description": "The Global Historical Climatology Network Daily dataset, a collection of daily climate data from weather stations around the world",
+      "uuid": "c3e53b0d-cf82-4d03-ba0e-5544b99ad238",
+      "score": 0.7132435477229327
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the ground in a given area, often measured in millimeters or inches",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5553813842045734
+    },
+    {
+      "name": "extreme event",
+      "label": "weather event",
+      "description": "An unusual and significant meteorological occurrence, such as a hurricane or flood, that can have a major impact on the environment and human populations",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.5841214243624313
+    }
+  ],
+  "(45196, 47713)": [
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts (ECMWF) atmospheric reanalysis, providing global climate and weather data>",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8354714499945056
+    },
+    {
+      "name": "GHCNd",
+      "label": "dataset",
+      "description": "A global dataset of daily climate observations, including precipitation and temperature, collected from weather stations around the world>",
+      "uuid": "c3e53b0d-cf82-4d03-ba0e-5544b99ad238",
+      "score": 0.7398662552674887
+    },
+    {
+      "name": "daily mean surface air temperature",
+      "label": "variable",
+      "description": "A measure of the average temperature of the air near the Earth's surface, typically measured in degrees Celsius>",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.594463469787037
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico, among other countries>",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7233181354908844
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, an independent intergovernmental organization providing weather forecasts and climate data>",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7648870174799064
+    }
+  ],
+  "(47332, 50170)": [
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts (ECMWF) atmospheric reanalysis, providing global climate and weather data>",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8354714499945056
+    },
+    {
+      "name": "gridded data",
+      "label": "variable",
+      "description": "A type of data that is organized and stored in a grid format, often used for climate and weather research>",
+      "uuid": "42385b7b-7260-4dcf-a5c2-b3f2bbc87a11",
+      "score": 0.5795863339417135
+    },
+    {
+      "name": "extreme rainfall",
+      "label": "weather event",
+      "description": "Unusually heavy or intense rainfall events that can cause significant impacts on the environment and human societies>",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.7071032433370593
+    },
+    {
+      "name": "snowfall",
+      "label": "variable",
+      "description": "The amount of snow that falls to the ground over a specific period of time, often measured and used in climate research>",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.7441739976241339
+    },
+    {
+      "name": "cold regions",
+      "label": "location",
+      "description": "Areas on Earth characterized by low temperatures, often found in high-latitude or high-altitude regions>",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.5518571131063641
+    },
+    {
+      "name": "liquid and solid phases of precipitation",
+      "label": "variable",
+      "description": "The different states of water that fall to the ground, including rain, snow, sleet, and hail>",
+      "uuid": "1906bb87-db16-46db-b814-e0b322356125",
+      "score": 0.6347114058331117
+    },
+    {
+      "name": "analysis 1",
+      "label": "experiment",
+      "description": "A research investigation or study that analyzes and compares data, often used to test hypotheses or understand phenomena>",
+      "uuid": "51273f3b-9024-46eb-a0dd-4981e1ad268f",
+      "score": 0.5188328000072395
+    },
+    {
+      "name": "analysis 2",
+      "label": "experiment",
+      "description": "A research investigation or study that analyzes and compares data, often used to test hypotheses or understand phenomena>",
+      "uuid": "51273f3b-9024-46eb-a0dd-4981e1ad268f",
+      "score": 0.5076263324146406
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of an object or point above a reference level, often used in climate research to understand the impact of height on weather and climate patterns>",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.61363692703065
+    }
+  ],
+  "(49668, 52425)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "A structured set of climate simulations organized by the Coupled Model Intercomparison Project Phase 6, designed to test specific hypotheses about the climate system",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7735788483924277
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts (ECMWF) atmospheric reanalysis, providing global atmospheric and land data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8342143434467238
+    },
+    {
+      "name": "PCMDI",
+      "label": "provider",
+      "description": "The Program for Climate Model Diagnosis and Intercomparison, an organization that archives and distributes climate model data",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.8095848883870206
+    },
+    {
+      "name": "CMIP6 data",
+      "label": "variable",
+      "description": "Climate model output data from the Coupled Model Intercomparison Project Phase 6, used for studying climate patterns and trends",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7530001982818222
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico, with diverse climate zones and geography",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.727410665350425
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "A measure of the height of a location above sea level, influencing climate patterns and geographic features",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.5890091586234181
+    },
+    {
+      "name": "rainfall extremes",
+      "label": "variable",
+      "description": "Measurements of extreme rainfall events, used to study climate patterns and trends",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5899367201851948
+    }
+  ],
+  "(51995, 54799)": [
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts (ECMWF) atmospheric reanalysis, providing global climate and weather data>",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8354714499945056
+    },
+    {
+      "name": "GHCNd stations",
+      "label": "platform",
+      "description": "A network of weather observation stations providing daily climate data, part of the Global Historical Climatology Network>",
+      "uuid": "c3e53b0d-cf82-4d03-ba0e-5544b99ad238",
+      "score": 0.6753283263351876
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "A measure of the height of an object or point in relation to sea level or ground level>",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.6248608133896768
+    }
+  ],
+  "(54357, 55031)": [
+    {
+      "name": "GHCNd",
+      "label": "project",
+      "description": "A global dataset of daily climate observations, including temperature and precipitation data from weather stations around the world",
+      "uuid": "c3e53b0d-cf82-4d03-ba0e-5544b99ad238",
+      "score": 0.7389376438331181
+    },
+    {
+      "name": "stations",
+      "label": "location",
+      "description": "Geographic locations where weather observations are recorded, providing data for climate analysis and research",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.6656906519389347
+    }
+  ]
+}

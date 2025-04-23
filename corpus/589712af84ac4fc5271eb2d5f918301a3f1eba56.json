@@ -1,0 +1,797 @@
+{
+  "(0, 3134)": [
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide, methane, and nitrous oxide into the Earth's atmosphere, contributing to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5535813197739424
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years, often resulting in negative impacts on natural and socio-economic systems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5861968938631735
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America that is one of the world's largest emitters of greenhouse gases",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5792700813373786
+    },
+    {
+      "name": "solar photovoltaic",
+      "label": "instrument",
+      "description": "A technology used to generate electricity from sunlight, often used in renewable energy systems",
+      "uuid": "8b4f34c1-7aed-4833-811a-401382abd17c",
+      "score": 0.5136709738864751
+    },
+    {
+      "name": "wind",
+      "label": "instrument",
+      "description": "A source of renewable energy used to generate electricity, often through the use of wind turbines",
+      "uuid": "b3a95e10-1c1d-41cf-8802-8bb1d3a41353",
+      "score": 0.5530670029862388
+    }
+  ],
+  "(2671, 5452)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors, with significant impacts on the environment, ecosystems, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5976550935592255
+    },
+    {
+      "name": "atmospheric carbon dioxide (CO2) concentrations",
+      "label": "variable",
+      "description": "The amount of carbon dioxide present in the Earth's atmosphere, a key indicator of greenhouse gas emissions and climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6847169991537435
+    },
+    {
+      "name": "natural systems",
+      "label": "location",
+      "description": "Ecosystems and environments that exist without significant human influence, such as forests, oceans, and wildlife habitats",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5457338160696792
+    },
+    {
+      "name": "socio-economic systems",
+      "label": "location",
+      "description": "Human societies and economies that interact with and impact the natural environment, including cities, industries, and communities",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.5579371715945753
+    },
+    {
+      "name": "heat waves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally hot weather, often resulting in heat-related illnesses and mortality",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.7303899120417449
+    },
+    {
+      "name": "rising sea levels",
+      "label": "ocean circulation",
+      "description": "The increase in the average level of the world's oceans, primarily caused by climate change, resulting in coastal erosion, flooding, and saltwater intrusion",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.6875399978290985
+    },
+    {
+      "name": "low-lying coastal areas",
+      "label": "location",
+      "description": "Regions along the coast that are at or below sea level, vulnerable to flooding, erosion, and saltwater intrusion due to rising sea levels",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5543621725813289
+    },
+    {
+      "name": "shorelines",
+      "label": "location",
+      "description": "The boundaries between land and sea, often affected by erosion, accretion, and human activities",
+      "uuid": "57e6b119-567b-44d0-9d93-278ed5c21c47",
+      "score": 0.6561904197322552
+    },
+    {
+      "name": "flooding",
+      "label": "natural hazard",
+      "description": "The overflow of water that submerges land, causing damage to infrastructure, agriculture, and human settlements",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.6997953355351834
+    },
+    {
+      "name": "saltwater intrusion",
+      "label": "natural hazard",
+      "description": "The movement of saltwater into freshwater sources, such as rivers, lakes, and aquifers, often caused by rising sea levels, human activities, or climate change",
+      "uuid": "dffe5a35-09af-4413-bdd3-a5aedfeb49cc",
+      "score": 0.7295447117091058
+    },
+    {
+      "name": "strong storms",
+      "label": "weather event",
+      "description": "Severe weather conditions, including heavy rainfall, strong winds, and storm surges, that can cause significant damage to infrastructure, agriculture, and human settlements",
+      "uuid": "ad28623e-bb9b-433c-8fc1-2ab06dda58c4",
+      "score": 0.6288036508769297
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "Prolonged periods of abnormally low rainfall, leading to water scarcity, crop failures, and ecosystem disruption",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7056712313640406
+    },
+    {
+      "name": "fires",
+      "label": "natural hazard",
+      "description": "Uncontrolled fires that can occur in various environments, including forests, grasslands, and urban areas, often caused by human activities, climate change, or natural factors",
+      "uuid": "855dc9f5-ccbf-4972-8828-41e11f2aca7a",
+      "score": 0.6350169214205854
+    }
+  ],
+  "(4892, 8181)": [
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America with significant greenhouse gas emissions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5828826320724197
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, more frequent natural disasters, and other environmental impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5942077717354626
+    }
+  ],
+  "(7615, 10814)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, primarily caused by human activities such as burning fossil fuels and deforestation",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5582971326430577
+    },
+    {
+      "name": "floods",
+      "label": "weather event",
+      "description": "Overflows of water that can cause damage to properties and infrastructure",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6879604033121861
+    },
+    {
+      "name": "storms",
+      "label": "weather event",
+      "description": "Severe weather conditions that can cause damage to properties and infrastructure",
+      "uuid": "ad28623e-bb9b-433c-8fc1-2ab06dda58c4",
+      "score": 0.6349840118902234
+    },
+    {
+      "name": "tornadoes",
+      "label": "weather event",
+      "description": "Rotating columns of air that can cause damage to properties and infrastructure",
+      "uuid": "ff44a7b0-64b6-418a-9d74-1cbc3a4ae951",
+      "score": 0.691403352536151
+    },
+    {
+      "name": "droughts",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally low rainfall that can cause damage to crops and ecosystems",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.6655787650522933
+    },
+    {
+      "name": "storm surges",
+      "label": "weather event",
+      "description": "Rises in sea level due to storms that can cause coastal flooding and damage",
+      "uuid": "0bf50cd4-8a97-468c-8e73-047e3e09a03d",
+      "score": 0.7224540483536823
+    },
+    {
+      "name": "carbon emission",
+      "label": "variable",
+      "description": "The amount of carbon dioxide released into the atmosphere, primarily through human activities such as burning fossil fuels",
+      "uuid": "0e530a5f-1e75-4602-9659-98ff5c3d7076",
+      "score": 0.5660281009918896
+    },
+    {
+      "name": "ecological footprint",
+      "label": "model",
+      "description": "A measure of the impact of human activities on the environment, expressed in terms of the area of land required to support those activities",
+      "uuid": "0e530a5f-1e75-4602-9659-98ff5c3d7076",
+      "score": 0.5692322289594309
+    }
+  ],
+  "(10347, 13000)": [
+    {
+      "name": "ecological footprint",
+      "label": "variable",
+      "description": "A measure of the impact of human activity on the environment, expressed in terms of the area of land required to support that activity",
+      "uuid": "0e530a5f-1e75-4602-9659-98ff5c3d7076",
+      "score": 0.5722598759904705
+    },
+    {
+      "name": "transportation",
+      "label": "platform",
+      "description": "A system or means of moving people or goods from one place to another",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.6461029784407715
+    },
+    {
+      "name": "country",
+      "label": "location",
+      "description": "A geographic area with defined borders, governed by a single government",
+      "uuid": "245c630a-8022-46ed-9a79-8f6cf99b0822",
+      "score": 0.5278891118012172
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of pollutants or greenhouse gases into the atmosphere",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.6903459166635452
+    },
+    {
+      "name": "natural disasters",
+      "label": "natural hazard",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.5701556761707361
+    },
+    {
+      "name": "human emissions",
+      "label": "variable",
+      "description": "The release of pollutants or greenhouse gases into the atmosphere due to human activities",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5684434744387332
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6253118140719884
+    }
+  ],
+  "(12552, 15419)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7414456615238761
+    },
+    {
+      "name": "GHG emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide and methane, into the atmosphere, contributing to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5348196774868597
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country with significant greenhouse gas emissions and a major player in global climate policy",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5211214803651035
+    }
+  ],
+  "(14833, 17822)": [
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America, with a significant impact on global climate and economy",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6316174133516482
+    },
+    {
+      "name": "carbon emission",
+      "label": "variable",
+      "description": "The amount of greenhouse gases, particularly carbon dioxide, released into the atmosphere, often used as a metric for climate change impact",
+      "uuid": "0e530a5f-1e75-4602-9659-98ff5c3d7076",
+      "score": 0.5880391272527941
+    },
+    {
+      "name": "natural disasters",
+      "label": "natural hazard",
+      "description": "Severe weather events or other environmental phenomena that can cause significant damage and loss of life, potentially exacerbated by climate change",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.6032910450003709
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the Earth's climate, driven by human activities such as greenhouse gas emissions, and having widespread impacts on the environment and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5734537188530161
+    }
+  ],
+  "(17401, 20455)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, more frequent natural disasters, and other environmental impacts, posing significant risks to human societies and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5697657417729778
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, with a diverse economy and significant contributions to global greenhouse gas emissions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6200155037388269
+    },
+    {
+      "name": "Georgia",
+      "label": "location",
+      "description": "A state in the southeastern United States, with its own power company and significant energy demands",
+      "uuid": "a94fb5d3-6a0a-44a1-ac31-5e8978b5f0b1",
+      "score": 0.5735475512891757
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases, such as carbon dioxide and methane, that contribute to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5184611683957562
+    },
+    {
+      "name": "Island Nations",
+      "label": "location",
+      "description": "A group of countries located on islands, often vulnerable to the impacts of climate change",
+      "uuid": "34ade06e-d992-45aa-8fd1-9eabd2d417fc",
+      "score": 0.5455311630004084
+    }
+  ],
+  "(19900, 22832)": [
+    {
+      "name": "tsunami",
+      "label": "natural hazard",
+      "description": "A large ocean wave caused by earthquakes, landslides, or volcanic eruptions, capable of causing widespread destruction and loss of life",
+      "uuid": "7a79a3f3-1817-4c9f-8485-550a022b5a8d",
+      "score": 0.6743972696411202
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the long-term warming of the planet due to human activities, leading to various environmental and societal impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5950653925787329
+    },
+    {
+      "name": "Island Nations",
+      "label": "location",
+      "description": "A group of countries located on islands, often vulnerable to the effects of climate change such as sea-level rise and extreme weather events",
+      "uuid": "09f61b6a-c4ef-46d1-be0d-16b396f84a16",
+      "score": 0.5581901274986018
+    },
+    {
+      "name": "United States",
+      "label": "provider",
+      "description": "A country with significant economic and industrial activities, contributing to greenhouse gas emissions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5085116280072359
+    },
+    {
+      "name": "Australia",
+      "label": "provider",
+      "description": "A country with significant economic and industrial activities, contributing to greenhouse gas emissions",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.5958853512936894
+    },
+    {
+      "name": "China",
+      "label": "provider",
+      "description": "A country with significant economic and industrial activities, contributing to greenhouse gas emissions",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.521071300989471
+    },
+    {
+      "name": "GDP",
+      "label": "variable",
+      "description": "Gross Domestic Product, a measure of a country's economic activity",
+      "uuid": "6163b751-c8a6-42e5-9eb1-2b73932da631",
+      "score": 0.5872350482899412
+    },
+    {
+      "name": "GNI",
+      "label": "variable",
+      "description": "Gross National Income, a measure of a country's economic output",
+      "uuid": "ec165cc6-324d-4be1-8ace-48a660a1f900",
+      "score": 0.5423263762339264
+    },
+    {
+      "name": "Barbados",
+      "label": "location",
+      "description": "A small island nation in the Caribbean, vulnerable to the effects of climate change",
+      "uuid": "b770fd0c-6169-42e8-ad30-7fde13c5c6c5",
+      "score": 0.6003874355644155
+    },
+    {
+      "name": "Singapore",
+      "label": "location",
+      "description": "A small island city-state in Southeast Asia, with a significant economy",
+      "uuid": "6364bdbb-cdec-4059-a2b5-6b873c09fc7d",
+      "score": 0.6371129625797912
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States, with a unique and fragile environment",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.6598467200722963
+    }
+  ],
+  "(22371, 25271)": [
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, known for its significant contribution to global greenhouse gas emissions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6045717585491369
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, currently one of the largest emitters of greenhouse gases",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5894669280390056
+    }
+  ],
+  "(24868, 27615)": [
+    {
+      "name": "United States",
+      "label": "provider",
+      "description": "A federal republic consisting of 50 states, with significant economic and environmental impacts globally",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5959368020893611
+    },
+    {
+      "name": "China",
+      "label": "provider",
+      "description": "A country with the world's second-largest economy, known for its large greenhouse gas emissions",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5258115341343157
+    },
+    {
+      "name": "GNI",
+      "label": "variable",
+      "description": "Gross National Income, a measure of the total income earned by a country's citizens, including both domestic and foreign sources",
+      "uuid": "ec165cc6-324d-4be1-8ace-48a660a1f900",
+      "score": 0.532029168391513
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of Earth's atmosphere, oceans, and land surfaces, driven by human activities and natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.591400763266937
+    },
+    {
+      "name": "island nations",
+      "label": "location",
+      "description": "Small island countries, often vulnerable to the impacts of climate change such as sea-level rise and extreme weather events",
+      "uuid": "09f61b6a-c4ef-46d1-be0d-16b396f84a16",
+      "score": 0.5615258617425419
+    },
+    {
+      "name": "flooding",
+      "label": "natural hazard",
+      "description": "An overflow of water that submerges land and can cause damage to infrastructure, agriculture, and human settlements",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.6985263885624131
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human activities",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7045206066632206
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its diverse climate, economy, and culture",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6448202861198202
+    },
+    {
+      "name": "Thailand",
+      "label": "location",
+      "description": "A country in Southeast Asia, known for its economy, culture, and vulnerability to natural hazards such as flooding",
+      "uuid": "6af5848c-db4b-4dd0-a6fb-1b9c904ef21b",
+      "score": 0.6442298326060746
+    }
+  ],
+  "(27039, 30181)": [
+    {
+      "name": "Quebec",
+      "label": "location",
+      "description": "A province in Canada known for its unique culture and natural resources, including oil reserves",
+      "uuid": "c977c83a-f171-4337-8001-abb2539cdc76",
+      "score": 0.6050996833608967
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its unique biodiversity and environmental policies",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7036495527126566
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, known for its strong economy, environmental policies, and role in European politics",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6233098214625088
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state on the West Coast of the United States, known for its diverse economy, environmental policies, and vulnerability to climate-related disasters",
+      "uuid": "cc04bdf3-18fb-430c-91d8-2445539e34c1",
+      "score": 0.6161260912085672
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a United States government agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6847464046552499
+    },
+    {
+      "name": "National Audubon Society",
+      "label": "provider",
+      "description": "An American non-profit environmental organization, dedicated to conservation and restoration of natural ecosystems, focusing on birds and their habitats",
+      "uuid": "5ba51196-f137-4c8c-8d7c-060c3462552a",
+      "score": 0.5824378853707094
+    }
+  ],
+  "(29649, 32949)": [
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a United States government agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6847464046552499
+    },
+    {
+      "name": "National Audubon Society",
+      "label": "provider",
+      "description": "A non-profit organization dedicated to conservation and restoration of natural ecosystems, focusing on birds and their habitats",
+      "uuid": "5ba51196-f137-4c8c-8d7c-060c3462552a",
+      "score": 0.588548224667388
+    },
+    {
+      "name": "U.S. eastern coast",
+      "label": "location",
+      "description": "The eastern seaboard of the United States, vulnerable to climate-related natural disasters such as hurricanes and sea-level rise",
+      "uuid": "73c5d3e9-29f6-4352-a3db-1bc49bbff315",
+      "score": 0.5328014526867455
+    },
+    {
+      "name": "hurricanes",
+      "label": "weather event",
+      "description": "A type of tropical cyclone that forms over the warm waters of the Atlantic Ocean, Caribbean Sea, and Gulf of Mexico",
+      "uuid": "6314f68a-1f00-4e6d-9f06-b3e2ce4348e8",
+      "score": 0.6233632361566666
+    },
+    {
+      "name": "wildfires",
+      "label": "natural hazard",
+      "description": "Uncontrolled fires that occur in wildland areas, often caused by human activity or natural factors such as lightning",
+      "uuid": "868b87a1-d8c2-49b3-8bbd-9cbbed115271",
+      "score": 0.6746212176569474
+    },
+    {
+      "name": "tornadoes",
+      "label": "weather event",
+      "description": "A type of rotating column of air that touches the ground, causing damage and destruction",
+      "uuid": "a200e677-384a-42d6-8519-1c7735f0adb9",
+      "score": 0.6930740793199681
+    },
+    {
+      "name": "Connecticut",
+      "label": "location",
+      "description": "A state in the northeastern United States, known for its natural beauty and vulnerability to climate-related impacts",
+      "uuid": "41ac6bda-027c-438b-b41f-a6e6cb2f03ce",
+      "score": 0.6425383806054541
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "label": "provider",
+      "description": "A United States federal agency responsible for protecting human health and the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7191541309653284
+    },
+    {
+      "name": "EPA",
+      "label": "provider",
+      "description": "A United States federal agency responsible for protecting human health and the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7588585730268166
+    },
+    {
+      "name": "Massachusetts",
+      "label": "location",
+      "description": "A state in the northeastern United States, known for its natural beauty and vulnerability to climate-related impacts",
+      "uuid": "fbe3af20-05f8-4b16-8aaf-60410797c91d",
+      "score": 0.6349988553298966
+    },
+    {
+      "name": "GHG emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide and methane, into the atmosphere, contributing to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5348196774868597
+    },
+    {
+      "name": "carbon dioxide",
+      "label": "variable",
+      "description": "A greenhouse gas that contributes to climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6772327501838656
+    },
+    {
+      "name": "coastal erosion",
+      "label": "natural hazard",
+      "description": "The wearing away of land or the loss of land along the coastline due to natural or human-induced factors",
+      "uuid": "cd7a7748-7231-4a73-b85c-b5696066230a",
+      "score": 0.5827806467488159
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "Frozen seawater that floats on the surface of the ocean, playing a crucial role in regulating Earth's climate",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7733951626395609
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the planet due to human activities, leading to changes in weather patterns, sea levels, and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5978230332371479
+    }
+  ],
+  "(32410, 35504)": [
+    {
+      "name": "GHG emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide and methane, into the Earth's atmosphere, contributing to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5381545102368545
+    },
+    {
+      "name": "EPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, responsible for protecting human health and the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.756737295646282
+    },
+    {
+      "name": "Massachusetts",
+      "label": "location",
+      "description": "A state in the northeastern United States, known for its role in environmental and climate-related lawsuits",
+      "uuid": "fbe3af20-05f8-4b16-8aaf-60410797c91d",
+      "score": 0.6332967978317537
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, caused by human activities such as burning fossil fuels and deforestation",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5513782889365105
+    },
+    {
+      "name": "sea level",
+      "label": "ocean circulation",
+      "description": "The level of the Earth's oceans, which can rise due to climate change and cause coastal erosion and flooding",
+      "uuid": "6c958ab4-ab98-438e-86d4-1e6a6d0580da",
+      "score": 0.6856310147901153
+    },
+    {
+      "name": "beaches",
+      "label": "location",
+      "description": "Coastal areas where the land meets the sea, which can be eroded or lost due to climate change and sea level rise",
+      "uuid": "a61d1705-a6b7-4df3-9f8e-57e26029629c",
+      "score": 0.5893772906885377
+    }
+  ],
+  "(34961, 38267)": [
+    {
+      "name": "wind energy",
+      "label": "instrument",
+      "description": "A type of renewable energy technology that generates electricity from wind",
+      "uuid": "b3a95e10-1c1d-41cf-8802-8bb1d3a41353",
+      "score": 0.5394035223797662
+    },
+    {
+      "name": "geothermal",
+      "label": "instrument",
+      "description": "A type of renewable energy technology that generates electricity from heat from the Earth",
+      "uuid": "33d1810f-40c6-4b37-ac90-7435ef5fa507",
+      "score": 0.6505317227019541
+    },
+    {
+      "name": "hydropower",
+      "label": "instrument",
+      "description": "A type of renewable energy technology that generates electricity from the energy of moving water",
+      "uuid": "7eba0eef-3a30-4282-a162-1f483370ddc4",
+      "score": 0.5794452311494497
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6253118140719884
+    },
+    {
+      "name": "Island Nations",
+      "label": "location",
+      "description": "Countries located on islands, often vulnerable to climate change",
+      "uuid": "09f61b6a-c4ef-46d1-be0d-16b396f84a16",
+      "score": 0.556522728175698
+    },
+    {
+      "name": "OASIS",
+      "label": "provider",
+      "description": "An organization that represents the interests of island nations",
+      "uuid": "ba2cf9cf-36c9-421b-bd6e-339e7cef1092",
+      "score": 0.5028787184981018
+    },
+    {
+      "name": "non-profits",
+      "label": "provider",
+      "description": "Organizations that operate for the public good, rather than for profit",
+      "uuid": "f8762581-b92f-48f9-b077-964ee6b0c8ee",
+      "score": 0.536136055433279
+    },
+    {
+      "name": "fossil fuel plant",
+      "label": "instrument",
+      "description": "A facility that generates electricity from fossil fuels",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5017284842607619
+    },
+    {
+      "name": "electric providers",
+      "label": "provider",
+      "description": "Companies that generate and distribute electricity",
+      "uuid": "bf9266fa-ceeb-4c68-a391-71ff6660b189",
+      "score": 0.5953292576852693
+    }
+  ],
+  "(37712, 39275)": [
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6253118140719884
+    },
+    {
+      "name": "fossil fuel plant",
+      "label": "platform",
+      "description": "A facility that generates electricity by burning fossil fuels, such as coal, oil, or natural gas",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5303265849200828
+    },
+    {
+      "name": "electric providers",
+      "label": "provider",
+      "description": "Companies or organizations that generate, transmit, and distribute electricity to consumers",
+      "uuid": "bf9266fa-ceeb-4c68-a391-71ff6660b189",
+      "score": 0.5924173171349052
+    },
+    {
+      "name": "carbon",
+      "label": "variable",
+      "description": "A chemical element that is a major component of greenhouse gases, such as carbon dioxide",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5618275028826795
+    }
+  ]
+}

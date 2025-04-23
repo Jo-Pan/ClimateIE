@@ -1,0 +1,739 @@
+{
+  "(0, 3022)": [
+    {
+      "name": "Bangladesh",
+      "label": "location",
+      "description": "A country in South Asia, considered highly vulnerable to the impacts of climate change",
+      "uuid": "28761db9-82fe-4a24-9a89-0fd6047fa1ea",
+      "score": 0.5900160608311504
+    },
+    {
+      "name": "cyclones Sidr and Aila",
+      "label": "weather event",
+      "description": "Severe tropical cyclones that affected the coastal areas of Bangladesh, causing significant damage and loss of life",
+      "uuid": "6f7996f7-5905-42e7-b9fd-c24c6328b5d9",
+      "score": 0.5318137603397678
+    },
+    {
+      "name": "coastal areas of Bangladesh",
+      "label": "location",
+      "description": "The regions of Bangladesh bordering the Bay of Bengal, prone to cyclones, storm surges, and other climate-related hazards",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5188117990338834
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872681524345835
+    },
+    {
+      "name": "socioeconomic condition",
+      "label": "variable",
+      "description": "The social and economic status of individuals or communities, influenced by factors such as income, education, and occupation",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.5557699246819725
+    },
+    {
+      "name": "vulnerable people",
+      "label": "variable",
+      "description": "Individuals or groups who are disproportionately affected by climate change, including women, children, and those with limited economic resources",
+      "uuid": "35b7c7cd-49c8-476c-83f2-f2e1f4097307",
+      "score": 0.6712543662381688
+    },
+    {
+      "name": "Centres for Disease Control & Prevention",
+      "label": "provider",
+      "description": "A US federal agency responsible for protecting public health and safety through research, surveillance, and prevention programs",
+      "uuid": "5fab3862-6df5-4835-843a-3eceae73c119",
+      "score": 0.5853065112276603
+    }
+  ],
+  "(2677, 5579)": [
+    {
+      "name": "Bangladesh",
+      "label": "location",
+      "description": "A country in South Asia, highly vulnerable to climate change due to its geographical location and environmental factors",
+      "uuid": "28761db9-82fe-4a24-9a89-0fd6047fa1ea",
+      "score": 0.5484817382395832
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872681524345835
+    },
+    {
+      "name": "children",
+      "label": "variable",
+      "description": "A demographic group highly vulnerable to the effects of climate change, including health problems and increased mortality",
+      "uuid": "35b7c7cd-49c8-476c-83f2-f2e1f4097307",
+      "score": 0.509742602646006
+    },
+    {
+      "name": "elderly people",
+      "label": "variable",
+      "description": "A demographic group susceptible to the adverse health effects of climate change, including heat stress and other extreme weather events",
+      "uuid": "35b7c7cd-49c8-476c-83f2-f2e1f4097307",
+      "score": 0.5083600573334993
+    },
+    {
+      "name": "average air and oceanic temperatures",
+      "label": "variable",
+      "description": "Measurements of the temperature of the air and oceans, used to track climate change",
+      "uuid": "251c87cd-03b3-464f-8390-8ede2fec28fc",
+      "score": 0.5939101550241818
+    },
+    {
+      "name": "rainfall and snowfall patterns",
+      "label": "variable",
+      "description": "Characteristics of precipitation, including frequency, intensity, and distribution, which are affected by climate change",
+      "uuid": "279961c4-dac3-4188-917f-fa11982f957e",
+      "score": 0.522272368632611
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "Prolonged periods of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7078337541118832
+    },
+    {
+      "name": "heat waves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally hot weather, often leading to heat-related illnesses and mortality",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.7324435153451068
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "Intense storm systems that form over warm ocean waters, bringing strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.7238124060313584
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Overflow of water that can occur when heavy rainfall, storm surges, or other factors exceed the capacity of drainage systems",
+      "uuid": "7fdc339e-017f-4e4b-89a3-12e441a40bad",
+      "score": 0.6688204769431975
+    },
+    {
+      "name": "sea levels",
+      "label": "variable",
+      "description": "The average height of the ocean's surface, which is rising due to climate change and causing coastal erosion and inundation",
+      "uuid": "2aad0e7e-1c96-4d87-adeb-4894225e2922",
+      "score": 0.6741905777591172
+    },
+    {
+      "name": "monsoon wind system",
+      "label": "ocean circulation",
+      "description": "A seasonal wind pattern that brings significant rainfall to certain regions, including South Asia",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6632689355834579
+    },
+    {
+      "name": "solar albedo",
+      "label": "variable",
+      "description": "The measure of the amount of sunlight that is reflected by the Earth's surface, which can be affected by land use and land cover changes",
+      "uuid": "5395e33c-02cb-4027-b425-e771eab13610",
+      "score": 0.7282960714895437
+    },
+    {
+      "name": "land use and land cover change",
+      "label": "variable",
+      "description": "Changes in the way land is used, such as deforestation or urbanization, which can impact local and global climate patterns",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5963575392081414
+    },
+    {
+      "name": "terrestrial and sea surface temperature",
+      "label": "variable",
+      "description": "Measurements of the temperature of the land and oceans, used to track climate change",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6319146032052884
+    },
+    {
+      "name": "inundation",
+      "label": "natural hazard",
+      "description": "The flooding of land with water, often caused by heavy rainfall, storm surges, or other extreme weather events",
+      "uuid": "c6c0c5dd-c0ca-4670-bbaa-c22d39e73570",
+      "score": 0.6765881359995817
+    },
+    {
+      "name": "potable water",
+      "label": "variable",
+      "description": "Water that is safe for human consumption, which can be scarce in areas affected by climate change",
+      "uuid": "dac96944-5a5e-4b2a-802d-74627bb93db9",
+      "score": 0.5961291699499619
+    },
+    {
+      "name": "salinity intrusion",
+      "label": "natural hazard",
+      "description": "The movement of saltwater into freshwater sources, often caused by sea level rise or changes in precipitation patterns",
+      "uuid": "dffe5a35-09af-4413-bdd3-a5aedfeb49cc",
+      "score": 0.6338382919342902
+    },
+    {
+      "name": "coastal erosion",
+      "label": "natural hazard",
+      "description": "The wearing away of the coastline, often caused by wave action, tidal currents, or other factors",
+      "uuid": "097a7f54-df6e-4aeb-8d15-65d4bd24da64",
+      "score": 0.5893432513405682
+    },
+    {
+      "name": "dengue",
+      "label": "variable",
+      "description": "A mosquito-borne disease that can be exacerbated by climate change",
+      "uuid": "9d92320e-b9b9-4ae8-8394-252eeda7ceb1",
+      "score": 0.5046882237634274
+    },
+    {
+      "name": "malaria",
+      "label": "variable",
+      "description": "A mosquito-borne disease that can be exacerbated by climate change",
+      "uuid": "9d92320e-b9b9-4ae8-8394-252eeda7ceb1",
+      "score": 0.5145904989942118
+    },
+    {
+      "name": "diarrhoea",
+      "label": "variable",
+      "description": "A water-borne disease that can be exacerbated by climate change",
+      "uuid": "68447296-6019-453b-9684-3cd3ff1530c9",
+      "score": 0.5136154191393821
+    }
+  ],
+  "(5083, 7835)": [
+    {
+      "name": "monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern characterized by significant rainfall and wind changes, particularly in tropical and subtropical regions",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.7076461274503297
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Overflow of water that can cause damage to surroundings, affecting human settlements, agriculture, and infrastructure",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6753175573122143
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "Prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human activities",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7048478414651895
+    },
+    {
+      "name": "salinity intrusion",
+      "label": "natural hazard",
+      "description": "Movement of saltwater into freshwater sources, often due to sea-level rise, tidal actions, or human activities, affecting water quality and availability",
+      "uuid": "dffe5a35-09af-4413-bdd3-a5aedfeb49cc",
+      "score": 0.6534079642340527
+    },
+    {
+      "name": "coastal erosion",
+      "label": "natural hazard",
+      "description": "Wearing away of the coastline due to natural forces like waves, tides, and currents, or human activities, leading to loss of land and habitat",
+      "uuid": "097a7f54-df6e-4aeb-8d15-65d4bd24da64",
+      "score": 0.5790661844812907
+    },
+    {
+      "name": "river bank erosion",
+      "label": "natural hazard",
+      "description": "Wearing away of the riverbanks due to the flow of water, leading to loss of land, habitat, and infrastructure",
+      "uuid": "1e2b1b67-a401-4fb6-9ee9-b022c1c023dc",
+      "score": 0.5086339679867239
+    },
+    {
+      "name": "extreme heat",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally high temperatures, potentially leading to health issues, mortality, and disruptions to ecosystems and human activities",
+      "uuid": "bb9c9be6-78c7-4fbd-9a35-a218276393ec",
+      "score": 0.6426920206319948
+    },
+    {
+      "name": "extreme cold",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally low temperatures, potentially leading to health issues, mortality, and disruptions to ecosystems and human activities",
+      "uuid": "03bc515c-af45-4a15-b2a2-65270f0e72bd",
+      "score": 0.5174511498905319
+    },
+    {
+      "name": "cyclone Sidr",
+      "label": "weather event",
+      "description": "A severe tropical cyclone that hit Bangladesh in 2007, causing significant damage and loss of life",
+      "uuid": "6f7996f7-5905-42e7-b9fd-c24c6328b5d9",
+      "score": 0.5071223200033067
+    },
+    {
+      "name": "cyclone Aila",
+      "label": "weather event",
+      "description": "A severe tropical cyclone that hit Bangladesh in 2009, causing significant damage and loss of life",
+      "uuid": "6f7996f7-5905-42e7-b9fd-c24c6328b5d9",
+      "score": 0.5000971696940064
+    },
+    {
+      "name": "Bangladesh",
+      "label": "location",
+      "description": "A country in South Asia, vulnerable to various climate-related hazards due to its geography and climate",
+      "uuid": "28761db9-82fe-4a24-9a89-0fd6047fa1ea",
+      "score": 0.5570819731916075
+    },
+    {
+      "name": "South Western coastal district",
+      "label": "location",
+      "description": "A region in Bangladesh prone to cyclones and other climate-related hazards",
+      "uuid": "4bee2d4d-d15d-4300-8804-626eff7ac0f3",
+      "score": 0.5007275100937303
+    },
+    {
+      "name": "waterborne disease",
+      "label": "variable",
+      "description": "Diseases caused by contaminated water, often spread through poor sanitation, hygiene, or flooding",
+      "uuid": "68447296-6019-453b-9684-3cd3ff1530c9",
+      "score": 0.7097220476562649
+    },
+    {
+      "name": "potable water",
+      "label": "variable",
+      "description": "Water that is safe for human consumption, whose availability can be affected by climate-related factors such as drought or salinity intrusion",
+      "uuid": "dac96944-5a5e-4b2a-802d-74627bb93db9",
+      "score": 0.6209869748733949
+    }
+  ],
+  "(7329, 10154)": [
+    {
+      "name": "Bangladesh",
+      "label": "location",
+      "description": "A country in South Asia, known for its vulnerability to natural disasters and climate change impacts",
+      "uuid": "28761db9-82fe-4a24-9a89-0fd6047fa1ea",
+      "score": 0.599782729493217
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon of rising temperatures and associated impacts on weather patterns, sea levels, and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.612065338295943
+    },
+    {
+      "name": "natural disasters",
+      "label": "natural hazard",
+      "description": "Sudden events such as cyclones, floods, and droughts that cause damage and loss of life",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.5546220218350784
+    }
+  ],
+  "(9672, 12620)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by long-term changes in weather patterns, affecting various aspects of the environment and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5797478752425281
+    },
+    {
+      "name": "coastal people",
+      "label": "provider",
+      "description": "Communities living in coastal areas, often vulnerable to climate change impacts such as sea-level rise and extreme weather events",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5463008076042372
+    },
+    {
+      "name": "health",
+      "label": "variable",
+      "description": "A critical aspect of human well-being that can be affected by climate change, including increased disease prevalence and heat stress",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5438731374892437
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a person, group, or system is susceptible to harm or damage from climate change impacts",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5762863810053395
+    }
+  ],
+  "(12157, 15325)": [
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of natural disaster that brings strong winds and heavy rainfall to coastal areas",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6092402810715823
+    },
+    {
+      "name": "storms",
+      "label": "weather event",
+      "description": "A type of natural disaster that brings strong winds and heavy rainfall to coastal areas",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.6007117514859901
+    },
+    {
+      "name": "flooding frequency",
+      "label": "natural hazard",
+      "description": "The frequency at which flooding occurs in a given area, potentially caused by climate change",
+      "uuid": "bf470637-8aea-47a8-b075-40b394303747",
+      "score": 0.7002523703064591
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, potentially affecting agricultural production and livelihoods",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6214754243506749
+    },
+    {
+      "name": "agricultural lands",
+      "label": "location",
+      "description": "Areas of land used for farming and crop production, potentially affected by salinity and climate change",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6452805278951135
+    },
+    {
+      "name": "coastal areas",
+      "label": "location",
+      "description": "Areas of land located near the ocean, potentially affected by climate change and natural disasters",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.7049185267796455
+    }
+  ],
+  "(14776, 17829)": [
+    {
+      "name": "cyclone",
+      "label": "weather event",
+      "description": "A type of large-scale circulation of air that rotates around a central point, characterized by strong winds and heavy rainfall",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.5884250817110477
+    },
+    {
+      "name": "nongovernment organizations",
+      "label": "provider",
+      "description": "Entities that provide financial and other forms of support to communities affected by disasters",
+      "uuid": "f8762581-b92f-48f9-b077-964ee6b0c8ee",
+      "score": 0.5684012686427891
+    },
+    {
+      "name": "poverty",
+      "label": "social issue",
+      "description": "A state of economic deprivation, characterized by a lack of access to basic needs such as food, water, and shelter",
+      "uuid": "b37021a3-4d7f-4b94-b614-807d6981d2ad",
+      "score": 0.5510731169392596
+    },
+    {
+      "name": "food scarcity",
+      "label": "social issue",
+      "description": "A lack of access to sufficient food, leading to hunger and malnutrition",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.5225568038716771
+    }
+  ],
+  "(17308, 20415)": [
+    {
+      "name": "Bangladesh",
+      "label": "location",
+      "description": "A country in South Asia, highly vulnerable to climate change and natural disasters",
+      "uuid": "28761db9-82fe-4a24-9a89-0fd6047fa1ea",
+      "score": 0.5881008430922766
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon of rising temperatures and changing weather patterns, affecting the lives and livelihoods of people in Bangladesh",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5052906831283351
+    },
+    {
+      "name": "poverty",
+      "label": "variable",
+      "description": "A socioeconomic condition characterized by a lack of financial resources, affecting the education and well-being of people in coastal areas",
+      "uuid": "b37021a3-4d7f-4b94-b614-807d6981d2ad",
+      "score": 0.5696129781827979
+    },
+    {
+      "name": "mental health",
+      "label": "variable",
+      "description": "A measure of the psychological well-being of individuals, which is affected by frequent natural disasters and climate change",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.6841297812468807
+    },
+    {
+      "name": "health condition",
+      "label": "variable",
+      "description": "A measure of the physical and mental well-being of individuals, which is affected by climate change and natural disasters",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5649425463675125
+    }
+  ],
+  "(19878, 23038)": [
+    {
+      "name": "sea level rise",
+      "label": "ocean circulation",
+      "description": "The increase in the level of the world's oceans, caused by climate change, affecting coastal communities and ecosystems",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7607288786072774
+    },
+    {
+      "name": "natural disasters",
+      "label": "natural hazard",
+      "description": "Phenomena with the potential to cause significant harm to life, property, and the environment, such as cyclones, floods, and storms",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.6147745449713411
+    },
+    {
+      "name": "temperature rise",
+      "label": "variable",
+      "description": "An increase in temperature, often used as an indicator of climate change",
+      "uuid": "3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648",
+      "score": 0.5702547680692401
+    },
+    {
+      "name": "saline water",
+      "label": "variable",
+      "description": "Water with high salt concentrations, often contaminating freshwater sources and affecting human health",
+      "uuid": "a38db528-3064-449d-ae70-af86997a11f4",
+      "score": 0.5872487151303561
+    },
+    {
+      "name": "waterborne diseases",
+      "label": "variable",
+      "description": "Diseases spread through contaminated water, such as diarrhoea, dysentery, and typhoid",
+      "uuid": "68447296-6019-453b-9684-3cd3ff1530c9",
+      "score": 0.6987276178873522
+    },
+    {
+      "name": "vector borne infections",
+      "label": "variable",
+      "description": "Diseases spread through insects or other vectors, such as malaria and dengue fever",
+      "uuid": "9d92320e-b9b9-4ae8-8394-252eeda7ceb1",
+      "score": 0.7335155732276173
+    },
+    {
+      "name": "coastal area",
+      "label": "location",
+      "description": "A region near the ocean, vulnerable to the impacts of sea level rise, storms, and other climate-related hazards",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.6462351890699083
+    }
+  ],
+  "(22539, 25506)": [
+    {
+      "name": "vector borne infections",
+      "label": "natural hazard",
+      "description": "Infections transmitted through the bite of an infected insect, such as mosquitoes, ticks, and fleas, which can spread diseases like malaria, dengue fever, and Zika virus",
+      "uuid": "9d92320e-b9b9-4ae8-8394-252eeda7ceb1",
+      "score": 0.7171883471611208
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the Earth's climate, caused by human activities and natural processes, which can lead to more frequent and severe weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5695704052380447
+    }
+  ],
+  "(25017, 28209)": [
+    {
+      "name": "vulnerable population",
+      "label": "variable",
+      "description": "Groups of people, such as the elderly, infants, and women, who are most affected by the disasters",
+      "uuid": "35b7c7cd-49c8-476c-83f2-f2e1f4097307",
+      "score": 0.7272007080618873
+    },
+    {
+      "name": "malnutrition",
+      "label": "variable",
+      "description": "A condition resulting from inadequate nutrition, affecting physical and mental growth",
+      "uuid": "1d1f1722-27ea-4021-922f-68b90c09bfa1",
+      "score": 0.6664680499173228
+    }
+  ],
+  "(27661, 30775)": [
+    {
+      "name": "NGO",
+      "label": "provider",
+      "description": "Non-Governmental Organizations, providing humanitarian aid and support to affected communities",
+      "uuid": "f8762581-b92f-48f9-b077-964ee6b0c8ee",
+      "score": 0.51929442115794
+    },
+    {
+      "name": "coastal areas",
+      "label": "location",
+      "description": "Regions along the coast of Bangladesh, prone to cyclones and natural disasters",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.557984424578891
+    },
+    {
+      "name": "cyclone",
+      "label": "weather event",
+      "description": "A type of tropical cyclone that forms over the Bay of Bengal, bringing strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.5446447592504785
+    },
+    {
+      "name": "transportation system",
+      "label": "platform",
+      "description": "A network of roads, vehicles, and infrastructure providing access to affected areas",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.568204879493403
+    }
+  ],
+  "(30235, 33349)": [
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of extreme weather event characterized by strong winds and heavy rainfall, often causing damage and disruption to communities",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6489540367722267
+    },
+    {
+      "name": "vulnerable population",
+      "label": "variable",
+      "description": "A group of people who are more susceptible to the impacts of climate change, including women, children, and the elderly",
+      "uuid": "35b7c7cd-49c8-476c-83f2-f2e1f4097307",
+      "score": 0.7176754763680752
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences such as heatwaves, floods, and storms, often caused by climate change",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6701733760148592
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "A type of extreme weather event characterized by strong winds and heavy rainfall, often forming in tropical regions",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.7599415251753923
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, often affected by climate change and extreme weather events",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6711158055951768
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, often caused by human activities and resulting in more frequent and intense extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5578669523791397
+    },
+    {
+      "name": "NGO",
+      "label": "provider",
+      "description": "A non-governmental organization that provides support and services to communities affected by climate change and extreme weather events",
+      "uuid": "f8762581-b92f-48f9-b077-964ee6b0c8ee",
+      "score": 0.5616112281609844
+    }
+  ],
+  "(32857, 35908)": [
+    {
+      "name": "agricultural lands",
+      "label": "location",
+      "description": "Areas used for farming and agricultural production",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6866811970379658
+    },
+    {
+      "name": "coastal people",
+      "label": "variable",
+      "description": "People living in areas near the coast, vulnerable to climate change and extreme weather events",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5411458830771975
+    },
+    {
+      "name": "waterborne diseases",
+      "label": "natural hazard",
+      "description": "Diseases caused by contaminated water, which can spread quickly in areas with poor sanitation",
+      "uuid": "68447296-6019-453b-9684-3cd3ff1530c9",
+      "score": 0.7022842967778175
+    },
+    {
+      "name": "saline water",
+      "label": "variable",
+      "description": "Water with high salt content, which can be harmful to human health",
+      "uuid": "a38db528-3064-449d-ae70-af86997a11f4",
+      "score": 0.5649803995627379
+    },
+    {
+      "name": "mental health problems",
+      "label": "variable",
+      "description": "Emotional and psychological distress caused by climate change and extreme weather events",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.6816244235386587
+    },
+    {
+      "name": "malnutrition",
+      "label": "variable",
+      "description": "A health problem caused by a lack of nutritious food, which can be exacerbated by climate change",
+      "uuid": "1d1f1722-27ea-4021-922f-68b90c09bfa1",
+      "score": 0.6071844092613262
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "Long-term changes in the Earth's climate, which can have significant impacts on human health and the environment",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5683636111229285
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Severe storms that can cause significant damage and disruption to communities",
+      "uuid": "4bee2d4d-d15d-4300-8804-626eff7ac0f3",
+      "score": 0.6526566055558481
+    }
+  ],
+  "(35454, 38164)": [
+    {
+      "name": "malnutrition",
+      "label": "variable",
+      "description": "A condition that results from eating a diet in which one or more nutrients are either not enough or are too much such that the diet causes health problems",
+      "uuid": "1d1f1722-27ea-4021-922f-68b90c09bfa1",
+      "score": 0.6501470044528654
+    },
+    {
+      "name": "vulnerable population",
+      "label": "variable",
+      "description": "A group of people who are at a higher risk of being affected by climate change due to their location, poverty, or other socio-economic factors",
+      "uuid": "35b7c7cd-49c8-476c-83f2-f2e1f4097307",
+      "score": 0.7254662383768352
+    },
+    {
+      "name": "Bangladesh",
+      "label": "location",
+      "description": "A country located in South Asia, known for its high vulnerability to natural disasters such as cyclones and flooding",
+      "uuid": "28761db9-82fe-4a24-9a89-0fd6047fa1ea",
+      "score": 0.606868446837279
+    },
+    {
+      "name": "coastal people",
+      "label": "variable",
+      "description": "People living in coastal areas who are at risk of being affected by climate change and natural disasters",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5243722421222826
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "A long-term change in the Earth's climate, causing rising temperatures, sea-level rise, and more frequent natural disasters",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5927432530113795
+    },
+    {
+      "name": "natural disasters",
+      "label": "natural hazard",
+      "description": "Sudden and extreme events such as cyclones, flooding, and landslides that can cause damage and loss of life",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.5661331226776399
+    }
+  ]
+}

@@ -1,0 +1,1045 @@
+{
+  "(0, 3086)": [
+    {
+      "name": "Dissolved Oxygen",
+      "label": "variable",
+      "description": "A measure of the amount of oxygen dissolved in water, essential for aquatic life",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.7792323618268678
+    },
+    {
+      "name": "Biochemical Oxygen Demand",
+      "label": "variable",
+      "description": "A measure of the amount of oxygen required to break down organic matter in water",
+      "uuid": "2ef34dc5-4d29-4820-963c-f830f46c0347",
+      "score": 0.6990196855217644
+    },
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A toxic compound that can harm aquatic life, often resulting from agricultural runoff and industrial discharge",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.6157343236360374
+    },
+    {
+      "name": "nitrate",
+      "label": "variable",
+      "description": "A compound that can contribute to eutrophication and harm aquatic life, often resulting from agricultural runoff and industrial discharge",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.6182424312905382
+    },
+    {
+      "name": "total nitrogen",
+      "label": "variable",
+      "description": "A measure of the total amount of nitrogen in water, including nitrate, ammonia, and other forms",
+      "uuid": "dc748b93-e7d6-419d-a9f0-f370556d6f8e",
+      "score": 0.5312119334368208
+    },
+    {
+      "name": "organic phosphorous",
+      "label": "variable",
+      "description": "A measure of the amount of phosphorus in organic form in water, which can contribute to eutrophication",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5049273229740755
+    },
+    {
+      "name": "inorganic phosphorous",
+      "label": "variable",
+      "description": "A measure of the amount of phosphorus in inorganic form in water, which can contribute to eutrophication",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5430652688511127
+    },
+    {
+      "name": "total phosphorous",
+      "label": "variable",
+      "description": "A measure of the total amount of phosphorus in water, including organic and inorganic forms",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5138619737282847
+    },
+    {
+      "name": "eutrophic conditions",
+      "label": "natural hazard",
+      "description": "A state of excessive nutrient enrichment in water bodies, leading to harmful algal blooms and decreased water quality",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.6415291888325738
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "Areas used for agricultural purposes, which can contribute to water pollution through runoff and nutrient leaching",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5677116211220636
+    },
+    {
+      "name": "aquatic life",
+      "label": "variable",
+      "description": "The plants and animals that live in water, which can be affected by changes in water quality",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.5192140453190713
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872478600468966
+    }
+  ],
+  "(2632, 5424)": [
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A compound containing nitrogen and hydrogen, often used as a fertilizer or found in wastewater",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.6847957596121037
+    },
+    {
+      "name": "land use type",
+      "label": "variable",
+      "description": "A classification of how land is utilized, such as agricultural, urban, or forested areas",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.614846421973377
+    },
+    {
+      "name": "river water",
+      "label": "location",
+      "description": "Water flowing through a river, which can be affected by various factors including pollution and climate change",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.5982771692150133
+    },
+    {
+      "name": "phosphorus",
+      "label": "variable",
+      "description": "A chemical element essential for plant growth, often found in fertilizers and wastewater",
+      "uuid": "47f4e7ac-b4ca-4ef9-824b-a36ea5510526",
+      "score": 0.6787253491197593
+    },
+    {
+      "name": "validation",
+      "label": "experiment",
+      "description": "The process of evaluating the accuracy or performance of a model or simulation",
+      "uuid": "b283a59c-0e9a-469c-baf4-591b64cd4671",
+      "score": 0.6222880333947233
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, often used to assess its suitability for human consumption or environmental health",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7247728649148466
+    },
+    {
+      "name": "calibration",
+      "label": "experiment",
+      "description": "The process of adjusting a model or simulation to match observed data or conditions",
+      "uuid": "7995f479-ea09-43f2-b48f-a3ea7e9a8bcd",
+      "score": 0.6086018943378342
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "Areas used for farming, cultivation, or livestock production",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6358947026929993
+    },
+    {
+      "name": "solids",
+      "label": "variable",
+      "description": "Substances that are not dissolved in water, often measured in terms of total suspended solids or total dissolved solids",
+      "uuid": "fad79bec-0672-4c71-8910-174c8985a1b9",
+      "score": 0.7099236437751992
+    },
+    {
+      "name": "water quality indicators",
+      "label": "variable",
+      "description": "Measurements or parameters used to assess the overall health or condition of water, such as pH, temperature, or nutrient levels",
+      "uuid": "f2130ca3-3587-4312-b6d4-138456b5ea78",
+      "score": 0.6426381658686053
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water, often affected by human activities and environmental factors",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.713643282944786
+    },
+    {
+      "name": "SWAT model",
+      "label": "model",
+      "description": "The Soil and Water Assessment Tool, a computer model used to simulate the impact of land management practices on water quality and quantity",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.58190126277324
+    }
+  ],
+  "(5031, 7678)": [
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A chemical compound used as an indicator of water quality, often measured in water bodies to assess pollution levels",
+      "uuid": "64d17528-29b4-4e2e-843a-7f7035bb5717",
+      "score": 0.624551513337754
+    },
+    {
+      "name": "Wind speed",
+      "label": "variable",
+      "description": "A measure of the speed of air movement, used in climate and weather studies",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6852307643604821
+    },
+    {
+      "name": "land use type",
+      "label": "variable",
+      "description": "A categorization of how land is utilized, such as agricultural, urban, or forested areas, influencing environmental and climate conditions",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6194799902352005
+    },
+    {
+      "name": "cloud cover",
+      "label": "variable",
+      "description": "The amount of sky covered by clouds, affecting climate and weather patterns",
+      "uuid": "70f5b8a3-3f52-467c-957c-7ca98e1c6184",
+      "score": 0.6258483474528448
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, an important factor in the water cycle and climate regulation",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.6928938436388992
+    },
+    {
+      "name": "snow melt",
+      "label": "variable",
+      "description": "The process by which snow turns into liquid water, often influencing water flow and climate patterns",
+      "uuid": "8e4f4500-e377-4b8c-8275-6194c4b7db8b",
+      "score": 0.6431561521885766
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "The extent of snow covering the ground, impacting climate, weather, and ecosystems",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.7214629309588546
+    },
+    {
+      "name": "U wind component",
+      "label": "variable",
+      "description": "A measure of the eastward component of wind, used in atmospheric and climate studies",
+      "uuid": "8097f57b-2c60-4b6c-81c1-c8cf61741948",
+      "score": 0.6353680233631767
+    },
+    {
+      "name": "meteorological variables",
+      "label": "variable",
+      "description": "Quantities used to describe weather and climate conditions, such as temperature, humidity, and wind",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5604548937175476
+    },
+    {
+      "name": "Suspended solids",
+      "label": "variable",
+      "description": "Small solid particles suspended in water, often used as an indicator of water quality",
+      "uuid": "9d8cb1dd-4b38-4b4e-8532-ab4eb72cd4ae",
+      "score": 0.7644893666983452
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, used to assess its suitability for various uses",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7161724466008919
+    },
+    {
+      "name": "calibration",
+      "label": "experiment",
+      "description": "The process of adjusting or configuring a model or instrument to ensure accurate measurements or predictions",
+      "uuid": "7995f479-ea09-43f2-b48f-a3ea7e9a8bcd",
+      "score": 0.6674405917273296
+    },
+    {
+      "name": "dew point temperature",
+      "label": "variable",
+      "description": "The temperature at which air becomes saturated with water vapor, leading to dew or frost formation",
+      "uuid": "731beb11-9418-40ec-8f2c-c4b320e8231a",
+      "score": 0.7881859511273664
+    },
+    {
+      "name": "climatic variables",
+      "label": "variable",
+      "description": "Quantities used to describe climate conditions, such as temperature, precipitation, and wind patterns",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6084078394466899
+    },
+    {
+      "name": "water quality indicators",
+      "label": "variable",
+      "description": "Quantities or characteristics used to assess the quality of water, such as pH, temperature, and nutrient levels",
+      "uuid": "f2130ca3-3587-4312-b6d4-138456b5ea78",
+      "score": 0.6114965865134355
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, often used to assess water availability and quality",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.549845735509577
+    },
+    {
+      "name": "monsoon season",
+      "label": "weather event",
+      "description": "A seasonal weather pattern characterized by significant rainfall and wind changes, often occurring in tropical regions",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6844040986921266
+    },
+    {
+      "name": "ERA Interim Reanalysis",
+      "label": "project",
+      "description": "A climate reanalysis project providing gridded climate data for research and forecasting purposes",
+      "uuid": "32658d24-ab47-41b5-9614-2becccde8e55",
+      "score": 0.7415227809478955
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, a research institute providing weather forecasts and climate data",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7775995222929591
+    }
+  ],
+  "(7223, 9776)": [
+    {
+      "name": "Ankinghat station",
+      "label": "platform",
+      "description": "A monitoring station located at Ankinghat, used to collect data on streamflow and water quality",
+      "uuid": "7b335954-929b-4568-a758-1640d15c2504",
+      "score": 0.5017448881089722
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, used to study climate trends and patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6556273227678567
+    },
+    {
+      "name": "monsoon season",
+      "label": "weather event",
+      "description": "A seasonal weather pattern characterized by significant rainfall and wind changes, occurring in certain regions of the world",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6773508045398297
+    },
+    {
+      "name": "agriculture",
+      "label": "land cover type",
+      "description": "A type of land use characterized by the cultivation of crops and livestock, often influencing local climate and water quality",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5606480107263334
+    },
+    {
+      "name": "built-up area",
+      "label": "land cover type",
+      "description": "A type of land use characterized by the presence of human-made structures such as buildings and roads, often influencing local climate and water quality",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5353851069218617
+    },
+    {
+      "name": "forest area",
+      "label": "land cover type",
+      "description": "A type of land use characterized by the presence of trees and other vegetation, often influencing local climate and water quality",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5327814830806548
+    },
+    {
+      "name": "water body",
+      "label": "location",
+      "description": "A body of water such as a river, lake, or ocean, often influencing local climate and water quality",
+      "uuid": "36ba4d54-d0de-4e8f-ba22-274d8413f77e",
+      "score": 0.5340092276752877
+    },
+    {
+      "name": "nitrate",
+      "label": "water quality parameter",
+      "description": "A measure of the concentration of nitrate in water, often used as an indicator of water quality",
+      "uuid": "85d20fe6-1c50-4b5b-b920-54102f9fcafd",
+      "score": 0.6391794673519111
+    },
+    {
+      "name": "ammonia",
+      "label": "water quality parameter",
+      "description": "A measure of the concentration of ammonia in water, often used as an indicator of water quality",
+      "uuid": "3165610f-56d5-4107-a6c2-cf05aff0bfdc",
+      "score": 0.5880870405479466
+    },
+    {
+      "name": "phosphorus",
+      "label": "water quality parameter",
+      "description": "A measure of the concentration of phosphorus in water, often used as an indicator of water quality",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.596467123911515
+    },
+    {
+      "name": "BOD",
+      "label": "water quality parameter",
+      "description": "A measure of the biochemical oxygen demand in water, often used as an indicator of water quality",
+      "uuid": "2ef34dc5-4d29-4820-963c-f830f46c0347",
+      "score": 0.758897114799963
+    },
+    {
+      "name": "LULC classes",
+      "label": "variable",
+      "description": "A classification system used to categorize different types of land use and land cover, often used in water quality modeling",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.6609627487874952
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, often used to assess the suitability of water for various uses",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7192316748803409
+    }
+  ],
+  "(9461, 11950)": [
+    {
+      "name": "DO",
+      "label": "variable",
+      "description": "Dissolved Oxygen, a measure of the amount of oxygen dissolved in water",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.7275663204882319
+    },
+    {
+      "name": "BOD",
+      "label": "variable",
+      "description": "Biochemical Oxygen Demand, a measure of the amount of oxygen required to break down organic matter in water",
+      "uuid": "2ef34dc5-4d29-4820-963c-f830f46c0347",
+      "score": 0.7682879359680272
+    },
+    {
+      "name": "Nitrate",
+      "label": "variable",
+      "description": "A type of nitrogen compound found in water, often used as an indicator of water quality",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.6299325098204706
+    },
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A type of nitrogen compound found in water, often used as an indicator of water quality",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.6494480888616576
+    },
+    {
+      "name": "total nitrogen",
+      "label": "variable",
+      "description": "A measure of the total amount of nitrogen in water",
+      "uuid": "dc748b93-e7d6-419d-a9f0-f370556d6f8e",
+      "score": 0.526653849845122
+    },
+    {
+      "name": "organic P",
+      "label": "variable",
+      "description": "A type of phosphorus compound found in water, often used as an indicator of water quality",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.516670676476038
+    },
+    {
+      "name": "inorganic P",
+      "label": "variable",
+      "description": "A type of phosphorus compound found in water, often used as an indicator of water quality",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5345238541173328
+    },
+    {
+      "name": "fertilizers",
+      "label": "variable",
+      "description": "Substances used in agricultural land to promote plant growth, which can contribute to water pollution",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.6068403632952816
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "Areas of land used for farming and agriculture, which can contribute to water pollution",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5748023615530308
+    }
+  ],
+  "(11499, 14206)": [
+    {
+      "name": "fertilizers",
+      "label": "instrument",
+      "description": "Chemical substances used in agricultural land to promote plant growth and increase crop yields",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.6826069522197592
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "Areas used for farming and cultivation, which can impact water quality through runoff and pollution",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5760547315265385
+    },
+    {
+      "name": "organic P",
+      "label": "variable",
+      "description": "A measure of the concentration of organic phosphorus in water, which can indicate nutrient pollution and eutrophication",
+      "uuid": "f2e83b12-406b-4adf-9607-a4858ded7587",
+      "score": 0.5384569976041722
+    },
+    {
+      "name": "inorganic P",
+      "label": "variable",
+      "description": "A measure of the concentration of inorganic phosphorus in water, which can indicate nutrient pollution and eutrophication",
+      "uuid": "569d3ff1-ce5d-4932-a4dd-3ab3d64e4c71",
+      "score": 0.5368904913113406
+    },
+    {
+      "name": "DO",
+      "label": "variable",
+      "description": "A measure of the concentration of dissolved oxygen in water, which can indicate water quality and aquatic health",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.7013176218935802
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "A measure of the flow rate of a river or stream, which can impact water quality and aquatic ecosystems",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5485303130135103
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the water or air, which can impact water quality, aquatic ecosystems, and climate change",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.6670165491712582
+    }
+  ],
+  "(13745, 16562)": [
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A type of nitrogenous waste that can be found in water, posing risks to aquatic ecosystems and human health",
+      "uuid": "64d17528-29b4-4e2e-843a-7f7035bb5717",
+      "score": 0.6004706859347382
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water within a stream or river, an important factor influencing water quality and aquatic ecosystems",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5362860899663263
+    },
+    {
+      "name": "DO",
+      "label": "variable",
+      "description": "Dissolved oxygen, a measure of the amount of oxygen dissolved in water, essential for aquatic life",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.7470910459523096
+    },
+    {
+      "name": "BOD",
+      "label": "variable",
+      "description": "Biochemical oxygen demand, a measure of the amount of oxygen required to break down organic matter in water",
+      "uuid": "2ef34dc5-4d29-4820-963c-f830f46c0347",
+      "score": 0.7755293415781821
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, influencing various physical, chemical, and biological processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6079649295115295
+    }
+  ],
+  "(16035, 18984)": [
+    {
+      "name": "nitrate concentration",
+      "label": "variable",
+      "description": "The concentration of nitrate in water, an important parameter for assessing water quality",
+      "uuid": "85d20fe6-1c50-4b5b-b920-54102f9fcafd",
+      "score": 0.6451053070029328
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, influencing chemical reactions and biological processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.59746153670481
+    },
+    {
+      "name": "Thames river",
+      "label": "location",
+      "description": "A major river in southern England, known for its significant role in the region's ecosystem and water supply",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.5558570279701924
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, influenced by precipitation, evaporation, and human activities",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.538997087501558
+    },
+    {
+      "name": "denitrification",
+      "label": "process",
+      "description": "The process by which microorganisms convert nitrate into nitrogen gas, reducing nitrate concentrations in water",
+      "uuid": "0d0de6a7-c340-4e6b-b01d-ccbb6e7fa913",
+      "score": 0.5897589131602874
+    },
+    {
+      "name": "Inorganic Phosphorus",
+      "label": "variable",
+      "description": "A form of phosphorus that is readily available for biological uptake, often contributing to eutrophication in water bodies",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5305131070608983
+    },
+    {
+      "name": "Michigan lake",
+      "label": "location",
+      "description": "A lake in the United States, used as a reference for studying the impacts of climate change on water quality",
+      "uuid": "cd08a8b0-966e-4a29-b157-b0173b5b84b8",
+      "score": 0.5200586253656763
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict the behavior of the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7229826435214546
+    },
+    {
+      "name": "land use land cover scenarios",
+      "label": "project",
+      "description": "A research initiative focused on studying the impacts of different land use and land cover changes on the environment",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5749901933004002
+    },
+    {
+      "name": "DO",
+      "label": "variable",
+      "description": "Dissolved oxygen, a measure of the amount of oxygen dissolved in water, essential for aquatic life",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.7470910459523096
+    }
+  ],
+  "(18503, 20732)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict future climate scenarios",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7054464229157145
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, influencing various environmental and climate processes",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6420406669273917
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, affected by climate change and land use changes",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5486315753345814
+    },
+    {
+      "name": "DO",
+      "label": "variable",
+      "description": "Dissolved Oxygen, a measure of the amount of oxygen dissolved in water, essential for aquatic life",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.742266708171907
+    },
+    {
+      "name": "LULC scenarios",
+      "label": "experiment",
+      "description": "Land Use Land Cover scenarios, used to study the impact of different land use and land cover changes on the environment",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.5797788808891572
+    },
+    {
+      "name": "agricultural land area",
+      "label": "variable",
+      "description": "The area of land used for agricultural purposes, influencing water quality and climate change",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5759437470776565
+    },
+    {
+      "name": "BOD",
+      "label": "variable",
+      "description": "Biochemical Oxygen Demand, a measure of the amount of oxygen required to break down organic matter in water",
+      "uuid": "2ef34dc5-4d29-4820-963c-f830f46c0347",
+      "score": 0.7682879359680272
+    },
+    {
+      "name": "ammonia concentration",
+      "label": "variable",
+      "description": "The amount of ammonia present in a water body, affecting its water quality",
+      "uuid": "3165610f-56d5-4107-a6c2-cf05aff0bfdc",
+      "score": 0.5659671949821917
+    },
+    {
+      "name": "built-up land area",
+      "label": "variable",
+      "description": "The area of land used for urban and built-up purposes, influencing water quality and climate change",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.506587214300392
+    },
+    {
+      "name": "nitrate",
+      "label": "variable",
+      "description": "A type of nutrient present in water, affecting its water quality",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.6252368614059319
+    },
+    {
+      "name": "TN",
+      "label": "variable",
+      "description": "Total Nitrogen, a measure of the total amount of nitrogen present in a water body",
+      "uuid": "dc748b93-e7d6-419d-a9f0-f370556d6f8e",
+      "score": 0.5152336169178878
+    },
+    {
+      "name": "organic P",
+      "label": "variable",
+      "description": "A type of phosphorus present in water, affecting its water quality",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5006164270202772
+    },
+    {
+      "name": "inorganic P",
+      "label": "variable",
+      "description": "A type of phosphorus present in water, affecting its water quality",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5260106657436584
+    },
+    {
+      "name": "TP",
+      "label": "variable",
+      "description": "Total Phosphorus, a measure of the total amount of phosphorus present in a water body",
+      "uuid": "569d3ff1-ce5d-4932-a4dd-3ab3d64e4c71",
+      "score": 0.5012143273943525
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "A country in East Asia, used as a reference for a study on the impact of agricultural land area on water quality",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.5499550618519647
+    },
+    {
+      "name": "land use land cover",
+      "label": "variable",
+      "description": "The way in which land is used and covered, influencing water quality and climate change",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6796487382672063
+    }
+  ],
+  "(20437, 22759)": [
+    {
+      "name": "organic P",
+      "label": "variable",
+      "description": "A type of phosphorus found in water, used as a water quality parameter",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5017596111821879
+    },
+    {
+      "name": "inorganic P",
+      "label": "variable",
+      "description": "A type of phosphorus found in water, used as a water quality parameter",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5255759063693141
+    },
+    {
+      "name": "TP",
+      "label": "variable",
+      "description": "Total phosphorus, a water quality parameter used to measure the amount of phosphorus in water",
+      "uuid": "569d3ff1-ce5d-4932-a4dd-3ab3d64e4c71",
+      "score": 0.5007149311958781
+    },
+    {
+      "name": "DO",
+      "label": "variable",
+      "description": "Dissolved oxygen, a water quality parameter used to measure the amount of oxygen in water",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.7407181560382755
+    },
+    {
+      "name": "LULC",
+      "label": "project",
+      "description": "Land Use and Land Cover, a project or analysis that studies the impact of land use on water quality",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.7128275152964839
+    },
+    {
+      "name": "agricultural land use",
+      "label": "platform",
+      "description": "A type of land use that can impact water quality, used as a platform for studying water quality parameters",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5281953329579271
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, used to determine its suitability for various uses",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.716161921972702
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water, used as a study location for water quality analysis",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.692864926225857
+    },
+    {
+      "name": "aquatic life",
+      "label": "variable",
+      "description": "The plants and animals that live in water, used as a variable to measure the impact of water quality on living organisms",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.517999390755974
+    }
+  ],
+  "(22357, 24852)": [
+    {
+      "name": "DO",
+      "label": "variable",
+      "description": "Dissolved Oxygen, a measure of the amount of oxygen dissolved in water, crucial for aquatic life",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.7429035888549036
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water, often serving as a habitat for aquatic life and influencing local ecosystems",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.7105193493732286
+    },
+    {
+      "name": "aquatic life",
+      "label": "variable",
+      "description": "Organisms that live in water, including plants, animals, and microorganisms, often used as an indicator of water quality",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.5407577437662361
+    },
+    {
+      "name": "LULC",
+      "label": "experiment",
+      "description": "Land Use Land Cover, a scenario or simulation representing changes in how land is used and covered",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.6892676204719106
+    },
+    {
+      "name": "climate",
+      "label": "experiment",
+      "description": "A scenario or simulation representing climate-related conditions or changes",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5186746447949163
+    },
+    {
+      "name": "BOD",
+      "label": "variable",
+      "description": "Biochemical Oxygen Demand, a measure of the amount of oxygen required to break down organic matter in water",
+      "uuid": "2ef34dc5-4d29-4820-963c-f830f46c0347",
+      "score": 0.7682879359680272
+    },
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A chemical compound that can be toxic to aquatic life in high concentrations",
+      "uuid": "64d17528-29b4-4e2e-843a-7f7035bb5717",
+      "score": 0.643471406276743
+    },
+    {
+      "name": "nitrate",
+      "label": "variable",
+      "description": "A chemical compound that can indicate water pollution and affect aquatic life",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.6216913880022592
+    },
+    {
+      "name": "TN",
+      "label": "variable",
+      "description": "Total Nitrogen, a measure of the total amount of nitrogen in water, which can impact aquatic life and water quality",
+      "uuid": "dc748b93-e7d6-419d-a9f0-f370556d6f8e",
+      "score": 0.5296149256697551
+    },
+    {
+      "name": "inorganic P",
+      "label": "variable",
+      "description": "Inorganic Phosphorus, a measure of the amount of phosphorus not bound to organic matter in water",
+      "uuid": "e848dbd1-b70a-4820-a630-98bd642ae357",
+      "score": 0.5157033455906587
+    }
+  ],
+  "(24419, 27470)": [
+    {
+      "name": "ammonia nitrogen",
+      "label": "variable",
+      "description": "A measure of the concentration of ammonia in water, which can be toxic to aquatic life",
+      "uuid": "3165610f-56d5-4107-a6c2-cf05aff0bfdc",
+      "score": 0.5432776671571394
+    },
+    {
+      "name": "eutrophication",
+      "label": "natural hazard",
+      "description": "A process by which a body of water becomes enriched in dissolved nutrients, leading to an overgrowth of aquatic plants and potentially harming aquatic life",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.7396847898009922
+    },
+    {
+      "name": "DO",
+      "label": "variable",
+      "description": "Dissolved oxygen, a measure of the amount of oxygen dissolved in water, essential for aquatic life",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.7470910459523096
+    },
+    {
+      "name": "BOD",
+      "label": "variable",
+      "description": "Biochemical oxygen demand, a measure of the amount of oxygen required to break down organic matter in water",
+      "uuid": "2ef34dc5-4d29-4820-963c-f830f46c0347",
+      "score": 0.7755293415781821
+    },
+    {
+      "name": "nitrate nitrogen",
+      "label": "variable",
+      "description": "A measure of the concentration of nitrate in water, which can contribute to eutrophication",
+      "uuid": "85d20fe6-1c50-4b5b-b920-54102f9fcafd",
+      "score": 0.6200525378490475
+    },
+    {
+      "name": "total nitrogen",
+      "label": "variable",
+      "description": "A measure of the total amount of nitrogen in water, including nitrate, ammonia, and other forms",
+      "uuid": "dc748b93-e7d6-419d-a9f0-f370556d6f8e",
+      "score": 0.5312119334368208
+    },
+    {
+      "name": "inorganic phosphorus",
+      "label": "variable",
+      "description": "A measure of the concentration of inorganic phosphorus compounds in water, which can contribute to eutrophication",
+      "uuid": "569d3ff1-ce5d-4932-a4dd-3ab3d64e4c71",
+      "score": 0.5337225612610166
+    },
+    {
+      "name": "total phosphorus",
+      "label": "variable",
+      "description": "A measure of the total amount of phosphorus in water, including organic and inorganic forms",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5030404065116764
+    },
+    {
+      "name": "climate change",
+      "label": "experiment",
+      "description": "A set of scenarios used to study the potential impacts of changes in the Earth's climate on various systems, including water quality",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5113532392470485
+    },
+    {
+      "name": "land use land cover change",
+      "label": "experiment",
+      "description": "A set of scenarios used to study the potential impacts of changes in land use and land cover on various systems, including water quality",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5758876717592024
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, home to the Ganga river and a diverse range of ecosystems",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6025741205715914
+    }
+  ],
+  "(26937, 30224)": [
+    {
+      "name": "Pandu river confluence",
+      "label": "location",
+      "description": "A meeting point of two rivers, the Ganga and another, near Kanpur, affecting local water quality and aquatic life",
+      "uuid": "cbd9ee43-24f8-45ab-a39b-2ff34be81c51",
+      "score": 0.5059353727255137
+    },
+    {
+      "name": "agricultural runoff",
+      "label": "variable",
+      "description": "The flow of water from agricultural lands, carrying pollutants and affecting water quality in the Ganga river",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5123567921793597
+    },
+    {
+      "name": "land use land cover change",
+      "label": "variable",
+      "description": "Changes in the way land is used, such as deforestation or urbanization, affecting the Ganga river's water quality and aquatic life",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5186928293194953
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, essential for aquatic life and human use",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7137897214696699
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict future climate change scenarios",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7013518514967184
+    },
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land Use Land Cover, a factor influencing water quality and aquatic life in the Ganga river",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.5659031747943308
+    },
+    {
+      "name": "DO",
+      "label": "variable",
+      "description": "Dissolved Oxygen, a critical parameter for aquatic life in the Ganga river",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.6440296202994568
+    },
+    {
+      "name": "India Meteorological Department",
+      "label": "provider",
+      "description": "A government agency responsible for weather forecasting and climate research in India",
+      "uuid": "8ab7b279-982f-41a8-876b-cfa120d066ec",
+      "score": 0.5219783442132403
+    },
+    {
+      "name": "National Remote Sensing Centre",
+      "label": "provider",
+      "description": "A government agency responsible for remote sensing and land use land cover mapping in India",
+      "uuid": "98ff6691-141a-4c99-8071-0398b3e5efe3",
+      "score": 0.6034295188829009
+    },
+    {
+      "name": "United States Geological Survey",
+      "label": "provider",
+      "description": "A government agency responsible for geological and hydrological research in the United States",
+      "uuid": "b84e7c7b-588b-4df7-8d6a-2010371dcf90",
+      "score": 0.6116845793623711
+    }
+  ],
+  "(29685, 30651)": [
+    {
+      "name": "license",
+      "label": "provider",
+      "description": "A legal document that grants permission to use data or software for a specific purpose",
+      "uuid": "3c937799-5ee5-4ea3-b7d5-418a625a7872",
+      "score": 0.5783788660345507
+    },
+    {
+      "name": "climate change scenarios",
+      "label": "experiment",
+      "description": "Simulations or predictions of future climate conditions, used to assess potential impacts and inform decision-making",
+      "uuid": "6062293a-f372-4e65-9bab-27355f0ebc59",
+      "score": 0.5142304572796096
+    }
+  ]
+}

@@ -1,0 +1,1331 @@
+{
+  "(0, 3260)": [
+    {
+      "name": "Alpine zone",
+      "label": "location",
+      "description": "A region of high elevation in the European Alps, characterized by unique ecosystems and sensitive to climate change",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.554861346263542
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon of altering weather patterns and ecosystems due to increased greenhouse gases and other human activities",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5693654526324498
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492758557127771
+    },
+    {
+      "name": "plant leaf litter",
+      "label": "variable",
+      "description": "Organic material from dead plants that decomposes and influences ecosystem nutrient cycles and soil properties",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5051089619753707
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of heat in the environment, influencing decomposition rates, ecosystem functioning, and climate patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5397004506134233
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in soil, affecting decomposition rates, plant growth, and ecosystem processes",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6347716499078285
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "A layer of snow on the ground, influencing soil insulation, ecosystem functioning, and climate patterns",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.668618595201182
+    },
+    {
+      "name": "biogeochemical cycling",
+      "label": "ocean circulation",
+      "description": "The movement of nutrients and elements through ecosystems, influenced by climate change and decomposition processes",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.6801144798923828
+    },
+    {
+      "name": "microclimate",
+      "label": "location",
+      "description": "A small, localized area with unique climate conditions, influenced by surface litter and other environmental factors",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.7342202887759265
+    }
+  ],
+  "(2737, 5983)": [
+    {
+      "name": "Alpine zone",
+      "label": "location",
+      "description": "A high-altitude region in the European Alps, characterized by unique ecosystems and climate conditions",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5645643655843756
+    },
+    {
+      "name": "Arctic climatic zone",
+      "label": "location",
+      "description": "A high-latitude region surrounding the North Pole, characterized by cold and icy climate conditions",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.6304402290817022
+    },
+    {
+      "name": "litter decomposition",
+      "label": "process",
+      "description": "The breakdown of organic matter, such as plant litter, into simpler components, influencing nutrient cycling and ecosystem succession",
+      "uuid": "560eac7e-d172-4a31-a659-a3e99d5f61ac",
+      "score": 0.5835079479598934
+    },
+    {
+      "name": "climate change",
+      "label": "phenomenon",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors, affecting ecosystems and biodiversity",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5744580652599113
+    },
+    {
+      "name": "microclimate",
+      "label": "variable",
+      "description": "A localized climate condition, differing from the surrounding environment, influenced by factors such as topography, vegetation, and soil properties",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.731604884578965
+    },
+    {
+      "name": "atmospheric temperatures",
+      "label": "variable",
+      "description": "The temperature of the air in the atmosphere, influencing climate conditions, weather patterns, and ecosystem processes",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.6580366761835622
+    },
+    {
+      "name": "precipitation anomalies",
+      "label": "weather event",
+      "description": "Unusual patterns of precipitation, deviating from the average or expected conditions, potentially impacting ecosystems and climate",
+      "uuid": "22a4ddef-90f0-4935-a13d-26b14723a956",
+      "score": 0.7058529724380459
+    },
+    {
+      "name": "atmospheric warming",
+      "label": "phenomenon",
+      "description": "An increase in the temperature of the atmosphere, resulting from climate change, affecting ecosystems, weather patterns, and global climate conditions",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.595834030534897
+    },
+    {
+      "name": "stochastic extreme climate events",
+      "label": "weather event",
+      "description": "Unpredictable and rare climate-related events, such as heatwaves, droughts, or heavy rainfall, potentially impacting ecosystems and human societies",
+      "uuid": "83e9ddee-5887-4758-a3ba-5cb17a7d4ed5",
+      "score": 0.5405593297585313
+    },
+    {
+      "name": "nutrient cycling",
+      "label": "process",
+      "description": "The movement and transformation of nutrients, such as carbon, nitrogen, and phosphorus, within ecosystems, influencing productivity, decomposition, and ecosystem health",
+      "uuid": "7a33a978-8ef6-4313-b489-c06cfc6d9cec",
+      "score": 0.715021299114376
+    },
+    {
+      "name": "biological and physicochemical processes",
+      "label": "process",
+      "description": "The interactions and transformations of living organisms, chemicals, and physical factors, influencing ecosystem functioning, nutrient cycling, and climate conditions",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.6451749848184243
+    }
+  ],
+  "(5542, 8350)": [
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, encompassing a wide range of climates and ecosystems",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7660398662939166
+    },
+    {
+      "name": "atmospheric temperatures",
+      "label": "variable",
+      "description": "The temperature of the air in the atmosphere, an important factor in climate and weather patterns",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.6612946468061088
+    },
+    {
+      "name": "Precipitation anomalies",
+      "label": "variable",
+      "description": "Unusual patterns or deviations in precipitation, such as droughts or excessive rainfall",
+      "uuid": "22a4ddef-90f0-4935-a13d-26b14723a956",
+      "score": 0.7056974168080017
+    },
+    {
+      "name": "snow albedo",
+      "label": "variable",
+      "description": "The reflectivity of snow, which affects the amount of solar radiation absorbed by the Earth's surface",
+      "uuid": "03a7c97e-71e2-469e-8af9-bbe80ffedb1a",
+      "score": 0.7414402896424116
+    },
+    {
+      "name": "cloud radiation",
+      "label": "variable",
+      "description": "The transfer of energy through the atmosphere via clouds, influencing climate and weather patterns",
+      "uuid": "3487d350-a5a5-43d9-a60d-c1407dd2f0ce",
+      "score": 0.6343261342423316
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "The extent and depth of snow on the ground, an important factor in climate and ecosystems",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.7175814465318882
+    },
+    {
+      "name": "subalpine and alpine zones",
+      "label": "location",
+      "description": "High-altitude regions in mountainous areas, characterized by unique climates and ecosystems",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.6114624051839426
+    },
+    {
+      "name": "dead organic matter",
+      "label": "variable",
+      "description": "Decaying plant and animal material, which plays a crucial role in nutrient cycles and ecosystems",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.5734395622391872
+    },
+    {
+      "name": "soil organic matter",
+      "label": "variable",
+      "description": "The accumulation of decomposed organic material in soil, influencing soil fertility and ecosystem health",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.6836759923666157
+    },
+    {
+      "name": "large soil fauna",
+      "label": "variable",
+      "description": "Organisms such as insects and worms that break down organic matter in soil, contributing to decomposition and ecosystem processes",
+      "uuid": "83da5ac6-5981-4929-9e19-f46522c1babe",
+      "score": 0.599174493537745
+    },
+    {
+      "name": "decomposition",
+      "label": "process",
+      "description": "The breakdown of dead organic matter into simpler components, releasing nutrients and influencing ecosystem health",
+      "uuid": "560eac7e-d172-4a31-a659-a3e99d5f61ac",
+      "score": 0.6991643585655414
+    },
+    {
+      "name": "chemical reduction",
+      "label": "process",
+      "description": "The alteration of organic matter through chemical reactions, contributing to decomposition and ecosystem processes",
+      "uuid": "9c2f3bee-4629-4607-9962-12fe919594a0",
+      "score": 0.5088083783865944
+    }
+  ],
+  "(7847, 10714)": [
+    {
+      "name": "photodegradation",
+      "label": "process",
+      "description": "A biotic mediation process that breaks down organic matter through the action of light",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.5064035639693985
+    },
+    {
+      "name": "soil organic matter (SOM)",
+      "label": "variable",
+      "description": "The pool of organic matter in the soil, formed through the decomposition of plant litter and other organic materials",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.6604676807109385
+    },
+    {
+      "name": "ecosystem",
+      "label": "location",
+      "description": "A community of living and non-living components that interact with each other in a specific environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6726691267715063
+    },
+    {
+      "name": "plant litter",
+      "label": "variable",
+      "description": "Dead plant material that falls to the ground and is decomposed by microorganisms",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5038901994822872
+    },
+    {
+      "name": "Alpine",
+      "label": "location",
+      "description": "A mountainous region with a unique ecosystem and climate",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5969267228556521
+    },
+    {
+      "name": "carbon pools",
+      "label": "variable",
+      "description": "The amount of carbon stored in different components of an ecosystem, such as live biomass, dead plant mass, and soil organic matter",
+      "uuid": "a85012cc-766c-43d3-958e-5c72ebada9d3",
+      "score": 0.572142680094806
+    },
+    {
+      "name": "nutrient recycling",
+      "label": "process",
+      "description": "The process by which nutrients are released from decomposing organic matter and made available to plants",
+      "uuid": "7a33a978-8ef6-4313-b489-c06cfc6d9cec",
+      "score": 0.5704546649268648
+    },
+    {
+      "name": "biological nitrogen fixation",
+      "label": "process",
+      "description": "The process by which microorganisms convert atmospheric nitrogen into a form that can be used by plants",
+      "uuid": "7e98327b-6e9c-4524-aee8-d3fa33a3d299",
+      "score": 0.6311211854025718
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "Changes in the global climate, including rising temperatures and altered precipitation patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5960442544083762
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6197709146988026
+    },
+    {
+      "name": "moisture",
+      "label": "variable",
+      "description": "The amount of water present in the environment",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.5483453133902013
+    },
+    {
+      "name": "litter quality",
+      "label": "variable",
+      "description": "The characteristics of plant litter that affect its decomposition rate, such as its chemical composition and structure",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5641820179452731
+    }
+  ],
+  "(10193, 13086)": [
+    {
+      "name": "litter decomposition",
+      "label": "process",
+      "description": "The process by which organic matter, such as plant litter, breaks down into simpler components, influenced by factors like climate, soil community, and plant litter quality",
+      "uuid": "560eac7e-d172-4a31-a659-a3e99d5f61ac",
+      "score": 0.5559874548308623
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The average atmospheric conditions in a particular region, including temperature, moisture, and other factors that influence the environment",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5008413554664979
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in a given environment, affecting various ecological processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5956631854791236
+    },
+    {
+      "name": "plant litter quality",
+      "label": "variable",
+      "description": "The characteristics of plant litter that affect its decomposition rate, such as nutrient content and chemical composition",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5541821259323323
+    },
+    {
+      "name": "alpine climate",
+      "label": "location",
+      "description": "A high-altitude climate characterized by distinct microclimate patterns, snowdrift, and snowmelt timing, influencing vegetation patterns and decomposition rates",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5137825845847762
+    },
+    {
+      "name": "snowpack",
+      "label": "variable",
+      "description": "The amount and duration of snow cover in a given area, affecting soil temperature, moisture, and decomposition rates",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.5374857860891956
+    },
+    {
+      "name": "plant community structure",
+      "label": "variable",
+      "description": "The composition and organization of plant species in a given area, influencing decomposition rates and other ecological processes",
+      "uuid": "f42c849c-7113-4c69-a01e-52ebc5e7b44d",
+      "score": 0.6315124583252911
+    },
+    {
+      "name": "soil temperature",
+      "label": "variable",
+      "description": "The temperature of the soil, influencing decomposition rates and other ecological processes",
+      "uuid": "b29ee2f4-b2ce-4b19-b8e3-2d74d071549b",
+      "score": 0.663845772595328
+    },
+    {
+      "name": "organic matter decomposition",
+      "label": "process",
+      "description": "The breakdown of organic matter into simpler components, influenced by factors like climate, soil community, and plant litter quality",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.5843454042130313
+    }
+  ],
+  "(12523, 15706)": [
+    {
+      "name": "organic matter decomposition",
+      "label": "variable",
+      "description": "The process by which organic substances are broken down into simpler forms of matter, releasing nutrients back into the environment",
+      "uuid": "560eac7e-d172-4a31-a659-a3e99d5f61ac",
+      "score": 0.6044085576864677
+    },
+    {
+      "name": "moisture",
+      "label": "variable",
+      "description": "The amount of water present in a substance or environment, influencing various ecological processes",
+      "uuid": "bbe2ea34-8842-4a9f-9b0b-95dd3c71857f",
+      "score": 0.5335468870560838
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in a substance or environment, affecting numerous biological and chemical reactions",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5885789638683232
+    },
+    {
+      "name": "wet habitats",
+      "label": "location",
+      "description": "Areas characterized by high levels of moisture, such as marshes, swamps, or bogs, supporting unique communities of plants and animals",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.5948084546319685
+    },
+    {
+      "name": "alpine slopes",
+      "label": "location",
+      "description": "Mountainous regions with steep slopes, typically found in high-altitude areas with unique climatic and geological conditions",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5106842956386224
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic particles, supporting plant growth and influencing ecosystem processes",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6399395880149533
+    },
+    {
+      "name": "micro-scale climate",
+      "label": "variable",
+      "description": "The local climatic conditions that exist at a small spatial scale, such as within a specific habitat or ecosystem",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.6820757180035956
+    },
+    {
+      "name": "field capacity",
+      "label": "variable",
+      "description": "The maximum amount of water that a soil can retain, often used as a measure of soil moisture",
+      "uuid": "fb27a60c-d682-4850-b42c-58b60245a14a",
+      "score": 0.735510617588937
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "A layer of snow covering the ground, influencing soil temperature, moisture, and other environmental factors",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.6799769242433202
+    },
+    {
+      "name": "distinct microclimate",
+      "label": "variable",
+      "description": "A unique set of climatic conditions that exist within a specific, localized area, such as under a snowpack",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.6663045555025644
+    }
+  ],
+  "(15228, 18089)": [
+    {
+      "name": "snowpack",
+      "label": "natural hazard",
+      "description": "A layer of snow that can affect soil temperatures, microbial activity, and decomposition processes",
+      "uuid": "abc70f23-f386-41da-b1ad-43cd7aebe7c4",
+      "score": 0.5020537510409978
+    },
+    {
+      "name": "decomposers",
+      "label": "variable",
+      "description": "Microorganisms that break down organic matter in soils",
+      "uuid": "560eac7e-d172-4a31-a659-a3e99d5f61ac",
+      "score": 0.5166372950348587
+    },
+    {
+      "name": "alpine",
+      "label": "location",
+      "description": "A high-altitude, mountainous region with unique climate and soil conditions",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5620632434615919
+    },
+    {
+      "name": "tundra ecosystem",
+      "label": "location",
+      "description": "A type of ecosystem found in Arctic and sub-Arctic regions with unique climate and soil conditions",
+      "uuid": "46ecf46f-a710-4589-82b2-34aebf35c3c0",
+      "score": 0.6431929988916328
+    }
+  ],
+  "(17610, 20656)": [
+    {
+      "name": "alpine tundra",
+      "label": "location",
+      "description": "A type of ecosystem found in high-altitude mountainous regions, characterized by low temperatures, short growing seasons, and limited vegetation",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.7342973487501967
+    },
+    {
+      "name": "snowmelt",
+      "label": "weather event",
+      "description": "The process of snow melting, often triggered by rising temperatures, and resulting in a release of nutrients and water",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6033976139927757
+    },
+    {
+      "name": "soil temperature",
+      "label": "variable",
+      "description": "The temperature of the soil, influencing microbial activity, decomposition rates, and nutrient availability",
+      "uuid": "b29ee2f4-b2ce-4b19-b8e3-2d74d071549b",
+      "score": 0.6569990096141973
+    },
+    {
+      "name": "nitrogen",
+      "label": "variable",
+      "description": "A essential nutrient for plant growth, often limiting in alpine ecosystems, and influenced by microbial activity and decomposition processes",
+      "uuid": "ed7c506e-b18e-4a93-ac03-4bdfe119b72f",
+      "score": 0.6357374769090316
+    },
+    {
+      "name": "atmospheric warming",
+      "label": "natural hazard",
+      "description": "The increase in global temperatures due to climate change, affecting ecosystems, microbial communities, and decomposition processes",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5945166870338678
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, influencing microbial activity, decomposition rates, and nutrient availability",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6206851863358496
+    },
+    {
+      "name": "decomposition",
+      "label": "process",
+      "description": "The breakdown of organic matter into simpler compounds, releasing nutrients and influencing ecosystem functioning",
+      "uuid": "560eac7e-d172-4a31-a659-a3e99d5f61ac",
+      "score": 0.7075108196453426
+    },
+    {
+      "name": "atmospheric CO2 concentrations",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, influencing plant growth, microbial activity, and ecosystem functioning",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5835759167737359
+    },
+    {
+      "name": "alpine grassland",
+      "label": "location",
+      "description": "A type of ecosystem found in high-altitude mountainous regions, characterized by grasses and other herbaceous plants",
+      "uuid": "944d9d09-4317-4e9a-9aa5-dc4282be406e",
+      "score": 0.6136406363139641
+    }
+  ],
+  "(20218, 23345)": [
+    {
+      "name": "litter quality variables",
+      "label": "variable",
+      "description": "Characteristics of leaf litter that influence its decomposition rate, such as nitrogen and phosphorus concentrations>",
+      "uuid": "50153029-9bc0-42bb-86ba-edcb02149d28",
+      "score": 0.576332821657767
+    },
+    {
+      "name": "litter quality characteristics",
+      "label": "variable",
+      "description": "Properties of leaf litter that affect its decomposability, including chemical and physical traits>",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5836381896730665
+    },
+    {
+      "name": "alpine grassland",
+      "label": "location",
+      "description": "A type of ecosystem found in high-altitude mountainous regions, characterized by grasses and other herbaceous plants>",
+      "uuid": "944d9d09-4317-4e9a-9aa5-dc4282be406e",
+      "score": 0.6183030339945412
+    },
+    {
+      "name": "alpine ecosystem",
+      "label": "location",
+      "description": "A high-altitude ecosystem found in mountainous regions, characterized by unique plant and animal communities>",
+      "uuid": "944d9d09-4317-4e9a-9aa5-dc4282be406e",
+      "score": 0.6651513982461994
+    },
+    {
+      "name": "deciduous shrubs",
+      "label": "variable",
+      "description": "A type of shrub that loses its leaves seasonally>",
+      "uuid": "b7de16ed-c090-449b-81c1-44fe5b1195f0",
+      "score": 0.5281571653027296
+    },
+    {
+      "name": "evergreen shrubs",
+      "label": "variable",
+      "description": "A type of shrub that keeps its leaves year-round>",
+      "uuid": "16a7b4d6-e47f-4753-8803-f72edc4e1c5e",
+      "score": 0.5404117606496245
+    }
+  ],
+  "(22853, 25689)": [
+    {
+      "name": "deciduous shrubs",
+      "label": "variable",
+      "description": "A type of shrub that loses its leaves seasonally, often found in high alpine vegetation",
+      "uuid": "b7de16ed-c090-449b-81c1-44fe5b1195f0",
+      "score": 0.5464462124074483
+    },
+    {
+      "name": "evergreen shrubs",
+      "label": "variable",
+      "description": "A type of shrub that keeps its leaves year-round, often found in high alpine vegetation",
+      "uuid": "16a7b4d6-e47f-4753-8803-f72edc4e1c5e",
+      "score": 0.5551076065177079
+    },
+    {
+      "name": "leaf litter quality",
+      "label": "variable",
+      "description": "The characteristics of plant leaves that affect their decomposition rate",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5314077887764712
+    },
+    {
+      "name": "carbon investment per unit leaf area",
+      "label": "variable",
+      "description": "The amount of carbon invested in a given area of leaf tissue",
+      "uuid": "21174afa-96bd-4506-973e-502bc7b91be9",
+      "score": 0.5247668028152719
+    },
+    {
+      "name": "leaf nitrogen concentration",
+      "label": "variable",
+      "description": "The amount of nitrogen present in plant leaves",
+      "uuid": "dfd5bcb9-0312-4b62-a9b5-dbb1a81d78f5",
+      "score": 0.5765273937324685
+    },
+    {
+      "name": "montane-alpine ecotone",
+      "label": "location",
+      "description": "A transition zone between montane and alpine vegetation",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.5106303864767585
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6818941316610769
+    },
+    {
+      "name": "alpine",
+      "label": "location",
+      "description": "A high-altitude region, often characterized by unique plant species and adaptations",
+      "uuid": "944d9d09-4317-4e9a-9aa5-dc4282be406e",
+      "score": 0.5522414510211456
+    },
+    {
+      "name": "subalpine",
+      "label": "location",
+      "description": "A region of vegetation located below the alpine zone",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.6417361504479728
+    },
+    {
+      "name": "forest",
+      "label": "location",
+      "description": "A region of dense tree cover",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5801770289570748
+    },
+    {
+      "name": "global model scenarios",
+      "label": "model",
+      "description": "Computer simulations used to predict future environmental changes",
+      "uuid": "c15e05c9-9dc4-4712-98ba-a05d61bdf1c1",
+      "score": 0.5011625633705414
+    },
+    {
+      "name": "mean air temperature",
+      "label": "variable",
+      "description": "The average temperature of the air in a given region",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.5667615820737631
+    },
+    {
+      "name": "winter snow cover",
+      "label": "variable",
+      "description": "The amount of snow present in a given region during the winter months",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.6418425703491312
+    },
+    {
+      "name": "snowmelt gradient",
+      "label": "location",
+      "description": "A gradual change in the timing and amount of snowmelt in a given region",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.5110329094605615
+    },
+    {
+      "name": "growing season length",
+      "label": "variable",
+      "description": "The amount of time during which plants can grow and thrive in a given region",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.7250145132284146
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of plant growth and development",
+      "uuid": "3f45aadf-ec7c-43a1-a008-b24ca139837a",
+      "score": 0.5545070233599895
+    },
+    {
+      "name": "elevated levels of CO2",
+      "label": "variable",
+      "description": "Increased concentrations of carbon dioxide in the atmosphere",
+      "uuid": "b53939ae-1264-409d-8434-3bb3d22b2848",
+      "score": 0.5452674766651977
+    },
+    {
+      "name": "warming",
+      "label": "variable",
+      "description": "An increase in temperature, often used to describe climate change",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6336771832230046
+    },
+    {
+      "name": "plant physiological alterations",
+      "label": "variable",
+      "description": "Changes in plant physiology and function in response to environmental changes",
+      "uuid": "c6f81edb-b683-4356-93e6-5852766a5ee8",
+      "score": 0.5067235313909623
+    },
+    {
+      "name": "treeline ecotone",
+      "label": "location",
+      "description": "A transition zone between tree-covered and treeless regions",
+      "uuid": "d11df264-e70d-456c-9223-07f34e80b352",
+      "score": 0.5326493113344843
+    }
+  ],
+  "(25226, 27999)": [
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas with a significant impact on Earth's climate, influencing temperature and plant growth",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6449090339640459
+    },
+    {
+      "name": "treeline ecotone",
+      "label": "location",
+      "description": "The transitional zone between the subalpine and alpine ecosystems, characterized by a mix of tree and shrub species",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.5380718456300306
+    },
+    {
+      "name": "alpine vegetation",
+      "label": "variable",
+      "description": "Plant species and communities found in high-altitude, treeless regions, adapted to harsh climate conditions",
+      "uuid": "944d9d09-4317-4e9a-9aa5-dc4282be406e",
+      "score": 0.5245259143557072
+    },
+    {
+      "name": "European alpine landscapes",
+      "label": "location",
+      "description": "Mountainous regions in Europe, characterized by unique plant and animal communities",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5247251014494754
+    },
+    {
+      "name": "subalpine meadows",
+      "label": "location",
+      "description": "Grassland ecosystems found in mountainous regions, below the tree line, with a mix of grasses and wildflowers",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.5648298843378847
+    },
+    {
+      "name": "Arctic tundra",
+      "label": "location",
+      "description": "A treeless, cold region found in the Arctic, characterized by low-growing vegetation and permafrost",
+      "uuid": "46ecf46f-a710-4589-82b2-34aebf35c3c0",
+      "score": 0.7512216845201866
+    },
+    {
+      "name": "specific vegetation canopy structure",
+      "label": "variable",
+      "description": "The arrangement and characteristics of plant leaves and stems, influencing energy exchange and microclimate",
+      "uuid": "abbba948-9b77-4e19-a855-49a7fbc17696",
+      "score": 0.5836170348957855
+    },
+    {
+      "name": "net radiation input",
+      "label": "variable",
+      "description": "The amount of energy received by the Earth's surface from the sun, influencing temperature and climate",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.6387921482798153
+    },
+    {
+      "name": "decomposition rates",
+      "label": "variable",
+      "description": "The rate at which organic matter breaks down, influenced by factors such as temperature, moisture, and litter quality",
+      "uuid": "560eac7e-d172-4a31-a659-a3e99d5f61ac",
+      "score": 0.5619410027010955
+    },
+    {
+      "name": "litter",
+      "label": "variable",
+      "description": "Dead plant material, such as leaves and branches, that falls to the ground and influences ecosystem processes",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5462855091359327
+    }
+  ],
+  "(27510, 30484)": [
+    {
+      "name": "Alpine",
+      "label": "location",
+      "description": "A mountainous region in Europe, known for its unique ecosystem and sensitivity to climate change",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5864420397210308
+    },
+    {
+      "name": "warming-induced increase",
+      "label": "weather event",
+      "description": "An event or phenomenon caused by the increase in temperature due to global warming",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5671326323587085
+    },
+    {
+      "name": "decomposition rates",
+      "label": "variable",
+      "description": "The rate at which organic matter breaks down into simpler components, often influenced by environmental factors",
+      "uuid": "560eac7e-d172-4a31-a659-a3e99d5f61ac",
+      "score": 0.5911217439654112
+    },
+    {
+      "name": "litter",
+      "label": "variable",
+      "description": "Dead plant material, such as leaves or branches, that falls to the ground and decomposes",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5368253750332319
+    },
+    {
+      "name": "deciduous shrubs",
+      "label": "variable",
+      "description": "A type of plant that loses its leaves seasonally",
+      "uuid": "b7de16ed-c090-449b-81c1-44fe5b1195f0",
+      "score": 0.5545659962218995
+    },
+    {
+      "name": "carbon",
+      "label": "variable",
+      "description": "A chemical element that is a key component of all living things",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.6133047233492913
+    },
+    {
+      "name": "nitrogen",
+      "label": "variable",
+      "description": "A chemical element that is essential for plant growth and development",
+      "uuid": "ed7c506e-b18e-4a93-ac03-4bdfe119b72f",
+      "score": 0.6890865822225277
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The top layer of the Earth's surface, composed of a mixture of mineral and organic matter",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6180168016853606
+    },
+    {
+      "name": "trophic interactions",
+      "label": "variable",
+      "description": "The interactions between different species in an ecosystem, including predator-prey relationships and competition for resources",
+      "uuid": "bd46a0bf-5c06-48af-a6c9-022417b1fffd",
+      "score": 0.6065671467602861
+    }
+  ],
+  "(29938, 32857)": [
+    {
+      "name": "trophic interactions",
+      "label": "variable",
+      "description": "The interactions between different species within an ecosystem, including predation, competition, and symbiosis, that affect the flow of energy and nutrients",
+      "uuid": "bd46a0bf-5c06-48af-a6c9-022417b1fffd",
+      "score": 0.5900713191112594
+    },
+    {
+      "name": "plant community structure",
+      "label": "variable",
+      "description": "The composition and organization of plant species within a community, influenced by factors such as climate, soil, and herbivory",
+      "uuid": "f42c849c-7113-4c69-a01e-52ebc5e7b44d",
+      "score": 0.64288470000756
+    },
+    {
+      "name": "organic matter",
+      "label": "variable",
+      "description": "The remains of dead plants and animals, which can influence soil fertility, decomposition rates, and ecosystem processes",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.6988456188786097
+    },
+    {
+      "name": "arctic",
+      "label": "location",
+      "description": "A polar region characterized by cold temperatures, short growing seasons, and unique ecosystem processes",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7224435008790544
+    },
+    {
+      "name": "alpine vegetation zone",
+      "label": "location",
+      "description": "A high-elevation region characterized by unique plant species and adaptations to harsh environmental conditions",
+      "uuid": "944d9d09-4317-4e9a-9aa5-dc4282be406e",
+      "score": 0.5173090800175946
+    },
+    {
+      "name": "subalpine grasslands",
+      "label": "location",
+      "description": "A region of grasslands located below the tree line in mountainous areas, often characterized by unique plant and animal species",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.5732836136374793
+    },
+    {
+      "name": "tundra",
+      "label": "location",
+      "description": "A treeless region found in Arctic and sub-Arctic zones, characterized by low temperatures, short growing seasons, and unique ecosystem processes",
+      "uuid": "46ecf46f-a710-4589-82b2-34aebf35c3c0",
+      "score": 0.7016796679348674
+    }
+  ],
+  "(32386, 35159)": [
+    {
+      "name": "arctic landscape",
+      "label": "location",
+      "description": "A region located in the northernmost part of the Earth, characterized by cold temperatures, ice, and unique ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7104144444178735
+    },
+    {
+      "name": "tundra",
+      "label": "location",
+      "description": "A type of ecosystem found in the Arctic and sub-Arctic regions, characterized by low vegetation and permafrost",
+      "uuid": "46ecf46f-a710-4589-82b2-34aebf35c3c0",
+      "score": 0.7055650605558681
+    },
+    {
+      "name": "wind",
+      "label": "weather event",
+      "description": "A natural movement of air in the atmosphere, influencing climate and weather patterns",
+      "uuid": "a628333f-aea2-42cf-b930-c8c859ee0547",
+      "score": 0.5636434309667216
+    },
+    {
+      "name": "snow",
+      "label": "weather event",
+      "description": "A form of precipitation that occurs when water vapor in the atmosphere freezes into ice crystals",
+      "uuid": "b51b3708-a662-4cf1-bf13-e67f36b001c4",
+      "score": 0.6803058120931874
+    },
+    {
+      "name": "plant litter",
+      "label": "variable",
+      "description": "Dead plant material that falls to the ground, playing a role in nutrient cycling and ecosystem processes",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5144233380018943
+    },
+    {
+      "name": "nutrient transfer",
+      "label": "variable",
+      "description": "The movement of nutrients from one location to another, influencing ecosystem productivity and health",
+      "uuid": "7a33a978-8ef6-4313-b489-c06cfc6d9cec",
+      "score": 0.5285484805726522
+    },
+    {
+      "name": "Alpine",
+      "label": "location",
+      "description": "A mountainous region in Europe, characterized by unique ecosystems and geological features",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5782743015749628
+    },
+    {
+      "name": "soil biotic processes",
+      "label": "variable",
+      "description": "The interactions and activities of living organisms in soil, influencing decomposition, nutrient cycling, and ecosystem health",
+      "uuid": "b69052b9-69ab-4294-aa04-5ad639d1b31d",
+      "score": 0.5009810219001193
+    },
+    {
+      "name": "macrofauna",
+      "label": "variable",
+      "description": "Large animals that live in soil, such as earthworms and insects, playing a role in ecosystem engineering and nutrient cycling",
+      "uuid": "83da5ac6-5981-4929-9e19-f46522c1babe",
+      "score": 0.7144243053281052
+    },
+    {
+      "name": "microfauna",
+      "label": "variable",
+      "description": "Small animals that live in soil, such as bacteria and fungi, playing a role in decomposition and nutrient cycling",
+      "uuid": "53231d78-471d-4afe-a435-b577b7d53b17",
+      "score": 0.6509125523642956
+    },
+    {
+      "name": "earthworms",
+      "label": "variable",
+      "description": "A type of soil animal that plays a role in ecosystem engineering and nutrient cycling",
+      "uuid": "517e2978-223e-42a2-b889-9c60f7099859",
+      "score": 0.6051494614074542
+    },
+    {
+      "name": "soil structure",
+      "label": "variable",
+      "description": "The physical arrangement of soil particles and pores, influencing water and air movement, and root growth",
+      "uuid": "aa25235a-596f-4504-89e1-4c625275700d",
+      "score": 0.633693982694801
+    },
+    {
+      "name": "decomposition",
+      "label": "variable",
+      "description": "The process of breaking down organic matter into simpler components, influenced by soil biotic processes and environmental factors",
+      "uuid": "560eac7e-d172-4a31-a659-a3e99d5f61ac",
+      "score": 0.6830188078870923
+    }
+  ],
+  "(34702, 37725)": [
+    {
+      "name": "basidiocarp fruiting bodies",
+      "label": "variable",
+      "description": "The fruiting bodies of fungi, which can contribute to decomposition",
+      "uuid": "14fa5360-320c-4d54-9bf6-9871a4b308d7",
+      "score": 0.5080732569203833
+    },
+    {
+      "name": "alpine growing season",
+      "label": "location",
+      "description": "The period of plant growth in alpine environments",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5073584366358292
+    },
+    {
+      "name": "wet habitats",
+      "label": "location",
+      "description": "Areas with high moisture levels",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.5354642873410438
+    },
+    {
+      "name": "landscape-related patterns",
+      "label": "variable",
+      "description": "Patterns of decomposition that vary with landscape features",
+      "uuid": "3b6fe940-7383-4bae-b436-fc487723bbcf",
+      "score": 0.5484038364022974
+    },
+    {
+      "name": "soil microclimate characteristics",
+      "label": "variable",
+      "description": "The climate conditions in soil",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.52727670888098
+    },
+    {
+      "name": "earthworms",
+      "label": "variable",
+      "description": "Organisms that contribute to decomposition",
+      "uuid": "517e2978-223e-42a2-b889-9c60f7099859",
+      "score": 0.587634506088038
+    },
+    {
+      "name": "subalpine soils",
+      "label": "location",
+      "description": "Soils found in subalpine environments",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.5008118317133938
+    },
+    {
+      "name": "soil community composition and structure",
+      "label": "variable",
+      "description": "The composition and structure of soil communities",
+      "uuid": "f42c849c-7113-4c69-a01e-52ebc5e7b44d",
+      "score": 0.5531647451486555
+    },
+    {
+      "name": "freeze-thaw events",
+      "label": "weather event",
+      "description": "Events in which soil freezes and thaws, contributing to decomposition",
+      "uuid": "24b052b6-5996-496d-9e91-1fdbda5897da",
+      "score": 0.5784149472753
+    },
+    {
+      "name": "Alpine",
+      "label": "location",
+      "description": "A mountainous region with unique climate and soil conditions",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5462529822744819
+    },
+    {
+      "name": "abiotic degradation",
+      "label": "variable",
+      "description": "The breakdown of material by non-biological processes",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.5297567463560281
+    },
+    {
+      "name": "soil carbon and nitrogen turnover",
+      "label": "variable",
+      "description": "The cycling of carbon and nitrogen in soil",
+      "uuid": "b401549e-8b91-4863-98c2-4bd1a3bee262",
+      "score": 0.5106961322076787
+    },
+    {
+      "name": "snow",
+      "label": "variable",
+      "description": "Precipitation in the form of snow",
+      "uuid": "09c21315-faba-446c-b060-136705972347",
+      "score": 0.7002016626357296
+    },
+    {
+      "name": "ridges",
+      "label": "location",
+      "description": "Long, narrow elevations of land",
+      "uuid": "97298feb-6991-4d68-8337-177460e436ad",
+      "score": 0.6047497561847179
+    },
+    {
+      "name": "seasonal cycles",
+      "label": "variable",
+      "description": "The cycles of change that occur with the seasons",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5066254370979936
+    },
+    {
+      "name": "snow cover thickness",
+      "label": "variable",
+      "description": "The depth of snow cover",
+      "uuid": "e227cc96-e19c-414f-a352-64628352696d",
+      "score": 0.637107830150234
+    },
+    {
+      "name": "diurnal swings in temperature",
+      "label": "variable",
+      "description": "The changes in temperature that occur over the course of a day",
+      "uuid": "f75f9011-903e-4757-9fcf-fefac2599b59",
+      "score": 0.5139932621513557
+    }
+  ],
+  "(37239, 40174)": [
+    {
+      "name": "alpine zone",
+      "label": "location",
+      "description": "A high-altitude region in mountainous areas, characterized by unique climate conditions and vegetation>",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.5597050472103375
+    },
+    {
+      "name": "soils",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of mineral and organic matter, and supporting plant growth>",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6468564112366183
+    },
+    {
+      "name": "freeze-thaw events",
+      "label": "weather event",
+      "description": "Recurring events where soil temperatures fluctuate above and below freezing, influencing soil structure and organic matter decomposition>",
+      "uuid": "f7849055-fa5c-437c-a8c6-08c7db3a3b0a",
+      "score": 0.587654567511242
+    },
+    {
+      "name": "microbial communities",
+      "label": "variable",
+      "description": "Groups of microorganisms living in a particular environment, playing a crucial role in decomposition and ecosystem processes>",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.5403442716308605
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "A layer of snow covering the ground, influencing soil temperature, moisture, and ecosystem processes>",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.6779231010841297
+    },
+    {
+      "name": "temperature fluctuations",
+      "label": "variable",
+      "description": "Changes in temperature, affecting various biological and ecological processes>",
+      "uuid": "7013bdc9-519d-42b6-827c-4b8013fbb726",
+      "score": 0.5861140807883735
+    },
+    {
+      "name": "total solar radiation",
+      "label": "variable",
+      "description": "The total amount of solar energy received at the Earth's surface, influencing climate, ecosystems, and decomposition processes>",
+      "uuid": "6b3be650-6625-40b5-9b40-9e7c8a9fd336",
+      "score": 0.6287958062418344
+    },
+    {
+      "name": "UV-B light",
+      "label": "variable",
+      "description": "A component of solar radiation, playing a role in photodegradation and ecosystem processes>",
+      "uuid": "90e7fd13-2da2-4ba6-9e0c-dbecdf7c2215",
+      "score": 0.5340013739847067
+    },
+    {
+      "name": "earthworms",
+      "label": "variable",
+      "description": "Invertebrate organisms that contribute to soil turnover, aeration, and ecosystem functioning>",
+      "uuid": "517e2978-223e-42a2-b889-9c60f7099859",
+      "score": 0.6521257753315985
+    },
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "An increase in global temperatures, leading to changes in climate patterns and ecosystem processes>",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6789427444645828
+    },
+    {
+      "name": "atmospheric temperatures",
+      "label": "variable",
+      "description": "The temperature of the air surrounding the Earth, influencing climate, weather, and ecosystem processes>",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.6587805555385363
+    },
+    {
+      "name": "hydrology",
+      "label": "variable",
+      "description": "The study of the movement, distribution, and quality of water on Earth, influencing ecosystem processes and climate patterns>",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.5055534157275037
+    },
+    {
+      "name": "stochastic freeze events",
+      "label": "weather event",
+      "description": "Unpredictable freeze events, potentially affecting ecosystem processes and plant growth>",
+      "uuid": "4539272a-f041-4fc6-883d-4c4c5bef1683",
+      "score": 0.5020654990000729
+    },
+    {
+      "name": "plant growing season",
+      "label": "variable",
+      "description": "The period of the year when plants are actively growing, influenced by climate, temperature, and weather patterns>",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6403828467029034
+    }
+  ],
+  "(39594, 42331)": [
+    {
+      "name": "atmospheric temperature rise",
+      "label": "variable",
+      "description": "The increase in atmospheric temperature due to global warming, affecting various biological and ecological processes",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.5458965326589479
+    },
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "The overall increase in global temperatures, leading to changes in climate patterns and ecosystem dynamics",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6701862957566581
+    },
+    {
+      "name": "alpine ecosystems",
+      "label": "location",
+      "description": "High-altitude ecosystems found in mountainous regions, characterized by unique plant and animal species adapted to harsh conditions",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.6632199542024836
+    },
+    {
+      "name": "nutrient cycling",
+      "label": "variable",
+      "description": "The process by which nutrients are exchanged between the environment, organisms, and the atmosphere, essential for ecosystem functioning",
+      "uuid": "7a33a978-8ef6-4313-b489-c06cfc6d9cec",
+      "score": 0.7248562206668552
+    },
+    {
+      "name": "decomposition process",
+      "label": "variable",
+      "description": "The process by which organic matter is broken down into simpler components, releasing nutrients and influencing ecosystem dynamics",
+      "uuid": "560eac7e-d172-4a31-a659-a3e99d5f61ac",
+      "score": 0.7027642161653337
+    },
+    {
+      "name": "global warming",
+      "label": "weather event",
+      "description": "The overall increase in global temperatures, leading to changes in climate patterns and ecosystem dynamics",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5791002362820609
+    },
+    {
+      "name": "atmospheric CO2 concentrations",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, influencing plant growth and ecosystem functioning",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5800165048193939
+    },
+    {
+      "name": "UV-B radiation",
+      "label": "variable",
+      "description": "A type of ultraviolet radiation that can damage plant tissues and influence ecosystem dynamics",
+      "uuid": "90e7fd13-2da2-4ba6-9e0c-dbecdf7c2215",
+      "score": 0.515088163551321
+    },
+    {
+      "name": "soil moisture availability",
+      "label": "variable",
+      "description": "The amount of water available in the soil, influencing plant growth and ecosystem functioning",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6135402760721352
+    },
+    {
+      "name": "leaf litter quality",
+      "label": "variable",
+      "description": "The characteristics of leaf litter that influence its decomposition rate and nutrient release",
+      "uuid": "afc54d28-de94-4674-9528-39f00bf74d6d",
+      "score": 0.5241687900076052
+    },
+    {
+      "name": "soil fauna community composition",
+      "label": "variable",
+      "description": "The combination of soil-dwelling organisms in a given area, influencing ecosystem dynamics and nutrient cycling",
+      "uuid": "53231d78-471d-4afe-a435-b577b7d53b17",
+      "score": 0.5025250539006474
+    },
+    {
+      "name": "carbon cycling",
+      "label": "variable",
+      "description": "The process by which carbon is exchanged between the environment, organisms, and the atmosphere, essential for ecosystem functioning",
+      "uuid": "7a33a978-8ef6-4313-b489-c06cfc6d9cec",
+      "score": 0.5455889149087095
+    },
+    {
+      "name": "Alpine environments",
+      "label": "location",
+      "description": "High-altitude ecosystems found in mountainous regions, characterized by unique plant and animal species adapted to harsh conditions",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.6340438981754057
+    }
+  ]
+}

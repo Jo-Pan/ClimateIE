@@ -1,0 +1,184 @@
+{
+  "(0, 3358)": [
+    {
+      "name": "inertial measurement unit (IMU)",
+      "label": "instrument",
+      "description": "A sensor used to measure the acceleration, orientation, and rotation of an object, often used in navigation and localization systems",
+      "uuid": "16268fa7-9efd-403d-9bcb-fc622d535ff6",
+      "score": 0.8138225013332727
+    },
+    {
+      "name": "ultrasonic sensing measurements",
+      "label": "instrument",
+      "description": "A type of sensor used for underground positioning and tracking, mentioned as an earlier approach to localization",
+      "uuid": "8aeaf436-641d-4d65-9568-6b4de1ff2c74",
+      "score": 0.5485686398809423
+    },
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "The Global Positioning System, a network of satellites used for navigation and localization, which is not usable in underground environments",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.7234526703547778
+    }
+  ],
+  "(2783, 5900)": [
+    {
+      "name": "inertial measurement unit",
+      "label": "instrument",
+      "description": "A device used to measure the acceleration, orientation, and rotation of an object",
+      "uuid": "16268fa7-9efd-403d-9bcb-fc622d535ff6",
+      "score": 0.7262523160899939
+    },
+    {
+      "name": "unified world coordinate system",
+      "label": "variable",
+      "description": "A coordinate system used to represent the position and orientation of objects in a unified framework",
+      "uuid": "e0a2edbb-8a94-4f47-918a-fe9f93aba5f4",
+      "score": 0.5368021082018091
+    }
+  ],
+  "(5342, 8483)": [
+    {
+      "name": "3D laser",
+      "label": "instrument",
+      "description": "A device used to create high-resolution 3D models of environments by emitting laser light and measuring the time-of-flight or phase shift of the returned signal",
+      "uuid": "ff309a1a-606d-456b-82b6-5b3c182f66ff",
+      "score": 0.535582468383381
+    },
+    {
+      "name": "LiDAR",
+      "label": "instrument",
+      "description": "Light Detection and Ranging, a remote sensing technology used to create high-resolution 3D models of environments",
+      "uuid": "6182be8b-d006-4327-994d-6f27c7e4d9a9",
+      "score": 0.6881664709823211
+    }
+  ],
+  "(10408, 13672)": [
+    {
+      "name": "LiDAR",
+      "label": "instrument",
+      "description": "A remote sensing technology used to create high-resolution 3D point clouds>",
+      "uuid": "6182be8b-d006-4327-994d-6f27c7e4d9a9",
+      "score": 0.6597886704098881
+    }
+  ],
+  "(17983, 20334)": [
+    {
+      "name": "LiDAR",
+      "label": "instrument",
+      "description": "A remote sensing technology that uses laser light to create high-resolution 3D models of objects and environments",
+      "uuid": "6182be8b-d006-4327-994d-6f27c7e4d9a9",
+      "score": 0.6902149620898257
+    },
+    {
+      "name": "3D LiDAR",
+      "label": "instrument",
+      "description": "A type of LiDAR technology that captures 3D point cloud data, used for applications such as mapping, navigation, and object recognition",
+      "uuid": "7166c458-f935-4bd9-a322-d92830cf0c33",
+      "score": 0.5406193856284738
+    }
+  ],
+  "(19793, 22230)": [
+    {
+      "name": "3D laser",
+      "label": "instrument",
+      "description": "A device used to capture 3D point cloud data for mapping and localization",
+      "uuid": "ff309a1a-606d-456b-82b6-5b3c182f66ff",
+      "score": 0.5183036480988362
+    }
+  ],
+  "(26886, 29973)": [
+    {
+      "name": "laser radar",
+      "label": "instrument",
+      "description": "A device used for measuring distances and creating point clouds or other data, often used in mapping and navigation applications",
+      "uuid": "a3ce2cfb-5488-4301-83c2-64bbc090c397",
+      "score": 0.6076660302093609
+    }
+  ],
+  "(29506, 32120)": [
+    {
+      "name": "laser radar",
+      "label": "instrument",
+      "description": "A type of sensor that uses laser light to measure the distance and properties of objects in its environment",
+      "uuid": "a3ce2cfb-5488-4301-83c2-64bbc090c397",
+      "score": 0.5985904542992958
+    },
+    {
+      "name": "3D LiDAR",
+      "label": "instrument",
+      "description": "A type of sensor that uses laser light to create high-resolution, three-dimensional models of its environment",
+      "uuid": "6182be8b-d006-4327-994d-6f27c7e4d9a9",
+      "score": 0.5882004147432994
+    }
+  ],
+  "(34083, 37007)": [
+    {
+      "name": "world coordinate system",
+      "label": "location",
+      "description": "A reference system used to define the position and orientation of objects in a three-dimensional space",
+      "uuid": "14b19e68-0fb3-43b1-a102-537c4e33c338",
+      "score": 0.5760106255951462
+    }
+  ],
+  "(43169, 46129)": [
+    {
+      "name": "unmanned operation experiment and development platform",
+      "label": "platform",
+      "description": "A testbed for developing and evaluating autonomous systems, such as the scraper",
+      "uuid": "841ec82d-fdea-466c-8436-68ed93d6d6de",
+      "score": 0.5300207642473246
+    },
+    {
+      "name": "pressure",
+      "label": "variable",
+      "description": "A measure of the force exerted on a surface, in this case, a parameter monitored by the scraper",
+      "uuid": "1c3fa118-3130-4951-ada1-755fcf0776f9",
+      "score": 0.6117515373750758
+    }
+  ],
+  "(50405, 53253)": [
+    {
+      "name": "3D laser",
+      "label": "instrument",
+      "description": "A device used for scanning and measuring the environment in three dimensions, often used in robotics and surveying applications",
+      "uuid": "ff309a1a-606d-456b-82b6-5b3c182f66ff",
+      "score": 0.5018212868801779
+    },
+    {
+      "name": "IMU",
+      "label": "instrument",
+      "description": "An inertial measurement unit, a device used for measuring the acceleration, orientation, and rotation of an object",
+      "uuid": "16268fa7-9efd-403d-9bcb-fc622d535ff6",
+      "score": 0.8142252326996161
+    }
+  ],
+  "(57792, 60848)": [
+    {
+      "name": "three-dimensional laser information",
+      "label": "variable",
+      "description": "Data collected from laser scanners, used to create detailed 3D models of environments or objects",
+      "uuid": "c41e423b-6343-4380-9b6b-e74b2a8485ba",
+      "score": 0.5103751383846259
+    }
+  ],
+  "(65357, 68471)": [
+    {
+      "name": "IMU",
+      "label": "instrument",
+      "description": "An Inertial Measurement Unit, a device used to measure the acceleration, roll, pitch, and yaw of a vehicle or robot",
+      "uuid": "16268fa7-9efd-403d-9bcb-fc622d535ff6",
+      "score": 0.7957702836042483
+    }
+  ],
+  "(67930, 69430)": [
+    {
+      "name": "IMU",
+      "label": "instrument",
+      "description": "An inertial measurement unit, a device used to measure the acceleration, orientation, and rotation of an object",
+      "uuid": "16268fa7-9efd-403d-9bcb-fc622d535ff6",
+      "score": 0.8142943624291045
+    }
+  ]
+}

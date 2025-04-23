@@ -1,0 +1,935 @@
+{
+  "(0, 3163)": [
+    {
+      "name": "fungi",
+      "label": "pathogen",
+      "description": "A type of microorganism that can cause disease in plants",
+      "uuid": "3546cb0a-27a2-4914-85cf-1774b5c4ed19",
+      "score": 0.6095133049061106
+    },
+    {
+      "name": "populations",
+      "label": "variable",
+      "description": "The number of individuals of a particular species or group in a given area",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6060796320207035
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, that supports plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6221167127513813
+    },
+    {
+      "name": "pesticides",
+      "label": "chemical",
+      "description": "Substances used to control pests, such as insects, weeds, and fungi, that can harm crops",
+      "uuid": "59a203f9-f818-42a6-8d00-4301385cafc3",
+      "score": 0.6705241787157497
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in soil or water, which can affect plant growth",
+      "uuid": "3b54403e-25a1-43cc-97ac-7c14e73bda96",
+      "score": 0.6235388196548816
+    },
+    {
+      "name": "crop yield",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area, which can be affected by various factors such as environmental conditions, genetic factors, and management practices",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.5872851898091833
+    },
+    {
+      "name": "agricultural lands",
+      "label": "location",
+      "description": "Areas of land used for farming, cultivation, and livestock production",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6771157633149509
+    },
+    {
+      "name": "hydrogen cyanide",
+      "label": "chemical",
+      "description": "A toxic substance produced by some bacteria, including Bacillus, that can be used to control pests",
+      "uuid": "af157837-bdbd-4a9a-b24e-6a79adfef57f",
+      "score": 0.6599553551213394
+    },
+    {
+      "name": "adaptation",
+      "label": "process",
+      "description": "The ability of plants to adjust to changing environmental conditions, such as climate change, and to survive and thrive in new environments",
+      "uuid": "cf3d1728-7606-4561-a0dd-116b4dbec21f",
+      "score": 0.5399415759318985
+    }
+  ],
+  "(2626, 5151)": [
+    {
+      "name": "crop yield",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area, often used as a measure of agricultural productivity",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.5960155220706075
+    },
+    {
+      "name": "adaptation",
+      "label": "variable",
+      "description": "The ability of plants to adjust to changing environmental conditions, such as temperature, drought, or salinity",
+      "uuid": "cf3d1728-7606-4561-a0dd-116b4dbec21f",
+      "score": 0.50840586827403
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, and supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.62568215144693
+    },
+    {
+      "name": "fungi",
+      "label": "provider",
+      "description": "A group of microorganisms that can form symbiotic relationships with plants, promoting plant growth and protecting plants from diseases",
+      "uuid": "3546cb0a-27a2-4914-85cf-1774b5c4ed19",
+      "score": 0.5814602272644707
+    }
+  ],
+  "(4681, 7229)": [
+    {
+      "name": "fertilizers",
+      "label": "instrument",
+      "description": "Substances added to soil to promote plant growth and fertility, typically containing nutrients such as nitrogen, phosphorus, and potassium",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.6936712757153026
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, supporting plant growth and filtering water",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6322328171841383
+    },
+    {
+      "name": "phosphorus",
+      "label": "variable",
+      "description": "A chemical element essential for plant growth, often found in fertilizers and soil, playing a critical role in photosynthesis and plant development",
+      "uuid": "47f4e7ac-b4ca-4ef9-824b-a36ea5510526",
+      "score": 0.7310995609683054
+    },
+    {
+      "name": "pesticides",
+      "label": "instrument",
+      "description": "Chemical substances used to control pests, including insects, weeds, and diseases, often applied in agriculture to protect crops",
+      "uuid": "59a203f9-f818-42a6-8d00-4301385cafc3",
+      "score": 0.69913410626194
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required by plants for growth and development, including macronutrients like nitrogen, phosphorus, and potassium, and micronutrients like iron and zinc",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.642728943745992
+    },
+    {
+      "name": "nitrogen",
+      "label": "variable",
+      "description": "A chemical element essential for plant growth, often found in fertilizers and soil, playing a critical role in amino acid synthesis and plant development",
+      "uuid": "ed7c506e-b18e-4a93-ac03-4bdfe119b72f",
+      "score": 0.6962324825225505
+    }
+  ],
+  "(6813, 9117)": [
+    {
+      "name": "proteins",
+      "label": "variable",
+      "description": "Complex molecules made up of amino acids, essential for various functions in living organisms",
+      "uuid": "a4f1da9a-eda0-4240-90a0-074d58a713ba",
+      "score": 0.6279907150781627
+    },
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A compound composed of nitrogen and hydrogen, which can be used by plants as a source of nitrogen",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.6603024061459165
+    },
+    {
+      "name": "nitrogen",
+      "label": "variable",
+      "description": "A chemical element essential for plant growth, which can be fixed from the atmosphere by certain microorganisms",
+      "uuid": "ed7c506e-b18e-4a93-ac03-4bdfe119b72f",
+      "score": 0.666561196071749
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, which supports plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6244123137589555
+    },
+    {
+      "name": "iron",
+      "label": "variable",
+      "description": "A chemical element essential for various biological processes, including plant growth",
+      "uuid": "60992683-3183-4510-9fce-e4611115315c",
+      "score": 0.6383914578095432
+    },
+    {
+      "name": "crop productivity",
+      "label": "variable",
+      "description": "The yield of crops per unit area, which can be influenced by various factors including soil moisture and microorganisms",
+      "uuid": "5c6df811-bebf-4dae-a70f-f49fece3fa1e",
+      "score": 0.5893230114830322
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A period of abnormally low rainfall, which can impact plant growth and crop productivity",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6375300934821082
+    }
+  ],
+  "(8697, 11223)": [
+    {
+      "name": "drought stress",
+      "label": "natural hazard",
+      "description": "A condition that occurs when plants experience water deficit, leading to reduced growth and productivity",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.564701921513753
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of a mixture of minerals, organic matter, water, and air, supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6334505122542179
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required by plants for growth, such as nitrogen, phosphorus, and potassium",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.6371747684091131
+    },
+    {
+      "name": "potassium",
+      "label": "variable",
+      "description": "A chemical element essential for plant growth, involved in various physiological processes",
+      "uuid": "8af17fd3-7c42-4698-9d60-e154ece5aebe",
+      "score": 0.635929276851777
+    },
+    {
+      "name": "crop productivity",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area, influenced by factors such as soil moisture and nutrient availability",
+      "uuid": "5c6df811-bebf-4dae-a70f-f49fece3fa1e",
+      "score": 0.571795730479374
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy, affected by drought stress",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6185396535040687
+    },
+    {
+      "name": "transpiration rate",
+      "label": "variable",
+      "description": "The rate at which water is lost by plants through evaporation, influenced by drought stress",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.6070745146459644
+    }
+  ],
+  "(10875, 13090)": [
+    {
+      "name": "Ca ++",
+      "label": "variable",
+      "description": "Calcium ion, an essential nutrient for plant growth and development, involved in various physiological processes",
+      "uuid": "7367c08c-304f-4ce7-b716-975f835ba711",
+      "score": 0.5017403413889401
+    },
+    {
+      "name": "Mg ++",
+      "label": "variable",
+      "description": "Magnesium ion, an important nutrient for plant growth, involved in photosynthesis, ion homeostasis, and enzyme activity",
+      "uuid": "79f18259-bd76-4c7b-bd18-cbd2edafd24f",
+      "score": 0.5277699255774025
+    },
+    {
+      "name": "drought stress",
+      "label": "weather event",
+      "description": "A condition of water deficiency that can affect plant growth and development",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5617687336250948
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacting plant growth and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6986041504627837
+    },
+    {
+      "name": "Fe",
+      "label": "variable",
+      "description": "Iron, an essential nutrient for plant growth, involved in various physiological processes",
+      "uuid": "60992683-3183-4510-9fce-e4611115315c",
+      "score": 0.6313795798504102
+    },
+    {
+      "name": "hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the ability of a material, such as plant roots, to conduct water",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.7091261404959477
+    }
+  ],
+  "(12588, 15042)": [
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water shortage and impacting plant growth and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7057549924986203
+    },
+    {
+      "name": "plants",
+      "label": "location",
+      "description": "Organisms that grow in soil, requiring water, sunlight, and nutrients to survive",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.5645297690221565
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6264893657666983
+    },
+    {
+      "name": "chlorophylls a and b",
+      "label": "variable",
+      "description": "Pigments that play a crucial role in photosynthesis, absorbing light energy and transferring it to other molecules",
+      "uuid": "5e3999ec-d864-43fd-8d84-bd23630c405f",
+      "score": 0.6128571008291767
+    },
+    {
+      "name": "carotenoid",
+      "label": "variable",
+      "description": "A pigment that plays a role in photosynthesis and protects plants from excessive light energy",
+      "uuid": "3e801e91-897e-4528-8f4c-4ec527ad33cc",
+      "score": 0.522639708703653
+    }
+  ],
+  "(14615, 16962)": [
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall that leads to water scarcity, affecting plants, animals, and humans",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6893556877540403
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic particles, water, and air, supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6315930192615079
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of organic compounds",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6780330322718482
+    },
+    {
+      "name": "pigment synthesis",
+      "label": "variable",
+      "description": "The process by which plants produce pigments such as chlorophyll and carotenoids, essential for photosynthesis and plant growth",
+      "uuid": "3e801e91-897e-4528-8f4c-4ec527ad33cc",
+      "score": 0.5801477363839829
+    },
+    {
+      "name": "chlorophylls a and b",
+      "label": "variable",
+      "description": "Pigments found in plants, algae, and cyanobacteria, essential for photosynthesis",
+      "uuid": "7989eae1-8ea3-4039-af0c-9130de145449",
+      "score": 0.6495156810285392
+    },
+    {
+      "name": "carotenoid",
+      "label": "variable",
+      "description": "A class of pigments found in plants, algae, and bacteria, involved in photosynthesis and protecting plants from excessive light energy",
+      "uuid": "3e801e91-897e-4528-8f4c-4ec527ad33cc",
+      "score": 0.5453968136690329
+    }
+  ],
+  "(16524, 18819)": [
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and stress in plants",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6854863467782504
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of organic compounds",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6780330322718482
+    },
+    {
+      "name": "Rubisco enzymes",
+      "label": "protein",
+      "description": "Enzymes that play a crucial role in the fixation of CO2 during photosynthesis",
+      "uuid": "e2f64d50-da88-4d6a-abfa-4b0b7e99312e",
+      "score": 0.5646536293024564
+    },
+    {
+      "name": "pigments",
+      "label": "variable",
+      "description": "Colored compounds found in plants, involved in photosynthesis and other cellular processes",
+      "uuid": "3e801e91-897e-4528-8f4c-4ec527ad33cc",
+      "score": 0.6611192485606082
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required by plants for growth and development, including macronutrients and micronutrients",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.643058220289016
+    },
+    {
+      "name": "pathogen",
+      "label": "natural hazard",
+      "description": "An organism that causes disease in plants, including bacteria, fungi, and viruses",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5437327200216501
+    }
+  ],
+  "(18434, 21008)": [
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on plant growth",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6948979785835815
+    },
+    {
+      "name": "saline soil",
+      "label": "location",
+      "description": "A type of soil with high salt concentrations, which can negatively impact plant growth and agricultural productivity",
+      "uuid": "3b54403e-25a1-43cc-97ac-7c14e73bda96",
+      "score": 0.5310878913508201
+    },
+    {
+      "name": "salinity",
+      "label": "natural hazard",
+      "description": "The presence of high salt concentrations in soil or water, which can harm plants and affect agricultural productivity",
+      "uuid": "3b54403e-25a1-43cc-97ac-7c14e73bda96",
+      "score": 0.611118475297965
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "Areas of land used for farming and agricultural purposes",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6250583692491826
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants convert light energy into chemical energy",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6735907441651934
+    },
+    {
+      "name": "yield",
+      "label": "variable",
+      "description": "The amount of produce or product that a plant or crop produces",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.5302755253474734
+    },
+    {
+      "name": "K +",
+      "label": "variable",
+      "description": "Potassium ions, which are essential for plant growth and development",
+      "uuid": "8af17fd3-7c42-4698-9d60-e154ece5aebe",
+      "score": 0.5586398283551963
+    },
+    {
+      "name": "NO \u2212 3",
+      "label": "variable",
+      "description": "Nitrate ions, which are essential for plant growth and development",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.5780745734472924
+    }
+  ],
+  "(20580, 23021)": [
+    {
+      "name": "saline soil",
+      "label": "environmental condition",
+      "description": "Soil with high levels of salt, which can be detrimental to plant growth",
+      "uuid": "3b54403e-25a1-43cc-97ac-7c14e73bda96",
+      "score": 0.5106796447143191
+    },
+    {
+      "name": "N, P, K, Ca, Mg, S, Mn, Cu, and Fe",
+      "label": "nutrients",
+      "description": "Essential elements required by plants for growth and development",
+      "uuid": "2473e776-4449-4351-9835-1507532ae60e",
+      "score": 0.5245046121564894
+    },
+    {
+      "name": "photosynthetic pigments",
+      "label": "compound",
+      "description": "Pigments such as chlorophyll and carotenoids that are involved in photosynthesis",
+      "uuid": "3e801e91-897e-4528-8f4c-4ec527ad33cc",
+      "score": 0.5613354008085459
+    },
+    {
+      "name": "proteins",
+      "label": "compound",
+      "description": "Molecules composed of amino acids, which are important for plant growth and development",
+      "uuid": "a4f1da9a-eda0-4240-90a0-074d58a713ba",
+      "score": 0.5345332541696319
+    }
+  ],
+  "(22610, 25222)": [
+    {
+      "name": "pigments",
+      "label": "variable",
+      "description": "Substances in plants responsible for their color, and their concentration can be affected by environmental factors such as salinity",
+      "uuid": "3e801e91-897e-4528-8f4c-4ec527ad33cc",
+      "score": 0.620816171102891
+    },
+    {
+      "name": "soil salinity",
+      "label": "natural hazard",
+      "description": "A condition where the soil contains high levels of salts, which can negatively impact plant growth and crop yields",
+      "uuid": "3b54403e-25a1-43cc-97ac-7c14e73bda96",
+      "score": 0.6441159508752164
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic particles, and supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6213776190851308
+    },
+    {
+      "name": "agro-chemicals",
+      "label": "instrument",
+      "description": "Chemicals used in agriculture to control pests, diseases, and weeds, and to improve crop yields",
+      "uuid": "afd084b9-1f4c-4eb5-a58e-689a360e7abf",
+      "score": 0.6639086799111719
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water or soil, which can affect plant growth and crop yields",
+      "uuid": "3b54403e-25a1-43cc-97ac-7c14e73bda96",
+      "score": 0.6248741856088392
+    },
+    {
+      "name": "trace metals",
+      "label": "variable",
+      "description": "Metals that are present in small amounts in the environment, such as copper, manganese, and zinc, and can be toxic to plants and animals",
+      "uuid": "f2d6aa01-5070-4147-bae1-4b2cad2c3987",
+      "score": 0.6895564810121261
+    },
+    {
+      "name": "Cu",
+      "label": "variable",
+      "description": "Copper, a trace metal that can accumulate in soil and water and be toxic to plants and animals",
+      "uuid": "78fb5691-136d-40f8-a834-6e6f4cd768ff",
+      "score": 0.543791028005717
+    },
+    {
+      "name": "Zn",
+      "label": "variable",
+      "description": "Zinc, a trace metal that can accumulate in soil and water and be toxic to plants and animals",
+      "uuid": "ab12b3d6-2cbf-4a5a-a410-1d23afe906d8",
+      "score": 0.5789464190532478
+    }
+  ],
+  "(24807, 27365)": [
+    {
+      "name": "Cu",
+      "label": "variable",
+      "description": "A chemical element and a common heavy metal pollutant in soil and water",
+      "uuid": "78fb5691-136d-40f8-a834-6e6f4cd768ff",
+      "score": 0.5547684827588305
+    },
+    {
+      "name": "Zn",
+      "label": "variable",
+      "description": "A chemical element and a common heavy metal pollutant in soil and water",
+      "uuid": "ab12b3d6-2cbf-4a5a-a410-1d23afe906d8",
+      "score": 0.6099561378684659
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of earth in which plants grow, composed of mineral and organic matter",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6065583136007396
+    },
+    {
+      "name": "water",
+      "label": "location",
+      "description": "A natural resource essential for life, affected by pollution and climate change",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6078748446974762
+    },
+    {
+      "name": "agro-chemicals",
+      "label": "instrument",
+      "description": "Chemicals used in agriculture, such as fertilizers and pesticides, which can impact the environment",
+      "uuid": "afd084b9-1f4c-4eb5-a58e-689a360e7abf",
+      "score": 0.6602128706861057
+    },
+    {
+      "name": "microorganisms",
+      "label": "instrument",
+      "description": "Microscopic living organisms, such as bacteria, that can interact with their environment and affect ecological processes",
+      "uuid": "ed1b3fa6-173d-476c-9b35-c57335c0a473",
+      "score": 0.5069330202855376
+    },
+    {
+      "name": "heavy metal-contaminated soil",
+      "label": "location",
+      "description": "Soil that has been polluted with heavy metals, posing a risk to plant growth and ecosystem health",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6113909904952073
+    },
+    {
+      "name": "heavy metal-polluted soil",
+      "label": "location",
+      "description": "Soil that has been contaminated with heavy metals, affecting plant growth and ecosystem health",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.5996530082185981
+    },
+    {
+      "name": "P",
+      "label": "variable",
+      "description": "Phosphorus, a chemical element essential for plant growth",
+      "uuid": "47f4e7ac-b4ca-4ef9-824b-a36ea5510526",
+      "score": 0.683298085267151
+    },
+    {
+      "name": "Fe",
+      "label": "variable",
+      "description": "Iron, a chemical element essential for plant growth",
+      "uuid": "60992683-3183-4510-9fce-e4611115315c",
+      "score": 0.6562818563694576
+    },
+    {
+      "name": "Cr",
+      "label": "variable",
+      "description": "Chromium, a heavy metal pollutant that can affect plant growth",
+      "uuid": "9ab53717-17f1-4259-b425-0eed19c31884",
+      "score": 0.6086707604482956
+    },
+    {
+      "name": "Pb",
+      "label": "variable",
+      "description": "Lead, a heavy metal pollutant that can affect plant growth",
+      "uuid": "6fe420c1-2285-4031-babe-f0243c59a617",
+      "score": 0.5822550490610339
+    },
+    {
+      "name": "As",
+      "label": "variable",
+      "description": "Arsenic, a heavy metal pollutant that can affect plant growth",
+      "uuid": "fa892a9e-523b-424e-bf02-1a8d1e618985",
+      "score": 0.5771611595258953
+    }
+  ],
+  "(26984, 29579)": [
+    {
+      "name": "heavy metal-polluted soil",
+      "label": "location",
+      "description": "Soil contaminated with high levels of heavy metals, posing risks to plant growth and ecosystems",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6154401811756987
+    },
+    {
+      "name": "photosynthetic pigments",
+      "label": "variable",
+      "description": "Pigments such as chlorophyll, carotenoids, and phycobiliproteins that play a crucial role in photosynthesis",
+      "uuid": "3e801e91-897e-4528-8f4c-4ec527ad33cc",
+      "score": 0.5800507265157996
+    },
+    {
+      "name": "crop yield",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area of land",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.5698572868922489
+    },
+    {
+      "name": "Cr",
+      "label": "variable",
+      "description": "Chromium, a heavy metal that can be toxic to plants at high concentrations",
+      "uuid": "9ab53717-17f1-4259-b425-0eed19c31884",
+      "score": 0.616809698798244
+    },
+    {
+      "name": "Zn",
+      "label": "variable",
+      "description": "Zinc, an essential micronutrient for plant growth",
+      "uuid": "2473e776-4449-4351-9835-1507532ae60e",
+      "score": 0.5184990547676006
+    },
+    {
+      "name": "Cu",
+      "label": "variable",
+      "description": "Copper, an essential micronutrient for plant growth",
+      "uuid": "2473e776-4449-4351-9835-1507532ae60e",
+      "score": 0.5270155584277031
+    },
+    {
+      "name": "agricultural field",
+      "label": "location",
+      "description": "An area of land used for growing crops and raising livestock",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5005326133203987
+    }
+  ],
+  "(29220, 31436)": [
+    {
+      "name": "agricultural field",
+      "label": "location",
+      "description": "An area of land used for farming and cultivating crops",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5088560155929088
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, water, and air, that supports plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6328069310705942
+    },
+    {
+      "name": "insects",
+      "label": "weather event",
+      "description": "A class of invertebrate animals that can cause significant damage to crops",
+      "uuid": "44e49605-e860-41d0-8ef8-cb74419f831d",
+      "score": 0.5942073192121406
+    }
+  ],
+  "(31064, 33456)": [
+    {
+      "name": "fungal",
+      "label": "natural hazard",
+      "description": "Organisms that cause disease in plants and animals, and can have negative impacts on ecosystems and human health",
+      "uuid": "3546cb0a-27a2-4914-85cf-1774b5c4ed19",
+      "score": 0.533444612231279
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, water, and air, that supports plant growth and filters water",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6349199820018246
+    },
+    {
+      "name": "agricultural lands",
+      "label": "location",
+      "description": "Areas of land used for farming, ranching, or other agricultural purposes, which can be impacted by pests, diseases, and environmental factors",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.66416344757696
+    },
+    {
+      "name": "plants",
+      "label": "provider",
+      "description": "Organisms that produce their own food through photosynthesis and are the primary producers in most ecosystems",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.545209498713468
+    }
+  ],
+  "(33125, 35201)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic particles",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6265959939267456
+    }
+  ],
+  "(34863, 36962)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "A natural body consisting of mineral and organic components, which supports plant growth and filters water",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5857444573591718
+    },
+    {
+      "name": "Populations",
+      "label": "variable",
+      "description": "The number of individuals of a particular species living in a given area or volume",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5917638260777666
+    },
+    {
+      "name": "HCN",
+      "label": "instrument",
+      "description": "Hydrogen cyanide, a toxic compound produced by some microorganisms",
+      "uuid": "af157837-bdbd-4a9a-b24e-6a79adfef57f",
+      "score": 0.7247021069992767
+    },
+    {
+      "name": "photosynthetic pathways",
+      "label": "variable",
+      "description": "The metabolic pathways by which plants convert light energy into chemical energy",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.510667320607386
+    }
+  ],
+  "(36613, 39252)": [
+    {
+      "name": "plants",
+      "label": "platform",
+      "description": "Organisms that undergo photosynthesis and serve as the basis for food chains in ecosystems",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.5482307313640659
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, and serving as a habitat for a wide range of organisms",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6369271585046156
+    }
+  ],
+  "(38757, 41278)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, supporting plant growth and influencing the environment",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6378047646359564
+    },
+    {
+      "name": "pathogen",
+      "label": "natural hazard",
+      "description": "Organisms that cause disease in plants, including bacteria, viruses, fungi, and nematodes",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5037261124795965
+    }
+  ],
+  "(40928, 43940)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, and supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6254320733250105
+    },
+    {
+      "name": "human populations",
+      "label": "demographic entity",
+      "description": "The total number of people living in a particular area or region, which can impact crop productivity and food security",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5142390129490279
+    },
+    {
+      "name": "crop productivity",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area of land, which can be affected by various environmental factors",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5571821455910624
+    },
+    {
+      "name": "drought",
+      "label": "abiotic stress",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and reduced crop yields",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6878298338474896
+    },
+    {
+      "name": "salinity",
+      "label": "abiotic stress",
+      "description": "High concentrations of salts in the soil, which can reduce crop growth and productivity",
+      "uuid": "3b54403e-25a1-43cc-97ac-7c14e73bda96",
+      "score": 0.6235234088007806
+    },
+    {
+      "name": "heavy metal accumulation",
+      "label": "abiotic stress",
+      "description": "The buildup of toxic heavy metals in the soil, which can harm plant growth and human health",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.5661079061727377
+    },
+    {
+      "name": "mutualistic relationship",
+      "label": "biological process",
+      "description": "A symbiotic relationship between two organisms, such as plants and microbes, in which both benefit",
+      "uuid": "003466f4-9ee7-4d3b-81ff-2013add292e2",
+      "score": 0.5767821937582558
+    },
+    {
+      "name": "genomics",
+      "label": "biological field",
+      "description": "The study of the structure, function, and evolution of genomes, which can provide insights into the mechanisms of plant-microbe interactions",
+      "uuid": "4e3dcb15-d2db-4fa5-9f5f-f2c7a8a7ae34",
+      "score": 0.6613305045937843
+    },
+    {
+      "name": "proteomics",
+      "label": "biological field",
+      "description": "The study of the structure, function, and interactions of proteins, which can provide insights into the mechanisms of plant-microbe interactions",
+      "uuid": "dd6592c0-c95a-4e4f-8ae7-8bfae7de9a3e",
+      "score": 0.6637777877452317
+    },
+    {
+      "name": "metabolomics",
+      "label": "biological field",
+      "description": "The study of the complete set of metabolites produced by an organism, which can provide insights into the mechanisms of plant-microbe interactions",
+      "uuid": "f978bbb1-08fb-4cc5-bb49-d8da0ee07bc4",
+      "score": 0.6193384127943561
+    }
+  ],
+  "(43348, 44830)": [
+    {
+      "name": "plants",
+      "label": "biological organisms",
+      "description": "Organisms that belong to the kingdom Plantae, including trees, flowers, and crops",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.6468497380614654
+    },
+    {
+      "name": "South Korea",
+      "label": "location",
+      "description": "A country located in East Asia, known for its technology and economy",
+      "uuid": "2c12f87b-a4c7-4aec-b10b-0f3e37560ccf",
+      "score": 0.70679896642221
+    },
+    {
+      "name": "genomics",
+      "label": "experiment",
+      "description": "The study of genomes, the complete set of DNA (including all of its genes) in an organism",
+      "uuid": "4e3dcb15-d2db-4fa5-9f5f-f2c7a8a7ae34",
+      "score": 0.7522392449089591
+    },
+    {
+      "name": "proteomics",
+      "label": "experiment",
+      "description": "The large-scale study of proteomes, which are the entire sets of proteins produced or modified by an organism or system",
+      "uuid": "dd6592c0-c95a-4e4f-8ae7-8bfae7de9a3e",
+      "score": 0.6772340922798505
+    },
+    {
+      "name": "metabolomics",
+      "label": "experiment",
+      "description": "The scientific study of chemical processes involving metabolites, the small molecules that are intermediates and products of metabolism",
+      "uuid": "f978bbb1-08fb-4cc5-bb49-d8da0ee07bc4",
+      "score": 0.654881159249626
+    }
+  ]
+}

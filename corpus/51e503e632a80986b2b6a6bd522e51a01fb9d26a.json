@@ -1,0 +1,692 @@
+{
+  "(0, 2613)": [
+    {
+      "name": "CALIPSO",
+      "label": "instrument",
+      "description": "The Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation, a satellite-based instrument used to study clouds and aerosols>",
+      "uuid": "01b319ce-cbe2-4894-bb33-04c43ceef23b",
+      "score": 0.7343517383389344
+    },
+    {
+      "name": "Arctic basin",
+      "label": "location",
+      "description": "A region in the northernmost part of the Earth, encompassing the Arctic Ocean and surrounding landmasses>",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.6618000320124231
+    },
+    {
+      "name": "Arctic ocean-covered areas",
+      "label": "location",
+      "description": "Regions of the Arctic basin covered by ocean, influencing Arctic climate and cloud processes>",
+      "uuid": "4e009e27-aa50-423e-8407-6cba81ff5f2c",
+      "score": 0.6395874828521754
+    },
+    {
+      "name": "surface radiative fluxes",
+      "label": "variable",
+      "description": "The flow of energy between the Earth's surface and the atmosphere, crucial for understanding climate dynamics>",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.6671379582163899
+    },
+    {
+      "name": "Arctic cloud processes",
+      "label": "project",
+      "description": "A research initiative focused on understanding the role of clouds in the Arctic climate system>",
+      "uuid": "acb1f3b8-5938-4b4a-9557-e765fea797e4",
+      "score": 0.5724250260822006
+    },
+    {
+      "name": "lidar simulator",
+      "label": "instrument",
+      "description": "A computational tool used to simulate lidar observations and evaluate climate models>",
+      "uuid": "7166c458-f935-4bd9-a322-d92830cf0c33",
+      "score": 0.5576968493958255
+    },
+    {
+      "name": "climate model",
+      "label": "model",
+      "description": "A sophisticated computer simulation used to represent and predict the Earth's climate system>",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6110067513618462
+    },
+    {
+      "name": "SHEBA",
+      "label": "project",
+      "description": "The Surface Heat Budget of the Arctic experiment, a research project aimed at understanding the Arctic heat budget>",
+      "uuid": "af6c4ef7-c65e-4adb-a075-0ea9144dea95",
+      "score": 0.7792924967765309
+    },
+    {
+      "name": "surface net longwave radiation",
+      "label": "variable",
+      "description": "A measure of the net longwave radiation at the Earth's surface, important for understanding energy balance>",
+      "uuid": "0fa2fdfb-ef0f-4d0d-8002-6696c54c1704",
+      "score": 0.6941990528793496
+    },
+    {
+      "name": "Ground-based remote sensing observations",
+      "label": "instrument",
+      "description": "Observations made using ground-based remote sensing instruments to study the Earth's surface and atmosphere>",
+      "uuid": "dbcead38-c78b-4306-b56f-0ea15c0b755b",
+      "score": 0.6860590793044508
+    },
+    {
+      "name": "Arctic climate feedbacks",
+      "label": "project",
+      "description": "A research initiative focused on understanding the feedback mechanisms in the Arctic climate system>",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.5521776943713477
+    }
+  ],
+  "(2144, 4775)": [
+    {
+      "name": "Arctic clouds",
+      "label": "location",
+      "description": "Clouds located in the Arctic region, playing a crucial role in regulating Arctic climate and radiative fluxes",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.5679720223141981
+    },
+    {
+      "name": "CALIPSO",
+      "label": "instrument",
+      "description": "The Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation, a satellite-based lidar instrument used for observing clouds and aerosols",
+      "uuid": "01b319ce-cbe2-4894-bb33-04c43ceef23b",
+      "score": 0.7384152297083753
+    },
+    {
+      "name": "GCM Oriented CALIPSO Cloud Product",
+      "label": "model",
+      "description": "A cloud product designed for use in General Circulation Models, providing cloud phase and other cloud properties",
+      "uuid": "e96a6f73-978e-4645-afd4-a4c1fb5704d3",
+      "score": 0.5395394051469328
+    },
+    {
+      "name": "heterogeneous ice nucleation rates",
+      "label": "variable",
+      "description": "The rate at which ice crystals form in clouds through heterogeneous nucleation, affecting cloud phase and properties",
+      "uuid": "60bb6ddf-29b1-4dad-9c9f-27f040a43bba",
+      "score": 0.5798289336525888
+    },
+    {
+      "name": "atmospheric temperature",
+      "label": "variable",
+      "description": "The temperature of the atmosphere, influencing cloud properties and radiative fluxes",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.6952811346503661
+    },
+    {
+      "name": "moisture",
+      "label": "variable",
+      "description": "The amount of water vapor in the atmosphere, affecting cloud formation and properties",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.5625692330418514
+    },
+    {
+      "name": "aerosol content",
+      "label": "variable",
+      "description": "The amount and type of aerosols present in the atmosphere, influencing cloud properties and radiative fluxes",
+      "uuid": "59920ad4-85fb-4cee-ba56-f39bc5857a3d",
+      "score": 0.6046352559070026
+    },
+    {
+      "name": "cloud phase",
+      "label": "variable",
+      "description": "The phase of water in clouds, either liquid or ice, affecting cloud radiative properties and climate",
+      "uuid": "deddd6c7-b840-484f-aeca-253feefb8d7d",
+      "score": 0.6866643738831112
+    },
+    {
+      "name": "radiative flux biases",
+      "label": "variable",
+      "description": "The differences between modeled and observed radiative fluxes, often used to evaluate climate model performance",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.5544303137268626
+    }
+  ],
+  "(4326, 6917)": [
+    {
+      "name": "CALIPSO-GOCCP",
+      "label": "instrument",
+      "description": "The GCM Oriented CALIPSO Cloud Product, a cloud detection and phase retrieval algorithm used to evaluate clouds in climate models",
+      "uuid": "caaf2307-4de2-4261-8b7d-eb506d34c5f8",
+      "score": 0.5156980012227107
+    },
+    {
+      "name": "Cloud-Aerosol Lidar with Orthogonal Polarization (CALIOP)",
+      "label": "instrument",
+      "description": "A lidar instrument on the CALIPSO satellite used to measure cloud and aerosol properties",
+      "uuid": "8783344a-b6cb-4905-adab-1ae6281fc83d",
+      "score": 0.8283569461799752
+    },
+    {
+      "name": "CALIPSO",
+      "label": "platform",
+      "description": "A satellite mission that carries the CALIOP lidar instrument to study clouds and aerosols",
+      "uuid": "865292d8-91d9-42fc-8f5e-350c9d5d64cc",
+      "score": 0.7357025673369366
+    },
+    {
+      "name": "Arctic cloud phase",
+      "label": "variable",
+      "description": "A measure of the phase of clouds in the Arctic region, important for climate model evaluation and improvement",
+      "uuid": "deddd6c7-b840-484f-aeca-253feefb8d7d",
+      "score": 0.553233075751858
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A General Circulation Model, a type of climate model that simulates the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7510650537778294
+    },
+    {
+      "name": "lidar simulator",
+      "label": "instrument",
+      "description": "A tool used to emulate the idiosyncrasies of lidar observations, essential for robust evaluation of model-simulated clouds",
+      "uuid": "31d04c8c-017d-4e62-bc0c-1b59bfa5d9f2",
+      "score": 0.5279588224009214
+    },
+    {
+      "name": "spaceborne lidar",
+      "label": "instrument",
+      "description": "A lidar instrument carried on a satellite, used to measure cloud and aerosol properties from space",
+      "uuid": "ad628f56-6e31-4dba-b7ae-9b9329da6dc2",
+      "score": 0.6056436511093296
+    },
+    {
+      "name": "high northern latitude ocean-covered areas",
+      "label": "location",
+      "description": "A region in the high northern latitudes, characterized by ocean-covered areas and significant cloud cover",
+      "uuid": "4e009e27-aa50-423e-8407-6cba81ff5f2c",
+      "score": 0.5596389465173262
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the atmosphere, used in the cloud phase retrieval algorithm",
+      "uuid": "a32cbebb-0f17-41a6-9bf7-f3b111e4c56e",
+      "score": 0.7127897733505169
+    }
+  ],
+  "(6517, 9228)": [
+    {
+      "name": "CALIPSO-GOCCP",
+      "label": "project",
+      "description": "A project that combines data from the Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations (CALIPSO) and the GCM-Oriented Cloud Component Program (GOCCP) to study cloud properties and distributions",
+      "uuid": "865292d8-91d9-42fc-8f5e-350c9d5d64cc",
+      "score": 0.6033027796598692
+    },
+    {
+      "name": "lidar backscatter profiles",
+      "label": "instrument",
+      "description": "A type of data collected by lidar instruments, used to measure the backscattering of light by atmospheric particles and clouds",
+      "uuid": "8059a3c0-6067-43d6-9695-199279d7d0de",
+      "score": 0.6662659939322025
+    },
+    {
+      "name": "high northern latitude ocean-covered areas",
+      "label": "location",
+      "description": "A region of the Earth's oceans located at high northern latitudes, characterized by ocean coverage and distinct climate patterns",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.6210285117585481
+    },
+    {
+      "name": "CALIPSO-GOCCP cloud fraction data",
+      "label": "variable",
+      "description": "A measure of the fraction of clouds detected by the CALIPSO-GOCCP project, used to study cloud properties and distributions",
+      "uuid": "b296b688-0ff0-4212-9b30-30e9fe413709",
+      "score": 0.6359833254186513
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the atmosphere, used to study cloud properties and distributions",
+      "uuid": "a32cbebb-0f17-41a6-9bf7-f3b111e4c56e",
+      "score": 0.7307241886155988
+    },
+    {
+      "name": "Arctic clouds",
+      "label": "location",
+      "description": "Clouds that occur in the Arctic region, characterized by unique properties and distributions",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.5250617959869835
+    },
+    {
+      "name": "liquid-containing clouds",
+      "label": "variable",
+      "description": "Clouds that contain liquid water, studied by the CALIPSO-GOCCP project",
+      "uuid": "eb4dd33b-96c1-4fac-ac3d-ee432db04bdb",
+      "score": 0.5739415498372233
+    },
+    {
+      "name": "ice-dominated clouds",
+      "label": "variable",
+      "description": "Clouds that are dominated by ice, studied by the CALIPSO-GOCCP project",
+      "uuid": "d6634118-e3a2-432c-a00b-604b42c8b3d6",
+      "score": 0.5471662558199998
+    },
+    {
+      "name": "ground-based observations",
+      "label": "instrument",
+      "description": "Measurements and data collected from instruments and observations made from the ground, used to study cloud properties and distributions",
+      "uuid": "dbcead38-c78b-4306-b56f-0ea15c0b755b",
+      "score": 0.660002144439324
+    },
+    {
+      "name": "SHEBA ship track",
+      "label": "location",
+      "description": "A location in the Arctic, used as a reference point for studying Arctic clouds",
+      "uuid": "af6c4ef7-c65e-4adb-a075-0ea9144dea95",
+      "score": 0.6158900554373153
+    },
+    {
+      "name": "CALIPSO",
+      "label": "instrument",
+      "description": "The Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations, a satellite instrument used to study cloud and aerosol properties",
+      "uuid": "01b319ce-cbe2-4894-bb33-04c43ceef23b",
+      "score": 0.7382957312522599
+    }
+  ],
+  "(8692, 11469)": [
+    {
+      "name": "CALIPSO-GOCCP",
+      "label": "project",
+      "description": "A project that combines data from the Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations (CALIPSO) with the GCM-Oriented Cloud Component (GOCCP) to study clouds and their properties>",
+      "uuid": "865292d8-91d9-42fc-8f5e-350c9d5d64cc",
+      "score": 0.6058630055564862
+    },
+    {
+      "name": "CALIPSO",
+      "label": "instrument",
+      "description": "The Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations, a satellite instrument used to study clouds and aerosols>",
+      "uuid": "01b319ce-cbe2-4894-bb33-04c43ceef23b",
+      "score": 0.7352613229019485
+    },
+    {
+      "name": "GMAO",
+      "label": "provider",
+      "description": "The Global Modeling and Assimilation Office, a research organization that provides atmospheric data and models>",
+      "uuid": "7c076ba5-627b-413d-be4f-ce8f855cfd1c",
+      "score": 0.6331164801643201
+    },
+    {
+      "name": "GMAO reanalysis",
+      "label": "dataset",
+      "description": "A dataset of atmospheric conditions produced by reanalyzing historical weather data using advanced models and algorithms>",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.628858355137041
+    },
+    {
+      "name": "CALIPSO level 1 data",
+      "label": "dataset",
+      "description": "The primary data product from the CALIPSO satellite, containing raw measurements of clouds and aerosols>",
+      "uuid": "8783344a-b6cb-4905-adab-1ae6281fc83d",
+      "score": 0.5612963700675849
+    },
+    {
+      "name": "ground-based observations",
+      "label": "dataset",
+      "description": "Measurements of atmospheric conditions made from the ground, used to validate satellite data>",
+      "uuid": "dbcead38-c78b-4306-b56f-0ea15c0b755b",
+      "score": 0.6404760378566158
+    },
+    {
+      "name": "LMDZ5B",
+      "label": "model",
+      "description": "The atmospheric component of the Institut Pierre Simon Laplace (IPSL) coupled climate model, used to simulate atmospheric conditions>",
+      "uuid": "a83e2359-c5b5-4dc3-9ecd-1ce2e2029da5",
+      "score": 0.615963860952845
+    },
+    {
+      "name": "IPSL",
+      "label": "provider",
+      "description": "The Institut Pierre Simon Laplace, a French research institution that studies the Earth's climate and environment>",
+      "uuid": "e8df7edd-a176-45c9-8515-3a520948ef63",
+      "score": 0.7923813884389438
+    },
+    {
+      "name": "Arctic clouds",
+      "label": "variable",
+      "description": "Clouds that form in the Arctic region, which can be composed of liquid water or ice>",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.5005547607901025
+    },
+    {
+      "name": "liquid-containing clouds",
+      "label": "variable",
+      "description": "Clouds that contain liquid water, which can affect the Earth's climate and weather patterns>",
+      "uuid": "05ac9d3e-bc44-41fa-ace0-c41bf3ebee97",
+      "score": 0.5693473951546792
+    },
+    {
+      "name": "ice-containing clouds",
+      "label": "variable",
+      "description": "Clouds that contain ice, which can affect the Earth's climate and weather patterns>",
+      "uuid": "162e2243-3266-4999-b352-d8a1a9dc82ac",
+      "score": 0.5123442040713916
+    },
+    {
+      "name": "low-level liquid-containing clouds",
+      "label": "variable",
+      "description": "Clouds that form at low altitudes and contain liquid water, which can affect the Earth's climate and weather patterns>",
+      "uuid": "3375096a-7782-42e8-97d2-0febf63893e0",
+      "score": 0.5578805744093615
+    },
+    {
+      "name": "scattering ratio",
+      "label": "variable",
+      "description": "A measure of the amount of light that is scattered by clouds or aerosols, which can be used to study their properties>",
+      "uuid": "c830ad5e-ac31-41cf-b8e2-277fe457d76d",
+      "score": 0.548464905168452
+    },
+    {
+      "name": "height",
+      "label": "variable",
+      "description": "The altitude of clouds or other atmospheric features, which can be used to study their properties and behavior>",
+      "uuid": "b1a4572e-a1e6-4473-9061-4ce9023eda4d",
+      "score": 0.6962318505070368
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the atmosphere, which can affect the formation and behavior of clouds>",
+      "uuid": "f721be74-a590-4147-8af4-f2804aea4c0b",
+      "score": 0.6752937696184307
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, which is characterized by cold temperatures and unique atmospheric conditions>",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7350586425894244
+    }
+  ],
+  "(10931, 13856)": [
+    {
+      "name": "LMDZ5B",
+      "label": "model",
+      "description": "A climate model used to simulate and predict weather and climate patterns, including cloud formation and radiation>",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5595439997447424
+    },
+    {
+      "name": "CALIPSO-GOCCP",
+      "label": "instrument",
+      "description": "A satellite-based lidar instrument used to retrieve cloud phase and other atmospheric properties>",
+      "uuid": "8783344a-b6cb-4905-adab-1ae6281fc83d",
+      "score": 0.6234189366500261
+    },
+    {
+      "name": "Arctic basin",
+      "label": "location",
+      "description": "A region in the northernmost part of the Earth, characterized by cold temperatures and sea ice>",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.6706907224127882
+    },
+    {
+      "name": "Beaufort Sea",
+      "label": "location",
+      "description": "A part of the Arctic Ocean, located north of Canada and Alaska>",
+      "uuid": "86ed3782-8e30-4547-a774-35100b224d5a",
+      "score": 0.8037352236591501
+    },
+    {
+      "name": "SHEBA",
+      "label": "project",
+      "description": "The Surface Heat Budget of the Arctic Ocean project, a research initiative to study the Arctic climate and ocean>",
+      "uuid": "af6c4ef7-c65e-4adb-a075-0ea9144dea95",
+      "score": 0.8143892645930934
+    },
+    {
+      "name": "cloud phase",
+      "label": "variable",
+      "description": "The state of water in clouds, either liquid or ice, which affects the Earth's radiation budget>",
+      "uuid": "deddd6c7-b840-484f-aeca-253feefb8d7d",
+      "score": 0.668632525345481
+    },
+    {
+      "name": "liquid-containing clouds",
+      "label": "variable",
+      "description": "Clouds that contain liquid water, which are important for the Earth's energy balance>",
+      "uuid": "05ac9d3e-bc44-41fa-ace0-c41bf3ebee97",
+      "score": 0.5537064054566826
+    },
+    {
+      "name": "ice cloud fraction",
+      "label": "variable",
+      "description": "The proportion of clouds that contain ice, which affects the Earth's radiation budget>",
+      "uuid": "b296b688-0ff0-4212-9b30-30e9fe413709",
+      "score": 0.6097728740771317
+    },
+    {
+      "name": "surface longwave radiation",
+      "label": "variable",
+      "description": "The amount of longwave radiation emitted by the Earth's surface, which affects the climate>",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.6456454788298358
+    },
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "The smallest and coldest of the world's five oceans, surrounding the North Pole>",
+      "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+      "score": 0.7194067629998354
+    },
+    {
+      "name": "CAM5",
+      "label": "model",
+      "description": "A climate model used to simulate and predict weather and climate patterns, including cloud formation and radiation>",
+      "uuid": "77ff6c41-125c-4f56-a40f-3b34608d7647",
+      "score": 0.6629517416727722
+    }
+  ],
+  "(13392, 16061)": [
+    {
+      "name": "Arctic Ocean",
+      "label": "location",
+      "description": "A region of the Earth's ocean located in the northernmost part of the planet, playing a crucial role in global climate regulation>",
+      "uuid": "4e009e27-aa50-423e-8407-6cba81ff5f2c",
+      "score": 0.79684771441123
+    },
+    {
+      "name": "LMDZ5B",
+      "label": "model",
+      "description": "A climate model used to simulate and predict Earth's climate system, specifically designed to study atmospheric processes>",
+      "uuid": "a83e2359-c5b5-4dc3-9ecd-1ce2e2029da5",
+      "score": 0.5770083904695326
+    },
+    {
+      "name": "CAM5",
+      "label": "model",
+      "description": "The Community Atmosphere Model version 5, a climate model used for weather forecasting and climate studies, with improved representation of cloud processes>",
+      "uuid": "77ff6c41-125c-4f56-a40f-3b34608d7647",
+      "score": 0.6940930749591518
+    },
+    {
+      "name": "SHEBA observations",
+      "label": "project",
+      "description": "A research project that collected observations on the Arctic atmosphere and surface, providing valuable data for climate studies>",
+      "uuid": "af6c4ef7-c65e-4adb-a075-0ea9144dea95",
+      "score": 0.7411355287244493
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions>",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.807598701651389
+    },
+    {
+      "name": "cloud phase",
+      "label": "variable",
+      "description": "A characteristic of clouds that can be measured or observed, influencing radiation and climate processes>",
+      "uuid": "deddd6c7-b840-484f-aeca-253feefb8d7d",
+      "score": 0.6315390815578866
+    },
+    {
+      "name": "surface longwave radiation",
+      "label": "variable",
+      "description": "A measure of the radiation emitted by the Earth's surface, an important component of the Earth's energy balance>",
+      "uuid": "bc891281-b24c-4310-b39b-81715d7dad08",
+      "score": 0.6573854736615782
+    },
+    {
+      "name": "radiative flux observations",
+      "label": "variable",
+      "description": "Measurements of the flow of radiation in the atmosphere, crucial for understanding climate processes>",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.665775525178494
+    },
+    {
+      "name": "cloud liquid water amounts",
+      "label": "variable",
+      "description": "The quantity of liquid water present in clouds, influencing cloud properties and radiation>",
+      "uuid": "05ac9d3e-bc44-41fa-ace0-c41bf3ebee97",
+      "score": 0.6909814862410399
+    }
+  ],
+  "(15628, 18474)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "CALIPSO-GOCCP",
+      "label": "instrument",
+      "description": "A cloud phase observation system using lidar and radar to study Arctic clouds",
+      "uuid": "01b319ce-cbe2-4894-bb33-04c43ceef23b",
+      "score": 0.5818132841524739
+    },
+    {
+      "name": "Arctic clouds",
+      "label": "location",
+      "description": "Clouds located in the Arctic region, playing a crucial role in Earth's climate system",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.5756056439855747
+    },
+    {
+      "name": "net surface radiative fluxes",
+      "label": "variable",
+      "description": "The amount of energy exchanged between the Earth's surface and the atmosphere, influencing climate patterns",
+      "uuid": "107582ef-a356-4afa-a9a4-4e1d2200c134",
+      "score": 0.6232411713126494
+    },
+    {
+      "name": "ICARE and ClimServ centers",
+      "label": "provider",
+      "description": "Research institutions providing access to cloud and climate data",
+      "uuid": "d571d8a9-7a8a-4e08-b05a-b85ffabf6a33",
+      "score": 0.6643589462977675
+    },
+    {
+      "name": "CALIPSO level 1 data",
+      "label": "variable",
+      "description": "Raw data from the CALIPSO satellite, used for studying cloud properties",
+      "uuid": "1801bed2-c8ea-451f-a4d3-b987ea880533",
+      "score": 0.5618252393464387
+    },
+    {
+      "name": "additional climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6367149154982145
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a US government agency responsible for space and aeronautics research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.7031416059215473
+    },
+    {
+      "name": "US DOE Office of Science",
+      "label": "provider",
+      "description": "A US government agency responsible for funding scientific research, including climate and energy studies",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6090247011006648
+    },
+    {
+      "name": "NSF",
+      "label": "provider",
+      "description": "The National Science Foundation, a US government agency providing funding for scientific research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.74899175978734
+    },
+    {
+      "name": "CNES",
+      "label": "provider",
+      "description": "The Centre National d'Etudes Spatiales, the French space agency, supporting space research and development",
+      "uuid": "fea63a1a-faca-43c4-bc6a-a5b75339fb6d",
+      "score": 0.7030962808087634
+    }
+  ],
+  "(18082, 18509)": [
+    {
+      "name": "US DOE Office of Science",
+      "label": "provider",
+      "description": "A funding agency that supports scientific research, including climate and environmental studies",
+      "uuid": "dfcb0e22-0009-46dc-a801-c79676dc2761",
+      "score": 0.5931261672973033
+    },
+    {
+      "name": "CIRES",
+      "label": "provider",
+      "description": "The Cooperative Institute for Research in Environmental Sciences, a research institute focused on environmental science and climate studies",
+      "uuid": "94b0166d-ee36-4786-b1e1-5a3f059de2b4",
+      "score": 0.6679973375858648
+    },
+    {
+      "name": "US DOC/NOAA",
+      "label": "provider",
+      "description": "The United States Department of Commerce's National Oceanic and Atmospheric Administration, a government agency responsible for climate and weather research",
+      "uuid": "8885d56e-58ca-40c1-aa6a-3e79fb6f34e3",
+      "score": 0.7394837314177892
+    },
+    {
+      "name": "NSF",
+      "label": "provider",
+      "description": "The National Science Foundation, a funding agency that supports scientific research, including climate and environmental studies",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.6700158454999801
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a government agency responsible for space and aeronautics research, including climate studies",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6773139370180382
+    },
+    {
+      "name": "ICARE",
+      "label": "provider",
+      "description": "A data center that provides access to climate and atmospheric data, including the CALIPSO level 1 data",
+      "uuid": "d571d8a9-7a8a-4e08-b05a-b85ffabf6a33",
+      "score": 0.7293016516013971
+    },
+    {
+      "name": "CNES",
+      "label": "provider",
+      "description": "The Centre National d'Etudes Spatiales, the French space agency that supports the development of CALIPSO-GOCCP",
+      "uuid": "fea63a1a-faca-43c4-bc6a-a5b75339fb6d",
+      "score": 0.6616180060652963
+    },
+    {
+      "name": "CALIPSO level 1 data",
+      "label": "variable",
+      "description": "A dataset containing measurements from the Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations mission",
+      "uuid": "8783344a-b6cb-4905-adab-1ae6281fc83d",
+      "score": 0.6263093187527142
+    },
+    {
+      "name": "CALIPSO-GOCCP",
+      "label": "project",
+      "description": "A project that develops and provides data products from the CALIPSO mission, focused on cloud and aerosol research",
+      "uuid": "865292d8-91d9-42fc-8f5e-350c9d5d64cc",
+      "score": 0.6403325743280117
+    }
+  ]
+}

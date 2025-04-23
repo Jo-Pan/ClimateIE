@@ -1,0 +1,898 @@
+{
+  "(0, 3389)": [
+    {
+      "name": "Extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms that can have significant impacts on society and the environment",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6694164657217633
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.751139418280364
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Overflow of water that can cause damage to properties, infrastructure, and the environment",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6886118297055066
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "Prolonged periods of abnormally low rainfall, leading to water scarcity and impacts on agriculture and ecosystems",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7148702374338978
+    },
+    {
+      "name": "windstorms",
+      "label": "weather event",
+      "description": "Severe storms characterized by strong winds, often causing damage to structures and disrupting daily life",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.6449583980234082
+    },
+    {
+      "name": "agricultural production",
+      "label": "variable",
+      "description": "The quantity of crops, livestock, and other agricultural products generated within a given area or economy",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5316040800511879
+    },
+    {
+      "name": "adaptation",
+      "label": "project",
+      "description": "Efforts to adjust to the impacts of climate change, reducing vulnerability and increasing resilience",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6216249374393584
+    }
+  ],
+  "(2890, 6172)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, a leading international body for assessing climate change research and providing policy recommendations",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7372267674654798
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, primarily caused by human activities such as greenhouse gas emissions, leading to severe impacts on the environment and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5865202375513378
+    },
+    {
+      "name": "weather extremes",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences such as heatwaves, floods, and storms, often resulting in significant impacts on human societies and the environment",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.64285757208351
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms, often resulting in significant impacts on human societies and the environment",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6699798650995633
+    },
+    {
+      "name": "sea-level rise",
+      "label": "ocean circulation",
+      "description": "The long-term increase in the average level of the world's oceans, primarily caused by global warming and the melting of ice sheets and glaciers",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7319576504538149
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The vast bodies of saltwater that cover over 70% of the Earth's surface, playing a crucial role in regulating the planet's climate and weather patterns",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.7395244537187936
+    },
+    {
+      "name": "coastal erosion",
+      "label": "natural hazard",
+      "description": "The wearing away of land or the removal of beach or dune sediments along a coastline, often caused by a combination of natural and human-induced factors such as sea-level rise, storms, and coastal development",
+      "uuid": "cd7a7748-7231-4a73-b85c-b5696066230a",
+      "score": 0.5820170910483491
+    },
+    {
+      "name": "damages",
+      "label": "variable",
+      "description": "Non-monetary impacts and irreversible effects resulting from extreme weather events, such as loss of life, health impacts, and ecosystem disruption",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5184972465352115
+    },
+    {
+      "name": "hazard",
+      "label": "natural hazard",
+      "description": "A situation or event that has the potential to cause harm to people, the environment, or infrastructure, often used in the context of natural disasters such as floods, storms, and earthquakes",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.6285859737446793
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which people, assets, or the environment are susceptible to the impacts of a hazard, often influenced by factors such as poverty, lack of infrastructure, and limited access to resources",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6314174547070717
+    }
+  ],
+  "(5650, 8970)": [
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Quantities or characteristics that can be measured or observed in climate experiments, such as temperature, rainfall, or sea level",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.7014496153618223
+    },
+    {
+      "name": "climate adaptation",
+      "label": "project",
+      "description": "Efforts and strategies to prepare for and respond to the impacts of climate change, including adjustments in natural and human systems",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6790541950867909
+    },
+    {
+      "name": "water bodies",
+      "label": "location",
+      "description": "Natural or artificial bodies of water, such as rivers, lakes, and oceans, that play a crucial role in the Earth's climate system",
+      "uuid": "959f1861-a776-41b1-ba6b-d23c71d4d1eb",
+      "score": 0.5831992737104291
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms, often resulting in significant impacts on natural and human systems",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6770584445031408
+    },
+    {
+      "name": "submergence",
+      "label": "natural hazard",
+      "description": "The process of being covered or flooded with water, often resulting in loss of land, ecosystems, and human settlements",
+      "uuid": "87186c13-548e-4ea8-ba79-38cff394eb59",
+      "score": 0.7612079085280956
+    },
+    {
+      "name": "weather extremes",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences such as heatwaves, floods, and storms, often resulting in significant impacts on natural and human systems",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6510228201083325
+    },
+    {
+      "name": "extreme weather",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms, often resulting in significant impacts on natural and human systems",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.702946104911446
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "Complex networks of living organisms and their physical environment, playing a crucial role in the Earth's climate system and supporting biodiversity",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6987487350572983
+    },
+    {
+      "name": "sea-level rise",
+      "label": "ocean circulation",
+      "description": "The increase in the average level of the world's oceans, often resulting in coastal erosion, flooding, and saltwater intrusion into freshwater sources",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7493385019803139
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different plants, animals, and microorganisms that live in an ecosystem or on Earth as a whole, playing a crucial role in the Earth's climate system",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5708677946103113
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The largest bodies of saltwater on Earth, playing a crucial role in the Earth's climate system and supporting a wide range of ecosystems and biodiversity",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.733712563096917
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, including continents, islands, and underwater landmasses, playing a crucial role in the Earth's climate system and supporting a wide range of ecosystems and biodiversity",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.671554964813103
+    },
+    {
+      "name": "coastal erosion",
+      "label": "natural hazard",
+      "description": "The wearing away of land or the loss of land along the coastline, often resulting in loss of ecosystems, biodiversity, and human settlements",
+      "uuid": "cd7a7748-7231-4a73-b85c-b5696066230a",
+      "score": 0.5852627070355487
+    }
+  ],
+  "(8434, 11573)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides policy recommendations",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7430861775352694
+    },
+    {
+      "name": "extreme weather",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences such as heatwaves, floods, and storms that can have significant impacts on human societies and ecosystems",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6920369435307004
+    },
+    {
+      "name": "adaptation",
+      "label": "experiment",
+      "description": "The process of adjusting to or coping with the impacts of climate change, through various measures such as infrastructure development, policy changes, or technological innovations",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6553127383772556
+    },
+    {
+      "name": "Fifth Assessment Report",
+      "label": "project",
+      "description": "A comprehensive report by the IPCC that assesses the current state of climate change science and provides projections for future climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5302932147958807
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the Earth's atmosphere and oceans, leading to changes in weather patterns, sea levels, and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6071726138410618
+    },
+    {
+      "name": "past extreme weather events",
+      "label": "weather event",
+      "description": "Historical occurrences of unusual and severe meteorological events such as heatwaves, floods, and storms that can have significant impacts on human societies and ecosystems",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.5815290927656919
+    },
+    {
+      "name": "weather extremes",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences such as heatwaves, floods, and storms that can have significant impacts on human societies and ecosystems",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6368786216728697
+    }
+  ],
+  "(11030, 14233)": [
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6713426513489105
+    },
+    {
+      "name": "windstorms",
+      "label": "weather event",
+      "description": "Severe storms with strong winds, often causing damage and disruption",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.628247643656625
+    },
+    {
+      "name": "individual extreme weather events",
+      "label": "weather event",
+      "description": "Specific instances of severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.595811201481608
+    },
+    {
+      "name": "weather extremes",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6419232438976338
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "Rotating, organized systems of clouds and thunderstorms that form over warm ocean waters in the tropics",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6927979500343213
+    },
+    {
+      "name": "anthropogenic emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases and other pollutants into the atmosphere due to human activities",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5352100703463387
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7414456615238761
+    },
+    {
+      "name": "sea-level rise",
+      "label": "ocean circulation",
+      "description": "The long-term increase in the average level of the world's oceans, primarily caused by the melting of glaciers and ice sheets and the expansion of seawater as it warms",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7330094510027333
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7036570460955207
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold of an object or environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6092543177168249
+    },
+    {
+      "name": "large decadal variability",
+      "label": "teleconnection",
+      "description": "A pattern of climate variability that occurs over decades and influences regional climate conditions",
+      "uuid": "addadf3e-ae8d-49aa-9b5d-abee1952a543",
+      "score": 0.5243384607055822
+    }
+  ],
+  "(13688, 16858)": [
+    {
+      "name": "anthropogenic forcing",
+      "label": "variable",
+      "description": "Human activities that release greenhouse gases, such as carbon dioxide and methane, and contribute to global warming",
+      "uuid": "e0867ff5-2eb4-4959-b874-ac37c1b407e0",
+      "score": 0.5322318571399524
+    },
+    {
+      "name": "natural variability",
+      "label": "teleconnection",
+      "description": "The inherent fluctuations in the Earth's climate system that occur naturally, without human influence",
+      "uuid": "7013bdc9-519d-42b6-827c-4b8013fbb726",
+      "score": 0.5089245370073894
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "A type of storm that forms over warm ocean waters in the tropics, characterized by strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.7180726641851511
+    },
+    {
+      "name": "anthropogenic emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide and methane, into the atmosphere due to human activities",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5214793261187772
+    },
+    {
+      "name": "decadal variability",
+      "label": "teleconnection",
+      "description": "A pattern of climate variability that occurs on a timescale of decades, influencing regional climate conditions",
+      "uuid": "addadf3e-ae8d-49aa-9b5d-abee1952a543",
+      "score": 0.6358219883010275
+    },
+    {
+      "name": "CRED",
+      "label": "provider",
+      "description": "The Centre for Research on the Epidemiology of Disasters, an organization that manages the EM-DAT database of disaster losses",
+      "uuid": "b7e5f516-af29-4917-8049-4f797c21e4bd",
+      "score": 0.6860831914753722
+    }
+  ],
+  "(16310, 19307)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, a scientific body that assesses climate change research and provides policy recommendations",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7396826147766639
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Unusual meteorological occurrences such as heatwaves, floods, and storms, often with significant impacts on human societies and ecosystems",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6704444606267063
+    },
+    {
+      "name": "earthquakes",
+      "label": "natural hazard",
+      "description": "A sudden release of energy in the Earth's crust, causing seismic waves that can lead to damage and loss of life",
+      "uuid": "601d36fc-8171-475c-a1c5-84802aecb77e",
+      "score": 0.707817939829774
+    },
+    {
+      "name": "natural hazards",
+      "label": "natural hazard",
+      "description": "Phenomena with the potential to cause significant harm to life, property, and the environment, including geological and meteorological events",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.7280801005557738
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "A long-term change in the statistical distribution of weather patterns over significant periods, often attributed to human activities and natural climate variability",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5523817561636958
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The susceptibility of people, assets, or ecosystems to the impacts of natural hazards or climate change",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6079555092485346
+    },
+    {
+      "name": "Working Group II",
+      "label": "provider",
+      "description": "A working group of the IPCC that focuses on the impacts, vulnerability, and adaptation to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5349562804803778
+    }
+  ],
+  "(18785, 21915)": [
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences, such as heatwaves, floods, storms, and droughts, that have significant impacts on the environment and human societies",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.666369199765394
+    },
+    {
+      "name": "drought events",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems, agriculture, and human settlements",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6832136584403457
+    },
+    {
+      "name": "hailstorms",
+      "label": "weather event",
+      "description": "Severe thunderstorms characterized by the presence of hail, which can cause significant damage to crops, infrastructure, and human settlements",
+      "uuid": "a2ea1792-c011-4c7c-95c7-3bd648b1b57b",
+      "score": 0.6775585427262405
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "Rotating, organized systems of clouds and thunderstorms that form over warm ocean waters in the tropics, bringing strong winds and heavy rainfall to coastal areas",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.7149374557555245
+    },
+    {
+      "name": "extra-tropical cyclones",
+      "label": "weather event",
+      "description": "Large-scale circulation systems that form outside the tropics, often bringing strong winds, heavy rainfall, and rough seas to mid-latitude regions",
+      "uuid": "da436e9b-60e5-4a5f-a50a-08794d62bca8",
+      "score": 0.6924780080385329
+    },
+    {
+      "name": "rainfall flooding",
+      "label": "natural hazard",
+      "description": "The overflow of water from rivers, streams, or other water bodies due to heavy rainfall, causing damage to infrastructure, agriculture, and human settlements",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.5732584810384175
+    },
+    {
+      "name": "wildfires",
+      "label": "natural hazard",
+      "description": "Uncontrolled fires that occur in wildland areas, often caused by lightning, human activity, or drought, and can have significant impacts on ecosystems and human societies",
+      "uuid": "868b87a1-d8c2-49b3-8bbd-9cbbed115271",
+      "score": 0.6631828801286377
+    },
+    {
+      "name": "convective weather types",
+      "label": "weather event",
+      "description": "Types of weather phenomena that involve the movement of air and the formation of clouds, thunderstorms, and precipitation, often associated with warm and unstable atmospheric conditions",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.5859237678236445
+    },
+    {
+      "name": "coastal flooding",
+      "label": "natural hazard",
+      "description": "The overflow of water from the ocean onto coastal land, often caused by storms, heavy rainfall, or sea level rise, and can have significant impacts on human settlements and ecosystems",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.6485915804194907
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The total number of people living in a particular area or region, often used as an indicator of exposure to natural hazards and environmental changes",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6713578387473838
+    },
+    {
+      "name": "exposure",
+      "label": "variable",
+      "description": "The degree to which people, assets, or ecosystems are vulnerable to natural hazards and environmental changes, often influenced by factors such as population growth, urbanization, and land use changes",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5043669903458968
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country in North America that is often affected by extreme weather events and natural hazards",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5903802737231865
+    }
+  ],
+  "(21348, 24275)": [
+    {
+      "name": "convective weather events",
+      "label": "weather event",
+      "description": "A type of weather event that includes thunderstorms and hailstorms, driven by convection in the atmosphere",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.5436058945426527
+    },
+    {
+      "name": "thunderstorms",
+      "label": "weather event",
+      "description": "A type of storm characterized by lightning, thunder, and heavy rainfall, often associated with convective weather",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.5455184320475576
+    },
+    {
+      "name": "hailstorms",
+      "label": "weather event",
+      "description": "A type of storm that produces hail, a form of precipitation that can cause damage to crops and infrastructure",
+      "uuid": "a2ea1792-c011-4c7c-95c7-3bd648b1b57b",
+      "score": 0.6553347158466701
+    },
+    {
+      "name": "tropical storms",
+      "label": "weather event",
+      "description": "A type of storm that forms in the tropics, characterized by strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.569767175472328
+    },
+    {
+      "name": "hurricanes",
+      "label": "weather event",
+      "description": "A type of tropical storm that forms in the Atlantic or Pacific Oceans, characterized by strong winds and heavy rainfall",
+      "uuid": "41829fbf-2b76-4714-bf4a-e0d63b5472d5",
+      "score": 0.6648606712768593
+    },
+    {
+      "name": "river flooding",
+      "label": "natural hazard",
+      "description": "A type of flood that occurs when a river overflows its banks, often caused by heavy rainfall or snowmelt",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.5380561526589354
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located north of the equator, known for its role in global climate patterns and hurricane formation",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7549978436996887
+    },
+    {
+      "name": "Caribbean",
+      "label": "location",
+      "description": "A region located in the Americas, known for its tropical climate and vulnerability to hurricanes and other weather extremes",
+      "uuid": "ad18da3f-fbdb-4bc1-ab4d-008e9b8f6002",
+      "score": 0.6289598019924868
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country located in North America, often affected by hurricanes and other weather extremes",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6240293823775979
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that provides scientific advice on climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7223458457301821
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a particular area, often used as a factor in climate change and weather extremes studies",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6155082675963046
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which people, assets, or ecosystems are susceptible to damage or harm from weather-related hazards, often used as a factor in climate change and weather extremes studies",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6159892219778083
+    },
+    {
+      "name": "adaptation",
+      "label": "variable",
+      "description": "The process of adjusting to climate change, often used as a factor in climate change and weather extremes studies",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.623585538640424
+    }
+  ],
+  "(23723, 26761)": [
+    {
+      "name": "extreme weather hazard",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms that can have significant impacts on human societies and ecosystems",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.627827644050668
+    },
+    {
+      "name": "weather extremes",
+      "label": "weather event",
+      "description": "Unusual and severe weather events, such as heavy rainfall, droughts, or heatwaves, that can have significant impacts on human societies and ecosystems",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6261316606336065
+    },
+    {
+      "name": "adaptation",
+      "label": "experiment",
+      "description": "Actions taken to adjust to the impacts of climate change, such as changes in weather patterns, sea level rise, or increased frequency of extreme weather events",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6468609393054133
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The total number of people living in a particular area or region, often used as a factor in studying the impacts of climate change and extreme weather events",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6505485048211396
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The susceptibility of a system, such as a community or ecosystem, to be affected by extreme weather events or climate change, often used in the context of disaster risk reduction and climate change adaptation",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6032939015408758
+    },
+    {
+      "name": "river flooding",
+      "label": "weather event",
+      "description": "A type of flood that occurs when a river overflows its banks, often caused by heavy rainfall, snowmelt, or storm surges",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.5425677398472888
+    },
+    {
+      "name": "GDP",
+      "label": "variable",
+      "description": "Gross Domestic Product, a measure of the total economic output of a country or region, often used as a factor in studying the impacts of climate change and extreme weather events",
+      "uuid": "6163b751-c8a6-42e5-9eb1-2b73932da631",
+      "score": 0.5929144708987786
+    }
+  ],
+  "(26277, 29261)": [
+    {
+      "name": "anthropogenic climate change",
+      "label": "teleconnection",
+      "description": "The influence of human activities on the Earth's climate system, leading to changes in global climate patterns and extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.518999065651567
+    },
+    {
+      "name": "extreme weather hazard",
+      "label": "natural hazard",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms that pose a threat to human populations and ecosystems",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6233398284657365
+    },
+    {
+      "name": "weather extremes",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological events such as hurricanes, droughts, and heatwaves that have significant impacts on the environment and human societies",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6356256488744941
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.751139418280364
+    },
+    {
+      "name": "hail",
+      "label": "weather event",
+      "description": "A form of precipitation that occurs when updrafts in thunderstorms carry water droplets up into the freezing level of the atmosphere, causing them to freeze into small balls of ice",
+      "uuid": "7118d286-6629-48e5-931f-052cd347395e",
+      "score": 0.6576152917058612
+    },
+    {
+      "name": "greenhouse gas forcing",
+      "label": "teleconnection",
+      "description": "The influence of greenhouse gases, such as carbon dioxide and methane, on the Earth's climate system, leading to changes in global climate patterns and extreme weather events",
+      "uuid": "e0867ff5-2eb4-4959-b874-ac37c1b407e0",
+      "score": 0.6160518651223629
+    },
+    {
+      "name": "adaptation",
+      "label": "experiment",
+      "description": "The process of adjusting to the impacts of climate change, including changes in social, economic, and environmental systems",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6500570619413186
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system or population is susceptible to harm or damage from climate-related hazards",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5855857023009167
+    }
+  ],
+  "(28744, 31922)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492816239530663
+    },
+    {
+      "name": "Indonesia",
+      "label": "location",
+      "description": "A country in Southeast Asia, consisting of more than 17,000 islands, with a diverse geography and climate",
+      "uuid": "84aeedd2-6093-4252-9895-8dc063a9ad97",
+      "score": 0.6811482386067055
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country in North America with a diverse geography and climate",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7290372876206904
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "A type of intense, rotating storm that forms over warm ocean waters in the tropics, known for strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.7352058269407714
+    },
+    {
+      "name": "extra-tropical cyclones",
+      "label": "weather event",
+      "description": "A type of storm that forms outside the tropics, often bringing strong winds and precipitation to mid-latitude regions",
+      "uuid": "da436e9b-60e5-4a5f-a50a-08794d62bca8",
+      "score": 0.69329517414544
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Areas with high population densities and developed infrastructure, often with unique microclimates and environmental challenges",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7060833771889489
+    },
+    {
+      "name": "severe weather occurrence",
+      "label": "weather event",
+      "description": "Unusual and extreme weather events, such as tornadoes, floods, and heatwaves, that can have significant impacts on communities and ecosystems",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.5956863627393372
+    },
+    {
+      "name": "adaptation",
+      "label": "experiment",
+      "description": "The process of adjusting to or coping with the impacts of climate change, through actions such as implementing new technologies, changing behaviors, or developing policies",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6449508443194419
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases, such as carbon dioxide and methane, into the atmosphere, which contribute to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.539328524598083
+    }
+  ],
+  "(31349, 34529)": [
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6713426513489105
+    },
+    {
+      "name": "weather extremes",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6419232438976338
+    },
+    {
+      "name": "heatwave frequency",
+      "label": "variable",
+      "description": "A measure of how often heatwaves occur, which is influenced by climate change",
+      "uuid": "079e6699-efbf-4358-9047-b668b459fc22",
+      "score": 0.6141770403307687
+    },
+    {
+      "name": "hail",
+      "label": "weather event",
+      "description": "A form of precipitation that occurs when updrafts in thunderstorms carry water droplets up into the freezing level of the atmosphere, where they freeze into small balls of ice",
+      "uuid": "7118d286-6629-48e5-931f-052cd347395e",
+      "score": 0.6570812022370465
+    },
+    {
+      "name": "flooding",
+      "label": "natural hazard",
+      "description": "The overflow of water that submerges land that is usually dry, often caused by heavy rainfall, storm surges, or dam failures",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.7218173713540992
+    },
+    {
+      "name": "extreme weather types",
+      "label": "weather event",
+      "description": "Categories of severe and unusual meteorological occurrences, including heatwaves, floods, storms, and others",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.662574688247368
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which people, property, or the environment are susceptible to damage or disruption from extreme weather events",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6059355490852808
+    },
+    {
+      "name": "adaptation",
+      "label": "experiment",
+      "description": "Actions taken to reduce the risk of damage or disruption from extreme weather events, such as changing policies or practices",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5414677382501935
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a particular area, which can influence the impact of extreme weather events",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5715603893608857
+    },
+    {
+      "name": "Creative Commons license",
+      "label": "provider",
+      "description": "A type of license that allows for the free use, sharing, and adaptation of creative works, such as research articles",
+      "uuid": "95c7e601-fcfe-4fc9-9994-8105a1e11428",
+      "score": 0.6670732441762636
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, which has experienced significant impacts from extreme weather events",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6072445832431511
+    }
+  ],
+  "(34012, 34764)": [
+    {
+      "name": "Attribution 4.0 International License",
+      "label": "project",
+      "description": "A type of license that allows for the use, sharing, adaptation, distribution, and reproduction of creative works, provided that the original author and source are credited",
+      "uuid": "95c7e601-fcfe-4fc9-9994-8105a1e11428",
+      "score": 0.7301427388870988
+    },
+    {
+      "name": "Creative Commons license",
+      "label": "project",
+      "description": "A public license that allows creators to give others permission to share, use, and build upon a work they have created",
+      "uuid": "95c7e601-fcfe-4fc9-9994-8105a1e11428",
+      "score": 0.6153201157560853
+    },
+    {
+      "name": "source",
+      "label": "provider",
+      "description": "The origin or location from which the work is obtained or accessed",
+      "uuid": "41191de9-be66-45e2-b4de-95d5090df8d8",
+      "score": 0.516013447483752
+    }
+  ]
+}

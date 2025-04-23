@@ -1,0 +1,912 @@
+{
+  "(0, 2808)": [
+    {
+      "name": "Himalayas",
+      "label": "location",
+      "description": "A mountain range in Asia, known for its high elevation and diverse climate, influencing regional and global weather patterns",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.6902966417205929
+    },
+    {
+      "name": "Great Himalayas",
+      "label": "location",
+      "description": "The highest mountain range in the Himalayas, stretching across several countries in Asia",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.6151745687747786
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, home to the Himalayas mountain range and diverse climate zones",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.631920574090487
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, causing significant impacts on the environment, ecosystems, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.590865944766866
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere, influencing climate and weather patterns",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7062299338517258
+    },
+    {
+      "name": "land cover and land use patterns",
+      "label": "variable",
+      "description": "Human activities that alter the Earth's surface, affecting climate, ecosystems, and biodiversity",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6009336547974612
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing climate and weather patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6409653495719957
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, essential for climate, ecosystems, and human societies",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6498951391181245
+    }
+  ],
+  "(2344, 5044)": [
+    {
+      "name": "UNEP",
+      "label": "provider",
+      "description": "The United Nations Environment Programme, an organization focused on environmental issues and sustainable development>",
+      "uuid": "687d4231-8da8-4236-9cc4-26d7ff198578",
+      "score": 0.6217283716710654
+    },
+    {
+      "name": "Himalayan region",
+      "label": "location",
+      "description": "A mountainous region in Asia, home to the highest mountains in the world and sensitive to climate change>",
+      "uuid": "3aef041a-7fe2-4d61-9dee-2e2a29535653",
+      "score": 0.6292240483932539
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the air that can affect climate and weather patterns>",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6819204278290402
+    },
+    {
+      "name": "land cover and land use patterns",
+      "label": "variable",
+      "description": "The ways in which humans use and modify the land, affecting the environment and climate>",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5759249184487577
+    },
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A research area focused on understanding and mitigating the impacts of global warming and changes in the Earth's climate>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5779304287479536
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an organization that assesses the science related to climate change>",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7360134332885229
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, an important factor in climate and weather patterns>",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6508293266708481
+    },
+    {
+      "name": "precipitation patterns",
+      "label": "variable",
+      "description": "The distribution and intensity of rainfall and other forms of moisture in the atmosphere, affecting climate and weather>",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5184779953562284
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The sources of fresh water available for human use, including rivers, lakes, and groundwater>",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.700372732724979
+    },
+    {
+      "name": "glaciers",
+      "label": "natural hazard",
+      "description": "Large, slow-moving rivers of ice and snow that can affect sea levels and climate patterns>",
+      "uuid": "4a426aab-4a95-4bf4-8449-19a72a251541",
+      "score": 0.6285469844188705
+    },
+    {
+      "name": "ecology",
+      "label": "variable",
+      "description": "The study of the relationships between living organisms and their environment, including the impacts of climate change>",
+      "uuid": "6bef0291-a9ca-4832-bbb4-80459dc1493f",
+      "score": 0.5405720555250629
+    },
+    {
+      "name": "agriculture",
+      "label": "variable",
+      "description": "The practice of growing crops and raising livestock, affected by climate and weather patterns>",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5436024129194509
+    },
+    {
+      "name": "extreme precipitation events",
+      "label": "weather event",
+      "description": "Unusual and intense rainfall or snowfall events that can cause damage and disruption>",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.7083488748794886
+    },
+    {
+      "name": "flashfloods",
+      "label": "natural hazard",
+      "description": "Sudden and rapid flooding that can occur after heavy rainfall or other events>",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.5209524648250494
+    },
+    {
+      "name": "landslides",
+      "label": "natural hazard",
+      "description": "The movement of rock, soil, or other materials down a slope, often caused by heavy rainfall or other events>",
+      "uuid": "54e5d072-5a2c-471b-bca0-7e4ca32a2001",
+      "score": 0.7210352341721684
+    },
+    {
+      "name": "Indian western Himalayas",
+      "label": "location",
+      "description": "A mountainous region in India, home to a diverse range of ecosystems and affected by climate change>",
+      "uuid": "3aef041a-7fe2-4d61-9dee-2e2a29535653",
+      "score": 0.5450311779504533
+    },
+    {
+      "name": "Indian summer monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings rainfall and other weather events to India and other parts of Asia>",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6129105719657537
+    },
+    {
+      "name": "Indian winter monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings cooler temperatures and other weather events to India and other parts of Asia>",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.5532171224103971
+    }
+  ],
+  "(4606, 7124)": [
+    {
+      "name": "Himalayas",
+      "label": "location",
+      "description": "A mountain range in Asia, home to the world's highest peaks and a region of significant geological and climatic importance",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.7234977420658987
+    },
+    {
+      "name": "Indian western Himalayas",
+      "label": "location",
+      "description": "A mountain range in Asia, home to diverse geological and climatic features",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.6271359884320276
+    },
+    {
+      "name": "Indian summer monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings significant rainfall to the Indian subcontinent",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.5981267350810481
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to describe climate patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.656643528717541
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used to describe climate patterns",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.669255371214186
+    }
+  ],
+  "(6730, 9730)": [
+    {
+      "name": "India Meteorological Department",
+      "label": "provider",
+      "description": "The national meteorological agency of India, responsible for weather forecasting and climate research>",
+      "uuid": "8ab7b279-982f-41a8-876b-cfa120d066ec",
+      "score": 0.5122517385577289
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, important for understanding climate and weather patterns>",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6578212982833808
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, crucial for understanding climate and weather patterns>",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6759843818688152
+    },
+    {
+      "name": "gridded observational and reanalysis datasets",
+      "label": "dataset",
+      "description": "A type of dataset that provides a comprehensive and consistent representation of climate variables over a specific region>",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.6777478279235412
+    },
+    {
+      "name": "daily precipitation datasets",
+      "label": "dataset",
+      "description": "A type of dataset that provides daily measurements of precipitation, useful for analyzing climate patterns and trends>",
+      "uuid": "81a3e695-afb3-4460-8522-5992309c120d",
+      "score": 0.5907289124297699
+    },
+    {
+      "name": "reanalysis datasets",
+      "label": "dataset",
+      "description": "A type of dataset that provides a re-examination of historical climate data, using modern techniques and models to improve accuracy and consistency>",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7472208161639612
+    },
+    {
+      "name": "statistical tools",
+      "label": "instrument",
+      "description": "Methods and techniques used to analyze and interpret data, important for understanding climate patterns and trends>",
+      "uuid": "997dc5a6-d83f-4d59-8c5a-1d901b069830",
+      "score": 0.5737407587736247
+    },
+    {
+      "name": "standardized anomaly",
+      "label": "variable",
+      "description": "A measure of the deviation of a dataset from its mean, useful for analyzing climate patterns and trends>",
+      "uuid": "1838e31f-ef6d-42f8-b166-71f6cd1aaa57",
+      "score": 0.5964444778167186
+    }
+  ],
+  "(9247, 12238)": [
+    {
+      "name": "Himalaya",
+      "label": "location",
+      "description": "A mountain range in Asia, known for its diverse climate and geography",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.7090365522471586
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in a given environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6093486640171047
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and hail",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7007028350188638
+    }
+  ],
+  "(11682, 14762)": [
+    {
+      "name": "Himalaya",
+      "label": "location",
+      "description": "A mountain range in Asia, home to the world's highest peaks and a region of significant climate variability",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.6803279668828364
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, an important factor in climate studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6533089687309519
+    },
+    {
+      "name": "precipitation patterns",
+      "label": "variable",
+      "description": "The distribution and intensity of rainfall and snowfall in a region, crucial for understanding climate dynamics",
+      "uuid": "279961c4-dac3-4188-917f-fa11982f957e",
+      "score": 0.5468901815513774
+    },
+    {
+      "name": "CRU",
+      "label": "provider",
+      "description": "The Climatic Research Unit, an academic institution focused on climate research and the development of climate datasets",
+      "uuid": "a32f3c0b-b3e9-4e93-a9d2-53c2f61404d8",
+      "score": 0.6191228752153027
+    },
+    {
+      "name": "NNRP",
+      "label": "provider",
+      "description": "An organization or dataset provider, possibly related to climate research or data collection",
+      "uuid": "42c653df-d2e4-44ce-b0b7-63d587768cb5",
+      "score": 0.620290404101214
+    },
+    {
+      "name": "ERA",
+      "label": "provider",
+      "description": "A dataset or organization related to climate research, possibly the European Reanalysis dataset",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.6636846640652783
+    },
+    {
+      "name": "IMDST",
+      "label": "provider",
+      "description": "A dataset or organization related to climate research, possibly the India Meteorological Department dataset",
+      "uuid": "8409655c-1bc7-41a7-8de5-6ec8552ef7d3",
+      "score": 0.5490472190379719
+    },
+    {
+      "name": "warming climate",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability characterized by increasing temperatures over time",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5913803863028531
+    }
+  ],
+  "(14301, 17221)": [
+    {
+      "name": "CRU",
+      "label": "provider",
+      "description": "The Climatic Research Unit, an academic institution focused on climate research and the development of climate datasets",
+      "uuid": "a32f3c0b-b3e9-4e93-a9d2-53c2f61404d8",
+      "score": 0.6191228752153027
+    },
+    {
+      "name": "ERA",
+      "label": "provider",
+      "description": "The European Reanalysis dataset, a project that provides historical climate data for the European region",
+      "uuid": "32658d24-ab47-41b5-9614-2becccde8e55",
+      "score": 0.7082358245816279
+    },
+    {
+      "name": "NNRP",
+      "label": "provider",
+      "description": "An organization or dataset provider, possibly related to climate research or data collection",
+      "uuid": "42c653df-d2e4-44ce-b0b7-63d587768cb5",
+      "score": 0.620290404101214
+    },
+    {
+      "name": "IMDST",
+      "label": "provider",
+      "description": "The India Meteorological Department dataset, a collection of climate and weather data for the Indian region",
+      "uuid": "8409655c-1bc7-41a7-8de5-6ec8552ef7d3",
+      "score": 0.542195743497643
+    },
+    {
+      "name": "IMD",
+      "label": "provider",
+      "description": "The India Meteorological Department, a government agency responsible for meteorological observations and forecasting",
+      "uuid": "8409655c-1bc7-41a7-8de5-6ec8552ef7d3",
+      "score": 0.5394900479402255
+    },
+    {
+      "name": "annual temperature anomaly",
+      "label": "variable",
+      "description": "A measure of the deviation of temperature from its average value over a year",
+      "uuid": "1838e31f-ef6d-42f8-b166-71f6cd1aaa57",
+      "score": 0.677594205014943
+    },
+    {
+      "name": "warming climate",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the increase in Earth's average surface temperature, leading to changes in climate patterns",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6488926571542211
+    },
+    {
+      "name": "temperature time series",
+      "label": "variable",
+      "description": "A sequence of temperature data measured over time",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5481638523489126
+    }
+  ],
+  "(16763, 19592)": [
+    {
+      "name": "ERA",
+      "label": "dataset",
+      "description": "A reanalysis dataset provided by the European Centre for Medium-Range Weather Forecasts, used for climate research and analysis",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.7423616372632831
+    },
+    {
+      "name": "CRU",
+      "label": "dataset",
+      "description": "A dataset provided by the Climatic Research Unit, containing climate data such as temperature and precipitation",
+      "uuid": "a32f3c0b-b3e9-4e93-a9d2-53c2f61404d8",
+      "score": 0.6075065333668483
+    },
+    {
+      "name": "NNRP",
+      "label": "dataset",
+      "description": "A dataset used for climate analysis, possibly containing information on temperature and precipitation trends",
+      "uuid": "42c653df-d2e4-44ce-b0b7-63d587768cb5",
+      "score": 0.5893859604544878
+    },
+    {
+      "name": "IMDST",
+      "label": "dataset",
+      "description": "A dataset provided by the India Meteorological Department, containing climate data such as temperature and precipitation",
+      "uuid": "8409655c-1bc7-41a7-8de5-6ec8552ef7d3",
+      "score": 0.5317213589303657
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, used to analyze climate trends",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6565789359462191
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall or snowfall, used to analyze climate trends",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6753360560174664
+    },
+    {
+      "name": "CMORPH",
+      "label": "dataset",
+      "description": "A dataset providing precipitation data, possibly used for climate analysis",
+      "uuid": "1810678e-9c36-4260-b9a2-eb69eda1ffe4",
+      "score": 0.7620258221233374
+    },
+    {
+      "name": "TRMM",
+      "label": "dataset",
+      "description": "A dataset providing precipitation data, possibly used for climate analysis",
+      "uuid": "c0d19469-fd24-40f9-a3b1-872c7117460f",
+      "score": 0.7283402168810784
+    },
+    {
+      "name": "IMDG",
+      "label": "dataset",
+      "description": "A dataset provided by the India Meteorological Department, containing precipitation data",
+      "uuid": "ddc22852-f7e9-40e2-a488-6b3e48c6fe04",
+      "score": 0.5606881920173175
+    },
+    {
+      "name": "IMDS",
+      "label": "dataset",
+      "description": "A dataset provided by the India Meteorological Department, containing precipitation data",
+      "uuid": "8409655c-1bc7-41a7-8de5-6ec8552ef7d3",
+      "score": 0.5728374628096454
+    },
+    {
+      "name": "AIRFORCE",
+      "label": "dataset",
+      "description": "A dataset provided by the Indian Air Force, containing precipitation data",
+      "uuid": "43939b44-2011-43c6-a430-9902b98be19c",
+      "score": 0.5305851073571747
+    }
+  ],
+  "(19105, 21972)": [
+    {
+      "name": "Ladakh range",
+      "label": "location",
+      "description": "A mountain range in the Indian Himalayas, known for its unique geography and climate>",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.5078969599818018
+    },
+    {
+      "name": "CMORPH",
+      "label": "dataset",
+      "description": "A precipitation dataset that provides global precipitation estimates>",
+      "uuid": "1810678e-9c36-4260-b9a2-eb69eda1ffe4",
+      "score": 0.7497219574358628
+    },
+    {
+      "name": "IMDG",
+      "label": "dataset",
+      "description": "A precipitation dataset provided by the India Meteorological Department>",
+      "uuid": "ddc22852-f7e9-40e2-a488-6b3e48c6fe04",
+      "score": 0.5634266653055817
+    },
+    {
+      "name": "TRMM",
+      "label": "dataset",
+      "description": "The Tropical Rainfall Measuring Mission, a satellite-based precipitation dataset>",
+      "uuid": "168a28d0-b862-4f23-944d-776b00b6feb2",
+      "score": 0.7463674404119482
+    },
+    {
+      "name": "IMDS",
+      "label": "dataset",
+      "description": "A precipitation dataset, possibly referring to a specific station or network>",
+      "uuid": "ae736664-99ba-4b79-ae51-a4045460feca",
+      "score": 0.5687010412064253
+    },
+    {
+      "name": "AIRFORCE",
+      "label": "dataset",
+      "description": "A precipitation dataset, possibly referring to a specific station or network>",
+      "uuid": "aeec8336-4b23-4f14-a985-9ca0150f1afd",
+      "score": 0.551914531778903
+    },
+    {
+      "name": "GPCP",
+      "label": "dataset",
+      "description": "The Global Precipitation Climatology Project, a precipitation dataset>",
+      "uuid": "502ea6bd-45e9-45af-9092-a4cbe6ba2e7e",
+      "score": 0.8206612773952507
+    },
+    {
+      "name": "GPCC",
+      "label": "dataset",
+      "description": "The Global Precipitation Climatology Centre, a precipitation dataset>",
+      "uuid": "14ded00a-80a7-4d9d-8180-10f8f251275d",
+      "score": 0.7678489173060132
+    },
+    {
+      "name": "Indian sub-continent",
+      "label": "location",
+      "description": "A region in South Asia that includes India, Pakistan, and other surrounding countries>",
+      "uuid": "ef8a6ecf-f0ca-4e05-81f9-d3be89e1ddc4",
+      "score": 0.5395039337834073
+    },
+    {
+      "name": "monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings significant precipitation to certain regions>",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6857605980395506
+    },
+    {
+      "name": "precipitation anomaly",
+      "label": "variable",
+      "description": "A measure of the deviation of precipitation from its normal or expected value>",
+      "uuid": "22a4ddef-90f0-4935-a13d-26b14723a956",
+      "score": 0.6764494568726236
+    },
+    {
+      "name": "monthly precipitation anomaly",
+      "label": "variable",
+      "description": "A measure of the deviation of monthly precipitation from its normal or expected value>",
+      "uuid": "22a4ddef-90f0-4935-a13d-26b14723a956",
+      "score": 0.593409926189141
+    },
+    {
+      "name": "daily precipitation trends",
+      "label": "variable",
+      "description": "A measure of the change in daily precipitation over time>",
+      "uuid": "279961c4-dac3-4188-917f-fa11982f957e",
+      "score": 0.6181713605590505
+    }
+  ],
+  "(21461, 24457)": [
+    {
+      "name": "IMDG",
+      "label": "dataset",
+      "description": "A precipitation observation dataset used for analyzing climatology of precipitation trends",
+      "uuid": "ddc22852-f7e9-40e2-a488-6b3e48c6fe04",
+      "score": 0.5472616856053215
+    },
+    {
+      "name": "CMORPH",
+      "label": "dataset",
+      "description": "A precipitation observation dataset used for analyzing climatology of precipitation trends",
+      "uuid": "1810678e-9c36-4260-b9a2-eb69eda1ffe4",
+      "score": 0.7388880470166034
+    },
+    {
+      "name": "TRMM",
+      "label": "dataset",
+      "description": "The Tropical Rainfall Measuring Mission dataset, used for observing and studying precipitation patterns",
+      "uuid": "168a28d0-b862-4f23-944d-776b00b6feb2",
+      "score": 0.7311272055325533
+    },
+    {
+      "name": "precipitation anomaly",
+      "label": "variable",
+      "description": "A measure of the deviation of precipitation from its normal or average value",
+      "uuid": "22a4ddef-90f0-4935-a13d-26b14723a956",
+      "score": 0.6718906351238739
+    },
+    {
+      "name": "precipitation trend",
+      "label": "variable",
+      "description": "A measure of the change in precipitation patterns over time",
+      "uuid": "279961c4-dac3-4188-917f-fa11982f957e",
+      "score": 0.6727875267857546
+    },
+    {
+      "name": "GPCC",
+      "label": "dataset",
+      "description": "A precipitation observation dataset used for analyzing climatology of precipitation trends",
+      "uuid": "14ded00a-80a7-4d9d-8180-10f8f251275d",
+      "score": 0.7183462075762748
+    },
+    {
+      "name": "IMDS",
+      "label": "dataset",
+      "description": "A precipitation observation dataset used for analyzing climatology of precipitation trends",
+      "uuid": "b8396583-a28a-4692-a94c-708f383f19c8",
+      "score": 0.5327950982935427
+    }
+  ],
+  "(24001, 27024)": [
+    {
+      "name": "GPCC",
+      "label": "dataset",
+      "description": "The Global Precipitation Climatology Centre, a dataset providing global precipitation data",
+      "uuid": "14ded00a-80a7-4d9d-8180-10f8f251275d",
+      "score": 0.7725747049006451
+    },
+    {
+      "name": "IMDG",
+      "label": "dataset",
+      "description": "A dataset providing precipitation data for a specific region",
+      "uuid": "ddc22852-f7e9-40e2-a488-6b3e48c6fe04",
+      "score": 0.5545161528223205
+    },
+    {
+      "name": "IMDS",
+      "label": "dataset",
+      "description": "A dataset providing precipitation data for a specific region",
+      "uuid": "b8396583-a28a-4692-a94c-708f383f19c8",
+      "score": 0.5483377363537314
+    },
+    {
+      "name": "GPCP",
+      "label": "dataset",
+      "description": "The Global Precipitation Climatology Project, a dataset providing global precipitation data",
+      "uuid": "502ea6bd-45e9-45af-9092-a4cbe6ba2e7e",
+      "score": 0.8363700039745847
+    },
+    {
+      "name": "TRMM",
+      "label": "dataset",
+      "description": "The Tropical Rainfall Measuring Mission, a dataset providing precipitation data for the tropics",
+      "uuid": "168a28d0-b862-4f23-944d-776b00b6feb2",
+      "score": 0.7442627478084722
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6473658017629415
+    },
+    {
+      "name": "precipitation extremes",
+      "label": "weather event",
+      "description": "Unusual and severe precipitation events, such as heavy rainfall or droughts",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6509186685533417
+    },
+    {
+      "name": "storm data",
+      "label": "dataset",
+      "description": "A collection of data related to storms, including precipitation, wind, and other meteorological variables",
+      "uuid": "8b85871f-7851-4320-9eec-6aa26b9310f7",
+      "score": 0.6272219524597934
+    },
+    {
+      "name": "cloudburst events",
+      "label": "weather event",
+      "description": "Intense and short-lived precipitation events, often associated with heavy rainfall and flash flooding",
+      "uuid": "9da19ae9-799f-4885-8fb8-564ca803639a",
+      "score": 0.5147759936927444
+    },
+    {
+      "name": "arid region",
+      "label": "location",
+      "description": "A dry and often hot region with low precipitation, vulnerable to droughts and other climate-related hazards",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.5144000181931431
+    }
+  ],
+  "(26473, 29736)": [
+    {
+      "name": "TRMM",
+      "label": "instrument",
+      "description": "The Tropical Rainfall Measuring Mission, a satellite-based instrument used to measure precipitation",
+      "uuid": "168a28d0-b862-4f23-944d-776b00b6feb2",
+      "score": 0.7524430492751936
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used in climate and environmental studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6638889393109978
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used in climate and environmental studies",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6778700001735765
+    },
+    {
+      "name": "extreme events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6209287387682679
+    }
+  ],
+  "(29139, 32063)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat in the atmosphere, influencing climate patterns and weather events",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6308203292775226
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture falling to the ground, crucial for understanding climate trends and patterns",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6534266177662159
+    },
+    {
+      "name": "cryosphere",
+      "label": "location",
+      "description": "The portions of the Earth's surface where water is in solid form, including ice caps, glaciers, and frozen ground",
+      "uuid": "fa0a36c3-2503-4662-98cd-7f3e74ce9f80",
+      "score": 0.7438595167766513
+    },
+    {
+      "name": "ecology",
+      "label": "variable",
+      "description": "The study of the relationships between living organisms and their environment, including the impact of climate change on ecosystems",
+      "uuid": "6bef0291-a9ca-4832-bbb4-80459dc1493f",
+      "score": 0.5349301437252567
+    },
+    {
+      "name": "hydrology",
+      "label": "variable",
+      "description": "The study of the movement, distribution, and quality of water on Earth, including the impact of climate change on water resources",
+      "uuid": "9a0c4d32-54c1-450e-aafd-f086678ed176",
+      "score": 0.5034850149103468
+    },
+    {
+      "name": "agriculture",
+      "label": "variable",
+      "description": "The practice of cultivating the soil, growing crops, and raising livestock, often affected by changes in climate and precipitation patterns",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5341817926081257
+    },
+    {
+      "name": "transport",
+      "label": "variable",
+      "description": "The movement of people, goods, and services, which can be impacted by changes in climate and environmental conditions",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.5823126848584388
+    },
+    {
+      "name": "GPCC",
+      "label": "dataset",
+      "description": "The Global Precipitation Climatology Centre dataset, providing precipitation data for climate research and analysis",
+      "uuid": "14ded00a-80a7-4d9d-8180-10f8f251275d",
+      "score": 0.7728805579554354
+    },
+    {
+      "name": "CMORPH",
+      "label": "dataset",
+      "description": "The Climate Prediction Centre Morphing dataset, used for precipitation analysis and climate research",
+      "uuid": "1810678e-9c36-4260-b9a2-eb69eda1ffe4",
+      "score": 0.7537905897351884
+    },
+    {
+      "name": "TRMM",
+      "label": "dataset",
+      "description": "The Tropical Rainfall Measuring Mission dataset, providing precipitation data for tropical regions",
+      "uuid": "c0d19469-fd24-40f9-a3b1-872c7117460f",
+      "score": 0.7414181508057963
+    },
+    {
+      "name": "IMDG",
+      "label": "dataset",
+      "description": "The India Meteorological Department Gridded dataset, providing precipitation data for India",
+      "uuid": "ddc22852-f7e9-40e2-a488-6b3e48c6fe04",
+      "score": 0.5274570366618219
+    },
+    {
+      "name": "AIRFORCE",
+      "label": "dataset",
+      "description": "A dataset provided by the air force, used for precipitation analysis",
+      "uuid": "dce7305d-4c01-4f7d-864f-5f05dbe48c9c",
+      "score": 0.5460798718508387
+    },
+    {
+      "name": "IMDS",
+      "label": "dataset",
+      "description": "The India Meteorological Department Station dataset, providing precipitation data for India",
+      "uuid": "8409655c-1bc7-41a7-8de5-6ec8552ef7d3",
+      "score": 0.5385338486919445
+    },
+    {
+      "name": "GPCP",
+      "label": "dataset",
+      "description": "The Global Precipitation Climatology Project dataset, used for precipitation analysis and climate research",
+      "uuid": "502ea6bd-45e9-45af-9092-a4cbe6ba2e7e",
+      "score": 0.8267294347445286
+    },
+    {
+      "name": "different gridded datasets",
+      "label": "dataset",
+      "description": "A collection of datasets providing gridded precipitation data for climate research and analysis",
+      "uuid": "143fe1fa-faed-4228-9ef1-55dbbf37bd6c",
+      "score": 0.5618423902063502
+    },
+    {
+      "name": "ANNUAL PRECIPITATION ANOMALY",
+      "label": "variable",
+      "description": "A measure of the deviation of annual precipitation from the average, used to analyze climate trends and patterns",
+      "uuid": "22a4ddef-90f0-4935-a13d-26b14723a956",
+      "score": 0.6266329560172579
+    }
+  ],
+  "(31785, 32279)": [
+    {
+      "name": "HRO",
+      "label": "dataset",
+      "description": "A dataset used for precipitation analysis, possibly referring to a specific satellite or gauge-based observation dataset",
+      "uuid": "ae736664-99ba-4b79-ae51-a4045460feca",
+      "score": 0.5336703993584163
+    },
+    {
+      "name": "TRMM",
+      "label": "dataset",
+      "description": "The Tropical Rainfall Measuring Mission, a satellite-based dataset for precipitation measurement",
+      "uuid": "168a28d0-b862-4f23-944d-776b00b6feb2",
+      "score": 0.748391040672088
+    },
+    {
+      "name": "CMORPH",
+      "label": "dataset",
+      "description": "The Climate Prediction Center Morphing technique, a precipitation dataset derived from satellite imagery",
+      "uuid": "1810678e-9c36-4260-b9a2-eb69eda1ffe4",
+      "score": 0.7509543984880108
+    },
+    {
+      "name": "GPCP",
+      "label": "dataset",
+      "description": "The Global Precipitation Climatology Project, a dataset combining precipitation measurements from various sources",
+      "uuid": "502ea6bd-45e9-45af-9092-a4cbe6ba2e7e",
+      "score": 0.8324061063501117
+    },
+    {
+      "name": "IMDS",
+      "label": "dataset",
+      "description": "Possibly referring to a specific dataset or project related to precipitation measurement, but exact definition not provided",
+      "uuid": "8409655c-1bc7-41a7-8de5-6ec8552ef7d3",
+      "score": 0.5708662624469224
+    },
+    {
+      "name": "GPCC",
+      "label": "dataset",
+      "description": "The Global Precipitation Climatology Centre, a dataset providing global precipitation analysis",
+      "uuid": "14ded00a-80a7-4d9d-8180-10f8f251275d",
+      "score": 0.774335386709672
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water falling to Earth's surface, an important climate variable",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.657313045610292
+    }
+  ]
+}

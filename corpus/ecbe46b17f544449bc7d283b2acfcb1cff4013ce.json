@@ -1,0 +1,992 @@
+{
+  "(0, 2937)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "tropical Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, playing a significant role in global climate variability",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.5690971429663044
+    },
+    {
+      "name": "equatorial Pacific east-west temperature gradient",
+      "label": "variable",
+      "description": "A measure of the difference in temperature between the eastern and western equatorial Pacific, influencing climate patterns",
+      "uuid": "01b96758-13f3-4cea-8447-decae36b1bde",
+      "score": 0.5194911750785453
+    },
+    {
+      "name": "greenhouse warming experiments",
+      "label": "experiment",
+      "description": "Climate simulations designed to study the effects of increased greenhouse gases on the climate system",
+      "uuid": "8b5bbffc-65f9-4ec5-ad46-ecb2d4d0745f",
+      "score": 0.5251066706285157
+    },
+    {
+      "name": "CMIP6 dataset",
+      "label": "project",
+      "description": "A collection of data from climate models participating in the Coupled Model Intercomparison Project Phase 6",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7492783503909376
+    },
+    {
+      "name": "abrupt CO2-increase scenarios",
+      "label": "experiment",
+      "description": "Climate simulations that involve a sudden increase in CO2 levels to study the response of the climate system",
+      "uuid": "3c8b758e-ca35-4dce-adfc-513a8170a896",
+      "score": 0.6252258933879741
+    },
+    {
+      "name": "eastern equatorial Pacific (EP) warming pattern",
+      "label": "weather event",
+      "description": "A climate pattern characterized by warming of the eastern equatorial Pacific, influencing global climate variability",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.5959149183095991
+    },
+    {
+      "name": "aerosol effects",
+      "label": "variable",
+      "description": "The impact of aerosols on the climate system, including their influence on temperature and precipitation patterns",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5528961166786237
+    },
+    {
+      "name": "El Ni\u00f1o-Southern Oscillation (ENSO)",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by fluctuations in the temperature of the Pacific Ocean, influencing global climate patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7924598669378077
+    },
+    {
+      "name": "Pacific trade winds",
+      "label": "ocean circulation",
+      "description": "Winds that blow from east to west in the Pacific Ocean, driving ocean currents and influencing climate patterns",
+      "uuid": "346cade5-801a-4afc-9652-48d02905bc4f",
+      "score": 0.5315164667399496
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "A body of water located between Africa, Asia, and Australia, playing a significant role in global climate variability",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.7557522423819832
+    },
+    {
+      "name": "sea surface temperature (SST)",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, influencing climate patterns and marine ecosystems",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7307877418833604
+    },
+    {
+      "name": "sea level pressure (SLP)",
+      "label": "variable",
+      "description": "The pressure of the atmosphere at sea level, influencing climate patterns and weather systems",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.7198661192928676
+    },
+    {
+      "name": "Climate Model Intercomparison Project Phase 6 (CMIP6)",
+      "label": "project",
+      "description": "A framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7937203396439729
+    }
+  ],
+  "(2501, 5302)": [
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "A body of water located between Africa, Asia, Australia, and the Southern Ocean, playing a significant role in global climate patterns>",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.7658545095977372
+    },
+    {
+      "name": "Pacific",
+      "label": "location",
+      "description": "The largest of the world's five oceans, extending from the Arctic Ocean in the north to the Southern Ocean in the south, and lying between the western coast of the Americas and the eastern coast of Asia>",
+      "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+      "score": 0.7380359215011578
+    },
+    {
+      "name": "ocean GCMs",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict the behavior of the world's oceans>",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6506714397234067
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that plays a significant role in the Earth's climate system, influencing global temperatures and weather patterns>",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6473458577481589
+    },
+    {
+      "name": "Paci c cooling",
+      "label": "weather event",
+      "description": "A phenomenon characterized by a decrease in sea surface temperatures in the Pacific Ocean, which can have significant impacts on global climate patterns>",
+      "uuid": "2de06b90-4abe-4c71-a537-978679bf8aea",
+      "score": 0.5146371313751377
+    },
+    {
+      "name": "SST changes",
+      "label": "variable",
+      "description": "Changes in sea surface temperatures, which can influence global climate patterns and weather events>",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.59764095601238
+    },
+    {
+      "name": "Indian and Atlantic oceans",
+      "label": "location",
+      "description": "Two of the world's five oceans, playing significant roles in global climate patterns and weather events>",
+      "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+      "score": 0.5831506697011584
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions>",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.807598701651389
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, sophisticated computer simulations used to represent and predict the behavior of the Earth's climate system>",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7469261025240105
+    },
+    {
+      "name": "EP warming pattern",
+      "label": "weather event",
+      "description": "A phenomenon characterized by an increase in sea surface temperatures in the eastern equatorial Pacific, which can have significant impacts on global climate patterns>",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.5752489476414636
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon characterized by fluctuations in sea surface temperatures and atmospheric pressures in the Pacific Ocean>",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7883735997333013
+    },
+    {
+      "name": "CMIP6 archive",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions>",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7621111593137597
+    }
+  ],
+  "(4759, 7689)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate pattern that affects global climate variability",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.78284076362775
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, computational representations of the Earth's climate system used to simulate and predict climate patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7643747536022683
+    },
+    {
+      "name": "tropical Paci c",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, known for its significant role in global climate variability",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.5587832594120411
+    },
+    {
+      "name": "Indian Oceans",
+      "label": "location",
+      "description": "A body of water located between Africa, Asia, Australia, and the Southern Ocean, playing a crucial role in global ocean circulation and climate regulation",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.7505659546740199
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that affects the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.673980951679625
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Small particles in the atmosphere that can influence climate patterns by reflecting or absorbing solar radiation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6880324036596764
+    },
+    {
+      "name": "Indo-Paci c warm pool region",
+      "label": "location",
+      "description": "A region of warm ocean water in the western Pacific and eastern Indian Oceans, known for its significant role in global climate variability",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.7279132014072855
+    },
+    {
+      "name": "CMIP6 archive",
+      "label": "project",
+      "description": "A collection of climate model simulations and data from the Coupled Model Intercomparison Project Phase 6",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7178262751780939
+    },
+    {
+      "name": "CMIP6 model experiments",
+      "label": "experiment",
+      "description": "A set of climate model simulations using the Coupled Model Intercomparison Project Phase 6 framework",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.722957155708396
+    },
+    {
+      "name": "abrupt CO2-increase experiments",
+      "label": "experiment",
+      "description": "Climate model simulations that involve a sudden increase in carbon dioxide concentrations",
+      "uuid": "3c8b758e-ca35-4dce-adfc-513a8170a896",
+      "score": 0.6906492476516203
+    },
+    {
+      "name": "historical full-forcing experiment",
+      "label": "experiment",
+      "description": "Climate model simulations that use historical data and include all relevant climate forcing factors",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.7096032931423247
+    },
+    {
+      "name": "Shared Social Pathway",
+      "label": "project",
+      "description": "A framework for exploring different scenarios of future societal development and their implications for climate change",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.6726211712523593
+    }
+  ],
+  "(7226, 10148)": [
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas with a significant impact on Earth's climate system, often used in climate simulations to study global warming effects",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.6348459662114796
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, playing a crucial role in global climate patterns and El Ni\u00f1o events",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.5636318600846593
+    },
+    {
+      "name": "abrupt CO2-increase experiment",
+      "label": "experiment",
+      "description": "A climate simulation designed to test the effects of a sudden increase in CO2 levels on the Earth's climate system",
+      "uuid": "3c8b758e-ca35-4dce-adfc-513a8170a896",
+      "score": 0.6675778452643494
+    },
+    {
+      "name": "gradual 1pct forcing",
+      "label": "experiment",
+      "description": "A climate simulation where CO2 levels are increased gradually by 1% per year to study the response of the climate system",
+      "uuid": "601b0a0b-5845-4bdb-bcfa-4ecc0c1f455a",
+      "score": 0.6775278870405547
+    },
+    {
+      "name": "southern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth south of the equator, including the Antarctic region and parts of South America, Africa, and Australia",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7879784627715689
+    },
+    {
+      "name": "cloud feedbacks",
+      "label": "variable",
+      "description": "The response of clouds to changes in the climate system, which can either amplify or dampen the effects of global warming",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.612746800396439
+    },
+    {
+      "name": "upper ocean",
+      "label": "location",
+      "description": "The upper layer of the ocean, which plays a crucial role in the global climate system and the response to CO2-forcing",
+      "uuid": "64074461-95d0-4538-869a-0114e39216aa",
+      "score": 0.523844766671501
+    }
+  ],
+  "(9688, 12411)": [
+    {
+      "name": "4xCO2 experiments",
+      "label": "experiment",
+      "description": "A type of climate simulation where the CO2 concentration is quadrupled to study its impact on the climate system",
+      "uuid": "1646ea4b-c41c-47ee-9912-64a6803b3755",
+      "score": 0.6982029761583581
+    },
+    {
+      "name": "abrupt 4xCO2 experiments",
+      "label": "experiment",
+      "description": "A type of climate simulation where the CO2 concentration is suddenly quadrupled to study its impact on the climate system",
+      "uuid": "3c8b758e-ca35-4dce-adfc-513a8170a896",
+      "score": 0.8247294745944671
+    },
+    {
+      "name": "ssp730 scenario",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario that assumes a moderate level of greenhouse gas emissions and a decline in aerosol emissions",
+      "uuid": "7cfb3ea4-6206-4239-97e9-52032fd1051e",
+      "score": 0.6669322608678598
+    },
+    {
+      "name": "full historical forcing",
+      "label": "experiment",
+      "description": "A type of climate simulation that takes into account all the historical climate forcings, including greenhouse gases, aerosols, and natural variability",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.6266526825942461
+    },
+    {
+      "name": "1pct CO2-only experiments",
+      "label": "experiment",
+      "description": "A type of climate simulation where the CO2 concentration is increased by 1% per year to study its impact on the climate system",
+      "uuid": "601b0a0b-5845-4bdb-bcfa-4ecc0c1f455a",
+      "score": 0.7475181388818082
+    },
+    {
+      "name": "temperature gradient",
+      "label": "variable",
+      "description": "A measure of the change in temperature over a given distance or time period",
+      "uuid": "99d567bb-7767-4ea4-a135-a611eac6a669",
+      "score": 0.6928940734402966
+    },
+    {
+      "name": "abrupt forcing experiments",
+      "label": "experiment",
+      "description": "A type of climate simulation where a sudden change in climate forcing is applied to study its impact on the climate system",
+      "uuid": "3c8b758e-ca35-4dce-adfc-513a8170a896",
+      "score": 0.6970559638675685
+    },
+    {
+      "name": "abrupt CO2-increase experiment",
+      "label": "experiment",
+      "description": "A type of climate simulation where the CO2 concentration is suddenly increased to study its impact on the climate system",
+      "uuid": "3c8b758e-ca35-4dce-adfc-513a8170a896",
+      "score": 0.6932436172310631
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that can affect the climate by reflecting or absorbing sunlight",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6862920082336104
+    },
+    {
+      "name": "Full-forcing historical and future projections",
+      "label": "project",
+      "description": "A type of climate simulation that takes into account all the historical and future climate forcings to make projections about future climate change",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5569364277269355
+    },
+    {
+      "name": "4xCO2 abrupt experiments",
+      "label": "experiment",
+      "description": "A type of climate simulation where the CO2 concentration is suddenly quadrupled to study its impact on the climate system",
+      "uuid": "3c8b758e-ca35-4dce-adfc-513a8170a896",
+      "score": 0.8117075186097176
+    },
+    {
+      "name": "ssp858 scenarios",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario that assumes a high level of greenhouse gas emissions and a decline in aerosol emissions",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.6825088734345909
+    },
+    {
+      "name": "GHG-only historical runs",
+      "label": "experiment",
+      "description": "A type of climate simulation that only takes into account the historical changes in greenhouse gas concentrations",
+      "uuid": "c86fb3a2-e584-4c2d-8d17-9110d15267d5",
+      "score": 0.6035066402247327
+    },
+    {
+      "name": "Pacific SST gradient",
+      "label": "variable",
+      "description": "A measure of the change in sea surface temperature over a given distance or time period in the Pacific Ocean",
+      "uuid": "01b96758-13f3-4cea-8447-decae36b1bde",
+      "score": 0.5142105463883754
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that affects the climate by trapping heat in the atmosphere",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6425658489765611
+    }
+  ],
+  "(11962, 14988)": [
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles or droplets in the air that can affect climate by reflecting sunlight or influencing cloud formation>",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.686367137927265
+    },
+    {
+      "name": "historical GHG-only and aerosol-only experiments",
+      "label": "experiment",
+      "description": "Climate simulations that isolate the effects of greenhouse gases (GHG) or aerosols on the climate system>",
+      "uuid": "c86fb3a2-e584-4c2d-8d17-9110d15267d5",
+      "score": 0.6524035420038202
+    },
+    {
+      "name": "aerosol effects",
+      "label": "variable",
+      "description": "The impact of aerosols on climate, including cooling or warming effects>",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5745307829468141
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The difference between the amount of energy absorbed by the Earth and the amount of energy emitted back into space>",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7537799623038244
+    },
+    {
+      "name": "global temperatures",
+      "label": "variable",
+      "description": "The average temperature of the Earth's surface, often used as an indicator of climate change>",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5599681123857776
+    },
+    {
+      "name": "4xCO2 experiments",
+      "label": "experiment",
+      "description": "Climate simulations where the concentration of carbon dioxide is quadrupled to study its effects on the climate system>",
+      "uuid": "1646ea4b-c41c-47ee-9912-64a6803b3755",
+      "score": 0.6862123858870371
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, often measured to study climate patterns and changes>",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.7217244810697709
+    },
+    {
+      "name": "abrupt CO2-only experiments",
+      "label": "experiment",
+      "description": "Climate simulations that suddenly increase CO2 levels to study the response of the climate system>",
+      "uuid": "3c8b758e-ca35-4dce-adfc-513a8170a896",
+      "score": 0.6834698790558534
+    },
+    {
+      "name": "GHG-only historical simulations",
+      "label": "experiment",
+      "description": "Climate simulations that only consider the effects of greenhouse gases on the historical climate>",
+      "uuid": "c86fb3a2-e584-4c2d-8d17-9110d15267d5",
+      "score": 0.6355950636191185
+    },
+    {
+      "name": "full historical forcing",
+      "label": "variable",
+      "description": "The complete set of factors that have influenced the climate system over a historical period, including greenhouse gases, aerosols, and others>",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5648319858686189
+    },
+    {
+      "name": "aerosol-only model-mean historical simulation",
+      "label": "experiment",
+      "description": "A climate simulation that only considers the effects of aerosols on the historical climate>",
+      "uuid": "1cefb08c-f354-4962-b1a9-4afa5e035df1",
+      "score": 0.6163618312174535
+    },
+    {
+      "name": "full-forcing historical simulations",
+      "label": "experiment",
+      "description": "Climate simulations that take into account all the factors that have influenced the climate system over a historical period>",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.6170260188672059
+    },
+    {
+      "name": "low pressure anomalies",
+      "label": "variable",
+      "description": "Unusual patterns of low atmospheric pressure that can influence weather and climate>",
+      "uuid": "011bed30-f5b6-4b46-a7ce-797851f24f24",
+      "score": 0.5914232701938479
+    },
+    {
+      "name": "GHG-only historical runs",
+      "label": "experiment",
+      "description": "Climate simulations that only consider the effects of greenhouse gases on the historical climate>",
+      "uuid": "c86fb3a2-e584-4c2d-8d17-9110d15267d5",
+      "score": 0.6492764312384882
+    },
+    {
+      "name": "tropical Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean near the equator, known for its significant role in global climate variability>",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.5685522271438825
+    },
+    {
+      "name": "South Asia",
+      "label": "location",
+      "description": "A region in southern Asia that includes countries such as India, Pakistan, and Bangladesh>",
+      "uuid": "ef8a6ecf-f0ca-4e05-81f9-d3be89e1ddc4",
+      "score": 0.6303033714285385
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "The ocean between Africa, Asia, Australia, and the Southern Ocean, playing a key role in global climate patterns>",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.7304360109159999
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean near the equator, known for its significant role in global climate variability>",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.5597320134592523
+    }
+  ],
+  "(14438, 17322)": [
+    {
+      "name": "HadGEM3-GC31-LL",
+      "label": "model",
+      "description": "A climate model developed by the Met Office, used for simulating and predicting Earth's climate system",
+      "uuid": "39cd06df-41ed-4a40-bf75-8f2b304282bb",
+      "score": 0.7690498265483737
+    },
+    {
+      "name": "CESM2-FV2",
+      "label": "model",
+      "description": "A climate model developed by the National Center for Atmospheric Research, used for simulating and predicting Earth's climate system",
+      "uuid": "0c1845dc-bb1e-4b91-82c0-efe1aef8359f",
+      "score": 0.7853400799727461
+    },
+    {
+      "name": "TaiESM1",
+      "label": "model",
+      "description": "A climate model developed by the National Center for Atmospheric Research, used for simulating and predicting Earth's climate system",
+      "uuid": "f083ae80-224b-4453-8a18-d1b13d9d2f90",
+      "score": 0.7097755591599808
+    },
+    {
+      "name": "UKESM1",
+      "label": "model",
+      "description": "A climate model developed by the Met Office, used for simulating and predicting Earth's climate system",
+      "uuid": "2bb1bd9a-34c4-4bef-a5d9-f353462c85e0",
+      "score": 0.6771918357335583
+    },
+    {
+      "name": "MIROC6",
+      "label": "model",
+      "description": "A climate model developed by the University of Tokyo, used for simulating and predicting Earth's climate system",
+      "uuid": "8a70e437-b771-48d6-82e3-2d0ff2fdfc74",
+      "score": 0.754024792029268
+    },
+    {
+      "name": "CNRM-CM6",
+      "label": "model",
+      "description": "A climate model developed by the Centre National de Recherches M\u00e9t\u00e9orologiques, used for simulating and predicting Earth's climate system",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.8395946713017036
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that can affect climate by reflecting or absorbing sunlight",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6855414416566176
+    },
+    {
+      "name": "southern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies south of the equator, including Antarctica, South America, Africa, and Australia",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7801418208113836
+    },
+    {
+      "name": "Indian ocean",
+      "label": "location",
+      "description": "The ocean between Africa, Asia, Australia, and the Southern Ocean, playing a significant role in global climate patterns",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.7251980362773599
+    },
+    {
+      "name": "tropical Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean near the equator, known for its significant impact on global climate variability",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.5685735264775333
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, including countries such as Brazil, Argentina, and Chile",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.71862350461141
+    },
+    {
+      "name": "historical simulation",
+      "label": "experiment",
+      "description": "A climate simulation that uses past observed data to compare model outputs with historical climate patterns",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5801111085487288
+    },
+    {
+      "name": "full-forcing simulation",
+      "label": "experiment",
+      "description": "A climate simulation that takes into account all the factors that affect the climate, including greenhouse gases, aerosols, and other forcings",
+      "uuid": "7c9c5438-22d0-4dd6-b0e1-2698b4aee997",
+      "score": 0.5111430275518808
+    },
+    {
+      "name": "GHG-only simulation",
+      "label": "experiment",
+      "description": "A climate simulation that only considers the effects of greenhouse gases on the climate",
+      "uuid": "c86fb3a2-e584-4c2d-8d17-9110d15267d5",
+      "score": 0.5660709460248805
+    },
+    {
+      "name": "aerosol-only simulation",
+      "label": "experiment",
+      "description": "A climate simulation that only considers the effects of aerosols on the climate",
+      "uuid": "1cefb08c-f354-4962-b1a9-4afa5e035df1",
+      "score": 0.5192734524298649
+    }
+  ],
+  "(16857, 19761)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "MIROC6",
+      "label": "model",
+      "description": "A climate model developed by the University of Tokyo and the National Institute for Environmental Studies, used for simulating and predicting climate change",
+      "uuid": "8a70e437-b771-48d6-82e3-2d0ff2fdfc74",
+      "score": 0.7648538303848194
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that can influence climate by reflecting or absorbing sunlight",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6886649328587523
+    },
+    {
+      "name": "tropical Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean near the equator, playing a significant role in global climate patterns and El Ni\u00f1o events",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.5810442243160862
+    },
+    {
+      "name": "EP warming",
+      "label": "weather event",
+      "description": "A warming trend in the eastern Pacific Ocean, often associated with El Ni\u00f1o events and climate change",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.5843833976145592
+    },
+    {
+      "name": "4xCO2 experiments",
+      "label": "experiment",
+      "description": "Climate simulations where the carbon dioxide concentration is abruptly quadrupled to study the response of the climate system",
+      "uuid": "3c8b758e-ca35-4dce-adfc-513a8170a896",
+      "score": 0.750274009740063
+    },
+    {
+      "name": "abrupt 4xCO2 experiments",
+      "label": "experiment",
+      "description": "A type of climate simulation where the carbon dioxide concentration is suddenly increased to four times its original value",
+      "uuid": "3c8b758e-ca35-4dce-adfc-513a8170a896",
+      "score": 0.8082174377070827
+    },
+    {
+      "name": "GHG-only simulation",
+      "label": "experiment",
+      "description": "A climate simulation that only considers the effects of greenhouse gases on the climate system",
+      "uuid": "c86fb3a2-e584-4c2d-8d17-9110d15267d5",
+      "score": 0.5672187634346445
+    },
+    {
+      "name": "full-forcing simulation",
+      "label": "experiment",
+      "description": "A climate simulation that takes into account all the factors that influence the climate system, including greenhouse gases and aerosols",
+      "uuid": "7c9c5438-22d0-4dd6-b0e1-2698b4aee997",
+      "score": 0.5130074169051774
+    }
+  ],
+  "(19234, 22250)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that can influence climate by reflecting or absorbing sunlight",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6886649328587523
+    },
+    {
+      "name": "aerosol effects",
+      "label": "variable",
+      "description": "The impact of aerosols on climate, including cooling or warming effects",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5670902527886361
+    },
+    {
+      "name": "eastern equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, known for its significant role in global climate variability",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.6532243827694245
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6623960376795508
+    },
+    {
+      "name": "tropical Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, known for its significant role in global climate variability",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.5752957088265126
+    },
+    {
+      "name": "Climate Model Intercomparison Project",
+      "label": "project",
+      "description": "An international project that compares and evaluates different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.6781112094671561
+    },
+    {
+      "name": "4xCO2",
+      "label": "experiment",
+      "description": "A hypothetical climate simulation where carbon dioxide levels are increased by a factor of four",
+      "uuid": "1646ea4b-c41c-47ee-9912-64a6803b3755",
+      "score": 0.6308546933094058
+    },
+    {
+      "name": "1pct CO2 rise",
+      "label": "experiment",
+      "description": "A hypothetical climate simulation where carbon dioxide levels increase by 1% per year",
+      "uuid": "601b0a0b-5845-4bdb-bcfa-4ecc0c1f455a",
+      "score": 0.6590506747182735
+    }
+  ],
+  "(21836, 24556)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles or droplets in the atmosphere that can affect climate and air quality",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7020923590728769
+    },
+    {
+      "name": "UKESM1",
+      "label": "model",
+      "description": "The UK Earth System Model version 1, a climate model used for simulating and predicting Earth's climate system",
+      "uuid": "5214a3f3-8061-4d3a-be6c-e67602a3ae56",
+      "score": 0.6800235565614658
+    },
+    {
+      "name": "MPI-ESM-1-2-HAM",
+      "label": "model",
+      "description": "A version of the Max Planck Institute Earth System Model, used for climate research and simulations",
+      "uuid": "b897c950-bb34-48ef-b593-1f9d2f76b83e",
+      "score": 0.784495696376157
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a significant role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6825569140932408
+    },
+    {
+      "name": "historical simulations",
+      "label": "experiment",
+      "description": "Climate simulations based on past observed data to compare model outputs with historical climate patterns",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.6295885345325398
+    },
+    {
+      "name": "ssp585",
+      "label": "experiment",
+      "description": "A future climate scenario that follows a possible trajectory of greenhouse gas and aerosol emissions",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7496977705243469
+    },
+    {
+      "name": "ssp353",
+      "label": "experiment",
+      "description": "A future climate scenario that follows a possible trajectory of greenhouse gas and aerosol emissions",
+      "uuid": "7cfb3ea4-6206-4239-97e9-52032fd1051e",
+      "score": 0.6571089932534815
+    },
+    {
+      "name": "hist-GHG",
+      "label": "experiment",
+      "description": "A historical simulation with prescribed greenhouse gas concentrations",
+      "uuid": "c86fb3a2-e584-4c2d-8d17-9110d15267d5",
+      "score": 0.7340979286660244
+    },
+    {
+      "name": "hist-aer",
+      "label": "experiment",
+      "description": "A historical simulation with prescribed aerosol emissions",
+      "uuid": "8b5fee09-8d09-4b13-ba38-945bd8a46492",
+      "score": 0.7096306617844529
+    },
+    {
+      "name": "hist-piaer",
+      "label": "experiment",
+      "description": "A historical simulation with pre-industrial aerosol emissions",
+      "uuid": "1e607cb1-f9d7-4477-8da0-e69d4b1358bd",
+      "score": 0.736358963239274
+    },
+    {
+      "name": "pi-Control",
+      "label": "experiment",
+      "description": "A control simulation with pre-industrial conditions",
+      "uuid": "9cb8f903-708a-4b88-be4a-ee05926e86c4",
+      "score": 0.6761321741303887
+    },
+    {
+      "name": "Climate Model Intercomparison Project",
+      "label": "project",
+      "description": "An international project that compares and evaluates different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.6781112094671561
+    }
+  ],
+  "(24066, 26550)": [
+    {
+      "name": "GHG-only",
+      "label": "experiment",
+      "description": "A type of climate simulation that only considers the effects of greenhouse gases on the climate system",
+      "uuid": "c86fb3a2-e584-4c2d-8d17-9110d15267d5",
+      "score": 0.5280002601997522
+    },
+    {
+      "name": "aerosols-only",
+      "label": "experiment",
+      "description": "A type of climate simulation that only considers the effects of aerosols on the climate system",
+      "uuid": "1cefb08c-f354-4962-b1a9-4afa5e035df1",
+      "score": 0.5261686052153448
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles suspended in the air that can influence climate by reflecting or absorbing solar radiation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6990314821372001
+    },
+    {
+      "name": "full-forcing historical simulations",
+      "label": "experiment",
+      "description": "Climate simulations that take into account all the forcing factors, including greenhouse gases, aerosols, and others, to replicate historical climate conditions",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.6303834121857916
+    },
+    {
+      "name": "historical and ssp scenarios",
+      "label": "experiment",
+      "description": "Climate simulations that represent different possible future climate scenarios, including those based on historical data and shared socioeconomic pathways",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.6226958054962477
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, which is an important indicator of climate change",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6958212648277569
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, an American agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6696143264455205
+    },
+    {
+      "name": "NSF",
+      "label": "provider",
+      "description": "The National Science Foundation, an American government agency that supports scientific research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.7254037315498524
+    },
+    {
+      "name": "CNRS",
+      "label": "provider",
+      "description": "The French National Center for Scientific Research, a public organization that coordinates and funds scientific research in France",
+      "uuid": "98894163-545d-4c9f-ae68-2fa28bcf56a9",
+      "score": 0.5480845915744788
+    }
+  ],
+  "(26213, 26550)": [
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "A vast body of saltwater that covers a significant portion of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7520654566768776
+    },
+    {
+      "name": "models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.6699623620821914
+    },
+    {
+      "name": "simulations",
+      "label": "experiment",
+      "description": "Structured simulations designed to test specific hypotheses, investigate climate processes, or assess the impact of various forcings on the climate system",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.506248118279874
+    }
+  ]
+}

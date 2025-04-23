@@ -1,0 +1,2061 @@
+{
+  "(0, 3050)": [
+    {
+      "name": "continental U.S.",
+      "label": "location",
+      "description": "The contiguous United States, a region characterized by diverse climate, geography, and ecosystems",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.6707713188529947
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a stream or river, and are often used as units of study in hydrology",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.560153484073665
+    },
+    {
+      "name": "hydroclimatic indices",
+      "label": "variable",
+      "description": "Quantitative measures that represent aspects of climate and hydrology, such as aridity, precipitation timing, and snowiness",
+      "uuid": "52347642-9786-4b59-be77-02e9f307118d",
+      "score": 0.5893096250280377
+    },
+    {
+      "name": "snowiness",
+      "label": "variable",
+      "description": "A measure of the amount of snowfall or snow cover in a region, which can impact hydrology and ecosystems",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5137866538284558
+    },
+    {
+      "name": "regional ecosystem",
+      "label": "variable",
+      "description": "The combination of living organisms and their environment in a specific region, which can be influenced by climate, geology, and other factors",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5332299191964744
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, which plays a crucial role in hydrology and ecosystems",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6496730296768926
+    },
+    {
+      "name": "vegetation classes",
+      "label": "variable",
+      "description": "Categories of plant communities based on their characteristics, such as species composition and growth habits",
+      "uuid": "de0ace5c-fa2b-47ca-93db-79d8df7ab6f2",
+      "score": 0.5912141105330941
+    },
+    {
+      "name": "hydrologic regimes",
+      "label": "variable",
+      "description": "The patterns and processes that govern the movement of water in a catchment or region, including precipitation, runoff, and evaporation",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.7395355553452676
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, which can be influenced by precipitation, evaporation, and other hydrologic processes",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5497227109350479
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, often driven by solar energy and temperature",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.6960974797836162
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Events of high water flow that can cause damage to infrastructure, agriculture, and human settlements",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6722439754237103
+    },
+    {
+      "name": "clustering",
+      "label": "experiment",
+      "description": "A method of grouping similar objects or data points into categories, often used in data analysis and machine learning",
+      "uuid": "e4ef83d6-c132-4cd9-ab8b-5745949877d4",
+      "score": 0.6330999017698966
+    },
+    {
+      "name": "seasonal water balance",
+      "label": "variable",
+      "description": "The balance between precipitation, evaporation, and runoff over a seasonal time scale, which can influence hydrologic and ecological processes",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.53692173542775
+    },
+    {
+      "name": "seasonal and longer time scales",
+      "label": "variable",
+      "description": "Time scales that range from seasons to decades or centuries, which can be used to study climate variability and change",
+      "uuid": "3d97e993-dc6a-41ff-8a49-3e837c1fc2b1",
+      "score": 0.5496136056250125
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The maximum amount of evaporation that can occur from a surface, often used as a reference value in hydrologic and climate studies",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6990088017582866
+    }
+  ],
+  "(2607, 5238)": [
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface over a specified time period, usually expressed as an average rate",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6573651141474822
+    },
+    {
+      "name": "catchment characteristics",
+      "label": "variable",
+      "description": "Properties of a catchment area, such as topography, geology, and land use, that influence its hydrological response",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5822131810328479
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, often used as an indicator of catchment health and water balance",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5434599200276319
+    },
+    {
+      "name": "Water Resources Research",
+      "label": "provider",
+      "description": "A scientific journal that publishes research on water resources and hydrology",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.5896660733735031
+    },
+    {
+      "name": "continental United States",
+      "label": "location",
+      "description": "The mainland part of the United States, excluding Alaska and Hawaii",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.6843047357948867
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical characteristics of the Earth's surface, including vegetation, soil, and water",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6459880981473161
+    },
+    {
+      "name": "seasonal water balance",
+      "label": "variable",
+      "description": "The balance between precipitation, evaporation, and runoff over a seasonal time period",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5223363590885991
+    }
+  ],
+  "(4717, 7627)": [
+    {
+      "name": "vegetation types",
+      "label": "variable",
+      "description": "Types of plants that grow in a particular region, influenced by climate, soil, and hydrologic conditions",
+      "uuid": "de0ace5c-fa2b-47ca-93db-79d8df7ab6f2",
+      "score": 0.5846414375293615
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The maximum amount of water that can evaporate from the surface, influenced by temperature, humidity, and solar radiation",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6983086305415672
+    },
+    {
+      "name": "ecosystem productivity",
+      "label": "variable",
+      "description": "The rate at which ecosystems produce biomass, influenced by climate, soil, and hydrologic conditions",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5486938012904804
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, influenced by precipitation, evaporation, and runoff",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6557254952342509
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    },
+    {
+      "name": "landscape",
+      "label": "location",
+      "description": "The physical features of an area, including topography, geology, and vegetation",
+      "uuid": "f36d71c6-f2ad-49c4-809f-09b4f0688412",
+      "score": 0.6753736383029321
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a stream or river",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5472374913197243
+    },
+    {
+      "name": "snowpack",
+      "label": "variable",
+      "description": "The amount of snow that accumulates on the ground, influencing streamflow variability",
+      "uuid": "abc70f23-f386-41da-b1ad-43cd7aebe7c4",
+      "score": 0.5153222292990355
+    },
+    {
+      "name": "snowmelt",
+      "label": "variable",
+      "description": "The process of snow melting, influencing streamflow variability",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6220387118097941
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water over the land or through streams and rivers, influenced by climate, landscape, and hydrologic conditions",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7354252677383715
+    },
+    {
+      "name": "high flows",
+      "label": "variable",
+      "description": "The maximum amount of water flowing through a stream or river, influenced by climate, landscape, and hydrologic conditions",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.6097506968117833
+    },
+    {
+      "name": "hydrologic regimes",
+      "label": "variable",
+      "description": "The characteristic patterns of water flow and storage in a catchment or region, influenced by climate, landscape, and hydrologic conditions",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.7470080821409197
+    }
+  ],
+  "(7152, 10029)": [
+    {
+      "name": "ecosystem productivity",
+      "label": "variable",
+      "description": "The ability of an ecosystem to produce biomass and organic matter, often used as an indicator of ecosystem health and function",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5227564442351458
+    },
+    {
+      "name": "seasonal water balance",
+      "label": "variable",
+      "description": "The periodic variation in the balance between precipitation, evaporation, and runoff within a catchment or region over the course of a year",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5171220553496242
+    },
+    {
+      "name": "hydrologic regimes",
+      "label": "variable",
+      "description": "The characteristic patterns and behaviors of water flow and storage within a catchment or region",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.7394889958425229
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "A region of land that drains water into a particular stream, river, or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5484547655643934
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6253118140719884
+    },
+    {
+      "name": "continental",
+      "label": "location",
+      "description": "A large area of land, often referring to a continent or a major geographical region",
+      "uuid": "0a672f19-dad5-4114-819a-2eb55bdbb56a",
+      "score": 0.5545876672804227
+    },
+    {
+      "name": "Water Resources Research",
+      "label": "project",
+      "description": "A scientific journal or research initiative focused on the study of water resources and hydrology",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.5981308214130101
+    },
+    {
+      "name": "classification system",
+      "label": "model",
+      "description": "A framework or methodology used to categorize and group objects or data into distinct classes or categories",
+      "uuid": "8f6ad4bb-ab00-4e5a-baee-2c17335ba809",
+      "score": 0.5480061844017474
+    },
+    {
+      "name": "hydrological signatures",
+      "label": "variable",
+      "description": "Characteristics or patterns of hydrological data that can be used to identify or classify catchments or regions",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.5024420642424097
+    }
+  ],
+  "(9560, 12245)": [
+    {
+      "name": "Precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to Earth's surface over a specific period of time, an essential component of the water cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6633817746499588
+    },
+    {
+      "name": "clustering",
+      "label": "experiment",
+      "description": "A method of grouping similar objects or catchments based on their characteristics or features",
+      "uuid": "e4ef83d6-c132-4cd9-ab8b-5745949877d4",
+      "score": 0.520348532635077
+    },
+    {
+      "name": "classification system",
+      "label": "model",
+      "description": "A framework or approach used to categorize and group objects or catchments into similar classes or groups",
+      "uuid": "8f6ad4bb-ab00-4e5a-baee-2c17335ba809",
+      "score": 0.5104634796130892
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The amount of water that could evaporate from the surface under current atmospheric conditions, an important component of the water balance",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6906281109274239
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers, often used as an indicator of catchment health and water availability",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5468629604826719
+    },
+    {
+      "name": "MOPEX",
+      "label": "project",
+      "description": "The Model Parameter Estimation Experiment, a dataset and research initiative focused on improving hydrological modeling and prediction",
+      "uuid": "0bc41cf0-cf0e-4122-be92-a24ac8ba6012",
+      "score": 0.5273313441425473
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country with diverse climate, geography, and hydrology",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.685051313622961
+    },
+    {
+      "name": "FLEX",
+      "label": "model",
+      "description": "A water balance model used to simulate and predict hydrological processes and water storage",
+      "uuid": "c3482d6b-cb24-4075-a00d-994a42238058",
+      "score": 0.5058294988438083
+    }
+  ],
+  "(11793, 14466)": [
+    {
+      "name": "Water Resources Research",
+      "label": "provider",
+      "description": "A scientific journal that publishes research on water resources and hydrology",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.5896660733735031
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, used as an objective function in the model calibration",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.528898034104323
+    },
+    {
+      "name": "vegetation interception",
+      "label": "variable",
+      "description": "The process by which vegetation captures and holds precipitation, influencing the water balance",
+      "uuid": "191433fe-2d8e-4ac2-be15-a5f1c683c53a",
+      "score": 0.7057105363001528
+    },
+    {
+      "name": "snow",
+      "label": "variable",
+      "description": "A component of the water balance, simulated using the snow module of Eder et al.",
+      "uuid": "2a3ff6e7-4cd1-4c89-8a68-c624dde2b441",
+      "score": 0.6043853315446474
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Geographic areas used for studying and modeling water balance and streamflow",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5388190024714865
+    }
+  ],
+  "(13993, 16560)": [
+    {
+      "name": "soil water",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, which is essential for plant growth and affects the water balance in catchments",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.5602977404211265
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, playing a crucial role in the Earth's water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.7145210544857157
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river or lake, and are often used as units for hydrological studies",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5614589835503824
+    },
+    {
+      "name": "flux towers",
+      "label": "instrument",
+      "description": "Devices used to measure the exchange of energy and water between the land surface and the atmosphere",
+      "uuid": "fc35b6d6-ab5b-407f-bc83-871d9cf73cc1",
+      "score": 0.5206921210197916
+    },
+    {
+      "name": "satellite gravimetry",
+      "label": "instrument",
+      "description": "A technique used to measure changes in the Earth's gravity field, which can be used to infer changes in water storage",
+      "uuid": "a3fc8231-afa3-4137-a793-2860e2ab08a0",
+      "score": 0.5234214009905725
+    }
+  ],
+  "(16406, 18937)": [
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "A measure of the amount of water that evaporates from the Earth's surface, including from oceans, lakes, rivers, and the ground",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.6754354607982822
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers, an important component of the water cycle",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5502650104313161
+    },
+    {
+      "name": "groundwater reservoir",
+      "label": "location",
+      "description": "An underground storage of water, recharged from the surface and eventually feeding into streams and rivers",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5824517239307915
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The maximum amount of evaporation that can occur from a surface, given the available energy",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6798064703616228
+    },
+    {
+      "name": "soil evaporation",
+      "label": "variable",
+      "description": "The process by which water is evaporated from the soil surface",
+      "uuid": "75442d9d-e3e4-4241-941d-c4899c6a41a8",
+      "score": 0.5297483736356584
+    },
+    {
+      "name": "evaporative processes",
+      "label": "variable",
+      "description": "Processes by which water is evaporated from the Earth's surface, including evaporation from oceans, lakes, and rivers, as well as transpiration from plants",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6292316844700268
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface in soil and in the fractured rock formations called aquifers",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6721610516252419
+    },
+    {
+      "name": "transpiration",
+      "label": "variable",
+      "description": "The process by which water is transported through a plant, from the roots to the atmosphere",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.5792764549208322
+    },
+    {
+      "name": "actual evaporation",
+      "label": "variable",
+      "description": "The amount of evaporation that actually occurs from a surface, taking into account factors such as temperature, humidity, and wind speed",
+      "uuid": "3f84c899-1916-41c5-bf4e-c94ad77aaeee",
+      "score": 0.5041490149403061
+    },
+    {
+      "name": "seasonal water balance",
+      "label": "variable",
+      "description": "The balance between the inputs and outputs of water in a catchment over the course of a year, including precipitation, evaporation, and streamflow",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5340800171125237
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a stream or river",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5476783631261412
+    }
+  ],
+  "(18389, 21416)": [
+    {
+      "name": "Water Resources Research",
+      "label": "provider",
+      "description": "A peer-reviewed journal focused on publishing research related to water resources and hydrology",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.5844251983558145
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river or lake, and are used as the basic unit of analysis in hydrology",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5570156308527597
+    },
+    {
+      "name": "seasonal water balance",
+      "label": "variable",
+      "description": "The difference between precipitation and evapotranspiration over a specific period of time, typically a season, and is a key component of the hydrologic cycle",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5322644152209877
+    },
+    {
+      "name": "climatic variables",
+      "label": "variable",
+      "description": "Atmospheric factors such as temperature, precipitation, and humidity that influence the hydrologic cycle and water balance of a catchment",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5770050808684072
+    },
+    {
+      "name": "hydroclimatic indices",
+      "label": "variable",
+      "description": "Quantitative measures that combine hydrologic and climatic data to describe the water balance and other hydrologic characteristics of a catchment",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.5432556470088287
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "High water levels that overflow onto land that is normally dry, causing damage and disruption to human activities",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6867636863204104
+    },
+    {
+      "name": "base flow index",
+      "label": "variable",
+      "description": "A measure of the proportion of streamflow that is derived from groundwater, indicating the sustainability of water resources",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6191785242272628
+    }
+  ],
+  "(20947, 23959)": [
+    {
+      "name": "streams",
+      "label": "location",
+      "description": "Natural flowing bodies of water, often studied in the context of hydrology and water resources",
+      "uuid": "1d2d0777-b47e-45ee-ac85-2d7b9f6e4ffd",
+      "score": 0.683259270966817
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The rate at which water flows through a stream or river, often used as an indicator of hydrologic functioning",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5645507370440387
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The maximum amount of water that can evaporate from a surface, given the available energy and humidity",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7022635153340353
+    },
+    {
+      "name": "ensemble means",
+      "label": "variable",
+      "description": "A statistical method used to combine the results of multiple model simulations, providing a more robust estimate of a quantity",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5673565306259384
+    },
+    {
+      "name": "soil water storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, which can influence streamflow and other hydrologic processes",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5816405606794495
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6909966787049034
+    },
+    {
+      "name": "actual evaporation",
+      "label": "variable",
+      "description": "The amount of water that actually evaporates from a surface, which can be influenced by factors such as temperature and humidity",
+      "uuid": "3f84c899-1916-41c5-bf4e-c94ad77aaeee",
+      "score": 0.5279997905017833
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse hydrologic regions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6548605225511597
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the western United States, characterized by a Mediterranean climate and diverse hydrologic regions",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6170736739809183
+    }
+  ],
+  "(23423, 26601)": [
+    {
+      "name": "streams",
+      "label": "natural hazard",
+      "description": " Bodies of water that flow naturally on Earth's surface, which can be affected by climate and weather patterns",
+      "uuid": "1d2d0777-b47e-45ee-ac85-2d7b9f6e4ffd",
+      "score": 0.6501106171815836
+    },
+    {
+      "name": "soil moisture storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, an important factor influencing plant growth, runoff, and groundwater recharge",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6030571162428456
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering or animal migration, which can be influenced by climate change",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.670256392677514
+    },
+    {
+      "name": "water storage",
+      "label": "variable",
+      "description": "The amount of water stored in a catchment or region, which can be affected by precipitation, evaporation, and runoff",
+      "uuid": "bdfa3404-c00d-45fe-a3c1-31389a831ffc",
+      "score": 0.5970312078814481
+    },
+    {
+      "name": "seasonality",
+      "label": "variable",
+      "description": "The periodic fluctuation of a quantity or phenomenon, such as precipitation or streamflow, over the course of a year",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5147778829770981
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, an important component of the water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.6869757883781952
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, which can be influenced by precipitation, evaporation, and human activities",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5414668093547983
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The maximum amount of evaporation that can occur from a surface, given the available energy and water",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6851705719569117
+    },
+    {
+      "name": "total runoff volume",
+      "label": "variable",
+      "description": "The total amount of water that flows over the land and into streams and rivers, which can be affected by precipitation, evaporation, and human activities",
+      "uuid": "0eb4156f-e4ab-4e02-a473-df4b44290556",
+      "score": 0.7109274386074919
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, which can influence plant growth, water infiltration, and erosion",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6451483153330522
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, sleet, and hail",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7003837127767651
+    },
+    {
+      "name": "deciduous forests",
+      "label": "location",
+      "description": "Forests dominated by trees that lose their leaves seasonally, which can influence local climate and hydrology",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6304065531856389
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the western United States, known for its diverse climate and geography",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6532326746584319
+    },
+    {
+      "name": "Great Plains",
+      "label": "location",
+      "description": "A region of grasslands and prairies in central North America, which can influence regional climate and hydrology",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5473676769743717
+    },
+    {
+      "name": "Florida",
+      "label": "location",
+      "description": "A state in the southeastern United States, known for its subtropical climate and diverse geography",
+      "uuid": "b607766c-83f5-42bb-96b2-2de4e7b488a4",
+      "score": 0.6640782802210371
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse climate and geography",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.701961026561718
+    }
+  ],
+  "(26123, 28632)": [
+    {
+      "name": "soil water",
+      "label": "variable",
+      "description": "The water stored in the soil, which plays a crucial role in the water balance and plant growth",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.5504810104217346
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of recurring biological events and their relation to climate and weather, such as plant flowering or bird migration",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6172080654448772
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, an important component of the water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.6869757883781952
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The maximum amount of evaporation that can occur from a surface, often used to estimate water loss",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7069596478255304
+    },
+    {
+      "name": "total runoff volume",
+      "label": "variable",
+      "description": "The total amount of water that flows over the land and into streams, an important aspect of the water balance",
+      "uuid": "0eb4156f-e4ab-4e02-a473-df4b44290556",
+      "score": 0.6958996309243342
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, which affects many aspects of the environment, including plant growth and evaporation",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6323921248968517
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6909966787049034
+    },
+    {
+      "name": "deciduous forests",
+      "label": "location",
+      "description": "A type of forest characterized by trees that shed their leaves seasonally, often found in temperate regions",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6514113571101227
+    },
+    {
+      "name": "continental U.S.",
+      "label": "location",
+      "description": "The mainland United States, excluding Alaska and Hawaii, which exhibits a diverse range of climates and ecosystems",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.6253371881784875
+    },
+    {
+      "name": "north-east",
+      "label": "location",
+      "description": "A region in the northeastern United States, characterized by a distinct climate and geography",
+      "uuid": "f7e1f17b-7145-49ff-92c5-455ba506f13f",
+      "score": 0.6039275196744704
+    }
+  ],
+  "(28429, 30644)": [
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water falling to Earth's surface, an essential component of the hydrological cycle and climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6732603321705546
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The amount of water that could evaporate from the Earth's surface under given atmospheric conditions, a key factor in the water balance and climate",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7112995676110211
+    },
+    {
+      "name": "seasonality",
+      "label": "variable",
+      "description": "The periodic fluctuations in climate variables such as temperature and precipitation over the course of a year, influencing ecosystems and water resources",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5187208036077335
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, oceans, or land surfaces, a fundamental variable in climate studies",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.7000527483394169
+    },
+    {
+      "name": "duration of the seasonal cycle",
+      "label": "variable",
+      "description": "The length of time over which a seasonal pattern repeats, typically one year for climate variables",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5510876402659426
+    },
+    {
+      "name": "fraction of precipitation falling as snow",
+      "label": "variable",
+      "description": "The proportion of total precipitation that occurs in the form of snow, an important factor in hydrology and climate modeling",
+      "uuid": "81a02d0d-8cee-4309-a8ef-9d7015d74dc0",
+      "score": 0.5821457938991375
+    }
+  ],
+  "(30249, 32873)": [
+    {
+      "name": "Precipitation",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6362192607089641
+    },
+    {
+      "name": "deciduous vegetation",
+      "label": "platform",
+      "description": "A system, theory, or phenomenon that accounts for its known or inferred properties and may be used for further study of its characteristics",
+      "uuid": "b7de16ed-c090-449b-81c1-44fe5b1195f0",
+      "score": 0.63057402117982
+    },
+    {
+      "name": "mean precipitation rate",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "ac50c468-df2f-429c-8394-9d63efcc6f9d",
+      "score": 0.6070919239578921
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6691538829789295
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6065808202411501
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.5663261357902557
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6442765606859027
+    },
+    {
+      "name": "mean potential evaporation rate",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.5862222492234914
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.602521590100298
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "cde7aacb-0204-4a84-afcb-279cc3d0870c",
+      "score": 0.5271034527202142
+    },
+    {
+      "name": "aridity index",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "cdd7a31f-3244-494d-bc44-7b5f1ebb4bd7",
+      "score": 0.5310634640484775
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6459680548887494
+    }
+  ],
+  "(32358, 35314)": [
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "The water stored beneath Earth's surface in soil and in the fractured rock formations called aquifers, playing a crucial role in the Earth's hydrological cycle",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6899729249733788
+    },
+    {
+      "name": "spring",
+      "label": "season",
+      "description": "One of the four seasons, characterized by warming temperatures and increased precipitation, which affects the hydrological cycle and ecosystems",
+      "uuid": "620a9e6c-5851-48b7-93c5-a1706546f5d1",
+      "score": 0.5590119515010854
+    },
+    {
+      "name": "north-east",
+      "label": "location",
+      "description": "A region or direction, often used to describe geographical locations or areas of study, particularly in the context of climate and hydrology",
+      "uuid": "f7e1f17b-7145-49ff-92c5-455ba506f13f",
+      "score": 0.5628778094100678
+    },
+    {
+      "name": "deciduous vegetation",
+      "label": "variable",
+      "description": "Plants that shed their leaves seasonally, responding to changes in temperature and precipitation, and influencing local hydrology and ecosystems",
+      "uuid": "b7de16ed-c090-449b-81c1-44fe5b1195f0",
+      "score": 0.7493956114571694
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of periodic biological events, such as plant flowering or bird migration, and how these events are influenced by seasonal and interannual variations in climate",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6310322866815228
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air or water, influencing many aspects of climate, hydrology, and ecosystems",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6433511974389254
+    },
+    {
+      "name": "continent",
+      "label": "location",
+      "description": "A large area of land, often used to describe geographical regions or areas of study, particularly in the context of climate, hydrology, and ecosystems",
+      "uuid": "0a672f19-dad5-4114-819a-2eb55bdbb56a",
+      "score": 0.6309160942410811
+    },
+    {
+      "name": "total precipitation",
+      "label": "variable",
+      "description": "The total amount of precipitation, including rain, snow, sleet, and hail, that falls on an area over a specified period, influencing the hydrological cycle and ecosystems",
+      "uuid": "9466020a-db25-40ba-a76f-4720800efc92",
+      "score": 0.638277103585973
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river, lake, or ocean, often used to study hydrology and water resources",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5735928526199662
+    },
+    {
+      "name": "Great Plains",
+      "label": "location",
+      "description": "A region in central North America, characterized by grasslands and prairies, and known for its significant role in the continent's hydrology and ecosystems",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5595990127310779
+    },
+    {
+      "name": "Central Plains",
+      "label": "location",
+      "description": "A region in central North America, characterized by grasslands and prairies, and known for its significant role in the continent's hydrology and ecosystems",
+      "uuid": "2a3ec896-81a1-4553-b57a-4a94112dc67d",
+      "score": 0.5573852577188781
+    },
+    {
+      "name": "seasonal water balances",
+      "label": "variable",
+      "description": "The balance of water inputs, outputs, and storage within a catchment over a specified period, often used to study hydrology and water resources",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5381862350629619
+    },
+    {
+      "name": "hydroclimate indices",
+      "label": "variable",
+      "description": "Quantitative measures used to characterize the hydrological and climatic conditions of a region, often used to study hydrology, water resources, and ecosystems",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.6179631645527806
+    }
+  ],
+  "(34717, 37720)": [
+    {
+      "name": "soil water storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, an important component of the water balance and a factor influencing plant growth and runoff",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5841429472547341
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, sleet, and hail, and a key driver of the water cycle",
+      "uuid": "6c71e621-aae6-436b-9405-5dc6ed2a527e",
+      "score": 0.7013681789162493
+    },
+    {
+      "name": "continent",
+      "label": "location",
+      "description": "A large area of land, such as North America or Africa, characterized by its own unique climate, geology, and ecosystems",
+      "uuid": "0a672f19-dad5-4114-819a-2eb55bdbb56a",
+      "score": 0.6250037587933324
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers, influenced by precipitation, evaporation, and human activities",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5484580964586188
+    },
+    {
+      "name": "vegetation phenology",
+      "label": "variable",
+      "description": "The study of the timing of plant growth stages and how they are influenced by environmental factors such as temperature and precipitation",
+      "uuid": "c6f81edb-b683-4356-93e6-5852766a5ee8",
+      "score": 0.5491909698877251
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse climates, geology, and ecosystems",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7052175143100634
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a stream or river, and are often used as units of study in hydrology",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.560153484073665
+    },
+    {
+      "name": "snowmelt",
+      "label": "variable",
+      "description": "The process by which snow melts and becomes runoff, an important component of the water cycle in cold regions",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.612441922275379
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, and playing a crucial role in the water cycle and plant growth",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6464592037874688
+    },
+    {
+      "name": "actual evaporation",
+      "label": "variable",
+      "description": "The amount of water that evaporates from the Earth's surface, including from plants, soil, and water bodies, and an important component of the water cycle",
+      "uuid": "1e10e790-9f01-437e-8846-6c10d8330d6e",
+      "score": 0.5533515064730077
+    }
+  ],
+  "(37203, 39636)": [
+    {
+      "name": "continent",
+      "label": "location",
+      "description": "A large continuous area of land, often considered in the context of climate, geography, or regional studies",
+      "uuid": "0a672f19-dad5-4114-819a-2eb55bdbb56a",
+      "score": 0.6463094959463432
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life in a particular region or time, often studied in the context of climate, ecology, or environmental science",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6520033752761255
+    },
+    {
+      "name": "vegetation phenology",
+      "label": "variable",
+      "description": "The study of recurring biological events and their relationship to climate, such as plant flowering or leafing",
+      "uuid": "c6f81edb-b683-4356-93e6-5852766a5ee8",
+      "score": 0.5641593933392025
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers, often used as an indicator of hydrological and climate conditions",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5638147774858054
+    },
+    {
+      "name": "actual evaporation",
+      "label": "variable",
+      "description": "The amount of water that evaporates from the Earth's surface, a key component of the water balance and climate system",
+      "uuid": "1e10e790-9f01-437e-8846-6c10d8330d6e",
+      "score": 0.5501504707042768
+    },
+    {
+      "name": "adaptation",
+      "label": "variable",
+      "description": "The process by which organisms, ecosystems, or human systems adjust to changes in their environment, such as climate change",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.624403356733939
+    },
+    {
+      "name": "vegetation cover",
+      "label": "variable",
+      "description": "The proportion of an area covered by vegetation, which can influence local climate, hydrology, and ecosystems",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.734306838066166
+    },
+    {
+      "name": "net primary productivity",
+      "label": "variable",
+      "description": "The rate at which plants produce new biomass, often used as an indicator of ecosystem health and productivity",
+      "uuid": "569a2936-7543-434e-92e2-6f75a5be68c0",
+      "score": 0.6352074874195447
+    }
+  ],
+  "(39355, 41743)": [
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "A region of land that drains water into a common outlet, such as a river or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5534516929614968
+    },
+    {
+      "name": "regime",
+      "label": "variable",
+      "description": "A characteristic or pattern of behavior in a hydrological system, such as precipitation, runoff, or evapotranspiration",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.7019189417484603
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering or animal migration, and their relationship to environmental factors",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6076330422555329
+    },
+    {
+      "name": "snow",
+      "label": "variable",
+      "description": "A form of precipitation that occurs when water vapor in the atmosphere freezes into ice crystals, affecting hydrological processes",
+      "uuid": "b51b3708-a662-4cf1-bf13-e67f36b001c4",
+      "score": 0.6751444193195553
+    },
+    {
+      "name": "seasonal water balance",
+      "label": "variable",
+      "description": "The balance between water inputs and outputs in a catchment over a seasonal time period",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5043729777525826
+    }
+  ],
+  "(41263, 44415)": [
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life in a given area, which can affect and be affected by the seasonal water balance",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.618605813850055
+    },
+    {
+      "name": "seasonality",
+      "label": "variable",
+      "description": "The periodic fluctuation of climate conditions throughout the year, influencing hydrological responses",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.516434909394017
+    },
+    {
+      "name": "pasture",
+      "label": "location",
+      "description": "A land area used for grazing livestock, which can impact local hydrology and water balance",
+      "uuid": "46a26fc7-95f0-409e-8bfa-eb623b3a3f8d",
+      "score": 0.6516786427940492
+    },
+    {
+      "name": "cropland",
+      "label": "location",
+      "description": "Agricultural land used for growing crops, which can alter the local water cycle and hydrological processes",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6666853166425716
+    },
+    {
+      "name": "floods",
+      "label": "weather event",
+      "description": "Overflows of water that submerge land, often caused by heavy rainfall or other extreme weather conditions",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.691764014164435
+    },
+    {
+      "name": "three climatic indices",
+      "label": "variable",
+      "description": "Quantitative measures used to describe and analyze climate patterns, including d \u00c3 P ; f s ; u",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.5564993021351762
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, which plays a crucial role in the water balance and hydrological processes",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.602693964799399
+    },
+    {
+      "name": "MOPEX",
+      "label": "project",
+      "description": "The Model Parameter Estimation Experiment, a research initiative focused on improving hydrological modeling and prediction",
+      "uuid": "0bc41cf0-cf0e-4122-be92-a24ac8ba6012",
+      "score": 0.5176242583142872
+    },
+    {
+      "name": "continental U.S.",
+      "label": "location",
+      "description": "The mainland United States, excluding Alaska and Hawaii, which encompasses a wide range of climates, landscapes, and ecosystems",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.6359207641755309
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers, which can be influenced by various factors including climate, vegetation, and land use",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5657129233811704
+    }
+  ],
+  "(43902, 46751)": [
+    {
+      "name": "hydrology",
+      "label": "project",
+      "description": "The study of the properties, distribution, and circulation of water in the Earth's system, encompassing aspects of water balance, streamflow, and water resources management",
+      "uuid": "916b2963-6c1d-48ee-8f97-8606febf8db7",
+      "score": 0.5133763477427657
+    },
+    {
+      "name": "cluster name",
+      "label": "variable",
+      "description": "A categorization or grouping of similar catchments or regions based on their hydrological characteristics, such as aridity, seasonality, and vegetation type",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.5013796513578933
+    },
+    {
+      "name": "seasonality",
+      "label": "variable",
+      "description": "The periodic fluctuation or variation in environmental conditions, such as precipitation, temperature, or streamflow, that occurs at regular intervals within a year",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5168352818238474
+    },
+    {
+      "name": "floods",
+      "label": "weather event",
+      "description": "A natural disaster characterized by an overflow of water that submerges land and causes damage to the environment, infrastructure, and human settlements",
+      "uuid": "fd03d204-4391-4e98-8142-8b8efa235231",
+      "score": 0.6933302964969662
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams, rivers, and other water bodies, often measured and studied in hydrology to understand water balance and catchment behavior",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5622365880706011
+    },
+    {
+      "name": "snow",
+      "label": "variable",
+      "description": "A form of precipitation that occurs when water vapor in the atmosphere freezes into ice crystals, playing a significant role in the hydrology of certain regions, especially at high elevations or in cold climates",
+      "uuid": "b51b3708-a662-4cf1-bf13-e67f36b001c4",
+      "score": 0.6787341474836499
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "A region of land that drains water into a particular water body, such as a river, lake, or ocean, and is often studied in hydrology to understand water balance and streamflow dynamics",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5853195980118181
+    }
+  ],
+  "(46243, 48678)": [
+    {
+      "name": "snow",
+      "label": "variable",
+      "description": "A type of precipitation that can significantly impact water balance and runoff, particularly in mountainous regions",
+      "uuid": "09c21315-faba-446c-b060-136705972347",
+      "score": 0.5848617183073878
+    },
+    {
+      "name": "aridity index",
+      "label": "variable",
+      "description": "A measure of the dryness of a region, often used to study its impact on climate and water balance",
+      "uuid": "cdd7a31f-3244-494d-bc44-7b5f1ebb4bd7",
+      "score": 0.5396427488664265
+    },
+    {
+      "name": "Base Flow Index",
+      "label": "variable",
+      "description": "A measure of the ratio of long-term base flow to total streamflow, used to characterize the hydrological behavior of a catchment",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5790793899276827
+    },
+    {
+      "name": "total streamflow",
+      "label": "variable",
+      "description": "The total amount of water flowing through a stream or river, often used to study its hydrological characteristics",
+      "uuid": "0eb4156f-e4ab-4e02-a473-df4b44290556",
+      "score": 0.5168646875843907
+    },
+    {
+      "name": "long-term base flow",
+      "label": "variable",
+      "description": "The long-term average flow of water in a stream or river, often used to study its hydrological characteristics",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6279326873585582
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The maximum amount of water that can evaporate from a surface, often used to study its impact on water balance",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7091709275316292
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The amount of water that flows over the land and into streams and rivers, often used to study its impact on water balance",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7305699791049527
+    }
+  ],
+  "(48238, 50717)": [
+    {
+      "name": "Base Flow Index",
+      "label": "variable",
+      "description": "A measure of the importance of slow flows in a stream, calculated as the ratio of long-term base flow to total streamflow",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5684798789154213
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess stormwater, meltwater, or other sources flow over the Earth's surface",
+      "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
+      "score": 0.7427916005314608
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, often measured to understand hydrological processes and water availability",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5646179880197468
+    },
+    {
+      "name": "snowmelt",
+      "label": "weather event",
+      "description": "The process by which snow melts and contributes to streamflow or runoff",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.605926333402628
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often measured to understand hydrological processes and water availability",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7016406593411153
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The amount of water that could potentially evaporate from a surface, often calculated to understand hydrological processes and water balances",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6957821634241707
+    }
+  ],
+  "(50304, 52924)": [
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or water that falls to Earth's surface, influencing climate, weather, and water resources",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6655947767833621
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water transforms from liquid to gas, affecting climate, weather, and the water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.6869688102178902
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers, influenced by precipitation, evaporation, and other factors",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5571134616641703
+    },
+    {
+      "name": "vegetation phenology",
+      "label": "variable",
+      "description": "The study of the timing and duration of plant growth stages, influenced by climate and weather patterns",
+      "uuid": "c6f81edb-b683-4356-93e6-5852766a5ee8",
+      "score": 0.5469146389710694
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river or lake",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5446974605368483
+    },
+    {
+      "name": "spring",
+      "label": "weather event",
+      "description": "A season characterized by warming temperatures and increased precipitation, influencing climate and weather patterns",
+      "uuid": "620a9e6c-5851-48b7-93c5-a1706546f5d1",
+      "score": 0.5308971093635906
+    }
+  ],
+  "(52492, 55294)": [
+    {
+      "name": "flood frequency analysis",
+      "label": "experiment",
+      "description": "A method used to analyze and predict the frequency and magnitude of floods in a given area",
+      "uuid": "bf470637-8aea-47a8-b075-40b394303747",
+      "score": 0.6246990099797379
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6303072075859071
+    },
+    {
+      "name": "soil water storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, which can influence the water balance and flow regimes in a catchment",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5793930087606084
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, which can influence the water balance and flow regimes in a catchment",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.610406970259405
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, which can influence the water balance and flow regimes in a catchment",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.6493850862640341
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water, often studied in the context of hydrology and water resources",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.7279969580440814
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a river or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5485997297582526
+    },
+    {
+      "name": "Water Resources Research",
+      "label": "provider",
+      "description": "A scientific journal that publishes research on water resources and hydrology",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.5896660733735031
+    }
+  ],
+  "(54755, 57521)": [
+    {
+      "name": "flood frequency analysis",
+      "label": "experiment",
+      "description": "A method used to study the likelihood and characteristics of floods in a given area, often based on historical data and statistical models",
+      "uuid": "bf470637-8aea-47a8-b075-40b394303747",
+      "score": 0.642526559837586
+    },
+    {
+      "name": "seasonality",
+      "label": "variable",
+      "description": "The periodic fluctuation or variation in a time series, often related to changes in weather patterns or environmental conditions",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5511540522928569
+    },
+    {
+      "name": "peak flows",
+      "label": "variable",
+      "description": "The maximum rate of flow of water in a river or stream, often used to study and predict flood events",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.7440222702553537
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "A natural disaster characterized by an overflow of water that submerges land that is usually dry",
+      "uuid": "fd03d204-4391-4e98-8142-8b8efa235231",
+      "score": 0.6755722124395335
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "An area of land that drains water into a particular river or lake, often used as a unit of study in hydrology",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5508798428640632
+    },
+    {
+      "name": "water balance",
+      "label": "variable",
+      "description": "The balance between the amount of water entering and leaving a system, such as a catchment or a region, over a certain period of time",
+      "uuid": "0c0fa520-f325-4e5b-a003-83e636c63f76",
+      "score": 0.5486162961775073
+    }
+  ],
+  "(57010, 59806)": [
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water transforms from a liquid state into a vapor or gas state, playing a crucial role in the Earth's water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.7300008745626766
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "A natural disaster characterized by an overflow of water that submerges land that is usually dry",
+      "uuid": "fd03d204-4391-4e98-8142-8b8efa235231",
+      "score": 0.6755722124395335
+    },
+    {
+      "name": "clustering",
+      "label": "experiment",
+      "description": "A method used to group a set of objects in such a way that objects in the same group (called a cluster) are more similar to each other than to those in other groups",
+      "uuid": "e4ef83d6-c132-4cd9-ab8b-5745949877d4",
+      "score": 0.5435289962511511
+    },
+    {
+      "name": "soil water storage",
+      "label": "variable",
+      "description": "The amount of water held in the soil, which plays a significant role in the water balance and affects the availability of water for plants and other uses",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5592438964175939
+    },
+    {
+      "name": "snowmelt influence",
+      "label": "variable",
+      "description": "The impact of snowmelt on the hydrological cycle, particularly on streamflow and water availability",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.5685751187014312
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The process by which water vapor in the atmosphere condenses and falls to the Earth's surface, playing a crucial role in the Earth's water cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6881066065831332
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a river or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5485997297582526
+    },
+    {
+      "name": "streamflows",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, which can be affected by various factors such as precipitation, evaporation, and human activities",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5353232579809886
+    }
+  ],
+  "(59350, 62313)": [
+    {
+      "name": "climatic indices",
+      "label": "variable",
+      "description": "Quantitative measures of climate-related factors such as aridity, precipitation timing, and snowiness",
+      "uuid": "52347642-9786-4b59-be77-02e9f307118d",
+      "score": 0.602055031135086
+    },
+    {
+      "name": "snowiness",
+      "label": "variable",
+      "description": "A measure of the amount of snowfall in a region",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5250012961506114
+    },
+    {
+      "name": "water balance components",
+      "label": "variable",
+      "description": "The individual elements that make up the water balance of a catchment, such as precipitation, evaporation, and runoff",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5337959719543921
+    },
+    {
+      "name": "seasonal water balance",
+      "label": "variable",
+      "description": "The balance of water inputs and outputs over a specific season or period of time",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.513511342100206
+    },
+    {
+      "name": "ecosystem classes",
+      "label": "variable",
+      "description": "Groupings of ecosystems based on their characteristics and functions",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5424723823900359
+    },
+    {
+      "name": "soil classes",
+      "label": "variable",
+      "description": "Groupings of soils based on their characteristics and properties",
+      "uuid": "2f57fd58-d8e4-4e6d-b8c3-2a9ef7e64f54",
+      "score": 0.5917265172942441
+    },
+    {
+      "name": "vegetation classes",
+      "label": "variable",
+      "description": "Groupings of vegetation based on their characteristics and functions",
+      "uuid": "de0ace5c-fa2b-47ca-93db-79d8df7ab6f2",
+      "score": 0.5557816434981258
+    },
+    {
+      "name": "hydrologic regimes",
+      "label": "variable",
+      "description": "The characteristic patterns of water flow and storage in a catchment or region",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.7381449708608405
+    },
+    {
+      "name": "annual precipitation",
+      "label": "variable",
+      "description": "The total amount of precipitation that falls in a region over the course of a year",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5226486695719753
+    },
+    {
+      "name": "floods",
+      "label": "weather event",
+      "description": "Events in which water overflows or inundates normally dry land",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6838098648494189
+    },
+    {
+      "name": "snowmelt",
+      "label": "variable",
+      "description": "The process by which snow melts and becomes runoff",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6066074037508773
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water that is stored in the soil",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6678989193941296
+    },
+    {
+      "name": "groundwater storage",
+      "label": "variable",
+      "description": "The amount of water that is stored in the groundwater",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5485422866661286
+    },
+    {
+      "name": "surface soil moisture variations",
+      "label": "variable",
+      "description": "Changes in the amount of water stored in the surface soil over time",
+      "uuid": "09e712bf-7389-4980-8115-af4282469eb8",
+      "score": 0.6480122769502171
+    }
+  ],
+  "(61828, 64782)": [
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life in a particular region or time, considered in terms of its structure, growth, and distribution",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6369676819988384
+    },
+    {
+      "name": "seasonality",
+      "label": "variable",
+      "description": "The state of being dependent on or varying with the seasons, often used to describe patterns in climate, weather, or biological phenomena",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5029475307662835
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "Water that falls to the Earth's surface, including rain, snow, sleet, and hail, playing a crucial role in the water cycle and climate",
+      "uuid": "6c71e621-aae6-436b-9405-5dc6ed2a527e",
+      "score": 0.6975397502973538
+    },
+    {
+      "name": "surface soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil near the surface, influencing plant growth, runoff, and groundwater recharge",
+      "uuid": "09e712bf-7389-4980-8115-af4282469eb8",
+      "score": 0.720165246708564
+    },
+    {
+      "name": "geology",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes, including the distribution of rocks, minerals, and landforms",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.6175986073178032
+    },
+    {
+      "name": "actual evaporation",
+      "label": "variable",
+      "description": "The amount of water that evaporates from the Earth's surface, including from oceans, lakes, rivers, and the ground, influencing the water cycle and climate",
+      "uuid": "1e10e790-9f01-437e-8846-6c10d8330d6e",
+      "score": 0.5685990114102375
+    },
+    {
+      "name": "vegetation phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering, leafing, and fruiting, in relation to seasonal and climatic changes",
+      "uuid": "c6f81edb-b683-4356-93e6-5852766a5ee8",
+      "score": 0.5825244468099856
+    },
+    {
+      "name": "adaptation",
+      "label": "variable",
+      "description": "The process or state of adjusting to new or changing environmental conditions, such as climate change, in order to survive or thrive",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6075516589880803
+    },
+    {
+      "name": "seasonal phenology changes",
+      "label": "variable",
+      "description": "Changes in the timing of recurring biological events, such as plant flowering, leafing, and fruiting, in response to seasonal and climatic variations",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6970365103946599
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a river, lake, or ocean",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5575069815572741
+    }
+  ],
+  "(64262, 67299)": [
+    {
+      "name": "landscape properties",
+      "label": "variable",
+      "description": "Characteristics of the physical environment that influence hydrological processes, such as topography, soil type, and vegetation cover",
+      "uuid": "6c44a08d-0a08-47f5-b819-7e561445e613",
+      "score": 0.5439378697643602
+    },
+    {
+      "name": "local climate variations",
+      "label": "variable",
+      "description": "Regional differences in climate conditions, such as temperature and precipitation patterns, that can impact hydrological processes",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.5126903266559941
+    },
+    {
+      "name": "seasonal water balance",
+      "label": "variable",
+      "description": "The distribution of water inputs, outputs, and storage within a catchment over a seasonal timescale",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5108847737327687
+    },
+    {
+      "name": "base flow index",
+      "label": "variable",
+      "description": "A measure of the proportion of streamflow that is derived from groundwater, indicating the catchment's ability to sustain flow during dry periods",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6257211754455806
+    },
+    {
+      "name": "flood frequency curves",
+      "label": "variable",
+      "description": "Graphical representations of the relationship between flood magnitude and frequency, used to understand and predict flood risk",
+      "uuid": "bf470637-8aea-47a8-b075-40b394303747",
+      "score": 0.6113436103422721
+    },
+    {
+      "name": "climatic indices",
+      "label": "variable",
+      "description": "Quantitative measures of climate conditions, such as temperature, precipitation, and evaporation, used to understand and predict hydrological processes",
+      "uuid": "52347642-9786-4b59-be77-02e9f307118d",
+      "score": 0.6102406007231402
+    }
+  ],
+  "(66753, 69763)": [
+    {
+      "name": "flood frequency curves",
+      "label": "variable",
+      "description": "Graphical representations showing the relationship between flood frequency and magnitude, used to analyze and predict flood events",
+      "uuid": "bf470637-8aea-47a8-b075-40b394303747",
+      "score": 0.6035736706251428
+    },
+    {
+      "name": "climatic indices",
+      "label": "variable",
+      "description": "Quantitative measures of climate patterns, such as temperature, precipitation, and seasonality, used to analyze and predict climate-related phenomena",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.6418597196776243
+    },
+    {
+      "name": "Vegetation",
+      "label": "variable",
+      "description": "The plant life in a particular region, often used to study its impact on hydrological and ecological systems",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6357009968096615
+    },
+    {
+      "name": "landscape characteristics",
+      "label": "variable",
+      "description": "Physical features of a region, such as topography, soil type, and land use, that influence hydrological behavior",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5708189631460541
+    },
+    {
+      "name": "geology",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes, often used to analyze and predict hydrological behavior",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.6196014466929991
+    },
+    {
+      "name": "BFI",
+      "label": "variable",
+      "description": "The base flow index, a measure of the proportion of base flow in a stream, used to analyze and predict hydrological behavior",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5303421829483745
+    },
+    {
+      "name": "snowiness",
+      "label": "variable",
+      "description": "A measure of the amount of snowfall in a region, often used to study its impact on hydrological and ecological systems",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.538991830100869
+    },
+    {
+      "name": "western U.S.",
+      "label": "location",
+      "description": "A region in the United States characterized by diverse hydrological and ecological features",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.6321677878726804
+    },
+    {
+      "name": "continental U.S.",
+      "label": "location",
+      "description": "The mainland United States, excluding Alaska and Hawaii, characterized by diverse hydrological and ecological features",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.6419767159966576
+    }
+  ],
+  "(69210, 72441)": [
+    {
+      "name": "MOPEX",
+      "label": "project",
+      "description": "The Model Parameter Estimation Experiment, a project aimed at improving hydrological model parameters and understanding catchment behavior",
+      "uuid": "0bc41cf0-cf0e-4122-be92-a24ac8ba6012",
+      "score": 0.5211330539266147
+    },
+    {
+      "name": "University of Arizona",
+      "label": "provider",
+      "description": "An academic institution that conducts research and education in various fields, including hydrology and environmental science",
+      "uuid": "d165285d-55bd-4b1a-bed0-14f5cf663a19",
+      "score": 0.5914401269291589
+    },
+    {
+      "name": "continental U.S.",
+      "label": "location",
+      "description": "The contiguous United States, a region of North America that includes the 48 connected states and excludes Alaska and Hawaii",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7503092244747096
+    },
+    {
+      "name": "seasonal precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or snowfall that occurs during a particular season, influencing water availability and ecosystem processes",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5110508565033623
+    },
+    {
+      "name": "snowiness",
+      "label": "variable",
+      "description": "A measure of the amount of snowfall or the duration of snow cover in a region, affecting water resources and ecosystem dynamics",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5173354345199068
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air or water, influencing many environmental and ecological processes",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6137822010810093
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river or lake, and are often used as units of study in hydrology",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.556830858497139
+    },
+    {
+      "name": "soil orders",
+      "label": "variable",
+      "description": "A classification system for soils based on their physical and chemical properties, influencing ecosystem processes and water availability",
+      "uuid": "14e51b6e-9d91-4af5-bb93-22842359d492",
+      "score": 0.5915568583322884
+    },
+    {
+      "name": "vegetation types",
+      "label": "variable",
+      "description": "The different types of plant communities that occur in a region, influencing ecosystem processes and water availability",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5464343703266582
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the western United States, known for its diverse climate and ecosystems",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6338546370912418
+    },
+    {
+      "name": "north-east U.S.",
+      "label": "location",
+      "description": "A region in the northeastern United States, characterized by a humid continental climate and diverse ecosystems",
+      "uuid": "f7e1f17b-7145-49ff-92c5-455ba506f13f",
+      "score": 0.6192740812422334
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Overflows of water that can cause damage to infrastructure, agriculture, and human settlements",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.68143986288612
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The shape and features of the Earth's surface, influencing water flow, ecosystem processes, and climate patterns",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6435498215146149
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering or bird migration, and how they are influenced by climate and ecosystem processes",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6341828522703746
+    },
+    {
+      "name": "landscape",
+      "label": "location",
+      "description": "The visible features of an area of land, including physical elements such as topography, vegetation, and water bodies",
+      "uuid": "f36d71c6-f2ad-49c4-809f-09b4f0688412",
+      "score": 0.6503893498118951
+    }
+  ],
+  "(72023, 72786)": [
+    {
+      "name": "University of Arizona",
+      "label": "provider",
+      "description": "An academic institution that conducts research in various fields including hydrology and climate science",
+      "uuid": "8695500d-d6c1-474a-b21c-ae266dbba5c9",
+      "score": 0.5863504334559307
+    },
+    {
+      "name": "University of Illinois",
+      "label": "provider",
+      "description": "An academic institution where part of the research was conducted",
+      "uuid": "dc2f1e44-d13c-40d2-a786-65fa27961344",
+      "score": 0.5561549157419119
+    },
+    {
+      "name": "Illinois",
+      "label": "location",
+      "description": "A state in the United States where the University of Illinois is located",
+      "uuid": "06b1e163-667a-4d13-b638-5273e7a65dad",
+      "score": 0.6322210912599852
+    },
+    {
+      "name": "Water Resources Research",
+      "label": "project",
+      "description": "A scientific journal that publishes research on water resources and hydrology",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.5896660733735031
+    }
+  ]
+}

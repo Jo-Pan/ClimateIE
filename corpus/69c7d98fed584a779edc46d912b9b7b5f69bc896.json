@@ -1,0 +1,801 @@
+{
+  "(0, 3308)": [
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the Midwestern United States, with a diverse geography and climate that influences energy demand patterns",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.6079788627685481
+    },
+    {
+      "name": "climate data",
+      "label": "variable",
+      "description": "Information about past and current climate conditions, including temperature, precipitation, and other factors that can influence energy demand",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5575115552717137
+    },
+    {
+      "name": "commercial sector",
+      "label": "location",
+      "description": "The portion of the economy that includes businesses and their energy usage patterns",
+      "uuid": "1bb6821d-8534-40ce-a6ee-7c88ce4d3c9f",
+      "score": 0.5057799690693313
+    },
+    {
+      "name": "energy-economy models",
+      "label": "model",
+      "description": "Computational frameworks that simulate the interactions between energy systems and economic activity, used to predict energy demand and plan for future energy needs",
+      "uuid": "9a1dd3c3-a126-437e-ad04-9dc0a382d567",
+      "score": 0.5014276373498096
+    }
+  ],
+  "(2719, 5874)": [
+    {
+      "name": "NEMS",
+      "label": "model",
+      "description": "The National Energy Modeling System, an energy-economy model used for projecting medium-and long-term trends in the energy infrastructure",
+      "uuid": "e2e6df59-5768-4c4d-a0ed-0ec040de37ce",
+      "score": 0.5730819484905051
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the United States, known for its varied climate conditions and high energy consumption",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.617346890160529
+    },
+    {
+      "name": "Lake Michigan",
+      "label": "location",
+      "description": "One of the Great Lakes, influencing the climate and weather patterns in the surrounding regions",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.566671789335704
+    },
+    {
+      "name": "Gulf of Mexico",
+      "label": "location",
+      "description": "A body of water located in the southeastern United States, influencing the climate and weather patterns in the surrounding regions",
+      "uuid": "da9f79a5-312d-4429-8c88-1ad57b524a8b",
+      "score": 0.7695575963167633
+    },
+    {
+      "name": "electricity",
+      "label": "variable",
+      "description": "A form of energy used for powering homes, businesses, and industries",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.545913597550666
+    },
+    {
+      "name": "lake-effect snows",
+      "label": "weather event",
+      "description": "A type of snowfall that occurs when cold air passes over a large body of warm water, such as a lake",
+      "uuid": "12b7f57f-c295-4adf-97f5-43356f1270bf",
+      "score": 0.7737369462250875
+    }
+  ],
+  "(5335, 8503)": [
+    {
+      "name": "Gulf of Mexico",
+      "label": "location",
+      "description": "A large body of water located in the southeastern United States and eastern Mexico, playing a significant role in regional climate patterns and weather events",
+      "uuid": "da9f79a5-312d-4429-8c88-1ad57b524a8b",
+      "score": 0.8014928782923181
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, known for its diverse climate and geography",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.6184180747774262
+    },
+    {
+      "name": "climatic variability",
+      "label": "variable",
+      "description": "Changes or fluctuations in climate conditions over time, influencing various aspects of the environment and human activities",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.5730488593001491
+    },
+    {
+      "name": "heating-degree-days",
+      "label": "variable",
+      "description": "A measure of the energy demand for space heating, calculated based on the difference between the outdoor temperature and a reference temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.73638406777803
+    },
+    {
+      "name": "commercial sector",
+      "label": "sector",
+      "description": "A part of the economy that includes businesses and their activities, influencing energy demand and consumption patterns",
+      "uuid": "1bb6821d-8534-40ce-a6ee-7c88ce4d3c9f",
+      "score": 0.5327229946768534
+    },
+    {
+      "name": "socio-economic conditions",
+      "label": "variable",
+      "description": "The social and economic factors that influence human behavior and decision-making, including energy consumption patterns",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.5601879002030814
+    },
+    {
+      "name": "land-use patterns",
+      "label": "variable",
+      "description": "The way in which land is used and developed, influencing energy demand and consumption patterns",
+      "uuid": "3b6fe940-7383-4bae-b436-fc487723bbcf",
+      "score": 0.5073380192289988
+    }
+  ],
+  "(8137, 11132)": [
+    {
+      "name": "U.S. Census Bureau",
+      "label": "provider",
+      "description": "A government agency responsible for collecting and analyzing data about the U.S. population",
+      "uuid": "6e9aa091-715d-47cf-baee-047e5e63cbdc",
+      "score": 0.5013201903887894
+    },
+    {
+      "name": "cities",
+      "label": "location",
+      "description": "Urban areas with high population densities",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6294274815247601
+    },
+    {
+      "name": "suburban areas",
+      "label": "location",
+      "description": "Areas surrounding cities with lower population densities than cities but higher than rural areas",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5066929741470606
+    },
+    {
+      "name": "rural areas",
+      "label": "location",
+      "description": "Areas with low population densities, often characterized by natural environments and limited access to amenities",
+      "uuid": "d83b4271-048c-4763-9d5c-b5ec1b1788f4",
+      "score": 0.6970883801880022
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the western United States known for its diverse climate and geography",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.647100404074855
+    },
+    {
+      "name": "Northeast",
+      "label": "location",
+      "description": "A region in the northeastern United States characterized by cold winters and dense population",
+      "uuid": "f7e1f17b-7145-49ff-92c5-455ba506f13f",
+      "score": 0.5897591719571442
+    },
+    {
+      "name": "heating and cooling degree days",
+      "label": "variable",
+      "description": "A measure of the amount of heating or cooling required to maintain a comfortable temperature in a building or space",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.683048492217226
+    },
+    {
+      "name": "neighborhood density",
+      "label": "variable",
+      "description": "The number of people or buildings per unit area in a neighborhood",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.5565889850700605
+    },
+    {
+      "name": "income",
+      "label": "variable",
+      "description": "The amount of money earned by a household or individual",
+      "uuid": "c88a747b-2302-49c9-b747-f2faa21e2b6b",
+      "score": 0.6204013909127486
+    },
+    {
+      "name": "Artificial Neural Networks (ANN)",
+      "label": "model",
+      "description": "A type of machine learning model used to analyze complex relationships between variables",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.6548726168600514
+    },
+    {
+      "name": "Department of Energy",
+      "label": "provider",
+      "description": "A government agency responsible for promoting energy efficiency and developing new energy technologies",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6439235737797849
+    }
+  ],
+  "(10587, 13689)": [
+    {
+      "name": "Artificial Neural Networks (ANN)",
+      "label": "model",
+      "description": "A type of machine learning model used for predicting and classifying complex patterns in data",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.6615729908031734
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6253118140719884
+    },
+    {
+      "name": "Department of Energy",
+      "label": "provider",
+      "description": "A U.S. government agency responsible for energy policy and research",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6485664168001991
+    },
+    {
+      "name": "Pacific Northwest National Laboratories",
+      "label": "provider",
+      "description": "A U.S. government laboratory that conducts research in energy and environmental sciences",
+      "uuid": "db8348ff-0fb6-4adc-a472-9902bbc5a1f4",
+      "score": 0.5415675084866733
+    }
+  ],
+  "(13182, 16302)": [
+    {
+      "name": "U.S. EIA",
+      "label": "provider",
+      "description": "The United States Energy Information Administration, an agency responsible for collecting, analyzing, and disseminating energy-related data",
+      "uuid": "2a61b7a0-5054-46be-a5ba-3fbbc11cf063",
+      "score": 0.7284194003768651
+    },
+    {
+      "name": "SEDS",
+      "label": "project",
+      "description": "The State Energy Data System, a project that provides comprehensive energy data for the United States, including energy consumption, production, and prices",
+      "uuid": "5afd7fb3-e3a4-4cde-8cad-c6e0963d9eba",
+      "score": 0.557074578743918
+    },
+    {
+      "name": "petroleum",
+      "label": "variable",
+      "description": "A type of fossil fuel used for energy production, transportation, and other industrial purposes",
+      "uuid": "44d0ad8f-fe22-4d17-bc47-c0b728a82baf",
+      "score": 0.6699268204206964
+    },
+    {
+      "name": "coal",
+      "label": "variable",
+      "description": "A fossil fuel used for electricity generation, industrial processes, and residential heating",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6455728207444368
+    },
+    {
+      "name": "electricity",
+      "label": "variable",
+      "description": "A form of energy used for powering homes, businesses, and industries",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.545913597550666
+    },
+    {
+      "name": "natural gas",
+      "label": "variable",
+      "description": "A fossil fuel used for heating, cooking, and electricity generation",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.7022350160176041
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "Organic matter used as a source of energy, such as wood, agricultural waste, and wastewater",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5778892410411315
+    },
+    {
+      "name": "geothermal",
+      "label": "variable",
+      "description": "Heat from the Earth used for energy production, such as electricity generation and heating",
+      "uuid": "33d1810f-40c6-4b37-ac90-7435ef5fa507",
+      "score": 0.679451037997277
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the Midwestern United States, known for its diverse economy and geography",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.6915985712842545
+    },
+    {
+      "name": "NEMS",
+      "label": "model",
+      "description": "The National Energy Modeling System, a comprehensive energy-economy model used for analyzing energy markets and predicting future energy demand",
+      "uuid": "e2e6df59-5768-4c4d-a0ed-0ec040de37ce",
+      "score": 0.5751889811386528
+    }
+  ],
+  "(15783, 18720)": [
+    {
+      "name": "petroleum",
+      "label": "variable",
+      "description": "A type of fossil fuel used as a source of energy, often measured in terms of its consumption or production",
+      "uuid": "44d0ad8f-fe22-4d17-bc47-c0b728a82baf",
+      "score": 0.6462800885937119
+    },
+    {
+      "name": "coal",
+      "label": "variable",
+      "description": "A type of fossil fuel used as a source of energy, often measured in terms of its consumption or production",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6538566432963343
+    },
+    {
+      "name": "electricity",
+      "label": "variable",
+      "description": "A form of energy used to power various devices and systems, often measured in terms of its consumption or production",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.5678308198605097
+    },
+    {
+      "name": "natural gas",
+      "label": "variable",
+      "description": "A type of fossil fuel used as a source of energy, often measured in terms of its consumption or production",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6833958658904399
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "A type of renewable energy source derived from organic matter, often measured in terms of its consumption or production",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5929115306496641
+    },
+    {
+      "name": "geothermal",
+      "label": "variable",
+      "description": "A type of renewable energy source derived from the heat of the Earth, often measured in terms of its consumption or production",
+      "uuid": "33d1810f-40c6-4b37-ac90-7435ef5fa507",
+      "score": 0.6612111363463709
+    },
+    {
+      "name": "solar energy",
+      "label": "variable",
+      "description": "A type of renewable energy source derived from the sun, often measured in terms of its consumption or production",
+      "uuid": "8b4f34c1-7aed-4833-811a-401382abd17c",
+      "score": 0.6011408345433286
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the United States, known for its diverse economy and geography",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.6871250929151596
+    },
+    {
+      "name": "Ohio",
+      "label": "location",
+      "description": "A state in the United States, known for its diverse economy and geography",
+      "uuid": "c23966c4-9e16-484c-a1ef-efcd2354d71c",
+      "score": 0.6467536158056182
+    },
+    {
+      "name": "U.S. Energy Information Administration",
+      "label": "provider",
+      "description": "A federal agency responsible for collecting, analyzing, and disseminating energy data and information",
+      "uuid": "2a61b7a0-5054-46be-a5ba-3fbbc11cf063",
+      "score": 0.6896417481813846
+    }
+  ],
+  "(18190, 21284)": [
+    {
+      "name": "SEDS",
+      "label": "dataset",
+      "description": "A dataset containing information on energy demand and consumption patterns",
+      "uuid": "5afd7fb3-e3a4-4cde-8cad-c6e0963d9eba",
+      "score": 0.5645305844325258
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the United States, part of the East North Central region",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.7080176293382071
+    },
+    {
+      "name": "National Centers for Environmental Information",
+      "label": "provider",
+      "description": "An organization that provides access to environmental data and information",
+      "uuid": "3f5f54d3-6046-4236-83c5-981a9a2cd8e6",
+      "score": 0.658078882191595
+    },
+    {
+      "name": "National Oceanic and Atmospheric Administration",
+      "label": "provider",
+      "description": "A United States government agency responsible for studying the oceans, atmosphere, and climate",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6681656629532273
+    },
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    },
+    {
+      "name": "climate stations",
+      "label": "platform",
+      "description": "Locations where climate data is collected and measured",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.6209054261260805
+    },
+    {
+      "name": "dew point temperature",
+      "label": "variable",
+      "description": "A measure of the temperature at which air becomes saturated with water vapor and dew forms",
+      "uuid": "731beb11-9418-40ec-8f2c-c4b320e8231a",
+      "score": 0.782922670237109
+    },
+    {
+      "name": "average wind speed",
+      "label": "variable",
+      "description": "A measure of the speed of wind over a given area or time period",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.5798475011193033
+    },
+    {
+      "name": "precipitation levels",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall or other forms of precipitation in a given area or time period",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6123786694000524
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded in a given area or time period",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6021606551361338
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded in a given area or time period",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6206918150795465
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7385381284915613
+    }
+  ],
+  "(20767, 23728)": [
+    {
+      "name": "RCP",
+      "label": "project",
+      "description": "The Representative Concentration Pathways, a set of scenarios used to assess the long-term climate sensitivity of various systems and processes",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5417720242079521
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that provides scientific advice on climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7223458457301821
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the United States, used as the geographical focus for the study of climate sensitivity and energy demand",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.5935401481697324
+    },
+    {
+      "name": "climate data",
+      "label": "variable",
+      "description": "Historical monthly climate data used to develop predictive models for energy demand",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5153903569181291
+    }
+  ],
+  "(23180, 26137)": [
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    },
+    {
+      "name": "decision-tree",
+      "label": "model",
+      "description": "A type of machine learning model that uses a tree-like structure to make predictions",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.8154137578016664
+    }
+  ],
+  "(25584, 28647)": [
+    {
+      "name": "decision-tree",
+      "label": "model",
+      "description": "A type of machine learning algorithm used for classification and regression tasks, based on a tree-like model of decisions",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.8080779238035362
+    },
+    {
+      "name": "training dataset",
+      "label": "project",
+      "description": "A collection of data used to train a statistical model",
+      "uuid": "676bb4aa-1452-4527-aa05-83233ad5d01d",
+      "score": 0.5007128766202814
+    }
+  ],
+  "(28090, 31376)": [
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state located in the Midwestern United States, with a diverse geography and climate",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.7039493769614122
+    },
+    {
+      "name": "commercial sector",
+      "label": "sector",
+      "description": "A category of energy consumption that includes businesses, offices, and commercial buildings",
+      "uuid": "1bb6821d-8534-40ce-a6ee-7c88ce4d3c9f",
+      "score": 0.5071805055693286
+    },
+    {
+      "name": "climate data",
+      "label": "variable",
+      "description": "Information about past, current, or future climate conditions, used to study and predict climate patterns",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5577079727848393
+    },
+    {
+      "name": "climate variability",
+      "label": "natural hazard",
+      "description": "Changes in climate patterns over time, which can have significant impacts on human societies and ecosystems",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.5520262841630348
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "Long-term changes in global climate patterns, which can have significant impacts on human societies and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5868773470928588
+    }
+  ],
+  "(30956, 33883)": [
+    {
+      "name": "commercial sector",
+      "label": "location",
+      "description": "A region or area where commercial buildings are located, often considered in energy consumption and climate studies",
+      "uuid": "1bb6821d-8534-40ce-a6ee-7c88ce4d3c9f",
+      "score": 0.5088447096521133
+    },
+    {
+      "name": "decision-tree",
+      "label": "instrument",
+      "description": "A machine learning model used for classification and regression tasks",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.8158482095124417
+    },
+    {
+      "name": "ensemble model",
+      "label": "model",
+      "description": "A model that combines the predictions of multiple models to improve overall performance",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.67665656058193
+    }
+  ],
+  "(33335, 36639)": [
+    {
+      "name": "decision-tree",
+      "label": "instrument",
+      "description": "A computational method used for classification and regression tasks, in this case, for predicting energy demand",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.6851522027307553
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, in this case, the temperature of the environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6365522151055537
+    },
+    {
+      "name": "TMIN.W",
+      "label": "variable",
+      "description": "The minimum temperature during the winter months, a predictor of energy demand in the residential sector",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.5214318971761872
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "A measure of the speed of the wind, a predictor of energy demand in the residential and commercial sectors",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6093722326525954
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the United States, where the study on energy demand was conducted",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.5751974091195688
+    },
+    {
+      "name": "precipitation levels",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation, a predictor of energy demand in the commercial sector",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5288600751086054
+    },
+    {
+      "name": "minimum temperatures",
+      "label": "variable",
+      "description": "The lowest temperature during a given period, a predictor of energy demand in the commercial sector",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.545672341802642
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature during a given period, a predictor of energy demand in the commercial sector",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.5852854882942173
+    }
+  ],
+  "(36109, 38736)": [
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the Midwestern United States, with varying climate conditions influencing energy demand",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.5766757110472095
+    },
+    {
+      "name": "wind speeds",
+      "label": "variable",
+      "description": "A measure of the speed at which wind is blowing, influencing energy demand for heating and cooling due to wind-chill effects",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.5737494924624484
+    },
+    {
+      "name": "temperatures",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in a given environment, affecting energy demand for heating and cooling",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5427499614960913
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario assuming a moderate increase in greenhouse gas emissions, used for climate modeling and projection",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6195224096567359
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario assuming a high increase in greenhouse gas emissions, used for climate modeling and projection",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6824420163645987
+    }
+  ],
+  "(38279, 41188)": [
+    {
+      "name": "RCP 4.5 scenario",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes a moderate increase in greenhouse gas emissions, leading to a global average temperature increase of 2-3\u00b0C by 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5975503022955705
+    },
+    {
+      "name": "RCP 8.5 scenario",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes a high increase in greenhouse gas emissions, leading to a global average temperature increase of 3.2-5.4\u00b0C by 2100",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6748184768643224
+    },
+    {
+      "name": "energy-economy models",
+      "label": "model",
+      "description": "Computational frameworks that simulate the interactions between energy systems and economic activities",
+      "uuid": "9a1dd3c3-a126-437e-ad04-9dc0a382d567",
+      "score": 0.5023162079919712
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the United States, characterized by a diverse climate and geography",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.6516815888832596
+    }
+  ],
+  "(40725, 43957)": [
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the United States known for its diverse geography and climate, used as a case study for energy demand projections",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.576574474512149
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A climate change scenario representing a moderate increase in greenhouse gas emissions, used to project future energy demands",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5999359227500679
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A climate change scenario representing a high increase in greenhouse gas emissions, used to project future energy demands",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6536728082390436
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric conditions such as temperature, humidity, and wind speed that influence energy demand",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6034830277922872
+    },
+    {
+      "name": "dew point temperature",
+      "label": "variable",
+      "description": "A measure of the temperature at which air becomes saturated with water vapor, influencing heat stress and energy demand",
+      "uuid": "76103e17-59c2-4458-972d-9ff9801e5d32",
+      "score": 0.757451466329108
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The speed at which air moves, affecting energy demand for heating and cooling",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6182475636303932
+    }
+  ],
+  "(43456, 45732)": [
+    {
+      "name": "energy-economy models",
+      "label": "model",
+      "description": "Computational representations that integrate energy and economic systems to study their interactions and impacts on climate change",
+      "uuid": "9a1dd3c3-a126-437e-ad04-9dc0a382d567",
+      "score": 0.5480551544785699
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the United States, used as a case study for analyzing the energy demand-climate nexus",
+      "uuid": "90574252-947b-4584-bf1d-0aecd994c606",
+      "score": 0.60038394083821
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A climate scenario representing a moderate increase in greenhouse gas emissions and a medium level of climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6152114757273979
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A climate scenario representing a high increase in greenhouse gas emissions and a high level of climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6678628186773274
+    },
+    {
+      "name": "ice-storms",
+      "label": "weather event",
+      "description": "A type of severe weather event characterized by freezing rain or drizzle that forms a layer of ice on surfaces",
+      "uuid": "5ce75010-ec8a-4af7-9e34-3e49ef2fe10c",
+      "score": 0.6243829269806663
+    },
+    {
+      "name": "tornados",
+      "label": "weather event",
+      "description": "A type of severe weather event characterized by a rotating column of air that touches the ground",
+      "uuid": "a200e677-384a-42d6-8519-1c7735f0adb9",
+      "score": 0.7155635915376194
+    }
+  ]
+}

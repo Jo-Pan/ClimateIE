@@ -1,0 +1,215 @@
+{
+  "(5430, 8389)": [
+    {
+      "name": "animal behavior",
+      "label": "variable",
+      "description": "The study of the behavior and interactions of animals, often used to model and simulate real-world scenarios",
+      "uuid": "5d1b53b2-7d69-4b7c-903f-d8cf29430f93",
+      "score": 0.6306008725210914
+    }
+  ],
+  "(31157, 34378)": [
+    {
+      "name": "detection models",
+      "label": "model",
+      "description": "Mathematical representations used to predict the likelihood of detecting a target within a given search area, taking into account factors such as search effort and sensor capabilities",
+      "uuid": "55a99ac5-595b-4411-a11f-79d91603358a",
+      "score": 0.5311177361074764
+    },
+    {
+      "name": "submarines",
+      "label": "platform",
+      "description": "Underwater vessels used for military or research purposes, which can be the target of search operations",
+      "uuid": "9e903361-9170-421b-b0ab-3fa6d160c20a",
+      "score": 0.6364942107928009
+    }
+  ],
+  "(33879, 37136)": [
+    {
+      "name": "sonar",
+      "label": "instrument",
+      "description": "A sensor technology used for detecting and locating targets underwater",
+      "uuid": "10040ca6-3809-4679-a41e-6a6efbb25ae8",
+      "score": 0.6728874217502733
+    },
+    {
+      "name": "visual sensors",
+      "label": "instrument",
+      "description": "Sensors that use visual information to detect and locate targets",
+      "uuid": "6497f9c7-d8a6-46d7-9fea-68f612b835ff",
+      "score": 0.5008430144568267
+    }
+  ],
+  "(36649, 39741)": [
+    {
+      "name": "visual sensors",
+      "label": "instrument",
+      "description": "Devices used to detect and measure visual information, such as light, color, or motion",
+      "uuid": "6497f9c7-d8a6-46d7-9fea-68f612b835ff",
+      "score": 0.5180402585177195
+    },
+    {
+      "name": "acoustic sensing",
+      "label": "instrument",
+      "description": "The use of sound waves to detect and measure physical properties, such as distance, speed, or material composition",
+      "uuid": "ba25756b-6326-4746-a20d-63db582a5f3f",
+      "score": 0.5331057591020487
+    },
+    {
+      "name": "3D LIDAR",
+      "label": "instrument",
+      "description": "A type of remote sensing technology that uses laser light to create high-resolution 3D images of objects or environments",
+      "uuid": "6182be8b-d006-4327-994d-6f27c7e4d9a9",
+      "score": 0.6244892854460072
+    },
+    {
+      "name": "synthetic aperture sensors",
+      "label": "instrument",
+      "description": "A type of radar or sonar technology that uses multiple antennas or transducers to create high-resolution images of a target",
+      "uuid": "a37282d4-322c-4dd0-8edc-36099b9b586c",
+      "score": 0.6371302212558984
+    }
+  ],
+  "(44458, 47670)": [
+    {
+      "name": "visibility sensor",
+      "label": "instrument",
+      "description": "A type of sensor that detects the presence or absence of an object or target",
+      "uuid": "6497f9c7-d8a6-46d7-9fea-68f612b835ff",
+      "score": 0.6661301465243239
+    }
+  ],
+  "(49595, 52688)": [
+    {
+      "name": "visibility",
+      "label": "variable",
+      "description": "A measure of the ability to see or detect a target in an environment",
+      "uuid": "9337898d-68dc-43d7-93a9-6afdb4ab1784",
+      "score": 0.6321385066197746
+    }
+  ],
+  "(52165, 55145)": [
+    {
+      "name": "tree",
+      "label": "model",
+      "description": "A type of graph with a tree-like structure, used to represent systems and problems in various fields",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.5206842105950138
+    }
+  ],
+  "(57305, 60520)": [
+    {
+      "name": "POMDP",
+      "label": "model",
+      "description": "A Partially Observable Markov Decision Process, a mathematical framework used to model decision-making problems in situations where the state of the system is not fully observable",
+      "uuid": "45d0ab0d-19d4-4fc4-8f69-9f6b4529a430",
+      "score": 0.5301210526225831
+    }
+  ],
+  "(59923, 63106)": [
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "A navigation system used to determine the location of vehicles",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.7104210863792951
+    },
+    {
+      "name": "inertial navigation",
+      "label": "instrument",
+      "description": "A system used to determine the orientation and position of vehicles",
+      "uuid": "3077c378-f568-4923-a54f-b704f486c131",
+      "score": 0.5611604675103657
+    },
+    {
+      "name": "UAV/UGV team",
+      "label": "project",
+      "description": "A team of unmanned aerial vehicles and unmanned ground vehicles working together to search for targets",
+      "uuid": "9b6da136-51c7-4941-8023-5826be7a9273",
+      "score": 0.572779976758793
+    }
+  ],
+  "(62548, 65821)": [
+    {
+      "name": "UAV",
+      "label": "platform",
+      "description": "An unmanned aerial vehicle, used for various applications including search and rescue, surveillance, and environmental monitoring",
+      "uuid": "9b6da136-51c7-4941-8023-5826be7a9273",
+      "score": 0.7272738789971205
+    },
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "A global positioning system, used for navigation and localization in various applications",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.7503389874916836
+    },
+    {
+      "name": "UAV-enabled search",
+      "label": "experiment",
+      "description": "A research or experimental approach using UAVs for search and rescue operations",
+      "uuid": "9b6da136-51c7-4941-8023-5826be7a9273",
+      "score": 0.5534148844805771
+    },
+    {
+      "name": "laser scanners",
+      "label": "instrument",
+      "description": "Devices used for measuring distances or detecting objects in an environment",
+      "uuid": "ff309a1a-606d-456b-82b6-5b3c182f66ff",
+      "score": 0.5488529570676982
+    },
+    {
+      "name": "beacons",
+      "label": "instrument",
+      "description": "Devices used for localization or navigation in an environment",
+      "uuid": "0d8c65c6-a8f3-4a72-a958-7aa1487a9b78",
+      "score": 0.5486348457312881
+    },
+    {
+      "name": "camera",
+      "label": "instrument",
+      "description": "A device used for capturing images or video in various applications",
+      "uuid": "2a852a66-f1d9-4d84-b97b-c92638b34c2a",
+      "score": 0.5686931339666632
+    },
+    {
+      "name": "laser",
+      "label": "instrument",
+      "description": "A device used for measuring distances or detecting objects in an environment",
+      "uuid": "0be9c8a4-d29d-4046-ad10-4ca80c765ee6",
+      "score": 0.5468991439184783
+    }
+  ],
+  "(65314, 68668)": [
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "A device used for navigation and tracking the location of the vehicles",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.6952273079784255
+    },
+    {
+      "name": "cameras",
+      "label": "instrument",
+      "description": "Devices used to provide a 360 degree field of view for the vehicles",
+      "uuid": "d322ae9d-bde0-448f-948d-777aef096eb6",
+      "score": 0.5168202309503792
+    },
+    {
+      "name": "emergency response",
+      "label": "project",
+      "description": "A type of application domain in robotics that involves responding to emergencies and disasters",
+      "uuid": "507860e1-7494-438a-8537-b21da89efddf",
+      "score": 0.5131166350820533
+    }
+  ],
+  "(68111, 70323)": [
+    {
+      "name": "visibility",
+      "label": "variable",
+      "description": "A measure of how well a target can be detected or observed in a given environment",
+      "uuid": "9337898d-68dc-43d7-93a9-6afdb4ab1784",
+      "score": 0.6266681782197201
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "(0, 3098)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The fifth Coupled Model Intercomparison Project, a global effort to compare and improve climate models",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8135534155652492
+    },
+    {
+      "name": "PCMDI",
+      "label": "provider",
+      "description": "The Program for Climate Model Diagnosis and Intercomparison, an organization responsible for archival and analysis of climate model data",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.8112361286870303
+    },
+    {
+      "name": "ESGF",
+      "label": "platform",
+      "description": "The Earth System Grid Federation, a global consortium of data providers and archives supporting climate model intercomparison projects",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.7456998557899015
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The third Coupled Model Intercomparison Project, a predecessor to CMIP5",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.775122716032802
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization assessing climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7511981995972974
+    },
+    {
+      "name": "U.S. Lawrence Livermore National Laboratory",
+      "label": "provider",
+      "description": "A research laboratory involved in climate modeling and data analysis",
+      "uuid": "3a70c424-2067-4b1a-83e6-9948477dd4b4",
+      "score": 0.6898601244276414
+    },
+    {
+      "name": "GO-ESSP",
+      "label": "provider",
+      "description": "The Global Organisation for Earth System Science Portals, an organization facilitating Earth system science research and data sharing",
+      "uuid": "7e9895b9-496e-4e49-8f46-383a9a34e82e",
+      "score": 0.5763795860241336
+    },
+    {
+      "name": "World Climate Research Programme",
+      "label": "project",
+      "description": "An international program coordinating climate research and modeling efforts",
+      "uuid": "485e86f3-7cd1-43c0-bb02-a929b7d96e43",
+      "score": 0.7070278371954601
+    },
+    {
+      "name": "model intercomparison projects",
+      "label": "project",
+      "description": "Research initiatives comparing and evaluating climate models",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.6170194228952754
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Computational representations of the Earth's climate system used for prediction and research",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6872943902214994
+    },
+    {
+      "name": "climate data",
+      "label": "variable",
+      "description": "Information and measurements related to the Earth's climate, including temperature, precipitation, and other factors",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.6226187572117907
+    }
+  ],
+  "(2620, 5744)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "PCMDI",
+      "label": "provider",
+      "description": "The Program for Climate Model Diagnosis and Intercomparison, a research program focused on analyzing and improving climate models",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.8235911254981347
+    },
+    {
+      "name": "ESGF",
+      "label": "platform",
+      "description": "The Earth System Grid Federation, a global federation of data providers and archive centers that manage and distribute climate data",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.7298808951626319
+    },
+    {
+      "name": "GO-ESSP",
+      "label": "provider",
+      "description": "The Global Organisation for Earth System Science Portals, an organization that coordinates the development of Earth system science portals",
+      "uuid": "7e9895b9-496e-4e49-8f46-383a9a34e82e",
+      "score": 0.5718731802181151
+    },
+    {
+      "name": "paleoclimate",
+      "label": "variable",
+      "description": "The study of past climates, often used to understand and predict future climate changes",
+      "uuid": "c7245882-84a1-4192-acfa-a758b5b9c151",
+      "score": 0.7069077203146298
+    },
+    {
+      "name": "climate data sets",
+      "label": "variable",
+      "description": "Collections of data related to climate, including observations, simulations, and reanalyses",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.7403124163338893
+    },
+    {
+      "name": "earth-observation data sets",
+      "label": "variable",
+      "description": "Data collected from Earth-observing satellites and other platforms, used to study the Earth's climate and environment",
+      "uuid": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
+      "score": 0.6725946799011833
+    },
+    {
+      "name": "ESGF software",
+      "label": "instrument",
+      "description": "The software used by the Earth System Grid Federation to manage and distribute climate data",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.6336588291200801
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on Earth, home to many countries and organizations involved in climate research",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6123589420218903
+    },
+    {
+      "name": "Americas",
+      "label": "location",
+      "description": "A continent on Earth, comprising North, Central, and South America, and home to many countries and organizations involved in climate research",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.5523893068303252
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent on Earth, comprising a large and diverse range of countries and cultures, and home to many organizations involved in climate research",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6615937766987345
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent on Earth, home to many organizations and researchers involved in climate science",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.6251970481698613
+    }
+  ],
+  "(5224, 8263)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "projection experiments",
+      "label": "experiment",
+      "description": "Climate simulations aimed at providing the best available climate projections on a centennial scale",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5273477318307629
+    },
+    {
+      "name": "decadal predictions",
+      "label": "experiment",
+      "description": "Experiments aimed at evaluating the state of the art and identifying improvements in climate prediction",
+      "uuid": "addadf3e-ae8d-49aa-9b5d-abee1952a543",
+      "score": 0.61329957224956
+    },
+    {
+      "name": "paleoclimate",
+      "label": "variable",
+      "description": "The study of past climates, often used to validate and improve climate models",
+      "uuid": "c7245882-84a1-4192-acfa-a758b5b9c151",
+      "score": 0.7003592161951302
+    },
+    {
+      "name": "CMIP5 modeling community",
+      "label": "provider",
+      "description": "A group of researchers and institutions participating in the CMIP5 project, responsible for running and developing climate models",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.6778314741165424
+    },
+    {
+      "name": "earth observation data",
+      "label": "variable",
+      "description": "Data collected from observations of the Earth's climate system, used to validate and improve climate models",
+      "uuid": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
+      "score": 0.5493464276540262
+    },
+    {
+      "name": "CMIP5 data protocol",
+      "label": "model",
+      "description": "A set of guidelines and standards for climate model output and data format, used in the CMIP5 project",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.633171917827493
+    },
+    {
+      "name": "CMIP5 web site",
+      "label": "platform",
+      "description": "The official website of the CMIP5 project, providing information and resources for participants and users",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.721858907143778
+    },
+    {
+      "name": "IPCC 5th Assessment Report",
+      "label": "project",
+      "description": "A report by the Intergovernmental Panel on Climate Change, assessing the current state of climate science and providing recommendations for future research and action",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5903042066565359
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a previous phase of the CMIP project",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8091442050624591
+    },
+    {
+      "name": "wider CMIP5 data provision",
+      "label": "project",
+      "description": "The overall data provision and management efforts of the CMIP5 project, including data from various sources and formats",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.5689428213950198
+    }
+  ],
+  "(7793, 10786)": [
+    {
+      "name": "IPCC 5th Assessment Report",
+      "label": "project",
+      "description": "The fifth assessment report of the Intergovernmental Panel on Climate Change, which evaluates the current state of climate change research and its implications for the environment and society>",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5847170006842964
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions>",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.807598701651389
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a previous framework for comparing different climate models to improve climate predictions>",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.7923660321337108
+    },
+    {
+      "name": "decadal experiments",
+      "label": "experiment",
+      "description": "Climate simulations or experiments that focus on decadal timescales, examining climate variability and change over periods of ten years or more>",
+      "uuid": "addadf3e-ae8d-49aa-9b5d-abee1952a543",
+      "score": 0.7367465600053285
+    },
+    {
+      "name": "ocean fields",
+      "label": "variable",
+      "description": "Measurements or simulations of ocean properties, such as temperature, salinity, and currents, which are essential for understanding ocean circulation and climate>",
+      "uuid": "36ba4d54-d0de-4e8f-ba22-274d8413f77e",
+      "score": 0.600509855024576
+    },
+    {
+      "name": "ESGF",
+      "label": "platform",
+      "description": "The Earth System Grid Federation, a platform designed to provide access to and management of large datasets, particularly those related to climate modeling and research>",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.7340029796146805
+    },
+    {
+      "name": "AR5",
+      "label": "project",
+      "description": "The fifth assessment report of the Intergovernmental Panel on Climate Change, which evaluates the current state of climate change research and its implications for the environment and society>",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.5451698166084952
+    },
+    {
+      "name": "AR4",
+      "label": "project",
+      "description": "The fourth assessment report of the Intergovernmental Panel on Climate Change, a previous evaluation of the current state of climate change research and its implications for the environment and society>",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.529985188945213
+    }
+  ],
+  "(10365, 13219)": [
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028741732486364
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "AR4",
+      "label": "project",
+      "description": "The Fourth Assessment Report of the Intergovernmental Panel on Climate Change, which assessed climate change research and predictions",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.5293982463768786
+    },
+    {
+      "name": "ESGF",
+      "label": "platform",
+      "description": "The Earth System Grid Federation, a distributed infrastructure for managing and accessing climate data",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.7368945061618659
+    },
+    {
+      "name": "ESG",
+      "label": "platform",
+      "description": "The Earth System Grid, a precursor to ESGF, designed for managing and accessing climate data",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.7663954619099195
+    },
+    {
+      "name": "NERC DataGrid",
+      "label": "platform",
+      "description": "A UK-based data grid for managing and accessing environmental data",
+      "uuid": "28206540-ba2e-4f70-827e-1ee63b3d186d",
+      "score": 0.5044789233286973
+    },
+    {
+      "name": "C3-Grid",
+      "label": "platform",
+      "description": "The Collaborative Climate Community Data Processing Grid, a German initiative for climate data management",
+      "uuid": "1e4072ec-2e6f-442e-b962-cb47a25a18bf",
+      "score": 0.5395846835810353
+    },
+    {
+      "name": "CMIP5 website",
+      "label": "provider",
+      "description": "The official website for the Coupled Model Intercomparison Project Phase 5, providing information and resources for climate researchers",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.751973906302602
+    },
+    {
+      "name": "model and experiment metadata",
+      "label": "variable",
+      "description": "Information describing the models and experiments used to generate the data",
+      "uuid": "2eecd388-25be-4367-90c6-0d683ef476ac",
+      "score": 0.5629620946856205
+    },
+    {
+      "name": "quality metadata",
+      "label": "variable",
+      "description": "Information describing the intrinsic checks on data fidelity",
+      "uuid": "0eba3253-8eb7-4e43-9627-9cff48775e27",
+      "score": 0.5327306014707354
+    },
+    {
+      "name": "data nodes",
+      "label": "instrument",
+      "description": "Components of the ESGF infrastructure responsible for storing and managing data",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.5034267068653445
+    },
+    {
+      "name": "gateways",
+      "label": "instrument",
+      "description": "Components of the ESGF infrastructure providing access to data and services",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.5189102203275759
+    },
+    {
+      "name": "data services",
+      "label": "instrument",
+      "description": "Components of the ESGF infrastructure providing data management and access capabilities",
+      "uuid": "12a00b9e-52b3-44d0-bbfc-d8bb74173323",
+      "score": 0.5744096972600622
+    }
+  ],
+  "(12712, 15810)": [
+    {
+      "name": "ESGF",
+      "label": "project",
+      "description": "The Earth System Grid Federation, an initiative to manage and distribute climate data and models",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.7476326684095501
+    },
+    {
+      "name": "THREDDS",
+      "label": "instrument",
+      "description": "Thematic Realtime Environmental Distributed Data Services, a software framework for serving and managing scientific data",
+      "uuid": "1ebdef23-b988-44cd-ab92-badb8eb6b3ae",
+      "score": 0.7811792870665807
+    },
+    {
+      "name": "data services",
+      "label": "instrument",
+      "description": "Software components that provide access to and manipulation of climate data within the ESGF",
+      "uuid": "12a00b9e-52b3-44d0-bbfc-d8bb74173323",
+      "score": 0.6317759973122613
+    },
+    {
+      "name": "OpeNDAP",
+      "label": "instrument",
+      "description": "Open-source software for serving and accessing scientific data, particularly used for subsetting and programmatic access",
+      "uuid": "0551ab0d-c04b-4c51-bd96-fac192c5a5a1",
+      "score": 0.7409896132777325
+    },
+    {
+      "name": "Live Access Service",
+      "label": "instrument",
+      "description": "A web-based service providing interactive access to climate data, integrated into the ESGF",
+      "uuid": "20ab6d52-f5a7-439c-a044-6ef2452a2838",
+      "score": 0.6523329363978269
+    },
+    {
+      "name": "earth observation",
+      "label": "variable",
+      "description": "The process of collecting data about the Earth's systems through remote sensing, used for validation and evaluation in climate studies",
+      "uuid": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
+      "score": 0.5939574533443125
+    }
+  ],
+  "(15315, 18242)": [
+    {
+      "name": "ESGF",
+      "label": "project",
+      "description": "The Earth System Grid Federation, an international project aimed at developing a framework for managing and distributing climate data",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.7621547937934156
+    },
+    {
+      "name": "DKRZ",
+      "label": "provider",
+      "description": "The German Climate Computing Centre, a research institution providing high-performance computing resources for climate modeling",
+      "uuid": "8d4da91d-b1c1-4c8f-bd13-925d808d0b75",
+      "score": 0.7803612201550104
+    },
+    {
+      "name": "PCMDI",
+      "label": "provider",
+      "description": "The Program for Climate Model Diagnosis and Intercomparison, a research institution focused on climate model evaluation and diagnosis",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.8270956343206495
+    },
+    {
+      "name": "BADC",
+      "label": "provider",
+      "description": "The British Atmospheric Data Centre, a research institution providing atmospheric data and services for climate research",
+      "uuid": "6524ae91-bb37-4bc8-870b-126b3b25bb18",
+      "score": 0.6789311362625317
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization assessing climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7511981995972974
+    },
+    {
+      "name": "THREDDS",
+      "label": "instrument",
+      "description": "The Thematic Real-time Environmental Distributed Data Services, a software framework for managing and distributing environmental data",
+      "uuid": "1ebdef23-b988-44cd-ab92-badb8eb6b3ae",
+      "score": 0.7719219884124524
+    },
+    {
+      "name": "ESGF data resources",
+      "label": "variable",
+      "description": "A collection of climate data and metadata managed by the Earth System Grid Federation",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.6474857926331029
+    },
+    {
+      "name": "IPCC data distribution centre",
+      "label": "location",
+      "description": "A centralized repository for distributing climate data and information related to the Intergovernmental Panel on Climate Change",
+      "uuid": "6485f13c-b08d-4a4e-af5e-43e45e13f936",
+      "score": 0.6845499386475511
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in the Southern Hemisphere, participating in the Earth System Grid Federation",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.617095275354231
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "A country in East Asia, participating in the Earth System Grid Federation",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.5949120614990485
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, participating in the Earth System Grid Federation",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6752327467686293
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America, participating in the Earth System Grid Federation",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5967661963179501
+    }
+  ],
+  "(17792, 20557)": [
+    {
+      "name": "ESGF",
+      "label": "project",
+      "description": "The Earth System Grid Federation, an international collaboration to develop and maintain a global climate data management system",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.7427485544447902
+    },
+    {
+      "name": "PCMDI",
+      "label": "provider",
+      "description": "The Program for Climate Model Diagnosis and Intercomparison, a research program focused on analyzing and improving climate models",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.8235911254981347
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "Australian National University",
+      "label": "provider",
+      "description": "A university in Australia that participates in the ESGF project",
+      "uuid": "ccc11b04-5a44-489a-a00c-ee6084fa64c7",
+      "score": 0.5963062729213706
+    },
+    {
+      "name": "BADC",
+      "label": "provider",
+      "description": "The British Atmospheric Data Centre, a data center that archives and provides access to atmospheric data",
+      "uuid": "6524ae91-bb37-4bc8-870b-126b3b25bb18",
+      "score": 0.6573645195514978
+    },
+    {
+      "name": "data",
+      "label": "variable",
+      "description": "Information or measurements collected and stored for analysis and use in climate research",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.6141238090751632
+    },
+    {
+      "name": "metadata",
+      "label": "variable",
+      "description": "Data that describes and provides context for other data, such as information about data quality, format, and source",
+      "uuid": "3c9d4493-22fd-48a8-9af5-bf0d16b7ede5",
+      "score": 0.5051981973338727
+    },
+    {
+      "name": "academic networks",
+      "label": "platform",
+      "description": "Networks used by academic institutions for research and collaboration",
+      "uuid": "7700280b-68ee-4644-bf5e-84e7a6adf897",
+      "score": 0.5099896736680574
+    }
+  ],
+  "(20105, 23281)": [
+    {
+      "name": "BADC",
+      "label": "provider",
+      "description": "The British Atmospheric Data Centre, a repository for atmospheric data and metadata",
+      "uuid": "6524ae91-bb37-4bc8-870b-126b3b25bb18",
+      "score": 0.6841450729193755
+    },
+    {
+      "name": "PCMDI",
+      "label": "provider",
+      "description": "The Program for Climate Model Diagnosis and Intercomparison, a research program focused on climate model evaluation and improvement",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.825561405884339
+    },
+    {
+      "name": "DKRZ",
+      "label": "provider",
+      "description": "The German Climate Computing Centre, a research institution providing computing resources and data services for climate science",
+      "uuid": "8d4da91d-b1c1-4c8f-bd13-925d808d0b75",
+      "score": 0.7875111948319258
+    },
+    {
+      "name": "ESGF",
+      "label": "project",
+      "description": "The Earth System Grid Federation, a project aimed at developing a global infrastructure for climate data management and distribution",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.760732224706286
+    },
+    {
+      "name": "World Data Centre for Climate",
+      "label": "provider",
+      "description": "An international data centre for climate data, providing access to climate datasets and metadata",
+      "uuid": "ed814f89-f5c1-4b32-aad4-a787367aa4b2",
+      "score": 0.5772349939384124
+    },
+    {
+      "name": "THREDDS server",
+      "label": "instrument",
+      "description": "A server software used for serving and managing large datasets, particularly in the context of climate data",
+      "uuid": "1ebdef23-b988-44cd-ab92-badb8eb6b3ae",
+      "score": 0.709002440500332
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    }
+  ],
+  "(22750, 24446)": [
+    {
+      "name": "ESGF",
+      "label": "project",
+      "description": "The Earth System Grid Federation, an international collaboration to develop and operate a distributed data management system for climate data",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.7415606932442356
+    },
+    {
+      "name": "GO-ESSP",
+      "label": "project",
+      "description": "The Global Organization for Earth System Science Portals, an initiative to coordinate and support Earth system science research and data management",
+      "uuid": "7e9895b9-496e-4e49-8f46-383a9a34e82e",
+      "score": 0.5960558124786816
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "ESG",
+      "label": "platform",
+      "description": "The Earth System Grid, a data management system for climate data, providing a framework for storing, managing, and accessing large datasets",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.7638555433010451
+    },
+    {
+      "name": "NERC Data Grid",
+      "label": "platform",
+      "description": "A data management system developed by the Natural Environment Research Council, providing a framework for storing, managing, and accessing environmental data",
+      "uuid": "28206540-ba2e-4f70-827e-1ee63b3d186d",
+      "score": 0.5025232652149353
+    },
+    {
+      "name": "C3-Grid",
+      "label": "platform",
+      "description": "A German data management system, providing a framework for storing, managing, and accessing climate and environmental data",
+      "uuid": "1e4072ec-2e6f-442e-b962-cb47a25a18bf",
+      "score": 0.5453529717853808
+    },
+    {
+      "name": "Department of Energy",
+      "label": "provider",
+      "description": "A United States government agency responsible for energy and nuclear safety, providing funding and support for climate research and data management",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.681157870209055
+    },
+    {
+      "name": "Natural Environment Research Council",
+      "label": "provider",
+      "description": "A United Kingdom research council, providing funding and support for environmental and climate research",
+      "uuid": "9227de50-3cf6-4253-9664-307cc73bec72",
+      "score": 0.582610856803854
+    },
+    {
+      "name": "German Federal Ministry of Education and Research",
+      "label": "provider",
+      "description": "A German government agency responsible for education and research, providing funding and support for climate research and data management",
+      "uuid": "b8b23c1a-905b-408c-9584-0fce6e2dae8b",
+      "score": 0.5953893640733585
+    },
+    {
+      "name": "model simulations",
+      "label": "variable",
+      "description": "Output from climate models, used to predict future climate scenarios and understand climate processes",
+      "uuid": "c15e05c9-9dc4-4712-98ba-a05d61bdf1c1",
+      "score": 0.557008226958427
+    },
+    {
+      "name": "regional climate modeling",
+      "label": "experiment",
+      "description": "A research initiative focused on improving climate models for specific regions, aiming to better understand and predict regional climate variability",
+      "uuid": "b8c2ef9e-2683-4eca-b94a-0f6f4bbeb9db",
+      "score": 0.5358443321385622
+    }
+  ]
+}

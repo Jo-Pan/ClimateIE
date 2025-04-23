@@ -1,0 +1,885 @@
+{
+  "(0, 2914)": [
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico, with diverse ecosystems and climate conditions",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7394528998094884
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A combined landmass of Europe and Asia, encompassing a wide range of climates and ecosystems, including boreal forests",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.757704979802466
+    },
+    {
+      "name": "boreal forest",
+      "label": "location",
+      "description": "A type of forest ecosystem found in subarctic regions, characterized by coniferous tree species and adapted to cold, short-growing-season conditions",
+      "uuid": "cafa8131-4a2d-4c8b-811c-0d64adf5fc06",
+      "score": 0.6821147388959186
+    },
+    {
+      "name": "wildfires",
+      "label": "natural hazard",
+      "description": "Uncontrolled fires occurring in wildland areas, often caused by lightning or human activity, and capable of spreading rapidly",
+      "uuid": "868b87a1-d8c2-49b3-8bbd-9cbbed115271",
+      "score": 0.6591638710826118
+    },
+    {
+      "name": "climate reanalysis data",
+      "label": "dataset",
+      "description": "A collection of historical climate data, reanalyzed using consistent models and methods to provide a comprehensive and coherent picture of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7198232464433593
+    },
+    {
+      "name": "remote-sensing imagery",
+      "label": "instrument",
+      "description": "Techniques and instruments used to acquire information about the Earth's surface through the analysis of data acquired from afar, often using satellites or aircraft",
+      "uuid": "6015ef7b-f3bd-49e1-9193-cc23db566b69",
+      "score": 0.5698020287001367
+    },
+    {
+      "name": "crown fires",
+      "label": "weather event",
+      "description": "A type of wildfire that spreads through the canopy of a forest, typically consuming all vegetation in its path and causing significant ecological damage",
+      "uuid": "c59b0666-e20f-4134-847b-89719ed5621a",
+      "score": 0.5071674064851671
+    },
+    {
+      "name": "terrestrial albedo",
+      "label": "variable",
+      "description": "A measure of the amount of sunlight reflected by the Earth's surface, influencing the planet's energy balance and climate",
+      "uuid": "5395e33c-02cb-4027-b425-e771eab13610",
+      "score": 0.7065597947446487
+    },
+    {
+      "name": "carbon stocks",
+      "label": "variable",
+      "description": "The amount of carbon stored in a particular ecosystem or reservoir, such as forests, soils, or oceans",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.5239131151665408
+    },
+    {
+      "name": "black carbon aerosols",
+      "label": "variable",
+      "description": "Small, dark particles released into the atmosphere through the incomplete combustion of organic materials, such as during wildfires, and capable of influencing climate by absorbing solar radiation",
+      "uuid": "9c0288cc-864d-40f7-93af-6df413b404f5",
+      "score": 0.7079336256148581
+    },
+    {
+      "name": "shortwave forcing",
+      "label": "variable",
+      "description": "A measure of the change in the amount of solar radiation absorbed by the Earth's surface, often used to quantify the impact of climate forcings on the planet's energy balance",
+      "uuid": "250ce118-46e7-4dec-9e44-8054c9318cff",
+      "score": 0.6516187629398462
+    },
+    {
+      "name": "fire weather conditions",
+      "label": "variable",
+      "description": "The combination of atmospheric and environmental factors that influence the spread and intensity of wildfires, such as temperature, humidity, and wind speed",
+      "uuid": "7c1977bc-dfe7-4761-9b30-f42ec986d360",
+      "score": 0.6332810279874843
+    },
+    {
+      "name": "coniferous trees",
+      "label": "variable",
+      "description": "A type of tree that produces cones and has needle-like leaves, often found in boreal forests and adapted to cold, dry conditions",
+      "uuid": "b26769a1-f023-4ab1-bc21-78ef2a5fd185",
+      "score": 0.6367023253004405
+    },
+    {
+      "name": "morphological adaptations",
+      "label": "variable",
+      "description": "The physical characteristics and structures of organisms that have evolved to help them survive and thrive in their environment, such as the retention of lower branches in fire-embracing tree species",
+      "uuid": "7f16bc53-9125-4b44-8cd0-edd7edf7217e",
+      "score": 0.6564925595936144
+    },
+    {
+      "name": "spring albedo",
+      "label": "variable",
+      "description": "The amount of sunlight reflected by the Earth's surface during the spring season, often increased after wildfires in snow-covered areas and leading to regional cooling",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.5986846431332906
+    }
+  ],
+  "(2438, 5388)": [
+    {
+      "name": "conifers",
+      "label": "plant",
+      "description": "A group of trees and shrubs that have cones and needle-like leaves, including species such as pines, spruces, and firs",
+      "uuid": "b26769a1-f023-4ab1-bc21-78ef2a5fd185",
+      "score": 0.7466661078044297
+    },
+    {
+      "name": "morphological adaptations",
+      "label": "variable",
+      "description": "Physical traits or characteristics that have evolved in response to environmental pressures, such as fire, to enhance survival and reproduction",
+      "uuid": "7f16bc53-9125-4b44-8cd0-edd7edf7217e",
+      "score": 0.6522194142208272
+    },
+    {
+      "name": "boreal forest",
+      "label": "location",
+      "description": "A type of forest ecosystem found in subarctic regions, characterized by coniferous tree species and cold, long winters",
+      "uuid": "cafa8131-4a2d-4c8b-811c-0d64adf5fc06",
+      "score": 0.6897392917053026
+    },
+    {
+      "name": "ancillary data sets",
+      "label": "dataset",
+      "description": "Additional data collections used to support or supplement primary data, often providing context or background information",
+      "uuid": "7872b9af-8c90-481e-aaa6-a47b736f0828",
+      "score": 0.5864183761137791
+    },
+    {
+      "name": "spring albedo",
+      "label": "variable",
+      "description": "A measure of the amount of sunlight reflected by the Earth's surface during the spring season, which can be affected by factors such as snow cover and vegetation",
+      "uuid": "03a7c97e-71e2-469e-8af9-bbe80ffedb1a",
+      "score": 0.649090176158544
+    },
+    {
+      "name": "coniferous trees",
+      "label": "plant",
+      "description": "Trees that produce cones and have needle-like leaves, such as pines, spruces, and firs, often found in boreal forests",
+      "uuid": "b26769a1-f023-4ab1-bc21-78ef2a5fd185",
+      "score": 0.6571575042872868
+    },
+    {
+      "name": "fire",
+      "label": "natural hazard",
+      "description": "Uncontrolled and rapidly spreading fires that occur in wildland areas, posing a threat to ecosystems, wildlife, and human populations",
+      "uuid": "868b87a1-d8c2-49b3-8bbd-9cbbed115271",
+      "score": 0.6293766309743333
+    },
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer, a satellite-based instrument used for remote sensing of the Earth's surface and atmosphere",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7622733084563017
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico, among other countries",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7221044464155457
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A continent that includes Europe and Asia, characterized by a diverse range of climates, ecosystems, and cultures",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.7377054933870625
+    }
+  ],
+  "(4814, 7731)": [
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer, an instrument used for remote sensing of the Earth\u2019s surface and atmosphere",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7622181096973467
+    },
+    {
+      "name": "fire",
+      "label": "variable",
+      "description": "Uncontrolled or uncontrolled fires occurring in the wildland-urban interface, forests, grasslands, and other ecosystems",
+      "uuid": "868b87a1-d8c2-49b3-8bbd-9cbbed115271",
+      "score": 0.6067958392852824
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    },
+    {
+      "name": "vegetation dynamics",
+      "label": "variable",
+      "description": "The processes and changes that occur in plant communities over time, including growth, senescence, and response to environmental factors",
+      "uuid": "053b8d43-684c-43c4-977d-2b678575fe22",
+      "score": 0.511602580308607
+    },
+    {
+      "name": "boreal Eurasia",
+      "label": "location",
+      "description": "A region of northern Eurasia characterized by boreal forests and tundra, known for its cold and subarctic climate",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.5787497343007136
+    },
+    {
+      "name": "Northwest Eurasia",
+      "label": "location",
+      "description": "A subregion of boreal Eurasia, distinguished by its mild climate and high levels of human land use and fire management",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.5386121777430081
+    },
+    {
+      "name": "Northeast Eurasia",
+      "label": "location",
+      "description": "A subregion of boreal Eurasia, characterized by a harsh continental climate and large expanses of deciduous larch forests",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.5135487572620313
+    },
+    {
+      "name": "Southern Eurasia",
+      "label": "location",
+      "description": "A subregion of boreal Eurasia, distinguished by its topography and relatively high levels of understorey grasses, summer rainfall, and human ignitions",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.5015013469830893
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the northern hemisphere, known for its diverse climate, geography, and ecosystems",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7245497888386969
+    },
+    {
+      "name": "crown fires",
+      "label": "variable",
+      "description": "Fires that burn in the canopy of a forest, known for their high intensity and severity",
+      "uuid": "c59b0666-e20f-4134-847b-89719ed5621a",
+      "score": 0.5003233548235648
+    },
+    {
+      "name": "spring albedo",
+      "label": "variable",
+      "description": "A measure of the reflectivity of the Earth's surface in the spring season, used to estimate changes in surface properties after a fire",
+      "uuid": "03a7c97e-71e2-469e-8af9-bbe80ffedb1a",
+      "score": 0.612675458304245
+    }
+  ],
+  "(7288, 10085)": [
+    {
+      "name": "Spring albedo",
+      "label": "variable",
+      "description": "A measure of the reflectance of solar radiation by the Earth's surface, often used as an indicator of fire severity",
+      "uuid": "03a7c97e-71e2-469e-8af9-bbe80ffedb1a",
+      "score": 0.6348028087028184
+    },
+    {
+      "name": "fire ecology",
+      "label": "field of study",
+      "description": "The scientific study of the interactions between fire, ecosystems, and the environment",
+      "uuid": "62c6d256-e6d4-4204-b7a8-e084dd52d30a",
+      "score": 0.7114107408355493
+    },
+    {
+      "name": "land surface temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the Earth's surface, often used to study climate and environmental changes",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7528971589351501
+    },
+    {
+      "name": "normalized difference vegetation index",
+      "label": "variable",
+      "description": "A remote sensing metric used to assess vegetation health and density",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7733624539014272
+    },
+    {
+      "name": "normalized burn ratio",
+      "label": "variable",
+      "description": "A remote sensing metric used to assess the severity of burns and fires",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.5284951519761022
+    },
+    {
+      "name": "boreal Eurasia",
+      "label": "location",
+      "description": "A region in northern Eurasia characterized by coniferous forests and cold, subarctic climate",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.5819892704647518
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the northern hemisphere, comprising the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7142458658343382
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A continent in the northern hemisphere, comprising Europe and Asia",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.6719552063818766
+    },
+    {
+      "name": "satellite",
+      "label": "instrument",
+      "description": "A device orbiting the Earth, used for remote sensing, communication, and navigation",
+      "uuid": "71278ba7-9a13-43ba-9ec3-62ae2b39de88",
+      "score": 0.5165153732133982
+    }
+  ],
+  "(9543, 12591)": [
+    {
+      "name": "fire ecology",
+      "label": "field of study",
+      "description": "The scientific study of the causes, behavior, and effects of fires in ecosystems",
+      "uuid": "62c6d256-e6d4-4204-b7a8-e084dd52d30a",
+      "score": 0.6897646948830352
+    },
+    {
+      "name": "MCD64A1 burned area data",
+      "label": "dataset",
+      "description": "A satellite-derived dataset providing information on burned areas, used for studying fire ecology and climate impacts",
+      "uuid": "436b098d-e4d9-4fbd-9ede-05675e111eee",
+      "score": 0.6597797900586214
+    },
+    {
+      "name": "carbon and energy fluxes",
+      "label": "variable",
+      "description": "The flow of carbon and energy between the atmosphere, oceans, land, and living organisms, crucial for understanding climate dynamics",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.6841362078066022
+    },
+    {
+      "name": "Multi-angle Imaging SpectroRadiometer",
+      "label": "instrument",
+      "description": "A satellite instrument used for remote sensing of the Earth's surface and atmosphere, providing data on fire behavior and ecosystem impacts",
+      "uuid": "6f912d59-3932-4f05-8924-20628d508b84",
+      "score": 0.6449697748255149
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico, with diverse ecosystems and climate conditions",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7394528998094884
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising Europe and Asia, with diverse ecosystems and climate conditions",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.7241654436988667
+    },
+    {
+      "name": "Southern Eurasia",
+      "label": "location",
+      "description": "A region in Eurasia, characterized by lower fire severity and tree mortality compared to other parts of the continent",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.5080865363389272
+    },
+    {
+      "name": "Northwest Eurasia",
+      "label": "location",
+      "description": "A region in Eurasia, characterized by higher fire severity and tree mortality compared to other parts of the continent",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.5518998340564771
+    },
+    {
+      "name": "Northeast Eurasia",
+      "label": "location",
+      "description": "A region in Eurasia, characterized by smaller trees and harsher edaphic and climatic conditions for post-fire survival",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.5035287660433535
+    },
+    {
+      "name": "boreal forests",
+      "label": "ecosystem",
+      "description": "A type of forest ecosystem found in subarctic regions, characterized by coniferous trees and cold, short growing seasons",
+      "uuid": "cafa8131-4a2d-4c8b-811c-0d64adf5fc06",
+      "score": 0.6924442078642797
+    },
+    {
+      "name": "crown fires",
+      "label": "fire type",
+      "description": "A type of fire that burns the crowns of trees, often associated with high-severity fires",
+      "uuid": "c59b0666-e20f-4134-847b-89719ed5621a",
+      "score": 0.5058381987718236
+    },
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer, a satellite instrument used for remote sensing of the Earth's surface and atmosphere",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7622935701074338
+    }
+  ],
+  "(12070, 15086)": [
+    {
+      "name": "climate feedbacks",
+      "label": "variable",
+      "description": "The processes by which the climate system responds to changes, either amplifying or dampening the initial perturbation",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.698522703568703
+    },
+    {
+      "name": "combined biogeochemical",
+      "label": "variable",
+      "description": "The interaction of biological, geological, and chemical processes that influence the Earth's climate system",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.6547350069111442
+    },
+    {
+      "name": "fire dynamics",
+      "label": "variable",
+      "description": "The study of the behavior and characteristics of fires, including their spread, intensity, and impact on the environment",
+      "uuid": "2a0a6319-80c4-49fd-8a40-553175aa8637",
+      "score": 0.6834115422255418
+    },
+    {
+      "name": "spring albedo increases",
+      "label": "variable",
+      "description": "The increase in the reflectivity of the Earth's surface during the spring season, often affected by fire and vegetation changes",
+      "uuid": "2ddd003d-c19f-4336-9837-316cce5efe0b",
+      "score": 0.5085604405182097
+    },
+    {
+      "name": "surface energy fluxes",
+      "label": "variable",
+      "description": "The exchange of energy between the Earth's surface and the atmosphere, including radiation, convection, and conduction",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.6085055009715488
+    },
+    {
+      "name": "fire-related climate feedbacks",
+      "label": "variable",
+      "description": "The processes by which fires influence the climate system, including changes to surface energy fluxes and greenhouse gas emissions",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6040609156493869
+    },
+    {
+      "name": "Fire weather indices",
+      "label": "variable",
+      "description": "Quantitative measures of the weather conditions that influence the spread and intensity of fires",
+      "uuid": "7c1977bc-dfe7-4761-9b30-f42ec986d360",
+      "score": 0.7060964399942955
+    },
+    {
+      "name": "fire-climate feedbacks",
+      "label": "variable",
+      "description": "The interactions between fires and the climate system, including the impacts of climate on fire behavior and the effects of fires on climate",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6015667808794427
+    },
+    {
+      "name": "MCD64A1 burned area data",
+      "label": "dataset",
+      "description": "A global dataset of burned area, derived from satellite observations and used to study fire patterns and trends",
+      "uuid": "436b098d-e4d9-4fbd-9ede-05675e111eee",
+      "score": 0.658610688840876
+    },
+    {
+      "name": "Global Fire Emissions Database version",
+      "label": "dataset",
+      "description": "A database of fire emissions, including greenhouse gases and aerosols, used to study the impacts of fires on the climate system",
+      "uuid": "c3a217f5-de08-4aeb-9429-0a29821820b5",
+      "score": 0.5616501094945354
+    },
+    {
+      "name": "Community Land Model version",
+      "label": "model",
+      "description": "A land surface model used to simulate the interactions between the land surface and the atmosphere, including the effects of fires on vegetation and climate",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6104613097985864
+    },
+    {
+      "name": "vegetation properties",
+      "label": "variable",
+      "description": "The characteristics of vegetation, including its structure, composition, and function, which influence its response to fires and its impact on the climate system",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5841080206551281
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, including the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7128274641499429
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A continent that includes Europe and Asia, stretching from the Atlantic Ocean to the Pacific Ocean",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.6843066552553809
+    }
+  ],
+  "(14501, 17217)": [
+    {
+      "name": "fire severity",
+      "label": "variable",
+      "description": "A measure of the impact of a fire on the environment and vegetation, often used to describe the extent of damage caused by a fire",
+      "uuid": "5bb5322d-f3f8-4ca4-91c6-311769936f96",
+      "score": 0.5016482085600065
+    },
+    {
+      "name": "vegetation properties",
+      "label": "variable",
+      "description": "Characteristics of plants and vegetation, such as moisture content, structure, and composition, that affect fire behavior and resilience",
+      "uuid": "053b8d43-684c-43c4-977d-2b678575fe22",
+      "score": 0.5422362386856948
+    },
+    {
+      "name": "fire weather indices",
+      "label": "instrument",
+      "description": "Tools used to measure and predict fire danger, often based on weather conditions and fuel moisture",
+      "uuid": "7c1977bc-dfe7-4761-9b30-f42ec986d360",
+      "score": 0.6893764130055119
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A region that includes Europe and Asia, characterized by diverse climates, vegetation, and land use patterns",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.7522020785109093
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent that includes the United States, Canada, and Mexico, characterized by diverse climates, vegetation, and land use patterns",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7090703825891927
+    },
+    {
+      "name": "global fire models",
+      "label": "model",
+      "description": "Computational representations of fire behavior and spread, often used to predict and simulate fires",
+      "uuid": "2bfd42f1-0453-4c33-a21e-74df3ad64813",
+      "score": 0.5844888470851216
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    },
+    {
+      "name": "region's burned area",
+      "label": "variable",
+      "description": "The total area of land that has been burned by fires in a particular region",
+      "uuid": "436b098d-e4d9-4fbd-9ede-05675e111eee",
+      "score": 0.6251165178218199
+    },
+    {
+      "name": "region's forested burned area",
+      "label": "variable",
+      "description": "The total area of forested land that has been burned by fires in a particular region",
+      "uuid": "436b098d-e4d9-4fbd-9ede-05675e111eee",
+      "score": 0.5798441671409919
+    }
+  ],
+  "(16841, 19821)": [
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A region of the Earth that includes Europe and Asia, characterized by diverse climates and vegetation",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.7608489022941979
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the northern hemisphere, characterized by diverse climates and vegetation",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6932342746483171
+    },
+    {
+      "name": "boreal forests",
+      "label": "location",
+      "description": "A type of forest found in subarctic regions, characterized by coniferous trees and cold climates",
+      "uuid": "cafa8131-4a2d-4c8b-811c-0d64adf5fc06",
+      "score": 0.6421058830628366
+    },
+    {
+      "name": "fire",
+      "label": "natural hazard",
+      "description": "A type of natural disaster that can cause damage to vegetation and ecosystems",
+      "uuid": "a45abde1-4717-44d8-8c31-4db5b03d0758",
+      "score": 0.5628750958936125
+    },
+    {
+      "name": "burned area",
+      "label": "variable",
+      "description": "A measure of the area affected by fire",
+      "uuid": "436b098d-e4d9-4fbd-9ede-05675e111eee",
+      "score": 0.6882333134482732
+    },
+    {
+      "name": "fire weather variables",
+      "label": "variable",
+      "description": "A set of weather conditions that influence the spread and intensity of fires",
+      "uuid": "7c1977bc-dfe7-4761-9b30-f42ec986d360",
+      "score": 0.6075416134938958
+    },
+    {
+      "name": "Russia",
+      "label": "location",
+      "description": "A country in Eurasia, characterized by diverse climates and vegetation",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.5640044022484202
+    }
+  ],
+  "(19342, 22387)": [
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A continent that includes Europe and Asia, characterized by diverse climate zones and ecosystems",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.7277703892101189
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent that includes the United States, Canada, and Mexico, with varied climate and ecosystems",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7130427623325032
+    },
+    {
+      "name": "boreal forests",
+      "label": "ecosystem",
+      "description": "A type of forest ecosystem found in subarctic regions, characterized by coniferous trees and cold climate",
+      "uuid": "cafa8131-4a2d-4c8b-811c-0d64adf5fc06",
+      "score": 0.6894934529553512
+    },
+    {
+      "name": "fire",
+      "label": "weather event",
+      "description": "A natural disaster that can occur in forests and other ecosystems, often influenced by climate and vegetation",
+      "uuid": "a45abde1-4717-44d8-8c31-4db5b03d0758",
+      "score": 0.5718457992448605
+    },
+    {
+      "name": "lightning strikes",
+      "label": "weather event",
+      "description": "A natural phenomenon that can cause fires, especially in dry and flammable ecosystems",
+      "uuid": "f24c4f33-5b89-4e8d-8de7-296078a7f18a",
+      "score": 0.5189509845403628
+    },
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer, a satellite instrument used for remote sensing of the Earth's surface and atmosphere",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7622935701074338
+    },
+    {
+      "name": "MCD64A1",
+      "label": "dataset",
+      "description": "A dataset provided by MODIS, containing information on fire and burn severity metrics",
+      "uuid": "fec0eb2e-449c-479e-98e3-34bf46c444ac",
+      "score": 0.5339793845152744
+    },
+    {
+      "name": "climate feedbacks",
+      "label": "variable",
+      "description": "The processes by which the climate system responds to changes, such as the impact of fire on climate",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6698815209090445
+    },
+    {
+      "name": "soil organic matter",
+      "label": "variable",
+      "description": "The amount of carbon stored in soils, which can be affected by fires and climate change",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.6586712828490489
+    },
+    {
+      "name": "glacial retreat",
+      "label": "natural hazard",
+      "description": "The melting of glaciers due to climate change, which can have significant impacts on ecosystems and climate",
+      "uuid": "2f257f83-bddd-41ce-ac78-5dac857b1be3",
+      "score": 0.6976844025407041
+    },
+    {
+      "name": "forested burned area",
+      "label": "variable",
+      "description": "The area of forest that has been burned by fires, which can be an important indicator of fire severity and climate impact",
+      "uuid": "436b098d-e4d9-4fbd-9ede-05675e111eee",
+      "score": 0.6131138560132731
+    }
+  ],
+  "(21970, 24790)": [
+    {
+      "name": "continental-scale biogeochemistry",
+      "label": "project",
+      "description": "A scientific program focused on studying the interactions between biological, chemical, and physical processes at a continental scale",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.5380215392765489
+    },
+    {
+      "name": "climate feedbacks",
+      "label": "variable",
+      "description": "The processes by which the climate system responds to changes in temperature, such as the melting of ice or the release of greenhouse gases",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6739174632499474
+    },
+    {
+      "name": "MODIS",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer, an instrument used for remote sensing of the Earth\u2019s surface and atmosphere",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7622181096973467
+    },
+    {
+      "name": "CRU",
+      "label": "provider",
+      "description": "The Climate Research Unit, an academic institution focused on climate research and the development of climate datasets",
+      "uuid": "a32f3c0b-b3e9-4e93-a9d2-53c2f61404d8",
+      "score": 0.6114217974412816
+    },
+    {
+      "name": "NCEP",
+      "label": "provider",
+      "description": "The National Centers for Environmental Prediction, a US government agency responsible for weather forecasting and climate prediction",
+      "uuid": "f30a086a-f7e6-4708-9df0-7d38b58782e3",
+      "score": 0.6840836500914351
+    },
+    {
+      "name": "reanalysis climate data",
+      "label": "dataset",
+      "description": "A type of climate data that combines model outputs with observational data to provide a comprehensive picture of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7125795006015755
+    },
+    {
+      "name": "Canadian Fire Weather Index System",
+      "label": "model",
+      "description": "A system used to predict fire weather conditions and provide early warnings for wildfires",
+      "uuid": "7c1977bc-dfe7-4761-9b30-f42ec986d360",
+      "score": 0.6320092316886885
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a US government agency responsible for space exploration and Earth science research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.7140084366745602
+    },
+    {
+      "name": "National Science Foundation",
+      "label": "provider",
+      "description": "A US government agency that provides funding for scientific research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.72708288825097
+    },
+    {
+      "name": "Decadal and Regional Climate Prediction",
+      "label": "project",
+      "description": "A research initiative focused on improving climate predictions at decadal and regional scales",
+      "uuid": "5ff03160-ff25-484f-9283-2e195c22780a",
+      "score": 0.6020020832366318
+    },
+    {
+      "name": "CARVE",
+      "label": "project",
+      "description": "The Carbon in Arctic Reservoirs Vulnerability Experiment, a research project focused on studying the vulnerability of Arctic carbon reservoirs to climate change",
+      "uuid": "b1480611-f4c2-4f23-9b18-83017e49e118",
+      "score": 0.7264090491305746
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A US state located in the northwest corner of North America, known for its vast wilderness and cold climate",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7591324714908674
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country located in North America, known for its diverse geography and climate",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.6554958287518088
+    },
+    {
+      "name": "Russia",
+      "label": "location",
+      "description": "A country located in Eastern Europe and Northern Asia, known for its vast territory and diverse climate",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.6422982628360263
+    },
+    {
+      "name": "fire dynamics",
+      "label": "variable",
+      "description": "The study of the behavior and characteristics of wildfires, including their spread, intensity, and impact on the environment",
+      "uuid": "2a0a6319-80c4-49fd-8a40-553175aa8637",
+      "score": 0.6830381918442046
+    },
+    {
+      "name": "fire weather indices",
+      "label": "variable",
+      "description": "Metrics used to predict fire weather conditions and provide early warnings for wildfires",
+      "uuid": "7c1977bc-dfe7-4761-9b30-f42ec986d360",
+      "score": 0.7106550619882777
+    },
+    {
+      "name": "CLM",
+      "label": "model",
+      "description": "The Community Land Model, a computational representation of the physical and biological processes that occur on land surfaces",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.6567354034189771
+    },
+    {
+      "name": "GFED",
+      "label": "dataset",
+      "description": "The Global Fire Emissions Database, a dataset used to study fire emissions and their impact on the climate",
+      "uuid": "7cf887d3-acf7-4e51-b65b-782f694cb634",
+      "score": 0.5900415091968908
+    },
+    {
+      "name": "NASA LP DAAC",
+      "label": "provider",
+      "description": "The NASA Land Processes Distributed Active Archive Center, a data center that provides access to land-related data products",
+      "uuid": "5612b95e-cc41-4286-9946-e78506f70f59",
+      "score": 0.7794507172087388
+    }
+  ],
+  "(24363, 25127)": [
+    {
+      "name": "NASA LP DAAC",
+      "label": "provider",
+      "description": "The NASA Land Processes Distributed Active Archive Center, which provides data and information on land processes and climate change",
+      "uuid": "5612b95e-cc41-4286-9946-e78506f70f59",
+      "score": 0.7703583381069457
+    },
+    {
+      "name": "CARVE",
+      "label": "project",
+      "description": "The Carbon in Arctic Reservoirs Vulnerability Experiment, a research project focused on studying the vulnerability of Arctic carbon reservoirs to climate change",
+      "uuid": "b1480611-f4c2-4f23-9b18-83017e49e118",
+      "score": 0.7264090491305746
+    },
+    {
+      "name": "NNX10AT83G",
+      "label": "project",
+      "description": "A research project funded by NASA, focused on studying the impacts of climate change on Earth's systems",
+      "uuid": "de0e4cc6-e2f3-4a95-9f4f-8f5bd32dbb42",
+      "score": 0.6326997483245742
+    },
+    {
+      "name": "Interdisciplinary Research in Earth Science",
+      "label": "project",
+      "description": "A research program focused on interdisciplinary research in Earth science, including climate change and its impacts",
+      "uuid": "247b151a-2f56-41f9-8a19-51e34a64d61e",
+      "score": 0.5038681469761924
+    },
+    {
+      "name": "National Research Council Canada",
+      "label": "provider",
+      "description": "A Canadian research organization that provides scientific advice and support to the government and industry",
+      "uuid": "fca1d280-dd23-4b2a-a343-efcde4503b77",
+      "score": 0.5302028017942043
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The Arctic region, characterized by cold temperatures, sea ice, and unique ecosystems, and plays a crucial role in global climate regulation",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7868503919698435
+    }
+  ]
+}

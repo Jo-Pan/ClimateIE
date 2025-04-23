@@ -1,0 +1,2443 @@
+{
+  "(0, 2609)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model, version 4, a comprehensive climate model used to simulate Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7973953944087546
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, which describes a low greenhouse gas emissions pathway to limit global warming",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6614188795809431
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, which describes a medium greenhouse gas emissions pathway to limit global warming",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.610462189930862
+    },
+    {
+      "name": "RCP6.0",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, which describes a medium-high greenhouse gas emissions pathway to limit global warming",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6264317587902688
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, which describes a high greenhouse gas emissions pathway to limit global warming",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6764338555606444
+    },
+    {
+      "name": "ocean meridional overturning circulation",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of water masses in Earth\u2019s oceans, driven by wind, density differences, and the Coriolis effect, which regulates Earth\u2019s climate",
+      "uuid": "dbf8a0cf-1e9b-4bc4-95a2-819bb16af00c",
+      "score": 0.6096292053007881
+    },
+    {
+      "name": "Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean, known for its significant role in global ocean circulation and climate variability",
+      "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+      "score": 0.6826157719715579
+    },
+    {
+      "name": "Heat wave intensity",
+      "label": "variable",
+      "description": "A measure of the severity of heat waves, often used to study climate extremes and their impacts",
+      "uuid": "079e6699-efbf-4358-9047-b668b459fc22",
+      "score": 0.6113445412152984
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere, such as sulfate aerosols, that can influence climate by reflecting sunlight or affecting cloud formation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6831403303948421
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, known for its unique and sensitive climate, with significant impacts from global warming",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7387323031562645
+    },
+    {
+      "name": "summer sea ice",
+      "label": "variable",
+      "description": "The extent of sea ice in the Arctic during the summer months, an important indicator of climate change",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.5640119595097204
+    }
+  ],
+  "(2153, 4855)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a comprehensive climate model used to simulate and study the Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.797018864521414
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a predecessor to CCSM4, used for climate simulations and research",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6566578064410592
+    },
+    {
+      "name": "CAM4",
+      "label": "model",
+      "description": "The Community Atmosphere Model version 4, an atmospheric component of the CCSM4 model, used to simulate atmospheric processes and climate",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6859939761389908
+    },
+    {
+      "name": "POP",
+      "label": "model",
+      "description": "The Parallel Ocean Program, an oceanic component of the CCSM4 model, used to simulate oceanic processes and climate",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.5455210084613645
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, consisting of the United States, Canada, and Mexico, known for its diverse climate and geography",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7304674299315087
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7438582625622143
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A measure of the extent and thickness of ice covering the ocean's surface, an important indicator of climate change",
+      "uuid": "101904f4-75f6-4b76-9adf-a6a4c8009667",
+      "score": 0.7231033513116735
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles suspended in the air, influencing Earth's climate by reflecting sunlight and affecting cloud formation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7304224032160329
+    },
+    {
+      "name": "sulfate aerosols",
+      "label": "variable",
+      "description": "A type of aerosol that can influence climate by reflecting sunlight and affecting cloud formation",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.5937590906843644
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and other bodies of water, which plays a crucial role in the global climate system",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6428391967879612
+    },
+    {
+      "name": "twenty-first-century RCP scenario experiments",
+      "label": "experiment",
+      "description": "Climate simulations designed to study the effects of different greenhouse gas concentration scenarios on the climate system in the 21st century",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.583215613333505
+    },
+    {
+      "name": "twentieth-century simulations",
+      "label": "experiment",
+      "description": "Climate simulations designed to study the effects of various forcings on the climate system during the 20th century",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.520525055467652
+    },
+    {
+      "name": "future sea level rise",
+      "label": "variable",
+      "description": "A measure of the expected increase in global sea levels due to climate change, affecting coastal communities and ecosystems",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.6814085767249816
+    },
+    {
+      "name": "latitude",
+      "label": "variable",
+      "description": "A measure of the distance north or south of the Earth's equator, used to describe geographic locations and climate patterns",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6959623819184206
+    }
+  ],
+  "(4437, 7096)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used for simulating and predicting Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7943792540662151
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas in the Earth's atmosphere, crucial for blocking ultraviolet radiation and influencing climate patterns",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6328814168291581
+    },
+    {
+      "name": "tropospheric ozone",
+      "label": "variable",
+      "description": "Ozone present in the troposphere, the lowest layer of the Earth's atmosphere, playing a role in air quality and climate",
+      "uuid": "426aee98-764c-4c21-ab65-1e9d4bd6b0d0",
+      "score": 0.7362822780850474
+    },
+    {
+      "name": "stratospheric ozone",
+      "label": "variable",
+      "description": "Ozone present in the stratosphere, a layer of the Earth's atmosphere, essential for protecting life from ultraviolet radiation",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5790225017053207
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles suspended in the air, influencing Earth's climate by reflecting sunlight and affecting cloud formation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7304224032160329
+    },
+    {
+      "name": "sulfate aerosols",
+      "label": "variable",
+      "description": "A type of aerosol formed from sulfur dioxide emissions, affecting climate by scattering sunlight and influencing cloud properties",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.6322741447947509
+    },
+    {
+      "name": "black and primary organic carbon aerosols",
+      "label": "variable",
+      "description": "Types of aerosols influencing Earth's climate by absorbing sunlight and affecting cloud formation",
+      "uuid": "527f637c-aea5-4519-9293-d57e10a76bff",
+      "score": 0.6145656053232452
+    },
+    {
+      "name": "CFCs",
+      "label": "variable",
+      "description": "Chlorofluorocarbons, synthetic compounds that deplete the ozone layer and contribute to climate change",
+      "uuid": "e78ae4ce-807a-4417-ad6e-a458c6da6638",
+      "score": 0.7522263541099229
+    },
+    {
+      "name": "CAM-Chem",
+      "label": "model",
+      "description": "The Community Atmospheric Model with interactive chemistry, used for simulating atmospheric chemistry and its impact on climate",
+      "uuid": "32204115-79a6-4cda-aac0-2f57580eb445",
+      "score": 0.7431214897904964
+    },
+    {
+      "name": "Community Atmospheric Model",
+      "label": "model",
+      "description": "A climate model used for simulating the Earth's atmosphere and its interactions with the climate system",
+      "uuid": "77ff6c41-125c-4f56-a40f-3b34608d7647",
+      "score": 0.5841273841084342
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7395484229778325
+    },
+    {
+      "name": "sea surface temperatures",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, influencing climate patterns and weather phenomena",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7493480510446594
+    },
+    {
+      "name": "sea ice concentrations",
+      "label": "variable",
+      "description": "The amount of sea ice present in a given area, affecting Earth's climate by reflecting sunlight and influencing ocean currents",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.7533922550864139
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a predecessor to CCSM4, used for simulating and predicting Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6530684937842146
+    },
+    {
+      "name": "RCP",
+      "label": "project",
+      "description": "The Representative Concentration Pathways, a set of scenarios used to predict future climate change based on different levels of greenhouse gas emissions",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5642163710515
+    },
+    {
+      "name": "SRES",
+      "label": "project",
+      "description": "The Special Report on Emissions Scenarios, a set of scenarios used to predict future climate change based on different levels of greenhouse gas emissions",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.7092235631326717
+    }
+  ],
+  "(6719, 9410)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "A comprehensive climate model developed by the National Center for Atmospheric Research, used for simulating Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7899005921428656
+    },
+    {
+      "name": "RCPs",
+      "label": "project",
+      "description": "Representative Concentration Pathways, a set of scenarios for future greenhouse gas emissions and their impacts on climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5547316516925228
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A critical component of the stratosphere, influencing climate and atmospheric chemistry",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6132990000144722
+    },
+    {
+      "name": "chlorofluorocarbons",
+      "label": "variable",
+      "description": "Synthetic compounds that contribute to ozone depletion and climate change",
+      "uuid": "e78ae4ce-807a-4417-ad6e-a458c6da6638",
+      "score": 0.7491294816405482
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere, affecting climate by scattering sunlight and influencing cloud formation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7129866399169441
+    },
+    {
+      "name": "meridional overturning circulation",
+      "label": "ocean circulation",
+      "description": "A global ocean circulation pattern, playing a crucial role in regulating Earth's climate",
+      "uuid": "d0c16581-6951-4e8d-a0c1-97e9fcaa031a",
+      "score": 0.5839900510999849
+    },
+    {
+      "name": "volcanic aerosols",
+      "label": "variable",
+      "description": "Particles emitted by volcanic eruptions, influencing climate by reflecting sunlight and affecting atmospheric chemistry",
+      "uuid": "11d6f2a7-8f2c-4753-a7b0-a72d611b2954",
+      "score": 0.5911473058598722
+    },
+    {
+      "name": "sulfate aerosols",
+      "label": "variable",
+      "description": "A type of aerosol formed from the oxidation of sulfur dioxide, influencing climate and air quality",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.6260176596044851
+    },
+    {
+      "name": "organic carbon",
+      "label": "variable",
+      "description": "A component of aerosols, affecting climate and atmospheric chemistry",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6575021770587923
+    },
+    {
+      "name": "Atmospheric Chemistry and Climate/Stratospheric Processes and their Role in Climate",
+      "label": "project",
+      "description": "An initiative studying the interactions between atmospheric chemistry, climate, and stratospheric processes",
+      "uuid": "25224e7a-c3e9-4545-a26a-0c22e87ea5f2",
+      "score": 0.554444464500625
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "twentieth-century",
+      "label": "experiment",
+      "description": "Climate simulations or experiments focused on the 20th century, used for understanding historical climate patterns and testing model performance",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5704920733936638
+    }
+  ],
+  "(8914, 11265)": [
+    {
+      "name": "RCPs",
+      "label": "project",
+      "description": "The Representative Concentration Pathways, a set of greenhouse gas concentration trajectories used to analyze the effects of climate change mitigation and adaptation strategies",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5243188747739117
+    },
+    {
+      "name": "CO 2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a significant role in global climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6615738326489675
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Atmospheric particles that can influence climate by reflecting or absorbing solar radiation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7091379647673314
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A molecule composed of three oxygen atoms, playing a crucial role in the Earth's atmosphere, particularly in the stratosphere",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5970433832443791
+    },
+    {
+      "name": "land use/land cover",
+      "label": "variable",
+      "description": "The way in which land is used by humans, such as for agriculture, urbanization, or conservation, which can impact the climate",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.700263505705562
+    },
+    {
+      "name": "CAM-Chem",
+      "label": "model",
+      "description": "A chemistry-climate model used to simulate the interactions between atmospheric chemistry and climate",
+      "uuid": "32204115-79a6-4cda-aac0-2f57580eb445",
+      "score": 0.7142020081918883
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a coupled climate model used to simulate the Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.643164917451155
+    },
+    {
+      "name": "CCS",
+      "label": "instrument",
+      "description": "Carbon capture and storage, a technology used to reduce greenhouse gas emissions by capturing CO2 from power plants and industrial processes and storing it underground",
+      "uuid": "e8c24822-7d2d-48c6-9dca-df3860e9bd63",
+      "score": 0.7147864331636176
+    },
+    {
+      "name": "sea ice distributions",
+      "label": "variable",
+      "description": "The extent and concentration of sea ice in the polar regions, which can influence global climate patterns",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.6179251258416946
+    },
+    {
+      "name": "monthly sea surface temperatures",
+      "label": "variable",
+      "description": "The temperature of the ocean's surface, measured monthly, which can impact global climate variability",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.62923692542982
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A specific representative concentration pathway scenario, characterized by a low level of greenhouse gas emissions and a strong mitigation effort",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6654834354420082
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A specific representative concentration pathway scenario, characterized by a moderate level of greenhouse gas emissions and a moderate mitigation effort",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6163651821395366
+    },
+    {
+      "name": "RCP6",
+      "label": "experiment",
+      "description": "A specific representative concentration pathway scenario, characterized by a moderate to high level of greenhouse gas emissions and a moderate mitigation effort",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.5828666809479598
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A specific representative concentration pathway scenario, characterized by a high level of greenhouse gas emissions and a weak mitigation effort",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6768040765703414
+    }
+  ],
+  "(10832, 13038)": [
+    {
+      "name": "RCPs",
+      "label": "project",
+      "description": "A set of scenarios for future greenhouse gas emissions and land use changes, used to simulate and predict climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5465208917114567
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A molecule composed of three oxygen atoms, playing a crucial role in the Earth's atmosphere and influencing climate",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6219649529246921
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Small particles in the atmosphere that can influence climate by reflecting or absorbing solar radiation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6969285717397438
+    },
+    {
+      "name": "land use/land cover",
+      "label": "variable",
+      "description": "The way in which land is used or covered, influencing climate through changes in greenhouse gas emissions and carbon sequestration",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6784879184678375
+    },
+    {
+      "name": "CAM-Chem",
+      "label": "model",
+      "description": "A chemistry-climate model that simulates the interactions between atmospheric chemistry and climate",
+      "uuid": "32204115-79a6-4cda-aac0-2f57580eb445",
+      "score": 0.707787133403987
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a comprehensive climate model that simulates the Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.645844315351155
+    },
+    {
+      "name": "SRES",
+      "label": "project",
+      "description": "The Special Report on Emissions Scenarios, a set of scenarios for future greenhouse gas emissions and land use changes, used to simulate and predict climate change",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.7165694730703123
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028232342314525
+    },
+    {
+      "name": "CO 2 concentrations",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, a key indicator of climate change",
+      "uuid": "b53939ae-1264-409d-8434-3bb3d22b2848",
+      "score": 0.6234944309026133
+    },
+    {
+      "name": "sea ice distributions",
+      "label": "variable",
+      "description": "The extent and thickness of sea ice in the polar regions, influencing climate through changes in albedo and ocean currents",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.6374714361055608
+    },
+    {
+      "name": "monthly sea surface temperatures",
+      "label": "variable",
+      "description": "The temperature of the ocean's surface, influencing climate through changes in heat exchange and ocean currents",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6606760582234636
+    },
+    {
+      "name": "total solar irradiance",
+      "label": "variable",
+      "description": "The amount of solar energy received by the Earth, influencing climate through changes in temperature and atmospheric circulation",
+      "uuid": "9bb2d7ab-a86d-49e7-8a84-e036ca793d48",
+      "score": 0.6817548542311278
+    },
+    {
+      "name": "RCP2.6",
+      "label": "scenario",
+      "description": "A scenario for future greenhouse gas emissions and land use changes, used to simulate and predict climate change, characterized by a strong reduction in emissions",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.658675724159049
+    },
+    {
+      "name": "RCP4.5",
+      "label": "scenario",
+      "description": "A scenario for future greenhouse gas emissions and land use changes, used to simulate and predict climate change, characterized by a moderate reduction in emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6196001387867539
+    },
+    {
+      "name": "RCP6",
+      "label": "scenario",
+      "description": "A scenario for future greenhouse gas emissions and land use changes, used to simulate and predict climate change, characterized by a moderate increase in emissions",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.5629491690469312
+    },
+    {
+      "name": "RCP8.5",
+      "label": "scenario",
+      "description": "A scenario for future greenhouse gas emissions and land use changes, used to simulate and predict climate change, characterized by a high increase in emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6652393531559675
+    },
+    {
+      "name": "SRES A2",
+      "label": "scenario",
+      "description": "A scenario for future greenhouse gas emissions and land use changes, used to simulate and predict climate change, characterized by a moderate increase in emissions",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5113420989244533
+    },
+    {
+      "name": "Volcanic aerosols",
+      "label": "variable",
+      "description": "Small particles in the atmosphere that originate from volcanic eruptions, influencing climate through changes in solar radiation",
+      "uuid": "11d6f2a7-8f2c-4753-a7b0-a72d611b2954",
+      "score": 0.5818906359479769
+    }
+  ],
+  "(12698, 15248)": [
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028232342314525
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, scenarios used to project future climate change based on different greenhouse gas concentration trajectories",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5591355792720252
+    },
+    {
+      "name": "SRES",
+      "label": "experiment",
+      "description": "Special Report on Emissions Scenarios, a set of scenarios used to project future climate change based on different greenhouse gas emission pathways",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.7369042591841639
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a climate model used for simulating and predicting Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.643226765722381
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, an updated version of the CCSM3 climate model",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7789717910080243
+    },
+    {
+      "name": "CESM1",
+      "label": "model",
+      "description": "The Community Earth System Model version 1, a climate model used for simulating and predicting Earth's climate system",
+      "uuid": "8894d92c-be32-465b-ae08-e5de755a92fc",
+      "score": 0.7516353704055713
+    },
+    {
+      "name": "CAM5",
+      "label": "model",
+      "description": "The Community Atmosphere Model version 5, an atmospheric component of the CESM1 climate model",
+      "uuid": "77ff6c41-125c-4f56-a40f-3b34608d7647",
+      "score": 0.7656488931234156
+    },
+    {
+      "name": "CO 2 concentrations",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, an important factor influencing climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.5984054364975228
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A floating ice cover on the ocean, playing a crucial role in the Earth's climate system",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7522498456438923
+    },
+    {
+      "name": "slab ocean model",
+      "label": "model",
+      "description": "A simplified ocean model used in climate simulations, representing the ocean as a static, thermally active layer",
+      "uuid": "a79831b8-8dc4-4445-9b77-4344394b7034",
+      "score": 0.6431953812410666
+    },
+    {
+      "name": "Parallel Climate Model",
+      "label": "model",
+      "description": "A climate model developed to simulate and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5397496042595438
+    },
+    {
+      "name": "equilibrium climate sensitivity",
+      "label": "variable",
+      "description": "A measure of the Earth's climate system response to a doubling of CO 2 concentrations, quantifying the change in global surface air temperature",
+      "uuid": "6fa682b9-c6b5-46ca-971f-b7ecd4bf304d",
+      "score": 0.5045502484699234
+    },
+    {
+      "name": "land component",
+      "label": "model",
+      "description": "A part of a climate model that simulates the behavior of the land surface",
+      "uuid": "e8c6761b-0653-495c-82e9-feb685344542",
+      "score": 0.5258057977503353
+    },
+    {
+      "name": "ocean model",
+      "label": "model",
+      "description": "A part of a climate model that simulates the behavior of the oceans",
+      "uuid": "c61a56a3-c08f-4989-92f3-0f0787688424",
+      "score": 0.5638349443973024
+    },
+    {
+      "name": "equatorial tropics",
+      "label": "location",
+      "description": "A region near the equator, characterized by high temperatures and high levels of precipitation",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.6286923926085828
+    }
+  ],
+  "(14828, 17105)": [
+    {
+      "name": "Parallel Climate Model",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5558253165611987
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a climate model that simulates Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6442899780717712
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model that simulates Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7945440169412992
+    },
+    {
+      "name": "CAM3",
+      "label": "model",
+      "description": "The Community Atmospheric Model version 3, an atmospheric model used in climate simulations",
+      "uuid": "77ff6c41-125c-4f56-a40f-3b34608d7647",
+      "score": 0.575120357611255
+    },
+    {
+      "name": "slab ocean model",
+      "label": "model",
+      "description": "A simplified ocean model used in climate simulations to represent the ocean's role in the climate system",
+      "uuid": "a79831b8-8dc4-4445-9b77-4344394b7034",
+      "score": 0.6465365447679844
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A measure of the extent and thickness of ice covering the oceans, influencing Earth's climate and weather patterns",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7200551516206887
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the atmosphere, a key driver of climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.6670564794434674
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air near the Earth's surface, often used to study climate change",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6914536438181602
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change research and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7384217635930528
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028232342314525
+    },
+    {
+      "name": "CCSM4 TCR",
+      "label": "experiment",
+      "description": "An experiment using the CCSM4 model to estimate the transient climate response, which is the difference in globally averaged surface air temperature between a control run and a run with increasing CO2",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.5365193634688392
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change Fourth Assessment Report",
+      "label": "project",
+      "description": "A comprehensive report assessing climate change research and providing guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5754851818531617
+    }
+  ],
+  "(16708, 19290)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model developed by the National Center for Atmospheric Research for simulating the Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.8001432919189697
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, an earlier version of the CCSM climate model",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6392576207902885
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that affects the Earth's climate",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6721399581837476
+    },
+    {
+      "name": "climate sensitivity",
+      "label": "variable",
+      "description": "A measure of how much the Earth's surface temperature will increase in response to a given increase in atmospheric carbon dioxide concentrations",
+      "uuid": "6fa682b9-c6b5-46ca-971f-b7ecd4bf304d",
+      "score": 0.533255099247996
+    },
+    {
+      "name": "HadCRUT3",
+      "label": "project",
+      "description": "A dataset of global surface temperature records, developed by the Climatic Research Unit",
+      "uuid": "c3e53b0d-cf82-4d03-ba0e-5544b99ad238",
+      "score": 0.5209518016350478
+    },
+    {
+      "name": "National Snow and Ice Data Center",
+      "label": "provider",
+      "description": "A research center that provides data and information on snow and ice cover, as well as climate-related research",
+      "uuid": "a0ba81a8-4e86-43c5-a702-46c9bbcddb67",
+      "score": 0.669951533542792
+    },
+    {
+      "name": "sea ice concentrations",
+      "label": "variable",
+      "description": "The percentage of sea surface covered by ice, an important indicator of climate change",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.7672973781448765
+    },
+    {
+      "name": "Nimbus-7",
+      "label": "platform",
+      "description": "A NASA satellite used for remote sensing and climate research",
+      "uuid": "0af3eeb1-3339-46ad-964f-2d18dce319fe",
+      "score": 0.680268065134291
+    },
+    {
+      "name": "Defense Meteorological Satellite Program",
+      "label": "platform",
+      "description": "A series of satellites used for weather forecasting and climate monitoring",
+      "uuid": "1cf8cbcd-c1be-4c78-9272-b62adad59aa1",
+      "score": 0.6764192854864391
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a US government agency responsible for space exploration and climate research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.7089287833287357
+    },
+    {
+      "name": "PCM",
+      "label": "model",
+      "description": "The Parallel Climate Model, a climate model developed by the National Center for Atmospheric Research",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.5978556773462764
+    },
+    {
+      "name": "anthropogenic forcings",
+      "label": "variable",
+      "description": "Human-induced factors that influence the climate, such as greenhouse gas emissions and land use changes",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5418327355245145
+    },
+    {
+      "name": "natural forcings",
+      "label": "variable",
+      "description": "Naturally occurring factors that influence the climate, such as volcanic eruptions and changes in solar radiation",
+      "uuid": "78c47e38-e842-4e31-81b2-44f44c52c692",
+      "score": 0.5868578103408502
+    }
+  ],
+  "(18883, 21683)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a comprehensive climate model developed by the National Center for Atmospheric Research",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7993740792873357
+    },
+    {
+      "name": "natural forcings",
+      "label": "variable",
+      "description": "Factors that influence the climate system, such as solar radiation, volcanic eruptions, and changes in Earth's orbit",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6010958497245154
+    },
+    {
+      "name": "anthropogenic forcings",
+      "label": "variable",
+      "description": "Human-induced factors that influence the climate system, such as greenhouse gas emissions and aerosol pollution",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5544916829901687
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that can reflect sunlight and cool the planet, or absorb sunlight and warm the planet",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6612716825147139
+    },
+    {
+      "name": "volcanic eruptions",
+      "label": "natural hazard",
+      "description": "Explosive events that release ash, gas, and rock into the atmosphere, affecting global climate patterns",
+      "uuid": "06c1281f-e306-4511-bdab-ed6c0694f0f9",
+      "score": 0.6192523939798119
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the surface of the Earth, often used as an indicator of global warming",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6913344892085194
+    },
+    {
+      "name": "upper-ocean heat content",
+      "label": "variable",
+      "description": "The amount of heat stored in the upper layers of the ocean, an important metric for understanding ocean-atmosphere interactions",
+      "uuid": "63bc0693-52eb-4ebd-a39e-e77e96409072",
+      "score": 0.5602791846376441
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "ocean regions",
+      "label": "location",
+      "description": "Specific areas of the ocean, such as the North Atlantic or the Southern Ocean, used to study ocean-atmosphere interactions",
+      "uuid": "2cd71964-fa71-4456-bc81-0f6dcbef3042",
+      "score": 0.57131401964697
+    },
+    {
+      "name": "global oceans",
+      "label": "location",
+      "description": "The collective body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in regulating the planet's climate",
+      "uuid": "3d4e44c4-5d99-4a9b-8388-43c63533ee97",
+      "score": 0.708935343496631
+    },
+    {
+      "name": "MOC",
+      "label": "ocean circulation",
+      "description": "The Meridional Overturning Circulation, a critical component of the ocean's thermohaline circulation that helps regulate global climate patterns",
+      "uuid": "aa1bc71c-daeb-401e-9e29-ebde975482cf",
+      "score": 0.5562567463656889
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling to project future climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6274045394065452
+    },
+    {
+      "name": "PCM",
+      "label": "model",
+      "description": "The Parallel Climate Model, a climate model developed by the National Center for Atmospheric Research",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.5978556773462764
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a comprehensive climate model developed by the National Center for Atmospheric Research",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.655116361158946
+    }
+  ],
+  "(21232, 23708)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model developed by the National Center for Atmospheric Research for simulating Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.800185701910249
+    },
+    {
+      "name": "PCM",
+      "label": "model",
+      "description": "The Parallel Climate Model, a climate model designed to simulate the Earth's climate system, developed by the National Center for Atmospheric Research",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.5956109422803008
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a climate model developed by the National Center for Atmospheric Research for simulating Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6522382998477662
+    },
+    {
+      "name": "sulfate aerosols",
+      "label": "variable",
+      "description": "A type of atmospheric aerosol that can influence Earth's climate by reflecting sunlight and affecting cloud formation",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.6333668466977388
+    },
+    {
+      "name": "globally averaged surface air temperature anomalies",
+      "label": "variable",
+      "description": "A measure of the deviation of global surface air temperatures from a reference average, used to study climate change",
+      "uuid": "1838e31f-ef6d-42f8-b166-71f6cd1aaa57",
+      "score": 0.6428085468820758
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "The El Ni\u00f1o-Southern Oscillation, a complex climate phenomenon involving fluctuations in ocean temperatures and atmospheric pressures in the Pacific Ocean",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7877191673049229
+    },
+    {
+      "name": "National Center for Atmospheric Research",
+      "label": "provider",
+      "description": "A research institution focused on studying the Earth's atmosphere and climate",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.6678710071721055
+    },
+    {
+      "name": "upper-ocean heat content",
+      "label": "variable",
+      "description": "A measure of the heat stored in the upper layers of the ocean, influencing global climate patterns",
+      "uuid": "63bc0693-52eb-4ebd-a39e-e77e96409072",
+      "score": 0.5451049603739913
+    },
+    {
+      "name": "ocean areas",
+      "label": "location",
+      "description": "Regions of the ocean, such as the Pacific, Atlantic, and Indian Oceans, each with unique characteristics and influences on global climate",
+      "uuid": "2cd71964-fa71-4456-bc81-0f6dcbef3042",
+      "score": 0.6193296869754322
+    }
+  ],
+  "(23317, 25888)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model developed by the National Center for Atmospheric Research for simulating Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.800185701910249
+    },
+    {
+      "name": "sulfate aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that can affect Earth's climate by reflecting sunlight and influencing cloud formation",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.6654743120133698
+    },
+    {
+      "name": "PCM",
+      "label": "model",
+      "description": "The Parallel Climate Model, a climate model used for simulating Earth's climate system",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.5756241350101862
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a predecessor to CCSM4, used for simulating Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6591988550456434
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas emissions and concentrations used in climate modeling, representing a moderate mitigation pathway",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6262658461054786
+    },
+    {
+      "name": "ocean areas",
+      "label": "location",
+      "description": "Regions of the ocean where upper-ocean heat content anomalies are measured or simulated",
+      "uuid": "63bc0693-52eb-4ebd-a39e-e77e96409072",
+      "score": 0.5207678854904565
+    }
+  ],
+  "(25466, 28404)": [
+    {
+      "name": "sulfate aerosols",
+      "label": "variable",
+      "description": "A type of atmospheric aerosol that can influence climate by reflecting sunlight and affecting cloud formation",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.6218848915157992
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model developed by the National Center for Atmospheric Research",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7995095792639241
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a predecessor to CCSM4, used for climate simulations and research",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6566578064410592
+    },
+    {
+      "name": "volcanic eruptions",
+      "label": "weather event",
+      "description": "Explosive events that release ash, gas, and aerosols into the atmosphere, influencing global climate patterns",
+      "uuid": "06c1281f-e306-4511-bdab-ed6c0694f0f9",
+      "score": 0.6131532149262763
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "The layer of the atmosphere extending from about 10 to 50 kilometers above the Earth's surface, where ozone is formed and atmospheric circulation plays a significant role in climate regulation",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7613347710013441
+    },
+    {
+      "name": "troposphere",
+      "label": "location",
+      "description": "The lowest layer of the atmosphere, extending from the Earth's surface up to about 10 kilometers, where weather occurs and climate is significantly influenced",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.7466540422368676
+    },
+    {
+      "name": "climate modeling",
+      "label": "project",
+      "description": "The scientific practice of developing and using computational models to simulate and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5552351752639666
+    },
+    {
+      "name": "concentrations",
+      "label": "variable",
+      "description": "The amount of a substance, such as aerosols or greenhouse gases, present in a given volume or mass of air, water, or soil",
+      "uuid": "59920ad4-85fb-4cee-ba56-f39bc5857a3d",
+      "score": 0.5807914282998335
+    },
+    {
+      "name": "anthropogenic",
+      "label": "experiment",
+      "description": "Refers to climate simulations or experiments that account for human-induced factors affecting the climate, such as greenhouse gas emissions",
+      "uuid": "203e8735-a444-4b88-8fab-7deae8f8a56b",
+      "score": 0.5282710185714894
+    },
+    {
+      "name": "natural-only",
+      "label": "experiment",
+      "description": "Refers to climate simulations or experiments that only account for natural factors affecting the climate, excluding human-induced influences",
+      "uuid": "792339ec-724c-4b4e-8110-ff0649d664a9",
+      "score": 0.6149479637088716
+    }
+  ],
+  "(27922, 30458)": [
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a climate model used for simulating and predicting climate patterns",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6435748910934819
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used for simulating and predicting climate patterns",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7924295743501251
+    },
+    {
+      "name": "natural forcings",
+      "label": "variable",
+      "description": "Factors that influence climate, such as volcanic eruptions and changes in solar radiation, which occur naturally",
+      "uuid": "78c47e38-e842-4e31-81b2-44f44c52c692",
+      "score": 0.5858550251960702
+    },
+    {
+      "name": "anthropogenic forcings",
+      "label": "variable",
+      "description": "Human-induced factors that influence climate, such as the emission of greenhouse gases and aerosols",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5460515208761177
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere, such as sulfate, black carbon, and organic carbon, that can affect climate",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6843085623969511
+    },
+    {
+      "name": "sulfate aerosols",
+      "label": "variable",
+      "description": "A type of aerosol that can reflect sunlight and cool the planet",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.5841686880074201
+    },
+    {
+      "name": "black carbon",
+      "label": "variable",
+      "description": "A type of aerosol that can absorb sunlight and warm the planet",
+      "uuid": "9c0288cc-864d-40f7-93af-6df413b404f5",
+      "score": 0.6984193804103257
+    },
+    {
+      "name": "organic carbon",
+      "label": "variable",
+      "description": "A type of aerosol that can affect climate",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6259909366560358
+    },
+    {
+      "name": "tropospheric ozone",
+      "label": "variable",
+      "description": "A type of gas that can affect climate",
+      "uuid": "426aee98-764c-4c21-ab65-1e9d4bd6b0d0",
+      "score": 0.6373043471965286
+    },
+    {
+      "name": "PCM",
+      "label": "model",
+      "description": "The Parallel Climate Model, a climate model used for simulating and predicting climate patterns",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.576633543739379
+    }
+  ],
+  "(30114, 32620)": [
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a climate model that simulates the Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6449932170639261
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model that simulates the Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7958354958276258
+    },
+    {
+      "name": "PCM",
+      "label": "model",
+      "description": "The Parallel Climate Model, a climate model that simulates the Earth's climate system",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.5747713692247122
+    },
+    {
+      "name": "sulfate aerosols",
+      "label": "variable",
+      "description": "A type of aerosol that affects the Earth's climate by scattering sunlight and influencing cloud formation",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.604533558081052
+    },
+    {
+      "name": "atmospheric chemistry model",
+      "label": "model",
+      "description": "A component of a climate model that simulates the chemical processes that occur in the atmosphere",
+      "uuid": "3668de06-8a7d-4667-beb8-d04dcac619b0",
+      "score": 0.6462784383839315
+    },
+    {
+      "name": "SO 2 emissions",
+      "label": "variable",
+      "description": "The release of sulfur dioxide into the atmosphere, which can contribute to the formation of sulfate aerosols",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.5923841308032997
+    },
+    {
+      "name": "SO 4 aerosol concentrations",
+      "label": "variable",
+      "description": "The amount of sulfate aerosols present in the atmosphere",
+      "uuid": "32ceae3d-b06d-4634-b70e-0e6d6b61d653",
+      "score": 0.6554335928217794
+    },
+    {
+      "name": "black carbon aerosols",
+      "label": "variable",
+      "description": "A type of aerosol that affects the Earth's climate by absorbing sunlight and influencing cloud formation",
+      "uuid": "9c0288cc-864d-40f7-93af-6df413b404f5",
+      "score": 0.6721075561418767
+    },
+    {
+      "name": "carbon",
+      "label": "variable",
+      "description": "A chemical element that is a key component of many aerosols, including black carbon and organic carbon aerosols",
+      "uuid": "527f637c-aea5-4519-9293-d57e10a76bff",
+      "score": 0.6666450241653611
+    },
+    {
+      "name": "organic carbon aerosols",
+      "label": "variable",
+      "description": "A type of aerosol that affects the Earth's climate by scattering sunlight and influencing cloud formation",
+      "uuid": "527f637c-aea5-4519-9293-d57e10a76bff",
+      "score": 0.5997268240769522
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a particular area or region, which can influence the amount of aerosols released into the atmosphere",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.594744057535636
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of substances, including aerosols, into the atmosphere",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.6959600254169497
+    },
+    {
+      "name": "optical depth",
+      "label": "variable",
+      "description": "A measure of the amount of light that is scattered or absorbed by aerosols in the atmosphere",
+      "uuid": "001f18d3-7e61-430b-9883-1960c6256fe5",
+      "score": 0.6791760301892752
+    }
+  ],
+  "(32180, 34742)": [
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a climate model used for simulating Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6500339561577435
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used for simulating Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7994000386571287
+    },
+    {
+      "name": "sulfate aerosol",
+      "label": "variable",
+      "description": "A type of aerosol that affects Earth's climate by scattering solar radiation",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.5929921613914194
+    },
+    {
+      "name": "black carbon aerosols",
+      "label": "variable",
+      "description": "A type of aerosol that affects Earth's climate by absorbing solar radiation",
+      "uuid": "9c0288cc-864d-40f7-93af-6df413b404f5",
+      "score": 0.6739048990991001
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas that plays a crucial role in the Earth's atmosphere, influencing climate and air quality",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6681676103144136
+    },
+    {
+      "name": "organic carbon",
+      "label": "variable",
+      "description": "A type of carbon compound found in the atmosphere, influencing climate and air quality",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6755264137764504
+    },
+    {
+      "name": "optical depth",
+      "label": "variable",
+      "description": "A measure of the amount of light absorbed or scattered by a medium, such as the atmosphere",
+      "uuid": "001f18d3-7e61-430b-9883-1960c6256fe5",
+      "score": 0.6961073746451136
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The change in the balance between the amount of energy absorbed by the Earth and the amount of energy emitted back into space",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7751139390677294
+    },
+    {
+      "name": "troposphere",
+      "label": "location",
+      "description": "The lowest layer of the Earth's atmosphere, where weather occurs and climate is formed",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.7072597795190502
+    },
+    {
+      "name": "south Asian monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings significant rainfall to South Asia",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6147240080941873
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7157935639605466
+    },
+    {
+      "name": "teleconnections",
+      "label": "teleconnection",
+      "description": "Large-scale patterns of climate variability that link weather and climate phenomena across vast distances",
+      "uuid": "b887d3e5-4280-43d2-a34e-0f63ac086b6a",
+      "score": 0.7075987512459353
+    },
+    {
+      "name": "CO 2 concentrations",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, a key driver of climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.607699925842175
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A climate scenario that represents a low-emissions future, with a radiative forcing of 2.6 W/m^2 by 2100",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.7076468352955189
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A climate scenario that represents a moderate-emissions future, with a radiative forcing of 4.5 W/m^2 by 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6341000298841613
+    },
+    {
+      "name": "RCP6",
+      "label": "experiment",
+      "description": "A climate scenario that represents a moderate-emissions future, with a radiative forcing of 6 W/m^2 by 2100",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6230185013020784
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A climate scenario that represents a high-emissions future, with a radiative forcing of 8.5 W/m^2 by 2100",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.7180280491929966
+    }
+  ],
+  "(34341, 36743)": [
+    {
+      "name": "CO 2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas with significant impact on Earth's climate",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6782589224355687
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario of the Representative Concentration Pathways, representing a moderate mitigation effort to reduce greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6242749868639286
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A scenario of the Representative Concentration Pathways, representing a strong mitigation effort to reduce greenhouse gas emissions",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6678689077769916
+    },
+    {
+      "name": "RCP6",
+      "label": "experiment",
+      "description": "A scenario of the Representative Concentration Pathways, representing a moderate mitigation effort to reduce greenhouse gas emissions",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.5893155285400479
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario of the Representative Concentration Pathways, representing a high-emissions scenario with little to no mitigation effort",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6820787631095263
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air near the Earth's surface, often used to study climate change",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6914536438181602
+    }
+  ],
+  "(36338, 39134)": [
+    {
+      "name": "CO 2",
+      "label": "variable",
+      "description": "A greenhouse gas that affects Earth's climate by trapping heat in the atmosphere",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6337214303603651
+    },
+    {
+      "name": "RCP scenarios",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to model different climate futures based on varying levels of greenhouse gas emissions",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5797059736315521
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "Northern Hemisphere high-latitude regions",
+      "label": "location",
+      "description": "Areas in the Northern Hemisphere located at high latitudes, characterized by cold climates and significant seasonal variations",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.5948469430058007
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The vast bodies of saltwater that cover over 70% of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.7272111215013392
+    },
+    {
+      "name": "high latitudes",
+      "label": "location",
+      "description": "Regions on Earth located at high latitudes, typically characterized by cold climates and significant seasonal variations",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.563198712143448
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, known for its influence on global climate patterns and ocean circulation",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7920720165522507
+    },
+    {
+      "name": "CCS",
+      "label": "model",
+      "description": "A climate model that integrates various components of the Earth's climate system to simulate and predict future climate changes",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.5971619096470107
+    },
+    {
+      "name": "sea level pressure",
+      "label": "variable",
+      "description": "The atmospheric pressure at sea level, an important variable in climate modeling and weather forecasting",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.7676731772862236
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an essential component of the global water cycle and climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6709253852649146
+    },
+    {
+      "name": "Northern Annular Mode",
+      "label": "teleconnection",
+      "description": "A climate pattern that affects the atmospheric circulation in the Northern Hemisphere, influencing temperature, precipitation, and other climate variables",
+      "uuid": "83b711e1-3fb5-4ef3-bafb-783e8239a4b5",
+      "score": 0.533506595158896
+    }
+  ],
+  "(38700, 41408)": [
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A part of the Pacific Ocean located north of the equator, known for its influence on global climate patterns>",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.8002280295431847
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A part of the Atlantic Ocean located north of the equator, known for its influence on global climate patterns>",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7648269077753821
+    },
+    {
+      "name": "circumpolar Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, playing a key role in global ocean circulation and climate regulation>",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.7289962612649844
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used to simulate and predict Earth's climate system>",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7931252351599268
+    },
+    {
+      "name": "European Centre for Medium-Range Weather Forecasts",
+      "label": "provider",
+      "description": "An organization that provides weather forecasts and climate data>",
+      "uuid": "cdc27449-f9f7-4da2-83ec-f1071b5d4bab",
+      "score": 0.7250671371695036
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold of an object or environment>",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6134476341541836
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the climate system>",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6447171680652717
+    },
+    {
+      "name": "sea level pressures",
+      "label": "variable",
+      "description": "The pressure exerted by the atmosphere at sea level, an important factor in climate and weather patterns>",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.7444979022220143
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A scenario used to study the effects of climate change, representing a low level of greenhouse gas emissions>",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6638806332906214
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario used to study the effects of climate change, representing a moderate level of greenhouse gas emissions>",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6126256617355014
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario used to study the effects of climate change, representing a high level of greenhouse gas emissions>",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.668297038181
+    },
+    {
+      "name": "troposphere",
+      "label": "location",
+      "description": "The lowest layer of the Earth's atmosphere, where most weather occurs>",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.7092594844458384
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "A layer of the Earth's atmosphere above the troposphere, characterized by a stable temperature profile>",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7380911531244537
+    },
+    {
+      "name": "tropopause",
+      "label": "location",
+      "description": "The boundary between the troposphere and the stratosphere>",
+      "uuid": "c3447c90-7490-4f04-89c1-c5274ba8f8f6",
+      "score": 0.7215226631104861
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An island nation in the North Atlantic, known for its ice sheet and vulnerability to climate change>",
+      "uuid": "f08d8e34-01db-4e89-a840-336432d18ecb",
+      "score": 0.7228766132807961
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "A continent at the South Pole, known for its extreme climate and ice sheet>",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7430516687032813
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, known for its diverse climate and geography>",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7702888265502567
+    },
+    {
+      "name": "Southern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth south of the equator, known for its unique climate and geography>",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7724745569969957
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, known for its extreme climate and sensitivity to climate change>",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7347800726527309
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas in the atmosphere that plays a crucial role in protecting the Earth from ultraviolet radiation>",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6404809081144567
+    },
+    {
+      "name": "GHG",
+      "label": "variable",
+      "description": "Greenhouse gases, which trap heat in the atmosphere and contribute to climate change>",
+      "uuid": "0cf44d92-1959-41af-9890-b916008efbae",
+      "score": 0.5185624431755933
+    }
+  ],
+  "(40933, 43069)": [
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario used in climate modeling, representing a low greenhouse gas emissions pathway",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6730816411603898
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario used in climate modeling, representing a high greenhouse gas emissions pathway",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6780761140277046
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A molecule composed of three oxygen atoms, important for protecting the Earth from ultraviolet radiation",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5667009866492043
+    },
+    {
+      "name": "tropopause",
+      "label": "location",
+      "description": "The boundary between the troposphere and the stratosphere, characterized by a significant change in temperature gradient",
+      "uuid": "c3447c90-7490-4f04-89c1-c5274ba8f8f6",
+      "score": 0.7404220737480112
+    },
+    {
+      "name": "Southern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth south of the equator, including the Antarctic region and parts of South America, Africa, and Australia",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7989910941365248
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, including the Arctic Ocean and parts of Canada, Alaska, Russia, and Scandinavia",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7270731259676803
+    },
+    {
+      "name": "extratropical jet",
+      "label": "ocean circulation",
+      "description": "A fast-moving band of air in the upper atmosphere, playing a key role in shaping mid-latitude weather patterns",
+      "uuid": "da436e9b-60e5-4a5f-a50a-08794d62bca8",
+      "score": 0.5124660673837791
+    },
+    {
+      "name": "tropical stratosphere",
+      "label": "location",
+      "description": "The upper atmosphere over the tropics, characterized by a stable temperature profile and significant ozone concentrations",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.5929414715300972
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "The part of the Atlantic Ocean located north of the equator, playing a crucial role in global ocean circulation and climate regulation",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7801644368434478
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model developed by the National Center for Atmospheric Research",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7995095792639241
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a predecessor to CCSM4, used for climate simulations and research",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6566578064410592
+    },
+    {
+      "name": "RAPID",
+      "label": "project",
+      "description": "The Rapid Climate Change Programme, an initiative to study and understand rapid climate change",
+      "uuid": "78871236-1736-40dc-b35c-6d7b9a77cdd9",
+      "score": 0.624974519169018
+    },
+    {
+      "name": "MOC",
+      "label": "variable",
+      "description": "The meridional overturning circulation, a measure of the large-scale ocean circulation in the Atlantic",
+      "uuid": "d0c16581-6951-4e8d-a0c1-97e9fcaa031a",
+      "score": 0.5434838120421503
+    },
+    {
+      "name": "Atlantic meridional overturning streamfunction",
+      "label": "variable",
+      "description": "A measure of the meridional overturning circulation in the Atlantic Ocean, used to study ocean circulation patterns",
+      "uuid": "7946bc1b-3b7d-4ff0-ad6d-238540dc21b7",
+      "score": 0.6243030267878064
+    },
+    {
+      "name": "meridional temperature gradient",
+      "label": "variable",
+      "description": "The change in temperature with latitude, influencing atmospheric and oceanic circulation patterns",
+      "uuid": "99d567bb-7767-4ea4-a135-a611eac6a669",
+      "score": 0.5364715215874626
+    },
+    {
+      "name": "temperature gradient",
+      "label": "variable",
+      "description": "The change in temperature with distance or altitude, influencing atmospheric and oceanic circulation patterns",
+      "uuid": "99d567bb-7767-4ea4-a135-a611eac6a669",
+      "score": 0.6772709791010656
+    }
+  ],
+  "(42772, 45106)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used to simulate Earth's climate system and predict future climate changes",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7933961303184995
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "MOC",
+      "label": "ocean circulation",
+      "description": "The Meridional Overturning Circulation, a large-scale ocean circulation pattern in the North Atlantic, important for regulating Earth's climate",
+      "uuid": "d0c16581-6951-4e8d-a0c1-97e9fcaa031a",
+      "score": 0.575967444189996
+    },
+    {
+      "name": "heat wave intensity",
+      "label": "variable",
+      "description": "A measure of the severity of heat waves, often defined as the average minimum temperature during the warmest consecutive nights of the year",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.5890651716600686
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a low greenhouse gas emissions pathway and used to study climate change mitigation",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6754527153078673
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a moderate greenhouse gas emissions pathway and used to study climate change mitigation",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6272586808207647
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a high greenhouse gas emissions pathway and used to study climate change mitigation",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6880623509503093
+    },
+    {
+      "name": "sea level pressure differences",
+      "label": "variable",
+      "description": "The difference in atmospheric pressure at sea level between two locations, often used to study weather patterns and climate variability",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.655064014725086
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the Earth's water cycle and climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6709853732060608
+    },
+    {
+      "name": "average minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded during a given period, often used to study climate patterns and trends",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.5531393652505694
+    }
+  ],
+  "(44645, 47540)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a comprehensive climate model used for simulating Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7983087745077595
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the western United States, known for its diverse climate and geography",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6532326746584319
+    },
+    {
+      "name": "Nevada",
+      "label": "location",
+      "description": "A state in the western United States, characterized by its arid climate and mountainous terrain",
+      "uuid": "2bdea9ad-43c4-4559-a156-6dad5d9ba137",
+      "score": 0.6819600150562537
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas emissions and concentrations used in climate modeling, representing a low-emissions pathway",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6735194142903537
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas emissions and concentrations used in climate modeling, representing a high-emissions pathway",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6796608818250003
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to Earth's surface over a specific period, an essential component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6498081556606684
+    },
+    {
+      "name": "precipitation intensity",
+      "label": "variable",
+      "description": "The amount of precipitation that falls over a given area and time period, often used to study extreme weather events",
+      "uuid": "ac50c468-df2f-429c-8394-9d63efcc6f9d",
+      "score": 0.559911399021878
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7131149544161883
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The northernmost region of the Earth, characterized by its cold climate, sea ice, and unique ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7983982284336598
+    },
+    {
+      "name": "Antarctic",
+      "label": "location",
+      "description": "The southernmost region of the Earth, characterized by its cold climate, sea ice, and unique ecosystems",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.6797569104447673
+    },
+    {
+      "name": "sea ice extent",
+      "label": "variable",
+      "description": "The area of the ocean covered by sea ice, an important indicator of climate change and its impacts on polar regions",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.7455193898357492
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The change in the balance between the amount of energy the Earth receives from the sun and the amount of energy it loses to space, often used to study climate change",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7984837245672094
+    },
+    {
+      "name": "global temperature increase",
+      "label": "variable",
+      "description": "The rise in the average surface temperature of the Earth, a key indicator of global warming and climate change",
+      "uuid": "3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648",
+      "score": 0.5314789097783315
+    }
+  ],
+  "(47027, 49575)": [
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The northernmost region of the Earth, characterized by its cold climate and sea ice cover",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7667532263835616
+    },
+    {
+      "name": "Antarctic",
+      "label": "location",
+      "description": "The southernmost region of the Earth, characterized by its cold climate and ice cover",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.6660979728320002
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, used for simulating and predicting climate patterns",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7933705842823607
+    },
+    {
+      "name": "sea ice extent",
+      "label": "variable",
+      "description": "A measure of the area covered by sea ice in polar regions, often used as an indicator of climate change",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.712787664385348
+    },
+    {
+      "name": "RCPs",
+      "label": "project",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future climate change based on different levels of greenhouse gas emissions",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5611590511898081
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario within the RCPs framework, representing a future with significant climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6718358479515674
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A medium-emissions scenario within the RCPs framework, representing a future with moderate climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6240221601679454
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A low-emissions scenario within the RCPs framework, representing a future with minimal climate change",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.651663130227531
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "A measure of the energy imbalance in the Earth's climate system, often used to quantify the effect of greenhouse gases on climate change",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7961267331581107
+    },
+    {
+      "name": "global temperature increase",
+      "label": "variable",
+      "description": "A measure of the change in the Earth's average surface temperature, often used as an indicator of climate change",
+      "uuid": "3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648",
+      "score": 0.5396798549215966
+    },
+    {
+      "name": "Bering Sea",
+      "label": "location",
+      "description": "A marginal sea of the Pacific Ocean, located between Asia and North America, known for its role in global ocean circulation and climate regulation",
+      "uuid": "d85ae1ed-4b5f-440d-aaf0-7f9d605fec3b",
+      "score": 0.8478756813329825
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    }
+  ],
+  "(49157, 51858)": [
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A climate scenario representing a high greenhouse gas emissions pathway, leading to significant global warming by the end of the century",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6777402460642596
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A climate scenario representing a low greenhouse gas emissions pathway, with decreasing CO2 concentrations by the end of the century",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.671666874809766
+    },
+    {
+      "name": "Bering Sea",
+      "label": "location",
+      "description": "A marginal sea of the Pacific Ocean, located between Russia and Alaska, known for its influence on regional climate patterns",
+      "uuid": "d85ae1ed-4b5f-440d-aaf0-7f9d605fec3b",
+      "score": 0.7888134398122667
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located north of the equator, playing a significant role in global ocean circulation and climate variability",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7729352655508799
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, characterized by cold temperatures, ice coverage, and unique ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7609464592489367
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An island in the North Atlantic, known for its ice sheet and influence on global sea levels",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.714646433417117
+    },
+    {
+      "name": "Canadian archipelago",
+      "label": "location",
+      "description": "A group of islands in the Arctic Ocean, north of Canada, known for its unique ecosystems and climate conditions",
+      "uuid": "cbd0d3aa-ef63-4920-bd0d-75ca27cf6066",
+      "score": 0.7565899600430553
+    },
+    {
+      "name": "Bering Strait",
+      "label": "location",
+      "description": "A narrow waterway connecting the Pacific and Arctic Oceans, separating Asia and North America",
+      "uuid": "bd16fdb1-ead7-41bc-981b-9ed725dd8f7f",
+      "score": 0.7604110165601139
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, characterized by distinct seasonal patterns and climate conditions",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7530140343214543
+    },
+    {
+      "name": "CO 2 concentrations",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, a key factor influencing global climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.600246711691588
+    },
+    {
+      "name": "Heat wave intensity",
+      "label": "variable",
+      "description": "A measure of the severity of heat waves, defined as the average minimum temperature during the warmest three consecutive nights of the year",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.5705654979284712
+    },
+    {
+      "name": "Arctic sea ice",
+      "label": "variable",
+      "description": "The extent and thickness of sea ice in the Arctic region, an important indicator of climate change",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.6401778724640806
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a comprehensive climate model used for simulating and predicting Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7944114191838518
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "sulfate aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that reflect sunlight and influence global climate patterns",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.6459435947628802
+    },
+    {
+      "name": "average minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded during a specific period, used to define heat wave intensity",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.5330920187775249
+    }
+  ],
+  "(51313, 54071)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a comprehensive climate model used for simulating Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7983087745077595
+    },
+    {
+      "name": "sulfate aerosols",
+      "label": "variable",
+      "description": "A type of atmospheric aerosol that affects Earth's climate by reflecting sunlight and influencing cloud formation",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.6309576614828833
+    },
+    {
+      "name": "volcanoes",
+      "label": "natural hazard",
+      "description": "Volcanic eruptions that can impact global climate patterns by releasing ash and aerosols into the atmosphere",
+      "uuid": "78c47e38-e842-4e31-81b2-44f44c52c692",
+      "score": 0.5738243373936801
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that aims to limit global warming to below 2\u00b0C by reducing greenhouse gas emissions",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6459382061682314
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that aims to stabilize greenhouse gas concentrations at a level that limits global warming to 2\u00b0C above pre-industrial levels",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5825216444332046
+    },
+    {
+      "name": "RCP6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that aims to stabilize greenhouse gas concentrations at a level that limits global warming to 2\u00b0C above pre-industrial levels",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.5773004209672172
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes high greenhouse gas emissions and leads to significant global warming",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6736937136853274
+    },
+    {
+      "name": "black carbon aerosols",
+      "label": "variable",
+      "description": "A type of atmospheric aerosol that absorbs sunlight and contributes to global warming",
+      "uuid": "9c0288cc-864d-40f7-93af-6df413b404f5",
+      "score": 0.6773636594244378
+    },
+    {
+      "name": "organic carbon",
+      "label": "variable",
+      "description": "A type of carbon compound found in the atmosphere, influencing climate and air quality",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6755264137764504
+    }
+  ],
+  "(53738, 56459)": [
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used for simulating and predicting climate change",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7942908992967711
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A scenario representing a low greenhouse gas emissions pathway, used in climate modeling to study the effects of reduced emissions on climate change",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6814299823293775
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario representing a medium greenhouse gas emissions pathway, used in climate modeling to study the effects of moderate emissions on climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6326531721528164
+    },
+    {
+      "name": "RCP6.0",
+      "label": "experiment",
+      "description": "A scenario representing a medium-high greenhouse gas emissions pathway, used in climate modeling to study the effects of moderate to high emissions on climate change",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6397516025523492
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario representing a high greenhouse gas emissions pathway, used in climate modeling to study the effects of high emissions on climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6840481275331675
+    },
+    {
+      "name": "MOC",
+      "label": "ocean circulation",
+      "description": "The Meridional Overturning Circulation, a major ocean current that plays a key role in global climate regulation",
+      "uuid": "d0c16581-6951-4e8d-a0c1-97e9fcaa031a",
+      "score": 0.5170089478239723
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located north of the equator, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.765542975374123
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, characterized by cold temperatures, sea ice, and unique climate conditions",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7517785430149555
+    },
+    {
+      "name": "Antarctic",
+      "label": "location",
+      "description": "The region around the South Pole, characterized by cold temperatures, sea ice, and unique climate conditions",
+      "uuid": "9f36c803-a972-4191-a345-faad9f6cf813",
+      "score": 0.672336188695491
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The large bodies of saltwater that cover most of the Earth's surface, playing a crucial role in global climate regulation",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.7275205214377947
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the western United States, known for its diverse climate and geography",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6532326746584319
+    },
+    {
+      "name": "Nevada",
+      "label": "location",
+      "description": "A state in the western United States, known for its arid desert climate",
+      "uuid": "2bdea9ad-43c4-4559-a156-6dad5d9ba137",
+      "score": 0.7094968679039552
+    },
+    {
+      "name": "National Science Foundation",
+      "label": "provider",
+      "description": "An American government agency that supports scientific research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.7032168680021477
+    },
+    {
+      "name": "NCAR",
+      "label": "provider",
+      "description": "The National Center for Atmospheric Research, an American research institution focused on atmospheric and climate science",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.7657014097085555
+    },
+    {
+      "name": "Climate Simulation Laboratory",
+      "label": "platform",
+      "description": "A research facility at NCAR, providing computing resources for climate modeling and simulation",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.5204446567399607
+    },
+    {
+      "name": "Heat wave intensity",
+      "label": "variable",
+      "description": "A measure of the severity of heat waves, often used to study climate change impacts",
+      "uuid": "079e6699-efbf-4358-9047-b668b459fc22",
+      "score": 0.6123903600791953
+    },
+    {
+      "name": "Precipitation intensity",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation that falls in a given area, often used to study climate change impacts",
+      "uuid": "789939a6-3cd5-46f3-bdfd-5cdd6a012500",
+      "score": 0.5767309679907333
+    },
+    {
+      "name": "Arctic sea ice concentration",
+      "label": "variable",
+      "description": "A measure of the amount of sea ice in the Arctic region, often used to study climate change impacts",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.7373164554431064
+    },
+    {
+      "name": "sea ice concentration",
+      "label": "variable",
+      "description": "A measure of the amount of sea ice in a given area, often used to study climate change impacts",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.8023648484096456
+    }
+  ],
+  "(56131, 56459)": [
+    {
+      "name": "National Science Foundation",
+      "label": "provider",
+      "description": "An American government agency that supports scientific and engineering research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.6994237591903575
+    },
+    {
+      "name": "NCAR",
+      "label": "provider",
+      "description": "The National Center for Atmospheric Research, a research institution focused on understanding the Earth's atmosphere and climate system",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.7699240988073308
+    },
+    {
+      "name": "Climate Simulation Laboratory",
+      "label": "platform",
+      "description": "A research facility providing computational resources for climate modeling and simulation",
+      "uuid": "91294ff2-2621-4976-98c7-b159a056d6f9",
+      "score": 0.5096613969547362
+    }
+  ]
+}

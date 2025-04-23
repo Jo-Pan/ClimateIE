@@ -1,0 +1,676 @@
+{
+  "(0, 2573)": [
+    {
+      "name": "poultry farms",
+      "label": "location",
+      "description": "Agricultural facilities where poultry, such as chickens, are raised for meat or egg production",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.513838528030214
+    },
+    {
+      "name": "runoff water",
+      "label": "variable",
+      "description": "Water that flows over or through the soil on poultry farms, potentially carrying contaminants",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5537735572040478
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water that collects on the surface of the earth, such as in rivers, lakes, or ponds, and can be affected by runoff from poultry farms",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6188835302344033
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The outermost solid layer of the earth, which can be affected by contaminants from poultry farms",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5416320815111653
+    }
+  ],
+  "(2069, 4943)": [
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water on the surface of the Earth, including rivers, lakes, and oceans, that can be contaminated with pollutants and pathogens",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.683086278597411
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, that can be contaminated with pollutants and pathogens",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6339488745719889
+    },
+    {
+      "name": "Netherlands",
+      "label": "location",
+      "description": "A country in Europe where studies have been conducted on the prevalence of antibiotic-resistant bacteria",
+      "uuid": "c4ff980e-6edd-400f-9c99-951fa0d0c887",
+      "score": 0.53609148546485
+    },
+    {
+      "name": "poultry",
+      "label": "platform",
+      "description": "Domesticated birds, such as chickens, that can carry antibiotic-resistant bacteria",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5465954810506526
+    }
+  ],
+  "(4454, 7478)": [
+    {
+      "name": "poultry",
+      "label": "variable",
+      "description": "Domesticated birds, such as chickens and turkeys, that can carry ESBL-producing E. coli",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.539576144117548
+    },
+    {
+      "name": "animal faeces",
+      "label": "variable",
+      "description": "The waste products of animals, which can contain ESBL-producing E. coli",
+      "uuid": "3c1c65c3-e1ef-4163-9695-c39ff7fb48da",
+      "score": 0.5220527596226023
+    },
+    {
+      "name": "wastewater",
+      "label": "variable",
+      "description": "Water that has been used and contains waste products, including ESBL-producing E. coli",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5349745272834935
+    },
+    {
+      "name": "wastewater treatment plants",
+      "label": "provider",
+      "description": "Facilities that treat wastewater to remove contaminants, including ESBL-producing E. coli",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5005314827417958
+    },
+    {
+      "name": "sewage overflows",
+      "label": "variable",
+      "description": "The release of untreated wastewater into the environment, which can contain ESBL-producing E. coli",
+      "uuid": "207da091-2cd5-49a7-950e-91a164e02637",
+      "score": 0.6881466422117423
+    },
+    {
+      "name": "animal manure",
+      "label": "variable",
+      "description": "The waste products of animals, which can be used as fertilizer and contain ESBL-producing E. coli",
+      "uuid": "3c1c65c3-e1ef-4163-9695-c39ff7fb48da",
+      "score": 0.613787754855035
+    },
+    {
+      "name": "air",
+      "label": "variable",
+      "description": "The mixture of gases that surrounds the Earth, which can contain ESBL-producing E. coli",
+      "uuid": "dc8bbde4-6d14-44b9-937e-730925d40c0a",
+      "score": 0.5795524154077186
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, which can contain ESBL-producing E. coli",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5644418241335074
+    }
+  ],
+  "(6938, 9544)": [
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water on the surface of the earth, including rivers, lakes, and ponds, which can be contaminated with antibiotic-resistant bacteria",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6383073759248964
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the earth's surface, which can harbor antibiotic-resistant bacteria",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5738314383073123
+    },
+    {
+      "name": "air",
+      "label": "location",
+      "description": "The atmosphere surrounding the earth, which can be contaminated with antibiotic-resistant bacteria",
+      "uuid": "78533b60-f7e2-4882-bd57-5d5049980abf",
+      "score": 0.5533270879476161
+    },
+    {
+      "name": "poultry faeces",
+      "label": "variable",
+      "description": "The waste products of poultry, which can contain antibiotic-resistant bacteria",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.518053611061038
+    }
+  ],
+  "(9174, 11749)": [
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "A body of water on the surface of the Earth, such as a river, lake, or ocean, that can be affected by various environmental factors>",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7069686780854514
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, that can be influenced by agricultural activities>",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6464646267150239
+    },
+    {
+      "name": "dust",
+      "label": "location",
+      "description": "A collection of fine particles that are suspended in the air or deposited on surfaces, often originating from agricultural or environmental sources>",
+      "uuid": "042e723a-9d12-4eff-ab5d-334171182d5c",
+      "score": 0.5349245341360725
+    },
+    {
+      "name": "air",
+      "label": "location",
+      "description": "The gaseous mixture that surrounds the Earth, which can be affected by various environmental factors, including agricultural activities>",
+      "uuid": "a8d070ea-9ffd-4dcc-bb78-799e20f16de8",
+      "score": 0.6372515573471786
+    },
+    {
+      "name": "poultry faeces",
+      "label": "variable",
+      "description": "The waste products of poultry, which can contain bacteria and other microorganisms that can impact environmental and human health>",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5379733477154671
+    },
+    {
+      "name": "wastewater",
+      "label": "location",
+      "description": "Water that has been used or contaminated, often containing pollutants or microorganisms, and requiring treatment before disposal>",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5823429956590167
+    }
+  ],
+  "(11361, 13719)": [
+    {
+      "name": "cattle",
+      "label": "animal",
+      "description": "Domesticated mammals raised for meat, milk, or other products",
+      "uuid": "33e2e026-e40b-4932-95a9-b2ca1a7aa407",
+      "score": 0.5567139296715138
+    },
+    {
+      "name": "barns",
+      "label": "location",
+      "description": "Structures used to house farm animals or store equipment",
+      "uuid": "d53e1951-fb68-4ad8-8725-d19c10751da5",
+      "score": 0.5239058522964991
+    },
+    {
+      "name": "dust",
+      "label": "variable",
+      "description": "A type of particulate matter that can be found in the air or on surfaces",
+      "uuid": "042e723a-9d12-4eff-ab5d-334171182d5c",
+      "score": 0.5161845447575348
+    },
+    {
+      "name": "air",
+      "label": "variable",
+      "description": "The mixture of gases that surrounds the Earth",
+      "uuid": "dc8bbde4-6d14-44b9-937e-730925d40c0a",
+      "score": 0.6404485956304213
+    },
+    {
+      "name": "laboratory",
+      "label": "location",
+      "description": "A facility used for scientific research and experimentation",
+      "uuid": "3cbb9f17-ddb1-48d3-a507-786887e485af",
+      "score": 0.655780516638147
+    }
+  ],
+  "(13330, 15826)": [
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water found on the surface of the Earth, such as in rivers, lakes, or oceans",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7302692982292643
+    }
+  ],
+  "(17027, 19385)": [
+    {
+      "name": "GenBank database",
+      "label": "platform",
+      "description": "A comprehensive online database of publicly available DNA sequences, providing a resource for researchers to study and compare genetic information",
+      "uuid": "5b8777e5-e960-4b1e-99b1-aa5ca309c319",
+      "score": 0.6946686937164265
+    },
+    {
+      "name": "PCR-products",
+      "label": "variable",
+      "description": "The resulting DNA fragments from Polymerase Chain Reaction, used for further analysis such as sequencing",
+      "uuid": "7b989ab0-eaed-4698-87d8-f915c505b076",
+      "score": 0.534602511898554
+    }
+  ],
+  "(20986, 23440)": [
+    {
+      "name": "poultry faeces",
+      "label": "location",
+      "description": "The feces of domesticated birds, such as chickens and turkeys",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5189483500899661
+    }
+  ],
+  "(23035, 25608)": [
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water on the surface of the earth, such as in rivers, lakes, or oceans",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7316037493367891
+    }
+  ],
+  "(25133, 27588)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The outermost solid layer of the Earth's surface, consisting of mineral and organic matter",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6039253681210007
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water on or near the surface of the Earth, including rivers, lakes, and oceans",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7455087785384726
+    },
+    {
+      "name": "poultry faeces",
+      "label": "variable",
+      "description": "Waste material from poultry farms",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5068776626751069
+    },
+    {
+      "name": "wastewater",
+      "label": "variable",
+      "description": "Water that has been used and is no longer suitable for its original purpose",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5579958784743781
+    }
+  ],
+  "(27203, 29488)": [
+    {
+      "name": "poultry farm",
+      "label": "location",
+      "description": "A type of farm that raises poultry, such as chickens or turkeys, for meat or eggs",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5039612007437513
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The outermost layer of the Earth's surface, consisting of a mixture of mineral and organic matter",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6127640549034364
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water that is found on the surface of the Earth, such as in rivers, lakes, or oceans",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7217507972783034
+    },
+    {
+      "name": "wastewater",
+      "label": "variable",
+      "description": "Water that has been used and is no longer clean",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5610688995047959
+    }
+  ],
+  "(29104, 31272)": [
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water bodies on the surface of the Earth, including lakes, rivers, and oceans",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7509508056535372
+    },
+    {
+      "name": "poultry faeces",
+      "label": "variable",
+      "description": "Waste material from poultry farms",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5068776626751069
+    }
+  ],
+  "(30880, 33053)": [
+    {
+      "name": "poultry faeces",
+      "label": "location",
+      "description": "The waste material from poultry, which can contain bacteria and other microorganisms",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5055887884435484
+    }
+  ],
+  "(34748, 37315)": [
+    {
+      "name": "poultry faeces",
+      "label": "variable",
+      "description": "The waste products of poultry, which can contain bacteria and other microorganisms",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5295702222225798
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water that is on the surface of the earth, including lakes, rivers, and ponds",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7115604640039727
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the earth's surface, consisting of a mixture of mineral and organic matter",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6285912173939506
+    }
+  ],
+  "(36876, 39470)": [
+    {
+      "name": "run-off gullies",
+      "label": "location",
+      "description": "A type of environmental matrix where water flows over land",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5142635093347979
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "A type of environmental matrix where water is present on the surface",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6535968396748775
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "A type of environmental matrix consisting of dirt and organic matter",
+      "uuid": "fb27559f-a2af-4fb5-960d-4635e13fecea",
+      "score": 0.6025909351608256
+    },
+    {
+      "name": "cattle",
+      "label": "provider",
+      "description": "A type of farm animal",
+      "uuid": "33e2e026-e40b-4932-95a9-b2ca1a7aa407",
+      "score": 0.5415647011468699
+    },
+    {
+      "name": "dogs",
+      "label": "provider",
+      "description": "A type of domesticated animal",
+      "uuid": "8d01f599-3a98-44b9-889f-43df92386d12",
+      "score": 0.5393060584196882
+    }
+  ],
+  "(39133, 41616)": [
+    {
+      "name": "poultry farms",
+      "label": "location",
+      "description": "Agricultural establishments where poultry, such as chickens, are raised for meat or egg production",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5112814369280658
+    },
+    {
+      "name": "Netherlands",
+      "label": "location",
+      "description": "A country in Northwestern Europe where the study was conducted",
+      "uuid": "c4ff980e-6edd-400f-9c99-951fa0d0c887",
+      "score": 0.6452343780771256
+    },
+    {
+      "name": "air",
+      "label": "variable",
+      "description": "The gaseous substance surrounding the poultry",
+      "uuid": "78533b60-f7e2-4882-bd57-5d5049980abf",
+      "score": 0.5198557173241415
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The ground or earth in which plants are grown",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5716388267630991
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water that collects on the surface of the earth, such as in ponds or lakes",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6788784566352362
+    }
+  ],
+  "(41135, 44103)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The ground or earth in which plants grow, which can harbor bacteria and other microorganisms",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5644546329282136
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water that collects on the surface of the earth, such as in rivers, lakes, and oceans",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.70200612133753
+    },
+    {
+      "name": "poultry faeces",
+      "label": "variable",
+      "description": "The waste produced by poultry, which can contain bacteria",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5107924666073741
+    }
+  ],
+  "(43720, 46592)": [
+    {
+      "name": "poultry faeces",
+      "label": "location",
+      "description": "The waste material produced by poultry, which can contain bacteria and other microorganisms",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5087158219177189
+    },
+    {
+      "name": "farm environment",
+      "label": "location",
+      "description": "The surrounding area of a farm, including fields, barns, and other structures",
+      "uuid": "d53e1951-fb68-4ad8-8725-d19c10751da5",
+      "score": 0.5237032127130248
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water that collects on the surface of the earth, such as in rivers, lakes, or ponds",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6896507407293514
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of earth, consisting of a mixture of mineral and organic matter",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6235099709685239
+    },
+    {
+      "name": "aquatic environment",
+      "label": "location",
+      "description": "The environment in which water is the primary component, such as oceans, rivers, or lakes",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6006729817356854
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6818941316610769
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the amount of heat energy in a substance or environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6144931973516188
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or basicity of a substance or environment",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.7367222953135192
+    }
+  ],
+  "(46083, 48991)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, which can support microbial life",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6388155642950342
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, which can influence microbial growth and survival",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5364346963011725
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or basicity of a solution, which can affect microbial growth and survival",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.6543079998892525
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, which can affect microbial growth and survival",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.5997163155833439
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required by microorganisms for growth and survival, such as carbon, nitrogen, and phosphorus",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.6179779732092063
+    },
+    {
+      "name": "aquatic environment",
+      "label": "location",
+      "description": "A environment characterized by the presence of water, such as rivers, lakes, and oceans",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6218751244108514
+    },
+    {
+      "name": "poultry faeces",
+      "label": "location",
+      "description": "The waste products of poultry, which can contain microorganisms and contaminants",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5264782967042104
+    },
+    {
+      "name": "sediments",
+      "label": "location",
+      "description": "The solid material that settles at the bottom of a body of water, which can harbor microorganisms and contaminants",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6409966359679049
+    }
+  ],
+  "(48585, 51582)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The outermost solid layer of the Earth's surface, consisting of mineral and organic matter",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6039253681210007
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water that collects on the surface of the Earth, including lakes, rivers, and oceans",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7120787171270787
+    },
+    {
+      "name": "poultry farms",
+      "label": "location",
+      "description": "Agricultural facilities where domesticated birds, such as chickens and turkeys, are raised for meat and egg production",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.5324642865725739
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, influencing the growth and survival of microorganisms",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5434431968121202
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, affecting the growth and survival of microorganisms",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6117823827116599
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required for the growth and survival of microorganisms, such as nitrogen and phosphorus",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.6268243114261206
+    }
+  ],
+  "(51070, 53475)": [
+    {
+      "name": "poultry farms",
+      "label": "location",
+      "description": "Agricultural facilities where chickens are raised for meat or egg production",
+      "uuid": "d3ce1677-f3a8-452e-91c8-0ff80e6a3f09",
+      "score": 0.519985923458998
+    },
+    {
+      "name": "air",
+      "label": "variable",
+      "description": "The gaseous substance surrounding the Earth, which can also be a source of bacterial dissemination",
+      "uuid": "78533b60-f7e2-4882-bd57-5d5049980abf",
+      "score": 0.5538990642886404
+    },
+    {
+      "name": "wastewater treatment plants",
+      "label": "location",
+      "description": "Facilities that treat and manage wastewater",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5552654069634011
+    },
+    {
+      "name": "aquatic environment",
+      "label": "location",
+      "description": "The environment that includes water and aquatic ecosystems",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6180392098699647
+    },
+    {
+      "name": "animal manure",
+      "label": "variable",
+      "description": "Waste produced by animals, which can contain bacteria and contribute to environmental contamination",
+      "uuid": "3c1c65c3-e1ef-4163-9695-c39ff7fb48da",
+      "score": 0.6521306663305536
+    }
+  ]
+}

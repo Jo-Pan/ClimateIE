@@ -1,0 +1,1522 @@
+{
+  "(0, 2978)": [
+    {
+      "name": "CMIP-5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8075261563384626
+    },
+    {
+      "name": "CESM1-WACCM",
+      "label": "model",
+      "description": "A climate model developed by the National Center for Atmospheric Research, incorporating interactive chemistry and resolving the stratosphere",
+      "uuid": "3660e2aa-1e70-4fdc-9369-b588e89a8fe7",
+      "score": 0.765200979154798
+    },
+    {
+      "name": "MIROC-ESM-CHEM",
+      "label": "model",
+      "description": "A climate model developed by the Japanese Meteorological Research Institute, incorporating interactive chemistry and resolving the stratosphere",
+      "uuid": "5948a759-4da8-4c75-8f9c-d11548fe31c5",
+      "score": 0.761475906301705
+    },
+    {
+      "name": "MRI-ESM1",
+      "label": "model",
+      "description": "A climate model developed by the Meteorological Research Institute of Japan, incorporating interactive chemistry and resolving the stratosphere",
+      "uuid": "dd792518-3713-4ec7-bb0c-73e5bc7e54d9",
+      "score": 0.7889441703699911
+    },
+    {
+      "name": "coupled chemistry climate models",
+      "label": "model",
+      "description": "Climate models that incorporate interactive chemistry, allowing for the simulation of chemical processes and their impact on climate",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6712241340093833
+    },
+    {
+      "name": "stratospheric ozone",
+      "label": "variable",
+      "description": "A measure of the concentration of ozone in the stratosphere, an important factor in protecting the Earth from ultraviolet radiation",
+      "uuid": "2dbbd81a-8a15-4748-b11c-700c3924860a",
+      "score": 0.5403198110080256
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the atmosphere, an important factor in climate studies",
+      "uuid": "a32cbebb-0f17-41a6-9bf7-f3b111e4c56e",
+      "score": 0.6671141345131713
+    },
+    {
+      "name": "zonal wind",
+      "label": "variable",
+      "description": "A measure of the wind speed in the east-west direction, an important factor in atmospheric circulation and climate",
+      "uuid": "3f5f93ef-2c60-406c-800c-ee9b058f6f66",
+      "score": 0.5181582099309836
+    },
+    {
+      "name": "upper stratosphere",
+      "label": "location",
+      "description": "The upper part of the stratosphere, extending from approximately 30-50 km altitude",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6261088315855129
+    },
+    {
+      "name": "ERA Interim Reanalysis",
+      "label": "project",
+      "description": "A reanalysis project that provides a consistent and comprehensive dataset of atmospheric conditions, including temperature, humidity, and wind",
+      "uuid": "32658d24-ab47-41b5-9614-2becccde8e55",
+      "score": 0.7473506404144576
+    },
+    {
+      "name": "satellite ozone profile data sets",
+      "label": "dataset",
+      "description": "A collection of data from satellite observations of ozone profiles, used to estimate stratospheric ozone concentrations",
+      "uuid": "959878c8-b02a-4bb8-ad10-96ae31ebe59f",
+      "score": 0.593422083588244
+    },
+    {
+      "name": "SPARC-CCMVal",
+      "label": "provider",
+      "description": "A research initiative focused on the evaluation and improvement of chemistry-climate models",
+      "uuid": "25224e7a-c3e9-4545-a26a-0c22e87ea5f2",
+      "score": 0.586899111140264
+    },
+    {
+      "name": "NRL model",
+      "label": "model",
+      "description": "A model developed by the Naval Research Laboratory, used to simulate solar spectral irradiance variation",
+      "uuid": "17d11f3c-9ba7-4ac3-b8e6-84def57dc779",
+      "score": 0.5059231352351816
+    },
+    {
+      "name": "solar spectral irradiance",
+      "label": "variable",
+      "description": "A measure of the amount of solar energy received by the Earth, varying over the 11-year solar cycle",
+      "uuid": "b7a45c57-b652-469a-a3f2-8d38555bf478",
+      "score": 0.6670852387601602
+    }
+  ],
+  "(2495, 5203)": [
+    {
+      "name": "SPARC-CCMVal",
+      "label": "project",
+      "description": "A project that analyzed solar cycle signals of ozone and temperature in a series of simulations of coupled chemistry climate models",
+      "uuid": "25224e7a-c3e9-4545-a26a-0c22e87ea5f2",
+      "score": 0.6236709399855339
+    },
+    {
+      "name": "coupled chemistry climate models",
+      "label": "model",
+      "description": "General circulation models with coupled interactive chemistry used to simulate and predict climate and atmospheric chemistry",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6454373374214355
+    },
+    {
+      "name": "sea surface temperatures",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, an important factor in climate and weather patterns",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7533658184937222
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas in the Earth's atmosphere, important for protecting life from ultraviolet radiation and influencing climate",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6388775567737308
+    },
+    {
+      "name": "tropical latitudes",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of sunlight",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.6307950208269407
+    },
+    {
+      "name": "solar cycle",
+      "label": "natural hazard",
+      "description": "The periodic change in the Sun's activity, including changes in the number of sunspots and the amount of solar radiation emitted",
+      "uuid": "2e83362e-d8f8-4bca-83fd-bae360ebe94b",
+      "score": 0.5867561533943123
+    },
+    {
+      "name": "Pinatubo",
+      "label": "weather event",
+      "description": "A major volcanic eruption that occurred in 1991, affecting global climate patterns",
+      "uuid": "7c9c5438-22d0-4dd6-b0e1-2698b4aee997",
+      "score": 0.5575471288780309
+    },
+    {
+      "name": "CMIP-5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8075261563384626
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "The layer of the atmosphere above the troposphere, extending from about 10 to 50 kilometers above the Earth's surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7636690530570474
+    },
+    {
+      "name": "lower stratosphere",
+      "label": "location",
+      "description": "The lower part of the stratosphere, extending from about 10 to 20 kilometers above the Earth's surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6079396391394943
+    },
+    {
+      "name": "volcanic eruptions",
+      "label": "natural hazard",
+      "description": "The release of hot ash, gas, and rock from a volcano, affecting global climate patterns",
+      "uuid": "06c1281f-e306-4511-bdab-ed6c0694f0f9",
+      "score": 0.5921650405886829
+    },
+    {
+      "name": "coupled climate models",
+      "label": "model",
+      "description": "Computational representations of climate systems that include interactions between atmosphere, oceans, land, and ice",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.7611423377983934
+    }
+  ],
+  "(4670, 7262)": [
+    {
+      "name": "coupled climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.7466167844939195
+    },
+    {
+      "name": "SORCE Total Irradiance Monitor",
+      "label": "instrument",
+      "description": "An instrument used to measure the total solar irradiance, a critical component in understanding Earth's energy balance",
+      "uuid": "9bb2d7ab-a86d-49e7-8a84-e036ca793d48",
+      "score": 0.6331958740547838
+    },
+    {
+      "name": "GFDL-CM3",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating and predicting Earth's climate system",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.8086877735834073
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "A layer of the Earth's atmosphere, extending from about 10 to 50 km altitude, characterized by a stable temperature profile and important for ozone chemistry",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7752273448338762
+    },
+    {
+      "name": "solar spectral irradiance variations",
+      "label": "variable",
+      "description": "Changes in the amount of solar energy received by the Earth, which can impact climate and atmospheric chemistry",
+      "uuid": "33f0ec3e-cd6d-498c-9468-749741fc12e2",
+      "score": 0.5809155309688597
+    },
+    {
+      "name": "thermosphere",
+      "label": "location",
+      "description": "The outermost layer of the Earth's atmosphere, extending from about 80 to 600 km altitude, where the temperature increases with altitude",
+      "uuid": "0dc6a186-8da6-4a88-bb6b-3cc3343d2599",
+      "score": 0.7658582661116414
+    },
+    {
+      "name": "geomagnetic Kp index",
+      "label": "variable",
+      "description": "A measure of the level of geomagnetic activity, used to quantify the impact of solar and space weather on the Earth's magnetic field",
+      "uuid": "40386eea-beb0-4b83-906b-75c6bfa24b73",
+      "score": 0.7318510942319121
+    },
+    {
+      "name": "GISS models",
+      "label": "model",
+      "description": "Climate models developed by the Goddard Institute for Space Studies, used for simulating and predicting Earth's climate system",
+      "uuid": "b34605dc-d488-4596-8545-d3b37c5d126f",
+      "score": 0.6762177360393112
+    },
+    {
+      "name": "MIROC-ESM-CHEM",
+      "label": "model",
+      "description": "A climate model developed by the University of Tokyo, used for simulating and predicting Earth's climate system with a focus on chemistry",
+      "uuid": "5948a759-4da8-4c75-8f9c-d11548fe31c5",
+      "score": 0.7548542267312224
+    },
+    {
+      "name": "CESM1-WACCM",
+      "label": "model",
+      "description": "A climate model developed by the National Center for Atmospheric Research, used for simulating and predicting Earth's climate system with a focus on chemistry",
+      "uuid": "3660e2aa-1e70-4fdc-9369-b588e89a8fe7",
+      "score": 0.7905362041577553
+    },
+    {
+      "name": "total solar irradiance",
+      "label": "variable",
+      "description": "The total amount of solar energy received by the Earth, a critical component in understanding Earth's energy balance",
+      "uuid": "9bb2d7ab-a86d-49e7-8a84-e036ca793d48",
+      "score": 0.7020008637691002
+    },
+    {
+      "name": "QBO",
+      "label": "ocean circulation",
+      "description": "The Quasi-Biennial Oscillation, a periodic fluctuation in the atmospheric circulation of the equatorial stratosphere",
+      "uuid": "ea64fa04-2822-4cc5-9014-f18ce1a1ef23",
+      "score": 0.68559541131755
+    },
+    {
+      "name": "latitude",
+      "label": "location",
+      "description": "The angular distance of a place north or south of the Earth's equator",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.7000532426134367
+    },
+    {
+      "name": "longitude",
+      "label": "location",
+      "description": "The angular distance of a place east or west of the prime meridian",
+      "uuid": "67e9c8dd-8675-41d6-b81c-fef392de682d",
+      "score": 0.6260334999236107
+    }
+  ],
+  "(6871, 9290)": [
+    {
+      "name": "CESM1-WACCM",
+      "label": "model",
+      "description": "A climate model developed by the National Center for Atmospheric Research, used for simulating Earth's climate system",
+      "uuid": "3660e2aa-1e70-4fdc-9369-b588e89a8fe7",
+      "score": 0.7891126157271348
+    },
+    {
+      "name": "GISS models",
+      "label": "model",
+      "description": "Climate models developed by the Goddard Institute for Space Studies, used for simulating and predicting Earth's climate system",
+      "uuid": "b34605dc-d488-4596-8545-d3b37c5d126f",
+      "score": 0.6762177360393112
+    },
+    {
+      "name": "MRI-ESM1",
+      "label": "model",
+      "description": "A climate model developed by the Meteorological Research Institute, used for simulating Earth's climate system",
+      "uuid": "dd792518-3713-4ec7-bb0c-73e5bc7e54d9",
+      "score": 0.8109378228811378
+    },
+    {
+      "name": "MIROC-ESM-CHEM",
+      "label": "model",
+      "description": "A climate model developed by the University of Tokyo and the Japan Agency for Marine-Earth Science and Technology, used for simulating Earth's climate system",
+      "uuid": "5948a759-4da8-4c75-8f9c-d11548fe31c5",
+      "score": 0.7634757793503181
+    },
+    {
+      "name": "GFDL-CM3",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating Earth's climate system",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.803371135608054
+    },
+    {
+      "name": "GISS-E2-R",
+      "label": "model",
+      "description": "A climate model developed by the Goddard Institute for Space Studies, used for simulating and predicting Earth's climate system",
+      "uuid": "31c87a86-4e36-4e12-9402-4c6744e7fb05",
+      "score": 0.7958071959859596
+    },
+    {
+      "name": "GISS-E2-H",
+      "label": "model",
+      "description": "A climate model developed by the Goddard Institute for Space Studies, used for simulating and predicting Earth's climate system",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.7994537640480125
+    },
+    {
+      "name": "CMIP-5 archive",
+      "label": "project",
+      "description": "A framework for comparing different climate models to improve climate predictions, which includes a dataset archive",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.6927381661792551
+    },
+    {
+      "name": "6 coupled climate models",
+      "label": "project",
+      "description": "A set of climate models that simulate the interactions between the atmosphere, oceans, and land surfaces",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6765858006141968
+    },
+    {
+      "name": "solar UV radiation",
+      "label": "variable",
+      "description": "A measure of the ultraviolet radiation emitted by the sun, which affects Earth's climate and atmospheric chemistry",
+      "uuid": "ebb1a6bf-b84a-4159-a304-88c82e93f032",
+      "score": 0.6490556844642017
+    },
+    {
+      "name": "middle mesosphere",
+      "label": "location",
+      "description": "A region of the atmosphere extending from approximately 50 to 85 kilometers above the Earth's surface",
+      "uuid": "8eb2ab2b-f923-47ca-9a13-f966cf11d802",
+      "score": 0.7098794694126354
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "A layer of the atmosphere extending from approximately 10 to 50 kilometers above the Earth's surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7673336672336326
+    },
+    {
+      "name": "lower stratosphere",
+      "label": "location",
+      "description": "The lower part of the stratosphere, extending from approximately 10 to 20 kilometers above the Earth's surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6073654366170265
+    },
+    {
+      "name": "volcanic aerosols",
+      "label": "variable",
+      "description": "Small particles in the atmosphere that originate from volcanic eruptions, which can affect Earth's climate",
+      "uuid": "11d6f2a7-8f2c-4753-a7b0-a72d611b2954",
+      "score": 0.5862401455345748
+    },
+    {
+      "name": "O 2 photolysis",
+      "label": "variable",
+      "description": "The process of breaking down oxygen molecules into individual atoms, which occurs in the atmosphere due to ultraviolet radiation",
+      "uuid": "0fd2b083-e65c-443b-9794-2c355ebac06b",
+      "score": 0.5308106693194196
+    },
+    {
+      "name": "latitude",
+      "label": "variable",
+      "description": "A measure of the distance north or south of the Earth's equator",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6795275899839263
+    },
+    {
+      "name": "longitude",
+      "label": "variable",
+      "description": "A measure of the distance east or west of the Earth's prime meridian",
+      "uuid": "67e9c8dd-8675-41d6-b81c-fef392de682d",
+      "score": 0.6500102834094804
+    }
+  ],
+  "(8862, 11510)": [
+    {
+      "name": "solar UV radiation",
+      "label": "variable",
+      "description": "Radiation from the sun with wavelengths shorter than visible light, influencing Earth's atmosphere and climate",
+      "uuid": "90e7fd13-2da2-4ba6-9e0c-dbecdf7c2215",
+      "score": 0.6766397290113983
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A molecule composed of three oxygen atoms, playing a crucial role in protecting life on Earth by absorbing harmful UV radiation",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6084782046190287
+    },
+    {
+      "name": "upper mesosphere",
+      "label": "location",
+      "description": "The upper part of the mesosphere, a layer of Earth's atmosphere extending from about 50 to 85 km altitude",
+      "uuid": "8eb2ab2b-f923-47ca-9a13-f966cf11d802",
+      "score": 0.637887552844964
+    },
+    {
+      "name": "middle mesosphere",
+      "label": "location",
+      "description": "The middle part of the mesosphere, a layer of Earth's atmosphere extending from about 50 to 85 km altitude",
+      "uuid": "8eb2ab2b-f923-47ca-9a13-f966cf11d802",
+      "score": 0.6797459066860784
+    },
+    {
+      "name": "satellite remote sensing measurements",
+      "label": "instrument",
+      "description": "Techniques used to collect data about the Earth's surface and atmosphere from satellites in orbit",
+      "uuid": "c38e16d1-61f9-4189-a3c9-33e2015db137",
+      "score": 0.5722500992882396
+    },
+    {
+      "name": "CMIP-5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8075261563384626
+    },
+    {
+      "name": "CESM1-WACCM",
+      "label": "model",
+      "description": "A version of the Community Earth System Model, incorporating the Whole Atmosphere Community Climate Model, used for simulating Earth's climate system",
+      "uuid": "3660e2aa-1e70-4fdc-9369-b588e89a8fe7",
+      "score": 0.7923850076477976
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A chemical element essential for life on Earth, also playing a role in atmospheric chemistry and climate processes",
+      "uuid": "90aa8838-79bd-4b28-b518-8217e863c385",
+      "score": 0.6319662422689669
+    },
+    {
+      "name": "stratopause",
+      "label": "location",
+      "description": "The boundary between the stratosphere and the mesosphere, a critical region in Earth's atmosphere influencing climate and weather patterns",
+      "uuid": "82191e97-53ba-413d-9a08-acd8b848e0b0",
+      "score": 0.7266009100966753
+    },
+    {
+      "name": "mesopause",
+      "label": "location",
+      "description": "The boundary between the mesosphere and the thermosphere, a region in Earth's atmosphere where temperature and atmospheric composition change significantly",
+      "uuid": "dacbf270-1734-4503-bab8-a32cdaff3012",
+      "score": 0.7567176538567753
+    }
+  ],
+  "(11098, 13622)": [
+    {
+      "name": "CESM1-WACCM",
+      "label": "model",
+      "description": "A version of the Community Earth System Model that includes the Whole Atmosphere Community Climate Model, used for simulating the Earth's climate system",
+      "uuid": "3660e2aa-1e70-4fdc-9369-b588e89a8fe7",
+      "score": 0.7809864168698709
+    },
+    {
+      "name": "CMIP-5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8075261563384626
+    },
+    {
+      "name": "Marsh et al. (2013)",
+      "label": "provider",
+      "description": "Authors of a scientific publication describing the CESM1-WACCM model version participating in CMIP-5",
+      "uuid": "bbbc746f-36ec-4de5-992d-3fbc3e594fe5",
+      "score": 0.6198384316084307
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas composed of three oxygen atoms, playing a crucial role in the Earth's atmosphere, particularly in the stratosphere",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6091894441999078
+    },
+    {
+      "name": "molecular oxygen",
+      "label": "variable",
+      "description": "A gas composed of two oxygen atoms, present in the Earth's atmosphere and influencing atmospheric chemistry",
+      "uuid": "61f4f3d0-7895-4cce-94e3-d249001d5ee8",
+      "score": 0.7597840644464092
+    },
+    {
+      "name": "solar visible and UV spectrum",
+      "label": "variable",
+      "description": "The range of electromagnetic radiation emitted by the Sun, including visible and ultraviolet light",
+      "uuid": "a4390c3d-cffa-43ee-8e91-49c6d49ac371",
+      "score": 0.5452242069322911
+    },
+    {
+      "name": "altitudes",
+      "label": "location",
+      "description": "The height of an object or point in relation to sea level or ground level, often used to describe atmospheric conditions",
+      "uuid": "16bfcf54-f8e1-4c8e-9bd4-a1ac06ea95a0",
+      "score": 0.6572240767705778
+    },
+    {
+      "name": "wavelengths",
+      "label": "variable",
+      "description": "The distance between two consecutive points in phase on a wave, used to describe the properties of electromagnetic radiation",
+      "uuid": "5daa972e-b47c-4050-97f1-1e628401fb97",
+      "score": 0.5299781376754997
+    },
+    {
+      "name": "UV wavelengths",
+      "label": "variable",
+      "description": "A range of electromagnetic radiation with shorter wavelengths than visible light, often used to describe the properties of ultraviolet radiation",
+      "uuid": "0f36cd66-d755-4809-ad0e-d67b1b9aff6c",
+      "score": 0.6897823035330563
+    },
+    {
+      "name": "surface albedo",
+      "label": "variable",
+      "description": "The measure of the amount of sunlight that is reflected by the Earth's surface, influencing the planet's energy balance",
+      "uuid": "5395e33c-02cb-4027-b425-e771eab13610",
+      "score": 0.7491027028437248
+    },
+    {
+      "name": "photolysis rates",
+      "label": "variable",
+      "description": "The rate at which molecules are broken down by light, often used to describe the effects of ultraviolet radiation on atmospheric chemistry",
+      "uuid": "0fd2b083-e65c-443b-9794-2c355ebac06b",
+      "score": 0.7917607695281051
+    },
+    {
+      "name": "MIROC-ESM-CHEM",
+      "label": "model",
+      "description": "A version of the Model for Interdisciplinary Research on Climate, Earth System Model, with chemistry, used for simulating the Earth's climate system",
+      "uuid": "5c2d7361-0b0a-45c7-8fc3-61a1cbf22fd9",
+      "score": 0.7619849565647798
+    }
+  ],
+  "(13125, 15756)": [
+    {
+      "name": "MRI-ESM1",
+      "label": "model",
+      "description": "A climate model developed by the Meteorological Research Institute, used for simulating and predicting Earth's climate system",
+      "uuid": "dd792518-3713-4ec7-bb0c-73e5bc7e54d9",
+      "score": 0.8151463714420882
+    },
+    {
+      "name": "GFDL-CM3",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating and predicting Earth's climate system",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.8086877735834073
+    },
+    {
+      "name": "NCAR 2-D model",
+      "label": "model",
+      "description": "A two-dimensional climate model developed by the National Center for Atmospheric Research, used for simulating and predicting atmospheric processes",
+      "uuid": "2e374269-9a02-40d0-8190-80bce1d8331c",
+      "score": 0.5825761405639629
+    },
+    {
+      "name": "CMIP-5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8075261563384626
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "A layer of the atmosphere extending from about 10 to 50 km above the Earth's surface, characterized by a stable temperature profile and important for ozone chemistry",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7802578215375825
+    },
+    {
+      "name": "upper stratosphere",
+      "label": "location",
+      "description": "The upper part of the stratosphere, extending from about 30 to 50 km above the Earth's surface, important for ozone chemistry and climate regulation",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.652727601273399
+    },
+    {
+      "name": "mesosphere",
+      "label": "location",
+      "description": "A layer of the atmosphere extending from about 50 to 85 km above the Earth's surface, characterized by decreasing temperature with altitude and important for atmospheric circulation",
+      "uuid": "8eb2ab2b-f923-47ca-9a13-f966cf11d802",
+      "score": 0.7558571618314357
+    },
+    {
+      "name": "solar UV radiation",
+      "label": "variable",
+      "description": "A component of solar radiation with wavelengths between 100 and 400 nm, important for atmospheric chemistry and climate processes",
+      "uuid": "90e7fd13-2da2-4ba6-9e0c-dbecdf7c2215",
+      "score": 0.6592774295447242
+    },
+    {
+      "name": "atmospheric species",
+      "label": "variable",
+      "description": "Chemical compounds present in the atmosphere, such as ozone, oxygen, and water vapor, influencing atmospheric chemistry and climate processes",
+      "uuid": "4cc9b4fa-5097-447f-914c-eb90820938c6",
+      "score": 0.5498255873796511
+    },
+    {
+      "name": "photolysis rates",
+      "label": "variable",
+      "description": "The rates at which molecules are broken down by light, important for atmospheric chemistry and climate processes",
+      "uuid": "0fd2b083-e65c-443b-9794-2c355ebac06b",
+      "score": 0.7881055796739866
+    },
+    {
+      "name": "absorption",
+      "label": "variable",
+      "description": "The process by which radiation is absorbed by atmospheric species, influencing atmospheric chemistry and climate processes",
+      "uuid": "061f7fd0-67af-42bf-bc9f-5a007c146f65",
+      "score": 0.6986184283342756
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A molecule composed of three oxygen atoms, important for atmospheric chemistry and climate regulation",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5816854157870122
+    },
+    {
+      "name": "water vapor",
+      "label": "variable",
+      "description": "A gaseous form of water, important for atmospheric chemistry and climate processes",
+      "uuid": "15029eb0-6342-4066-8ac9-c50f7dbfb392",
+      "score": 0.7366914224848773
+    }
+  ],
+  "(15318, 17972)": [
+    {
+      "name": "CM3",
+      "label": "model",
+      "description": "The climate model version participating in the Coupled Model Intercomparison Project Phase 5, described by Donner et al. in 2011",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.6756100443295913
+    },
+    {
+      "name": "CMIP-5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8075261563384626
+    },
+    {
+      "name": "GISS-E2-H",
+      "label": "model",
+      "description": "A climate model version participating in CMIP-5, described by Schmidt et al. in 2014, differing from GISS-E2-R in the nature of the coupled ocean model",
+      "uuid": "3a401ce2-4131-433c-811d-03f537085abc",
+      "score": 0.746152178887288
+    },
+    {
+      "name": "GISS-E2-R",
+      "label": "model",
+      "description": "A climate model version participating in CMIP-5, described by Schmidt et al. in 2014, differing from GISS-E2-H in the nature of the coupled ocean model",
+      "uuid": "31c87a86-4e36-4e12-9402-4c6744e7fb05",
+      "score": 0.7500830120073537
+    },
+    {
+      "name": "troposphere",
+      "label": "location",
+      "description": "The lowest layer of Earth's atmosphere, extending up to about 12 kilometers above the Earth's surface",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.7383341211178844
+    },
+    {
+      "name": "clouds",
+      "label": "variable",
+      "description": "Collections of water droplets or ice crystals suspended in the atmosphere, influencing Earth's climate and weather",
+      "uuid": "162e2243-3266-4999-b352-d8a1a9dc82ac",
+      "score": 0.7015494311914673
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles suspended in the atmosphere, affecting Earth's climate by influencing the amount of solar radiation that reaches the surface",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7354801496264061
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A molecule composed of three oxygen atoms, playing a crucial role in protecting life on Earth by absorbing ultraviolet radiation",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6023746352308487
+    },
+    {
+      "name": "water vapor",
+      "label": "variable",
+      "description": "The gaseous state of water, an important component of the Earth's atmosphere and a key factor in the Earth's climate system",
+      "uuid": "15029eb0-6342-4066-8ac9-c50f7dbfb392",
+      "score": 0.748245961415504
+    },
+    {
+      "name": "photolysis",
+      "label": "process",
+      "description": "The process by which molecules are broken down into simpler components by the absorption of light, often used to describe the decomposition of molecules in the atmosphere",
+      "uuid": "0fd2b083-e65c-443b-9794-2c355ebac06b",
+      "score": 0.600476504964216
+    },
+    {
+      "name": "coupled ocean model",
+      "label": "model",
+      "description": "A computational representation of the ocean's dynamics and thermodynamics, often used in conjunction with atmospheric models to simulate the Earth's climate system",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6575885704723384
+    },
+    {
+      "name": "latitudes",
+      "label": "location",
+      "description": "The angular distance of a place north or south of the Earth's equator, measured in degrees",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6534527892457166
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A chemical element essential for life on Earth, also playing a crucial role in the Earth's atmosphere",
+      "uuid": "90aa8838-79bd-4b28-b518-8217e863c385",
+      "score": 0.629354347745105
+    }
+  ],
+  "(17533, 20156)": [
+    {
+      "name": "ERA-Interim",
+      "label": "project",
+      "description": "The ECMWF Re-Analysis Interim project, providing a global atmospheric reanalysis dataset from 1979 to 2019",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.8083517070077431
+    },
+    {
+      "name": "Solar Backscattered Ultraviolet",
+      "label": "instrument",
+      "description": "An instrument on the Nimbus 7 satellite used to measure ozone concentrations in the stratosphere",
+      "uuid": "8c1e7433-7fe4-4a8f-9783-d7710eb73a9d",
+      "score": 0.6653585166587759
+    },
+    {
+      "name": "Total Ozone Mapping Spectrometer",
+      "label": "instrument",
+      "description": "An instrument on the Nimbus 7 satellite used to measure ozone concentrations in the stratosphere",
+      "uuid": "605a23e9-6d45-48dd-815f-4359f7b81627",
+      "score": 0.6416873285972378
+    },
+    {
+      "name": "Nimbus 7",
+      "label": "platform",
+      "description": "A NASA satellite launched in 1978, used for remote sensing of the Earth's atmosphere and oceans",
+      "uuid": "0af3eeb1-3339-46ad-964f-2d18dce319fe",
+      "score": 0.685640060693193
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas in the stratosphere that protects the Earth from ultraviolet radiation",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5649286676459749
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere or oceans",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6810807586926243
+    },
+    {
+      "name": "zonal winds",
+      "label": "variable",
+      "description": "The west-to-east component of wind in the atmosphere, important for understanding atmospheric circulation patterns",
+      "uuid": "df160e31-ae45-41a4-9093-a80fe5303cea",
+      "score": 0.5060303468184051
+    },
+    {
+      "name": "middle stratosphere",
+      "label": "location",
+      "description": "A region of the stratosphere, typically between 20 and 30 km altitude, characterized by a peak in ozone concentration",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6034754768011663
+    },
+    {
+      "name": "upper stratosphere",
+      "label": "location",
+      "description": "A region of the stratosphere, typically above 30 km altitude, characterized by decreasing ozone concentration with altitude",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6225726320774777
+    },
+    {
+      "name": "stratopause",
+      "label": "location",
+      "description": "The boundary between the stratosphere and the mesosphere, typically around 50 km altitude",
+      "uuid": "82191e97-53ba-413d-9a08-acd8b848e0b0",
+      "score": 0.7509834290292845
+    },
+    {
+      "name": "tropical tropopause",
+      "label": "location",
+      "description": "The boundary between the troposphere and the stratosphere in the tropics, typically around 15-20 km altitude",
+      "uuid": "c3447c90-7490-4f04-89c1-c5274ba8f8f6",
+      "score": 0.6655090312747207
+    },
+    {
+      "name": "latitudes",
+      "label": "location",
+      "description": "The angular distance north or south of the Earth's equator, used to describe geographic locations",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6541594538299175
+    },
+    {
+      "name": "altitude",
+      "label": "variable",
+      "description": "A measure of the height of an object or location above sea level",
+      "uuid": "16bfcf54-f8e1-4c8e-9bd4-a1ac06ea95a0",
+      "score": 0.6856387732029201
+    },
+    {
+      "name": "GISS models",
+      "label": "model",
+      "description": "Climate models developed by the Goddard Institute for Space Studies, used for simulating and predicting climate variability",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.6567305440534627
+    },
+    {
+      "name": "MIROC-ESM-CHEM",
+      "label": "model",
+      "description": "A climate model developed by the University of Tokyo, used for simulating and predicting climate variability",
+      "uuid": "5948a759-4da8-4c75-8f9c-d11548fe31c5",
+      "score": 0.7430473349347941
+    },
+    {
+      "name": "GFDL models",
+      "label": "model",
+      "description": "Climate models developed by the Geophysical Fluid Dynamics Laboratory, used for simulating and predicting climate variability",
+      "uuid": "87f323af-19b8-422b-9e21-f33287b37d3a",
+      "score": 0.6852265576492256
+    }
+  ],
+  "(19711, 22082)": [
+    {
+      "name": "ERA-Interim",
+      "label": "project",
+      "description": "A reanalysis dataset providing global atmospheric conditions, developed by the European Centre for Medium-Range Weather Forecasts",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.8017759167064534
+    },
+    {
+      "name": "ozone production",
+      "label": "variable",
+      "description": "The process by which ozone is formed in the atmosphere, influenced by solar radiation and other factors",
+      "uuid": "6705f256-adca-4c73-957c-d04a2d9f6833",
+      "score": 0.5766394474013526
+    },
+    {
+      "name": "solar UV variations",
+      "label": "variable",
+      "description": "Changes in the amount of ultraviolet radiation emitted by the sun, affecting atmospheric chemistry and climate",
+      "uuid": "a4390c3d-cffa-43ee-8e91-49c6d49ac371",
+      "score": 0.6251923992800719
+    },
+    {
+      "name": "lower stratosphere",
+      "label": "location",
+      "description": "The lower part of the stratosphere, a layer of the atmosphere extending from about 10 to 30 km altitude",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.609653276963278
+    },
+    {
+      "name": "GISS-E2",
+      "label": "model",
+      "description": "The Goddard Institute for Space Studies Earth System Model version E2, used for climate simulations and predictions",
+      "uuid": "31c87a86-4e36-4e12-9402-4c6744e7fb05",
+      "score": 0.765832367650157
+    },
+    {
+      "name": "wavelengths",
+      "label": "variable",
+      "description": "The distance between successive peaks or troughs of a wave, used to describe different types of electromagnetic radiation",
+      "uuid": "5daa972e-b47c-4050-97f1-1e628401fb97",
+      "score": 0.546941703915234
+    },
+    {
+      "name": "GFDL-CM3",
+      "label": "model",
+      "description": "The Geophysical Fluid Dynamics Laboratory Climate Model version 3, developed for simulating and predicting Earth's climate system",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.7955620390464407
+    },
+    {
+      "name": "upper stratosphere",
+      "label": "location",
+      "description": "The upper part of the stratosphere, a layer of the atmosphere extending from about 30 to 50 km altitude",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6567833692859979
+    }
+  ],
+  "(21657, 24143)": [
+    {
+      "name": "GFDL-CM3",
+      "label": "model",
+      "description": "A global climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating Earth's climate system",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.7899355090037246
+    },
+    {
+      "name": "latitudes",
+      "label": "location",
+      "description": "The angular distance north or south of the Earth's equator, measured in degrees",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6483182605469199
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "The second-lowest layer of the Earth's atmosphere, extending from about 10 to 50 kilometers above the Earth's surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7717065185127688
+    },
+    {
+      "name": "southern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies south of the equator, including the continents of Antarctica, Australia, and parts of South America and Africa",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7706961714865875
+    },
+    {
+      "name": "high latitudes",
+      "label": "location",
+      "description": "The regions of the Earth located at high angular distances from the equator, typically above 60 degrees north or south latitude",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.5550992291370725
+    },
+    {
+      "name": "GISS-E2-H",
+      "label": "model",
+      "description": "A climate model developed by the Goddard Institute for Space Studies, used for simulating Earth's climate system",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.7953462423069497
+    },
+    {
+      "name": "stratopause",
+      "label": "location",
+      "description": "The boundary between the stratosphere and the mesosphere, typically located at an altitude of around 50 kilometers",
+      "uuid": "82191e97-53ba-413d-9a08-acd8b848e0b0",
+      "score": 0.7697505381411167
+    },
+    {
+      "name": "GISS-E2",
+      "label": "model",
+      "description": "A climate model developed by the Goddard Institute for Space Studies, used for simulating Earth's climate system",
+      "uuid": "31c87a86-4e36-4e12-9402-4c6744e7fb05",
+      "score": 0.7661603325087154
+    },
+    {
+      "name": "lower stratosphere",
+      "label": "location",
+      "description": "The lower part of the stratosphere, extending from about 10 to 20 kilometers above the Earth's surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6079396391394943
+    },
+    {
+      "name": "CESM1-WACCM",
+      "label": "model",
+      "description": "A climate model developed by the National Center for Atmospheric Research, used for simulating Earth's climate system",
+      "uuid": "3660e2aa-1e70-4fdc-9369-b588e89a8fe7",
+      "score": 0.7891126157271348
+    },
+    {
+      "name": "MRI-ESM1",
+      "label": "model",
+      "description": "A climate model developed by the Meteorological Research Institute, used for simulating Earth's climate system",
+      "uuid": "dd792518-3713-4ec7-bb0c-73e5bc7e54d9",
+      "score": 0.8109378228811378
+    },
+    {
+      "name": "middle stratosphere",
+      "label": "location",
+      "description": "The middle part of the stratosphere, extending from about 20 to 30 kilometers above the Earth's surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6258078431996139
+    },
+    {
+      "name": "upper stratosphere",
+      "label": "location",
+      "description": "The upper part of the stratosphere, extending from about 30 to 50 kilometers above the Earth's surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6524127205224448
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A molecule composed of three oxygen atoms, playing a crucial role in the Earth's atmosphere, particularly in the stratosphere",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5970433832443791
+    }
+  ],
+  "(23714, 26399)": [
+    {
+      "name": "SBUV",
+      "label": "instrument",
+      "description": "The Solar Backscatter Ultraviolet instrument, used for remote sensing of atmospheric ozone and other constituents",
+      "uuid": "8c1e7433-7fe4-4a8f-9783-d7710eb73a9d",
+      "score": 0.7391190453690635
+    },
+    {
+      "name": "HALOE",
+      "label": "instrument",
+      "description": "The Halogen Occultation Experiment, an instrument used to measure atmospheric ozone, hydrogen chloride, and other gases",
+      "uuid": "87173192-e3eb-438f-b5fe-b10c2c89e3fe",
+      "score": 0.7521171372647123
+    },
+    {
+      "name": "SAGE",
+      "label": "instrument",
+      "description": "The Stratospheric Aerosol and Gas Experiment, an instrument used for remote sensing of atmospheric aerosols and gases",
+      "uuid": "8394197b-b391-45fe-bce4-dc156f8fe447",
+      "score": 0.7073290922410571
+    },
+    {
+      "name": "southern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth south of the equator, encompassing several continents and oceans",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7767212097863337
+    },
+    {
+      "name": "stratopause",
+      "label": "location",
+      "description": "The boundary between the stratosphere and the mesosphere, typically located around 50 km altitude",
+      "uuid": "82191e97-53ba-413d-9a08-acd8b848e0b0",
+      "score": 0.7559028309357064
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7564571328196901
+    },
+    {
+      "name": "lower stratosphere",
+      "label": "location",
+      "description": "The lower part of the stratosphere, extending from about 10 to 30 km altitude",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.5815257902415977
+    },
+    {
+      "name": "Nimbus 7",
+      "label": "platform",
+      "description": "A NASA satellite launched in 1978, used for studying the Earth's atmosphere and climate",
+      "uuid": "0af3eeb1-3339-46ad-964f-2d18dce319fe",
+      "score": 0.6605028159424278
+    },
+    {
+      "name": "Version 6 SAGE II data",
+      "label": "dataset",
+      "description": "A collection of data from the Stratospheric Aerosol and Gas Experiment II instrument, used for studying atmospheric aerosols and gases",
+      "uuid": "73c06edc-98f0-4698-853a-ba425cfa4828",
+      "score": 0.6399346951218456
+    },
+    {
+      "name": "merged SBUV data",
+      "label": "dataset",
+      "description": "A combined dataset from multiple Solar Backscatter Ultraviolet instruments, used for studying atmospheric ozone and other constituents",
+      "uuid": "293213eb-9d76-4b9b-9504-3bd13fa1ec76",
+      "score": 0.6151817525643151
+    },
+    {
+      "name": "combined SBUV time series",
+      "label": "dataset",
+      "description": "A collection of data from multiple Solar Backscatter Ultraviolet instruments, used for studying atmospheric ozone and other constituents over time",
+      "uuid": "293213eb-9d76-4b9b-9504-3bd13fa1ec76",
+      "score": 0.5922827972174021
+    },
+    {
+      "name": "individual SBUV instruments",
+      "label": "instrument",
+      "description": "Single Solar Backscatter Ultraviolet instruments, used for remote sensing of atmospheric ozone and other constituents",
+      "uuid": "8c1e7433-7fe4-4a8f-9783-d7710eb73a9d",
+      "score": 0.713138954876529
+    },
+    {
+      "name": "altitudes",
+      "label": "variable",
+      "description": "A measure of height above the Earth's surface, used to describe the vertical distribution of atmospheric constituents",
+      "uuid": "16bfcf54-f8e1-4c8e-9bd4-a1ac06ea95a0",
+      "score": 0.6719335053871878
+    }
+  ],
+  "(25950, 28556)": [
+    {
+      "name": "SBUV",
+      "label": "instrument",
+      "description": "The Solar Backscatter Ultraviolet instrument, used for measuring ozone and other atmospheric properties",
+      "uuid": "8c1e7433-7fe4-4a8f-9783-d7710eb73a9d",
+      "score": 0.7512111187529125
+    },
+    {
+      "name": "Nimbus 7",
+      "label": "platform",
+      "description": "A NASA satellite launched in 1978, carrying instruments for Earth observation and climate research",
+      "uuid": "0af3eeb1-3339-46ad-964f-2d18dce319fe",
+      "score": 0.696298524528683
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas in the Earth's atmosphere, crucial for absorbing ultraviolet radiation and protecting life on Earth",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.625261672003786
+    },
+    {
+      "name": "solar cycles",
+      "label": "teleconnection",
+      "description": "Periodic changes in the Sun's activity, influencing Earth's climate and atmospheric properties",
+      "uuid": "2e83362e-d8f8-4bca-83fd-bae360ebe94b",
+      "score": 0.6119611800597781
+    },
+    {
+      "name": "ERA Interim",
+      "label": "model",
+      "description": "A reanalysis model developed by the European Centre for Medium-Range Weather Forecasts, used for climate research and weather forecasting",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7745937124999875
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of atmospheric moisture",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7505341060896782
+    },
+    {
+      "name": "upper stratosphere",
+      "label": "location",
+      "description": "The upper part of the stratosphere, a layer of the Earth's atmosphere extending from about 10 to 50 km altitude",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6743528755843095
+    },
+    {
+      "name": "high latitudes",
+      "label": "location",
+      "description": "The regions of the Earth near the North and South Poles, characterized by cold temperatures and unique atmospheric properties",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.5704238979958688
+    },
+    {
+      "name": "SAGE II",
+      "label": "instrument",
+      "description": "The Stratospheric Aerosol and Gas Experiment II, an instrument used for measuring atmospheric properties such as ozone and aerosols",
+      "uuid": "85882054-d455-492f-976e-d2ea12f35578",
+      "score": 0.7445705423606424
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, influencing weather and climate patterns",
+      "uuid": "a32cbebb-0f17-41a6-9bf7-f3b111e4c56e",
+      "score": 0.653494698519789
+    },
+    {
+      "name": "zonal wind",
+      "label": "variable",
+      "description": "A measure of the wind speed and direction in the atmosphere, influencing climate and weather patterns",
+      "uuid": "a628333f-aea2-42cf-b930-c8c859ee0547",
+      "score": 0.51771984984429
+    }
+  ],
+  "(28126, 30928)": [
+    {
+      "name": "MIROC-ESM-CHEM",
+      "label": "model",
+      "description": "A climate model developed by the University of Tokyo and the Japan Agency for Marine-Earth Science and Technology, designed to simulate the Earth's climate system with interactive chemistry",
+      "uuid": "5948a759-4da8-4c75-8f9c-d11548fe31c5",
+      "score": 0.7631908211909375
+    },
+    {
+      "name": "zonal wind",
+      "label": "variable",
+      "description": "The speed and direction of wind blowing along the Earth's surface or in the atmosphere, measured in terms of speed and direction",
+      "uuid": "a628333f-aea2-42cf-b930-c8c859ee0547",
+      "score": 0.501039005565648
+    },
+    {
+      "name": "upper stratosphere",
+      "label": "location",
+      "description": "The upper part of the stratosphere, extending from approximately 20 to 50 km altitude, playing a significant role in the Earth's climate system",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6379911090354776
+    },
+    {
+      "name": "stratospheric data",
+      "label": "variable",
+      "description": "Data related to the stratosphere, including temperature, wind, and ozone measurements, used to study the Earth's climate and atmospheric processes",
+      "uuid": "2dbbd81a-8a15-4748-b11c-700c3924860a",
+      "score": 0.6278829079672803
+    },
+    {
+      "name": "ERA Interim",
+      "label": "project",
+      "description": "A reanalysis project that provides a comprehensive dataset of atmospheric conditions, including temperature, wind, and ozone, from 1979 to the present",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7480887689870563
+    },
+    {
+      "name": "National Meteorological Center",
+      "label": "provider",
+      "description": "A US government agency responsible for providing weather forecasts, warnings, and other meteorological services",
+      "uuid": "ae8fe723-beb0-4d01-ad50-1888a580f3f7",
+      "score": 0.5793094227038437
+    },
+    {
+      "name": "solar forcing",
+      "label": "teleconnection",
+      "description": "The influence of solar radiation on the Earth's climate system, including variations in solar irradiance and their impact on atmospheric and oceanic processes",
+      "uuid": "250ce118-46e7-4dec-9e44-8054c9318cff",
+      "score": 0.7508485985082338
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas composed of three oxygen atoms, playing a crucial role in the Earth's stratosphere, where it absorbs ultraviolet radiation and protects the planet from harmful radiation",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6261008308563614
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, used to describe the warmth or coolness of the atmosphere, oceans, or land surfaces",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6894649447848312
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6776336138779312
+    }
+  ],
+  "(30499, 33238)": [
+    {
+      "name": "O 2 photolysis",
+      "label": "variable",
+      "description": "A chemical reaction involving the breakdown of oxygen molecules by light, relevant in atmospheric chemistry and climate studies",
+      "uuid": "5242d008-156a-49b7-8e68-7692f3632805",
+      "score": 0.5569945451551807
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "A layer of the Earth's atmosphere, extending from about 10 to 50 kilometers above the Earth's surface, important for climate regulation and ozone chemistry",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7592500030610029
+    },
+    {
+      "name": "GFDL-1200 CM3",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating and predicting Earth's climate system",
+      "uuid": "5467feeb-5956-46b5-8d45-fc695339ff48",
+      "score": 0.7598334789240833
+    },
+    {
+      "name": "altitudes",
+      "label": "location",
+      "description": "Vertical levels in the atmosphere, often used to describe the distribution of atmospheric properties such as temperature, pressure, and composition",
+      "uuid": "16bfcf54-f8e1-4c8e-9bd4-a1ac06ea95a0",
+      "score": 0.6252835846112663
+    },
+    {
+      "name": "reanalysis data",
+      "label": "dataset",
+      "description": "A type of climate dataset that combines model outputs with observational data to produce a consistent and reliable representation of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7637580545389038
+    },
+    {
+      "name": "MRI-ESM1",
+      "label": "model",
+      "description": "A climate model developed by the Meteorological Research Institute, used for simulating and predicting Earth's climate system, including interactive chemistry and aerosol processes",
+      "uuid": "dd792518-3713-4ec7-bb0c-73e5bc7e54d9",
+      "score": 0.8191350154517196
+    },
+    {
+      "name": "MIROC-ESM-CHEM",
+      "label": "model",
+      "description": "A climate model developed by the University of Tokyo and the National Institute for Environmental Studies, used for simulating and predicting Earth's climate system, including interactive chemistry and aerosol processes",
+      "uuid": "5948a759-4da8-4c75-8f9c-d11548fe31c5",
+      "score": 0.7657265143228095
+    },
+    {
+      "name": "applied photolysis rate calculation scheme",
+      "label": "instrument",
+      "description": "A computational method used to calculate the rates of photolysis reactions in atmospheric chemistry models",
+      "uuid": "0fd2b083-e65c-443b-9794-2c355ebac06b",
+      "score": 0.5740679969227441
+    },
+    {
+      "name": "GISS-E2",
+      "label": "model",
+      "description": "A climate model developed by the Goddard Institute for Space Studies, used for simulating and predicting Earth's climate system",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.7643219733402393
+    },
+    {
+      "name": "upper stratosphere",
+      "label": "location",
+      "description": "The upper part of the stratosphere, a layer of the Earth's atmosphere extending from about 20 to 50 kilometers above the Earth's surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6782124322601996
+    }
+  ],
+  "(32780, 35459)": [
+    {
+      "name": "O 2 photolysis",
+      "label": "variable",
+      "description": "A chemical reaction involving the breakdown of oxygen molecules, relevant to atmospheric chemistry and ozone formation",
+      "uuid": "5242d008-156a-49b7-8e68-7692f3632805",
+      "score": 0.536802320901928
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "The second layer of the Earth's atmosphere, extending from about 10 to 50 km altitude, characterized by a stable temperature profile",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7840565308402232
+    },
+    {
+      "name": "southern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies south of the equator, including the southern parts of the Atlantic, Indian, and Pacific Oceans, and the continents of Antarctica, Africa, Australia, and South America",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7873079325336599
+    },
+    {
+      "name": "altitudes",
+      "label": "variable",
+      "description": "A measure of the height of an object or point in relation to sea level or ground level, relevant in atmospheric and climate studies",
+      "uuid": "16bfcf54-f8e1-4c8e-9bd4-a1ac06ea95a0",
+      "score": 0.6862471084615133
+    },
+    {
+      "name": "GISS models",
+      "label": "model",
+      "description": "A set of climate models developed by the Goddard Institute for Space Studies, used for simulating and predicting Earth's climate system",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.6707827483086046
+    },
+    {
+      "name": "general circulation models",
+      "label": "model",
+      "description": "Computational models that simulate the large-scale circulation of the atmosphere and oceans, used to study climate and weather phenomena",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7013607973376671
+    },
+    {
+      "name": "MRI-ESM1",
+      "label": "model",
+      "description": "A climate model developed by the Meteorological Research Institute, used for simulating and predicting Earth's climate system",
+      "uuid": "dd792518-3713-4ec7-bb0c-73e5bc7e54d9",
+      "score": 0.8151463714420882
+    },
+    {
+      "name": "applied photolysis rate calculation scheme",
+      "label": "instrument",
+      "description": "A computational method used to calculate the rate of photolysis reactions in atmospheric chemistry models",
+      "uuid": "0fd2b083-e65c-443b-9794-2c355ebac06b",
+      "score": 0.5676887366773468
+    },
+    {
+      "name": "GISS-E2",
+      "label": "model",
+      "description": "A specific version of the GISS climate model, used for simulating and predicting Earth's climate system",
+      "uuid": "31c87a86-4e36-4e12-9402-4c6744e7fb05",
+      "score": 0.7555243264201414
+    },
+    {
+      "name": "upper stratosphere",
+      "label": "location",
+      "description": "The upper part of the stratosphere, extending from about 30 to 50 km altitude, characterized by a stable temperature profile and the presence of ozone",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6559696506998075
+    },
+    {
+      "name": "CESM1-WACCM",
+      "label": "model",
+      "description": "A specific version of the Community Earth System Model, used for simulating and predicting Earth's climate system",
+      "uuid": "3660e2aa-1e70-4fdc-9369-b588e89a8fe7",
+      "score": 0.7804047683974725
+    },
+    {
+      "name": "Pinatubo",
+      "label": "natural hazard",
+      "description": "A volcanic eruption that occurred in 1991, known for its significant impact on global climate patterns",
+      "uuid": "7c9c5438-22d0-4dd6-b0e1-2698b4aee997",
+      "score": 0.5965285390221635
+    },
+    {
+      "name": "MIROC-ESM-CHEM",
+      "label": "model",
+      "description": "A specific version of the Model for Interdisciplinary Research on Climate, used for simulating and predicting Earth's climate system",
+      "uuid": "5c2d7361-0b0a-45c7-8fc3-61a1cbf22fd9",
+      "score": 0.760702545306636
+    }
+  ],
+  "(35086, 37586)": [
+    {
+      "name": "UIUC model",
+      "label": "model",
+      "description": "The University of Illinois at Urbana-Champaign climate model, used for studying atmospheric and climate phenomena",
+      "uuid": "3d7a2e46-3608-4c17-97fe-b1ed7852c326",
+      "score": 0.5707914890441237
+    },
+    {
+      "name": "GISS models",
+      "label": "model",
+      "description": "The Goddard Institute for Space Studies climate models, used for simulating and predicting Earth's climate system",
+      "uuid": "57bc5756-cbef-48f9-896d-3a78978d96eb",
+      "score": 0.672373521507009
+    },
+    {
+      "name": "CESM1-WACCM",
+      "label": "model",
+      "description": "The Community Earth System Model version 1 with the Whole Atmosphere Community Climate Model, a climate model that integrates atmospheric and climate processes",
+      "uuid": "3660e2aa-1e70-4fdc-9369-b588e89a8fe7",
+      "score": 0.8022111208570541
+    },
+    {
+      "name": "ERA Interim",
+      "label": "project",
+      "description": "A reanalysis project that provides a comprehensive dataset of atmospheric and climate variables, including temperature and wind patterns",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7439799729431253
+    },
+    {
+      "name": "stratopause",
+      "label": "location",
+      "description": "The upper boundary of the stratosphere, a layer of the atmosphere where temperature increases with altitude",
+      "uuid": "82191e97-53ba-413d-9a08-acd8b848e0b0",
+      "score": 0.7457629109755951
+    },
+    {
+      "name": "upper stratosphere",
+      "label": "location",
+      "description": "The upper part of the stratosphere, a region of the atmosphere characterized by a stable temperature profile",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6228232209451569
+    },
+    {
+      "name": "solar cycle",
+      "label": "variable",
+      "description": "The periodic change in the Sun's activity, including sunspots, solar flares, and variations in solar radiation",
+      "uuid": "2e83362e-d8f8-4bca-83fd-bae360ebe94b",
+      "score": 0.5884046510151265
+    },
+    {
+      "name": "quasi-decadal variation",
+      "label": "variable",
+      "description": "A periodic variation in climate or atmospheric phenomena that occurs over a timescale of approximately 10 years",
+      "uuid": "addadf3e-ae8d-49aa-9b5d-abee1952a543",
+      "score": 0.5371683495468733
+    },
+    {
+      "name": "latitudes",
+      "label": "location",
+      "description": "The angular distance north or south of the Earth's equator, measured in degrees",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6483182605469199
+    },
+    {
+      "name": "WACCM team",
+      "label": "provider",
+      "description": "A research group focused on developing and improving the Whole Atmosphere Community Climate Model",
+      "uuid": "3660e2aa-1e70-4fdc-9369-b588e89a8fe7",
+      "score": 0.5509047219126083
+    }
+  ],
+  "(37410, 37586)": [
+    {
+      "name": "hPa",
+      "label": "variable",
+      "description": "A unit of pressure, used to express atmospheric pressure at different levels",
+      "uuid": "1c3fa118-3130-4951-ada1-755fcf0776f9",
+      "score": 0.5529737846816538
+    }
+  ]
+}

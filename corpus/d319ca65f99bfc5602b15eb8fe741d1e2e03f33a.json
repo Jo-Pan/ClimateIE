@@ -1,0 +1,178 @@
+{
+  "(0, 2821)": [
+    {
+      "name": "MaxBin",
+      "label": "instrument",
+      "description": "An automated binning approach for high-throughput recovery of microbial genomes from metagenomes",
+      "uuid": "3078eaeb-541e-44a0-9828-a1020f7bc6cf",
+      "score": 0.5475363264514785
+    },
+    {
+      "name": "MaxBin 2.0",
+      "label": "instrument",
+      "description": "An expanded binning algorithm for recovering genomes from co-assembly of a collection of metagenomic datasets",
+      "uuid": "3078eaeb-541e-44a0-9828-a1020f7bc6cf",
+      "score": 0.540719670684982
+    },
+    {
+      "name": "metagenomic datasets",
+      "label": "variable",
+      "description": "Collections of genomic data from environmental samples, used to study microbial communities",
+      "uuid": "1a6ed5fe-608e-46a0-ab9e-1306de875ebe",
+      "score": 0.6665465166635943
+    },
+    {
+      "name": "metagenomes",
+      "label": "variable",
+      "description": "Genomic data from environmental samples, used to study microbial communities",
+      "uuid": "1a6ed5fe-608e-46a0-ab9e-1306de875ebe",
+      "score": 0.7454820431701583
+    },
+    {
+      "name": "genomes",
+      "label": "variable",
+      "description": "The complete set of genetic information in an organism, used to understand functional potential",
+      "uuid": "1eb01003-dc1c-4743-be8b-22aaefd23a2c",
+      "score": 0.6699515485682584
+    },
+    {
+      "name": "binning",
+      "label": "experiment",
+      "description": "A process to classify unassembled reads or assembled contigs into discrete clusters, representing individual genomes",
+      "uuid": "3078eaeb-541e-44a0-9828-a1020f7bc6cf",
+      "score": 0.6768416793244079
+    }
+  ],
+  "(2405, 5090)": [
+    {
+      "name": "MaxBin 2.0",
+      "label": "model",
+      "description": "A computational tool for recovering genomes from co-assembly of multiple metagenomic samples, utilizing an Expectation-Maximization algorithm to classify contigs into individual bins",
+      "uuid": "3078eaeb-541e-44a0-9828-a1020f7bc6cf",
+      "score": 0.5243011670667801
+    },
+    {
+      "name": "metagenomic samples",
+      "label": "dataset",
+      "description": "Collections of genomic data from mixed microbial communities, often used for studying microbial diversity and function",
+      "uuid": "1a6ed5fe-608e-46a0-ab9e-1306de875ebe",
+      "score": 0.6614892073586192
+    },
+    {
+      "name": "contig coverage levels",
+      "label": "variable",
+      "description": "Measurements of the coverage of contigs in metagenomic datasets, used to infer the abundance of microorganisms",
+      "uuid": "1993d124-f05d-4aea-a08a-a599438f9251",
+      "score": 0.501000511104804
+    },
+    {
+      "name": "genome bins",
+      "label": "variable",
+      "description": "Groupings of contigs into individual bins, representing draft genomes recovered from metagenomic data",
+      "uuid": "3078eaeb-541e-44a0-9828-a1020f7bc6cf",
+      "score": 0.6111030049792445
+    },
+    {
+      "name": "metagenomes",
+      "label": "dataset",
+      "description": "Collections of genomic data from mixed microbial communities, often used for studying microbial diversity and function",
+      "uuid": "1a6ed5fe-608e-46a0-ab9e-1306de875ebe",
+      "score": 0.7330918428246164
+    },
+    {
+      "name": "microbial community composition",
+      "label": "variable",
+      "description": "The diversity and abundance of microorganisms in a given environment, often studied using metagenomic data",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.5520385529037484
+    }
+  ],
+  "(4564, 7227)": [
+    {
+      "name": "MaxBin 2.0",
+      "label": "model",
+      "description": "A computational tool for binning genomes from metagenomes using an Expectation-Maximization algorithm",
+      "uuid": "3078eaeb-541e-44a0-9828-a1020f7bc6cf",
+      "score": 0.5307710406242105
+    },
+    {
+      "name": "metagenomic datasets",
+      "label": "variable",
+      "description": "Collections of genomic data from environmental samples, used for studying microbial communities",
+      "uuid": "1a6ed5fe-608e-46a0-ab9e-1306de875ebe",
+      "score": 0.6688897008254376
+    },
+    {
+      "name": "genomes",
+      "label": "variable",
+      "description": "The complete set of genetic information in an organism, which can be binned from metagenomic data",
+      "uuid": "1eb01003-dc1c-4743-be8b-22aaefd23a2c",
+      "score": 0.6324813561115601
+    },
+    {
+      "name": "genome bins",
+      "label": "variable",
+      "description": "Groupings of genomic sequences into distinct genomes, resulting from the binning process",
+      "uuid": "3078eaeb-541e-44a0-9828-a1020f7bc6cf",
+      "score": 0.616954221084042
+    },
+    {
+      "name": "Human Microbiome Project",
+      "label": "project",
+      "description": "A research initiative aimed at characterizing the microbial communities found in and on the human body",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.5193562422413176
+    },
+    {
+      "name": "DOE Joint BioEnergy Institute",
+      "label": "provider",
+      "description": "A research institute focused on developing bioenergy solutions, supported by the U.S. Department of Energy",
+      "uuid": "34cb53af-f2cd-4b04-8357-25503e34b92a",
+      "score": 0.5203091969004028
+    },
+    {
+      "name": "U. S. Department of Energy",
+      "label": "provider",
+      "description": "A government agency that funded the research and development of MaxBin 2.0",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.5680174312466159
+    }
+  ],
+  "(6762, 7704)": [
+    {
+      "name": "MaxBin 2.0",
+      "label": "project",
+      "description": "A bioinformatics tool for binning metagenomic sequences into genome bins, developed with support from the DOE Joint BioEnergy Institute",
+      "uuid": "3078eaeb-541e-44a0-9828-a1020f7bc6cf",
+      "score": 0.5278338404002377
+    },
+    {
+      "name": "DOE Joint BioEnergy Institute",
+      "label": "provider",
+      "description": "A research institute supported by the U.S. Department of Energy, focused on developing bioenergy technologies",
+      "uuid": "34cb53af-f2cd-4b04-8357-25503e34b92a",
+      "score": 0.5085926192929081
+    },
+    {
+      "name": "U. S. Department of Energy",
+      "label": "provider",
+      "description": "A government agency that funds research and development in energy and environmental sciences",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6641680734291995
+    },
+    {
+      "name": "Lawrence Berkeley National Laboratory",
+      "label": "provider",
+      "description": "A national laboratory managed by the University of California, conducting research in energy, environment, and biosciences",
+      "uuid": "ae488bb0-af18-4dd9-84f5-4d2e27f83b02",
+      "score": 0.5398840850897598
+    },
+    {
+      "name": "Office of Biological and Environmental Research",
+      "label": "provider",
+      "description": "A division within the U.S. Department of Energy's Office of Science, supporting research in biological and environmental sciences",
+      "uuid": "34cb53af-f2cd-4b04-8357-25503e34b92a",
+      "score": 0.59171432222777
+    }
+  ]
+}

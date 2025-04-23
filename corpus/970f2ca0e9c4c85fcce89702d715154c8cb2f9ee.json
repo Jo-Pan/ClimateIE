@@ -1,0 +1,1257 @@
+{
+  "(0, 3021)": [
+    {
+      "name": "Thailand",
+      "label": "location",
+      "description": "A country in Southeast Asia where the study on soil loss and net soil loss due to climate change and land use change was conducted",
+      "uuid": "4880b47d-3e42-4416-9ebb-60876f0a2f6b",
+      "score": 0.5671768636569737
+    },
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "A general circulation model used to simulate future climate scenarios",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7257375543208814
+    },
+    {
+      "name": "NCAR CSSM3",
+      "label": "model",
+      "description": "A general circulation model used to simulate future climate scenarios",
+      "uuid": "9a9301d9-3b66-41d9-9ddd-c0efc9876b97",
+      "score": 0.5686872389246476
+    },
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to estimate soil loss and net soil loss",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5007352574397532
+    },
+    {
+      "name": "soil loss",
+      "label": "variable",
+      "description": "The amount of soil eroded from a given area, often used as an indicator of environmental degradation",
+      "uuid": "cb21c5cb-cc49-4328-a72d-94ccca1fa888",
+      "score": 0.577829530855854
+    },
+    {
+      "name": "net soil loss",
+      "label": "variable",
+      "description": "The difference between soil erosion and deposition, used to assess the overall impact of climate change and land use change on soil",
+      "uuid": "cb21c5cb-cc49-4328-a72d-94ccca1fa888",
+      "score": 0.5041458569235779
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A phenomenon characterized by changes in global temperatures and precipitation patterns, leading to various environmental impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.60014872561393
+    },
+    {
+      "name": "land use change",
+      "label": "variable",
+      "description": "A change in the way land is used, such as deforestation or urbanization, which can impact soil erosion and environmental sustainability",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5145501240894141
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, which can impact soil erosion and climate change",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5823961009300408
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground, which can impact soil erosion and climate change",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6060035861470398
+    },
+    {
+      "name": "snow cover",
+      "label": "variable",
+      "description": "The amount of snow that covers the ground, which can impact soil erosion and climate change",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.6807001598382365
+    },
+    {
+      "name": "CO2 concentrations",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, which can impact soil erosion and climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.5530860281570933
+    }
+  ],
+  "(2540, 5603)": [
+    {
+      "name": "Revised Universal Soil Loss Equation (RUSLE)",
+      "label": "model",
+      "description": "An updated version of the USLE model, used to estimate average annual soil loss from interrill and rill erosion>",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5066197829747638
+    },
+    {
+      "name": "Soil erosion",
+      "label": "natural hazard",
+      "description": "The process of soil being removed or worn away by natural forces such as water, wind, or ice>",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.7022202435443989
+    },
+    {
+      "name": "Climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the average weather conditions of a region or the entire planet, often associated with global warming>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5697873256683474
+    },
+    {
+      "name": "General circulation models (GCMs)",
+      "label": "model",
+      "description": "Sophisticated computer models used to simulate and predict the behavior of the Earth's climate system>",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7441199074631397
+    },
+    {
+      "name": "Regional climate models (RCMs)",
+      "label": "model",
+      "description": "Downscaled versions of GCMs, used to simulate and predict the behavior of the climate system at a regional scale>",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5530673161874823
+    },
+    {
+      "name": "Land use/land cover (LULC)",
+      "label": "variable",
+      "description": "The observed physical layer of the Earth's surface, including natural and planted vegetation, human constructions, and other features>",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.7097481400178995
+    },
+    {
+      "name": "Vegetation cover",
+      "label": "variable",
+      "description": "The amount and type of plant life covering the soil surface, often used as a factor in soil erosion models>",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.6624359603493417
+    },
+    {
+      "name": "Soil moisture",
+      "label": "variable",
+      "description": "The amount of water contained in the soil, often used as a factor in soil erosion models>",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6841749992699613
+    }
+  ],
+  "(5061, 7784)": [
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to estimate soil erosion and sediment yield>",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5141269692215351
+    },
+    {
+      "name": "GIS",
+      "label": "platform",
+      "description": "Geographic Information System, a computer system for capturing, storing, checking, and displaying data related to positions on Earth's surface>",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.7026173583930613
+    },
+    {
+      "name": "DEM",
+      "label": "instrument",
+      "description": "Digital Elevation Model, a digital representation of the Earth's surface topography>",
+      "uuid": "395372ad-2883-4b6a-a481-6383a310ca47",
+      "score": 0.7648465798634219
+    },
+    {
+      "name": "soil loss",
+      "label": "variable",
+      "description": "The amount of soil lost due to erosion, typically measured in units of mass per unit area per unit time>",
+      "uuid": "cb21c5cb-cc49-4328-a72d-94ccca1fa888",
+      "score": 0.5686431773359872
+    },
+    {
+      "name": "erosion",
+      "label": "variable",
+      "description": "The process of wearing away or removal of soil, rock, or other materials from the Earth's surface>",
+      "uuid": "1e2b1b67-a401-4fb6-9ee9-b022c1c023dc",
+      "score": 0.6825311450524386
+    },
+    {
+      "name": "deposition",
+      "label": "variable",
+      "description": "The process of sediment or soil being deposited or settled in a new location>",
+      "uuid": "8b99d6c3-1751-43e6-81d1-92a7618cadb3",
+      "score": 0.6141394355507187
+    },
+    {
+      "name": "Thailand",
+      "label": "location",
+      "description": "A country located in Southeast Asia, where the study area is situated>",
+      "uuid": "6af5848c-db4b-4dd0-a6fb-1b9c904ef21b",
+      "score": 0.67603687295178
+    },
+    {
+      "name": "land use change",
+      "label": "variable",
+      "description": "A change in the way land is used, such as from forest to agriculture>",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.5384515983401833
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors>",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5176519346405625
+    },
+    {
+      "name": "land resources",
+      "label": "variable",
+      "description": "The natural resources associated with land, including soil, water, and vegetation>",
+      "uuid": "c77819e9-f62f-48dc-b924-e7a73b4dcda9",
+      "score": 0.6077031703717846
+    },
+    {
+      "name": "mean sea level",
+      "label": "variable",
+      "description": "The average level of the ocean's surface, used as a reference point for measuring elevation>",
+      "uuid": "f3ea8884-87a8-4a12-96d5-98e21a9fa2c7",
+      "score": 0.80630044867297
+    },
+    {
+      "name": "LULC mapping and LULC change detection",
+      "label": "instrument",
+      "description": "The use of remote sensing and GIS to map and monitor changes in land use and land cover>",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.5653102957381895
+    },
+    {
+      "name": "erosion process",
+      "label": "natural hazard",
+      "description": "The process of wearing away or removal of soil, rock, or other materials from the Earth's surface, which can have negative impacts on the environment>",
+      "uuid": "1e2b1b67-a401-4fb6-9ee9-b022c1c023dc",
+      "score": 0.6452315664380953
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including elevation, slope, and aspect>",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6719334153077987
+    }
+  ],
+  "(7475, 10079)": [
+    {
+      "name": "Paleozoic rocks",
+      "label": "geology",
+      "description": "A type of rock formation that originated during the Paleozoic era, consisting of sandstone, shale, limestone, and other sedimentary rocks",
+      "uuid": "0e098a6e-2123-4566-9069-6a3401775ca3",
+      "score": 0.5973621812797405
+    },
+    {
+      "name": "Mesozoic rocks",
+      "label": "geology",
+      "description": "A type of rock formation that originated during the Mesozoic era, consisting of sedimentary, igneous, and metamorphic rocks",
+      "uuid": "a0bd8bda-adb6-4ea2-ae02-5caef1557ad6",
+      "score": 0.5666310954408051
+    },
+    {
+      "name": "Carboniferous rocks",
+      "label": "geology",
+      "description": "A type of rock formation that originated during the Carboniferous period, consisting of sandstone, shale, and limestone",
+      "uuid": "b5b2981d-1623-4988-8b28-4cb8085a62e1",
+      "score": 0.5719895324505305
+    },
+    {
+      "name": "tropical monsoon climate",
+      "label": "climate",
+      "description": "A type of climate characterized by high temperatures, high humidity, and distinct seasonal patterns, influenced by monsoon winds",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.5363499998186789
+    },
+    {
+      "name": "southwest monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings warm and humid air to the region, typically occurring from May to October",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.5758207008657187
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "A major ocean that plays a significant role in shaping the climate and weather patterns of the region",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.7041115363725748
+    },
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a mathematical model used to predict soil erosion and loss",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5154716334222624
+    },
+    {
+      "name": "GIS Idrisi",
+      "label": "platform",
+      "description": "A geographic information system software used for spatial analysis and modeling",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.5353677519093063
+    }
+  ],
+  "(9642, 12355)": [
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to estimate soil erosion and loss based on various factors such as rainfall, soil type, and land management>",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5596568881645225
+    },
+    {
+      "name": "GIS Idrisi",
+      "label": "platform",
+      "description": "A geographic information system software used for spatial analysis and modeling>",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.5366647710706196
+    },
+    {
+      "name": "soil loss",
+      "label": "variable",
+      "description": "The amount of soil eroded from a given area, typically measured in units of mass per unit area per unit time>",
+      "uuid": "cb21c5cb-cc49-4328-a72d-94ccca1fa888",
+      "score": 0.5536673309666462
+    },
+    {
+      "name": "sedimentation",
+      "label": "process",
+      "description": "The process of sediment being deposited or settled in a new location, often as a result of erosion or other geological processes>",
+      "uuid": "b41498cd-6b2b-47e3-afe7-0f05b4c0807d",
+      "score": 0.6894642900201003
+    },
+    {
+      "name": "soil texture",
+      "label": "variable",
+      "description": "The composition and arrangement of soil particles, including sand, silt, and clay>",
+      "uuid": "afd1d3cb-d31d-4069-8cff-b592887aa18c",
+      "score": 0.677617143084389
+    },
+    {
+      "name": "organic matter",
+      "label": "variable",
+      "description": "The amount of carbon-based compounds in the soil, including plant and animal residues>",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.7348138032478653
+    }
+  ],
+  "(11908, 14141)": [
+    {
+      "name": "Soil Texture",
+      "label": "variable",
+      "description": "The composition and arrangement of soil particles, influencing soil erodibility and other properties",
+      "uuid": "afd1d3cb-d31d-4069-8cff-b592887aa18c",
+      "score": 0.611995205664256
+    },
+    {
+      "name": "Organic Matter",
+      "label": "variable",
+      "description": "The content of organic material in soil, affecting its structure, fertility, and erodibility",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.7019308005628341
+    },
+    {
+      "name": "Digital Elevation Model",
+      "label": "instrument",
+      "description": "A digital representation of the Earth's surface, used for terrain analysis and modeling",
+      "uuid": "395372ad-2883-4b6a-a481-6383a310ca47",
+      "score": 0.6986672174647536
+    },
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to predict soil erosion and sediment yield",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5102814065394227
+    },
+    {
+      "name": "Slope Steepness",
+      "label": "variable",
+      "description": "The angle of the land surface, influencing soil erosion and sediment yield",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.5306839489213445
+    }
+  ],
+  "(13815, 16096)": [
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "A General Circulation Model developed by the Met Office, used for simulating and predicting climate change",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.76303228193114
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a coupled climate model used for simulating the Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6441515822940971
+    },
+    {
+      "name": "General Circulation Models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6789794956017566
+    },
+    {
+      "name": "RCM",
+      "label": "model",
+      "description": "Regional Climate Models, used for generating high-resolution climate projections for specific regions",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5474621009576907
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used for simulating and predicting global climate change",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7124844365244216
+    },
+    {
+      "name": "monthly precipitation",
+      "label": "variable",
+      "description": "The amount of precipitation that falls in a given month, used as input for climate models",
+      "uuid": "aab15612-f050-4ec0-9bb1-f72eb5bf0e44",
+      "score": 0.534761558897793
+    }
+  ],
+  "(15645, 18270)": [
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "A general circulation model developed by the Hadley Centre, used for simulating and predicting climate patterns",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.736446324803371
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "A general circulation model developed by the National Center for Atmospheric Research, used for simulating and predicting climate patterns",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6117974890824518
+    },
+    {
+      "name": "ECHAM4",
+      "label": "model",
+      "description": "A general circulation model developed by the Max Planck Institute for Meteorology, used for simulating and predicting climate patterns",
+      "uuid": "1c339dc0-14ee-4516-9128-9518a36ff0c7",
+      "score": 0.5439188416189066
+    },
+    {
+      "name": "Hadley Centre",
+      "label": "provider",
+      "description": "A research institution focused on climate research and the development of climate models",
+      "uuid": "fcbced96-7985-4690-9511-ba7f871b0370",
+      "score": 0.6677472368095677
+    },
+    {
+      "name": "UK Meteorological Office",
+      "label": "provider",
+      "description": "The national weather service for the United Kingdom, providing data, forecasts, and climate-related research",
+      "uuid": "1ec31c00-f97f-45a6-acfd-b597d5751d57",
+      "score": 0.5767031876281221
+    },
+    {
+      "name": "NCAR",
+      "label": "provider",
+      "description": "The National Center for Atmospheric Research, a research institution focused on atmospheric and climate research",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.7698615097406691
+    },
+    {
+      "name": "Max Planck Institute for Meteorology",
+      "label": "provider",
+      "description": "A research institution focused on meteorological and climate research",
+      "uuid": "7cf22186-281a-4665-b79b-5a6e5ea5b471",
+      "score": 0.6753688561053115
+    },
+    {
+      "name": "Southeast Asian START Regional Center",
+      "label": "provider",
+      "description": "A research institution focused on climate and environmental research in Southeast Asia",
+      "uuid": "222195a6-1f14-47a6-816a-4bde7e74d8f5",
+      "score": 0.5687141386234549
+    },
+    {
+      "name": "LULC maps",
+      "label": "instrument",
+      "description": "Land use and land cover maps, used as a tool for allocating cover management factors",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.6187430441159734
+    },
+    {
+      "name": "soil erosion rate",
+      "label": "variable",
+      "description": "A measure of the rate at which soil is eroded",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.5870690441406243
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General circulation models, used for simulating and predicting climate patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7389162494856621
+    },
+    {
+      "name": "RCMs",
+      "label": "model",
+      "description": "Regional climate models, used for simulating and predicting regional climate patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5393789146277257
+    }
+  ],
+  "(17807, 20417)": [
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to predict soil erosion rates based on various factors such as land use, soil type, and climate>",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5547828711283126
+    },
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land Use/Land Cover, a classification of the Earth's surface into different categories based on its use and cover>",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.7397648212958811
+    },
+    {
+      "name": "soil erosion rate",
+      "label": "variable",
+      "description": "The rate at which soil is eroded, often measured in tons per hectare per year>",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.5790130880547951
+    },
+    {
+      "name": "land use classes",
+      "label": "variable",
+      "description": "Categories of land use, such as agriculture, forest, or urban>",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.7151387879890096
+    },
+    {
+      "name": "vegetation cover types",
+      "label": "variable",
+      "description": "Categories of vegetation cover, such as forest, grassland, or cropland>",
+      "uuid": "8d1157c4-d36b-40db-aa82-3603716f9988",
+      "score": 0.6372313516360967
+    },
+    {
+      "name": "Thailand",
+      "label": "location",
+      "description": "A country located in Southeast Asia>",
+      "uuid": "6af5848c-db4b-4dd0-a6fb-1b9c904ef21b",
+      "score": 0.6940537401061619
+    },
+    {
+      "name": "mean sea level",
+      "label": "variable",
+      "description": "The average height of the ocean's surface, used as a reference point for measuring elevation>",
+      "uuid": "f3ea8884-87a8-4a12-96d5-98e21a9fa2c7",
+      "score": 0.8011800752736224
+    },
+    {
+      "name": "land cover data",
+      "label": "variable",
+      "description": "Data used to classify the Earth's surface into different land cover categories>",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6351591227218443
+    }
+  ],
+  "(19940, 22096)": [
+    {
+      "name": "rainfall events",
+      "label": "weather event",
+      "description": "Meteorological occurrences characterized by precipitation, which can impact soil erosion and land cover>",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.5257528978967413
+    },
+    {
+      "name": "land cover classification",
+      "label": "project",
+      "description": "A research initiative aimed at categorizing and mapping different types of land cover, such as forests, crops, and urban areas>",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6863813171232351
+    },
+    {
+      "name": "LULC pattern classification",
+      "label": "project",
+      "description": "A research initiative aimed at categorizing and mapping different types of land use and land cover patterns, such as deforestation, urbanization, and agricultural expansion>",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.6077245582163311
+    },
+    {
+      "name": "water body",
+      "label": "location",
+      "description": "A type of land cover characterized by the presence of water, such as lakes, rivers, and oceans>",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.5559640237410376
+    },
+    {
+      "name": "forest",
+      "label": "location",
+      "description": "A type of land cover characterized by the presence of trees and other vegetation>",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6333920583831947
+    },
+    {
+      "name": "upland crop",
+      "label": "location",
+      "description": "A type of land cover characterized by the presence of crops grown in upland areas>",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.5375667430783438
+    },
+    {
+      "name": "urban area",
+      "label": "location",
+      "description": "A type of land cover characterized by the presence of human settlements and infrastructure>",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6873761815151129
+    }
+  ],
+  "(21693, 24051)": [
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land Use Land Cover, a measure of the different ways in which land is used, such as forest, crops, urban, and water body",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.7172312794136251
+    },
+    {
+      "name": "Land sat",
+      "label": "instrument",
+      "description": "A series of Earth observation satellites used to collect data on land use, land cover, and other environmental factors",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.6514180914183669
+    },
+    {
+      "name": "2000",
+      "label": "location",
+      "description": "A point in time, specifically the year 2000, used as a reference for land use land cover classification",
+      "uuid": "c61d00bf-6d38-410f-9eea-787a7502acfc",
+      "score": 0.5007062293307103
+    },
+    {
+      "name": "forest",
+      "label": "location",
+      "description": "A type of land cover characterized by a dense growth of trees and other vegetation",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.611335658848579
+    },
+    {
+      "name": "crops",
+      "label": "location",
+      "description": "A type of land use characterized by the cultivation of crops, such as upland crops and paddy fields",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.5997653738783664
+    },
+    {
+      "name": "urban",
+      "label": "location",
+      "description": "A type of land use characterized by the presence of cities, towns, and other human settlements",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6213283519682502
+    },
+    {
+      "name": "water body",
+      "label": "location",
+      "description": "A type of land cover characterized by the presence of water, such as rivers, lakes, and oceans",
+      "uuid": "959f1861-a776-41b1-ba6b-d23c71d4d1eb",
+      "score": 0.5611945325198174
+    }
+  ],
+  "(23615, 26344)": [
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "A general circulation model developed by the Hadley Centre for Climate Prediction and Research, used for simulating and predicting climate change",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7455411931479822
+    },
+    {
+      "name": "PRECIS RCM",
+      "label": "model",
+      "description": "A regional climate model developed by the Hadley Centre, used for high-resolution climate simulations over specific regions",
+      "uuid": "dabd56d2-d192-4a1b-b2d4-b932eab06581",
+      "score": 0.5270669769401071
+    },
+    {
+      "name": "NCAR CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, developed by the National Center for Atmospheric Research, used for simulating the Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6488314050509832
+    },
+    {
+      "name": "soil erosion",
+      "label": "natural hazard",
+      "description": "The process of soil being worn away or removed by natural forces such as water or wind, often exacerbated by climate change",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.7161439462960552
+    }
+  ],
+  "(25913, 28346)": [
+    {
+      "name": "B1",
+      "label": "experiment",
+      "description": "A scenario used in climate modeling to predict future climate conditions based on specific greenhouse gas emission levels, focusing on a more sustainable and environmentally friendly pathway",
+      "uuid": "8ab20c2a-4aa2-4226-840b-9d503f34e34a",
+      "score": 0.5227619698500382
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Model, a type of climate model that simulates the general circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7691901417962187
+    },
+    {
+      "name": "soil erosion",
+      "label": "natural hazard",
+      "description": "The process of wearing away or removal of soil from one place to another through various natural forces like wind or water",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.6960570234827542
+    },
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to predict soil erosion",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5157365665616515
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a coupled climate model used for simulating the Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6441515822940971
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface over a specific period of time, usually measured in millimeters or inches",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6891631186078729
+    }
+  ],
+  "(27939, 30374)": [
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to predict soil erosion and loss from agricultural areas",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5221112419222312
+    },
+    {
+      "name": "soil loss",
+      "label": "variable",
+      "description": "The amount of soil that is eroded or lost from an area, often measured in tons per hectare",
+      "uuid": "cb21c5cb-cc49-4328-a72d-94ccca1fa888",
+      "score": 0.5387212744668906
+    },
+    {
+      "name": "digital elevation model (DEM)",
+      "label": "instrument",
+      "description": "A digital representation of the Earth's surface, used to derive topographic factors such as the LS factor",
+      "uuid": "395372ad-2883-4b6a-a481-6383a310ca47",
+      "score": 0.7075599306520236
+    },
+    {
+      "name": "tropical climate zone",
+      "label": "location",
+      "description": "A region on Earth characterized by high temperatures and high levels of rainfall, often prone to extreme weather events",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.554976327541636
+    },
+    {
+      "name": "extreme rainfall",
+      "label": "weather event",
+      "description": "Heavy rainfall events that can cause significant soil erosion and loss",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.595830722296476
+    },
+    {
+      "name": "heavy rainstorms",
+      "label": "weather event",
+      "description": "Intense rainfall events that can cause significant soil erosion and loss",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.5690225260550622
+    },
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "The Hadley Centre Coupled Model version 3, a climate model used to simulate and predict climate change",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7545500612739585
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a climate model used to simulate and predict climate change",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6475156530841416
+    },
+    {
+      "name": "RCM",
+      "label": "model",
+      "description": "A regional climate model, used to downscale climate projections from global climate models to smaller regions",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5143623477433718
+    },
+    {
+      "name": "NCAR CCSM3-B1 scenario",
+      "label": "experiment",
+      "description": "A specific scenario used to predict future climate change, combining the NCAR CCSM3 model with the B1 emission scenario",
+      "uuid": "318b830f-8bd5-4d23-83bd-d3755cb54cda",
+      "score": 0.5276050210915295
+    },
+    {
+      "name": "NCAR CCSM3-A2 scenario",
+      "label": "experiment",
+      "description": "A specific scenario used to predict future climate change, combining the NCAR CCSM3 model with the A2 emission scenario",
+      "uuid": "036cb785-59e6-4278-a5c6-31cb08a7e659",
+      "score": 0.5340801151473573
+    },
+    {
+      "name": "soil erosion rates",
+      "label": "variable",
+      "description": "The rate at which soil is eroded or lost from an area, often measured in tons per hectare per year",
+      "uuid": "36c862a7-7117-4fd2-8e33-0dda03097178",
+      "score": 0.5891685004505228
+    }
+  ],
+  "(29918, 32009)": [
+    {
+      "name": "NCAR CCSM3-A2",
+      "label": "model",
+      "description": "A climate model developed by the National Center for Atmospheric Research, used to simulate future climate conditions and predict their effects on the environment",
+      "uuid": "ae9cbc14-0962-4d6e-9f8c-34827c8826c7",
+      "score": 0.6458367252504605
+    },
+    {
+      "name": "soil erosion rates",
+      "label": "variable",
+      "description": "A measure of the rate at which soil is being eroded, often used to assess the impact of climate change on soil health and stability",
+      "uuid": "cb21c5cb-cc49-4328-a72d-94ccca1fa888",
+      "score": 0.6321136632899035
+    },
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to predict soil erosion rates and net soil loss based on various environmental factors",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5276998598996772
+    },
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "A climate model developed by the Hadley Centre for Climate Prediction and Research, used to simulate future climate conditions and predict their effects on the environment",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.746799503193044
+    },
+    {
+      "name": "sedimentation model",
+      "label": "model",
+      "description": "A model used to simulate the movement and deposition of sediments in a given area, often used to predict soil erosion rates and net soil loss",
+      "uuid": "b41498cd-6b2b-47e3-afe7-0f05b4c0807d",
+      "score": 0.5170149647983526
+    }
+  ],
+  "(31687, 33661)": [
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to predict soil erosion and sediment yield",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5102814065394227
+    },
+    {
+      "name": "land use change",
+      "label": "variable",
+      "description": "The alteration of land use patterns, such as deforestation or urbanization, which can impact soil loss and environmental conditions",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.5016558639722619
+    },
+    {
+      "name": "soil loss",
+      "label": "variable",
+      "description": "The removal of soil particles from the land surface, often due to erosion, which can affect soil fertility and environmental quality",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.5874667816326535
+    },
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land Use Land Cover, referring to the categorization of land areas based on their use and cover, such as urban, agricultural, or forested areas",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.7368641383226417
+    },
+    {
+      "name": "water bodies",
+      "label": "location",
+      "description": "Areas of land covered by water, such as rivers, lakes, or oceans, which can be affected by land use changes",
+      "uuid": "959f1861-a776-41b1-ba6b-d23c71d4d1eb",
+      "score": 0.5128468799996397
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Areas with high population density and infrastructure, which can impact soil loss and environmental conditions",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6544021653210826
+    }
+  ],
+  "(33382, 35707)": [
+    {
+      "name": "NCAR CCSM3-B1",
+      "label": "model",
+      "description": "A climate model developed by the National Center for Atmospheric Research, used for simulating climate change scenarios",
+      "uuid": "9a9301d9-3b66-41d9-9ddd-c0efc9876b97",
+      "score": 0.6510279214431303
+    },
+    {
+      "name": "NCAR CCSM3-A1B",
+      "label": "model",
+      "description": "A climate model developed by the National Center for Atmospheric Research, used for simulating climate change scenarios",
+      "uuid": "9a9301d9-3b66-41d9-9ddd-c0efc9876b97",
+      "score": 0.6507944836915867
+    },
+    {
+      "name": "PRECIS RCM-A2",
+      "label": "model",
+      "description": "A regional climate model developed by the Hadley Centre, used for simulating climate change scenarios at the regional level",
+      "uuid": "21ee7140-b172-432a-bc73-c3fa30e039ca",
+      "score": 0.520503581737796
+    },
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to estimate soil erosion rates",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5167847368399704
+    },
+    {
+      "name": "HadCM",
+      "label": "model",
+      "description": "A general circulation model developed by the Hadley Centre, used for simulating climate change scenarios",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.6953175371157398
+    },
+    {
+      "name": "soil erosion",
+      "label": "variable",
+      "description": "The process of soil being worn away or removed by natural forces such as wind or water",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.6916633251476066
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The way in which land is used by humans, such as for agriculture, urban development, or conservation",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5651975949970366
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "The long-term warming of the planet due to an increase in average global temperatures",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5565295353270697
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Areas of land used for cities, towns, and other human settlements",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7097545686950977
+    },
+    {
+      "name": "forest area",
+      "label": "location",
+      "description": "Areas of land covered by trees and other vegetation",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5575323395880402
+    }
+  ],
+  "(35193, 37605)": [
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to estimate soil erosion and sediment yield>",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5141269692215351
+    },
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "A general circulation model developed by the Hadley Centre for Climate Prediction and Research, used for simulating climate change>",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7429266897227912
+    },
+    {
+      "name": "NCAR CCSM3",
+      "label": "model",
+      "description": "The National Center for Atmospheric Research Community Climate System Model version 3, a coupled climate model used for simulating climate change>",
+      "uuid": "9a9301d9-3b66-41d9-9ddd-c0efc9876b97",
+      "score": 0.6465753188015757
+    },
+    {
+      "name": "LULC conversion",
+      "label": "variable",
+      "description": "Land use and land cover conversion, a factor influencing soil erosion and environmental change>",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.5523672937763513
+    },
+    {
+      "name": "soil erosion",
+      "label": "variable",
+      "description": "The process of soil loss due to erosion, an important factor in environmental and agricultural studies>",
+      "uuid": "36c862a7-7117-4fd2-8e33-0dda03097178",
+      "score": 0.7037890368808671
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate system, influencing environmental and socio-economic factors>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5898398597979696
+    }
+  ],
+  "(37251, 39842)": [
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to predict soil erosion and sediment yield>",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5136438599942018
+    },
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "A climate model developed by the Hadley Centre for Climate Prediction and Research, used for simulating climate change projections>",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7430196508922972
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a climate model used for simulating climate change projections>",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6439597564402509
+    },
+    {
+      "name": "soil erosion",
+      "label": "variable",
+      "description": "The process of soil being worn away or removed by natural forces such as water or wind>",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.6947244450924156
+    },
+    {
+      "name": "sedimentation",
+      "label": "variable",
+      "description": "The process of sediment being deposited or settled>",
+      "uuid": "b41498cd-6b2b-47e3-afe7-0f05b4c0807d",
+      "score": 0.6738108091971919
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The way in which land is used by humans, such as for agriculture, urban development, or conservation>",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5696711130760862
+    }
+  ],
+  "(39333, 42190)": [
+    {
+      "name": "HadCM3",
+      "label": "model",
+      "description": "A climate model developed by the Hadley Centre for Climate Prediction and Research, used for simulating climate change>",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.7484695893864295
+    },
+    {
+      "name": "CCSM3",
+      "label": "model",
+      "description": "The Community Climate System Model version 3, a climate model used for simulating climate change>",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.649788869944589
+    },
+    {
+      "name": "sedimentation",
+      "label": "variable",
+      "description": "The process of sediment being deposited or settled, often used as an indicator of soil erosion>",
+      "uuid": "b41498cd-6b2b-47e3-afe7-0f05b4c0807d",
+      "score": 0.6531239521577683
+    },
+    {
+      "name": "soil erosion rates",
+      "label": "variable",
+      "description": "The rate at which soil is being eroded, often used as an indicator of land degradation>",
+      "uuid": "cb21c5cb-cc49-4328-a72d-94ccca1fa888",
+      "score": 0.6179638599793053
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A phenomenon characterized by changes in global climate patterns, leading to potential impacts on the environment and human societies>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6035370504891557
+    },
+    {
+      "name": "land use change",
+      "label": "variable",
+      "description": "Changes in the way land is used, often leading to impacts on the environment and ecosystem>",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5479266770335207
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used for simulating climate change>",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7139087928063242
+    },
+    {
+      "name": "RCMs",
+      "label": "model",
+      "description": "Regional Climate Models, used for simulating climate change at a regional scale>",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5393695719292819
+    }
+  ],
+  "(41699, 44630)": [
+    {
+      "name": "Thailand",
+      "label": "location",
+      "description": "A country in Southeast Asia where the study on climate change, land use change, and soil loss was conducted",
+      "uuid": "4880b47d-3e42-4416-9ebb-60876f0a2f6b",
+      "score": 0.6129608108610223
+    },
+    {
+      "name": "LULC classification",
+      "label": "variable",
+      "description": "Land use and land cover classification, a method used to categorize land use and land cover types",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.6992836086587598
+    },
+    {
+      "name": "segmentation classification",
+      "label": "variable",
+      "description": "A method used for image classification and land use mapping",
+      "uuid": "46b21df4-0467-48eb-b442-709b584ad816",
+      "score": 0.5709784549581155
+    },
+    {
+      "name": "RUSLE",
+      "label": "model",
+      "description": "The Revised Universal Soil Loss Equation, a model used to estimate soil erosion",
+      "uuid": "241c94de-0eee-4c52-aec1-810c8a64eb97",
+      "score": 0.5164841034786967
+    },
+    {
+      "name": "Landsat TM data",
+      "label": "variable",
+      "description": "Data from the Landsat Thematic Mapper satellite, used for land use and land cover mapping",
+      "uuid": "bfc07fb2-ca22-48e6-8171-84527b0faae7",
+      "score": 0.6552108004252383
+    },
+    {
+      "name": "PRECIS RCM data",
+      "label": "variable",
+      "description": "Data from the Providing Regional Climates for Impacts Studies regional climate model",
+      "uuid": "fe64cea2-19de-470c-a919-b24c744c696b",
+      "score": 0.5202049894829623
+    },
+    {
+      "name": "NCAR Community Climate System Model",
+      "label": "model",
+      "description": "A climate model used for simulating climate change scenarios",
+      "uuid": "318b830f-8bd5-4d23-83bd-d3755cb54cda",
+      "score": 0.6142963415302573
+    },
+    {
+      "name": "CCSM",
+      "label": "model",
+      "description": "The Community Climate System Model, a climate model used for simulating climate change scenarios",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.6962093194048773
+    },
+    {
+      "name": "US Geological Survey",
+      "label": "provider",
+      "description": "An organization that provides geological and remote sensing data",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6366614182163464
+    },
+    {
+      "name": "soil erosion",
+      "label": "variable",
+      "description": "The process of soil loss due to erosion",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.6753544332491044
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "Changes in the Earth's climate system",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5615007720739987
+    },
+    {
+      "name": "land use change",
+      "label": "variable",
+      "description": "Changes in the use of land, such as deforestation or urbanization",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5583633069482337
+    }
+  ],
+  "(44206, 44630)": [
+    {
+      "name": "Southeast Asia START Regional Center",
+      "label": "provider",
+      "description": "An organization that provides data and support for climate research in Southeast Asia",
+      "uuid": "222195a6-1f14-47a6-816a-4bde7e74d8f5",
+      "score": 0.5555908715671619
+    },
+    {
+      "name": "NCAR",
+      "label": "provider",
+      "description": "The National Center for Atmospheric Research, an American research institute focused on atmospheric and climate science",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.755062337570253
+    },
+    {
+      "name": "CCSM",
+      "label": "model",
+      "description": "The Community Climate System Model, a climate model developed by NCAR for simulating the Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7016973064746953
+    },
+    {
+      "name": "Landsat TM",
+      "label": "instrument",
+      "description": "The Landsat Thematic Mapper, a satellite instrument used for remote sensing of the Earth's surface",
+      "uuid": "bfc07fb2-ca22-48e6-8171-84527b0faae7",
+      "score": 0.7921416686552444
+    },
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a scientific agency responsible for studying the Earth's natural resources and environment",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6519088835583633
+    }
+  ]
+}

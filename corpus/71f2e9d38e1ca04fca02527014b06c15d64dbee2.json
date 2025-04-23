@@ -1,0 +1,367 @@
+{
+  "(0, 3308)": [
+    {
+      "name": "accelerometers",
+      "label": "instrument",
+      "description": "Devices used to measure acceleration, often worn on the body to track physical activity levels",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.6389724427790813
+    },
+    {
+      "name": "global positioning system receivers",
+      "label": "instrument",
+      "description": "Devices that use satellite signals to determine geographic location and track movement",
+      "uuid": "029feed6-79dc-4316-b8ac-be8f1e557f89",
+      "score": 0.6745980895257564
+    },
+    {
+      "name": "geographic information systems",
+      "label": "model",
+      "description": "Computer-based tools used to capture, store, analyze, and display geographically referenced data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.7195893484049283
+    },
+    {
+      "name": "land-use classification",
+      "label": "variable",
+      "description": "A system used to categorize land into different types based on its use or cover, such as residential, commercial, or recreational",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6969115562665613
+    },
+    {
+      "name": "parks",
+      "label": "location",
+      "description": "Outdoor recreational areas, often featuring green spaces, playgrounds, and walking trails",
+      "uuid": "2b1f7993-2d54-40de-abc4-3909f619ad4e",
+      "score": 0.5577409226669456
+    },
+    {
+      "name": "other",
+      "label": "location",
+      "description": "Any location that does not fit into the specified categories, such as commercial areas or industrial zones",
+      "uuid": "748c0239-be0b-42ef-8d82-587c09afdb1d",
+      "score": 0.5039853277547434
+    }
+  ],
+  "(2749, 6007)": [
+    {
+      "name": "accelerometers",
+      "label": "instrument",
+      "description": "Devices used to measure acceleration and movement, often employed in physical activity research to quantify levels of activity",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.6336924156088944
+    },
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "Global Positioning System, a network of satellites used for navigation and tracking, applied in this context to monitor movement and location",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.696266711717224
+    },
+    {
+      "name": "parks",
+      "label": "location",
+      "description": "Outdoor recreational areas, often including playgrounds and green spaces, where physical activity can occur",
+      "uuid": "2b1f7993-2d54-40de-abc4-3909f619ad4e",
+      "score": 0.5382758481446954
+    },
+    {
+      "name": "Boston",
+      "label": "location",
+      "description": "A city in the United States, serving as the geographical context for the study",
+      "uuid": "5ae6db89-e135-4e83-9317-c48ee0bc832c",
+      "score": 0.64511996187996
+    }
+  ],
+  "(5455, 8436)": [
+    {
+      "name": "accelerometer",
+      "label": "instrument",
+      "description": "A device used to measure physical activity, typically worn on the hip or other parts of the body",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.5689653753548796
+    },
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "A device used to record location and track movement, often used in conjunction with accelerometers in research studies",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.6152822089558823
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, often recorded in Fahrenheit or Celsius",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6091977171482827
+    },
+    {
+      "name": "weather condition",
+      "label": "variable",
+      "description": "A description of the atmospheric conditions, such as sunny, overcast, rainy, or snowy",
+      "uuid": "0fd11f45-185a-4e38-8749-092ee09fab36",
+      "score": 0.5036172895239247
+    },
+    {
+      "name": "height",
+      "label": "variable",
+      "description": "A measure of a person's vertical distance from the ground, often recorded in inches or centimeters",
+      "uuid": "b1a4572e-a1e6-4473-9061-4ce9023eda4d",
+      "score": 0.5726871887752115
+    }
+  ],
+  "(7964, 11004)": [
+    {
+      "name": "hierarchical land-use classification system",
+      "label": "model",
+      "description": "A system used to categorize land use into different types based on geographic information and satellite imagery",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.5480170881435401
+    },
+    {
+      "name": "Accelerometer",
+      "label": "instrument",
+      "description": "A device used to measure acceleration and movement, often used to track physical activity",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.5987374382370875
+    },
+    {
+      "name": "geographic information system",
+      "label": "instrument",
+      "description": "A tool used to analyze and interpret geographic data, such as land use and location information",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.684453422321534
+    },
+    {
+      "name": "six distinct land-use classifications",
+      "label": "variable",
+      "description": "A set of categories used to classify land use, including home, school, park, playground, street/sidewalk, and other",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5987672163563644
+    },
+    {
+      "name": "MassGIS",
+      "label": "provider",
+      "description": "The Commonwealth of Massachusetts' Office of Geographic Information, a provider of geographic data and information",
+      "uuid": "840ab0d7-61ac-4e63-885a-5f45d8b3465b",
+      "score": 0.7404522124711245
+    },
+    {
+      "name": "Land Use 2005 GIS layer",
+      "label": "dataset",
+      "description": "A dataset provided by MassGIS, containing information on land use in the state of Massachusetts",
+      "uuid": "840ab0d7-61ac-4e63-885a-5f45d8b3465b",
+      "score": 0.5082181735427467
+    },
+    {
+      "name": "ArcGIS 9.2",
+      "label": "instrument",
+      "description": "A geographic information system software used for analyzing and interpreting geographic data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.5172647256608239
+    }
+  ],
+  "(10404, 13655)": [
+    {
+      "name": "hierarchical land-use classification system",
+      "label": "instrument",
+      "description": "A method used to categorize and classify land use based on a hierarchical structure to improve data accuracy and reduce misclassification",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.5391009776907772
+    },
+    {
+      "name": "Accelerometers",
+      "label": "instrument",
+      "description": "Devices used to measure physical activity by tracking movement and acceleration",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.6346518154845888
+    },
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "A system used for determining the precise location of something on Earth, often used in conjunction with other instruments for data collection",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.7365107752450695
+    },
+    {
+      "name": "land-use categories",
+      "label": "variable",
+      "description": "Classifications of how land is utilized, such as indoor, outdoor, or other, used to study relationships with physical activity",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.602195211097146
+    }
+  ],
+  "(13067, 15863)": [
+    {
+      "name": "land-use categories",
+      "label": "variable",
+      "description": "Classification of areas based on their use, such as residential, commercial, or recreational, which can influence physical activity levels",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5887106598828503
+    },
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "A navigation system used to track the location and movement of participants",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.6751422242088728
+    },
+    {
+      "name": "accelerometer",
+      "label": "instrument",
+      "description": "A device used to measure the acceleration and movement of participants",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.6178684758523864
+    }
+  ],
+  "(15375, 18580)": [
+    {
+      "name": "accelerometer",
+      "label": "instrument",
+      "description": "A device used to measure acceleration and movement, often used in physical activity studies",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.6031055829996006
+    },
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "The Global Positioning System, used for determining precise locations and tracking movement",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.7214493137053366
+    },
+    {
+      "name": "parks",
+      "label": "location",
+      "description": "Outdoor recreational areas designed for leisure and physical activity",
+      "uuid": "2b1f7993-2d54-40de-abc4-3909f619ad4e",
+      "score": 0.5610385647508381
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, often influencing physical activity levels",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5903294571932595
+    },
+    {
+      "name": "weather",
+      "label": "variable",
+      "description": "The state of the atmosphere at a particular place and time, including conditions such as rain, snow, or sunshine",
+      "uuid": "0fd11f45-185a-4e38-8749-092ee09fab36",
+      "score": 0.5003270085413989
+    },
+    {
+      "name": "snow",
+      "label": "weather event",
+      "description": "A type of weather condition characterized by the presence of snowfall or snow cover",
+      "uuid": "09c21315-faba-446c-b060-136705972347",
+      "score": 0.6443766508121541
+    }
+  ],
+  "(17941, 21368)": [
+    {
+      "name": "land-use categories",
+      "label": "variable",
+      "description": "Classification of areas based on their designated use, such as residential, commercial, or recreational",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.6439137629444346
+    },
+    {
+      "name": "parks",
+      "label": "location",
+      "description": "Public green spaces, often featuring walking trails, playgrounds, and other recreational facilities",
+      "uuid": "2b1f7993-2d54-40de-abc4-3909f619ad4e",
+      "score": 0.5529446463320693
+    },
+    {
+      "name": "streets and sidewalks",
+      "label": "location",
+      "description": "Infrastructure for pedestrian and vehicular transportation, often found in urban areas",
+      "uuid": "d4313915-2d24-424c-a171-30ee9a6f4bb5",
+      "score": 0.5092891629911431
+    }
+  ],
+  "(20858, 24325)": [
+    {
+      "name": "urban form",
+      "label": "location",
+      "description": "The physical structure and design of cities and towns, including factors such as density, layout, and transportation systems",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5011347636957492
+    },
+    {
+      "name": "land-use type",
+      "label": "location",
+      "description": "The way in which land is used, such as residential, commercial, or recreational areas",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.573139472286697
+    }
+  ],
+  "(23725, 27140)": [
+    {
+      "name": "accelerometer",
+      "label": "instrument",
+      "description": "A device used to measure acceleration, often employed in studies of physical activity to track movement and intensity",
+      "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
+      "score": 0.6099013879471974
+    },
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "The Global Positioning System, used for determining precise locations and tracking movements",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.720153677849048
+    },
+    {
+      "name": "University of North Carolina at Chapel Hill",
+      "label": "provider",
+      "description": "An academic institution that conducts research, provides education, and offers community services",
+      "uuid": "0105c1c8-53f4-454e-ae3c-ca200fff0c6e",
+      "score": 0.5198061342697317
+    },
+    {
+      "name": "National Institutes of Health",
+      "label": "provider",
+      "description": "A US government agency that conducts and supports medical research, providing funding for studies and initiatives related to health and disease",
+      "uuid": "780577a1-0563-4f42-b973-934278a8846c",
+      "score": 0.5450334634283623
+    }
+  ],
+  "(26665, 28311)": [
+    {
+      "name": "University of North Carolina at Chapel Hill",
+      "label": "provider",
+      "description": "A public research university in the United States, known for its academic programs and research initiatives",
+      "uuid": "0105c1c8-53f4-454e-ae3c-ca200fff0c6e",
+      "score": 0.5252718248701778
+    },
+    {
+      "name": "National Institutes of Health",
+      "label": "provider",
+      "description": "A part of the United States Department of Health and Human Services, focused on biomedical and health-related research",
+      "uuid": "780577a1-0563-4f42-b973-934278a8846c",
+      "score": 0.5355531810717541
+    },
+    {
+      "name": "Global positioning system",
+      "label": "instrument",
+      "description": "A network of satellites providing location information, used in navigation and research",
+      "uuid": "f082ad51-4ce4-4ffe-be50-6753c4f997ae",
+      "score": 0.7141281124781561
+    },
+    {
+      "name": "Geographic information systems",
+      "label": "instrument",
+      "description": "A tool for analyzing and interpreting geographically referenced data, used in various fields including environmental studies and urban planning",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.7141417611654087
+    },
+    {
+      "name": "Geographic information system data analysis",
+      "label": "experiment",
+      "description": "The process of analyzing data using geographic information systems, often applied in studies of spatial relationships and patterns",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.6247723789260331
+    }
+  ]
+}

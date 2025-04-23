@@ -1,0 +1,1043 @@
+{
+  "(0, 3191)": [
+    {
+      "name": "aquifers",
+      "label": "location",
+      "description": "Underground layers of permeable rock that store and transmit significant amounts of water, crucial for human consumption, agriculture, and ecosystems",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.6831644294693294
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air in the atmosphere, a key factor influencing climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6778913938603297
+    },
+    {
+      "name": "surface water bodies",
+      "label": "location",
+      "description": "Bodies of water on the Earth's surface, such as rivers, lakes, and reservoirs, that play a crucial role in the hydrological cycle and support various ecosystems",
+      "uuid": "959f1861-a776-41b1-ba6b-d23c71d4d1eb",
+      "score": 0.7090588174105139
+    },
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The area beneath the Earth's surface, including soil, rock, and groundwater, where various geological and hydrological processes occur",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.5977638634369927
+    },
+    {
+      "name": "surface temperature signals",
+      "label": "variable",
+      "description": "Changes in temperature at the Earth's surface, which can influence subsurface temperatures and hydrological processes",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5544474752542738
+    },
+    {
+      "name": "groundwater resource quality management",
+      "label": "project",
+      "description": "Efforts to maintain and improve the quality of groundwater resources, ensuring their sustainability for human consumption, agriculture, and ecosystems",
+      "uuid": "96810430-e7e1-45eb-a4eb-8a7e17fe5076",
+      "score": 0.6210287119405118
+    },
+    {
+      "name": "recent or projected climate change",
+      "label": "teleconnection",
+      "description": "Changes in global climate patterns, either observed in recent decades or predicted for the future, which can impact various aspects of the environment and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.58903316749154
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "The physical, chemical, and biological characteristics of water that determine its suitability for various uses, such as human consumption, agriculture, and ecosystems",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7267430032893583
+    },
+    {
+      "name": "groundwater temperature",
+      "label": "variable",
+      "description": "The temperature of water in underground aquifers, which can be influenced by climate change and impact groundwater quality and ecosystems",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5394772862908939
+    }
+  ],
+  "(2726, 5125)": [
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Subsurface water stored in the soil and in the fractured rock formations beneath the Earth's surface, essential for human consumption, agriculture, and ecosystems",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6810389856272298
+    },
+    {
+      "name": "groundwater resource quality management",
+      "label": "project",
+      "description": "The management and protection of groundwater resources to ensure their quality and sustainability for various uses, including drinking water, irrigation, and industrial applications",
+      "uuid": "96810430-e7e1-45eb-a4eb-8a7e17fe5076",
+      "score": 0.6365793336475661
+    },
+    {
+      "name": "groundwater temperatures",
+      "label": "variable",
+      "description": "The temperature of water in the subsurface, influenced by factors such as climate change, geothermal heat, and human activities",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5567394919218024
+    },
+    {
+      "name": "surface water bodies",
+      "label": "location",
+      "description": "Lakes, rivers, and wetlands on the Earth's surface, playing a crucial role in the water cycle, ecosystems, and human activities",
+      "uuid": "959f1861-a776-41b1-ba6b-d23c71d4d1eb",
+      "score": 0.7241427849446992
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate, including rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6064772130121533
+    },
+    {
+      "name": "river ecology",
+      "label": "location",
+      "description": "The ecosystem and biological community within rivers, influenced by factors such as water temperature, flow, and quality",
+      "uuid": "43d51c24-0523-4b65-919f-17618c7d72b4",
+      "score": 0.5313210192709369
+    },
+    {
+      "name": "shallow aquifers",
+      "label": "location",
+      "description": "Underground layers of permeable rock or soil that store and transmit large amounts of water, often recharged by precipitation and influenced by climate change",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5723663006889306
+    },
+    {
+      "name": "geothermal gradient",
+      "label": "variable",
+      "description": "The rate of change in temperature with depth in the Earth's crust, influenced by factors such as heat flow, tectonic activity, and climate change",
+      "uuid": "f4573e47-3cce-49ec-98d3-b5b3bb51371e",
+      "score": 0.6985366779411051
+    },
+    {
+      "name": "temperature-depth profiles",
+      "label": "variable",
+      "description": "Graphical representations of temperature changes with depth in the subsurface, used to study groundwater flow, heat transport, and climate change impacts",
+      "uuid": "321d9086-fc85-40a3-a2e0-d24bc6765345",
+      "score": 0.5584471515797917
+    },
+    {
+      "name": "paleoclimates",
+      "label": "variable",
+      "description": "Ancient climates, reconstructed through the analysis of geological, biological, and other proxy data to understand past environmental conditions",
+      "uuid": "c7245882-84a1-4192-acfa-a758b5b9c151",
+      "score": 0.676750736157764
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability of a system or process to be maintained at a certain level over time, often referring to the long-term health and resilience of ecosystems and natural resources",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6986190042380546
+    },
+    {
+      "name": "climate-changeinduced warming",
+      "label": "teleconnection",
+      "description": "The warming of the Earth's climate system due to human-induced climate change, leading to changes in temperature, precipitation, and other environmental factors",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6314991256009612
+    }
+  ],
+  "(4711, 7317)": [
+    {
+      "name": "temperature-depth profiles",
+      "label": "variable",
+      "description": "Measurements of temperature at various depths below the Earth's surface, used to infer past climate conditions",
+      "uuid": "321d9086-fc85-40a3-a2e0-d24bc6765345",
+      "score": 0.5668964699432758
+    },
+    {
+      "name": "Heat advection",
+      "label": "process",
+      "description": "The transfer of heat through the movement of fluids, such as groundwater, which can affect subsurface temperature-depth profiles",
+      "uuid": "5f6358aa-872c-4c1c-9388-4714138f034a",
+      "score": 0.581334661288128
+    },
+    {
+      "name": "groundwater flow",
+      "label": "process",
+      "description": "The movement of water beneath the Earth's surface, which can influence subsurface thermal regimes and perturb temperature-depth profiles",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.6297711888879141
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area with distinct characteristics, such as climate, geology, or hydrology",
+      "uuid": "204270d9-8039-4768-851e-63635af5fb65",
+      "score": 0.624015885642195
+    },
+    {
+      "name": "river water",
+      "label": "variable",
+      "description": "Water from rivers, which can infiltrate into aquifers and affect subsurface temperature-depth profiles",
+      "uuid": "efecefa7-67b6-44a3-a4f6-dada93a70225",
+      "score": 0.5137781167513272
+    },
+    {
+      "name": "geothermal gradient",
+      "label": "variable",
+      "description": "The rate of change of temperature with depth in the Earth's crust, used as a reference for temperature-depth profiles",
+      "uuid": "f4573e47-3cce-49ec-98d3-b5b3bb51371e",
+      "score": 0.68833790517016
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, which can influence subsurface temperature-depth profiles",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6611189929522205
+    },
+    {
+      "name": "climate oscillations",
+      "label": "teleconnection",
+      "description": "Recurring patterns of climate variability that can impact regional climate conditions",
+      "uuid": "25d4368e-3b66-40d5-bac1-2343b127fa32",
+      "score": 0.5001614747050814
+    },
+    {
+      "name": "Swiss aquifers",
+      "label": "location",
+      "description": "Underground water-bearing rock formations in Switzerland, which can be affected by climate change and groundwater flow",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5510240940478475
+    }
+  ],
+  "(6802, 9829)": [
+    {
+      "name": "groundwater flow",
+      "label": "variable",
+      "description": "The movement of water through the soil and underlying rock, influenced by factors such as climate, geology, and land use",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.6202115675128401
+    },
+    {
+      "name": "Swiss aquifers",
+      "label": "location",
+      "description": "Underground layers of permeable rock that store and transmit water in Switzerland",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5749140957327521
+    },
+    {
+      "name": "climate oscillations",
+      "label": "teleconnection",
+      "description": "Patterns of climate variability that affect multiple regions and can impact local weather and climate conditions",
+      "uuid": "25d4368e-3b66-40d5-bac1-2343b127fa32",
+      "score": 0.5018496569036531
+    },
+    {
+      "name": "bank infiltration",
+      "label": "process",
+      "description": "The movement of water from a river into the surrounding soil and aquifers",
+      "uuid": "638a22af-4e97-450e-a278-b81338443230",
+      "score": 0.541303402990446
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe where the study was conducted",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.5681704949579744
+    },
+    {
+      "name": "SAT",
+      "label": "variable",
+      "description": "Surface Air Temperature, a measure of the temperature of the air near the Earth's surface",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6262222549892673
+    },
+    {
+      "name": "GWT",
+      "label": "variable",
+      "description": "Groundwater Temperature, a measure of the temperature of water in the ground",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.5260274994010282
+    },
+    {
+      "name": "atmospheric temperature development",
+      "label": "variable",
+      "description": "Changes in the temperature of the atmosphere over time",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.5739706098773685
+    },
+    {
+      "name": "weather stations",
+      "label": "instrument",
+      "description": "Devices used to measure weather conditions such as temperature, precipitation, and wind",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.641984629907391
+    },
+    {
+      "name": "global mean air temperature change",
+      "label": "variable",
+      "description": "The average change in air temperature across the globe",
+      "uuid": "1838e31f-ef6d-42f8-b166-71f6cd1aaa57",
+      "score": 0.5116382432094547
+    }
+  ],
+  "(9355, 12314)": [
+    {
+      "name": "GWT",
+      "label": "variable",
+      "description": "Groundwater temperature, a measure of the temperature of water in the aquifer",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.5099209310224596
+    },
+    {
+      "name": "river water",
+      "label": "variable",
+      "description": "Water from rivers, which can influence groundwater temperature",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.5065358165174301
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that stores and transmits water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5910694870713982
+    },
+    {
+      "name": "meteorological water",
+      "label": "variable",
+      "description": "Water that infiltrates the ground from the atmosphere, recharging the aquifer",
+      "uuid": "875b1cd8-ca7e-4edb-9e83-ac78f1a3bc9f",
+      "score": 0.5043604527687056
+    },
+    {
+      "name": "weather stations",
+      "label": "platform",
+      "description": "Locations where meteorological data, including ambient air temperature, are collected",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.6514022281571697
+    },
+    {
+      "name": "probe",
+      "label": "instrument",
+      "description": "A device used to measure temperature and other parameters in the observation wells",
+      "uuid": "278ab29e-9e5e-4829-a676-57db94d4bbf1",
+      "score": 0.5847055202182061
+    },
+    {
+      "name": "water quality assessments",
+      "label": "experiment",
+      "description": "Regular evaluations of the chemical and physical properties of water in the observation wells",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.5631179601364756
+    },
+    {
+      "name": "environmental state agencies",
+      "label": "provider",
+      "description": "Organizations responsible for monitoring and regulating environmental conditions, including groundwater quality",
+      "uuid": "5e7207d8-c3dc-412a-847a-ad5175d458fb",
+      "score": 0.5384862004585209
+    },
+    {
+      "name": "SAT",
+      "label": "variable",
+      "description": "Surface air temperature, a measure of the temperature of the air near the Earth's surface",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6276584524254777
+    }
+  ],
+  "(11740, 14767)": [
+    {
+      "name": "ambient air temperature",
+      "label": "variable",
+      "description": "The temperature of the surrounding air, which can influence the measurement of other temperatures, such as water temperature",
+      "uuid": "1d2ac206-0977-4145-b334-baa6e13a0db6",
+      "score": 0.7179286801598024
+    },
+    {
+      "name": "weather stations",
+      "label": "platform",
+      "description": "Locations equipped with instruments to measure and record weather conditions, such as temperature, precipitation, and wind",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.6559591173134653
+    },
+    {
+      "name": "German Weather Service",
+      "label": "provider",
+      "description": "A national meteorological service responsible for providing weather forecasts, warnings, and climate data for Germany",
+      "uuid": "ff4e5b28-8ab1-4c79-8dac-5d3f6c408baf",
+      "score": 0.6702565519408838
+    },
+    {
+      "name": "probe",
+      "label": "instrument",
+      "description": "A device used to measure temperature or other properties of a substance or environment",
+      "uuid": "2ce8f7cd-ee26-4f43-83cb-5113ec8293dc",
+      "score": 0.5926631264730265
+    },
+    {
+      "name": "temperature measurements",
+      "label": "variable",
+      "description": "The process of recording temperature data, often using instruments such as probes or thermometers",
+      "uuid": "2ce8f7cd-ee26-4f43-83cb-5113ec8293dc",
+      "score": 0.5632736419753216
+    },
+    {
+      "name": "water temperature",
+      "label": "variable",
+      "description": "The temperature of water, which can be influenced by factors such as ambient air temperature and seasonal variations",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.6915904878486777
+    },
+    {
+      "name": "mean air temperature anomalies",
+      "label": "variable",
+      "description": "The difference between the average air temperature and a reference temperature, often used to study climate trends and patterns",
+      "uuid": "1838e31f-ef6d-42f8-b166-71f6cd1aaa57",
+      "score": 0.6762752676655265
+    },
+    {
+      "name": "land-surface air and sea-surface water temperature anomalies",
+      "label": "variable",
+      "description": "The difference between the average temperature of the land surface, sea surface, or air and a reference temperature, used to study climate patterns and trends",
+      "uuid": "904f3b34-20c8-4eb8-bf68-6304edecf945",
+      "score": 0.6686248785300682
+    },
+    {
+      "name": "air temperatures",
+      "label": "variable",
+      "description": "The temperature of the air, which can be influenced by factors such as seasonal variations and ambient air temperature",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6013909893072813
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, which experiences different climate patterns and seasonal variations than the Southern Hemisphere",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7296598614169838
+    },
+    {
+      "name": "atmospheric temperatures",
+      "label": "variable",
+      "description": "The temperature of the atmosphere, which can be influenced by factors such as seasonal variations and climate change",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.6639616467905024
+    }
+  ],
+  "(14299, 17096)": [
+    {
+      "name": "atmospheric oscillations",
+      "label": "teleconnection",
+      "description": "Patterns of climate variability that occur in the atmosphere, often on decadal timescales",
+      "uuid": "c0656cbc-5d94-4945-bbfd-1c8eabb059b2",
+      "score": 0.5608965780405896
+    },
+    {
+      "name": "atmospheric temperatures",
+      "label": "variable",
+      "description": "Measurements of the temperature of the atmosphere, used to study climate patterns and trends",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.6644395616702728
+    }
+  ],
+  "(16582, 18977)": [
+    {
+      "name": "groundwater flow",
+      "label": "natural hazard",
+      "description": "The movement of water beneath Earth's surface, which can influence soil moisture, temperature, and the distribution of dissolved substances",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.6441420357597704
+    },
+    {
+      "name": "pure advection",
+      "label": "experiment",
+      "description": "A process of heat transport in which the movement of a fluid, such as water or air, plays a dominant role in transferring thermal energy",
+      "uuid": "5f6358aa-872c-4c1c-9388-4714138f034a",
+      "score": 0.5953587978811813
+    },
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The region beneath Earth's surface, encompassing soil, rock, and groundwater, where various geological and hydrological processes occur",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.6010321811779396
+    },
+    {
+      "name": "divergence",
+      "label": "variable",
+      "description": "A measure of how much a vector field spreads out or comes together at a given point, often used in physics and engineering to describe fluid flow and heat transfer",
+      "uuid": "5c58acfc-04ed-4cbf-8674-13c41b3e950d",
+      "score": 0.5668730896740104
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, commonly used to describe the climate, weather, and environmental conditions",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6511689698624684
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground surface temperature, a measure of the thermal energy at the Earth's surface, often used to study climate change and its effects on the environment",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5751852559313195
+    }
+  ],
+  "(18613, 21234)": [
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "The ground surface temperature, a measure of the temperature at the Earth's surface, influencing subsurface heat transport",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5457245016585156
+    },
+    {
+      "name": "SAT",
+      "label": "variable",
+      "description": "The surface air temperature, a measure of the temperature of the air near the Earth's surface",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6105635814213699
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface in soil and in the fractures of rock formations",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6750577147365955
+    },
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The region beneath the Earth's surface, including soil, rock, and groundwater",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.5845944383334071
+    },
+    {
+      "name": "geothermal gradient",
+      "label": "variable",
+      "description": "The rate of change of temperature with depth in the Earth's crust, influencing subsurface heat transport",
+      "uuid": "f4573e47-3cce-49ec-98d3-b5b3bb51371e",
+      "score": 0.6898403041145733
+    },
+    {
+      "name": "near-surface aquifers",
+      "label": "location",
+      "description": "Shallow underground layers of permeable rock or soil that store and transmit large amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5567679694587301
+    },
+    {
+      "name": "land cover changes",
+      "label": "experiment",
+      "description": "Changes in the use or cover of land, such as deforestation or urbanization, which can impact subsurface temperature evolution",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5637875804008802
+    }
+  ],
+  "(20984, 23787)": [
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The area beneath the Earth's surface, including soil, rock, and groundwater, where thermal properties and processes are studied",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.5697616388822805
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that stores and transmits large amounts of water, influencing local hydrology and climate",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.6048534075208264
+    },
+    {
+      "name": "lithology",
+      "label": "variable",
+      "description": "The study of the physical characteristics of rocks, including their composition, texture, and structure, which affects subsurface thermal properties",
+      "uuid": "4beaeec9-0750-44e6-8fb4-8d0085efc82e",
+      "score": 0.5418901477302458
+    },
+    {
+      "name": "water content",
+      "label": "variable",
+      "description": "The amount of water present in the soil or rock, influencing thermal diffusivity and subsurface temperature",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.5619418938833103
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground Surface Temperature, a measure of the temperature at the Earth's surface, driving subsurface thermal regimes",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5704240114025274
+    },
+    {
+      "name": "SAT",
+      "label": "variable",
+      "description": "Surface Air Temperature, a measure of the temperature in the air near the Earth's surface, used as a proxy for GST in this study",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5914855036046335
+    }
+  ],
+  "(23272, 25869)": [
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographical area being studied, characterized by its unique climate, hydrology, and geological features",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.6112781531845014
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface in soil and in the fractured rock formations called aquifers",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6721610516252419
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that can store and transmit significant amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.597279395874316
+    },
+    {
+      "name": "atmospheric oscillation indices",
+      "label": "variable",
+      "description": "Quantitative measures used to describe patterns of atmospheric circulation and climate variability, such as the El Ni\u00f1o-Southern Oscillation or the North Atlantic Oscillation",
+      "uuid": "77b2422e-ce52-465f-8841-5d04ebe536dc",
+      "score": 0.6315212734474446
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, known for its significant influence on global climate patterns",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7867220168326274
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent characterized by diverse climate, hydrology, and geological features, influencing regional and global environmental conditions",
+      "uuid": "a62ae820-58c5-47ff-bb72-2680962b26f4",
+      "score": 0.6520165928881376
+    }
+  ],
+  "(25504, 28214)": [
+    {
+      "name": "Arctic Oscillation",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across the Northern Hemisphere, particularly influencing air temperatures in Europe",
+      "uuid": "98e5a7e4-b946-474a-8214-c1b7b3e5f976",
+      "score": 0.7511780795913363
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, encompassing a wide range of climates and ecosystems",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7660047142471073
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country in Europe known for its mountainous terrain and influence on regional climate patterns",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.6720963678660097
+    },
+    {
+      "name": "atmosphere",
+      "label": "platform",
+      "description": "The layer of gases surrounding the Earth, crucial for climate regulation and weather phenomena",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6324871748141725
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface in soil and in the fractured rock formations called aquifers",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6721610516252419
+    },
+    {
+      "name": "air temperatures",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, an important factor in climate and weather studies",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6290564690904388
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on Earth, known for its diverse climate zones and regional weather patterns",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6443807544005281
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe with varied climate conditions, influenced by its geography and the Arctic Oscillation",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6721957036772396
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, known for its role in global climate patterns and the occurrence of the CRS",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7628185122812357
+    }
+  ],
+  "(27672, 30494)": [
+    {
+      "name": "ocean temperature measurements",
+      "label": "variable",
+      "description": "Measurements of the temperature of the ocean, used to study oceanic and global climate patterns",
+      "uuid": "251c87cd-03b3-464f-8390-8ede2fec28fc",
+      "score": 0.6842319300476707
+    },
+    {
+      "name": "thermal properties",
+      "label": "variable",
+      "description": "Physical properties that describe the ability of a material to conduct, absorb, or emit heat, important in understanding energy transfer in climate systems",
+      "uuid": "7d3d6c15-b328-43a4-92eb-7d3c430647c4",
+      "score": 0.7372323006283605
+    },
+    {
+      "name": "ocean temperatures",
+      "label": "variable",
+      "description": "The temperature of the ocean, which plays a crucial role in regulating global climate patterns due to its high thermal inertia",
+      "uuid": "251c87cd-03b3-464f-8390-8ede2fec28fc",
+      "score": 0.6545057085101648
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface in soil and in the fractured rock formations called aquifers, influencing local climate and ecosystems",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6772180906122861
+    },
+    {
+      "name": "SAT",
+      "label": "variable",
+      "description": "Surface Air Temperature, a measure of the temperature of the air near the Earth's surface, used to study climate patterns and changes",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6103591884088871
+    },
+    {
+      "name": "GWT",
+      "label": "variable",
+      "description": "Groundwater Temperature, a measure of the temperature of water beneath the Earth's surface, influenced by climate and hydrological factors",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.5452010296500296
+    },
+    {
+      "name": "global mean SAT",
+      "label": "variable",
+      "description": "The average surface air temperature over the entire globe, used as an indicator of global climate change",
+      "uuid": "f7c9aebd-2802-4221-8adb-199f81034a1a",
+      "score": 0.5364472563301868
+    },
+    {
+      "name": "land use changes",
+      "label": "natural hazard",
+      "description": "Changes in the way land is used, such as deforestation or urbanization, which can impact local climate and ecosystems",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5432706670543271
+    }
+  ],
+  "(30112, 32725)": [
+    {
+      "name": "SAT",
+      "label": "variable",
+      "description": "Surface Air Temperature, a measure of the temperature of the air near the Earth's surface",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6262222549892673
+    },
+    {
+      "name": "GWT",
+      "label": "variable",
+      "description": "Groundwater Temperature, the temperature of water beneath the Earth's surface",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.521888807513395
+    },
+    {
+      "name": "Swiss",
+      "label": "location",
+      "description": "A country in Europe known for its mountainous terrain and diverse climate",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.6100031492075402
+    }
+  ],
+  "(32298, 35034)": [
+    {
+      "name": "GWT",
+      "label": "variable",
+      "description": "Groundwater temperature, a measure of the temperature of water in underground aquifers",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.5162619339613943
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground surface temperature, a measure of the temperature of the Earth's surface",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5724198436485192
+    }
+  ],
+  "(34574, 37335)": [
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground surface temperature, a measure of the temperature at the Earth's surface",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5794005957252504
+    },
+    {
+      "name": "GWT",
+      "label": "variable",
+      "description": "Groundwater temperature, a measure of the temperature of water in the subsurface",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.5172930414665017
+    },
+    {
+      "name": "thermal properties",
+      "label": "variable",
+      "description": "Properties of materials that describe their ability to conduct and store heat, such as thermal diffusivity and heat capacity",
+      "uuid": "7d3d6c15-b328-43a4-92eb-7d3c430647c4",
+      "score": 0.7125874969709642
+    },
+    {
+      "name": "thermal diffusivity",
+      "label": "variable",
+      "description": "A measure of the rate at which heat spreads through a material",
+      "uuid": "c67c1e1c-19f1-49de-8b2b-d5ce6f596323",
+      "score": 0.5080552897416625
+    },
+    {
+      "name": "heat capacity",
+      "label": "variable",
+      "description": "A measure of the amount of heat energy required to change the temperature of a material",
+      "uuid": "8931329c-3f6d-4ba6-913c-27afa8d104c1",
+      "score": 0.5311042967751416
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water moves downward from Earth's surface to recharge groundwater",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6537529512931045
+    }
+  ],
+  "(36892, 39872)": [
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The area beneath the Earth's surface, including soil, rock, and groundwater",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.5820740243226883
+    },
+    {
+      "name": "heat advection",
+      "label": "variable",
+      "description": "The process by which heat is transferred through the movement of fluids, such as water or air",
+      "uuid": "5f6358aa-872c-4c1c-9388-4714138f034a",
+      "score": 0.668982287293006
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Ground Surface Temperature, a measure of the temperature at the Earth's surface",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.5827050752548153
+    },
+    {
+      "name": "GWT",
+      "label": "variable",
+      "description": "Ground Water Temperature, a measure of the temperature of water in the subsurface",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.5276281617948674
+    },
+    {
+      "name": "climate model projections",
+      "label": "model",
+      "description": "Predictions or simulations of future climate conditions, often used to inform decision-making and policy",
+      "uuid": "c15e05c9-9dc4-4712-98ba-a05d61bdf1c1",
+      "score": 0.5573405602205677
+    },
+    {
+      "name": "SAT",
+      "label": "variable",
+      "description": "Surface Air Temperature, a measure of the temperature of the air near the Earth's surface",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6262222549892673
+    }
+  ],
+  "(39387, 42512)": [
+    {
+      "name": "aquifers",
+      "label": "location",
+      "description": "Underground layers of permeable rock or soil that store and transmit large amounts of water, often feeding rivers and streams",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.6679560238454598
+    },
+    {
+      "name": "warming climate",
+      "label": "weather event",
+      "description": "A long-term trend of increasing global temperatures, leading to various environmental and ecological impacts",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6512992684058466
+    },
+    {
+      "name": "river or stream discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a river or stream over a given period, often influenced by factors such as precipitation, evaporation, and groundwater input",
+      "uuid": "12dc1f4f-2116-4b74-a1bd-bc61e8e57a5b",
+      "score": 0.6436775397082108
+    },
+    {
+      "name": "streams",
+      "label": "location",
+      "description": "Natural flowing bodies of water, often smaller than rivers and influenced by surrounding aquifers and climate conditions",
+      "uuid": "1d2d0777-b47e-45ee-ac85-2d7b9f6e4ffd",
+      "score": 0.6621739665217444
+    },
+    {
+      "name": "base-flow-dominated streams",
+      "label": "location",
+      "description": "Streams or rivers where the majority of the flow comes from groundwater, often maintaining a relatively stable temperature and flow rate",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6260457818675756
+    },
+    {
+      "name": "mean annual surface temperature",
+      "label": "variable",
+      "description": "The average temperature of the Earth's surface over a year, often used as a reference point for climate studies and modeling",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5329675160254336
+    },
+    {
+      "name": "base flow",
+      "label": "variable",
+      "description": "The portion of a stream's or river's flow that comes from groundwater, often providing a stable and consistent source of water",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.7303288843907235
+    },
+    {
+      "name": "heat transport",
+      "label": "variable",
+      "description": "The movement of heat energy through a system or environment, often influenced by factors such as conduction, convection, and advection",
+      "uuid": "299923f8-d5cd-47bf-abd4-6135ef0d7b1a",
+      "score": 0.5289739860425781
+    }
+  ],
+  "(41976, 45119)": [
+    {
+      "name": "aquifers",
+      "label": "location",
+      "description": "Underground layers of permeable rock or soil that store and transmit significant amounts of water, playing a crucial role in the hydrological cycle",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.6903101725714262
+    },
+    {
+      "name": "warming climate",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the increase in Earth's average surface temperature, primarily caused by human activities and leading to various climate-related impacts",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6475973185094529
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to Earth's surface over a specific period, influencing the hydrological cycle, climate, and weather patterns",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6653548296271222
+    },
+    {
+      "name": "advection",
+      "label": "process",
+      "description": "The transport of water, heat, or other substances through the movement of fluids, such as air or water, playing a significant role in shaping climate and weather patterns",
+      "uuid": "5f6358aa-872c-4c1c-9388-4714138f034a",
+      "score": 0.7146141150363261
+    },
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The region below Earth's surface, encompassing soil, rock, and groundwater, which interacts with the atmosphere and influences climate and hydrological processes",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.5823212887880492
+    },
+    {
+      "name": "thermal properties",
+      "label": "variable",
+      "description": "Characteristics of materials that describe their ability to conduct, absorb, or emit heat, influencing the behavior of climate and weather systems",
+      "uuid": "7d3d6c15-b328-43a4-92eb-7d3c430647c4",
+      "score": 0.7328695238574364
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, known for its diverse climate and geography",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6603372181057785
+    },
+    {
+      "name": "SAT",
+      "label": "variable",
+      "description": "Surface Air Temperature, a measure of the temperature of the air near the Earth's surface, often used as an indicator of climate change",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6153254864432296
+    },
+    {
+      "name": "GWT",
+      "label": "variable",
+      "description": "Groundwater Temperature, a measure of the temperature of water in aquifers and other underground water bodies, influenced by climate change and other environmental factors",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.5360071247074264
+    }
+  ],
+  "(44565, 46171)": [
+    {
+      "name": "soil temperatures",
+      "label": "variable",
+      "description": "The temperature of the soil, which can be affected by climate change and has implications for ecosystems and agriculture",
+      "uuid": "b29ee2f4-b2ce-4b19-b8e3-2d74d071549b",
+      "score": 0.6952146652695099
+    },
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The area beneath the Earth's surface, including soil, rock, and groundwater, where thermal responses to climate change can occur",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.5382039390107893
+    },
+    {
+      "name": "long-term mean surface temperature",
+      "label": "variable",
+      "description": "The average temperature of the Earth's surface over a long period, used as a boundary condition in modeling subsurface thermal regimes",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.5306691983088153
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface, which can be affected by climate change and is important for human consumption and ecosystems",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6378705702505582
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate system, including rising temperatures and altered precipitation patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5986931688777966
+    }
+  ]
+}

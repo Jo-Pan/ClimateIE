@@ -1,0 +1,958 @@
+{
+  "(0, 3012)": [
+    {
+      "name": "tree growth",
+      "label": "variable",
+      "description": "The increase in size and biomass of trees over time, influenced by factors such as climate, soil, and water availability",
+      "uuid": "0e06e528-e796-4b7c-9878-dbcb061d878d",
+      "score": 0.512522295635141
+    },
+    {
+      "name": "40-year tree ring record",
+      "label": "dataset",
+      "description": "A collection of data on tree growth and climate conditions over a 40-year period, used to study the impact of climate change on forest productivity",
+      "uuid": "6444fc67-8cad-41c0-9ded-e93f604ba8b0",
+      "score": 0.6158322020776729
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, driven by human activities and natural factors, with significant impacts on ecosystems and forest productivity",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5536767387252093
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy, influencing tree growth and carbon sequestration",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6302488502158555
+    },
+    {
+      "name": "standing biomass",
+      "label": "variable",
+      "description": "The total amount of living biomass in a forest ecosystem, influenced by tree growth and climate conditions",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5030591536309938
+    }
+  ],
+  "(2535, 5019)": [
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6711611216934247
+    },
+    {
+      "name": "tree growth",
+      "label": "variable",
+      "description": "The increase in size or biomass of trees over time, influenced by factors such as climate, water availability, and nutrient supply",
+      "uuid": "0e06e528-e796-4b7c-9878-dbcb061d878d",
+      "score": 0.5111121100491839
+    },
+    {
+      "name": "terrestrial biosphere models",
+      "label": "model",
+      "description": "Computational representations of the Earth's land surface and its interactions with the atmosphere, used to simulate and predict ecosystem processes and responses to climate change",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.5506151337117103
+    },
+    {
+      "name": "warming",
+      "label": "variable",
+      "description": "The increase in temperature of the Earth's atmosphere, which can have various impacts on ecosystem processes and tree growth",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5819716677474458
+    },
+    {
+      "name": "growing season",
+      "label": "variable",
+      "description": "The period of time during which plants are able to grow, which can be influenced by factors such as temperature, precipitation, and daylight hours",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6653922391023129
+    },
+    {
+      "name": "atmospheric evaporative demand",
+      "label": "variable",
+      "description": "The rate at which the atmosphere demands water from plants, which can be influenced by factors such as temperature, humidity, and wind speed",
+      "uuid": "f28060e0-1c51-41df-8451-6c98b3e77e8a",
+      "score": 0.5093552753849375
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as the growth and development of plants, in relation to environmental factors such as climate and weather",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6001453386786171
+    },
+    {
+      "name": "climate sensitivity",
+      "label": "variable",
+      "description": "The degree to which a system or process responds to changes in climate, which can be influenced by factors such as temperature, precipitation, and atmospheric CO2 enrichment",
+      "uuid": "6fa682b9-c6b5-46ca-971f-b7ecd4bf304d",
+      "score": 0.5253463058311711
+    },
+    {
+      "name": "forest",
+      "label": "location",
+      "description": "A type of ecosystem characterized by a dense growth of trees and other vegetation, which can be influenced by factors such as climate change, land use, and management practices",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.595841766774897
+    }
+  ],
+  "(4604, 7125)": [
+    {
+      "name": "atmospheric evaporative demand",
+      "label": "variable",
+      "description": "A measure of the atmosphere's ability to evaporate water, influenced by temperature, humidity, and wind speed",
+      "uuid": "f28060e0-1c51-41df-8451-6c98b3e77e8a",
+      "score": 0.5052816323031537
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate system, including rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.606798545930918
+    },
+    {
+      "name": "ecosystem",
+      "label": "location",
+      "description": "A community of living and non-living components that interact with each other in a specific environment, such as a forest or grassland",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.666468568449169
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used to study climate and weather patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6547111295889559
+    },
+    {
+      "name": "dendrochronological models",
+      "label": "model",
+      "description": "Statistical models used to reconstruct past climate conditions based on tree ring data",
+      "uuid": "6444fc67-8cad-41c0-9ded-e93f604ba8b0",
+      "score": 0.5102842791194954
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7414456615238761
+    },
+    {
+      "name": "extreme climatic events",
+      "label": "weather event",
+      "description": "Unusual and severe weather events, such as heatwaves, droughts, or storms, that can have significant impacts on ecosystems and human societies",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.5936111704112805
+    },
+    {
+      "name": "atmospheric warming",
+      "label": "teleconnection",
+      "description": "The process of increasing temperatures in the atmosphere, often associated with climate change",
+      "uuid": "06a24fd2-38b6-4a4a-a0cf-1abf149283e2",
+      "score": 0.5914695594943018
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region characterized by a Mediterranean climate, often marked by hot summers and mild winters",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.5454050183643397
+    }
+  ],
+  "(6661, 9240)": [
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by a unique climate with warm summers and mild winters",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6035459989571679
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human activities",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7153704267841717
+    },
+    {
+      "name": "spring",
+      "label": "season",
+      "description": "A season of renewal and growth, typically characterized by increasing temperatures and daylight hours",
+      "uuid": "620a9e6c-5851-48b7-93c5-a1706546f5d1",
+      "score": 0.5336161232333609
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in an environment, influencing various physical and biological processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6035999847081097
+    },
+    {
+      "name": "automatic dendrometers",
+      "label": "instrument",
+      "description": "Devices used to measure the growth of trees, providing high-resolution data on tree diameter and growth patterns",
+      "uuid": "34929d50-da72-4ed0-90dd-b4b72153c9b4",
+      "score": 0.614172708797614
+    },
+    {
+      "name": "tree ring records",
+      "label": "dataset",
+      "description": "A collection of data derived from the growth rings of trees, used to reconstruct past climate conditions and environmental changes",
+      "uuid": "6444fc67-8cad-41c0-9ded-e93f604ba8b0",
+      "score": 0.7427067537273646
+    },
+    {
+      "name": "dendrochronological studies",
+      "label": "experiment",
+      "description": "Scientific investigations that use tree rings to understand past environmental conditions, climate patterns, and ecological processes",
+      "uuid": "84510f18-a4e6-434c-a54c-44cc995e1af2",
+      "score": 0.5801790802674951
+    },
+    {
+      "name": "atmospheric warming",
+      "label": "weather event",
+      "description": "The increase in temperature of the Earth's atmosphere, primarily caused by human activities such as burning fossil fuels and deforestation",
+      "uuid": "06a24fd2-38b6-4a4a-a0cf-1abf149283e2",
+      "score": 0.5629092276388266
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Europe, where the study site of the Pu\u00e9chabon state forest is located",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.5410903179188368
+    }
+  ],
+  "(8886, 11120)": [
+    {
+      "name": "Automatic dendrometers",
+      "label": "instrument",
+      "description": "A device used to measure the diameter growth of trees automatically",
+      "uuid": "34929d50-da72-4ed0-90dd-b4b72153c9b4",
+      "score": 0.5705425023937207
+    },
+    {
+      "name": "Finland",
+      "label": "location",
+      "description": "A country in Northern Europe where the University of Oulu is located",
+      "uuid": "b198283f-02d9-424e-838a-8997a18139a9",
+      "score": 0.6351124145694217
+    }
+  ],
+  "(10738, 13295)": [
+    {
+      "name": "Automatic dendrometers",
+      "label": "instrument",
+      "description": "A device used to measure the growth of trees by tracking changes in the diameter of the tree trunk",
+      "uuid": "34929d50-da72-4ed0-90dd-b4b72153c9b4",
+      "score": 0.5838681716078371
+    },
+    {
+      "name": "tree ring interpretation",
+      "label": "experiment",
+      "description": "A method used in dendrochronology to analyze the growth patterns of trees by examining the rings that form in the trunk",
+      "uuid": "0e06e528-e796-4b7c-9878-dbcb061d878d",
+      "score": 0.5793214652102767
+    },
+    {
+      "name": "annual tree ring indices",
+      "label": "variable",
+      "description": "A measure of the growth of a tree in a given year, calculated from the width of the tree ring",
+      "uuid": "6444fc67-8cad-41c0-9ded-e93f604ba8b0",
+      "score": 0.6074502885691884
+    }
+  ],
+  "(12889, 15435)": [
+    {
+      "name": "ARG100",
+      "label": "instrument",
+      "description": "A tipping bucket rain gauge used to measure precipitation, calibrated to 0.2 mm per tip",
+      "uuid": "4d3f2ff0-4f79-4ea8-b746-3fbcdd76f1f2",
+      "score": 0.5275873174536271
+    },
+    {
+      "name": "SKS1110",
+      "label": "instrument",
+      "description": "A pyranometer used to measure net radiation",
+      "uuid": "6bab9a56-28b2-44f3-9673-d9cd0bee44bc",
+      "score": 0.5674499807239407
+    },
+    {
+      "name": "Meteo-France",
+      "label": "provider",
+      "description": "The French national meteorological service, providing climate data and weather forecasts",
+      "uuid": "e1569365-7ec4-45c7-a0ba-b69a2a7ba8f4",
+      "score": 0.7565043649607112
+    },
+    {
+      "name": "daily minimum and maximum temperature",
+      "label": "variable",
+      "description": "Measurements of the lowest and highest temperatures recorded on a given day",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6420566327807846
+    },
+    {
+      "name": "net radiation",
+      "label": "variable",
+      "description": "The difference between the amount of solar radiation received by the Earth's surface and the amount of radiation lost back into space",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.7392380108917184
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that is received by the Earth's surface",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.680537193967202
+    }
+  ],
+  "(14959, 17501)": [
+    {
+      "name": "RAtmosphere",
+      "label": "instrument",
+      "description": "An R package for calculating atmospheric transmittance and other atmospheric properties",
+      "uuid": "714be1d7-2012-4a98-bdd5-02bbcadf69d8",
+      "score": 0.5073329121010437
+    },
+    {
+      "name": "oce",
+      "label": "instrument",
+      "description": "An R package for analyzing oceanographic data",
+      "uuid": "cd74d049-ae8b-4510-a2ae-618e9b470296",
+      "score": 0.6024174938978607
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of solar energy received per unit area, often used in climate and environmental studies",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6665267972314478
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used in climate and environmental studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6754896730838112
+    },
+    {
+      "name": "soil water storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil, often used in hydrological and environmental studies",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.6062562456607533
+    },
+    {
+      "name": "neutron moisture gauge",
+      "label": "instrument",
+      "description": "A device used to measure soil moisture levels",
+      "uuid": "adffbac6-6ba0-4191-b80c-628fd42c6fe7",
+      "score": 0.6098926764408704
+    },
+    {
+      "name": "Priestley-Taylor equation",
+      "label": "model",
+      "description": "A mathematical model used to estimate evapotranspiration from solar radiation and temperature data",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.5416525300551721
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7470704205046298
+    },
+    {
+      "name": "soil texture",
+      "label": "variable",
+      "description": "The composition and arrangement of soil particles, often used in soil science and environmental studies",
+      "uuid": "afd1d3cb-d31d-4069-8cff-b592887aa18c",
+      "score": 0.6697224382071417
+    },
+    {
+      "name": "automatic dendrometers",
+      "label": "instrument",
+      "description": "Devices used to measure tree growth and diameter",
+      "uuid": "34929d50-da72-4ed0-90dd-b4b72153c9b4",
+      "score": 0.596072389278556
+    },
+    {
+      "name": "predawn leaf water potential",
+      "label": "variable",
+      "description": "A measure of the water potential of a leaf at dawn, often used in plant physiology and ecology",
+      "uuid": "7b4a6b86-6a74-4b01-b0ee-a9d7d60c72cb",
+      "score": 0.5211267035254331
+    }
+  ],
+  "(17100, 19237)": [
+    {
+      "name": "drought severity index",
+      "label": "variable",
+      "description": "A measure of the severity of drought conditions, often used to quantify water stress",
+      "uuid": "5bb5322d-f3f8-4ca4-91c6-311769936f96",
+      "score": 0.6686420056817491
+    },
+    {
+      "name": "plant water potential",
+      "label": "variable",
+      "description": "A measure of the water status of plants, often used to study plant functioning and response to drought",
+      "uuid": "7b4a6b86-6a74-4b01-b0ee-a9d7d60c72cb",
+      "score": 0.6267243423594674
+    },
+    {
+      "name": "soil water content",
+      "label": "variable",
+      "description": "A measure of the amount of water present in the soil, often used to study soil moisture and plant water availability",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.7134194356522173
+    },
+    {
+      "name": "automatic dendrometers",
+      "label": "instrument",
+      "description": "Devices used to measure the growth of tree stems, often used in forestry and ecological research",
+      "uuid": "34929d50-da72-4ed0-90dd-b4b72153c9b4",
+      "score": 0.6168836184518088
+    },
+    {
+      "name": "climate data",
+      "label": "variable",
+      "description": "Data related to climate conditions, such as temperature, precipitation, and solar radiation",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.617348267947337
+    }
+  ],
+  "(18960, 21424)": [
+    {
+      "name": "climate data",
+      "label": "variable",
+      "description": "Data related to weather and atmospheric conditions, including temperature, precipitation, and other environmental factors",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.6100498566832009
+    },
+    {
+      "name": "tree ring data",
+      "label": "variable",
+      "description": "Data collected from the growth rings of trees, used to study past environmental conditions and climate patterns",
+      "uuid": "6444fc67-8cad-41c0-9ded-e93f604ba8b0",
+      "score": 0.7076344226149305
+    },
+    {
+      "name": "plant water potential",
+      "label": "variable",
+      "description": "A measure of the water status of plants, often used to study drought stress and its impact on plant growth",
+      "uuid": "7b4a6b86-6a74-4b01-b0ee-a9d7d60c72cb",
+      "score": 0.6273736962915106
+    },
+    {
+      "name": "DBH",
+      "label": "variable",
+      "description": "Diameter at breast height, a measure of tree size and growth",
+      "uuid": "91608ee6-a979-4be5-8405-31cb9d94a85a",
+      "score": 0.6500524773593388
+    },
+    {
+      "name": "treeclim",
+      "label": "model",
+      "description": "A statistical model or software package used for analyzing tree ring data and its relationship with climate",
+      "uuid": "6444fc67-8cad-41c0-9ded-e93f604ba8b0",
+      "score": 0.5596704725399103
+    }
+  ],
+  "(20967, 23603)": [
+    {
+      "name": "treeclim",
+      "label": "instrument",
+      "description": "An R package used for tree ring analysis, specifically designed to handle and analyze tree ring data",
+      "uuid": "6444fc67-8cad-41c0-9ded-e93f604ba8b0",
+      "score": 0.5523020527780601
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, used as a climate predictor in tree ring analysis",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5892150394086761
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, used as a climate predictor in tree ring analysis",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5965119583615076
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and potential impacts on tree growth",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.662637767956927
+    },
+    {
+      "name": "ring width series",
+      "label": "variable",
+      "description": "A time series of measurements of the width of tree rings, used to analyze tree growth patterns",
+      "uuid": "6444fc67-8cad-41c0-9ded-e93f604ba8b0",
+      "score": 0.5586053299953113
+    },
+    {
+      "name": "automatic dendrometer series",
+      "label": "instrument",
+      "description": "A device used to measure the growth of trees, providing continuous and automated data on tree diameter and growth patterns",
+      "uuid": "34929d50-da72-4ed0-90dd-b4b72153c9b4",
+      "score": 0.5580340647622846
+    }
+  ],
+  "(23182, 25124)": [
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average of atmospheric conditions, including temperature, precipitation, and other meteorological factors",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5178427423553513
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in the environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.614430008170425
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6660531500710053
+    }
+  ],
+  "(24760, 26739)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A climate variable that affects tree growth",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5110519879696845
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A climate variable that affects tree growth",
+      "uuid": "aab15612-f050-4ec0-9bb1-f72eb5bf0e44",
+      "score": 0.5348027328660538
+    },
+    {
+      "name": "automatic dendrometers",
+      "label": "instrument",
+      "description": "Devices used to measure tree growth with high accuracy",
+      "uuid": "34929d50-da72-4ed0-90dd-b4b72153c9b4",
+      "score": 0.607094301015522
+    },
+    {
+      "name": "meteorological stations",
+      "label": "platform",
+      "description": "Locations where weather and climate data are collected",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.6897162659002769
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric and meteorological factors that influence tree growth and other environmental phenomena",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6037535748186402
+    }
+  ],
+  "(26449, 28534)": [
+    {
+      "name": "WSI",
+      "label": "variable",
+      "description": "Water Stress Index, a measure of water limitation",
+      "uuid": "32e1b1ec-fa69-47b5-b0d6-d71948e3997a",
+      "score": 0.507515162391108
+    },
+    {
+      "name": "PET",
+      "label": "variable",
+      "description": "Potential Evapotranspiration, a measure of the amount of water that could evaporate from the soil and plants",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.670058305108905
+    },
+    {
+      "name": "drought onset",
+      "label": "weather event",
+      "description": "The beginning of a period of drought, characterized by a lack of sufficient rainfall",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5387052993465893
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies north of the equator, including the majority of the world's landmasses and population",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.756264555422911
+    }
+  ],
+  "(28220, 30457)": [
+    {
+      "name": "region",
+      "label": "location",
+      "description": "The broader geographic area surrounding the study site",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.5244340060729801
+    }
+  ],
+  "(30028, 32615)": [
+    {
+      "name": "automatic dendrometers",
+      "label": "instrument",
+      "description": "Devices used to measure the growth of trees, specifically the diameter at breast height",
+      "uuid": "34929d50-da72-4ed0-90dd-b4b72153c9b4",
+      "score": 0.6020227815757306
+    }
+  ],
+  "(32221, 34885)": [
+    {
+      "name": "Tree growth",
+      "label": "variable",
+      "description": "The increase in size of trees over time, influenced by factors such as climate, water availability, and nutrient uptake",
+      "uuid": "0e06e528-e796-4b7c-9878-dbcb061d878d",
+      "score": 0.5172940426649973
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    },
+    {
+      "name": "forest ecosystems",
+      "label": "location",
+      "description": "Complex communities of plants, animals, and microorganisms that interact with each other and their environment in forests",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5454123327287047
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7085533111508902
+    }
+  ],
+  "(34415, 37013)": [
+    {
+      "name": "Mediterranean region",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by mild, wet winters and hot, dry summers",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.5718067593205648
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7085533111508902
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the average weather patterns, leading to rising temperatures and altered precipitation patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5708772790975774
+    },
+    {
+      "name": "soil water deficit",
+      "label": "variable",
+      "description": "A measure of the amount of water available in the soil, influencing plant growth and ecosystem functioning",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.504860246508303
+    },
+    {
+      "name": "predawn plant water potential",
+      "label": "variable",
+      "description": "A measure of the water potential in plants, influencing cell turgor pressure and growth",
+      "uuid": "7b4a6b86-6a74-4b01-b0ee-a9d7d60c72cb",
+      "score": 0.5360953045731632
+    }
+  ],
+  "(36529, 39020)": [
+    {
+      "name": "water potential",
+      "label": "variable",
+      "description": "The potential energy of water in a system, influencing plant growth and development",
+      "uuid": "7b4a6b86-6a74-4b01-b0ee-a9d7d60c72cb",
+      "score": 0.6231380993137076
+    },
+    {
+      "name": "climate",
+      "label": "project",
+      "description": "A general term referring to the study of long-term atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5238552034822247
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of earth in which plants grow, composed of a mixture of mineral and organic particles",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6027628863641648
+    },
+    {
+      "name": "vegetation",
+      "label": "location",
+      "description": "Plant communities or ecosystems, often studied in relation to climate, soil, and other environmental factors",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6197836937798437
+    },
+    {
+      "name": "meteorological data",
+      "label": "variable",
+      "description": "Information collected about atmospheric conditions, including temperature, humidity, wind, and precipitation",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.5132432831129238
+    },
+    {
+      "name": "dendrochronological studies",
+      "label": "project",
+      "description": "Research focused on the analysis of tree rings to understand past environmental conditions and climate patterns",
+      "uuid": "84510f18-a4e6-434c-a54c-44cc995e1af2",
+      "score": 0.5767980796450515
+    },
+    {
+      "name": "summer drought",
+      "label": "weather event",
+      "description": "A period of abnormally low rainfall during the summer season, often impacting plant growth and development",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5310056285150094
+    },
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "The long-term warming of the planet due to an increase in average global temperature, leading to changes in weather patterns, sea levels, and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5927389727105548
+    }
+  ],
+  "(38499, 41143)": [
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region in southern Europe, North Africa, and western Asia characterized by a dry and warm climate during the summer",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6133452372897016
+    },
+    {
+      "name": "climate change",
+      "label": "phenomenon",
+      "description": "Long-term changes in the Earth's climate, often driven by human activities such as burning fossil fuels and deforestation",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.567427610626765
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7131149544161883
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that would be evaporated and transpired by plants if there were no limitations on water availability",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7292441155051195
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used to describe climate conditions",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.650263419130707
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, sleet, and hail",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7003837127767651
+    },
+    {
+      "name": "growth duration",
+      "label": "variable",
+      "description": "The length of time during which a plant or tree grows, often influenced by climate factors such as temperature and precipitation",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5294770803164208
+    },
+    {
+      "name": "ecosystem functioning",
+      "label": "phenomenon",
+      "description": "The processes and interactions within an ecosystem that support the health and productivity of the ecosystem",
+      "uuid": "233a4d81-44f8-4b0e-8ad3-695f641729f8",
+      "score": 0.6059968480936765
+    },
+    {
+      "name": "tree growth",
+      "label": "variable",
+      "description": "The increase in size and biomass of trees, often influenced by climate factors such as temperature and precipitation",
+      "uuid": "0e06e528-e796-4b7c-9878-dbcb061d878d",
+      "score": 0.5173741705248603
+    }
+  ],
+  "(40695, 43549)": [
+    {
+      "name": "precipitation amounts",
+      "label": "variable",
+      "description": "The quantity of water that falls to the Earth's surface over a specific period of time, influencing climate and weather patterns",
+      "uuid": "cad5c02a-e771-434e-bef6-8dced38a68e8",
+      "score": 0.6295254619329421
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering, in relation to environmental factors like climate and weather",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6127059531193749
+    },
+    {
+      "name": "temporal resolutions",
+      "label": "variable",
+      "description": "The duration or frequency of data collection or analysis, affecting the interpretation of climate and weather patterns",
+      "uuid": "502ad03c-dba8-4b32-8af5-13fa947c3988",
+      "score": 0.7410415290310547
+    },
+    {
+      "name": "drought onset",
+      "label": "natural hazard",
+      "description": "The beginning of a drought event, characterized by a prolonged period of abnormally low rainfall, impacting ecosystems and human activities",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5586095231923414
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric, oceanic, and terrestrial factors that influence the Earth's climate, such as temperature, precipitation, and atmospheric circulation patterns",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.7261365780697866
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing climate and weather patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6409348463723722
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by a distinct climate and ecosystem",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.624020132745887
+    }
+  ],
+  "(43055, 45812)": [
+    {
+      "name": "Spain",
+      "label": "location",
+      "description": "A country in Europe where beech and black pine forests are found",
+      "uuid": "cbbe14fb-a5ee-4236-84ae-cc8dee612b49",
+      "score": 0.5386494082110161
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country in Europe where Scots pine, European larch, and black pine forests are found",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.5284900208427952
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in an environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6120772539307932
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6892912026346695
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the average weather patterns of a region or the entire planet, often driven by human activities",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5570693505626163
+    },
+    {
+      "name": "climate warming",
+      "label": "teleconnection",
+      "description": "An increase in the average temperature of the Earth's atmosphere and oceans, often associated with climate change",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6757880230402593
+    },
+    {
+      "name": "Atlantic multidecadal oscillations",
+      "label": "ocean circulation",
+      "description": "A natural climate variability pattern in the North Atlantic Ocean, characterized by changes in sea surface temperature and ocean currents",
+      "uuid": "dcdb6cf1-48a7-488e-aeb8-e6c0b36752d4",
+      "score": 0.6447758747603982
+    },
+    {
+      "name": "Pacific multidecadal oscillations",
+      "label": "ocean circulation",
+      "description": "A natural climate variability pattern in the Pacific Ocean, characterized by changes in sea surface temperature and ocean currents",
+      "uuid": "2de06b90-4abe-4c71-a537-978679bf8aea",
+      "score": 0.6942217423039795
+    }
+  ],
+  "(45443, 46404)": [
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A region comprising the combined landmasses of Europe and Asia, playing a significant role in global climate patterns and weather phenomena",
+      "uuid": "350fb2da-c713-497e-9d7d-42dcad0df83f",
+      "score": 0.7323992473673444
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through the combined effects of evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7439835452060031
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to Earth's surface over a specific period, a key component in the Earth's hydrologic cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.671568152992252
+    },
+    {
+      "name": "drought index",
+      "label": "variable",
+      "description": "A quantitative measure used to assess the severity of drought conditions, often based on precipitation, soil moisture, and other climate factors",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.6930966685975685
+    },
+    {
+      "name": "seven meteorological stations",
+      "label": "instrument",
+      "description": "A network of observation points used to collect and record atmospheric data such as temperature, precipitation, and other weather conditions",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.6024472525036079
+    }
+  ]
+}

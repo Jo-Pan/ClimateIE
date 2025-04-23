@@ -1,0 +1,1497 @@
+{
+  "(0, 2885)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "ISIMIP",
+      "label": "provider",
+      "description": "The Inter-Sectoral Impact Model Intercomparison Project, an international project aimed at comparing and improving models that simulate the impacts of climate change on various sectors",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.6347150619160978
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, surrounded by Europe, Africa, and Asia, known for its unique climate and biodiversity",
+      "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+      "score": 0.7569860528589756
+    },
+    {
+      "name": "Earth System Models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.5683036007652165
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing a low-emissions future with stringent climate policies",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6348955254435801
+    },
+    {
+      "name": "SSP2-4.5",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing a medium-emissions future with moderate climate policies",
+      "uuid": "56f93aa0-f5a2-4718-b5c0-c716e541042f",
+      "score": 0.6253277109826997
+    },
+    {
+      "name": "SSP3-7.0",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing a medium-to-high emissions future with limited climate policies",
+      "uuid": "2792d3ad-f228-4fcf-891b-b4db8d90fc9e",
+      "score": 0.6615424486307573
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing a high-emissions future with minimal climate policies",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7086969651014721
+    },
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure used to quantify drought severity and monitor drought conditions",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6642237159365011
+    },
+    {
+      "name": "WFDE5",
+      "label": "dataset",
+      "description": "A reanalysis dataset providing historical climate data for the period 1979-2016, used as a reference for climate model evaluations",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.6463193886492946
+    },
+    {
+      "name": "meteorological drought",
+      "label": "drought type",
+      "description": "A type of drought characterized by a prolonged period of abnormally low precipitation, affecting atmospheric conditions",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5760509373637572
+    },
+    {
+      "name": "agricultural drought",
+      "label": "drought type",
+      "description": "A type of drought characterized by a prolonged period of abnormally low precipitation, affecting agricultural productivity and soil moisture",
+      "uuid": "7c93477c-4a6f-4cff-b159-d86e0c3c25a6",
+      "score": 0.5653273575646715
+    },
+    {
+      "name": "hydrological drought",
+      "label": "drought type",
+      "description": "A type of drought characterized by a prolonged period of abnormally low precipitation, affecting water resources and hydrological systems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5841634815894987
+    },
+    {
+      "name": "drought occurrences",
+      "label": "variable",
+      "description": "The frequency or likelihood of drought events occurring in a given region or period",
+      "uuid": "0f7f8887-844d-45d8-9d45-7e48e15c50fd",
+      "score": 0.6930634794160344
+    },
+    {
+      "name": "drought frequency",
+      "label": "variable",
+      "description": "The number of times drought events occur within a given period or region",
+      "uuid": "0f7f8887-844d-45d8-9d45-7e48e15c50fd",
+      "score": 0.7736888910030484
+    },
+    {
+      "name": "drought severity",
+      "label": "variable",
+      "description": "The magnitude or intensity of drought events, often measured by indices such as SPEI",
+      "uuid": "1a6b76b0-6c03-4021-92fb-66552edcf845",
+      "score": 0.7816982493313299
+    },
+    {
+      "name": "regional climate characteristics",
+      "label": "variable",
+      "description": "The unique climate conditions and patterns that define a specific region, influencing local weather and climate phenomena",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.6061965024051847
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water contained in the soil, an important factor influencing agricultural productivity and drought conditions",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6880059063246385
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "label": "provider",
+      "description": "The leading international body for assessing climate change, providing scientific advice to policymakers and stakeholders",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7037018365330142
+    }
+  ],
+  "(2388, 5556)": [
+    {
+      "name": "agricultural drought",
+      "label": "natural hazard",
+      "description": "A type of drought that affects agricultural productivity due to prolonged dryness",
+      "uuid": "7c93477c-4a6f-4cff-b159-d86e0c3c25a6",
+      "score": 0.5550684545932064
+    },
+    {
+      "name": "hydrological drought",
+      "label": "natural hazard",
+      "description": "A type of drought that impacts the hydrological systems, such as rivers, lakes, and groundwater, due to prolonged dryness",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5682042807014895
+    },
+    {
+      "name": "socioeconomic systems",
+      "label": "platform",
+      "description": "The social and economic structures and processes that are affected by drought events",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.5047614474971872
+    },
+    {
+      "name": "ecosystem",
+      "label": "platform",
+      "description": "The community of living and non-living components that interact with each other and their environment, affected by drought events",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5961738162315605
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region in Europe, Africa, and Asia, characterized by a unique climate and high vulnerability to drought and climate change",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6316600644109507
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "label": "provider",
+      "description": "An international organization that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7163666031009212
+    },
+    {
+      "name": "drought quantification",
+      "label": "variable",
+      "description": "The process of measuring or estimating the severity and impact of drought events",
+      "uuid": "d0a52ada-8d32-4d68-9daf-cc1c4d58aed3",
+      "score": 0.5788055514782794
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6536711921744406
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air or other substances",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6282120264752014
+    },
+    {
+      "name": "drought indices",
+      "label": "instrument",
+      "description": "Tools used to quantify and monitor drought events, often based on precipitation, temperature, and other climate variables",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.7659016951659452
+    },
+    {
+      "name": "annual time scale",
+      "label": "variable",
+      "description": "A measure of time, referring to a period of one year",
+      "uuid": "40e09855-fb48-4a7d-9851-d6e809e6c309",
+      "score": 0.5963638208296311
+    }
+  ],
+  "(5060, 7986)": [
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall that can have significant impacts on the environment, agriculture, and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6875836105290808
+    },
+    {
+      "name": "global warming",
+      "label": "teleconnection",
+      "description": "The overall increase in Earth's temperature due to human activities, particularly the emission of greenhouse gases, leading to changes in climate patterns and extreme weather events",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5631357881401208
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, an earlier framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.7913306736239376
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, the latest framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8063396242772308
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, sleet, and hail, playing a crucial role in the Earth's climate system",
+      "uuid": "6c71e621-aae6-436b-9405-5dc6ed2a527e",
+      "score": 0.6954072874686485
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, oceans, and land surfaces, influencing weather patterns and climate conditions",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6883293374331458
+    },
+    {
+      "name": "Coupled Model Intercomparison Project",
+      "label": "project",
+      "description": "An international effort to compare and improve climate models, facilitating the understanding and prediction of climate change",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.6883050892295942
+    },
+    {
+      "name": "mainly precipitation-based indices",
+      "label": "model",
+      "description": "Methods used to quantify and assess drought conditions based primarily on precipitation data",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.6013381001884591
+    },
+    {
+      "name": "new shared socioeconomic pathways",
+      "label": "experiment",
+      "description": "Scenarios that describe different socioeconomic reference assumptions, used in combination with representative concentration pathways to simulate climate change scenarios",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.6337528786994823
+    },
+    {
+      "name": "drought frequency",
+      "label": "variable",
+      "description": "The rate at which droughts occur over a given period, an important factor in assessing drought risk and impact",
+      "uuid": "0f7f8887-844d-45d8-9d45-7e48e15c50fd",
+      "score": 0.7482857953819215
+    },
+    {
+      "name": "CMIP6 Earth System Models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, and biological processes to represent and predict Earth's climate system, used in the CMIP6 project",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.6509476915675052
+    },
+    {
+      "name": "El Nino Southern Oscillation",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7483003130718433
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region in southern Europe, northern Africa, and western Asia, surrounding the Mediterranean Sea and characterized by a unique climate and ecosystem",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6511095694176995
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that provides scientific advice on climate change to policymakers and the public",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.720966005405221
+    },
+    {
+      "name": "representative concentration pathways",
+      "label": "experiment",
+      "description": "Scenarios that describe different possible futures in terms of greenhouse gas emissions and concentrations, used in combination with socioeconomic pathways to simulate climate change scenarios",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.5115757705143902
+    }
+  ],
+  "(7537, 10403)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, surrounded by Europe, Africa, and Asia, known for its unique climate and environmental characteristics",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.7464272019152448
+    },
+    {
+      "name": "SPEI",
+      "label": "instrument",
+      "description": "The Standardized Precipitation-Evapotranspiration Index, a widely-used metric for assessing drought conditions by combining precipitation and evapotranspiration data",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6631688241669398
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that provides scientific advice on climate change to policymakers",
+      "uuid": "3fbcf679-578f-4f06-bd33-9fac85df2c58",
+      "score": 0.7202018418718565
+    },
+    {
+      "name": "ESMs",
+      "label": "model",
+      "description": "Earth System Models, sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "f5b03277-666a-4fa0-ab1e-3734bcdc021f",
+      "score": 0.5386552887064786
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems, agriculture, and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.719200484841435
+    },
+    {
+      "name": "meteorological drought",
+      "label": "weather event",
+      "description": "A type of drought characterized by a lack of precipitation, often measured using indices such as SPEI",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5856010214342334
+    },
+    {
+      "name": "agricultural drought",
+      "label": "weather event",
+      "description": "A type of drought that affects agricultural productivity, often due to a lack of soil moisture",
+      "uuid": "7c93477c-4a6f-4cff-b159-d86e0c3c25a6",
+      "score": 0.5516942573271854
+    },
+    {
+      "name": "hydrological drought",
+      "label": "weather event",
+      "description": "A type of drought that affects the water balance in rivers, lakes, and reservoirs, often due to a lack of precipitation and runoff",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.557905761351085
+    },
+    {
+      "name": "WFDE5",
+      "label": "dataset",
+      "description": "A reanalysis dataset providing high-resolution climate data for the period 1979-2016, used for studying climate variability and change",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.6345960320798307
+    },
+    {
+      "name": "North African countries",
+      "label": "location",
+      "description": "A group of countries located in the northern part of Africa, characterized by diverse climates, cultures, and economies",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.5891682223507074
+    },
+    {
+      "name": "Southern EU",
+      "label": "location",
+      "description": "A region of the European Union located in the southern part of Europe, characterized by a Mediterranean climate and diverse cultures",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.6702531027048737
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in the atmosphere, often used to study climate change and variability",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6637713279485333
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used to study climate change, droughts, and floods",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6687928292894304
+    }
+  ],
+  "(9936, 12949)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "WFDE5",
+      "label": "project",
+      "description": "A dataset providing high-resolution climate data for the period 1979-2016, used as a reference for evaluating climate models",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.6045669050333152
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region located in the southeastern part of Europe, characterized by a Mediterranean climate and vulnerable to droughts",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6301375459270268
+    },
+    {
+      "name": "North African countries",
+      "label": "location",
+      "description": "A group of countries located in the northern part of Africa, often experiencing droughts and water scarcity",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.5260289891870971
+    },
+    {
+      "name": "ESMs",
+      "label": "model",
+      "description": "Earth System Models, computational representations of the Earth's climate system used to simulate and predict climate change",
+      "uuid": "fc94343c-1809-431f-b3da-8ba5b887dda9",
+      "score": 0.5701332814690784
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7131149544161883
+    },
+    {
+      "name": "meteorological drought",
+      "label": "weather event",
+      "description": "A type of drought characterized by a prolonged period of abnormally low rainfall, often affecting agricultural and hydrological systems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5801517691869594
+    },
+    {
+      "name": "agricultural drought",
+      "label": "weather event",
+      "description": "A type of drought that affects agricultural systems, often resulting in crop failures and economic losses",
+      "uuid": "7c93477c-4a6f-4cff-b159-d86e0c3c25a6",
+      "score": 0.5618577040248871
+    },
+    {
+      "name": "hydrological drought",
+      "label": "weather event",
+      "description": "A type of drought that affects hydrological systems, often resulting in water scarcity and impacts on ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5817721485859199
+    },
+    {
+      "name": "SSP scenarios",
+      "label": "experiment",
+      "description": "Shared Socioeconomic Pathways, a set of scenarios used to explore the potential impacts of climate change on human societies and ecosystems",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.7973613942328289
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "A measure of the energy imbalance in the Earth's climate system, often used to quantify the effects of greenhouse gases and other climate drivers",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7951562182684258
+    },
+    {
+      "name": "socioeconomic representation",
+      "label": "variable",
+      "description": "A measure of the social and economic factors that influence human societies and ecosystems, often used in climate modeling and scenario development",
+      "uuid": "9a1dd3c3-a126-437e-ad04-9dc0a382d567",
+      "score": 0.5533030889901623
+    }
+  ],
+  "(12453, 15381)": [
+    {
+      "name": "SSP1",
+      "label": "experiment",
+      "description": "A low-end climate change scenario, representing a future with low greenhouse gas emissions and a focus on sustainability",
+      "uuid": "9c0308d3-89ba-40b7-8ea8-539d8f744a97",
+      "score": 0.6062036940313809
+    },
+    {
+      "name": "SSP3",
+      "label": "experiment",
+      "description": "A medium-high climate change scenario, characterized by a high level of economic growth and a continued reliance on fossil fuels",
+      "uuid": "7cfb3ea4-6206-4239-97e9-52032fd1051e",
+      "score": 0.5791851913826528
+    },
+    {
+      "name": "SSP5",
+      "label": "experiment",
+      "description": "A high-end climate change scenario, representing a future with high greenhouse gas emissions and significant environmental degradation",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.6723295731195216
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The difference between the amount of energy absorbed by the Earth and the amount of energy emitted back into space, influencing the planet's climate",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7733940240259316
+    },
+    {
+      "name": "socioeconomic representation",
+      "label": "variable",
+      "description": "The incorporation of social and economic factors into climate models to better understand the impacts of climate change on human societies",
+      "uuid": "9a1dd3c3-a126-437e-ad04-9dc0a382d567",
+      "score": 0.5951591884120871
+    },
+    {
+      "name": "severe or extreme drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and significant impacts on ecosystems and human societies",
+      "uuid": "e4c806af-ab57-4fda-b7e9-29e3c65f6ec5",
+      "score": 0.7104967464394585
+    },
+    {
+      "name": "drought severity",
+      "label": "variable",
+      "description": "A measure of the intensity and impact of drought events, often quantified using indices such as the Standardized Precipitation Evapotranspiration Index (SPEI",
+      "uuid": "1a6b76b0-6c03-4021-92fb-66552edcf845",
+      "score": 0.786631057384203
+    },
+    {
+      "name": "drought frequency",
+      "label": "variable",
+      "description": "The rate at which drought events occur, often measured over a specific time period and geographic area",
+      "uuid": "0f7f8887-844d-45d8-9d45-7e48e15c50fd",
+      "score": 0.7851264856798222
+    },
+    {
+      "name": "SPEI",
+      "label": "instrument",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure of drought severity that takes into account both precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6589656549760244
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region in southern Europe, North Africa, and western Asia, characterized by a Mediterranean climate with warm summers and mild winters",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6153026623442486
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising a diverse range of climates, cultures, and ecosystems",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7339013208389973
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in the northern part of the African continent, characterized by a Mediterranean climate and a mix of desert and coastal ecosystems",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6923349733209682
+    },
+    {
+      "name": "ESMs",
+      "label": "model",
+      "description": "Earth System Models, a type of climate model that integrates physical, chemical, and biological processes to simulate the Earth's climate system",
+      "uuid": "f5b03277-666a-4fa0-ab1e-3734bcdc021f",
+      "score": 0.560957264793009
+    },
+    {
+      "name": "climate response",
+      "label": "variable",
+      "description": "The way in which the climate system responds to changes in radiative forcing, including changes in temperature, precipitation, and other climate variables",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5208644225552861
+    }
+  ],
+  "(14925, 17795)": [
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure used to assess drought conditions",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6608096548976862
+    },
+    {
+      "name": "WDFDE5",
+      "label": "dataset",
+      "description": "A climate dataset providing historical weather data for the period 1979-2014",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.5211090727170703
+    },
+    {
+      "name": "CMIP6 MMM",
+      "label": "model",
+      "description": "The Coupled Model Intercomparison Project Phase 6 multi-model mean, a collection of climate models used to simulate and predict future climate scenarios",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.6596530741063532
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising various countries with diverse climates",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.717686688616434
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa, known for its arid and semi-arid climates, vulnerable to droughts",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6097583698336787
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A climate scenario representing a low greenhouse gas emissions pathway, used to project future climate changes",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.681061165717603
+    },
+    {
+      "name": "SSP3",
+      "label": "experiment",
+      "description": "A climate scenario representing an intermediate greenhouse gas emissions pathway, used to project future climate changes",
+      "uuid": "7cfb3ea4-6206-4239-97e9-52032fd1051e",
+      "score": 0.6368325199847221
+    },
+    {
+      "name": "SSP5",
+      "label": "experiment",
+      "description": "A climate scenario representing a high greenhouse gas emissions pathway, used to project future climate changes",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.6788562128857609
+    }
+  ],
+  "(17316, 20336)": [
+    {
+      "name": "SSP scenario",
+      "label": "experiment",
+      "description": "Shared Socioeconomic Pathways, a framework for exploring different climate change scenarios based on socioeconomic factors",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.8024458800065178
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, an important factor in climate and weather studies",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6633355572459494
+    },
+    {
+      "name": "temperature trend",
+      "label": "variable",
+      "description": "The rate of change in air temperature over time, often used to study climate change and its impacts",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.6695695401759555
+    },
+    {
+      "name": "drought frequency",
+      "label": "variable",
+      "description": "The rate at which droughts occur, often used to study climate change and its impacts on water availability",
+      "uuid": "1a95af83-fe1b-4cea-931d-953a4e5965e6",
+      "score": 0.7638649207533855
+    },
+    {
+      "name": "precipitation trend",
+      "label": "variable",
+      "description": "The rate of change in precipitation over time, often used to study climate change and its impacts on water availability",
+      "uuid": "279961c4-dac3-4188-917f-fa11982f957e",
+      "score": 0.6929190527343424
+    },
+    {
+      "name": "drought phenomenon",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6536291114544981
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by a unique climate and ecosystem",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6313451214932365
+    },
+    {
+      "name": "North African countries",
+      "label": "location",
+      "description": "Countries located in the northern part of Africa, including Morocco, Algeria, and Tunisia",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.5585186641354848
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent located primarily in the Northern Hemisphere, comprising many countries and a diverse range of climates and ecosystems",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7748985471070158
+    }
+  ],
+  "(19886, 23015)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "SSP",
+      "label": "experiment",
+      "description": "The Shared Socioeconomic Pathways, a set of scenarios used to project future climate changes based on different socioeconomic and radiative forcing assumptions",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.8285994859776195
+    },
+    {
+      "name": "WFDE5",
+      "label": "dataset",
+      "description": "A climate dataset providing daily meteorological variables, used for climate modeling and research",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.5850615306189568
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by a unique climate and vulnerable to droughts and climate change",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6222609217144512
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa, including countries such as Morocco, Algeria, and Tunisia, known for its arid and semi-arid climate",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6402608987358007
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent, including countries that border the Mediterranean Sea, with a diverse climate and geography",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6438280811134163
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, influencing climate patterns and drought occurrences",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6075811655281848
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, essential for understanding droughts and climate change",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6645504780891244
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on agriculture and ecosystems",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7101503816937856
+    },
+    {
+      "name": "ESMs",
+      "label": "model",
+      "description": "Earth System Models, sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "f5b03277-666a-4fa0-ab1e-3734bcdc021f",
+      "score": 0.5386552887064786
+    },
+    {
+      "name": "SPEI-dry",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure of drought severity based on precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6322447316251023
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The difference between the amount of energy absorbed by the Earth and the amount of energy emitted back into space, influencing climate change",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7767748728442818
+    },
+    {
+      "name": "socioeconomic challenges",
+      "label": "variable",
+      "description": "Factors related to human societies and economies, such as population growth, urbanization, and economic development, that can impact climate change and droughts",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.5002951329764794
+    }
+  ],
+  "(22402, 25545)": [
+    {
+      "name": "drought occurrences",
+      "label": "weather event",
+      "description": "Recurring periods of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6443299832468864
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal state of the atmosphere, influencing climate patterns and drought occurrences",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.599528630341412
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water falling to Earth's surface, crucial for understanding drought patterns and water availability",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6453331425732762
+    },
+    {
+      "name": "Food and Agriculture Organization of the United Nations",
+      "label": "provider",
+      "description": "An international organization focused on addressing global hunger, food security, and sustainable agriculture",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5572289311737613
+    },
+    {
+      "name": "SPEI-dry",
+      "label": "instrument",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a tool used to assess drought conditions and monitor water scarcity",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6244038641758514
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A Shared Socioeconomic Pathway scenario, representing a low-challenge future with stringent climate mitigation and adaptation efforts",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6468458604593087
+    },
+    {
+      "name": "SSP2-4.5",
+      "label": "experiment",
+      "description": "A Shared Socioeconomic Pathway scenario, representing a moderate-challenge future with balanced climate mitigation and adaptation efforts",
+      "uuid": "56f93aa0-f5a2-4718-b5c0-c716e541042f",
+      "score": 0.625787419194769
+    },
+    {
+      "name": "SSP3-7.0",
+      "label": "experiment",
+      "description": "A Shared Socioeconomic Pathway scenario, representing a high-challenge future with limited climate mitigation and adaptation efforts",
+      "uuid": "2792d3ad-f228-4fcf-891b-b4db8d90fc9e",
+      "score": 0.6507265087527664
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A Shared Socioeconomic Pathway scenario, representing a very high-challenge future with minimal climate mitigation and adaptation efforts",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.713635077920694
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "WFDE5",
+      "label": "instrument",
+      "description": "A reanalysis dataset providing historical climate data, used for evaluating and validating climate models",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.6223664880683021
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The change in energy balance of the Earth's climate system, often used to quantify the impact of greenhouse gases on climate change",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.805021438178334
+    },
+    {
+      "name": "climate adaptation",
+      "label": "project",
+      "description": "Efforts to adjust to the impacts of climate change, including measures to reduce vulnerability and increase resilience",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6471076720462228
+    },
+    {
+      "name": "Southern Europe",
+      "label": "location",
+      "description": "A region in Europe characterized by a Mediterranean climate, prone to droughts and heatwaves",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.7115777981691925
+    },
+    {
+      "name": "pronounced summer heatwave",
+      "label": "weather event",
+      "description": "An extreme and prolonged period of hot weather, often leading to droughts and water scarcity",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.623952091324249
+    },
+    {
+      "name": "drought frequency",
+      "label": "variable",
+      "description": "The rate at which droughts occur, often used to quantify the severity and impact of droughts on ecosystems and human societies",
+      "uuid": "1a95af83-fe1b-4cea-931d-953a4e5965e6",
+      "score": 0.761976378527499
+    },
+    {
+      "name": "drought types",
+      "label": "weather event",
+      "description": "Different categories of droughts, including meteorological, agricultural, and hydrological droughts",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6122486355110695
+    },
+    {
+      "name": "human health",
+      "label": "variable",
+      "description": "The state of physical, mental, and social well-being of individuals and populations, influenced by climate change and environmental factors",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5646049261372439
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different species of plants, animals, and microorganisms that live in an ecosystem, often impacted by climate change and environmental degradation",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5567540169389714
+    }
+  ],
+  "(25033, 28222)": [
+    {
+      "name": "ERA5",
+      "label": "dataset",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis dataset, providing a comprehensive view of the Earth's atmosphere, land, and ocean",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8539066270855289
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "WFDE5",
+      "label": "dataset",
+      "description": "A bias-corrected version of the ERA5 reanalysis dataset, used for land and hydrological applications",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.6374458578165717
+    },
+    {
+      "name": "CRU",
+      "label": "provider",
+      "description": "The Climatic Research Unit, an academic institution focused on climate research and the development of climate datasets",
+      "uuid": "a32f3c0b-b3e9-4e93-a9d2-53c2f61404d8",
+      "score": 0.6191498339345216
+    },
+    {
+      "name": "GPCC",
+      "label": "provider",
+      "description": "The Global Precipitation Climatology Center, an organization that provides global precipitation data and products",
+      "uuid": "4d8e9d2a-f39a-466a-ae36-cab50cf87c74",
+      "score": 0.767332735229244
+    },
+    {
+      "name": "drought occurrences",
+      "label": "weather event",
+      "description": "Periods of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6402931263597047
+    },
+    {
+      "name": "drought frequency",
+      "label": "variable",
+      "description": "The rate at which droughts occur in a given area, often used to study climate variability and change",
+      "uuid": "1a95af83-fe1b-4cea-931d-953a4e5965e6",
+      "score": 0.7650950262382924
+    },
+    {
+      "name": "land-atmosphere feedback",
+      "label": "teleconnection",
+      "description": "The interactions between the land surface and the atmosphere, influencing climate patterns and variability",
+      "uuid": "514c891b-60b8-4a6f-adb3-0366c75588e9",
+      "score": 0.6528767953308333
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa, comprising countries such as Egypt, Libya, and Morocco, known for its arid climate and vulnerability to droughts",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6514235242173936
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent, comprising 55 countries, known for its diverse climate and ecosystems",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.6568252254909512
+    }
+  ],
+  "(27761, 30267)": [
+    {
+      "name": "ERA5",
+      "label": "project",
+      "description": "A reanalysis dataset produced by the European Centre for Medium-Range Weather Forecasts, providing high-resolution climate and weather data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8508055938435842
+    },
+    {
+      "name": "WFDE5",
+      "label": "project",
+      "description": "A bias-corrected version of the ERA5 reanalysis dataset, designed for land and hydrological applications",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.6393322744680269
+    },
+    {
+      "name": "Global Precipitation Climatology Center",
+      "label": "provider",
+      "description": "An organization providing global precipitation data and analysis",
+      "uuid": "4d8e9d2a-f39a-466a-ae36-cab50cf87c74",
+      "score": 0.7148382266869566
+    },
+    {
+      "name": "Climatic Research Unit",
+      "label": "provider",
+      "description": "A research institution focused on climate research and the development of climate datasets",
+      "uuid": "a32f3c0b-b3e9-4e93-a9d2-53c2f61404d8",
+      "score": 0.589616773573309
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "GFDL-ESM4",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating Earth's climate system",
+      "uuid": "6f7a0a68-6387-4f49-84ea-9652139018f5",
+      "score": 0.8620631197397066
+    },
+    {
+      "name": "IPSL-CM6A-LR",
+      "label": "model",
+      "description": "A climate model developed by the Institut Pierre-Simon Laplace, used for simulating Earth's climate system",
+      "uuid": "71f69b1f-f00c-4303-809b-027d58ebacf5",
+      "score": 0.8122422783085064
+    },
+    {
+      "name": "MPI-ESM1-2-HR",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating Earth's climate system",
+      "uuid": "b82e3b5b-c989-48d9-8fc4-66b56bf442a9",
+      "score": 0.7899555322454105
+    },
+    {
+      "name": "MRI-ESM2-0",
+      "label": "model",
+      "description": "A climate model developed by the Meteorological Research Institute, used for simulating Earth's climate system",
+      "uuid": "913c8a38-8cef-4062-b98c-039d22d1ced5",
+      "score": 0.8326829205855589
+    },
+    {
+      "name": "UKESM1-0-LL",
+      "label": "model",
+      "description": "A climate model developed by the United Kingdom, used for simulating Earth's climate system",
+      "uuid": "5214a3f3-8061-4d3a-be6c-e67602a3ae56",
+      "score": 0.7563558126314538
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A climate change scenario describing a pathway with low greenhouse gas emissions and a radiative forcing level of 2.6 W/m\u00b2",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6763906240727656
+    },
+    {
+      "name": "SSP2-4.5",
+      "label": "experiment",
+      "description": "A climate change scenario describing a pathway with moderate greenhouse gas emissions and a radiative forcing level of 4.5 W/m\u00b2",
+      "uuid": "56f93aa0-f5a2-4718-b5c0-c716e541042f",
+      "score": 0.6746706422391852
+    },
+    {
+      "name": "SSP3-7.0",
+      "label": "experiment",
+      "description": "A climate change scenario describing a pathway with high greenhouse gas emissions and a radiative forcing level of 7.0 W/m\u00b2",
+      "uuid": "2792d3ad-f228-4fcf-891b-b4db8d90fc9e",
+      "score": 0.7259854889037294
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A climate change scenario describing a pathway with very high greenhouse gas emissions and a radiative forcing level of 8.5 W/m\u00b2",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.734846614241394
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used in climate and weather studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6616626728806544
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of water falling to Earth's surface, often used in climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7121363581550927
+    },
+    {
+      "name": "hourly temporal resolution",
+      "label": "variable",
+      "description": "A measure of the frequency at which data is collected or reported, in this case, every hour",
+      "uuid": "51e07f25-6df0-4837-bc4f-9654d0fac961",
+      "score": 0.7060217835521544
+    },
+    {
+      "name": "0.5\u00b0\u00d7 0.5\u00b0spatial resolution",
+      "label": "variable",
+      "description": "A measure of the spatial detail of a dataset, in this case, 0.5 degrees latitude by 0.5 degrees longitude",
+      "uuid": "2b725d65-97f7-46e0-adb3-2210d7e636c7",
+      "score": 0.6946730769882022
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and other bodies of water",
+      "uuid": "e85d6a2d-23c7-405a-b062-caf78f6ab827",
+      "score": 0.6634101542348351
+    },
+    {
+      "name": "radiative forcing level",
+      "label": "variable",
+      "description": "A measure of the energy imbalance in the Earth's climate system, often used to quantify the impact of greenhouse gases",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7489281674925464
+    }
+  ],
+  "(29746, 32229)": [
+    {
+      "name": "SSP scenarios",
+      "label": "project",
+      "description": "A set of climate change scenarios describing the pathways of future societal development, used to assess the impacts of climate change and inform mitigation and adaptation strategies",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.7494293398178098
+    },
+    {
+      "name": "Representative Concentration Pathways",
+      "label": "project",
+      "description": "A set of scenarios that describe the possible range of future greenhouse gas concentrations and their associated radiative forcing, used to assess the impacts of climate change and inform mitigation and adaptation strategies",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.5015107729881999
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "A set of scenarios that describe the possible range of future greenhouse gas concentrations and their associated radiative forcing, used to assess the impacts of climate change and inform mitigation and adaptation strategies",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.5454371094368783
+    },
+    {
+      "name": "SSP 1",
+      "label": "scenario",
+      "description": "A climate change scenario that represents a low-mitigation and adaptation challenges pathway, assuming more sustainable practices and a low-emission scenario",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.575548399460231
+    },
+    {
+      "name": "SSP 2",
+      "label": "scenario",
+      "description": "A climate change scenario that represents a medium-mitigation and adaptation challenges pathway, assuming intermediate greenhouse gas emissions and a medium-emission scenario",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.5386356404157937
+    },
+    {
+      "name": "SSP 3",
+      "label": "scenario",
+      "description": "A climate change scenario that represents a high-mitigation and adaptation challenges pathway, assuming high greenhouse gas emissions and a high-emission scenario",
+      "uuid": "7cfb3ea4-6206-4239-97e9-52032fd1051e",
+      "score": 0.5745831113409914
+    },
+    {
+      "name": "SSP 5",
+      "label": "scenario",
+      "description": "A climate change scenario that represents a high-mitigation challenges pathway, assuming high greenhouse gas emissions and a high-emission scenario",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.6292205942672708
+    },
+    {
+      "name": "Inter-Sectoral Impact Model Intercomparison Project",
+      "label": "project",
+      "description": "A project that assesses the impacts of climate change in different sectors and at different scales",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5319720340050377
+    },
+    {
+      "name": "ISIMIP",
+      "label": "provider",
+      "description": "The organization that provides the data and models for the Inter-Sectoral Impact Model Intercomparison Project",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.5805925112890644
+    },
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure of drought severity that takes into account both precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6589656549760244
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "A measure of the amount of water that could be evaporated from the surface if there were no limitations on water availability",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7317451453763598
+    },
+    {
+      "name": "radiative forcing level",
+      "label": "variable",
+      "description": "A measure of the energy imbalance in the Earth's climate system, caused by changes in greenhouse gas concentrations and other factors",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7522221101759742
+    },
+    {
+      "name": "meteorological droughts",
+      "label": "natural hazard",
+      "description": "A type of drought that affects the atmosphere and is characterized by a lack of precipitation",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5357323565210179
+    },
+    {
+      "name": "agricultural droughts",
+      "label": "natural hazard",
+      "description": "A type of drought that affects agriculture and is characterized by a lack of soil moisture",
+      "uuid": "7c93477c-4a6f-4cff-b159-d86e0c3c25a6",
+      "score": 0.530781374712372
+    },
+    {
+      "name": "hydrological droughts",
+      "label": "natural hazard",
+      "description": "A type of drought that affects the water cycle and is characterized by a lack of water in rivers, lakes, and reservoirs",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5462081211381252
+    }
+  ],
+  "(31876, 34330)": [
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure used to assess drought severity by standardizing the water balance time series",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6616041243108858
+    },
+    {
+      "name": "WB",
+      "label": "variable",
+      "description": "The water balance, a measure of the difference between precipitation and evapotranspiration",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5591290021553603
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6892912026346695
+    },
+    {
+      "name": "drought severity",
+      "label": "variable",
+      "description": "A measure of the intensity of a drought, classified according to the SPEI value",
+      "uuid": "1a6b76b0-6c03-4021-92fb-66552edcf845",
+      "score": 0.7346280645367199
+    },
+    {
+      "name": "drought frequency",
+      "label": "variable",
+      "description": "The number of times a drought occurs within a given period",
+      "uuid": "1a95af83-fe1b-4cea-931d-953a4e5965e6",
+      "score": 0.7447709990878967
+    },
+    {
+      "name": "drought onset",
+      "label": "variable",
+      "description": "The beginning of a drought period",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5364924367020087
+    },
+    {
+      "name": "drought duration",
+      "label": "variable",
+      "description": "The length of time a drought lasts",
+      "uuid": "ebd54a3b-8b8b-40e8-94fd-d0b4352e0745",
+      "score": 0.6927625461088209
+    },
+    {
+      "name": "drought intensity",
+      "label": "variable",
+      "description": "A measure of the severity of a drought, based on the SPEI values",
+      "uuid": "d0a52ada-8d32-4d68-9daf-cc1c4d58aed3",
+      "score": 0.6278585533164354
+    },
+    {
+      "name": "historical period",
+      "label": "experiment",
+      "description": "A time period used as a reference for comparing climate simulations or projections",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5314585163478297
+    },
+    {
+      "name": "regional basis",
+      "label": "location",
+      "description": "A geographic area used for analyzing and interpreting climate data",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.5365514377853051
+    },
+    {
+      "name": "sub-regions",
+      "label": "location",
+      "description": "Smaller geographic areas within a larger region, used for more detailed analysis",
+      "uuid": "204270d9-8039-4768-851e-63635af5fb65",
+      "score": 0.5061259507089196
+    }
+  ],
+  "(33852, 36700)": [
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure used to monitor drought conditions",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6595651410148186
+    },
+    {
+      "name": "Mediterranean countries",
+      "label": "location",
+      "description": "A region in southeastern Europe, southern Europe, and northern Africa, characterized by a Mediterranean climate",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.5453524402624833
+    },
+    {
+      "name": "ISIMIP Project",
+      "label": "project",
+      "description": "The Inter-Sectoral Impact Model Intercomparison Project, a framework for comparing climate impact models across different sectors",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.6237126435240374
+    },
+    {
+      "name": "CMIP",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.8020340326301447
+    },
+    {
+      "name": "World Climate Research Program",
+      "label": "provider",
+      "description": "An international research program focused on understanding and predicting the Earth's climate system",
+      "uuid": "485e86f3-7cd1-43c0-bb02-a929b7d96e43",
+      "score": 0.7368182194376536
+    },
+    {
+      "name": "Climate Indices python package",
+      "label": "instrument",
+      "description": "A software package used for calculating climate indices such as SPEI",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.5614076194009929
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, often used in climate studies",
+      "uuid": "a32cbebb-0f17-41a6-9bf7-f3b111e4c56e",
+      "score": 0.6860570520311149
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, a key component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6649749812273267
+    },
+    {
+      "name": "water balance",
+      "label": "variable",
+      "description": "The difference between precipitation and evapotranspiration, an important factor in determining drought conditions",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5797297070900754
+    },
+    {
+      "name": "drought phenomenon",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6536291114544981
+    },
+    {
+      "name": "C3S2_520_CNR",
+      "label": "provider",
+      "description": "A research contract focused on climate services and supported by the Copernicus Climate Change Service",
+      "uuid": "c894c4eb-a1e1-4726-980f-85800666a6af",
+      "score": 0.566172835169327
+    }
+  ],
+  "(36292, 37419)": [
+    {
+      "name": "ISIMIP",
+      "label": "project",
+      "description": "The Inter-Sectoral Impact Model Intercomparison Project, an international project that assesses the impacts of climate change across various sectors",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.6255055083845238
+    },
+    {
+      "name": "Climate Indices python package",
+      "label": "instrument",
+      "description": "A software tool used for computing climate indices such as PET and SPEI, facilitating climate analysis and research",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.557021143841484
+    },
+    {
+      "name": "PET",
+      "label": "variable",
+      "description": "The potential evapotranspiration, a measure of the amount of water that could be evaporated from the land surface given sufficient water availability",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6706473295705069
+    },
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure of drought severity that accounts for both precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6541594774556769
+    },
+    {
+      "name": "ESM",
+      "label": "model",
+      "description": "The Earth System Model, a comprehensive model that integrates physical, chemical, and biological processes to simulate Earth's climate system",
+      "uuid": "8894d92c-be32-465b-ae08-e5de755a92fc",
+      "score": 0.572495521130045
+    },
+    {
+      "name": "Python",
+      "label": "instrument",
+      "description": "A programming language used for developing software tools and scripts, including those for climate analysis and research",
+      "uuid": "252f31d3-0d6d-403e-a294-5a8d3f416a96",
+      "score": 0.5304137678773333
+    },
+    {
+      "name": "Springer Nature",
+      "label": "provider",
+      "description": "A leading publisher of scientific and academic journals, including those focused on climate and environmental research",
+      "uuid": "67aee06b-a1df-4d00-9945-c9229f1ad121",
+      "score": 0.529499848850688
+    }
+  ]
+}

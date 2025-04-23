@@ -1,0 +1,171 @@
+{
+  "(0, 3155)": [
+    {
+      "name": "urban air quality",
+      "label": "variable",
+      "description": "The measure of the cleanliness of the air in urban environments, affected by factors such as pollution and human activities",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5593314615574496
+    },
+    {
+      "name": "factory fumes",
+      "label": "pollutant",
+      "description": "A type of air pollution emitted by industrial activities, contributing to poor air quality",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5406209227707885
+    },
+    {
+      "name": "urban environment",
+      "label": "location",
+      "description": "The area surrounding and including cities, characterized by high population density and human activities",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6059505650545824
+    },
+    {
+      "name": "buildings",
+      "label": "platform",
+      "description": "Structures that can affect wind flow and pollutant dispersion in urban environments",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.5321193742134519
+    }
+  ],
+  "(2688, 5778)": [
+    {
+      "name": "wind flow",
+      "label": "variable",
+      "description": "The movement of air in the atmosphere, influenced by various factors such as buildings, terrain, and weather patterns",
+      "uuid": "a628333f-aea2-42cf-b930-c8c859ee0547",
+      "score": 0.5477960421252546
+    },
+    {
+      "name": "urban environments",
+      "label": "location",
+      "description": "Areas with high population density, characterized by the presence of buildings, roads, and other infrastructure",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6828123068500512
+    },
+    {
+      "name": "buildings",
+      "label": "location",
+      "description": "Structures that can affect wind flow and pollutant dispersion in urban environments",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.5321193742134519
+    },
+    {
+      "name": "eddy diffusivity",
+      "label": "variable",
+      "description": "A measure of the turbulent diffusion of pollutants in the air, influenced by factors such as wind flow and building geometry",
+      "uuid": "1943e9c5-ecb5-4429-93eb-0cbb1be00ea9",
+      "score": 0.5907773333678786
+    },
+    {
+      "name": "atmospheric boundary layer",
+      "label": "location",
+      "description": "The layer of the atmosphere closest to the Earth's surface, where wind flow and pollutant dispersion are influenced by the presence of buildings and terrain",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.6816265235459308
+    }
+  ],
+  "(5321, 8227)": [
+    {
+      "name": "concentrations",
+      "label": "variable",
+      "description": "Measurements of the amount of a substance present in a given area or volume",
+      "uuid": "12ed4fa0-27cc-4e05-a2b7-bbf2fde871f6",
+      "score": 0.580052355587768
+    }
+  ],
+  "(12268, 14773)": [
+    {
+      "name": "vertical vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of the flow, used as the field quantity \u03a6",
+      "uuid": "858a80ff-5aa4-4590-b2e2-e88a802a6ee4",
+      "score": 0.5722981937869412
+    }
+  ],
+  "(19136, 21698)": [
+    {
+      "name": "atmospheric boundary layer",
+      "label": "location",
+      "description": "The region of the atmosphere where the Earth's surface has a significant impact on the flow of air",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.6785123678655802
+    }
+  ],
+  "(23405, 25492)": [
+    {
+      "name": "velocity magnitude",
+      "label": "variable",
+      "description": "The magnitude of the velocity vector in a fluid flow",
+      "uuid": "f77adcc6-e320-4fd9-80c9-958e75cd46d3",
+      "score": 0.5008565418719119
+    },
+    {
+      "name": "grid",
+      "label": "instrument",
+      "description": "A computational mesh used to discretize the simulation domain",
+      "uuid": "bb6184eb-1ced-44fb-9668-d57cf1baa2e3",
+      "score": 0.527398957931505
+    }
+  ],
+  "(27000, 29633)": [
+    {
+      "name": "velocity field",
+      "label": "variable",
+      "description": "A measure of the velocity of fluid flow, used to evaluate the dynamics of fluid motion",
+      "uuid": "f77adcc6-e320-4fd9-80c9-958e75cd46d3",
+      "score": 0.5213256802453371
+    }
+  ],
+  "(35438, 38125)": [
+    {
+      "name": "air",
+      "label": "variable",
+      "description": "The mixture of gases that surrounds the Earth, potentially influencing fluid flow and pollutant dispersion",
+      "uuid": "a8d070ea-9ffd-4dcc-bb78-799e20f16de8",
+      "score": 0.633683073459428
+    }
+  ],
+  "(40001, 43108)": [
+    {
+      "name": "wind flow",
+      "label": "variable",
+      "description": "The movement of air in the atmosphere, influencing pollutant dispersion",
+      "uuid": "a628333f-aea2-42cf-b930-c8c859ee0547",
+      "score": 0.5156528889567166
+    },
+    {
+      "name": "mean wind speed",
+      "label": "variable",
+      "description": "The average velocity of the wind in a given area or time period",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.5650449442028666
+    }
+  ],
+  "(42586, 45438)": [
+    {
+      "name": "built environment",
+      "label": "location",
+      "description": "Urban or man-made areas where human activity and construction impact local climate and air quality",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.5352474869704414
+    },
+    {
+      "name": "atmospheric boundary layer",
+      "label": "location",
+      "description": "The layer of the atmosphere closest to the Earth's surface, where atmospheric conditions and pollutant dispersion are significantly influenced by surface features",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.6696226453149754
+    }
+  ],
+  "(44981, 46424)": [
+    {
+      "name": "built environment",
+      "label": "location",
+      "description": "Urban or industrial areas where human activities and structures interact with the atmosphere",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.513796737798224
+    }
+  ]
+}

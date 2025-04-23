@@ -1,0 +1,813 @@
+{
+  "(2958, 6212)": [
+    {
+      "name": "Human-Environment Interactions",
+      "label": "project",
+      "description": "A research framework examining the complex relationships between human societies and the natural environment",
+      "uuid": "fb93d937-c17c-45d0-a9e3-ca5c8a800ca8",
+      "score": 0.5017231937922154
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, surrounded by Europe, Africa, and Asia, and known for its mild climate and strategic location",
+      "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+      "score": 0.7553121752391091
+    },
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, known for its rich history, philosophy, and cultural heritage",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.668250487000706
+    }
+  ],
+  "(5688, 8856)": [
+    {
+      "name": "human settlements",
+      "label": "location",
+      "description": "Places where humans have established communities, often influenced by factors such as climate, topography, and natural resources",
+      "uuid": "fee25cad-7ffe-4ee2-a6f2-8116b8a0a707",
+      "score": 0.6503268006490336
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including mountains, valleys, and other landforms",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6779993330998945
+    }
+  ],
+  "(8331, 11471)": [
+    {
+      "name": "Baffin Island",
+      "label": "location",
+      "description": "A Canadian island in the Arctic Ocean, known for its Inuit population and extreme climate",
+      "uuid": "cbd0d3aa-ef63-4920-bd0d-75ca27cf6066",
+      "score": 0.5207760815217268
+    }
+  ],
+  "(10990, 13718)": [
+    {
+      "name": "Baffin Island",
+      "label": "location",
+      "description": "A Canadian island in the Arctic Ocean, known for its harsh climate and unique ecosystems",
+      "uuid": "cbd0d3aa-ef63-4920-bd0d-75ca27cf6066",
+      "score": 0.5536474141563958
+    }
+  ],
+  "(13280, 16355)": [
+    {
+      "name": "ecology",
+      "label": "field",
+      "description": "The study of the relationships between living organisms and their environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5087999928636998
+    }
+  ],
+  "(15812, 18962)": [
+    {
+      "name": "land tenure",
+      "label": "variable",
+      "description": "A system of rules and regulations governing the ownership and use of land, often influencing social organization and cultural practices",
+      "uuid": "0ceb5ef1-5a07-4f93-8e86-d3cc2baf5768",
+      "score": 0.6484003752746493
+    }
+  ],
+  "(18410, 21514)": [
+    {
+      "name": "natural selection",
+      "label": "model",
+      "description": "A process by which populations of living organisms adapt and evolve over time in response to environmental pressures",
+      "uuid": "80ae5fdc-c312-4fa1-bf7d-60346529976d",
+      "score": 0.6806982287902791
+    },
+    {
+      "name": "evolutionary change",
+      "label": "variable",
+      "description": "The process by which populations of living organisms adapt and evolve over time in response to environmental pressures",
+      "uuid": "cf3d1728-7606-4561-a0dd-116b4dbec21f",
+      "score": 0.5786035934842736
+    }
+  ],
+  "(20991, 24173)": [
+    {
+      "name": "natural selection",
+      "label": "model",
+      "description": "A fundamental concept in evolutionary biology describing the process by which populations of living organisms adapt and evolve over time through the survival and reproduction of individuals with favorable traits",
+      "uuid": "80ae5fdc-c312-4fa1-bf7d-60346529976d",
+      "score": 0.7074106117200468
+    }
+  ],
+  "(23568, 26810)": [
+    {
+      "name": "behavior",
+      "label": "variable",
+      "description": "The actions, activities, and responses of individuals or groups within a society",
+      "uuid": "c8317644-4cb2-4e37-b536-c762f7e670ab",
+      "score": 0.5115141041545431
+    }
+  ],
+  "(26245, 29572)": [
+    {
+      "name": "basin",
+      "label": "location",
+      "description": "A region of land drained by a river or stream, often used to describe a geographic area",
+      "uuid": "272700c5-d762-452b-8e9f-130e3a51efb5",
+      "score": 0.5625363594302445
+    }
+  ],
+  "(31635, 34551)": [
+    {
+      "name": "New Guinea",
+      "label": "location",
+      "description": "A region in the Pacific, known for its diverse ecosystems and indigenous cultures",
+      "uuid": "f0757092-c0bf-4937-83bc-6011c682bae9",
+      "score": 0.5567038310711483
+    },
+    {
+      "name": "horticultural land",
+      "label": "location",
+      "description": "Areas used for growing crops, often related to ecological and cultural practices",
+      "uuid": "d23b37cd-5e05-4356-b8b4-df6d7af236d6",
+      "score": 0.5235864592238241
+    },
+    {
+      "name": "adaptation",
+      "label": "variable",
+      "description": "The process by which a system adjusts to changes in its environment",
+      "uuid": "cf3d1728-7606-4561-a0dd-116b4dbec21f",
+      "score": 0.5873323170261002
+    }
+  ],
+  "(34014, 37011)": [
+    {
+      "name": "ecosystem",
+      "label": "model",
+      "description": "A complex network of living organisms and their environment, interacting and influencing each other in various ways",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6681275163109898
+    },
+    {
+      "name": "nutrient cycling",
+      "label": "variable",
+      "description": "The process by which nutrients are exchanged and transformed within an ecosystem, essential for maintaining the health and productivity of the system",
+      "uuid": "7a33a978-8ef6-4313-b489-c06cfc6d9cec",
+      "score": 0.7087960849749845
+    },
+    {
+      "name": "NSB",
+      "label": "provider",
+      "description": "The National Science Board, a non-profit organization that provides advice on scientific and technical matters",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.521147656370128
+    }
+  ],
+  "(36439, 39570)": [
+    {
+      "name": "global environmental change",
+      "label": "teleconnection",
+      "description": "The transformation of the Earth's environment on a global scale, encompassing changes in climate, ecosystems, and human societies",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.5430455116763195
+    },
+    {
+      "name": "paleoclimatologists",
+      "label": "provider",
+      "description": "Scientists who study past climates and their impact on human societies and ecosystems",
+      "uuid": "c7245882-84a1-4192-acfa-a758b5b9c151",
+      "score": 0.5679649407951404
+    },
+    {
+      "name": "landscape history",
+      "label": "project",
+      "description": "The study of how landscapes have changed over time and space, including the impacts of human activities on the environment",
+      "uuid": "6c44a08d-0a08-47f5-b819-7e561445e613",
+      "score": 0.5196402042069992
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "Complex networks of living organisms and their environments, which can be affected by human activities and environmental changes",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.662694863935793
+    }
+  ],
+  "(39032, 42144)": [
+    {
+      "name": "landscape ecology",
+      "label": "model",
+      "description": "A research approach that studies the interactions between human and natural systems within a spatial context, often focusing on the structure, function, and change of landscapes",
+      "uuid": "e77c0096-05a7-47ff-8629-55d12c46bb6b",
+      "score": 0.6500631342934039
+    },
+    {
+      "name": "landscapes",
+      "label": "location",
+      "description": "The visible features of an area of land, including physical elements such as landforms, water bodies, and vegetation, as well as human-made features such as buildings and infrastructure",
+      "uuid": "f36d71c6-f2ad-49c4-809f-09b4f0688412",
+      "score": 0.6295498727976127
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, that supports plant growth and filters water",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.636529686786142
+    },
+    {
+      "name": "drainage",
+      "label": "variable",
+      "description": "The natural or artificial removal of water from an area, which can affect the environment and human activities",
+      "uuid": "6a2107ab-38ab-42dc-beb0-8ba5f65e8022",
+      "score": 0.6361405593817788
+    },
+    {
+      "name": "cropping practices",
+      "label": "variable",
+      "description": "The methods and techniques used to cultivate and manage crops, which can impact the environment and human well-being",
+      "uuid": "2dda92a8-6c26-4506-9881-43b6d9a83b18",
+      "score": 0.6014054885320291
+    },
+    {
+      "name": "ecosystem ecology",
+      "label": "model",
+      "description": "A research approach that studies the interactions between living and non-living components of the environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5085446838688624
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures and altered weather patterns, which can have significant impacts on human societies and the environment",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5982690795646816
+    }
+  ],
+  "(41730, 44534)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451761247480406
+    }
+  ],
+  "(44061, 47357)": [
+    {
+      "name": "environmentalism",
+      "label": "movement",
+      "description": "A social and political movement that seeks to protect the natural environment and promote sustainable development",
+      "uuid": "73266dd6-217a-432f-9237-176d3e94b39b",
+      "score": 0.5025858516718404
+    },
+    {
+      "name": "conservation biology",
+      "label": "field",
+      "description": "The scientific study of the preservation and protection of threatened and endangered species and ecosystems",
+      "uuid": "40869a25-edea-4438-80f9-47c9e6910b9b",
+      "score": 0.5647890361561538
+    },
+    {
+      "name": "environmental NGOs",
+      "label": "provider",
+      "description": "Non-governmental organizations that work to protect the environment and promote sustainable development",
+      "uuid": "1d547c94-161c-4da7-8e83-5cbfe94ff240",
+      "score": 0.5138626011213141
+    },
+    {
+      "name": "human ecosystem",
+      "label": "system",
+      "description": "A complex system that includes both human and natural components, and the interactions between them",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5184988369969092
+    },
+    {
+      "name": "government regulations",
+      "label": "policy",
+      "description": "Laws and regulations enacted by governments to protect the environment and manage natural resources",
+      "uuid": "57df059e-578a-4371-9484-7a34d63edfa5",
+      "score": 0.6063850847316704
+    },
+    {
+      "name": "natural resources",
+      "label": "variable",
+      "description": "Resources provided by nature, such as water, air, and land, that are essential for human survival and economic development",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.5198639649301355
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a particular area or region, which can impact the environment and natural resources",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.634134328752881
+    }
+  ],
+  "(46804, 50075)": [
+    {
+      "name": "natural resources",
+      "label": "variable",
+      "description": "Resources provided by nature, such as water, air, and land, which can be used for human benefit",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.5251135529431241
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The total number of people living in a particular area or region",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6628104290859717
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The large bodies of saltwater that cover most of the Earth's surface",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.717285091297098
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases that surrounds the Earth",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6261932078133448
+    },
+    {
+      "name": "fisheries",
+      "label": "location",
+      "description": "Areas where fish and other seafood are caught or farmed",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6549880193159618
+    }
+  ],
+  "(49569, 52677)": [
+    {
+      "name": "global environmental change",
+      "label": "natural hazard",
+      "description": "Refers to significant changes in the Earth's climate, ecosystems, and natural systems, often driven by human activities",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.5459172694405661
+    },
+    {
+      "name": "human dimensions",
+      "label": "variable",
+      "description": "Aspects of human societies, behaviors, and interactions that influence and are influenced by environmental conditions",
+      "uuid": "fb93d937-c17c-45d0-a9e3-ca5c8a800ca8",
+      "score": 0.7265088177660012
+    },
+    {
+      "name": "irrigation",
+      "label": "platform",
+      "description": "A system or infrastructure for managing and distributing water for agricultural or other purposes",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6873730340404686
+    },
+    {
+      "name": "fisheries",
+      "label": "platform",
+      "description": "A system or industry related to the harvesting and management of fish and other aquatic resources",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6794917149176298
+    }
+  ],
+  "(52150, 55654)": [
+    {
+      "name": "land change sciences",
+      "label": "provider",
+      "description": "The study of changes in land use and land cover, and their impacts on the environment and human societies",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5476600831251023
+    },
+    {
+      "name": "remote-sensing data",
+      "label": "instrument",
+      "description": "Data collected from a distance, often using satellite or aerial imagery, to study the Earth's surface and environment",
+      "uuid": "afa11694-6aad-4d0b-8588-5ae14cce35cc",
+      "score": 0.5486340520978054
+    },
+    {
+      "name": "GIS",
+      "label": "instrument",
+      "description": "Geographic Information System, a tool used to analyze and visualize geographically referenced data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.7065449622852398
+    },
+    {
+      "name": "vegetation ecology",
+      "label": "variable",
+      "description": "The study of the relationships between plants and their environment, including the impact of human activity on plant communities",
+      "uuid": "053b8d43-684c-43c4-977d-2b678575fe22",
+      "score": 0.5018699046323638
+    },
+    {
+      "name": "land-use/cover change",
+      "label": "variable",
+      "description": "Changes in the way land is used or covered, such as deforestation or urbanization",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6461948288827066
+    },
+    {
+      "name": "archaeological",
+      "label": "experiment",
+      "description": "The study of past human cultures through the analysis of material remains, such as artifacts and architecture",
+      "uuid": "bf703f22-9775-460d-86bd-149aaef1acde",
+      "score": 0.5584855921974293
+    }
+  ],
+  "(55032, 58568)": [
+    {
+      "name": "LUCC",
+      "label": "variable",
+      "description": "Land Use and Cover Change, a measure of how human activities alter the Earth's surface, influencing environmental and social processes",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.7117441407747613
+    },
+    {
+      "name": "Tibet",
+      "label": "location",
+      "description": "A region in the Himalayas, known for its unique cultural and environmental characteristics",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.501750277261436
+    },
+    {
+      "name": "ecotourism",
+      "label": "activity",
+      "description": "A type of tourism that focuses on experiencing and appreciating natural environments, often supporting conservation efforts",
+      "uuid": "e6cf64ce-389f-479c-835a-eecd612d4d88",
+      "score": 0.7294605449370598
+    }
+  ],
+  "(58028, 61658)": [
+    {
+      "name": "land-cover types",
+      "label": "variable",
+      "description": "Categories of land use and land cover, such as forest, grassland, or urban areas, that can be used to understand changes in the environment",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6700837616445868
+    },
+    {
+      "name": "forest conservation",
+      "label": "project",
+      "description": "Efforts to protect and preserve forests, which provide important ecosystem services and biodiversity>",
+      "uuid": "7ee9d286-0742-4844-b7eb-b7550d3f782b",
+      "score": 0.6875977726509234
+    },
+    {
+      "name": "LUCC",
+      "label": "project",
+      "description": "Land use and land cover change, referring to the conversion of natural habitats to human-dominated landscapes",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.6888610214856606
+    },
+    {
+      "name": "ecotourism",
+      "label": "project",
+      "description": "A type of tourism that focuses on experiencing and learning about natural environments and wildlife, often supporting conservation efforts",
+      "uuid": "e6cf64ce-389f-479c-835a-eecd612d4d88",
+      "score": 0.7294896501180015
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, with a wide range of ecosystems and biodiversity",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6418109342969817
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, with a diverse range of ecosystems and land uses",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6722763036933624
+    },
+    {
+      "name": "Uganda",
+      "label": "location",
+      "description": "A country in East Africa, with a range of ecosystems and wildlife",
+      "uuid": "cdb3d558-8f51-45bc-8845-7362c63aa0f7",
+      "score": 0.6814326005246139
+    },
+    {
+      "name": "Botswana",
+      "label": "location",
+      "description": "A country in Southern Africa, known for its wildlife and natural resources",
+      "uuid": "444367b0-aa47-4d8b-94d7-41f7d69d2738",
+      "score": 0.7041785407920437
+    },
+    {
+      "name": "Namibia",
+      "label": "location",
+      "description": "A country in Southern Africa, with a range of ecosystems and wildlife",
+      "uuid": "a827feaf-9926-4a4d-b21f-dc044524b2b5",
+      "score": 0.6796906794642172
+    },
+    {
+      "name": "African continent",
+      "label": "location",
+      "description": "The second-largest continent on Earth, with a diverse range of ecosystems and biodiversity",
+      "uuid": "2ca1b865-5555-4375-aa81-72811335b695",
+      "score": 0.5546094501698373
+    }
+  ],
+  "(61022, 64592)": [
+    {
+      "name": "African continent",
+      "label": "location",
+      "description": "The second largest and second most populous continent on Earth, known for its diverse geography, climate, and ecosystems",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.5613099660334793
+    },
+    {
+      "name": "Uganda",
+      "label": "location",
+      "description": "A landlocked country in East Africa, characterized by a diverse geography and climate",
+      "uuid": "cdb3d558-8f51-45bc-8845-7362c63aa0f7",
+      "score": 0.7217529813823975
+    },
+    {
+      "name": "Botswana",
+      "label": "location",
+      "description": "A landlocked country in southern Africa, known for its savannas and deserts",
+      "uuid": "444367b0-aa47-4d8b-94d7-41f7d69d2738",
+      "score": 0.7454522222808903
+    },
+    {
+      "name": "Namibia",
+      "label": "location",
+      "description": "A country in southern Africa, characterized by a diverse geography and climate",
+      "uuid": "a827feaf-9926-4a4d-b21f-dc044524b2b5",
+      "score": 0.7303332141667088
+    },
+    {
+      "name": "land-cover types",
+      "label": "variable",
+      "description": "The different types of land use or land cover, such as forests, grasslands, or urban areas, which can impact environmental and climate conditions",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6191500574816475
+    },
+    {
+      "name": "infrastructure change",
+      "label": "variable",
+      "description": "The modifications or developments in physical infrastructure, such as roads, buildings, or water management systems, which can impact environmental and social conditions",
+      "uuid": "d4313915-2d24-424c-a171-30ee9a6f4bb5",
+      "score": 0.5162142428475998
+    },
+    {
+      "name": "natural resource management",
+      "label": "platform",
+      "description": "The practices, policies, and institutions that govern the use, conservation, and sustainability of natural resources, such as water, land, or forests",
+      "uuid": "2be0af28-a6b8-4fce-82e4-1ad86788a4d5",
+      "score": 0.513764034069189
+    },
+    {
+      "name": "urbanization",
+      "label": "variable",
+      "description": "The process of population growth and development in urban areas, leading to changes in land use, infrastructure, and environmental conditions",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.590370562585841
+    },
+    {
+      "name": "Americas",
+      "label": "location",
+      "description": "The continents of North, Central, and South America, characterized by diverse geography, climate, and ecosystems",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.5839924934649547
+    },
+    {
+      "name": "rural-urban settlements",
+      "label": "location",
+      "description": "The areas where rural and urban environments intersect or transition, often experiencing unique social, economic, and environmental challenges",
+      "uuid": "d83b4271-048c-4763-9d5c-b5ec1b1788f4",
+      "score": 0.5070779164778152
+    },
+    {
+      "name": "urban residents",
+      "label": "provider",
+      "description": "People living in urban areas, who can impact environmental conditions, resource use, and climate change through their daily activities and choices",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.505732594161102
+    },
+    {
+      "name": "Amazonian floodplains",
+      "label": "location",
+      "description": "The low-lying areas near the Amazon River and its tributaries, characterized by unique ecosystems, biodiversity, and environmental challenges",
+      "uuid": "d71f94cb-e773-487a-a8ff-9c5f11c1dbc4",
+      "score": 0.538592494629155
+    },
+    {
+      "name": "federal agencies",
+      "label": "provider",
+      "description": "Government institutions responsible for managing natural resources, environment, and development at the national level",
+      "uuid": "2b890e5b-1b50-4454-90a9-538dd891da9a",
+      "score": 0.5534172747785789
+    },
+    {
+      "name": "NGOs",
+      "label": "provider",
+      "description": "Non-governmental organizations that often play a role in environmental conservation, social development, and advocacy",
+      "uuid": "f8762581-b92f-48f9-b077-964ee6b0c8ee",
+      "score": 0.5207483605822448
+    },
+    {
+      "name": "land tenure",
+      "label": "variable",
+      "description": "The system of rules, rights, and responsibilities that govern access to and use of land, which can impact environmental and social conditions",
+      "uuid": "0ceb5ef1-5a07-4f93-8e86-d3cc2baf5768",
+      "score": 0.6795227464816818
+    },
+    {
+      "name": "remote sensing",
+      "label": "instrument",
+      "description": "The use of aerial or satellite imagery to collect data on environmental conditions, land use, and natural resources",
+      "uuid": "afa11694-6aad-4d0b-8588-5ae14cce35cc",
+      "score": 0.5303299000431295
+    },
+    {
+      "name": "GIS",
+      "label": "instrument",
+      "description": "Geographic Information Systems, a technology used to analyze, visualize, and manage spatial data, often applied in environmental, social, and institutional studies",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.711249220537471
+    },
+    {
+      "name": "Colombia",
+      "label": "location",
+      "description": "A country in South America, characterized by diverse geography, climate, and ecosystems",
+      "uuid": "452b929e-ffdb-48c8-b3a2-bddd1ab2bf97",
+      "score": 0.6438004889982948
+    },
+    {
+      "name": "rural populations",
+      "label": "provider",
+      "description": "People living in rural areas, who can impact environmental conditions, resource use, and climate change through their daily activities and choices",
+      "uuid": "d83b4271-048c-4763-9d5c-b5ec1b1788f4",
+      "score": 0.5037716612003281
+    },
+    {
+      "name": "land-use decisions",
+      "label": "variable",
+      "description": "The choices people make about how to use land, which can impact environmental and climate conditions",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5017426302580856
+    },
+    {
+      "name": "Atlantic Forest",
+      "label": "location",
+      "description": "A region of tropical forest in eastern South America, characterized by high biodiversity and environmental importance",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.5203037558800213
+    },
+    {
+      "name": "Brazil",
+      "label": "location",
+      "description": "The largest country in both South America and the Latin American region, known for its diverse geography, climate, and ecosystems",
+      "uuid": "2a65dfd1-83e7-4886-a732-316b170522a1",
+      "score": 0.6764305654654088
+    },
+    {
+      "name": "Honduras",
+      "label": "location",
+      "description": "A country in Central America, characterized by its diverse geography, climate, and ecosystems",
+      "uuid": "91409bfb-7fe2-4eaa-97d9-4bc96d5a85b0",
+      "score": 0.6925424314946597
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, characterized by its diverse geography, climate, and ecosystems",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.732749715849497
+    },
+    {
+      "name": "Ohio",
+      "label": "location",
+      "description": "A state in the eastern United States, known for its urbanization, agriculture, and environmental challenges",
+      "uuid": "c23966c4-9e16-484c-a1ef-efcd2354d71c",
+      "score": 0.6202130808408917
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the eastern United States, characterized by its urbanization, agriculture, and environmental importance",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.6542346486106594
+    },
+    {
+      "name": "Arizona",
+      "label": "location",
+      "description": "A state in the southwestern United States, known for its desert landscapes, urbanization, and environmental challenges",
+      "uuid": "c46d59a8-d874-4db8-87f5-d59ecbb79a29",
+      "score": 0.7137597997714006
+    },
+    {
+      "name": "exurbanization",
+      "label": "variable",
+      "description": "The process of population growth and development in areas beyond urban centers, leading to changes in land use, infrastructure, and environmental conditions",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5081753571908916
+    }
+  ],
+  "(63995, 67499)": [
+    {
+      "name": "Ohio",
+      "label": "location",
+      "description": "A state in the United States known for its agricultural production and urban centers",
+      "uuid": "c23966c4-9e16-484c-a1ef-efcd2354d71c",
+      "score": 0.5953332757780452
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the United States with diverse geography and climate, influencing its land use and economic activities",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.630511585454812
+    },
+    {
+      "name": "Arizona",
+      "label": "location",
+      "description": "A state in the United States characterized by its arid climate and significant agricultural production",
+      "uuid": "c46d59a8-d874-4db8-87f5-d59ecbb79a29",
+      "score": 0.659586222503468
+    },
+    {
+      "name": "Uganda",
+      "label": "location",
+      "description": "A country in East Africa with diverse ecosystems and land-use patterns, influenced by colonial policies and demographic changes",
+      "uuid": "cdb3d558-8f51-45bc-8845-7362c63aa0f7",
+      "score": 0.6352398674153166
+    },
+    {
+      "name": "Brazil",
+      "label": "location",
+      "description": "A country in South America with a large territory, diverse ecosystems, and significant agricultural production, including the Amazon region",
+      "uuid": "2a65dfd1-83e7-4886-a732-316b170522a1",
+      "score": 0.6248346465573816
+    },
+    {
+      "name": "Amazon",
+      "label": "location",
+      "description": "A vast region in South America, primarily covered by rainforest, with significant biodiversity and agricultural activities",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.6006592689802905
+    },
+    {
+      "name": "Japan",
+      "label": "provider",
+      "description": "A country in East Asia known for its technological advancements, economic development, and unique cultural practices, including its colonization history",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.5915531481051916
+    },
+    {
+      "name": "Europe",
+      "label": "provider",
+      "description": "A continent with a complex history of colonization, economic development, and cultural exchange, influencing land-use patterns globally",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.5567556555899799
+    },
+    {
+      "name": "land tenure",
+      "label": "variable",
+      "description": "The system of rules and regulations governing the ownership and use of land, influencing land-use decisions and ecosystem services",
+      "uuid": "0ceb5ef1-5a07-4f93-8e86-d3cc2baf5768",
+      "score": 0.6811851668576263
+    },
+    {
+      "name": "carbon sequestration",
+      "label": "variable",
+      "description": "The process of capturing and storing atmospheric carbon dioxide, often through land-use practices like agroforestry and reforestation",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.7237287968027136
+    },
+    {
+      "name": "vegetation ecology",
+      "label": "model",
+      "description": "The study of the interactions between plants and their environment, including the structure and function of ecosystems",
+      "uuid": "053b8d43-684c-43c4-977d-2b678575fe22",
+      "score": 0.5032448002359065
+    },
+    {
+      "name": "water resource management",
+      "label": "experiment",
+      "description": "The practice of managing water resources to meet human needs while maintaining ecosystem services and biodiversity",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5837856793861173
+    }
+  ],
+  "(66896, 67879)": [
+    {
+      "name": "water resource management",
+      "label": "instrument",
+      "description": "The practice of managing water resources to ensure their sustainable use, including methods for conserving, allocating, and protecting water supplies",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5724464901631151
+    },
+    {
+      "name": "environmental problems",
+      "label": "natural hazard",
+      "description": "Challenges and issues that affect the natural environment, such as climate change, pollution, and biodiversity loss",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.5023631176330794
+    }
+  ]
+}

@@ -1,0 +1,765 @@
+{
+  "(0, 3330)": [
+    {
+      "name": "Mesoamerica",
+      "label": "location",
+      "description": "A region in Central America that includes Mexico, Guatemala, El Salvador, Nicaragua, and other countries, known for its cultural and ecological diversity",
+      "uuid": "f2b153dd-1c30-42e4-8abf-677111e76c9a",
+      "score": 0.5893584682723338
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change (IPCC)",
+      "label": "provider",
+      "description": "An international organization that assesses the science related to climate change, its impacts, and potential responses",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7527366466034847
+    },
+    {
+      "name": "Global Circulation Models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict the Earth's climate system, including atmospheric and oceanic circulation",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6775163546324156
+    },
+    {
+      "name": "Vulnerability-Resilience Indicators",
+      "label": "variable",
+      "description": "Metrics or indices used to quantify the vulnerability and resilience of systems, such as communities or ecosystems, to climate change",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5780826902036375
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, part of the Mesoamerican region, with a diverse climate and geography",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.6908123563401185
+    },
+    {
+      "name": "Guatemala",
+      "label": "location",
+      "description": "A country in Central America, part of the Mesoamerican region, with a diverse culture and ecology",
+      "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+      "score": 0.6660780037051776
+    },
+    {
+      "name": "El Salvador",
+      "label": "location",
+      "description": "A country in Central America, part of the Mesoamerican region, with a tropical climate and vulnerable to natural disasters",
+      "uuid": "8d237194-e6b5-418b-ab67-e20e260867e9",
+      "score": 0.617786497319166
+    },
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America, part of the Mesoamerican region, with a diverse geography and climate",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.7255211601035231
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by changes in the Earth's climate, leading to impacts on ecosystems, economies, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6097873000433768
+    },
+    {
+      "name": "niche modelling",
+      "label": "instrument",
+      "description": "A method used in ecology and biology to model the distribution and abundance of species based on environmental factors",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.542866652414524
+    },
+    {
+      "name": "historical climate data",
+      "label": "variable",
+      "description": "Data related to past climate conditions, used for research, modeling, and understanding climate change",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.5353254528736983
+    }
+  ],
+  "(2909, 5925)": [
+    {
+      "name": "Mesoamerica",
+      "label": "location",
+      "description": "A region in Central America, known for its diverse ecosystems and coffee production",
+      "uuid": "f2b153dd-1c30-42e4-8abf-677111e76c9a",
+      "score": 0.5596966333164658
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country in East Africa, where coffee is an important crop and climate change is affecting its distribution",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.5490644068843915
+    },
+    {
+      "name": "Kenya",
+      "label": "location",
+      "description": "A country in East Africa, where coffee production is impacted by climate change and pests",
+      "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+      "score": 0.591970818712916
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, where coffee production is an important source of livelihood",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.5581088680877188
+    },
+    {
+      "name": "Central America",
+      "label": "location",
+      "description": "A region in the Americas, where coffee production and agriculture are crucial for the economy",
+      "uuid": "f2b153dd-1c30-42e4-8abf-677111e76c9a",
+      "score": 0.632301861511671
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7464893313854758
+    },
+    {
+      "name": "carbon sequestration",
+      "label": "variable",
+      "description": "The process of capturing and storing carbon dioxide, important for mitigating climate change",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.7046378332970308
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability and access to sufficient food, which can be affected by climate change",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.653047529458899
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Severe meteorological occurrences such as heatwaves, floods, and storms, which are influenced by climate change",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6545067987828029
+    },
+    {
+      "name": "El Salvador",
+      "label": "location",
+      "description": "A country in Central America, where coffee farming communities are vulnerable to climate change",
+      "uuid": "8d237194-e6b5-418b-ab67-e20e260867e9",
+      "score": 0.5362843663936437
+    },
+    {
+      "name": "Guatemala",
+      "label": "location",
+      "description": "A country in Central America, where coffee production and indigenous communities are affected by climate change",
+      "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+      "score": 0.5451888132385894
+    },
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America, where coffee farming communities are vulnerable to climate change",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.6014772033986472
+    }
+  ],
+  "(5401, 8782)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492758557127771
+    },
+    {
+      "name": "El Salvador",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "8d237194-e6b5-418b-ab67-e20e260867e9",
+      "score": 0.5918950477309345
+    },
+    {
+      "name": "Guatemala",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+      "score": 0.5923578583795184
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, known for its coffee production and varying climate conditions",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.6208224538874227
+    },
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.6690040528106659
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon of rising temperatures and changing weather patterns, affecting ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5789724730241109
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system or community is susceptible to harm or damage from climate change",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5639085779804113
+    },
+    {
+      "name": "adaptive capacity",
+      "label": "variable",
+      "description": "The ability of a system or community to adapt to climate change",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5174177974490078
+    },
+    {
+      "name": "WorldClim",
+      "label": "instrument",
+      "description": "A global climate database providing historical climate data",
+      "uuid": "1840f198-7392-4525-982b-e3ac47f84780",
+      "score": 0.5372246010219135
+    },
+    {
+      "name": "IPCC Global Circulation Models",
+      "label": "model",
+      "description": "A set of climate models used to predict future climate conditions",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5975660600556405
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded in a given period",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6021483326920364
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded in a given period",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6220134309553736
+    }
+  ],
+  "(8254, 11512)": [
+    {
+      "name": "WorldClim",
+      "label": "project",
+      "description": "A project providing global climate data with high resolution, used for various climate-related studies and applications>",
+      "uuid": "1840f198-7392-4525-982b-e3ac47f84780",
+      "score": 0.6082381142742058
+    },
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "The Global Positioning System, used for providing location information and coordinates>",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.7347415848799036
+    },
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America where coffee production is significant and studies on climate change impacts are conducted>",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.6141203823639588
+    },
+    {
+      "name": "El Salvador",
+      "label": "location",
+      "description": "A country in Central America where coffee production and climate change studies are relevant>",
+      "uuid": "8d237194-e6b5-418b-ab67-e20e260867e9",
+      "score": 0.5615389110700668
+    },
+    {
+      "name": "Guatemala",
+      "label": "location",
+      "description": "A country in Central America with significant coffee production and involvement in climate change research>",
+      "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+      "score": 0.567954172214465
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America where coffee is produced and climate change impacts are studied>",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.5598349856501974
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "Changes in global climate patterns, affecting various aspects of the environment, ecosystems, and human societies>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.609413271402664
+    },
+    {
+      "name": "cropping systems",
+      "label": "variable",
+      "description": "Agricultural practices and methods used for growing crops, which can be adapted to mitigate the effects of climate change>",
+      "uuid": "2dda92a8-6c26-4506-9881-43b6d9a83b18",
+      "score": 0.6806705980783635
+    }
+  ],
+  "(10965, 13925)": [
+    {
+      "name": "Mesoamerica",
+      "label": "location",
+      "description": "A region in Central America that includes countries such as Mexico, Guatemala, and Honduras, known for its coffee production",
+      "uuid": "f2b153dd-1c30-42e4-8abf-677111e76c9a",
+      "score": 0.5650303259397569
+    }
+  ],
+  "(13467, 16407)": [
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system or population is susceptible to harm from climate change, taking into account exposure, sensitivity, and adaptive capacity",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5629103271763174
+    },
+    {
+      "name": "adaptive capacity",
+      "label": "variable",
+      "description": "The ability of a system or population to adjust to climate change, including its ability to absorb, respond to, and recover from climate-related stressors",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5248876184429785
+    },
+    {
+      "name": "climate change models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict the Earth's climate system, including the impacts of climate change",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6415197844823916
+    },
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America, predicted to experience a 5% decrease in precipitation by 2050",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.5828354977426525
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, predicted to reach a mean maximum temperature of 36\u00b0C by 2050",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.5446662924693235
+    }
+  ],
+  "(15927, 18888)": [
+    {
+      "name": "mean maximum temperature",
+      "label": "variable",
+      "description": "A measure of the highest average temperature reached during a specific period, often used to study climate patterns and trends",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.5543546920035224
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, known for its diverse climate and geography",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.6812970645571539
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6658183508968357
+    },
+    {
+      "name": "El Salvador",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "8d237194-e6b5-418b-ab67-e20e260867e9",
+      "score": 0.5918950477309345
+    },
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.6690040528106659
+    },
+    {
+      "name": "Guatemala",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+      "score": 0.5923578583795184
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6713764390250622
+    },
+    {
+      "name": "Central America",
+      "label": "location",
+      "description": "A region in North America, known for its diverse climate and geography",
+      "uuid": "f2b153dd-1c30-42e4-8abf-677111e76c9a",
+      "score": 0.7304783539547474
+    }
+  ],
+  "(18351, 21437)": [
+    {
+      "name": "El Salvador",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "8d237194-e6b5-418b-ab67-e20e260867e9",
+      "score": 0.5918950477309345
+    },
+    {
+      "name": "Guatemala",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+      "score": 0.5923578583795184
+    },
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.6690040528106659
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, known for its coffee production and vulnerability to climate change",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.5920831443521232
+    },
+    {
+      "name": "migration",
+      "label": "variable",
+      "description": "The temporary or permanent movement of one or more family members to a foreign country, used as an indicator of sensitivity to climate change",
+      "uuid": "0de668aa-cc97-482d-a0eb-cddcb1a705b6",
+      "score": 0.5503112981904589
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A phenomenon characterized by changes in global weather patterns, leading to increased frequency and severity of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5686030074152192
+    }
+  ],
+  "(21040, 24028)": [
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate variability",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.655328147369518
+    },
+    {
+      "name": "El Salvador",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate variability",
+      "uuid": "8d237194-e6b5-418b-ab67-e20e260867e9",
+      "score": 0.5775812441098515
+    },
+    {
+      "name": "Guatemala",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate variability",
+      "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+      "score": 0.5717793253708968
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, known for its coffee production and vulnerability to climate variability",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.5745161531010967
+    },
+    {
+      "name": "adaptive capacity",
+      "label": "variable",
+      "description": "A measure of the ability of individuals or communities to adapt to climate variability, often used to assess the impact of climate change on human well-being",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5214321812486732
+    }
+  ],
+  "(23512, 26494)": [
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America where coffee producers have access to various drying techniques",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.5316272882133747
+    },
+    {
+      "name": "El Salvador",
+      "label": "location",
+      "description": "A country in Central America where coffee producers have access to drying patios",
+      "uuid": "8d237194-e6b5-418b-ab67-e20e260867e9",
+      "score": 0.5473092865852734
+    },
+    {
+      "name": "Guatemala",
+      "label": "location",
+      "description": "A country in Central America where coffee producers have access to drying patios and other techniques",
+      "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+      "score": 0.5392165530930904
+    },
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America where coffee producers use various drying techniques, including drying tables and plastic tarps",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.5387945632712152
+    }
+  ],
+  "(26037, 29231)": [
+    {
+      "name": "Guatemala",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+      "score": 0.5923578583795184
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, where coffee is produced and families have varying levels of access to education and technical assistance",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.5606477688888432
+    },
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America, where coffee is produced and families have high levels of vulnerability to climate change",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.5869219315878291
+    },
+    {
+      "name": "El Salvador",
+      "label": "location",
+      "description": "A country in Central America, where coffee is produced and families have moderate levels of vulnerability to climate change",
+      "uuid": "8d237194-e6b5-418b-ab67-e20e260867e9",
+      "score": 0.5202519209633857
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which families are susceptible to the negative impacts of climate change, which is influenced by factors such as exposure, sensitivity, and adaptive capacity",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5536232405285979
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability and accessibility of sufficient, safe, and nutritious food, which is essential for the well-being of families in Central America",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6368091075948282
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by changes in temperature and precipitation patterns, which poses significant threats to the livelihoods of families in Central America",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5027819979257416
+    }
+  ],
+  "(28643, 32088)": [
+    {
+      "name": "drip irrigation",
+      "label": "instrument",
+      "description": "A water-saving irrigation method that delivers water directly to the roots of plants, reducing evaporation and runoff",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5053039784982238
+    },
+    {
+      "name": "soil fertility management",
+      "label": "instrument",
+      "description": "A set of practices used to maintain and improve soil health, including the use of fertilizers, crop rotation, and conservation tillage",
+      "uuid": "e4781de7-a4a4-4157-a549-4ac238d36512",
+      "score": 0.5555376489684334
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in temperature, precipitation, and other climate variables, affecting ecosystems, economies, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5896503328904071
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system or population is susceptible to harm or damage from climate-related stresses",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5725698196785265
+    },
+    {
+      "name": "capacity to adapt",
+      "label": "variable",
+      "description": "The ability of a system or population to adjust to climate-related stresses and recover from their impacts",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5661468555021264
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A period of abnormally low rainfall, often leading to water scarcity and impacts on agriculture and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6980706111234961
+    },
+    {
+      "name": "Guatemala",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+      "score": 0.5923578583795184
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, known for its coffee production and vulnerability to climate change",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.5920831443521232
+    },
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.6690040528106659
+    },
+    {
+      "name": "Mesoamerica",
+      "label": "location",
+      "description": "A region in Central America, known for its coffee production and vulnerability to climate change",
+      "uuid": "f2b153dd-1c30-42e4-8abf-677111e76c9a",
+      "score": 0.5371464040860775
+    },
+    {
+      "name": "Central America",
+      "label": "location",
+      "description": "A region in North America, known for its coffee production and vulnerability to climate change",
+      "uuid": "f2b153dd-1c30-42e4-8abf-677111e76c9a",
+      "score": 0.6732302061142138
+    }
+  ],
+  "(31526, 35132)": [
+    {
+      "name": "infrastructure",
+      "label": "platform",
+      "description": "Physical structures and systems that support agricultural production, including irrigation, transportation, and storage",
+      "uuid": "d4313915-2d24-424c-a171-30ee9a6f4bb5",
+      "score": 0.5286341364344055
+    },
+    {
+      "name": "land management",
+      "label": "variable",
+      "description": "The practice of managing and conserving land resources, including soil, water, and vegetation",
+      "uuid": "2be0af28-a6b8-4fce-82e4-1ad86788a4d5",
+      "score": 0.6675145152383392
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from human activities and natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5648077248939346
+    },
+    {
+      "name": "irrigation infrastructure",
+      "label": "instrument",
+      "description": "Systems and equipment used to supply water to crops and agricultural lands",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5541828326198842
+    },
+    {
+      "name": "transportation infrastructure",
+      "label": "instrument",
+      "description": "Systems and equipment used to move goods and people, including roads, bridges, and vehicles",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.6173674500199546
+    },
+    {
+      "name": "weather-related hazards",
+      "label": "weather event",
+      "description": "Natural disasters and extreme weather events that can impact agricultural production, including floods, droughts, and storms",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.5155110474692394
+    },
+    {
+      "name": "research",
+      "label": "instrument",
+      "description": "Systematic investigation and study of agricultural production and rural development, including climate change and weather-related hazards",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5072458031343624
+    }
+  ],
+  "(34571, 35760)": [
+    {
+      "name": "GCM models",
+      "label": "model",
+      "description": "General Circulation Models, sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7612448898396382
+    },
+    {
+      "name": "Mesoamerica",
+      "label": "location",
+      "description": "A region in Central America that includes countries such as Nicaragua, El Salvador, Guatemala, and Mexico, known for its coffee production",
+      "uuid": "f2b153dd-1c30-42e4-8abf-677111e76c9a",
+      "score": 0.5570515658358771
+    },
+    {
+      "name": "Nicaragua",
+      "label": "location",
+      "description": "A country in Central America, part of the Mesoamerica region, with a significant coffee production industry",
+      "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+      "score": 0.6289799958777826
+    },
+    {
+      "name": "El Salvador",
+      "label": "location",
+      "description": "A country in Central America, part of the Mesoamerica region, with a significant coffee production industry",
+      "uuid": "8d237194-e6b5-418b-ab67-e20e260867e9",
+      "score": 0.6085490747372977
+    },
+    {
+      "name": "Guatemala",
+      "label": "location",
+      "description": "A country in Central America, part of the Mesoamerica region, with a significant coffee production industry",
+      "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+      "score": 0.6029128055613878
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, part of the Mesoamerica region, with a significant coffee production industry",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.6031761860589436
+    },
+    {
+      "name": "CIAT",
+      "label": "provider",
+      "description": "The International Center for Tropical Agriculture, a research institution focused on improving crop production and livelihoods in tropical regions",
+      "uuid": "c2ca0fe6-447f-4d42-95f5-c05a54303ecb",
+      "score": 0.6524606311938869
+    },
+    {
+      "name": "bioclimatic variables",
+      "label": "variable",
+      "description": "Quantities or characteristics that can be measured or observed in climate experiments, related to the biological and climatic conditions of a region",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5280434768274447
+    }
+  ]
+}

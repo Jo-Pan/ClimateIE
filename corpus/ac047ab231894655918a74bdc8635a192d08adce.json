@@ -1,0 +1,1470 @@
+{
+  "(0, 3339)": [
+    {
+      "name": "atmospheric convection",
+      "label": "process",
+      "description": "The process by which heat and moisture are transferred from the Earth's surface to the atmosphere through the movement of air",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6323560337381572
+    },
+    {
+      "name": "training data",
+      "label": "variable",
+      "description": "Data used to train machine learning models, in this case, high-resolution model output",
+      "uuid": "676bb4aa-1452-4527-aa05-83233ad5d01d",
+      "score": 0.6458178819394633
+    },
+    {
+      "name": "warming climate",
+      "label": "project",
+      "description": "A scenario or simulation of the Earth's climate as it changes due to increased temperatures",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5738291032056707
+    },
+    {
+      "name": "convection",
+      "label": "process",
+      "description": "The movement of heat and moisture through the atmosphere, often resulting in the formation of clouds and precipitation",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6584273059714014
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often measured in terms of intensity, frequency, and duration",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6963129117060073
+    },
+    {
+      "name": "deep convection",
+      "label": "process",
+      "description": "A type of convection that occurs when warm air rises rapidly, often resulting in the formation of thunderstorms and heavy precipitation",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.5172106676509876
+    },
+    {
+      "name": "atmospheric model",
+      "label": "model",
+      "description": "A computational representation of the atmosphere, used to simulate and predict weather and climate patterns",
+      "uuid": "063177a9-14cd-4750-9aa4-ad5d266bd7ad",
+      "score": 0.5388078415882135
+    },
+    {
+      "name": "random forest",
+      "label": "instrument",
+      "description": "A machine learning algorithm used to learn and predict patterns in data, in this case, a parameterization for atmospheric convection",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.7145429217669126
+    },
+    {
+      "name": "precipitation extremes",
+      "label": "variable",
+      "description": "Unusually heavy or intense precipitation events, often resulting in flooding or other extreme weather conditions",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6765212156437547
+    },
+    {
+      "name": "global high-resolution simulations",
+      "label": "project",
+      "description": "A type of simulation that uses high-performance computing to model the Earth's climate at very fine spatial and temporal resolutions",
+      "uuid": "286de7c6-deed-443f-a3e0-b67ad7fba9eb",
+      "score": 0.5380251378337616
+    },
+    {
+      "name": "atmospheric processes",
+      "label": "process",
+      "description": "The various physical and chemical processes that occur in the atmosphere, including convection, precipitation, and cloud formation",
+      "uuid": "3c4fe00c-6fb1-403e-a053-3a0174a6dfe6",
+      "score": 0.5260155277110753
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases that surrounds the Earth, extending from the surface up to the edge of space",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6265840684698147
+    },
+    {
+      "name": "current global climate models",
+      "label": "model",
+      "description": "The current generation of climate models used to simulate and predict the Earth's climate, often run on supercomputers",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6054212829955856
+    }
+  ],
+  "(2824, 5999)": [
+    {
+      "name": "training data",
+      "label": "variable",
+      "description": "Data used to train machine learning models, which can come from various sources such as observations, simulations, or experiments",
+      "uuid": "676bb4aa-1452-4527-aa05-83233ad5d01d",
+      "score": 0.632462379864066
+    },
+    {
+      "name": "deep convection",
+      "label": "variable",
+      "description": "A type of atmospheric convection that involves the rapid ascent of air over a large vertical distance, often associated with heavy precipitation and thunderstorms",
+      "uuid": "879cccd4-d375-40f6-8bee-6f58efd2dd61",
+      "score": 0.5398342351234566
+    },
+    {
+      "name": "random forest",
+      "label": "instrument",
+      "description": "An ensemble learning method used in machine learning, consisting of multiple decision trees that combine to make predictions or classify data",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.7393771418992221
+    },
+    {
+      "name": "atmospheric processes",
+      "label": "variable",
+      "description": "The physical and chemical processes that occur in the atmosphere, including convection, cloud formation, and precipitation",
+      "uuid": "3c4fe00c-6fb1-403e-a053-3a0174a6dfe6",
+      "score": 0.5245431221947937
+    },
+    {
+      "name": "current global climate models",
+      "label": "model",
+      "description": "Computational representations of the Earth's climate system, used to simulate and predict climate patterns and changes",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6250061706705304
+    },
+    {
+      "name": "deep artificial neural network",
+      "label": "instrument",
+      "description": "A type of machine learning model inspired by the structure and function of the human brain, used for tasks such as image recognition, natural language processing, and time series forecasting",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.6357704902169163
+    },
+    {
+      "name": "decision trees",
+      "label": "instrument",
+      "description": "A type of machine learning model that uses a tree-like model to classify data or make predictions, based on a set of input features and a target variable",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.7967536453675189
+    },
+    {
+      "name": "aquaplanet",
+      "label": "experiment",
+      "description": "A type of climate model simulation that uses a simplified representation of the Earth's surface, with no land or topography, to study atmospheric circulation and climate processes",
+      "uuid": "5a5e9d40-d1f7-4575-942b-4916ab43af54",
+      "score": 0.5022634385074081
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A global climate model, a type of computational model that simulates the Earth's climate system, including the atmosphere, oceans, land, and ice",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7318543679133684
+    }
+  ],
+  "(5474, 8462)": [
+    {
+      "name": "RF",
+      "label": "model",
+      "description": "Random Forest, a machine learning algorithm used for classification, regression, and feature selection tasks, including learning parameterizations of atmospheric processes",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.7329618045129649
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Model, a type of climate model used to simulate and predict the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7581748695539479
+    },
+    {
+      "name": "convective parameterization",
+      "label": "model",
+      "description": "A component of climate models that represents the processes of convection in the atmosphere, such as the formation of clouds and precipitation",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.538750420379642
+    },
+    {
+      "name": "atmospheric processes",
+      "label": "variable",
+      "description": "Processes that occur in the atmosphere, including convection, cloud formation, and precipitation, which are important for understanding and predicting climate",
+      "uuid": "3c4fe00c-6fb1-403e-a053-3a0174a6dfe6",
+      "score": 0.5188589387669252
+    },
+    {
+      "name": "high-resolution atmospheric model",
+      "label": "model",
+      "description": "A type of climate model that simulates the atmosphere at a high level of detail, often used for research and prediction of weather and climate",
+      "uuid": "5bc891af-3822-4d4c-a618-532ffb4e1d15",
+      "score": 0.591876240350096
+    },
+    {
+      "name": "training dataset",
+      "label": "project",
+      "description": "A collection of data used to train machine learning models, such as Random Forest, to learn patterns and relationships in the data",
+      "uuid": "676bb4aa-1452-4527-aa05-83233ad5d01d",
+      "score": 0.5524498959433123
+    },
+    {
+      "name": "SAM",
+      "label": "model",
+      "description": "The System for Atmospheric Modeling, a type of climate model used to simulate the atmosphere and its processes",
+      "uuid": "d239aaa0-37ae-47e9-bfdb-6c6924cbd5ca",
+      "score": 0.5567069947752821
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, which is an important factor in determining climate and weather patterns",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7689997535674282
+    },
+    {
+      "name": "SST distribution",
+      "label": "variable",
+      "description": "The distribution of sea surface temperatures, which can affect climate and weather patterns",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.5652831499321676
+    },
+    {
+      "name": "horizontal grid spacing",
+      "label": "variable",
+      "description": "The distance between grid points in a climate model, which can affect the level of detail and accuracy of the model",
+      "uuid": "75c9d806-9e29-40f5-b479-4c63c90f77a9",
+      "score": 0.5784413854276225
+    },
+    {
+      "name": "extratropical storm track",
+      "label": "location",
+      "description": "Regions in the mid-latitudes where storms and low-pressure systems tend to form and move, often associated with high levels of precipitation and cloud formation",
+      "uuid": "7de1c2c0-89c2-4841-b0b8-158224c8ad22",
+      "score": 0.587707149921564
+    },
+    {
+      "name": "hemisphere",
+      "label": "location",
+      "description": "Half of the Earth, either the northern or southern hemisphere, which can have different climate and weather patterns",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.5965424680177366
+    },
+    {
+      "name": "latitudes",
+      "label": "location",
+      "description": "The distance north or south of the equator, which can affect climate and weather patterns",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.5824067628842322
+    }
+  ],
+  "(7970, 10980)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7528032161195762
+    },
+    {
+      "name": "SAM",
+      "label": "model",
+      "description": "A type of model used for simulating atmospheric processes, including convection and boundary-layer dynamics",
+      "uuid": "d239aaa0-37ae-47e9-bfdb-6c6924cbd5ca",
+      "score": 0.552163229947156
+    },
+    {
+      "name": "SST distribution",
+      "label": "variable",
+      "description": "The distribution of sea surface temperatures, which can influence ocean circulation and climate patterns",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.5802329279948316
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth located between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of precipitation",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7696732446582879
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the Earth's hydrologic cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6632780273450362
+    },
+    {
+      "name": "extreme precipitation",
+      "label": "weather event",
+      "description": "Unusually heavy or intense precipitation events, which can have significant impacts on society and ecosystems",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.7565738239089977
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "Communities of living organisms and their interactions with the environment, which can be affected by changes in climate and precipitation patterns",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6392902270766226
+    },
+    {
+      "name": "latitudes",
+      "label": "location",
+      "description": "The distance north or south of the equator, measured in degrees, minutes, and seconds",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6271380647218148
+    },
+    {
+      "name": "mean precipitation",
+      "label": "variable",
+      "description": "The average amount of precipitation that falls over a given area or time period",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5310117651387306
+    },
+    {
+      "name": "horizontal winds",
+      "label": "variable",
+      "description": "The movement of air in the horizontal direction, which can influence weather patterns and climate",
+      "uuid": "8a12ec59-c8c8-4512-b123-16bca93771b0",
+      "score": 0.5707577329183245
+    },
+    {
+      "name": "subgrid cloud microphysics",
+      "label": "variable",
+      "description": "The study of the physical processes that occur within clouds, including the formation of cloud droplets and ice crystals",
+      "uuid": "0cfcbaa7-727b-4199-8cca-93824b427e9b",
+      "score": 0.6476675842888873
+    },
+    {
+      "name": "cloud",
+      "label": "variable",
+      "description": "A visible mass of water droplets or ice crystals suspended in the air, which can influence weather patterns and climate",
+      "uuid": "1c08d8f3-f733-41d8-a01b-2f4044043224",
+      "score": 0.6625805717739216
+    },
+    {
+      "name": "3-hourly precipitation",
+      "label": "variable",
+      "description": "The amount of precipitation that falls over a 3-hour period, which can be used to study extreme precipitation events",
+      "uuid": "039bbfd2-7653-4ba8-9003-b46d367c6038",
+      "score": 0.6735800272643396
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases that surrounds the Earth, which plays a crucial role in regulating the planet's climate",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6368666179538786
+    },
+    {
+      "name": "total non-precipitating water mixing ratio",
+      "label": "variable",
+      "description": "The amount of water vapor in the air that is not precipitating, which can influence weather patterns and climate",
+      "uuid": "ea308986-ad35-4482-948c-5eb1a01be836",
+      "score": 0.5799457514905431
+    },
+    {
+      "name": "vertical profiles",
+      "label": "variable",
+      "description": "The distribution of a variable, such as temperature or humidity, with height in the atmosphere",
+      "uuid": "72304037-ce59-451a-beeb-4258f3db296a",
+      "score": 0.6615364805946331
+    }
+  ],
+  "(10490, 13149)": [
+    {
+      "name": "horizontal winds",
+      "label": "variable",
+      "description": "A measure of the speed and direction of air movement in the atmosphere, important for understanding weather patterns and climate phenomena",
+      "uuid": "8a12ec59-c8c8-4512-b123-16bca93771b0",
+      "score": 0.6362138354279885
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "The layer of the atmosphere extending from about 12 to 50 km above the Earth's surface, characterized by a stable temperature profile and low atmospheric pressure",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7747928089320869
+    },
+    {
+      "name": "subgrid cloud microphysics",
+      "label": "process",
+      "description": "The study of the behavior and interactions of cloud particles and droplets at scales smaller than the model grid, influencing cloud formation and precipitation",
+      "uuid": "0cfcbaa7-727b-4199-8cca-93824b427e9b",
+      "score": 0.6320828749668753
+    },
+    {
+      "name": "microphysics",
+      "label": "process",
+      "description": "The study of the behavior and interactions of small particles and droplets in the atmosphere, influencing cloud formation and precipitation",
+      "uuid": "0cfcbaa7-727b-4199-8cca-93824b427e9b",
+      "score": 0.6947825178087642
+    },
+    {
+      "name": "vertical advection",
+      "label": "process",
+      "description": "The movement of air or substances upward or downward in the atmosphere, driven by wind or buoyancy",
+      "uuid": "ce546f0d-d2e1-43ed-b8e0-a9079c690c56",
+      "score": 0.5656051644955035
+    },
+    {
+      "name": "latitude",
+      "label": "location",
+      "description": "The angular distance north or south of the Earth's equator, measured in degrees",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.7073724927162542
+    },
+    {
+      "name": "vertical profiles",
+      "label": "variable",
+      "description": "A graphical representation of the variation of a quantity, such as temperature or humidity, with height or depth in the atmosphere",
+      "uuid": "72304037-ce59-451a-beeb-4258f3db296a",
+      "score": 0.6477200154780042
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, sleet, and hail",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7003837127767651
+    },
+    {
+      "name": "3-hourly precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation that occurs over a 3-hour period, used to study extreme weather events and climate patterns",
+      "uuid": "039bbfd2-7653-4ba8-9003-b46d367c6038",
+      "score": 0.6778295239304672
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, extending from the surface up to about 10,000 km altitude",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6315285208691763
+    },
+    {
+      "name": "surface albedo",
+      "label": "variable",
+      "description": "A measure of the amount of sunlight that is reflected by the Earth's surface, influencing the planet's energy balance and climate",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7642450948236852
+    },
+    {
+      "name": "turbulent diffusion",
+      "label": "process",
+      "description": "The random, chaotic movement of particles or substances in a fluid, such as air or water, influencing the transport of heat, moisture, and momentum",
+      "uuid": "226d05da-dd0b-4314-919a-0b259ce724b5",
+      "score": 0.5255234178180407
+    },
+    {
+      "name": "thermodynamic and moisture variables",
+      "label": "variable",
+      "description": "Quantities that describe the thermal and moisture properties of the atmosphere, such as temperature, humidity, and heat flux",
+      "uuid": "033beec7-15e3-4452-b06f-c5389a3c04dd",
+      "score": 0.5235098009548692
+    },
+    {
+      "name": "random forest",
+      "label": "model",
+      "description": "A machine learning algorithm used to predict complex relationships between variables, such as the behavior of atmospheric processes",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.7479959936137542
+    },
+    {
+      "name": "RF-tend",
+      "label": "model",
+      "description": "A random forest model used to predict the tendencies of atmospheric processes, such as subgrid vertical advection and microphysics",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.5723163082847571
+    },
+    {
+      "name": "RF-diff",
+      "label": "model",
+      "description": "A random forest model used to predict the coarse-grained turbulent diffusivity and subgrid correction for thermodynamic and moisture variables",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.5506285886509227
+    }
+  ],
+  "(12650, 15323)": [
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, the temperature of the ocean's surface, playing a crucial role in climate regulation and weather patterns",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6969214930892008
+    },
+    {
+      "name": "surface albedo",
+      "label": "variable",
+      "description": "A measure of the amount of sunlight that is reflected by the Earth's surface, influencing the planet's energy balance and climate",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7642450948236852
+    },
+    {
+      "name": "solar insolation",
+      "label": "variable",
+      "description": "The amount of solar energy received by the Earth's surface, affecting climate and weather patterns",
+      "uuid": "6b3be650-6625-40b5-9b40-9e7c8a9fd336",
+      "score": 0.5833216417157362
+    },
+    {
+      "name": "RF-diff",
+      "label": "model",
+      "description": "A random forest model used to predict coarse-grained turbulent diffusivity and subgrid correction to surface fluxes",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.5479753395000344
+    },
+    {
+      "name": "turbulent diffusivity",
+      "label": "variable",
+      "description": "A measure of the spreading or mixing of properties in a turbulent fluid, important in understanding atmospheric and oceanic processes",
+      "uuid": "1943e9c5-ecb5-4429-93eb-0cbb1be00ea9",
+      "score": 0.5172398146305587
+    },
+    {
+      "name": "thermodynamic variables",
+      "label": "variable",
+      "description": "Quantities that describe the thermal and dynamic state of a system, such as temperature and humidity",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.51011578980609
+    },
+    {
+      "name": "moisture variables",
+      "label": "variable",
+      "description": "Quantities that describe the amount of moisture in the air or other substances, influencing climate and weather",
+      "uuid": "925f563d-908a-4671-b750-23d0f3e42310",
+      "score": 0.5239694803944657
+    },
+    {
+      "name": "surface fluxes",
+      "label": "variable",
+      "description": "The exchange of energy, momentum, or mass between the atmosphere and the Earth's surface, crucial for understanding climate and weather",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.5777793657459663
+    },
+    {
+      "name": "lower troposphere",
+      "label": "location",
+      "description": "The lowest part of the Earth's atmosphere, extending up to about 8-10 km altitude, where most weather phenomena occur",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.6836921442885804
+    },
+    {
+      "name": "troposphere",
+      "label": "location",
+      "description": "The lowest layer of the Earth's atmosphere, where weather occurs and temperature decreases with altitude",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.7349040738771185
+    },
+    {
+      "name": "surface wind speed",
+      "label": "variable",
+      "description": "The speed at which wind blows near the Earth's surface, affecting weather, climate, and various environmental processes",
+      "uuid": "a7ce84a3-8329-4eb7-b5de-72d2dea8c6bf",
+      "score": 0.6574966998908824
+    },
+    {
+      "name": "distance from the equator",
+      "label": "variable",
+      "description": "A measure of how far a location is from the Earth's equator, influencing climate, weather, and various geographical phenomena",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.5402094662073085
+    },
+    {
+      "name": "southern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies south of the equator, characterized by unique climate and weather patterns",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7410019251535706
+    },
+    {
+      "name": "x8-RF simulation",
+      "label": "experiment",
+      "description": "A simulation run using a random forest parameterization at 96 km grid spacing, designed to test the performance of the RF parameterization",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.5039649100585402
+    },
+    {
+      "name": "mean precipitation",
+      "label": "variable",
+      "description": "The average amount of precipitation that falls over a given area and time period, an important factor in climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5533796802987314
+    },
+    {
+      "name": "non-negative surface precipitation",
+      "label": "variable",
+      "description": "The amount of precipitation that falls on the Earth's surface, with the constraint that it cannot be negative",
+      "uuid": "f29968d9-b911-45b5-b5b5-0a759a345ce9",
+      "score": 0.603194185364219
+    }
+  ],
+  "(14863, 17817)": [
+    {
+      "name": "x8-RF",
+      "label": "experiment",
+      "description": "A climate simulation experiment using the RF subgrid parameterization with a grid spacing of x8",
+      "uuid": "8bc6bdb0-3297-4c75-86dc-5f90a89e39c5",
+      "score": 0.512468267878731
+    },
+    {
+      "name": "x8",
+      "label": "experiment",
+      "description": "A climate simulation experiment with no RF parameterization and a grid spacing of x8",
+      "uuid": "8bc6bdb0-3297-4c75-86dc-5f90a89e39c5",
+      "score": 0.5407206609915506
+    },
+    {
+      "name": "high-resolution",
+      "label": "experiment",
+      "description": "A climate simulation experiment with a finer grid spacing than the x8-RF and x8 experiments",
+      "uuid": "025980ea-17bc-4534-89a2-91f4771d3a12",
+      "score": 0.6236847045262293
+    },
+    {
+      "name": "RF",
+      "label": "model",
+      "description": "A machine learning model used as a subgrid parameterization in climate simulations",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.6244427069871024
+    },
+    {
+      "name": "mean q T",
+      "label": "variable",
+      "description": "The average specific humidity, a measure of the amount of water vapor in the air",
+      "uuid": "811391d2-4113-4d52-9c88-47d56afda481",
+      "score": 0.5298287199785694
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an essential component of the hydrological cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6637804352938687
+    },
+    {
+      "name": "extreme precipitation",
+      "label": "weather event",
+      "description": "Unusually heavy or intense precipitation events, which can lead to flooding and other hazards",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.7494635912228972
+    },
+    {
+      "name": "cloud elements",
+      "label": "variable",
+      "description": "Components of clouds, such as water droplets or ice crystals, that influence cloud properties and behavior",
+      "uuid": "c9e429cb-eff0-4dd3-9eca-527e0081f65c",
+      "score": 0.5375763699599173
+    },
+    {
+      "name": "mid-latitudes",
+      "label": "location",
+      "description": "Regions of the Earth located between the tropics and the polar regions, characterized by temperate climates",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.7360565387234397
+    }
+  ],
+  "(17342, 20196)": [
+    {
+      "name": "SAM",
+      "label": "model",
+      "description": "A computational model used for simulating and studying atmospheric and climate processes",
+      "uuid": "d239aaa0-37ae-47e9-bfdb-6c6924cbd5ca",
+      "score": 0.5642447738207814
+    },
+    {
+      "name": "RFs",
+      "label": "model",
+      "description": "Random Forest models, a type of machine learning algorithm used for predicting and parameterizing subgrid tendencies in climate simulations",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.6619319605813222
+    },
+    {
+      "name": "x4-RF",
+      "label": "experiment",
+      "description": "A specific configuration of the Random Forest model, trained on data with a certain grid spacing and used for predicting subgrid tendencies",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.5351904367156067
+    },
+    {
+      "name": "x32-RF",
+      "label": "experiment",
+      "description": "A specific configuration of the Random Forest model, trained on data with a certain grid spacing and used for predicting subgrid tendencies",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.5420842106404588
+    }
+  ],
+  "(19790, 22646)": [
+    {
+      "name": "latitudes",
+      "label": "variable",
+      "description": "Angular distance north or south of the Earth's equator, used in geography and climate studies",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6639808981728803
+    },
+    {
+      "name": "mean precipitation",
+      "label": "variable",
+      "description": "Average amount of precipitation over a specified period of time and area, often used to describe climate conditions",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5420367990344493
+    },
+    {
+      "name": "extreme precipitation",
+      "label": "variable",
+      "description": "Unusually high or intense precipitation events, often associated with severe weather and climate phenomena",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.7461720747864053
+    },
+    {
+      "name": "extreme precipitation performance",
+      "label": "variable",
+      "description": "Measure of how well a climate model or parameterization simulates extreme precipitation events",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5851730486561724
+    },
+    {
+      "name": "cloud",
+      "label": "variable",
+      "description": "A visible mass of water droplets or ice crystals suspended in the atmosphere, influencing weather and climate",
+      "uuid": "1c08d8f3-f733-41d8-a01b-2f4044043224",
+      "score": 0.6752173451072894
+    },
+    {
+      "name": "high latitudes",
+      "label": "location",
+      "description": "Regions of the Earth located at high angular distances from the equator, characterized by unique climate and weather patterns",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.5552111649499317
+    },
+    {
+      "name": "precipitation microphysics",
+      "label": "variable",
+      "description": "Study of the physical processes that occur within clouds and precipitation, including the formation of droplets and ice crystals",
+      "uuid": "0cfcbaa7-727b-4199-8cca-93824b427e9b",
+      "score": 0.6461101881533005
+    },
+    {
+      "name": "surface albedo",
+      "label": "variable",
+      "description": "Measure of the amount of sunlight that is reflected by the Earth's surface, influencing climate and weather patterns",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7649364435907132
+    },
+    {
+      "name": "grid spacing",
+      "label": "variable",
+      "description": "The distance between grid points in a climate model, influencing the resolution and accuracy of simulations",
+      "uuid": "75c9d806-9e29-40f5-b479-4c63c90f77a9",
+      "score": 0.5524898700593113
+    }
+  ],
+  "(22161, 25405)": [
+    {
+      "name": "tropical latitude bands",
+      "label": "location",
+      "description": "Regions near the equator, characterized by high temperatures and high levels of precipitation",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5396651583513368
+    },
+    {
+      "name": "mid-latitudes",
+      "label": "location",
+      "description": "Regions between the tropics and the polar regions, characterized by moderate temperatures and precipitation patterns",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.7155443697771948
+    },
+    {
+      "name": "high latitudes",
+      "label": "location",
+      "description": "Regions near the poles, characterized by cold temperatures and unique climate patterns",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.5243461312927481
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the atmosphere, influencing climate and weather patterns",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6378371775946208
+    },
+    {
+      "name": "mixing ratios",
+      "label": "variable",
+      "description": "The ratio of the mass of a substance to the mass of the mixture, used to describe the composition of the atmosphere",
+      "uuid": "ea308986-ad35-4482-948c-5eb1a01be836",
+      "score": 0.6255594205681679
+    },
+    {
+      "name": "lapse rates",
+      "label": "variable",
+      "description": "The rate at which temperature decreases with altitude, influencing atmospheric circulation and climate patterns",
+      "uuid": "090697f0-a982-4cda-94f6-9375d0c816c5",
+      "score": 0.6650235709835047
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air compared to the maximum amount the air can hold, influencing precipitation and climate patterns",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7051747694768628
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, influencing climate and weather patterns",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6657519728833916
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, influencing climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6283499920751152
+    },
+    {
+      "name": "convective scale",
+      "label": "variable",
+      "description": "The scale at which convection occurs in the atmosphere, influencing climate and weather patterns",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.5055032621742901
+    }
+  ],
+  "(24815, 27927)": [
+    {
+      "name": "SAM",
+      "label": "model",
+      "description": "The System for Atmospheric Modeling, a computational model used to simulate atmospheric processes and phenomena",
+      "uuid": "d239aaa0-37ae-47e9-bfdb-6c6924cbd5ca",
+      "score": 0.5515730671470583
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, essential for climate and weather phenomena",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6236860095814057
+    },
+    {
+      "name": "NCAR",
+      "label": "provider",
+      "description": "The National Center for Atmospheric Research, an American research institution focused on atmospheric and climate science",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.7657014097085555
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, influencing atmospheric and climate phenomena",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6439023486471334
+    },
+    {
+      "name": "water vapor",
+      "label": "variable",
+      "description": "A gaseous state of water, playing a crucial role in the Earth's climate system and atmospheric processes",
+      "uuid": "15029eb0-6342-4066-8ac9-c50f7dbfb392",
+      "score": 0.7487278782531591
+    },
+    {
+      "name": "cloud ice",
+      "label": "variable",
+      "description": "Ice crystals suspended in the atmosphere, influencing cloud formation and precipitation processes",
+      "uuid": "05ac9d3e-bc44-41fa-ace0-c41bf3ebee97",
+      "score": 0.5669327304656283
+    },
+    {
+      "name": "cloud water",
+      "label": "variable",
+      "description": "Liquid water droplets suspended in the atmosphere, essential for cloud formation and precipitation processes",
+      "uuid": "05ac9d3e-bc44-41fa-ace0-c41bf3ebee97",
+      "score": 0.6323442819702841
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "The second layer of the Earth's atmosphere, extending from about 10 to 50 kilometers above the Earth's surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7773287881250527
+    },
+    {
+      "name": "precipitation rate",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface over a given period, an important aspect of atmospheric and climate studies",
+      "uuid": "ac50c468-df2f-429c-8394-9d63efcc6f9d",
+      "score": 0.7376073551511553
+    },
+    {
+      "name": "radiation scheme",
+      "label": "model",
+      "description": "A computational representation of the processes by which the atmosphere and surface exchange energy through radiation",
+      "uuid": "4ad0c52d-6449-48ff-8678-adc6b2cebcb7",
+      "score": 0.5109153735619372
+    },
+    {
+      "name": "training data",
+      "label": "variable",
+      "description": "A dataset used to train machine learning models, in this case, for atmospheric parameterization",
+      "uuid": "676bb4aa-1452-4527-aa05-83233ad5d01d",
+      "score": 0.7024833767513852
+    },
+    {
+      "name": "RF",
+      "label": "instrument",
+      "description": "Random Forest, a machine learning algorithm used for classification and regression tasks, including atmospheric parameterization",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.7090460430747283
+    },
+    {
+      "name": "NN",
+      "label": "instrument",
+      "description": "Neural Network, a machine learning algorithm used for classification and regression tasks, including atmospheric parameterization",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.6765182861830408
+    }
+  ],
+  "(27549, 29385)": [
+    {
+      "name": "SAM",
+      "label": "model",
+      "description": "A climate model used to simulate and study atmospheric processes, including thermodynamic and moisture variables",
+      "uuid": "d239aaa0-37ae-47e9-bfdb-6c6924cbd5ca",
+      "score": 0.5668927193831927
+    },
+    {
+      "name": "NCAR",
+      "label": "provider",
+      "description": "The National Center for Atmospheric Research, an American research institution focused on atmospheric and climate science",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.7657014097085555
+    },
+    {
+      "name": "CCM",
+      "label": "model",
+      "description": "The Community Climate Model, a series of climate models developed by NCAR for simulating the Earth's climate system",
+      "uuid": "40b2663d-1313-4382-bb13-016b14fc1f14",
+      "score": 0.6077665703315919
+    },
+    {
+      "name": "cloud ice",
+      "label": "variable",
+      "description": "A type of ice crystal found in clouds, influencing cloud microphysics and climate",
+      "uuid": "05ac9d3e-bc44-41fa-ace0-c41bf3ebee97",
+      "score": 0.538615942524266
+    },
+    {
+      "name": "total precipitation mass flux",
+      "label": "variable",
+      "description": "The total amount of precipitation falling to the ground, an important variable in climate and weather studies",
+      "uuid": "1c6e0c43-eab4-49d2-b2de-3d24491f4146",
+      "score": 0.6633005729838761
+    },
+    {
+      "name": "evaporation",
+      "label": "process",
+      "description": "The process by which liquid water becomes water vapor, playing a crucial role in the Earth's water cycle and climate",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.734720621065186
+    },
+    {
+      "name": "total precipitating water mixing ratio",
+      "label": "variable",
+      "description": "The total amount of water in the atmosphere that is precipitating, including rain, snow, and graupel",
+      "uuid": "c3a4eb4a-4619-43cd-b890-b567d01324ea",
+      "score": 0.6262563518859491
+    },
+    {
+      "name": "cloud water",
+      "label": "variable",
+      "description": "Liquid water droplets found in clouds, influencing cloud microphysics and climate",
+      "uuid": "05ac9d3e-bc44-41fa-ace0-c41bf3ebee97",
+      "score": 0.6495513569196776
+    },
+    {
+      "name": "sublimation",
+      "label": "process",
+      "description": "The transition of a substance from the solid to the gas phase without going through the liquid phase, an important process in the Earth's water cycle",
+      "uuid": "d438f0a2-5a88-4d56-8bec-7c5e35249544",
+      "score": 0.7231493810470773
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "Any form of water, whether liquid or solid, falling from clouds and reaching the ground, an essential component of the Earth's water cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6914924006719662
+    },
+    {
+      "name": "condensation",
+      "label": "process",
+      "description": "The process by which water vapor becomes liquid water, playing a crucial role in the Earth's water cycle and climate",
+      "uuid": "d7fbbafe-fc73-4b63-9837-3d53d2370d9d",
+      "score": 0.7288108848229402
+    },
+    {
+      "name": "aggregation",
+      "label": "process",
+      "description": "The process by which smaller particles or droplets combine to form larger ones, influencing cloud microphysics and precipitation",
+      "uuid": "8e484ec4-50fd-4c08-9c96-6ad483e170ad",
+      "score": 0.7278448245243591
+    },
+    {
+      "name": "water vapor",
+      "label": "variable",
+      "description": "The gaseous state of water, an important component of the Earth's atmosphere and climate system",
+      "uuid": "15029eb0-6342-4066-8ac9-c50f7dbfb392",
+      "score": 0.7368653357350667
+    },
+    {
+      "name": "non-precipitating water mixing ratio",
+      "label": "variable",
+      "description": "The amount of water in the atmosphere that is not precipitating, including water vapor, cloud water, and cloud ice",
+      "uuid": "ea308986-ad35-4482-948c-5eb1a01be836",
+      "score": 0.6137711228520756
+    }
+  ],
+  "(28972, 31632)": [
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "The upper layer of the Earth's atmosphere, extending from about 10 to 50 kilometers above the surface",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7664091145308541
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which a liquid transforms into a gas, playing a crucial role in the Earth's water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.7117702613437658
+    },
+    {
+      "name": "sublimation",
+      "label": "variable",
+      "description": "The transition of a substance from the solid to the gas phase without going through the liquid phase",
+      "uuid": "d438f0a2-5a88-4d56-8bec-7c5e35249544",
+      "score": 0.6621999769199396
+    },
+    {
+      "name": "diurnal cycle",
+      "label": "variable",
+      "description": "The daily cycle of changes in the Earth's atmosphere and surface, influenced by the rotation of the planet",
+      "uuid": "99ef187e-6940-4c10-8d65-00d4426d493b",
+      "score": 0.6404915179015805
+    },
+    {
+      "name": "latitude",
+      "label": "variable",
+      "description": "The angular distance of a place north or south of the Earth's equator, measured in degrees",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.7096741840530295
+    },
+    {
+      "name": "convection",
+      "label": "variable",
+      "description": "The movement of heat through the circulation of fluids, an important process in atmospheric and oceanic dynamics",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6652737987031538
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "Any form of water, whether liquid or solid, falling from clouds and reaching the ground",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.68416950001637
+    },
+    {
+      "name": "condensation",
+      "label": "variable",
+      "description": "The process by which water vapor in the air is changed into liquid water, often resulting in the formation of clouds or precipitation",
+      "uuid": "d7fbbafe-fc73-4b63-9837-3d53d2370d9d",
+      "score": 0.7094433602211532
+    },
+    {
+      "name": "aggregation",
+      "label": "variable",
+      "description": "The process by which particles or droplets combine to form larger particles or droplets, often occurring in clouds and influencing precipitation",
+      "uuid": "8e484ec4-50fd-4c08-9c96-6ad483e170ad",
+      "score": 0.6913924078475981
+    },
+    {
+      "name": "Surface albedo",
+      "label": "variable",
+      "description": "The measure of the amount of sunlight that is reflected by the Earth's surface, playing a significant role in the planet's energy balance",
+      "uuid": "5395e33c-02cb-4027-b425-e771eab13610",
+      "score": 0.7512683923153789
+    },
+    {
+      "name": "RF parameterization",
+      "label": "model",
+      "description": "A specific set of equations or algorithms used to represent radiative forcing in climate models",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5394069532204356
+    },
+    {
+      "name": "hi-res simulation",
+      "label": "experiment",
+      "description": "A high-resolution simulation run to investigate specific aspects of atmospheric dynamics or climate processes",
+      "uuid": "09347fb2-7842-4939-836e-6b8b2c35f5b1",
+      "score": 0.5225564031759752
+    },
+    {
+      "name": "tropical cyclogenesis",
+      "label": "weather event",
+      "description": "The process by which tropical cyclones form and develop, often influenced by atmospheric and oceanic conditions",
+      "uuid": "00fc45e0-400d-4024-a82a-4d6544735f64",
+      "score": 0.5206791047918256
+    },
+    {
+      "name": "SST distribution",
+      "label": "variable",
+      "description": "The pattern of sea surface temperatures across a region or the globe, influencing climate and weather patterns",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.5520379136023631
+    }
+  ],
+  "(31180, 33789)": [
+    {
+      "name": "SAM",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "94b8e7e1-3de3-488f-8868-edaca653d365",
+      "score": 0.5036724783624662
+    },
+    {
+      "name": "hi-res simulation",
+      "label": "experiment",
+      "description": "A high-resolution simulation designed to test specific hypotheses about the climate system",
+      "uuid": "09347fb2-7842-4939-836e-6b8b2c35f5b1",
+      "score": 0.544036710897373
+    },
+    {
+      "name": "wind component",
+      "label": "variable",
+      "description": "A measure of the speed and direction of wind in the atmosphere",
+      "uuid": "1e9bb112-5dc0-47a5-8c8a-b9cb07ece7c5",
+      "score": 0.537522283399561
+    },
+    {
+      "name": "surface winds",
+      "label": "variable",
+      "description": "The speed and direction of wind at the surface of the Earth",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.6977235056697668
+    }
+  ],
+  "(33446, 35790)": [
+    {
+      "name": "vertical advection",
+      "label": "process",
+      "description": "The movement of air or water in the vertical direction, which can influence the distribution of heat, moisture, and other properties in the atmosphere or ocean",
+      "uuid": "30fd009d-df91-47ba-8800-2f2771f15e80",
+      "score": 0.5966539043168945
+    },
+    {
+      "name": "surface fluxes",
+      "label": "variable",
+      "description": "The exchange of energy, moisture, or momentum between the atmosphere and the surface of the Earth, often measured or simulated in climate models",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.577221728241652
+    },
+    {
+      "name": "SAM",
+      "label": "model",
+      "description": "A climate model or simulation tool used to study atmospheric processes and phenomena",
+      "uuid": "d239aaa0-37ae-47e9-bfdb-6c6924cbd5ca",
+      "score": 0.5484231283126988
+    },
+    {
+      "name": "high-resolution simulation",
+      "label": "experiment",
+      "description": "A detailed and precise climate simulation that uses a fine grid resolution to capture complex processes and patterns",
+      "uuid": "09347fb2-7842-4939-836e-6b8b2c35f5b1",
+      "score": 0.5587322558734802
+    },
+    {
+      "name": "latitudinal direction",
+      "label": "location",
+      "description": "A direction or coordinate on the Earth's surface, measured from the equator towards the poles",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.537163983066827
+    }
+  ],
+  "(35358, 38351)": [
+    {
+      "name": "cloud ice",
+      "label": "variable",
+      "description": "Ice particles suspended in the atmosphere, often associated with cloud formation and precipitation processes",
+      "uuid": "60bb6ddf-29b1-4dad-9c9f-27f040a43bba",
+      "score": 0.5793148977940644
+    },
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "The layer of the atmosphere above the troposphere, extending from about 10 to 50 km altitude, characterized by stable temperature and low humidity",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7466035203821372
+    },
+    {
+      "name": "precipitation",
+      "label": "weather event",
+      "description": "Any form of water, whether liquid or solid, falling from clouds and reaching the ground, including rain, snow, sleet, and hail",
+      "uuid": "6c71e621-aae6-436b-9405-5dc6ed2a527e",
+      "score": 0.6832428916136117
+    },
+    {
+      "name": "total radiative heating tendency",
+      "label": "variable",
+      "description": "The rate of change of temperature due to the absorption and emission of radiation by the atmosphere, influencing climate and weather patterns",
+      "uuid": "89f5701a-ed5d-49e1-92d6-c3c35f899ef2",
+      "score": 0.6071376806469021
+    },
+    {
+      "name": "surface fluxes",
+      "label": "variable",
+      "description": "The exchange of energy, moisture, or momentum between the Earth's surface and the atmosphere, crucial for understanding climate and weather phenomena",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.5819057301280351
+    },
+    {
+      "name": "radiative heating tendency",
+      "label": "variable",
+      "description": "The rate of change of temperature due to the absorption and emission of radiation by the atmosphere, influencing climate and weather patterns",
+      "uuid": "89f5701a-ed5d-49e1-92d6-c3c35f899ef2",
+      "score": 0.6015397434709829
+    },
+    {
+      "name": "SAM",
+      "label": "model",
+      "description": "A computational model used to simulate and predict atmospheric and climate phenomena, including weather patterns and climate change",
+      "uuid": "d239aaa0-37ae-47e9-bfdb-6c6924cbd5ca",
+      "score": 0.5781819305779254
+    }
+  ],
+  "(37862, 40554)": [
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "The layer of the atmosphere above the troposphere, extending from about 10 to 50 km altitude, characterized by a stable temperature profile",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7586216831025918
+    },
+    {
+      "name": "troposphere",
+      "label": "location",
+      "description": "The lowest layer of Earth's atmosphere, extending up to about 10 km altitude, where most weather phenomena occur",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.7462309572559858
+    },
+    {
+      "name": "radiative heating tendency",
+      "label": "variable",
+      "description": "A measure of the rate of change of temperature due to radiative processes in the atmosphere",
+      "uuid": "89f5701a-ed5d-49e1-92d6-c3c35f899ef2",
+      "score": 0.6048615765284296
+    },
+    {
+      "name": "diffusion",
+      "label": "variable",
+      "description": "The process by which particles or properties are dispersed from an area of higher concentration to an area of lower concentration",
+      "uuid": "4fc9280e-f273-4280-a732-93ef4ceea418",
+      "score": 0.5571502319934688
+    },
+    {
+      "name": "moisture variables",
+      "label": "variable",
+      "description": "Quantities that describe the amount of water vapor or liquid water in the atmosphere, such as humidity and precipitation",
+      "uuid": "d4d42241-574b-4b9c-a18d-04a58eb96466",
+      "score": 0.5432617198617135
+    },
+    {
+      "name": "Surface precipitation",
+      "label": "variable",
+      "description": "The amount of precipitation that reaches the Earth's surface, including rain, snow, and hail",
+      "uuid": "f29968d9-b911-45b5-b5b5-0a759a345ce9",
+      "score": 0.6810669381777531
+    },
+    {
+      "name": "SAM",
+      "label": "model",
+      "description": "A computational model used to simulate atmospheric processes, possibly referring to a specific model or simulation framework",
+      "uuid": "d239aaa0-37ae-47e9-bfdb-6c6924cbd5ca",
+      "score": 0.5832197649895571
+    },
+    {
+      "name": "RF parameterization",
+      "label": "model",
+      "description": "A type of model parameterization that uses random forests to represent complex processes, such as turbulent diffusion",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.5093471074144522
+    },
+    {
+      "name": "hi-res simulation",
+      "label": "experiment",
+      "description": "A high-resolution simulation, possibly referring to a specific numerical experiment or model run",
+      "uuid": "09347fb2-7842-4939-836e-6b8b2c35f5b1",
+      "score": 0.5210573674779201
+    }
+  ],
+  "(40089, 42740)": [
+    {
+      "name": "training data",
+      "label": "dataset",
+      "description": "A collection of data used to train machine learning models, in this case, for the RFs used in SAM",
+      "uuid": "676bb4aa-1452-4527-aa05-83233ad5d01d",
+      "score": 0.5978675375374911
+    },
+    {
+      "name": "validation data",
+      "label": "dataset",
+      "description": "A collection of data used to evaluate the performance of machine learning models during the training process",
+      "uuid": "b283a59c-0e9a-469c-baf4-591b64cd4671",
+      "score": 0.5323550679273746
+    },
+    {
+      "name": "hi-res simulation",
+      "label": "experiment",
+      "description": "A high-resolution climate simulation used to generate data for training and testing machine learning models",
+      "uuid": "09347fb2-7842-4939-836e-6b8b2c35f5b1",
+      "score": 0.558504847755962
+    },
+    {
+      "name": "RFs",
+      "label": "model",
+      "description": "Random Forests, a type of machine learning model used for regression and classification tasks",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.6729266990403661
+    },
+    {
+      "name": "SAM",
+      "label": "model",
+      "description": "A climate model that utilizes the trained RFs for simulations",
+      "uuid": "d239aaa0-37ae-47e9-bfdb-6c6924cbd5ca",
+      "score": 0.5579058861559747
+    },
+    {
+      "name": "atmospheric columns",
+      "label": "variable",
+      "description": "A measure of the vertical structure of the atmosphere, used as input for the RFs",
+      "uuid": "081aded6-1330-4cec-b161-d5d7999f9124",
+      "score": 0.5242334033861283
+    },
+    {
+      "name": "latitude",
+      "label": "location",
+      "description": "A geographic coordinate used to define the position of atmospheric columns",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6371040647583789
+    },
+    {
+      "name": "longitude",
+      "label": "location",
+      "description": "A geographic coordinate used to define the position of atmospheric columns",
+      "uuid": "67e9c8dd-8675-41d6-b81c-fef392de682d",
+      "score": 0.6655217144559905
+    },
+    {
+      "name": "RandomForestRegressor",
+      "label": "instrument",
+      "description": "A software tool from the scikit-learn package used to train and tune the RFs",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.5948410983126623
+    }
+  ],
+  "(42344, 45082)": [
+    {
+      "name": "netcdf file",
+      "label": "instrument",
+      "description": "A type of file format used for storing scientific data, particularly in the fields of climate and weather research",
+      "uuid": "30ea4e9a-4741-42c9-ad8f-f10930b35294",
+      "score": 0.6596474641674216
+    },
+    {
+      "name": "latitude",
+      "label": "variable",
+      "description": "A measure of the angular distance north or south of the Earth's equator, used to describe geographic locations",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.7091430353728411
+    },
+    {
+      "name": "instantaneous surface precipitation rate",
+      "label": "variable",
+      "description": "A measure of the rate at which precipitation falls on the Earth's surface at a given time",
+      "uuid": "f29968d9-b911-45b5-b5b5-0a759a345ce9",
+      "score": 0.6705889015907266
+    },
+    {
+      "name": "operational climate simulations",
+      "label": "experiment",
+      "description": "Computer simulations used to predict and study the behavior of the Earth's climate system, often used for forecasting and decision-making purposes",
+      "uuid": "9f95a56a-2669-427e-a785-de9162ffe133",
+      "score": 0.5551588707356966
+    },
+    {
+      "name": "netcdf format",
+      "label": "instrument",
+      "description": "A format for storing and exchanging scientific data, particularly in the fields of climate and weather research",
+      "uuid": "30ea4e9a-4741-42c9-ad8f-f10930b35294",
+      "score": 0.7317838357429609
+    },
+    {
+      "name": "SAM",
+      "label": "model",
+      "description": "A climate model used for simulating and studying the behavior of the Earth's atmosphere",
+      "uuid": "d239aaa0-37ae-47e9-bfdb-6c6924cbd5ca",
+      "score": 0.5608593903083083
+    },
+    {
+      "name": "RF parameterization",
+      "label": "model",
+      "description": "A type of climate model parameterization that uses random forests to simulate and predict climate phenomena",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.5165383550619487
+    },
+    {
+      "name": "coarse resolution",
+      "label": "variable",
+      "description": "A measure of the level of detail or granularity in a climate model or simulation",
+      "uuid": "c19001e4-dfbf-491b-b6d5-c4d0cee8f2fe",
+      "score": 0.5546475551437298
+    }
+  ],
+  "(44658, 47372)": [
+    {
+      "name": "NCAR's Computational and Information Systems Laboratory",
+      "label": "provider",
+      "description": "A research institution that provides high-performance computing resources and support for scientific research",
+      "uuid": "d9fbd2ea-803e-48b7-a1f2-774e6845cc1f",
+      "score": 0.631735716777837
+    },
+    {
+      "name": "National Science Foundation",
+      "label": "provider",
+      "description": "A United States government agency that supports scientific research and education in various fields, including climate and environmental studies",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.6683375736795732
+    },
+    {
+      "name": "NSF AGS-1552195",
+      "label": "project",
+      "description": "A research project funded by the National Science Foundation, focused on studying climate and atmospheric phenomena",
+      "uuid": "8a752ca9-e566-4fd0-a9a8-ae34af245241",
+      "score": 0.6134348385385229
+    },
+    {
+      "name": "MIT Environmental Solutions Initiative",
+      "label": "provider",
+      "description": "An initiative at the Massachusetts Institute of Technology focused on addressing environmental challenges through research and innovation",
+      "uuid": "6efd7ce6-ef47-4527-b7e4-88484f74633e",
+      "score": 0.5047709346178364
+    },
+    {
+      "name": "longitude",
+      "label": "variable",
+      "description": "A geographical coordinate used to measure the distance east or west of the prime meridian on Earth's surface",
+      "uuid": "67e9c8dd-8675-41d6-b81c-fef392de682d",
+      "score": 0.6745759443793954
+    },
+    {
+      "name": "high-resolution simulation",
+      "label": "experiment",
+      "description": "A type of climate simulation that uses detailed and fine-scale models to represent complex atmospheric and environmental processes",
+      "uuid": "09347fb2-7842-4939-836e-6b8b2c35f5b1",
+      "score": 0.5559132737138224
+    }
+  ]
+}

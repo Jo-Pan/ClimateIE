@@ -1,0 +1,3181 @@
+{
+  "(0, 2901)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis, used for studying climate and weather patterns",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8132468239275858
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, characterized by distinct climate patterns and weather phenomena",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7407947008757437
+    },
+    {
+      "name": "Southern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth south of the equator, characterized by distinct climate patterns and weather phenomena",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7465482765681789
+    },
+    {
+      "name": "storm tracks",
+      "label": "ocean circulation",
+      "description": "The paths that storms follow in the atmosphere, influenced by large-scale climate patterns and ocean currents",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.6096305025500242
+    },
+    {
+      "name": "extratropical cyclones",
+      "label": "weather event",
+      "description": "A type of low-pressure system that forms outside the tropics, influencing mid-latitude weather patterns",
+      "uuid": "da436e9b-60e5-4a5f-a50a-08794d62bca8",
+      "score": 0.702595700526639
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of low-pressure system that forms over warm ocean waters, characterized by strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6161320312047931
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492816239530663
+    },
+    {
+      "name": "peak intensity",
+      "label": "variable",
+      "description": "The maximum strength or severity of a weather event, such as a cyclone or storm",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.7653002978217843
+    },
+    {
+      "name": "North Atlantic storm track",
+      "label": "ocean circulation",
+      "description": "A region of high storm activity in the North Atlantic Ocean, influenced by climate patterns and ocean currents",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.5566073137912753
+    }
+  ],
+  "(2485, 5110)": [
+    {
+      "name": "cyclone tracks",
+      "label": "variable",
+      "description": "A measure of the paths of cyclones, which are low-pressure systems that rotate around a central point",
+      "uuid": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
+      "score": 0.6024219060466235
+    },
+    {
+      "name": "extratropical cyclones",
+      "label": "weather event",
+      "description": "A type of cyclone that forms outside the tropics and can bring significant weather changes, including precipitation and wind",
+      "uuid": "da436e9b-60e5-4a5f-a50a-08794d62bca8",
+      "score": 0.7163471255718283
+    },
+    {
+      "name": "storm tracks",
+      "label": "variable",
+      "description": "The paths of storms, which are areas of low pressure that can bring significant weather changes, including precipitation and wind",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.5902220947726518
+    },
+    {
+      "name": "extreme precipitation",
+      "label": "weather event",
+      "description": "Unusually heavy or intense precipitation that can cause significant impacts, including flooding and landslides",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.7567726874297961
+    },
+    {
+      "name": "low-level relative vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air in the lower levels of the atmosphere, which can be used to identify and track cyclones",
+      "uuid": "ace6a51d-36af-4330-893f-d1fecc8ac904",
+      "score": 0.6080956359290228
+    },
+    {
+      "name": "storm frequency",
+      "label": "variable",
+      "description": "The number of storms that occur in a given area or time period",
+      "uuid": "de9ffa22-76e3-469c-926b-2dee007702d0",
+      "score": 0.6499569561198179
+    },
+    {
+      "name": "mean sea level pressure",
+      "label": "variable",
+      "description": "The average pressure of the atmosphere at sea level, which can be used to identify and track cyclones",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.6609255888541478
+    },
+    {
+      "name": "midlatitude",
+      "label": "location",
+      "description": "The region of the Earth between the tropics and the polar regions, characterized by a mix of warm and cold air masses",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.703622804860475
+    },
+    {
+      "name": "AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, which assesses the current state of knowledge on climate change",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.5520576565097054
+    },
+    {
+      "name": "Atlantic Ocean",
+      "label": "location",
+      "description": "One of the five oceans, located between the Americas, Europe, and Africa",
+      "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+      "score": 0.7611287686091837
+    },
+    {
+      "name": "Pacific Ocean",
+      "label": "location",
+      "description": "One of the five oceans, located between the Americas, Asia, and Australia",
+      "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+      "score": 0.7472896385842576
+    }
+  ],
+  "(4683, 6988)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "storm track",
+      "label": "variable",
+      "description": "A measure of the path that storms, particularly extratropical cyclones, follow across the globe",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.6542635205521602
+    },
+    {
+      "name": "extratropical cyclones",
+      "label": "weather event",
+      "description": "Severe weather phenomena occurring outside the tropics, characterized by low atmospheric pressure and strong winds",
+      "uuid": "da436e9b-60e5-4a5f-a50a-08794d62bca8",
+      "score": 0.7516093799055393
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, located between Europe, Africa, and Asia, known for its unique climate and weather patterns",
+      "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+      "score": 0.7743464637152048
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located north of the equator, known for its significant role in global climate variability and weather patterns",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7673026484719744
+    },
+    {
+      "name": "Pacific",
+      "label": "location",
+      "description": "The largest of the world's five oceans, extending from the Arctic to the Antarctic, and playing a crucial role in global climate and weather patterns",
+      "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+      "score": 0.7448318407097834
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent located primarily in the Northern Hemisphere, known for its diverse climate and weather patterns",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7219058237471049
+    },
+    {
+      "name": "mean sea level pressure",
+      "label": "variable",
+      "description": "The average atmospheric pressure at sea level, used as a reference for measuring atmospheric pressure",
+      "uuid": "ad92e251-3da7-4e3f-a45a-cd7651611eca",
+      "score": 0.6862202391680651
+    },
+    {
+      "name": "low-level relative vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air in the lower atmosphere, used to identify and track weather systems such as cyclones",
+      "uuid": "ace6a51d-36af-4330-893f-d1fecc8ac904",
+      "score": 0.6142456445692712
+    },
+    {
+      "name": "cyclone tracks",
+      "label": "variable",
+      "description": "The paths that cyclones follow across the globe, often used to study and predict weather patterns and climate trends",
+      "uuid": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
+      "score": 0.643890080921047
+    },
+    {
+      "name": "previous CMIP5 ensemble",
+      "label": "project",
+      "description": "A collection of climate models and simulations from the Coupled Model Intercomparison Project Phase 5, used to study and compare climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.6459605356835498
+    }
+  ],
+  "(6567, 9068)": [
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028232342314525
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "4bee2d4d-d15d-4300-8804-626eff7ac0f3",
+      "score": 0.6157912968833524
+    },
+    {
+      "name": "storm tracks",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of water masses in Earth\u2019s oceans, driven by wind, density differences, and the Coriolis effect, which regulates Earth\u2019s climate",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.5485715114081754
+    },
+    {
+      "name": "Atmospheric model resolution",
+      "label": "model",
+      "description": "Computational representations of atmospheric processes used to simulate and predict weather, climate, and air quality",
+      "uuid": "9728ca44-7bb3-40a4-9dd2-49470ad47fa5",
+      "score": 0.5613178366316643
+    },
+    {
+      "name": "Higher-resolution ocean-atmosphere coupling",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5735864678804615
+    },
+    {
+      "name": "Pacific",
+      "label": "location",
+      "description": "The largest of the world's five oceans, located between the western coast of the Americas and the eastern coast of Asia, playing a significant role in global climate variability",
+      "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+      "score": 0.8134696242029127
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "The third-largest of the world's five oceans, located between Africa, Asia, Australia, and the Southern Ocean, playing a significant role in global climate variability",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.7505699633931037
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its unique biodiversity and climate variability",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7356922365914833
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6776336138779312
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    },
+    {
+      "name": "bomb cyclones",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "446a22b7-3ea1-43db-9176-47d4dac3ac93",
+      "score": 0.5004980735852496
+    },
+    {
+      "name": "extreme precipitation",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.7207606365336207
+    },
+    {
+      "name": "intense cyclones",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "4bee2d4d-d15d-4300-8804-626eff7ac0f3",
+      "score": 0.6107823043257257
+    },
+    {
+      "name": "warm western boundary currents",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of water masses in Earth\u2019s oceans, driven by wind, density differences, and the Coriolis effect, which regulates Earth\u2019s climate",
+      "uuid": "510c5f78-e19e-4ce4-b59a-8937aeb84631",
+      "score": 0.5674309161730711
+    },
+    {
+      "name": "strong winds",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "c40071d2-6478-4edf-80bb-95c3886533b9",
+      "score": 0.5625182112222058
+    },
+    {
+      "name": "SST gradients",
+      "label": "variable",
+      "description": "The change in sea surface temperature over a given distance, influencing ocean circulation and climate patterns",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.5469955442533119
+    },
+    {
+      "name": "available potential energy",
+      "label": "variable",
+      "description": "The energy available to drive atmospheric and oceanic circulation, influencing climate patterns and weather events",
+      "uuid": "00748b19-30cc-4d12-a7a3-0aa8b3be5a94",
+      "score": 0.5134880623039579
+    },
+    {
+      "name": "meridional temperature gradients",
+      "label": "variable",
+      "description": "The change in temperature with respect to latitude, influencing atmospheric and oceanic circulation",
+      "uuid": "99d567bb-7767-4ea4-a135-a611eac6a669",
+      "score": 0.5218548318374074
+    }
+  ],
+  "(8616, 11544)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "extratropical storm tracks",
+      "label": "location",
+      "description": "Regions in the middle and high latitudes where storms and cyclones frequently occur",
+      "uuid": "7de1c2c0-89c2-4841-b0b8-158224c8ad22",
+      "score": 0.5865203235117442
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one half of the Earth divided by the equator",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.6528332276609133
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one half of the Earth divided by the equator",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6499405243991281
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "The ocean between Africa, Asia, Australia, and the Southern Ocean, playing a significant role in global climate patterns",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.7297018901158361
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its unique climate and geography",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.723409352294327
+    },
+    {
+      "name": "bomb cyclones",
+      "label": "weather event",
+      "description": "Rapidly intensifying cyclones that can bring severe weather conditions",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.5060073592170428
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Large-scale circulation of air that can bring various types of weather, including storms and heavy precipitation",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6024803640561713
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, a measure of the temperature of the ocean's surface",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7077439282957075
+    },
+    {
+      "name": "seasonality",
+      "label": "variable",
+      "description": "The periodic fluctuation of climate conditions that occur at the same time every year",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5030280895566882
+    },
+    {
+      "name": "storm track representation",
+      "label": "variable",
+      "description": "The way in which climate models simulate the paths and characteristics of storms",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.5513491153817294
+    },
+    {
+      "name": "cyclone intensity",
+      "label": "variable",
+      "description": "A measure of the strength or severity of a cyclone",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.5429496275498596
+    },
+    {
+      "name": "historical runs",
+      "label": "experiment",
+      "description": "Climate simulations that use past observed data to compare model outputs with historical climate patterns",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.6172295301372767
+    },
+    {
+      "name": "CMIP6 models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.6943546038180574
+    },
+    {
+      "name": "CMIP5 models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.6764775626494043
+    }
+  ],
+  "(11061, 13796)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "historical runs",
+      "label": "experiment",
+      "description": "Climate simulations or experiments that are based on past observed data to compare model outputs with historical climate patterns",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.6444719632979384
+    },
+    {
+      "name": "cyclone tracking",
+      "label": "instrument",
+      "description": "A method or tool used to identify and follow the movement of cyclones, such as storms or hurricanes",
+      "uuid": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
+      "score": 0.5935757644201657
+    },
+    {
+      "name": "datasets",
+      "label": "variable",
+      "description": "Collections of data used for analysis, modeling, or other scientific purposes",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.7146152701216216
+    },
+    {
+      "name": "atmospheric forcings",
+      "label": "variable",
+      "description": "Factors that influence the behavior of the atmosphere, such as greenhouse gases, aerosols, or solar radiation",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6086236745683672
+    },
+    {
+      "name": "oceanic resolutions",
+      "label": "variable",
+      "description": "The level of detail or precision in modeling the ocean's properties, such as temperature, salinity, or currents",
+      "uuid": "9728ca44-7bb3-40a4-9dd2-49470ad47fa5",
+      "score": 0.5475945671763769
+    },
+    {
+      "name": "atmospheric resolutions",
+      "label": "variable",
+      "description": "The level of detail or precision in modeling the atmosphere's properties, such as temperature, humidity, or wind patterns",
+      "uuid": "9728ca44-7bb3-40a4-9dd2-49470ad47fa5",
+      "score": 0.5734388329522734
+    },
+    {
+      "name": "modeling centers",
+      "label": "provider",
+      "description": "Institutions or organizations that develop, run, and maintain climate models",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5281679273327815
+    },
+    {
+      "name": "ensemble simulations",
+      "label": "experiment",
+      "description": "A set of multiple simulations of the same climate model, each with slightly different initial conditions or parameters",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5176009000216029
+    },
+    {
+      "name": "reanalysis products",
+      "label": "variable",
+      "description": "Datasets that combine model outputs with observational data to provide a best estimate of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7345587167013213
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6776336138779312
+    },
+    {
+      "name": "nominal resolution",
+      "label": "variable",
+      "description": "A measure of the level of detail or precision in a climate model, often expressed in terms of grid spacing or resolution",
+      "uuid": "c059a189-5d19-42f1-8a3a-1d0154da17dd",
+      "score": 0.8029149408256747
+    }
+  ],
+  "(13373, 16093)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "nominal resolution",
+      "label": "variable",
+      "description": "A measure of the resolution of a climate model, typically expressed in kilometers or degrees of latitude and longitude",
+      "uuid": "c059a189-5d19-42f1-8a3a-1d0154da17dd",
+      "score": 0.8009559892672883
+    },
+    {
+      "name": "cyclone tracks",
+      "label": "variable",
+      "description": "A measure of the paths followed by cyclones or storms in climate simulations or observations",
+      "uuid": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
+      "score": 0.6332605574214275
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Computational representations of the Earth's climate system used to simulate and predict climate patterns",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.683430312378491
+    },
+    {
+      "name": "100-km nominal resolution CMIP6 models",
+      "label": "model",
+      "description": "A subset of CMIP6 models with a nominal resolution of 100 km, used for high-resolution climate simulations",
+      "uuid": "ef23b094-00f7-4ad3-8a9c-fa4ab8666c12",
+      "score": 0.6412737832320629
+    },
+    {
+      "name": "250-km nominal resolution CMIP6 models",
+      "label": "model",
+      "description": "A subset of CMIP6 models with a nominal resolution of 250 km, used for lower-resolution climate simulations",
+      "uuid": "d34741f2-83bd-4ff5-bac4-25a890c5bee4",
+      "score": 0.6845305214784432
+    },
+    {
+      "name": "historical",
+      "label": "experiment",
+      "description": "Refers to climate simulations or experiments that are based on past observed data to compare model outputs with historical climate patterns",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.6778565544801668
+    },
+    {
+      "name": "observationally constrained general circulation models",
+      "label": "model",
+      "description": "A type of climate model that is constrained by observational data to simulate the atmospheric state over a given period of time",
+      "uuid": "c61a56a3-c08f-4989-92f3-0f0787688424",
+      "score": 0.5424360699330025
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, which is the focus of climate modeling and simulation",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.5900807721289519
+    },
+    {
+      "name": "reanalyses",
+      "label": "project",
+      "description": "A type of climate project that involves running historical, observationally constrained general circulation models to produce the best possible estimate of the atmospheric state over a given period of time",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.6359995601743142
+    },
+    {
+      "name": "JRA-55",
+      "label": "project",
+      "description": "A reanalysis product that provides data up to the end of 2018 and extends back to January 1958",
+      "uuid": "81fcbd3b-e74e-4285-bc87-928d5852d1cf",
+      "score": 0.6627913581495921
+    },
+    {
+      "name": "ERA5",
+      "label": "project",
+      "description": "A reanalysis product that provides data up to the end of 2018 and extends back to January 1979",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.76322348325518
+    }
+  ],
+  "(15681, 18218)": [
+    {
+      "name": "MERRA-2",
+      "label": "model",
+      "description": "The Modern-Era Retrospective analysis for Research and Applications, version 2, a reanalysis product developed by NASA for studying Earth's climate and weather patterns",
+      "uuid": "7583957b-e902-4daf-a2b9-81b65c3f3b8f",
+      "score": 0.7751009513208452
+    },
+    {
+      "name": "JRA-55",
+      "label": "model",
+      "description": "The Japanese 55-year Reanalysis, a reanalysis product developed by the Japan Meteorological Agency for studying Earth's climate and weather patterns",
+      "uuid": "81fcbd3b-e74e-4285-bc87-928d5852d1cf",
+      "score": 0.6441433017928945
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis, a reanalysis product developed for studying Earth's climate and weather patterns",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8046017453550205
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of large-scale circulation of air that rotates around a central point, often associated with low atmospheric pressure and stormy weather",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6485186508231155
+    },
+    {
+      "name": "vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air or water, used in meteorology to identify and track weather patterns such as cyclones",
+      "uuid": "858a80ff-5aa4-4590-b2e2-e88a802a6ee4",
+      "score": 0.7276369312261737
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, an American agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6696568636059744
+    },
+    {
+      "name": "Japan Meteorological Agency",
+      "label": "provider",
+      "description": "A Japanese agency responsible for providing weather forecasts, warnings, and other meteorological information",
+      "uuid": "1909be17-f35e-495d-8baa-6de49611ee8a",
+      "score": 0.6758115110284159
+    },
+    {
+      "name": "European Centre for Medium-Range Weather Forecasts",
+      "label": "provider",
+      "description": "An independent intergovernmental organisation supported by 34 states, provides weather forecasts and warnings for Europe and the world",
+      "uuid": "b2acf9ee-ae0e-4754-b17f-efb51868ed2d",
+      "score": 0.7139685109374773
+    }
+  ],
+  "(17758, 20277)": [
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "4bee2d4d-d15d-4300-8804-626eff7ac0f3",
+      "score": 0.6157912968833524
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6657507897618521
+    },
+    {
+      "name": "MSLP",
+      "label": "variable",
+      "description": "Mean Sea Level Pressure, a measure of atmospheric pressure at sea level",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.633395607607254
+    },
+    {
+      "name": "storm track statistics",
+      "label": "variable",
+      "description": "A set of metrics used to describe the characteristics of cyclone tracks, such as density, genesis, and intensity",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.5457407690400041
+    },
+    {
+      "name": "intensity",
+      "label": "variable",
+      "description": "A measure of the strength or severity of a cyclone, often used to study the impact of storms",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.5784849542397222
+    }
+  ],
+  "(19932, 22380)": [
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Large-scale, rotating low-pressure systems that form over the ocean, often associated with strong winds and heavy precipitation",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6282637367262434
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies north of the equator, encompassing a diverse range of climates and weather patterns",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7558745327454709
+    },
+    {
+      "name": "Southern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies south of the equator, characterized by unique climate and weather patterns",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7482958545247065
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis, providing high-resolution climate and weather data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8265185241366545
+    },
+    {
+      "name": "storm tracks",
+      "label": "variable",
+      "description": "The paths that storms, such as cyclones, follow as they move across the Earth's surface",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.627505598202481
+    },
+    {
+      "name": "reanalyses",
+      "label": "project",
+      "description": "A type of research project that involves re-examining and re-analyzing existing climate and weather data to improve understanding and prediction of weather patterns",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.6190877217119984
+    },
+    {
+      "name": "orographic features",
+      "label": "location",
+      "description": "Geographical features, such as mountains or hills, that can influence the movement and development of weather systems",
+      "uuid": "84780569-bef5-41fd-901f-828418e390dd",
+      "score": 0.5327569991120529
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located between Asia and North America, characterized by unique climate and weather patterns",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7592439417457011
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, known for its mild climate and complex weather patterns",
+      "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+      "score": 0.7134692694489383
+    }
+  ],
+  "(21958, 24509)": [
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of large-scale circulation of air that forms over warm ocean waters in the summer and propagates toward the poles",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6024561812794488
+    },
+    {
+      "name": "storm tracks",
+      "label": "weather event",
+      "description": "The paths that cyclones and other large-scale weather systems follow as they move across the Earth's surface",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.6272035539374272
+    },
+    {
+      "name": "reanalysis",
+      "label": "project",
+      "description": "A type of research project that involves re-examining and re-interpreting existing data, often using new methods or models",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.5362081603126463
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent at the South Pole, surrounded by the Southern Ocean and playing a crucial role in the global climate system",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.730347538611722
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, extending from the equator to the southern tip of Chile and Argentina",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6653935484792624
+    },
+    {
+      "name": "MERRA2",
+      "label": "model",
+      "description": "The Modern-Era Retrospective analysis for Research and Applications, version 2, a reanalysis model used for studying the Earth's climate system",
+      "uuid": "09294834-bc5d-4937-ba1a-3a62b4329948",
+      "score": 0.7870856048409347
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing and evaluating different climate models",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8230960112748943
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis model, used for studying the Earth's climate system",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.810380881636111
+    },
+    {
+      "name": "JRA-55",
+      "label": "model",
+      "description": "The Japanese 55-year Reanalysis, a reanalysis model used for studying the Earth's climate system",
+      "uuid": "22a673ae-fffb-4f2b-a49c-17e8526ab486",
+      "score": 0.6512967831623516
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6776336138779312
+    }
+  ],
+  "(24059, 26499)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis, providing high-resolution atmospheric data for climate research",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.834713803356666
+    },
+    {
+      "name": "JRA-55",
+      "label": "model",
+      "description": "The Japanese 55-year reanalysis, a dataset used for climate research and weather forecasting",
+      "uuid": "c6c76150-ecb5-405e-9ade-c3aeeeb78046",
+      "score": 0.6853377067534699
+    },
+    {
+      "name": "MERRA2",
+      "label": "model",
+      "description": "The Modern-Era Retrospective analysis for Research and Applications, version 2, a dataset used for climate research and weather forecasting",
+      "uuid": "7583957b-e902-4daf-a2b9-81b65c3f3b8f",
+      "score": 0.7903738663169908
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "East Asia",
+      "label": "location",
+      "description": "A region in Asia that includes China, Japan, and Korea, known for its complex weather patterns and climate variability",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.6452606375659117
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "4bee2d4d-d15d-4300-8804-626eff7ac0f3",
+      "score": 0.6157912968833524
+    },
+    {
+      "name": "storm tracks",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of water masses in Earth\u2019s oceans, driven by wind, density differences, and the Coriolis effect, which regulates Earth\u2019s climate",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.5485715114081754
+    },
+    {
+      "name": "ALL_CMIP6",
+      "label": "model",
+      "description": "The full ensemble of climate models participating in the Coupled Model Intercomparison Project Phase 6",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.6745414067014929
+    },
+    {
+      "name": "CMIP6_NR_100",
+      "label": "model",
+      "description": "A high-resolution ensemble of climate models participating in the Coupled Model Intercomparison Project Phase 6",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.6160705934536268
+    },
+    {
+      "name": "CMIP6_NR_250",
+      "label": "model",
+      "description": "A low-resolution ensemble of climate models participating in the Coupled Model Intercomparison Project Phase 6",
+      "uuid": "2616088b-82a6-4b78-b035-a3ef80013e5e",
+      "score": 0.5988068565407176
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6776336138779312
+    }
+  ],
+  "(26123, 28249)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "high-resolution CMIP6 models",
+      "label": "model",
+      "description": "A subset of CMIP6 models with high spatial resolution, used for detailed climate simulations",
+      "uuid": "9ae30f05-ce38-4b8f-a0a8-46521e2e5074",
+      "score": 0.6366261488144809
+    },
+    {
+      "name": "low-resolution CMIP6 models",
+      "label": "model",
+      "description": "A subset of CMIP6 models with low spatial resolution, used for broader climate simulations",
+      "uuid": "71f69b1f-f00c-4303-809b-027d58ebacf5",
+      "score": 0.6396867968843645
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area of interest, such as the Asia-Pacific sector or the American-Atlantic-Siberian sector",
+      "uuid": "204270d9-8039-4768-851e-63635af5fb65",
+      "score": 0.5645156418762394
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Severe storms that form over the ocean, characterized by strong winds and low atmospheric pressure",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6246831223055762
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6776336138779312
+    },
+    {
+      "name": "Asia-Pacific sector",
+      "label": "location",
+      "description": "A geographic region that includes parts of Asia and the Pacific Ocean, known for its diverse climate and weather patterns",
+      "uuid": "5366ab82-ff8b-46a4-85d1-672c8bb23480",
+      "score": 0.537025072058695
+    },
+    {
+      "name": "ERA5",
+      "label": "project",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts (ECMWF) reanalysis product, providing high-resolution atmospheric data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8335974642548536
+    }
+  ],
+  "(27841, 30206)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of storm system characterized by rotating air that forms over warm ocean waters in the tropics",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.633367371941284
+    },
+    {
+      "name": "high latitudes",
+      "label": "location",
+      "description": "The regions of the Earth located farthest from the equator, typically above 60\u00b0 latitude in either hemisphere",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.5584278087112179
+    },
+    {
+      "name": "ALL_CMIP5",
+      "label": "model",
+      "description": "The full ensemble of climate models participating in the Coupled Model Intercomparison Project Phase 5",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.6677038691674142
+    },
+    {
+      "name": "ALL_CMIP6",
+      "label": "model",
+      "description": "The full ensemble of climate models participating in the Coupled Model Intercomparison Project Phase 6",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.6745414067014929
+    },
+    {
+      "name": "higher-resolution CMIP6 models",
+      "label": "model",
+      "description": "Climate models in CMIP6 that have higher spatial resolution, allowing for more detailed simulations of climate processes",
+      "uuid": "9ae30f05-ce38-4b8f-a0a8-46521e2e5074",
+      "score": 0.6078275995351005
+    },
+    {
+      "name": "lower-resolution CMIP6 models",
+      "label": "model",
+      "description": "Climate models in CMIP6 that have lower spatial resolution, providing less detailed but computationally less intensive simulations of climate processes",
+      "uuid": "71f69b1f-f00c-4303-809b-027d58ebacf5",
+      "score": 0.6008817206979548
+    },
+    {
+      "name": "Asia-Pacific region",
+      "label": "location",
+      "description": "A geographic area that includes countries in Asia and the Pacific Ocean, known for its diverse climate and weather patterns",
+      "uuid": "5366ab82-ff8b-46a4-85d1-672c8bb23480",
+      "score": 0.6027264292145079
+    },
+    {
+      "name": "reanalyses",
+      "label": "project",
+      "description": "A type of climate data that combines model outputs with observational data to produce a consistent and reliable record of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7156972261219736
+    }
+  ],
+  "(29782, 32205)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "ALL_CMIP5",
+      "label": "project",
+      "description": "A collection of climate models from the Coupled Model Intercomparison Project Phase 5, used for studying and comparing climate simulations",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.7216433796970143
+    },
+    {
+      "name": "ALL_CMIP6",
+      "label": "project",
+      "description": "A collection of climate models from the Coupled Model Intercomparison Project Phase 6, used for studying and comparing climate simulations",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.727599711195398
+    },
+    {
+      "name": "Asia-Pacific",
+      "label": "location",
+      "description": "A region in the world that includes countries in Asia and the Pacific Ocean, known for its diverse climate and weather patterns",
+      "uuid": "5366ab82-ff8b-46a4-85d1-672c8bb23480",
+      "score": 0.5979812913593704
+    },
+    {
+      "name": "NH-wide domain",
+      "label": "location",
+      "description": "A region in the Northern Hemisphere, extending from the equator to the North Pole, used for studying climate patterns and cyclone activity",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.5294345261752119
+    },
+    {
+      "name": "high latitudes",
+      "label": "location",
+      "description": "Regions on Earth located at high latitudes, typically above 65\u00b0 N or below 65\u00b0 S, characterized by cold climates and unique weather patterns",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.5711750610443955
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Severe storms that form over warm ocean waters in the tropics, characterized by strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6492607076059207
+    },
+    {
+      "name": "cyclone tracks",
+      "label": "variable",
+      "description": "The paths followed by cyclones as they move across the Earth's surface, used for studying cyclone behavior and climate patterns",
+      "uuid": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
+      "score": 0.6638826838987357
+    },
+    {
+      "name": "reanalyses",
+      "label": "project",
+      "description": "A type of climate dataset that combines model outputs with observational data to provide a consistent and reliable record of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7414380689470669
+    },
+    {
+      "name": "CMIP6_ NR_100",
+      "label": "model",
+      "description": "A specific configuration of the CMIP6 climate model, using a resolution of 100 km, used for simulating and studying climate patterns",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.6161550687829059
+    },
+    {
+      "name": "CMIP6_NR_250",
+      "label": "model",
+      "description": "A specific configuration of the CMIP6 climate model, using a resolution of 250 km, used for simulating and studying climate patterns",
+      "uuid": "2616088b-82a6-4b78-b035-a3ef80013e5e",
+      "score": 0.5909987924402833
+    }
+  ],
+  "(31746, 34395)": [
+    {
+      "name": "CMIP6_NR_100",
+      "label": "model",
+      "description": "A group of climate models participating in the Coupled Model Intercomparison Project Phase 6, specifically the models that include natural and anthropogenic forcings",
+      "uuid": "c86e9667-fd1e-47f1-bbaa-b0f36756f3a2",
+      "score": 0.6254880215166992
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a predecessor framework to CMIP6 for comparing climate models",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.7975156381851541
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "4bee2d4d-d15d-4300-8804-626eff7ac0f3",
+      "score": 0.6157912968833524
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located between Asia and North America, known for its influence on global ocean circulation and climate",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7822672413659569
+    },
+    {
+      "name": "East Asia",
+      "label": "location",
+      "description": "A region in Asia that includes countries such as China, Japan, and Korea, known for its dense population and significant economic activities",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.6516203560795288
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, including countries such as the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7295954589339774
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis dataset, providing high-resolution atmospheric data for climate research",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8540557422474646
+    },
+    {
+      "name": "Scandinavia",
+      "label": "location",
+      "description": "A region in Northern Europe that includes countries such as Norway, Sweden, and Denmark, known for its cold climate and natural beauty",
+      "uuid": "5367bbef-371d-43be-a4cd-5f4f5ccc4403",
+      "score": 0.7883159768900592
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, known for its mild climate and rich cultural heritage",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6175583086378506
+    },
+    {
+      "name": "Middle East",
+      "label": "location",
+      "description": "A region in Western Asia and North Africa, known for its significant oil reserves and complex geopolitical landscape",
+      "uuid": "8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab",
+      "score": 0.5838943003241235
+    },
+    {
+      "name": "Russia",
+      "label": "location",
+      "description": "A country in Eastern Europe and Northern Asia, known for its vast territory and significant natural resources",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.6206435525367107
+    }
+  ],
+  "(33962, 36786)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, known for its significant role in global climate variability",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7887859675106627
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located north of the equator, known for its significant role in global climate variability",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7649411485051298
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A semi-enclosed sea located in Europe, Africa, and Asia, known for its unique climate and oceanography",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.7682001409654624
+    },
+    {
+      "name": "Middle East",
+      "label": "location",
+      "description": "A region in western Asia and northeastern Africa, known for its diverse climate and geography",
+      "uuid": "8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab",
+      "score": 0.618015409071597
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the northern hemisphere, known for its diverse climate and geography",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7057653440436503
+    },
+    {
+      "name": "northern Russia",
+      "label": "location",
+      "description": "A region in northern Europe and Asia, known for its cold climate and natural resources",
+      "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+      "score": 0.5748712588734883
+    },
+    {
+      "name": "northeast Asia",
+      "label": "location",
+      "description": "A region in eastern Asia, known for its diverse climate and geography",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.6029273718591878
+    },
+    {
+      "name": "western Europe",
+      "label": "location",
+      "description": "A region in western Europe, known for its temperate climate and diverse geography",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.6530865730605196
+    },
+    {
+      "name": "storm track",
+      "label": "variable",
+      "description": "A measure of the path or trajectory of storms or cyclones, often used to study climate patterns and weather extremes",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.6750554708386197
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of storm or low-pressure system, often used to study climate patterns and weather extremes",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6156580778933521
+    },
+    {
+      "name": "ERA5",
+      "label": "project",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis, a dataset used to study climate patterns and weather extremes",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8172473904337626
+    }
+  ],
+  "(36318, 38857)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located between Asia and North America, known for its influence on global ocean circulation and climate",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7822672413659569
+    },
+    {
+      "name": "European region",
+      "label": "location",
+      "description": "A geographic area that includes Europe and parts of surrounding countries, known for its diverse climate and weather patterns",
+      "uuid": "a62ae820-58c5-47ff-bb72-2680962b26f4",
+      "score": 0.6508810383598266
+    },
+    {
+      "name": "storm",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "ad28623e-bb9b-433c-8fc1-2ab06dda58c4",
+      "score": 0.6071432170849217
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of storm system characterized by rotating air masses, often associated with strong winds and heavy precipitation",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6256928057079121
+    },
+    {
+      "name": "model ensembles",
+      "label": "model",
+      "description": "A collection of climate models used to generate a range of possible climate scenarios and predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5750208126144605
+    },
+    {
+      "name": "storm track",
+      "label": "ocean circulation",
+      "description": "The path that storms and low-pressure systems follow as they move across the ocean, influenced by wind patterns and ocean currents",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.6560157055148749
+    },
+    {
+      "name": "ERA5",
+      "label": "project",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis, a dataset used for climate research and model evaluation",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8397208723877624
+    }
+  ],
+  "(38458, 40992)": [
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of large-scale circulation of air that forms over warm ocean waters in the summer and moves towards the poles",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.600509790606295
+    },
+    {
+      "name": "ALL_CMIP6",
+      "label": "project",
+      "description": "A group of climate models participating in the Coupled Model Intercomparison Project Phase 6, designed to study and compare climate simulations",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7240911320404926
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located in the Northern Hemisphere, known for its significant role in global climate variability",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7818201552167562
+    },
+    {
+      "name": "CMIP6_NR_100",
+      "label": "model",
+      "description": "A specific climate model configuration within the CMIP6 project, characterized by its resolution and simulation parameters",
+      "uuid": "97f9eabc-4b99-479e-850c-a6c3ab6014fc",
+      "score": 0.6066831728438
+    },
+    {
+      "name": "model ensembles",
+      "label": "model",
+      "description": "A set of multiple climate models run with different initial conditions or parameters to generate a range of possible climate scenarios",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5570325036657777
+    },
+    {
+      "name": "East Asia",
+      "label": "location",
+      "description": "A region in Asia that includes countries such as China, Japan, and Korea, known for its diverse climate and weather patterns",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.6832248170573231
+    },
+    {
+      "name": "cyclone track density",
+      "label": "variable",
+      "description": "A measure of the frequency and distribution of cyclone tracks in a given region, often used to study climate patterns and trends",
+      "uuid": "9a310897-86d4-4a31-9fe3-4b4ad45b3575",
+      "score": 0.5553887526137915
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located in the Northern Hemisphere, known for its significant role in global climate variability",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7891075832024682
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "An island country in East Asia, known for its unique climate and weather patterns",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.6238329250063273
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    }
+  ],
+  "(40580, 43022)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of low-pressure system that forms over warm ocean waters in the tropics and can bring strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6240221984003169
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "One of the five oceans, located between the Americas and Europe and Africa, playing a significant role in global climate patterns",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.8061311653794471
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "One of the five oceans, located between Asia and the Americas, playing a significant role in global climate patterns",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7871865972096918
+    },
+    {
+      "name": "East Asia",
+      "label": "location",
+      "description": "A region in Asia that includes countries such as China, Japan, and Korea, known for its dense population and significant economic activity",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.6486836084246409
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "An island country in East Asia, known for its unique culture and significant economic activity",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.6716275867164848
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States located in the northwest corner of North America, known for its cold climate and natural resources",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7479336744942975
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent at the South Pole, covered by ice and known for its extreme climate",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7268604469623028
+    },
+    {
+      "name": "central North America",
+      "label": "location",
+      "description": "A region in North America that includes countries such as the United States, Canada, and Mexico, known for its diverse climate and geography",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6475715043498034
+    },
+    {
+      "name": "northern Russia",
+      "label": "location",
+      "description": "A region in Russia located in the northern part of the country, known for its cold climate and natural resources",
+      "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+      "score": 0.5387699922303063
+    },
+    {
+      "name": "northeast Asia",
+      "label": "location",
+      "description": "A region in Asia that includes countries such as China, Japan, and Korea, known for its dense population and significant economic activity",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.564559436293114
+    },
+    {
+      "name": "northeast North America",
+      "label": "location",
+      "description": "A region in North America that includes countries such as the United States and Canada, known for its diverse climate and geography",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6128793603241053
+    },
+    {
+      "name": "CMIP6 multimodel mean",
+      "label": "model",
+      "description": "A statistical method used to combine the results of multiple climate models to improve the accuracy of climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.5684327658912427
+    },
+    {
+      "name": "cyclone track density",
+      "label": "variable",
+      "description": "A measure of the number of cyclones that pass through a given area, used to study climate patterns and predict weather events",
+      "uuid": "9a310897-86d4-4a31-9fe3-4b4ad45b3575",
+      "score": 0.5580407428184714
+    },
+    {
+      "name": "storm track",
+      "label": "ocean circulation",
+      "description": "A path or corridor through which storms or cyclones typically move, influenced by global wind patterns and ocean currents",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.6658454942777166
+    }
+  ],
+  "(42686, 44942)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "A continent at the South Pole, known for its extreme climate and influence on global ocean circulation and climate patterns",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7443771430128675
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Severe storms that rotate around a central point, often bringing strong winds and heavy precipitation",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6145282450211419
+    },
+    {
+      "name": "cyclone tracks",
+      "label": "variable",
+      "description": "The paths that cyclones follow as they move across the Earth's surface, often used to study cyclone behavior and predict future storms",
+      "uuid": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
+      "score": 0.6604336049523992
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6776336138779312
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    },
+    {
+      "name": "reanalyses",
+      "label": "project",
+      "description": "A type of research project that re-examines and re-analyzes existing data, often to improve climate models and predictions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.6300934816884323
+    }
+  ],
+  "(44563, 47049)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "hemisphere",
+      "label": "location",
+      "description": "Half of the Earth, either the Northern Hemisphere or the Southern Hemisphere, used to describe large-scale climate phenomena",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.6155433395769854
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, known for its diverse climate and geography",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6834869070459134
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "The third-largest ocean, located between Africa, Asia, Australia, and the Southern Ocean, playing a significant role in global climate patterns",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.7656649370340196
+    },
+    {
+      "name": "Pacific Ocean",
+      "label": "location",
+      "description": "The largest of the world's five oceans, separating the continents of Asia and Australia from the Americas, and influencing global climate variability",
+      "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+      "score": 0.7519339598474948
+    },
+    {
+      "name": "storm track",
+      "label": "variable",
+      "description": "A region of the atmosphere where storms or cyclones tend to form and move, often associated with specific climate patterns",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.6457689825277262
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of large-scale circulation of air that rotates around a central point, often associated with severe weather and climate phenomena",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6549068095311634
+    },
+    {
+      "name": "CMIP6 groups",
+      "label": "experiment",
+      "description": "A subset of climate models participating in the Coupled Model Intercomparison Project Phase 6, designed to study specific aspects of climate change",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7121953317224626
+    },
+    {
+      "name": "higher-resolution CMIP6 models",
+      "label": "model",
+      "description": "Climate models with higher spatial resolution, used to improve the accuracy of climate predictions and simulations",
+      "uuid": "9ae30f05-ce38-4b8f-a0a8-46521e2e5074",
+      "score": 0.6123415180001469
+    },
+    {
+      "name": "CMIP6 and CMIP5 ensembles",
+      "label": "experiment",
+      "description": "A collection of climate models from different phases of the Coupled Model Intercomparison Project, used to compare and analyze climate simulations",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.6871836951123963
+    },
+    {
+      "name": "ERA5",
+      "label": "project",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis dataset, providing high-resolution climate data for research and forecasting",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8452187969959699
+    }
+  ],
+  "(46663, 48970)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of storm system characterized by low atmospheric pressure at its center, often bringing strong winds and heavy rainfall",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6223577571833837
+    },
+    {
+      "name": "Antarctic coast",
+      "label": "location",
+      "description": "The coastline of Antarctica, a region of unique and sensitive climate conditions",
+      "uuid": "7401d2b4-7a39-45ea-89f2-8b88cb0c22c4",
+      "score": 0.5494927532258109
+    },
+    {
+      "name": "Antarctic Peninsula",
+      "label": "location",
+      "description": "A peninsula extending from the Antarctic continent into the Southern Ocean, known for its significant climate change impacts",
+      "uuid": "20229c10-303d-4fc9-89b0-8ae372df445f",
+      "score": 0.7153004454355041
+    },
+    {
+      "name": "South Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located south of the equator, characterized by its unique oceanic and atmospheric circulation patterns",
+      "uuid": "fa0ec8a7-ebed-4f2d-834b-1fa6a1c2e0ed",
+      "score": 0.7593142208523082
+    },
+    {
+      "name": "South Indian Ocean",
+      "label": "location",
+      "description": "A region of the Indian Ocean located south of the equator, characterized by its unique oceanic and atmospheric circulation patterns",
+      "uuid": "9ce6b6ba-8f9f-4585-9438-05619d768578",
+      "score": 0.6279488766081882
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its diverse climate and geography",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7278064917514607
+    }
+  ],
+  "(48547, 51129)": [
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6787698585077867
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "Antarctic coast",
+      "label": "location",
+      "description": "The coastline of Antarctica, a region of significant climate and scientific interest",
+      "uuid": "7401d2b4-7a39-45ea-89f2-8b88cb0c22c4",
+      "score": 0.5710418384076517
+    },
+    {
+      "name": "Antarctic Peninsula",
+      "label": "location",
+      "description": "A peninsula extending northwards from Antarctica towards South America, known for its unique and sensitive ecosystem",
+      "uuid": "20229c10-303d-4fc9-89b0-8ae372df445f",
+      "score": 0.7137797777631499
+    },
+    {
+      "name": "South Pacific",
+      "label": "location",
+      "description": "The southern part of the Pacific Ocean, extending from the equator to the Antarctic Circle",
+      "uuid": "fa0ec8a7-ebed-4f2d-834b-1fa6a1c2e0ed",
+      "score": 0.7024422410364475
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "The third-largest of the world's five oceans, located between Africa, Asia, Australia, and the Southern Ocean",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.7175063134003643
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A country located at the southern tip of Africa, known for its diverse climate and geography",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.713236101799208
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its unique climate and biodiversity",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7290615190890529
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including mountains, valleys, and other landforms",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6779993330998945
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of large-scale circulation of air that rotates around a central point, often associated with storms and extreme weather",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6447972620176381
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a predecessor to CMIP6, aimed at comparing and improving climate models",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8082526067063831
+    }
+  ],
+  "(50737, 53007)": [
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "4bee2d4d-d15d-4300-8804-626eff7ac0f3",
+      "score": 0.6157912968833524
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "Antarctic coastline",
+      "label": "location",
+      "description": "The coastline surrounding Antarctica, playing a key role in global ocean circulation and climate regulation",
+      "uuid": "7401d2b4-7a39-45ea-89f2-8b88cb0c22c4",
+      "score": 0.5806276522164098
+    },
+    {
+      "name": "Southern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth south of the equator, including Antarctica, the southern parts of South America, Africa, and Australia",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7916561377459254
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis model, providing detailed atmospheric data for climate research",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8278602265752523
+    },
+    {
+      "name": "850-hPa maximum T42 vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air in the atmosphere, used to study cyclone intensity and behavior",
+      "uuid": "d34bf994-7bc6-407a-bb8d-fdd579f2f65b",
+      "score": 0.6153968299367129
+    },
+    {
+      "name": "extratropical cyclones",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "da436e9b-60e5-4a5f-a50a-08794d62bca8",
+      "score": 0.69451668704414
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, including most of North America, Europe, and Asia",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.753597847844695
+    }
+  ],
+  "(52607, 55108)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "A structured set of climate simulations organized by the Coupled Model Intercomparison Project Phase 6, designed to test specific hypotheses about the climate system",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7735793121085525
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A rotating, organized system of clouds and thunderstorms that originates over warm ocean waters in the tropics",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6288777102153271
+    },
+    {
+      "name": "model horizontal resolution",
+      "label": "variable",
+      "description": "A measure of the level of detail that a climate model can capture, referring to the distance between grid points in the horizontal direction",
+      "uuid": "75c9d806-9e29-40f5-b479-4c63c90f77a9",
+      "score": 0.6841859054621422
+    },
+    {
+      "name": "reanalysis",
+      "label": "variable",
+      "description": "A method of re-examining past weather data using a consistent model or dataset to create a homogeneous record of climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.6579120132725409
+    },
+    {
+      "name": "peak intensity",
+      "label": "variable",
+      "description": "The maximum strength or severity of a weather event, such as a cyclone, typically measured by wind speed or pressure",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.7796804860093228
+    },
+    {
+      "name": "high-resolution CMIP6 models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system with a high level of detail",
+      "uuid": "286de7c6-deed-443f-a3e0-b67ad7fba9eb",
+      "score": 0.6497418365346379
+    },
+    {
+      "name": "accurate peak cyclone intensity",
+      "label": "variable",
+      "description": "A measure of the reliability or precision of climate models in simulating the maximum strength of cyclones",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.5819545711420935
+    },
+    {
+      "name": "ERA5",
+      "label": "provider",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis dataset, offering a consistent and reliable record of global climate conditions",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8378190984264903
+    },
+    {
+      "name": "vorticity threshold",
+      "label": "variable",
+      "description": "A measure of the rotation or spin of air in the atmosphere, used to identify and track weather systems such as cyclones",
+      "uuid": "858a80ff-5aa4-4590-b2e2-e88a802a6ee4",
+      "score": 0.6135810048191587
+    }
+  ],
+  "(54754, 57010)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis dataset, providing detailed atmospheric and surface conditions",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8390482366070638
+    },
+    {
+      "name": "reanalysis",
+      "label": "dataset",
+      "description": "A type of dataset that combines model outputs with observational data to create a best estimate of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.772233128812997
+    },
+    {
+      "name": "higher-resolution CMIP6 models",
+      "label": "model",
+      "description": "Climate models with finer spatial resolution, capable of simulating more detailed climate features",
+      "uuid": "9ae30f05-ce38-4b8f-a0a8-46521e2e5074",
+      "score": 0.6059955321529338
+    },
+    {
+      "name": "lower-resolution CMIP6 models",
+      "label": "model",
+      "description": "Climate models with coarser spatial resolution, less capable of simulating detailed climate features",
+      "uuid": "71f69b1f-f00c-4303-809b-027d58ebacf5",
+      "score": 0.6054624918195457
+    },
+    {
+      "name": "accurate peak cyclone intensity",
+      "label": "variable",
+      "description": "A measure of the maximum intensity of cyclones, important for understanding storm patterns and climate extremes",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.6359929878949846
+    },
+    {
+      "name": "peak cyclone intensity",
+      "label": "variable",
+      "description": "A measure of the maximum intensity of cyclones, important for understanding storm patterns and climate extremes",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.6924886055943329
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, characterized by distinct climate patterns and seasonal variations",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.755966740948255
+    },
+    {
+      "name": "Southern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth south of the equator, characterized by distinct climate patterns and seasonal variations",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.757263976856795
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of storm system characterized by rotating air and low atmospheric pressure, often associated with strong winds and heavy precipitation",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6389919044643685
+    }
+  ],
+  "(56619, 58934)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "ERA5",
+      "label": "dataset",
+      "description": "A global atmospheric reanalysis dataset produced by the European Centre for Medium-Range Weather Forecasts, providing high-resolution atmospheric data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8527437650685191
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6776336138779312
+    },
+    {
+      "name": "cyclone intensity",
+      "label": "variable",
+      "description": "A measure of the strength of a cyclone, typically represented by wind speed or atmospheric pressure",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.5700269248488196
+    },
+    {
+      "name": "peak cyclone intensity",
+      "label": "variable",
+      "description": "The maximum intensity reached by a cyclone during its lifetime",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.6550466328796443
+    },
+    {
+      "name": "high-resolution models",
+      "label": "model",
+      "description": "Climate models with a high spatial resolution, capable of simulating detailed climate processes and patterns",
+      "uuid": "286de7c6-deed-443f-a3e0-b67ad7fba9eb",
+      "score": 0.5906322858730895
+    },
+    {
+      "name": "low-resolution models",
+      "label": "model",
+      "description": "Climate models with a lower spatial resolution, which may not capture detailed climate processes and patterns as accurately as high-resolution models",
+      "uuid": "1e11026d-b012-494a-a813-8c69cb41fc0d",
+      "score": 0.503846258828982
+    }
+  ],
+  "(58662, 61093)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "cyclone",
+      "label": "weather event",
+      "description": "A type of storm that forms over warm ocean waters in the tropics, characterized by strong winds and low atmospheric pressure",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6184975698749406
+    },
+    {
+      "name": "reanalysis",
+      "label": "dataset",
+      "description": "A type of dataset that combines model outputs with observational data to create a consistent and reliable record of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7812115928075016
+    },
+    {
+      "name": "ERA5",
+      "label": "reanalysis",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis, providing a comprehensive and consistent record of the Earth's climate",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8327666402555625
+    },
+    {
+      "name": "cyclone peak intensity",
+      "label": "variable",
+      "description": "The maximum intensity reached by a cyclone, often measured by its wind speed or central pressure",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.6887788912333194
+    },
+    {
+      "name": "cyclone intensity",
+      "label": "variable",
+      "description": "A measure of the strength or severity of a cyclone, often quantified by its wind speed, central pressure, or other characteristics",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.5625988509974509
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6776336138779312
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    }
+  ],
+  "(60608, 63267)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "A structured set of climate simulations organized by the Coupled Model Intercomparison Project Phase 6, designed to test specific hypotheses about the climate system",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7735793121085525
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of large-scale circulation of air that can bring severe weather and is characterized by low atmospheric pressure at its center",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6222844100992269
+    },
+    {
+      "name": "cyclone intensity",
+      "label": "variable",
+      "description": "A measure of the strength of a cyclone, often quantified by its wind speed, central pressure, or other factors",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.5634175832180489
+    },
+    {
+      "name": "reanalysis",
+      "label": "experiment",
+      "description": "A type of climate simulation that uses historical data to recreate past climate conditions for comparison with model outputs",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.6918668145041732
+    },
+    {
+      "name": "models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.6699541662703274
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6776336138779312
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "The part of the Atlantic Ocean located north of the equator, known for its significant role in global climate variability",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7575985412402991
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "The part of the Pacific Ocean located north of the equator, known for its significant role in global climate variability",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.785748243453709
+    },
+    {
+      "name": "South Atlantic Ocean",
+      "label": "location",
+      "description": "The part of the Atlantic Ocean located south of the equator, known for its significant role in global climate variability",
+      "uuid": "9ce6b6ba-8f9f-4585-9438-05619d768578",
+      "score": 0.7688583033826216
+    },
+    {
+      "name": "South Indian Ocean",
+      "label": "location",
+      "description": "The part of the Indian Ocean located south of the equator, known for its significant role in global climate variability",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.6383836421156378
+    },
+    {
+      "name": "ERA5",
+      "label": "dataset",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts (ECMWF) atmospheric reanalysis of the global climate",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8314437959846214
+    }
+  ],
+  "(62868, 65301)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "A structured set of climate simulations organized by the Coupled Model Intercomparison Project Phase 6, designed to test specific hypotheses about the climate system",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7735793121085525
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "South Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located south of the equator, known for its influence on global ocean circulation and climate",
+      "uuid": "fa0ec8a7-ebed-4f2d-834b-1fa6a1c2e0ed",
+      "score": 0.7576157797641947
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, known for its influence on global ocean circulation and climate",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7870636301517551
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis model, used for weather forecasting and climate studies",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8087119834411843
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent surrounding the South Pole, playing a key role in global climate regulation",
+      "uuid": "9f36c803-a972-4191-a345-faad9f6cf813",
+      "score": 0.7199518466676684
+    }
+  ],
+  "(64931, 67400)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "ERA5",
+      "label": "model",
+      "description": "The European Centre for Medium-Range Weather Forecasts reanalysis dataset, version 5, used as a reference for climate model evaluation",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.841200434493234
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of low-pressure system that forms over warm ocean waters in the tropics, characterized by strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6349530965641955
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the South Pole",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6776336138779312
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    },
+    {
+      "name": "South Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located in the Southern Hemisphere, known for its influence on global climate patterns",
+      "uuid": "9ce6b6ba-8f9f-4585-9438-05619d768578",
+      "score": 0.7275547979743129
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "The third-largest ocean, located between Africa, Asia, Australia, and the Southern Ocean, playing a significant role in global climate regulation",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.768524277500487
+    },
+    {
+      "name": "Southern Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located in the Southern Hemisphere, known for its influence on global climate patterns",
+      "uuid": "fa0ec8a7-ebed-4f2d-834b-1fa6a1c2e0ed",
+      "score": 0.617835211209991
+    },
+    {
+      "name": "peak T42 vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air in a cyclone, used to study cyclone intensity",
+      "uuid": "858a80ff-5aa4-4590-b2e2-e88a802a6ee4",
+      "score": 0.5115917243380568
+    },
+    {
+      "name": "minimum MSLP",
+      "label": "variable",
+      "description": "The minimum sea level pressure, a measure of the intensity of a cyclone",
+      "uuid": "38cefcb2-f5d6-4917-a87b-7cfba482e30d",
+      "score": 0.6714710285216192
+    }
+  ],
+  "(66924, 69740)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of large-scale circulation of air that rotates around a central point, often associated with storms and strong winds",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.639614915915145
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "reanalyses",
+      "label": "dataset",
+      "description": "A type of dataset that combines historical weather observations with climate models to create a consistent and comprehensive record of past weather patterns",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7325234327972424
+    },
+    {
+      "name": "cyclone peak intensity",
+      "label": "variable",
+      "description": "A measure of the maximum strength or intensity of a cyclone, often used to study the impacts of climate change on extreme weather events",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.7023681531844387
+    },
+    {
+      "name": "western Europe",
+      "label": "location",
+      "description": "A region of Europe located west of the continent, known for its diverse climate and weather patterns",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.6922056889263573
+    },
+    {
+      "name": "extratropical storm tracks",
+      "label": "weather event",
+      "description": "The paths that storms and cyclones follow in the middle and high latitudes, outside of the tropics",
+      "uuid": "7de1c2c0-89c2-4841-b0b8-158224c8ad22",
+      "score": 0.6371046920295649
+    },
+    {
+      "name": "storm track",
+      "label": "weather event",
+      "description": "The path that a storm or cyclone follows, often used to study the movement and intensity of weather systems",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.6823616891564294
+    },
+    {
+      "name": "ERA5",
+      "label": "dataset",
+      "description": "A type of reanalysis dataset produced by the European Centre for Medium-Range Weather Forecasts, providing a consistent and comprehensive record of past weather patterns",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8144078372990635
+    },
+    {
+      "name": "higher-resolution CMIP6 models",
+      "label": "model",
+      "description": "Climate models with higher horizontal atmospheric resolution, used to simulate and predict weather and climate patterns",
+      "uuid": "9ae30f05-ce38-4b8f-a0a8-46521e2e5074",
+      "score": 0.6332696755252469
+    }
+  ],
+  "(69321, 71938)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "western Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as the UK, France, and Germany, known for its temperate climate and significant economic influence",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.7094937821522759
+    },
+    {
+      "name": "cyclone tracks",
+      "label": "variable",
+      "description": "The paths that cyclones, or low-pressure systems, take as they move across the Earth's surface",
+      "uuid": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
+      "score": 0.6265023949020819
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences characterized by low atmospheric pressure, strong winds, and heavy precipitation",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6373772296945899
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent surrounding the South Pole, known for its extreme climate and unique ecosystems",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7429314974713621
+    },
+    {
+      "name": "ERA5",
+      "label": "project",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts (ECMWF) atmospheric reanalysis of the global climate, providing high-resolution climate data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8269400048953074
+    },
+    {
+      "name": "higher-resolution CMIP6 models",
+      "label": "model",
+      "description": "Climate models with higher spatial resolution, used to simulate and predict weather and climate patterns in greater detail",
+      "uuid": "9ae30f05-ce38-4b8f-a0a8-46521e2e5074",
+      "score": 0.6123832282724816
+    },
+    {
+      "name": "low-resolution CMIP6",
+      "label": "model",
+      "description": "Climate models with lower spatial resolution, used to simulate and predict weather and climate patterns in less detail",
+      "uuid": "71f69b1f-f00c-4303-809b-027d58ebacf5",
+      "score": 0.6314381954664214
+    },
+    {
+      "name": "cyclone intensity",
+      "label": "variable",
+      "description": "A measure of the strength or severity of cyclones, often quantified by wind speed, pressure, or precipitation",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.5705358298801986
+    },
+    {
+      "name": "peak intensity",
+      "label": "variable",
+      "description": "The maximum intensity or strength of a cyclone, often used to characterize the severity of weather events",
+      "uuid": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
+      "score": 0.765465548670354
+    },
+    {
+      "name": "model ensembles",
+      "label": "experiment",
+      "description": "A set of multiple climate models run with different initial conditions or parameters, used to quantify uncertainty and improve predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5887804907109896
+    },
+    {
+      "name": "Asia-Pacific",
+      "label": "location",
+      "description": "A region that includes countries in East Asia, Southeast Asia, and the Pacific Islands, known for its diverse climate and significant economic influence",
+      "uuid": "5366ab82-ff8b-46a4-85d1-672c8bb23480",
+      "score": 0.6098995048131011
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, characterized by its unique climate patterns and seasonal variations",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.6427918384898016
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, one of the two hemispheres of the Earth, characterized by its unique climate patterns and seasonal variations",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6660746461617131
+    }
+  ],
+  "(71483, 74145)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of large-scale atmospheric circulation that forms over warm ocean waters in the tropics",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6476718596310888
+    },
+    {
+      "name": "ERA5",
+      "label": "project",
+      "description": "The fifth generation of the European Centre for Medium-Range Weather Forecasts reanalysis dataset, providing global atmospheric and surface conditions",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8424486356530009
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, the half of the Earth that lies north of the equator",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.6674192910289887
+    },
+    {
+      "name": "SH",
+      "label": "location",
+      "description": "The Southern Hemisphere, the half of the Earth that lies south of the equator",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.6739056734295495
+    },
+    {
+      "name": "ocean basins",
+      "label": "location",
+      "description": "The five large bodies of water that cover most of the Earth's surface, including the Pacific, Atlantic, Indian, Arctic, and Southern Oceans",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.5533070483165458
+    },
+    {
+      "name": "hemispheres",
+      "label": "location",
+      "description": "The two halves of the Earth, divided by the equator into the Northern Hemisphere and the Southern Hemisphere",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.5925208312340884
+    },
+    {
+      "name": "reanalyses",
+      "label": "project",
+      "description": "A type of dataset that combines model outputs with observational data to provide a consistent and comprehensive record of past weather and climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7493846738361766
+    },
+    {
+      "name": "orography",
+      "label": "location",
+      "description": "The study of the shape and features of the Earth's surface, including mountains, valleys, and other landforms",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.5544399382155036
+    },
+    {
+      "name": "air-sea coupling",
+      "label": "teleconnection",
+      "description": "The interaction between the atmosphere and the ocean, which plays a crucial role in shaping global climate patterns",
+      "uuid": "6a6bed83-f95a-44e6-8ae0-1371b532abc3",
+      "score": 0.5418075177605639
+    },
+    {
+      "name": "shortwave cloud",
+      "label": "variable",
+      "description": "A type of cloud that reflects shortwave radiation and plays a role in shaping global climate patterns",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.5558944621116395
+    },
+    {
+      "name": "low cloud cover",
+      "label": "variable",
+      "description": "A type of cloud that forms at low altitudes and plays a role in shaping global climate patterns",
+      "uuid": "3375096a-7782-42e8-97d2-0febf63893e0",
+      "score": 0.5576050439051486
+    },
+    {
+      "name": "extratropics",
+      "label": "location",
+      "description": "The regions of the Earth that lie outside of the tropics, including the mid-latitudes and polar regions",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5067431197815064
+    }
+  ],
+  "(73809, 76631)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, located between Europe, Africa, and Asia, known for its unique climate and weather patterns",
+      "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+      "score": 0.7743464637152048
+    },
+    {
+      "name": "HighResMIP",
+      "label": "project",
+      "description": "The High-Resolution Model Intercomparison Project, an initiative to study the effects of high-resolution climate modeling on climate predictions",
+      "uuid": "09347fb2-7842-4939-836e-6b8b2c35f5b1",
+      "score": 0.8295618760706841
+    },
+    {
+      "name": "horizontal atmospheric resolution",
+      "label": "variable",
+      "description": "A measure of the level of detail in atmospheric models, influencing the accuracy of climate simulations",
+      "uuid": "1499785c-8b74-45f4-bbf7-19d2d4e43b2f",
+      "score": 0.6165517935582441
+    },
+    {
+      "name": "storm track",
+      "label": "weather event",
+      "description": "A region of the atmosphere where storms and low-pressure systems tend to form and move, often associated with mid-latitude cyclones",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.6346910834514308
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of low-pressure system that forms over warm ocean waters, characterized by rotating winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6160255499140312
+    },
+    {
+      "name": "latent heat release",
+      "label": "variable",
+      "description": "The process by which heat is released into the atmosphere as water vapor condenses into droplets, influencing weather patterns and climate",
+      "uuid": "9985d211-1056-4a7a-a1c8-550923ea5a81",
+      "score": 0.6118862173508824
+    },
+    {
+      "name": "shortwave cloud",
+      "label": "variable",
+      "description": "Clouds that reflect solar radiation and influence Earth's energy balance, playing a crucial role in climate regulation",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.5671679747320562
+    },
+    {
+      "name": "western Europe",
+      "label": "location",
+      "description": "A region of Europe located west of the continent, known for its diverse climate and weather patterns",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.6922056889263573
+    },
+    {
+      "name": "Alpine orography",
+      "label": "location",
+      "description": "The mountainous region of the Alps, influencing local climate and weather patterns through its unique topography",
+      "uuid": "a1df1d50-dd2b-4944-bda5-0cf1127e2f49",
+      "score": 0.5082550488606224
+    },
+    {
+      "name": "HighResMIP project",
+      "label": "project",
+      "description": "The High-Resolution Model Intercomparison Project, an initiative to study the effects of high-resolution climate modeling on climate predictions",
+      "uuid": "09347fb2-7842-4939-836e-6b8b2c35f5b1",
+      "score": 0.8130045893730332
+    },
+    {
+      "name": "nominal atmospheric resolutions",
+      "label": "variable",
+      "description": "A measure of the level of detail in atmospheric models, influencing the accuracy of climate simulations",
+      "uuid": "c059a189-5d19-42f1-8a3a-1d0154da17dd",
+      "score": 0.6959757963467095
+    }
+  ],
+  "(76119, 78998)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A semi-enclosed sea connected to the Atlantic Ocean, surrounded by Europe, Africa, and Asia, and known for its unique climate and weather patterns",
+      "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+      "score": 0.7432627605290528
+    },
+    {
+      "name": "ocean component",
+      "label": "model",
+      "description": "The part of a climate model that simulates the behavior of the oceans, including ocean currents, temperature, and other properties",
+      "uuid": "13df63e8-85ad-405d-9b43-256371e259c0",
+      "score": 0.5352721018064956
+    },
+    {
+      "name": "atmosphere-ocean coupling",
+      "label": "experiment",
+      "description": "The interaction between the atmosphere and ocean in climate models, which affects the accuracy of climate predictions",
+      "uuid": "13df63e8-85ad-405d-9b43-256371e259c0",
+      "score": 0.5507522482995671
+    },
+    {
+      "name": "eastern Asia",
+      "label": "location",
+      "description": "A region in Asia that includes countries such as China, Japan, and Korea, known for its diverse climate and weather patterns",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.7474005268571066
+    },
+    {
+      "name": "atmospheric circulation",
+      "label": "ocean circulation",
+      "description": "The movement of air in the atmosphere, which plays a crucial role in shaping the climate and weather patterns of a region",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.5166549008483825
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of storm that forms over warm ocean waters, characterized by strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6240710519749443
+    },
+    {
+      "name": "western Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as the UK, France, and Germany, known for its temperate climate and varied weather patterns",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.6919078753409494
+    },
+    {
+      "name": "Gulf of Genoa",
+      "label": "location",
+      "description": "A bay in the Mediterranean Sea, located in northwest Italy, known for its unique climate and weather patterns",
+      "uuid": "75fab119-51a6-4b59-9711-f6c3cd3139db",
+      "score": 0.5179318384425058
+    },
+    {
+      "name": "northwestern North Pacific",
+      "label": "location",
+      "description": "A region in the Pacific Ocean, located northwest of the equator, known for its diverse marine ecosystem and weather patterns",
+      "uuid": "7d10a16f-ca01-4ea5-b842-24c889210ab5",
+      "score": 0.732183426577232
+    },
+    {
+      "name": "storm",
+      "label": "weather event",
+      "description": "A severe weather condition characterized by strong winds, heavy rainfall, and thunderstorms",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.6191397261561763
+    },
+    {
+      "name": "HighResMIP project",
+      "label": "project",
+      "description": "The High Resolution Model Intercomparison Project, an initiative to study the impact of high-resolution climate models on climate predictions",
+      "uuid": "09347fb2-7842-4939-836e-6b8b2c35f5b1",
+      "score": 0.814721113227066
+    },
+    {
+      "name": "nominal ocean resolutions",
+      "label": "variable",
+      "description": "A measure of the resolution of the ocean component in climate models, which affects the accuracy of climate predictions",
+      "uuid": "c059a189-5d19-42f1-8a3a-1d0154da17dd",
+      "score": 0.7110312677553234
+    }
+  ],
+  "(78511, 81365)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "T42 relative vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air masses in the atmosphere, used to identify and track cyclones",
+      "uuid": "ace6a51d-36af-4330-893f-d1fecc8ac904",
+      "score": 0.6126675966706846
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "4bee2d4d-d15d-4300-8804-626eff7ac0f3",
+      "score": 0.6157912968833524
+    },
+    {
+      "name": "storm",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "ad28623e-bb9b-433c-8fc1-2ab06dda58c4",
+      "score": 0.6071432170849217
+    },
+    {
+      "name": "North Atlantic sector",
+      "label": "location",
+      "description": "A region of the North Atlantic Ocean, known for its significant role in global climate variability",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.6268903275268465
+    },
+    {
+      "name": "western Europe",
+      "label": "location",
+      "description": "A region of Europe, known for its significant role in global climate variability",
+      "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+      "score": 0.6250204947101646
+    },
+    {
+      "name": "midlatitude cyclones",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "da436e9b-60e5-4a5f-a50a-08794d62bca8",
+      "score": 0.5487964642145412
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, computational representations of the Earth's climate system used to simulate and predict climate patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7643858283032466
+    }
+  ],
+  "(80975, 81973)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "A structured set of climate simulations organized by the Coupled Model Intercomparison Project Phase 6, designed to test specific hypotheses about the climate system",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.7735793121085525
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, a research institute providing weather forecasting and climate data",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7798316761264142
+    },
+    {
+      "name": "ERA5",
+      "label": "dataset",
+      "description": "The fifth generation of the ECMWF atmospheric reanalysis of the global climate, providing high-resolution data for climate research",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.8264651559511815
+    },
+    {
+      "name": "Copernicus Climate Change Service Climate Data Store",
+      "label": "provider",
+      "description": "A data repository providing access to climate data and information, part of the European Union's Copernicus program",
+      "uuid": "c894c4eb-a1e1-4726-980f-85800666a6af",
+      "score": 0.6235051171801304
+    },
+    {
+      "name": "Earth System Grid Federation",
+      "label": "provider",
+      "description": "A global network of data nodes and services that facilitate access to climate and Earth system data",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.6520842572465001
+    },
+    {
+      "name": "cyclones",
+      "label": "weather event",
+      "description": "A type of large-scale circulation of air that forms over warm ocean waters in the tropics, characterized by low atmospheric pressure at its center",
+      "uuid": "0720043d-4d31-45ae-a37c-9ba5959bf97d",
+      "score": 0.6312595228793202
+    },
+    {
+      "name": "midlatitudes",
+      "label": "location",
+      "description": "The regions of the Earth located between the tropics and the polar regions, characterized by temperate climates",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.7211029090926272
+    }
+  ]
+}

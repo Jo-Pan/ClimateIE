@@ -1,0 +1,604 @@
+{
+  "(0, 3267)": [
+    {
+      "name": "agriculture",
+      "label": "project",
+      "description": "The practice of cultivating land, raising crops, and rearing livestock to provide food, fiber, and other products",
+      "uuid": "8916dafb-5ad5-45c6-ab64-3500ea1e9577",
+      "score": 0.5122645091540212
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability, access, and utilization of sufficient, safe, and nutritious food to meet the dietary needs of individuals and populations",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6937067760009524
+    },
+    {
+      "name": "heat waves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally hot weather, often leading to health problems, crop damage, and other negative impacts",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.7114614158378818
+    },
+    {
+      "name": "high temperatures",
+      "label": "variable",
+      "description": "Elevated temperatures, often exceeding historical averages, which can have detrimental effects on crops, ecosystems, and human health",
+      "uuid": "3d997f01-8987-4fb1-a32e-d88d51f0a2c4",
+      "score": 0.5740413180210509
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall, snowfall, or other forms of moisture that fall to the Earth's surface, essential for agriculture and ecosystems",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6517899384114816
+    },
+    {
+      "name": "crop productivity",
+      "label": "variable",
+      "description": "The yield or output of crops per unit area, influenced by factors such as climate, soil, water, and management practices",
+      "uuid": "5c6df811-bebf-4dae-a70f-f49fece3fa1e",
+      "score": 0.5750656128547438
+    },
+    {
+      "name": "growing period",
+      "label": "variable",
+      "description": "The length of time during which crops grow and mature, influenced by factors such as temperature, precipitation, and daylight hours",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6111343343014168
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses and reports on climate change research and mitigation strategies",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7505152372829019
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing and duration of recurring biological events, such as plant flowering, bird migration, and crop development",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.5948773778756002
+    }
+  ],
+  "(2798, 5470)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492758557127771
+    },
+    {
+      "name": "global surface temperature",
+      "label": "variable",
+      "description": "The average temperature of the Earth's surface, often used as an indicator of global climate change",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.6000901696532722
+    },
+    {
+      "name": "climate change impact assessment",
+      "label": "project",
+      "description": "A scientific study or evaluation of the potential effects of climate change on various aspects of the environment and society",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.6273263246032728
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering or bird migration, in relation to climate and other environmental factors",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6275267221806045
+    },
+    {
+      "name": "ASIA",
+      "label": "location",
+      "description": "A continent on Earth, comprising a wide range of countries and climates, and home to a large portion of the world's population",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6858985050156854
+    },
+    {
+      "name": "RCP",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future climate change and its impacts",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5740465780589217
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "A type of intense, rotating storm that forms over warm ocean waters in the tropics",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.7126368483220805
+    },
+    {
+      "name": "heat waves",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally hot weather, often associated with climate change",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.7283096447417361
+    },
+    {
+      "name": "Pakistan",
+      "label": "location",
+      "description": "A country located in South Asia, vulnerable to climate change impacts such as heat waves and erratic rainfall",
+      "uuid": "60b17f24-cf23-4209-91c4-975a87a7acb0",
+      "score": 0.683271856805375
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country located in South Asia, vulnerable to climate change impacts such as heat waves and erratic rainfall",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6687933073243986
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country located in East Asia, vulnerable to climate change impacts such as heat waves and erratic rainfall",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6336661724054176
+    },
+    {
+      "name": "South Asia",
+      "label": "location",
+      "description": "A region in Asia, comprising countries such as India, Pakistan, and Bangladesh, vulnerable to climate change impacts",
+      "uuid": "a8ee0d08-8772-4951-bbf0-4114dd07de03",
+      "score": 0.7199209482364901
+    },
+    {
+      "name": "Southeast Asia",
+      "label": "location",
+      "description": "A region in Asia, comprising countries such as Indonesia, Malaysia, and the Philippines, vulnerable to climate change impacts",
+      "uuid": "9ea81338-dc64-4803-b0e2-db0e2aaa70cf",
+      "score": 0.7691459503662844
+    },
+    {
+      "name": "climatic models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict the Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5958652242874275
+    }
+  ],
+  "(4942, 8045)": [
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent with a diverse range of climates, cultures, and economies, highly vulnerable to climate change",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6476375086137415
+    },
+    {
+      "name": "heat waves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally hot weather, often leading to health issues and crop damage",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.7097400051449755
+    },
+    {
+      "name": "hot days",
+      "label": "weather event",
+      "description": "Days with extremely high temperatures, often leading to heat-related illnesses and crop stress",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.5092230770665427
+    },
+    {
+      "name": "sustained dry spells",
+      "label": "weather event",
+      "description": "Prolonged periods of drought, affecting agricultural productivity and water resources",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.5065571221582652
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "Intense tropical storms with strong winds and heavy rainfall, causing damage and loss of life",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.7132323313574592
+    },
+    {
+      "name": "natural disasters",
+      "label": "natural hazard",
+      "description": "Sudden and extreme events such as floods, landslides, and storms, causing damage and loss of life",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.5748424307295383
+    },
+    {
+      "name": "South Asia",
+      "label": "location",
+      "description": "A region with high population density and food insecurity, highly vulnerable to climate change",
+      "uuid": "a8ee0d08-8772-4951-bbf0-4114dd07de03",
+      "score": 0.5982938862849343
+    },
+    {
+      "name": "El Nino",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6634692964707435
+    },
+    {
+      "name": "Pacific",
+      "label": "location",
+      "description": "The largest of the world's five oceans, playing a crucial role in global climate regulation",
+      "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+      "score": 0.7627220997889128
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, affected by climate change and human activities",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6081207371007509
+    },
+    {
+      "name": "industrialization",
+      "label": "provider",
+      "description": "The process of economic and social change driven by technological innovation and industrial development, contributing to greenhouse gas emissions",
+      "uuid": "92d8968b-617e-433d-ab9b-e269497c3f43",
+      "score": 0.6696788545869519
+    },
+    {
+      "name": "urbanization",
+      "label": "provider",
+      "description": "The process of population growth and migration to cities, contributing to greenhouse gas emissions and climate change",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5594740962011152
+    },
+    {
+      "name": "agriculture",
+      "label": "sector",
+      "description": "The practice of cultivating land, raising crops, and rearing livestock, highly vulnerable to climate change",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.554697452689373
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability and quality of water for human consumption, agriculture, and ecosystems, affected by climate change",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.698276730107864
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the atmosphere, affected by climate change and temperature increases",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6943835881648008
+    },
+    {
+      "name": "water vapor",
+      "label": "variable",
+      "description": "The gaseous state of water, playing a crucial role in the Earth's energy balance and climate regulation",
+      "uuid": "15029eb0-6342-4066-8ac9-c50f7dbfb392",
+      "score": 0.7233122855156136
+    }
+  ],
+  "(7475, 10599)": [
+    {
+      "name": "agriculture",
+      "label": "sector",
+      "description": "The practice of cultivating the soil, growing crops, and raising livestock, which is vulnerable to climate change",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5304860817402943
+    },
+    {
+      "name": "climate change",
+      "label": "phenomenon",
+      "description": "A long-term change in the average weather patterns of a region or the entire planet, often associated with global warming",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5609745156336028
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability of water for various uses, including agriculture, which is affected by climate change",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6500620280389467
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, which affects plant growth and development",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5613576807580614
+    },
+    {
+      "name": "Intergovernmental Panel for Climate Change",
+      "label": "provider",
+      "description": "An international organization that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7100127322293245
+    },
+    {
+      "name": "heat waves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally hot weather, which can have detrimental effects on plant productivity",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.6559706098245766
+    },
+    {
+      "name": "frost",
+      "label": "weather event",
+      "description": "A condition of temperature below freezing, which can cause damage to crops",
+      "uuid": "ea936862-2c98-41e5-8514-6b7288a5f941",
+      "score": 0.5911284217547953
+    },
+    {
+      "name": "crop yield simulation models",
+      "label": "model",
+      "description": "Computational tools used to predict the impact of climate change on crop yields",
+      "uuid": "10dacf4d-3058-43a2-9cc4-9752ff5f6859",
+      "score": 0.5594909238592356
+    }
+  ],
+  "(10123, 12774)": [
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through the combined processes of evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7501877920766277
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat in a substance or environment, affecting various climate-related processes",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6292163312634962
+    },
+    {
+      "name": "crop yield",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area, often used to assess the impact of climate change on agriculture",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.6015295951178834
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, crucial for crop growth and agriculture",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6095399038624759
+    },
+    {
+      "name": "Pakistan",
+      "label": "location",
+      "description": "A country in South Asia, known for its agricultural production and vulnerability to climate change",
+      "uuid": "60b17f24-cf23-4209-91c4-975a87a7acb0",
+      "score": 0.6508215313286198
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, known for its agricultural production and potential benefits from climate change",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.599813655174639
+    },
+    {
+      "name": "Ghana",
+      "label": "location",
+      "description": "A country in West Africa, known for its agricultural production and potential benefits from climate change",
+      "uuid": "4169d7ae-fa7e-4264-888c-c15b14c574cb",
+      "score": 0.6621143053874797
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "A country in North America, known for its agricultural production and vulnerability to climate change",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5955093288266037
+    },
+    {
+      "name": "Brazil",
+      "label": "location",
+      "description": "A country in South America, known for its agricultural production and potential benefits from climate change",
+      "uuid": "2a65dfd1-83e7-4886-a732-316b170522a1",
+      "score": 0.6090613021964094
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in Oceania, known for its agricultural production and potential benefits from climate change",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.6186076988542712
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its agricultural production and potential benefits from climate change",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6104121381733816
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its agricultural production and vulnerability to climate change",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6377912546382534
+    },
+    {
+      "name": "Climate Change Impacts",
+      "label": "project",
+      "description": "A research initiative focused on studying the effects of climate change on various aspects of the environment and human societies",
+      "uuid": "b8c2ef9e-2683-4eca-b94a-0f6f4bbeb9db",
+      "score": 0.5787366957204421
+    },
+    {
+      "name": "Adaptation strategies for agronomic crops",
+      "label": "project",
+      "description": "A research initiative focused on developing strategies to help crops adapt to the impacts of climate change",
+      "uuid": "10dacf4d-3058-43a2-9cc4-9752ff5f6859",
+      "score": 0.5245048860758998
+    }
+  ],
+  "(12329, 15531)": [
+    {
+      "name": "Brazil",
+      "label": "location",
+      "description": "A country in South America, known for its diverse climate and agricultural production",
+      "uuid": "2a65dfd1-83e7-4886-a732-316b170522a1",
+      "score": 0.6539415650316865
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country in Oceania, known for its unique climate and agricultural practices",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6431202502480166
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its large population and significant agricultural production",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5821567682223415
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its diverse climate and agricultural practices",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6323536148264154
+    },
+    {
+      "name": "Pakistan",
+      "label": "location",
+      "description": "A country in South Asia, known for its agricultural production and vulnerability to climate change",
+      "uuid": "60b17f24-cf23-4209-91c4-975a87a7acb0",
+      "score": 0.6508215313286198
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872681524345835
+    },
+    {
+      "name": "climate change adaptation",
+      "label": "project",
+      "description": "Efforts to reduce the vulnerability of social and biological systems to the impacts of climate change",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.628092682413819
+    },
+    {
+      "name": "agriculture sector",
+      "label": "platform",
+      "description": "The industry involved in the production of crops, livestock, and other agricultural products",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.519814195741115
+    },
+    {
+      "name": "extreme weather conditions",
+      "label": "weather event",
+      "description": "Unusual and severe weather events, such as heatwaves, droughts, and floods",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6610534441949089
+    },
+    {
+      "name": "crop yield",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.573650651911523
+    },
+    {
+      "name": "high temperature",
+      "label": "weather event",
+      "description": "Unusually hot weather, which can damage crops and reduce yields",
+      "uuid": "bb9c9be6-78c7-4fbd-9a35-a218276393ec",
+      "score": 0.5263773958860958
+    },
+    {
+      "name": "adaptation strategies",
+      "label": "project",
+      "description": "Plans and actions taken to reduce the vulnerability of social and biological systems to the impacts of climate change",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5636400930368403
+    },
+    {
+      "name": "plant populations",
+      "label": "variable",
+      "description": "The number of plants per unit area, which can affect crop yields",
+      "uuid": "244a2eb6-bb6c-462c-978e-f9cfe96dffba",
+      "score": 0.5189202621460124
+    },
+    {
+      "name": "methane gas",
+      "label": "variable",
+      "description": "A potent greenhouse gas produced by agricultural activities, such as rice cultivation",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.6194470812947008
+    }
+  ],
+  "(15033, 17555)": [
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Essential substances required for plant growth and development, often managed through fertilizers in agricultural practices",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.6424501611055196
+    },
+    {
+      "name": "fertilizers",
+      "label": "instrument",
+      "description": "Substances applied to soil to promote plant growth and fertility, often containing nutrients such as nitrogen, phosphorus, and potassium",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.6830833476089393
+    },
+    {
+      "name": "weeds",
+      "label": "natural hazard",
+      "description": "Unwanted plants that compete with crops for water, nutrients, and light, potentially reducing crop yields",
+      "uuid": "b376a9f9-585e-4567-ba1f-55ef45cfa8df",
+      "score": 0.638235598440467
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent with diverse climates, cultures, and agricultural practices, expected to experience significant climate change impacts",
+      "uuid": "a8ee0d08-8772-4951-bbf0-4114dd07de03",
+      "score": 0.5924391391056132
+    },
+    {
+      "name": "Pakistan",
+      "label": "location",
+      "description": "A country in South Asia with a significant agricultural sector, expected to experience decreased wheat yields due to climate change",
+      "uuid": "60b17f24-cf23-4209-91c4-975a87a7acb0",
+      "score": 0.5879881851877734
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country with a large and diverse agricultural sector, expected to experience decreased sugarcane yields due to climate change",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.51257322531194
+    },
+    {
+      "name": "heat waves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally hot weather, potentially damaging crops and human health",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.7146082737008979
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, potentially damaging crops and water resources",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.678915977195192
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872681524345835
+    }
+  ]
+}

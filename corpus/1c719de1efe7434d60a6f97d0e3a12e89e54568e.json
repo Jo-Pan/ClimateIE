@@ -1,0 +1,639 @@
+{
+  "(0, 3433)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A phenomenon characterized by significant changes in global temperatures and weather patterns, posing risks to the environment, human health, and the economy",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5821315387942254
+    },
+    {
+      "name": "mitigation",
+      "label": "project",
+      "description": "Efforts to reduce or prevent the emission of greenhouse gases, thereby lessening the impact of climate change",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6538944863361738
+    },
+    {
+      "name": "adaptation",
+      "label": "project",
+      "description": "Actions taken to adjust to the actual or expected effects of climate change, aiming to minimize harm or exploit benefits",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6430536636968662
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming and climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6668729287859193
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases, such as carbon dioxide and methane, that contribute to the greenhouse effect and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5137952280658553
+    }
+  ],
+  "(2869, 5684)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, more extreme weather events, and altered ecosystems, posing significant threats to human societies and the environment>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872128389942912
+    },
+    {
+      "name": "study region",
+      "label": "location",
+      "description": "The geographic area where the research was conducted, characterized by relatively mild climate change effects>",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.5367151956157005
+    }
+  ],
+  "(5194, 8403)": [
+    {
+      "name": "Climate change",
+      "label": "project",
+      "description": "A global phenomenon characterized by the warming of the Earth's climate system, caused by human activities and natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5777897469403201
+    },
+    {
+      "name": "mitigation",
+      "label": "experiment",
+      "description": "The process of reducing or preventing the emission of greenhouse gases, in order to slow down global warming",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6189713995528129
+    },
+    {
+      "name": "adaptation",
+      "label": "experiment",
+      "description": "The process of adjusting to the impacts of climate change, in order to minimize harm and exploit benefits",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6379884761276976
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7414378320146839
+    },
+    {
+      "name": "evolutionary biology",
+      "label": "platform",
+      "description": "The scientific study of the processes that have led to the diversity of life on Earth",
+      "uuid": "9f0657f7-70d9-410f-a02e-8f36f569d1ec",
+      "score": 0.5073533760386458
+    },
+    {
+      "name": "flood damages",
+      "label": "natural hazard",
+      "description": "The harm caused by flooding, which can have significant impacts on individuals and communities",
+      "uuid": "fd03d204-4391-4e98-8142-8b8efa235231",
+      "score": 0.5386916835561065
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water, which can be affected by climate change",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.6807078863101265
+    }
+  ],
+  "(7813, 11175)": [
+    {
+      "name": "severe storms",
+      "label": "weather event",
+      "description": "A type of extreme meteorological occurrence characterized by strong winds, heavy rainfall, and potential for significant damage",
+      "uuid": "ad28623e-bb9b-433c-8fc1-2ab06dda58c4",
+      "score": 0.7139399655461589
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "A natural disaster caused by overflow of water that can lead to damage and loss of life",
+      "uuid": "fd03d204-4391-4e98-8142-8b8efa235231",
+      "score": 0.6760764544150311
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492758557127771
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water that can be affected by climate change",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.6719706817367744
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases into the atmosphere that contribute to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.6461694130234487
+    },
+    {
+      "name": "autonomous adaptation",
+      "label": "experiment",
+      "description": "A type of adaptation that occurs naturally in response to climate change, without external direction or control",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5117521853922252
+    },
+    {
+      "name": "planned adaptation",
+      "label": "experiment",
+      "description": "A type of adaptation that is deliberately planned and implemented in response to climate change",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5000416258661048
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon that refers to the long-term warming of the planet due to human activities",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5522395398252189
+    }
+  ],
+  "(10609, 13780)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, more frequent natural disasters, and altered ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5919463059464265
+    },
+    {
+      "name": "adaptation",
+      "label": "project",
+      "description": "A process or initiative aimed at adjusting to the impacts of climate change",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6163649238138691
+    },
+    {
+      "name": "global environment",
+      "label": "location",
+      "description": "The entire planet or a broad geographic region, encompassing various ecosystems and climates",
+      "uuid": "51e3593f-4b42-4141-972e-96666c479f9c",
+      "score": 0.5420799340123728
+    }
+  ],
+  "(13194, 16481)": [
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, known for its efforts in addressing climate change and promoting sustainable development",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6790779906694023
+    },
+    {
+      "name": "Zimbabwe",
+      "label": "location",
+      "description": "A country in Southern Africa, vulnerable to climate-related hazards such as droughts and floods",
+      "uuid": "ab8482e0-3abc-48ce-9216-a9932b0bb090",
+      "score": 0.5706637531079422
+    },
+    {
+      "name": "river flooding",
+      "label": "natural hazard",
+      "description": "A type of flood that occurs when a river overflows its banks, often caused by heavy rainfall or storm surges",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.5474726622458889
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on agriculture and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.716113242482771
+    },
+    {
+      "name": "heat waves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally hot weather, often leading to heat-related illnesses and mortality",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.7324435153451068
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science and impacts of climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.747068830799228
+    }
+  ],
+  "(16033, 19133)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7401987820677528
+    },
+    {
+      "name": "flood risks",
+      "label": "natural hazard",
+      "description": "The potential for flooding to cause harm to people, property, and the environment",
+      "uuid": "fd03d204-4391-4e98-8142-8b8efa235231",
+      "score": 0.5346791717952981
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, leading to rising temperatures, sea-level rise, and more frequent extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6032895311215514
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe, with a diverse climate and geography",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6669207811574973
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent with a varied climate, ranging from Arctic to Mediterranean conditions",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6489238668228697
+    }
+  ],
+  "(18579, 21770)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, more frequent extreme weather events, and other environmental changes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5783620699535035
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, with a diverse population and varying levels of awareness and understanding of climate change",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6256467112098647
+    }
+  ],
+  "(21282, 24363)": [
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A global phenomenon referring to the long-term warming of the planet, caused by human activities and natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5641130856609293
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, with a diverse population and a significant impact on global climate policies",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6499550248866531
+    },
+    {
+      "name": "OECD",
+      "label": "provider",
+      "description": "The Organisation for Economic Co-operation and Development, an international organization that promotes economic growth and development",
+      "uuid": "63dffc44-2557-41a5-80c0-9594fcd19dfc",
+      "score": 0.7157771108086336
+    }
+  ],
+  "(23823, 26957)": [
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A global effort to study, mitigate, and adapt to the impacts of climate change on the environment, human health, and the economy",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5464407402299909
+    },
+    {
+      "name": "global information",
+      "label": "variable",
+      "description": "Data and knowledge about climate change that is focused on the global scale, including its causes, effects, and mitigation strategies",
+      "uuid": "51e3593f-4b42-4141-972e-96666c479f9c",
+      "score": 0.5829002358290954
+    },
+    {
+      "name": "UK",
+      "label": "location",
+      "description": "The United Kingdom, a country with a diverse climate and significant climate change research initiatives",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6618137916919802
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country with a large population, significant greenhouse gas emissions, and growing climate change research initiatives",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5425094593983724
+    },
+    {
+      "name": "social scientists",
+      "label": "provider",
+      "description": "Researchers who study human behavior, social structures, and relationships, including those related to climate change",
+      "uuid": "c8317644-4cb2-4e37-b536-c762f7e670ab",
+      "score": 0.5803832525401821
+    }
+  ],
+  "(26437, 29764)": [
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A global phenomenon referring to the long-term warming of the planet, causing various environmental, social, and economic impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.590290591351529
+    },
+    {
+      "name": "global population",
+      "label": "location",
+      "description": "The total number of people living on Earth, often considered in the context of global climate change and sustainability",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5766679083999641
+    },
+    {
+      "name": "environment",
+      "label": "location",
+      "description": "The natural world, including ecosystems, biodiversity, and natural resources, affected by human activities and climate change",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.5300091619887053
+    }
+  ],
+  "(29191, 32476)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance to policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7395965331828134
+    },
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A global effort to understand, mitigate, and adapt to changes in the Earth's climate system",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.552517612088266
+    },
+    {
+      "name": "adaptation",
+      "label": "experiment",
+      "description": "The process of adjusting to actual or expected climate change, to moderate harm or exploit beneficial opportunities",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6328951990260638
+    },
+    {
+      "name": "mitigation",
+      "label": "experiment",
+      "description": "The actions taken to reduce greenhouse gas emissions and slow the rate of climate change",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6603872174718444
+    },
+    {
+      "name": "climate change impacts",
+      "label": "natural hazard",
+      "description": "The potential consequences of climate change, including more frequent and severe weather events, sea-level rise, and changes in temperature and precipitation patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5765657358352612
+    }
+  ],
+  "(31981, 34847)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492758557127771
+    },
+    {
+      "name": "adaptation to climate change impacts",
+      "label": "project",
+      "description": "Efforts to adjust to the current or expected impacts of climate change, aiming to moderate or avoid harm",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5932840808669665
+    },
+    {
+      "name": "mitigation",
+      "label": "project",
+      "description": "Actions taken to reduce the severity of climate change by decreasing greenhouse gas emissions or enhancing carbon sinks",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6787644238245175
+    }
+  ],
+  "(34284, 37424)": [
+    {
+      "name": "adaptation measures",
+      "label": "variable",
+      "description": "Actions taken by individuals to prepare for and respond to climate change",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5438073647706356
+    }
+  ],
+  "(36949, 39958)": [
+    {
+      "name": "social norms",
+      "label": "variable",
+      "description": "The unwritten rules that govern human behavior, influencing people's motivation to adapt to environmental change",
+      "uuid": "c8317644-4cb2-4e37-b536-c762f7e670ab",
+      "score": 0.5064827148691406
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing weather patterns, and increased frequency of extreme events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5890410342736574
+    }
+  ],
+  "(39397, 42521)": [
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A research project focused on studying the impacts and effects of climate change on the environment and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6287193570045367
+    },
+    {
+      "name": "sea level",
+      "label": "variable",
+      "description": "A measure of the level of the ocean's surface, often used to study the impacts of climate change on coastal areas and ecosystems",
+      "uuid": "9ac7a1c5-4179-47bc-8589-ebaa90d6cbd1",
+      "score": 0.7265025166735839
+    },
+    {
+      "name": "temperature increase",
+      "label": "variable",
+      "description": "A measure of the change in temperature over time, often used to study the impacts of climate change on the environment and human societies",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.563792460031088
+    },
+    {
+      "name": "study region",
+      "label": "location",
+      "description": "A geographic area where the research study was conducted, used to analyze the local impacts of climate change",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.561006753824405
+    }
+  ],
+  "(41997, 45363)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492758557127771
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe, subject to various climate change impacts and studies",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.7116632292953639
+    },
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A global phenomenon of rising temperatures and associated environmental changes, studied and addressed through various projects and initiatives",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6573831067383331
+    },
+    {
+      "name": "adaptive behavior",
+      "label": "experiment",
+      "description": "Actions taken by individuals or communities in response to climate change, aiming to reduce its impacts",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5233293288223599
+    },
+    {
+      "name": "mitigation",
+      "label": "project",
+      "description": "Efforts to reduce greenhouse gas emissions and slow down global warming, often through international agreements and policies",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6275047657617415
+    },
+    {
+      "name": "environmental changes",
+      "label": "natural hazard",
+      "description": "Impacts of human activities on the natural environment, including climate change",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.615215248922165
+    }
+  ],
+  "(44814, 47953)": [
+    {
+      "name": "climate protection",
+      "label": "project",
+      "description": "Efforts to reduce the impact of human activities on the climate system, including mitigation and adaptation measures",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.539032152056187
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe, often considered in the context of climate change mitigation and adaptation due to its economic and political influence",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6974491421487964
+    },
+    {
+      "name": "adaptation measures",
+      "label": "experiment",
+      "description": "Actions taken to reduce the vulnerability of individuals, communities, or systems to the impacts of climate change",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5389355304471402
+    },
+    {
+      "name": "mitigation",
+      "label": "experiment",
+      "description": "Actions taken to reduce greenhouse gas emissions and slow the rate of global warming",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.629751845111291
+    }
+  ],
+  "(47448, 50851)": [
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over a period of time, often used to describe global warming and its effects on the environment",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5636415044551698
+    },
+    {
+      "name": "private mitigation",
+      "label": "experiment",
+      "description": "Actions taken by individuals or private entities to reduce their impact on the environment and mitigate the effects of climate change",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.5184338938291381
+    },
+    {
+      "name": "state",
+      "label": "provider",
+      "description": "A governmental entity responsible for ensuring the well-being and safety of its citizens, including providing information and regulating behaviors related to climate change",
+      "uuid": "0af44d5a-b81f-43b7-8c13-dfcef4cb8905",
+      "score": 0.5225420046933701
+    },
+    {
+      "name": "communities",
+      "label": "location",
+      "description": "Groups of people living in a specific geographic area, often sharing common characteristics and facing similar challenges related to climate change",
+      "uuid": "fee25cad-7ffe-4ee2-a6f2-8116b8a0a707",
+      "score": 0.5370117853323738
+    },
+    {
+      "name": "organizations",
+      "label": "provider",
+      "description": "Entities that work to address the impacts of climate change, including governments, businesses, and non-profit organizations",
+      "uuid": "756a90f8-4203-46f1-87e9-9e0d64bdee50",
+      "score": 0.6150355150681698
+    }
+  ],
+  "(50315, 53692)": [
+    {
+      "name": "climate change adaptation",
+      "label": "project",
+      "description": "Efforts to adjust to and mitigate the impacts of climate change, including measures to reduce vulnerability and increase resilience",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6412195661809623
+    },
+    {
+      "name": "climate impacts",
+      "label": "variable",
+      "description": "The effects of climate change on the environment, human health, and the economy",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.553218186340555
+    },
+    {
+      "name": "social norms",
+      "label": "variable",
+      "description": "The unwritten rules and expectations that govern human behavior in a given social context, which can influence an individual's willingness to adapt to climate change",
+      "uuid": "c8317644-4cb2-4e37-b536-c762f7e670ab",
+      "score": 0.5663031597689254
+    },
+    {
+      "name": "mitigation",
+      "label": "project",
+      "description": "Efforts to reduce greenhouse gas emissions and slow the rate of climate change",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6564026636855824
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe, which is vulnerable to the impacts of climate change",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.663024504086726
+    }
+  ],
+  "(53161, 53700)": [
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe, with a diverse geography and climate",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6587629591958725
+    }
+  ]
+}

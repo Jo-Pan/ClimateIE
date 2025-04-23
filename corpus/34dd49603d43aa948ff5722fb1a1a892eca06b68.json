@@ -1,0 +1,683 @@
+{
+  "(0, 3095)": [
+    {
+      "name": "Urban Heat Island (UHI)",
+      "label": "phenomenon",
+      "description": "A phenomenon where urban areas experience higher temperatures than their surroundings due to anthropogenic modifications and thermal changes",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7568415084641978
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on Earth, comprising many countries with diverse climates and urban environments",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6724642029984607
+    },
+    {
+      "name": "urbanization",
+      "label": "process",
+      "description": "The growth and development of cities, leading to changes in land use, population density, and climate",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5867241132123586
+    },
+    {
+      "name": "climate change",
+      "label": "phenomenon",
+      "description": "A global phenomenon characterized by rising temperatures, altered weather patterns, and increased frequency of extreme events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5972396551698522
+    },
+    {
+      "name": "urban boundary layer",
+      "label": "location",
+      "description": "The layer of atmosphere closest to the Earth's surface in urban areas, where human activities and built environments interact with the atmosphere",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.6157416889024
+    },
+    {
+      "name": "population density",
+      "label": "variable",
+      "description": "A measure of the number of people living in a given area, influencing urban climate, resource use, and environmental impacts",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.724126256427219
+    },
+    {
+      "name": "vegetation fractions",
+      "label": "variable",
+      "description": "The proportion of an area covered by vegetation, affecting urban microclimates, air quality, and ecosystem services",
+      "uuid": "08360b01-46ff-49a4-b6fd-01009a72144f",
+      "score": 0.6692007921221891
+    }
+  ],
+  "(2591, 5694)": [
+    {
+      "name": "UHI",
+      "label": "variable",
+      "description": "Urban Heat Island, a phenomenon where built-up areas absorb and retain heat, leading to higher temperatures than surrounding rural areas",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7595986203602457
+    },
+    {
+      "name": "surface skin temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, measured using remote sensing techniques",
+      "uuid": "40d6a3e7-89dd-4399-8fa5-bbc7a0917b4e",
+      "score": 0.7215633575343328
+    },
+    {
+      "name": "land cover data",
+      "label": "variable",
+      "description": "Information about the physical coverage of the Earth's surface, including vegetation, urban areas, and other features",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6475083904506562
+    },
+    {
+      "name": "remote sensing",
+      "label": "instrument",
+      "description": "The use of aerial or satellite-based sensors to collect data about the Earth's surface",
+      "uuid": "c38e16d1-61f9-4189-a3c9-33e2015db137",
+      "score": 0.5701823891634481
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Built-up areas with high population densities and infrastructure",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7487980453754008
+    },
+    {
+      "name": "rural areas",
+      "label": "location",
+      "description": "Areas with lower population densities and less infrastructure, often characterized by natural vegetation and landscapes",
+      "uuid": "d83b4271-048c-4763-9d5c-b5ec1b1788f4",
+      "score": 0.6997484791675768
+    },
+    {
+      "name": "vegetation cover",
+      "label": "variable",
+      "description": "The amount and type of plant life in a given area, which can affect the Urban Heat Island effect",
+      "uuid": "5bdb3251-4811-439c-b172-9bbcd98e84b3",
+      "score": 0.6236740209326491
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, which can be affected by the Urban Heat Island effect",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6272101151740896
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7158159626843743
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising many countries and cities",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.698850501619769
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population and diverse geography",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6353371400567965
+    }
+  ],
+  "(5164, 8289)": [
+    {
+      "name": "UHI",
+      "label": "variable",
+      "description": "The Urban Heat Island effect, a phenomenon where urban areas experience higher temperatures than their rural surroundings",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7227156428553454
+    },
+    {
+      "name": "land cover data",
+      "label": "variable",
+      "description": "Information about the physical characteristics of the Earth's surface, used to study urban areas and their thermal properties",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6204184801256912
+    },
+    {
+      "name": "urban land cover",
+      "label": "location",
+      "description": "The physical extent of urban areas, defined using land cover data",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.6061550076979568
+    },
+    {
+      "name": "remotely sensed surface skin temperature",
+      "label": "variable",
+      "description": "Temperature measurements obtained through remote sensing techniques, used to study urban heat islands",
+      "uuid": "40d6a3e7-89dd-4399-8fa5-bbc7a0917b4e",
+      "score": 0.6542200233642926
+    },
+    {
+      "name": "urban intrinsic factors",
+      "label": "variable",
+      "description": "Characteristics of urban areas that influence the Urban Heat Island effect, such as night light, urban area, and vegetation",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.556449360936648
+    },
+    {
+      "name": "urban area",
+      "label": "location",
+      "description": "The physical extent of urban areas, used to study the Urban Heat Island effect",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.5912325262807705
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The presence and characteristics of plants in urban areas, used as an indicator of urban heat island mitigation",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6165913465430176
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in urban areas, used as an indicator of urban activity and heat island intensity",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5561424996721979
+    },
+    {
+      "name": "urban structure",
+      "label": "variable",
+      "description": "The physical characteristics of urban areas, such as building density and layout, used to study the Urban Heat Island effect",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.5283938564265802
+    },
+    {
+      "name": "city size",
+      "label": "variable",
+      "description": "The physical extent of urban areas, used to study the relationship between city size and Urban Heat Island intensity",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.5160190329667521
+    },
+    {
+      "name": "sea-or lake-breeze circulation",
+      "label": "ocean circulation",
+      "description": "The movement of air and water in coastal areas, influenced by the presence of large bodies of water",
+      "uuid": "9cb8f1a4-5d2b-40d1-a7c3-c608bbe20a0b",
+      "score": 0.524193705872667
+    },
+    {
+      "name": "wind",
+      "label": "variable",
+      "description": "The movement of air in urban areas, used to study the Urban Heat Island effect",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.5255767622879353
+    }
+  ],
+  "(7771, 10505)": [
+    {
+      "name": "UHI",
+      "label": "variable",
+      "description": "Urban Heat Island, a phenomenon where urban areas experience higher temperatures than surrounding rural areas",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7378014459768707
+    },
+    {
+      "name": "land cover data",
+      "label": "variable",
+      "description": "Information about the physical coverage of the Earth's surface, including vegetation, water, and urban areas",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6483539573489774
+    },
+    {
+      "name": "remote sensing temperature data",
+      "label": "variable",
+      "description": "Data collected from satellites or other remote sensing platforms to measure temperature variations",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.5459785603196278
+    },
+    {
+      "name": "urban clusters",
+      "label": "location",
+      "description": "Groups of cities or urban areas that are spatially connected and share similar characteristics",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5219264889832059
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on the Earth's surface, comprising many countries and urban areas",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6395140798130431
+    }
+  ],
+  "(10058, 12677)": [
+    {
+      "name": "urban heat island intensity",
+      "label": "variable",
+      "description": "A measure of the difference in temperature between urban and rural areas, often used to study the impact of urbanization on climate",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.6920449570934444
+    },
+    {
+      "name": "urban cluster",
+      "label": "location",
+      "description": "A group of cities or urban areas, used to study the impact of urbanization on climate",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5278071388211323
+    },
+    {
+      "name": "surface skin temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the surface of the Earth, used to study the relationship between urban characteristics and climate phenomena",
+      "uuid": "40d6a3e7-89dd-4399-8fa5-bbc7a0917b4e",
+      "score": 0.71454527489588
+    },
+    {
+      "name": "vegetation abundance",
+      "label": "variable",
+      "description": "A measure of the amount of vegetation in a given area, used to study the relationship between urban characteristics and climate phenomena",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6218651250517224
+    }
+  ],
+  "(12215, 14727)": [
+    {
+      "name": "Urban Heat Island (UHI)",
+      "label": "weather event",
+      "description": "A meteorological phenomenon where built-up areas absorb and retain heat, leading to higher temperatures than surrounding rural areas",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7653732403631566
+    },
+    {
+      "name": "land surface temperature data",
+      "label": "variable",
+      "description": "Measurements of the temperature of the Earth's surface, often used in climate and environmental studies",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7456801831017719
+    }
+  ],
+  "(14391, 16840)": [
+    {
+      "name": "land surface temperature data",
+      "label": "variable",
+      "description": "A type of data that measures the temperature of the Earth's surface, often used in climate and environmental studies",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7136699093348369
+    },
+    {
+      "name": "cluster",
+      "label": "location",
+      "description": "A group of cities or urban areas, used as a unit of analysis in studying urban heat islands",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.5148950452874783
+    },
+    {
+      "name": "urban heat island",
+      "label": "weather event",
+      "description": "A phenomenon where urban areas experience higher temperatures than surrounding rural areas, due to various factors such as urbanization and land use",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.792903853370037
+    },
+    {
+      "name": "urban factors",
+      "label": "variable",
+      "description": "Characteristics of urban areas that influence the urban heat island effect, such as size, fractal dimension, and anisometry",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.6079822560045723
+    },
+    {
+      "name": "anisometry",
+      "label": "variable",
+      "description": "A measure of the directionality or asymmetry of a geometric shape or pattern, often used in urban planning and geography",
+      "uuid": "00c1d7b9-61d8-40ad-8c33-f27006832866",
+      "score": 0.5094807569034313
+    }
+  ],
+  "(16359, 19041)": [
+    {
+      "name": "UHI",
+      "label": "variable",
+      "description": "Urban Heat Island, a phenomenon where built-up areas absorb and retain heat, leading to higher temperatures than surrounding rural areas",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7595986203602457
+    },
+    {
+      "name": "urban factor",
+      "label": "variable",
+      "description": "Characteristics of urban areas that influence the Urban Heat Island effect, such as city size, fractality, and anisometry",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.6058073075773486
+    },
+    {
+      "name": "city size",
+      "label": "variable",
+      "description": "The physical extent or population of a city, which can impact the Urban Heat Island effect",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.5211534021706469
+    },
+    {
+      "name": "anisometry",
+      "label": "variable",
+      "description": "A measure of the directional dependence of urban patterns, which can impact the Urban Heat Island effect",
+      "uuid": "00c1d7b9-61d8-40ad-8c33-f27006832866",
+      "score": 0.5367791624720083
+    },
+    {
+      "name": "LST",
+      "label": "variable",
+      "description": "Land Surface Temperature, a measure of the temperature of the Earth's surface, often used to study the Urban Heat Island effect",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7070463653699407
+    },
+    {
+      "name": "daytime LST",
+      "label": "variable",
+      "description": "Land Surface Temperature measured during the day, which can be used to study the Urban Heat Island effect",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.5824377575484213
+    },
+    {
+      "name": "nighttime LST",
+      "label": "variable",
+      "description": "Land Surface Temperature measured at night, which can be used to study the Urban Heat Island effect",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.5666977305009899
+    },
+    {
+      "name": "regression equation",
+      "label": "model",
+      "description": "A mathematical model used to describe the relationships between variables, such as the Urban Heat Island effect and urban factors",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.510674214041618
+    }
+  ],
+  "(18495, 21396)": [
+    {
+      "name": "UHI",
+      "label": "variable",
+      "description": "The Urban Heat Island effect, a phenomenon where urban areas experience higher temperatures than their rural surroundings",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7227156428553454
+    },
+    {
+      "name": "LST",
+      "label": "variable",
+      "description": "Land Surface Temperature, a measure of the temperature of the Earth's surface",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7240012576269027
+    },
+    {
+      "name": "regression model",
+      "label": "model",
+      "description": "A statistical model used to predict the relationship between variables",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.5647350903819391
+    },
+    {
+      "name": "remote sensing",
+      "label": "instrument",
+      "description": "A method of collecting data about the Earth's surface using sensors on satellites or aircraft",
+      "uuid": "c38e16d1-61f9-4189-a3c9-33e2015db137",
+      "score": 0.5693112184223483
+    },
+    {
+      "name": "surface skin temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the Earth's surface, often used in climate studies",
+      "uuid": "40d6a3e7-89dd-4399-8fa5-bbc7a0917b4e",
+      "score": 0.7298891147326827
+    }
+  ],
+  "(20990, 23692)": [
+    {
+      "name": "UHI",
+      "label": "variable",
+      "description": "The Urban Heat Island effect, a phenomenon where urban areas experience higher temperatures than surrounding rural areas",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7239234833562437
+    },
+    {
+      "name": "urban configuration",
+      "label": "location",
+      "description": "The spatial arrangement of buildings, roads, and other urban features that can influence the Urban Heat Island effect",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.5004005095119207
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the Earth, influenced by factors such as urbanization and climate change",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6816091682155874
+    },
+    {
+      "name": "urban policy",
+      "label": "project",
+      "description": "Initiatives and strategies aimed at mitigating the Urban Heat Island effect and promoting sustainable urban development",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.5617939282450517
+    },
+    {
+      "name": "global warming",
+      "label": "natural hazard",
+      "description": "The long-term rise in global temperatures, primarily caused by human activities such as greenhouse gas emissions",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5260137298755276
+    },
+    {
+      "name": "urban planning",
+      "label": "project",
+      "description": "The process of designing and managing urban areas to promote sustainable development and mitigate the Urban Heat Island effect",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.5007463626268619
+    },
+    {
+      "name": "urban sprawl",
+      "label": "location",
+      "description": "The spreading out of urban areas into surrounding rural or natural areas, often leading to increased energy consumption and environmental degradation",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.6038235614777616
+    },
+    {
+      "name": "MATLAB",
+      "label": "instrument",
+      "description": "A programming language and software environment used for data analysis, visualization, and simulation",
+      "uuid": "10de1987-5896-42d6-be7c-506fd7ba1f21",
+      "score": 0.5745481527239036
+    }
+  ],
+  "(23281, 26324)": [
+    {
+      "name": "UHI",
+      "label": "variable",
+      "description": "Urban Heat Island, a phenomenon where built-up areas absorb and retain heat, leading to higher temperatures than surrounding rural areas",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7595986203602457
+    },
+    {
+      "name": "cities",
+      "label": "location",
+      "description": "Human settlements with a high population density, characterized by urban development and infrastructure",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5962443004699716
+    },
+    {
+      "name": "atmospheric convection",
+      "label": "variable",
+      "description": "The process by which heat is transferred through the movement of air, influencing local climate and weather patterns",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6524253440685297
+    },
+    {
+      "name": "urban climate",
+      "label": "variable",
+      "description": "The unique climate conditions found in urban areas, shaped by factors such as building density, vegetation, and human activities",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.5288115115062639
+    },
+    {
+      "name": "anthropogenic heat",
+      "label": "variable",
+      "description": "The heat generated by human activities, such as energy consumption, transportation, and industry",
+      "uuid": "84e982c4-e87e-4475-a5c3-4c9e84d12767",
+      "score": 0.5076245753419639
+    },
+    {
+      "name": "CO2 emissions",
+      "label": "variable",
+      "description": "The release of carbon dioxide into the atmosphere, primarily through fossil fuel combustion and human activities",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5615998716521658
+    },
+    {
+      "name": "surface skin temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, measured using satellite or ground-based instruments",
+      "uuid": "40d6a3e7-89dd-4399-8fa5-bbc7a0917b4e",
+      "score": 0.725281293752811
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air in a given location, measured using thermometers or other sensing devices",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6812722663492733
+    },
+    {
+      "name": "wind",
+      "label": "variable",
+      "description": "The movement of air in the atmosphere, influencing local climate, weather patterns, and urban microclimates",
+      "uuid": "a628333f-aea2-42cf-b930-c8c859ee0547",
+      "score": 0.5558953220517956
+    }
+  ],
+  "(25756, 28457)": [
+    {
+      "name": "surface skin temperature",
+      "label": "variable",
+      "description": "A measure of the temperature at the surface of the Earth, often used in climate and environmental studies",
+      "uuid": "40d6a3e7-89dd-4399-8fa5-bbc7a0917b4e",
+      "score": 0.7306347620107855
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air in a given region, an important factor in understanding weather and climate patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.646341029898346
+    },
+    {
+      "name": "UHI",
+      "label": "weather event",
+      "description": "Urban Heat Island, a phenomenon where built-up areas absorb and retain heat, leading to higher temperatures than surrounding rural areas",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7595986203602457
+    },
+    {
+      "name": "CORINE urban morphological zones",
+      "label": "dataset",
+      "description": "A dataset providing information on urban areas in Europe, used for delineating urban boundaries and studying urban form",
+      "uuid": "3ced2adf-ad4a-45ab-a043-4b02ccae0463",
+      "score": 0.5648025587030167
+    },
+    {
+      "name": "MODIS Aqua",
+      "label": "instrument",
+      "description": "The Moderate Resolution Imaging Spectroradiometer Aqua satellite, used for remote sensing of the Earth's surface and atmosphere",
+      "uuid": "2878f334-35dc-47a7-a3ae-8c5da1adccd3",
+      "score": 0.7087816760637101
+    },
+    {
+      "name": "CORINE Land Cover 2006",
+      "label": "dataset",
+      "description": "A dataset providing information on land cover types in Europe, used for generating urban morphological zones data",
+      "uuid": "3ced2adf-ad4a-45ab-a043-4b02ccae0463",
+      "score": 0.6350038497188841
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on Earth, comprising many countries and urban areas, with diverse climate and environmental conditions",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6614585778146845
+    },
+    {
+      "name": "UK",
+      "label": "location",
+      "description": "The United Kingdom, a country in Europe with urban areas, where CORINE urban morphological zones data are not available",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.5750533501142598
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country in Europe with urban areas, where CORINE urban morphological zones data are not available",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.6301266925687413
+    }
+  ],
+  "(28030, 30623)": [
+    {
+      "name": "LST",
+      "label": "variable",
+      "description": "Land Surface Temperature, a measure of the temperature of the Earth's surface",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7240012576269027
+    },
+    {
+      "name": "Urban Heat Island (UHI)",
+      "label": "phenomenon",
+      "description": "A phenomenon where built-up areas absorb and retain heat, leading to higher temperatures than surrounding rural areas",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7622978098313349
+    }
+  ],
+  "(30146, 32655)": [
+    {
+      "name": "CORINE land cover data",
+      "label": "dataset",
+      "description": "A dataset providing information on land cover and land use across Europe, created by the European Environment Agency (EEA)>",
+      "uuid": "3ced2adf-ad4a-45ab-a043-4b02ccae0463",
+      "score": 0.7301635576114287
+    },
+    {
+      "name": "NASA LP DAAC",
+      "label": "provider",
+      "description": "The Land Processes Distributed Active Archive Center, a part of NASA that provides data and services related to land processes and climate>",
+      "uuid": "5612b95e-cc41-4286-9946-e78506f70f59",
+      "score": 0.776573183364924
+    },
+    {
+      "name": "European Environment Agency (EEA)",
+      "label": "provider",
+      "description": "An agency of the European Union that provides independent and objective information on the environment>",
+      "uuid": "92ffb6aa-1680-4cf0-af41-10839ca9c316",
+      "score": 0.731889038045863
+    },
+    {
+      "name": "MODIS LST data",
+      "label": "dataset",
+      "description": "A dataset providing land surface temperature data from the Moderate Resolution Imaging Spectroradiometer (MODIS) instrument>",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.6218708549154377
+    },
+    {
+      "name": "RAMSES",
+      "label": "project",
+      "description": "A research project funded by the European Community's Seventh Framework Programme, focusing on climate change and urban areas>",
+      "uuid": "14bf90bf-f310-44eb-bf23-f0c0c8b983c9",
+      "score": 0.6082368394503525
+    }
+  ],
+  "(32458, 32655)": [
+    {
+      "name": "Springer Nature",
+      "label": "provider",
+      "description": "A leading academic publisher that publishes research in various fields, including science, technology, and medicine",
+      "uuid": "67aee06b-a1df-4d00-9945-c9229f1ad121",
+      "score": 0.5814778078366033
+    }
+  ]
+}

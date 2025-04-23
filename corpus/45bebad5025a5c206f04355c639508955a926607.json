@@ -1,0 +1,954 @@
+{
+  "(0, 3214)": [
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent that comprises the westernmost part of Eurasia, bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.702686656400305
+    },
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country located in southeastern Europe, known for its diverse landscape and climate",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.743237849798839
+    },
+    {
+      "name": "forests",
+      "label": "ecosystem",
+      "description": "A complex community of plants, animals, and microorganisms that interact with each other and their environment",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5472075311642906
+    },
+    {
+      "name": "carbon cycling",
+      "label": "variable",
+      "description": "The process by which forests absorb, store, and release carbon dioxide",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5079166066943328
+    },
+    {
+      "name": "species distribution models",
+      "label": "model",
+      "description": "A type of model that simulates the potential distribution of species and ecosystems",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.718767611589136
+    },
+    {
+      "name": "southern Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Greece, Spain, and Italy",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.7530455391870631
+    },
+    {
+      "name": "land surface area",
+      "label": "variable",
+      "description": "The total area of land in a particular region",
+      "uuid": "b6524711-f48a-429b-a651-526430984970",
+      "score": 0.5872207472689379
+    },
+    {
+      "name": "global change conditions",
+      "label": "variable",
+      "description": "The set of environmental changes that are occurring globally, such as climate change and habitat destruction",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.5353990162536549
+    }
+  ],
+  "(2655, 5677)": [
+    {
+      "name": "SDMs",
+      "label": "model",
+      "description": "Species Distribution Models, a type of model used to simulate the distribution of species across different environmental conditions",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.7290032359879159
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, resulting from natural or human-induced factors, and affecting ecosystems and species distributions",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5797256003646012
+    },
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, characterized by a diverse range of ecosystems and species distributions",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.6649204613646349
+    },
+    {
+      "name": "global warming",
+      "label": "weather event",
+      "description": "A long-term increase in the average temperature of the Earth's surface, resulting from human-induced factors, and affecting ecosystems and species distributions",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5775902278058433
+    }
+  ],
+  "(5302, 8116)": [
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, characterized by a diverse range of ecosystems and climates",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.699153294436396
+    },
+    {
+      "name": "EU-Forest database",
+      "label": "project",
+      "description": "A database of forest-related information for the European Union, providing data on forest species and ecosystems",
+      "uuid": "ae237a9b-53cd-4617-ba45-fa5e5e9c0ca4",
+      "score": 0.5308395644903132
+    },
+    {
+      "name": "SDMs",
+      "label": "model",
+      "description": "Species Distribution Models, used to predict the distribution of species based on environmental factors",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.7422072765109934
+    },
+    {
+      "name": "Maxent",
+      "label": "model",
+      "description": "A type of Species Distribution Model, used to predict the distribution of species based on environmental factors",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5099771808849975
+    },
+    {
+      "name": "general circulation models",
+      "label": "model",
+      "description": "Complex computer models used to simulate the Earth's climate system, often used to predict future climate change",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6905779803298467
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Environmental factors such as temperature, precipitation, and humidity that affect the distribution of species",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6085324694364457
+    }
+  ],
+  "(7699, 10052)": [
+    {
+      "name": "T max",
+      "label": "variable",
+      "description": "The maximum temperature, a factor influencing the habitat suitability of various species",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.5249472186146642
+    },
+    {
+      "name": "GDD5",
+      "label": "variable",
+      "description": "The growing degree days, a measure of the amount of heat available for plant growth",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.7411468937696786
+    },
+    {
+      "name": "GSL",
+      "label": "variable",
+      "description": "The growing season length, a factor influencing the habitat suitability of various species",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5600319398411341
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "The growing season temperature, a factor influencing the habitat suitability of various species",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.5039587921986229
+    },
+    {
+      "name": "sedimentary consolidated-clastic-sedimentary rocks",
+      "label": "location",
+      "description": "A type of geological formation, influencing the habitat suitability of various species",
+      "uuid": "8777e995-2acc-40cd-b81a-f0c7b69df23e",
+      "score": 0.5258651855984093
+    },
+    {
+      "name": "igneous and metamorphic rocks",
+      "label": "location",
+      "description": "A type of geological formation, influencing the habitat suitability of various species",
+      "uuid": "984d4966-070d-4f8c-85e7-83bb0fd804a8",
+      "score": 0.5347790892280326
+    },
+    {
+      "name": "Maxent models",
+      "label": "model",
+      "description": "A type of species distribution modeling, used to predict the habitat suitability of various species",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5396429099461283
+    }
+  ],
+  "(9659, 12156)": [
+    {
+      "name": "Maxent models",
+      "label": "model",
+      "description": "A type of machine learning model used to predict species distributions and habitat suitability",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5253359155108612
+    },
+    {
+      "name": "T max",
+      "label": "variable",
+      "description": "Mean daily maximum air temperature of the warmest month, an important factor in determining habitat suitability",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.5627807136242572
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Mean temperature of all growing season days, influencing the growth and survival of species",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.5739782256335947
+    },
+    {
+      "name": "GSL",
+      "label": "variable",
+      "description": "Length of the growing season, a critical factor in determining the suitability of habitats for various species",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5852077533949849
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "scenario",
+      "description": "A climate change scenario representing a low-emissions future, used to predict habitat suitability",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6186905904622474
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "scenario",
+      "description": "A climate change scenario representing a high-emissions future, used to predict habitat suitability",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.6871162070813716
+    },
+    {
+      "name": "daily maximum air temperature",
+      "label": "variable",
+      "description": "The highest air temperature reached during a day, an important factor in determining habitat suitability",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.5746833515521588
+    },
+    {
+      "name": "daily minimum air temperature",
+      "label": "variable",
+      "description": "The lowest air temperature reached during a day, influencing the growth and survival of species",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.5636297197665315
+    }
+  ],
+  "(11762, 13938)": [
+    {
+      "name": "SSP1-2.6",
+      "label": "scenario",
+      "description": "A climate change scenario representing a low-emissions future, with a radiative forcing of 2.6 W/m\u00b2 by 2100",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6900635829575896
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "scenario",
+      "description": "A climate change scenario representing a high-emissions future, with a radiative forcing of 8.5 W/m\u00b2 by 2100",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7540656283622823
+    },
+    {
+      "name": "T max",
+      "label": "variable",
+      "description": "Mean daily maximum air temperature of the warmest month, a climate variable used to study species habitat suitability",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.6261272429696255
+    },
+    {
+      "name": "T min",
+      "label": "variable",
+      "description": "Mean daily minimum air temperature of the coldest month, a climate variable used to study species habitat suitability",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.5972832448358726
+    },
+    {
+      "name": "P a",
+      "label": "variable",
+      "description": "Total annual precipitation, a climate variable used to study species habitat suitability",
+      "uuid": "aab15612-f050-4ec0-9bb1-f72eb5bf0e44",
+      "score": 0.5295129733451927
+    },
+    {
+      "name": "GDD5",
+      "label": "variable",
+      "description": "Heat sum of all days above 5\u00b0C accumulated over a year, a climate variable used to study species habitat suitability",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.6545234733812358
+    },
+    {
+      "name": "GSL",
+      "label": "variable",
+      "description": "Length of the growing season, a climate variable used to study species habitat suitability",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6196180876593518
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "Mean temperature of the growing season, a climate variable used to study species habitat suitability",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.5360188190602079
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A phenomenon with the potential to cause significant harm to life, property, and the environment, through changes in global climate patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5461642041868375
+    }
+  ],
+  "(13559, 15972)": [
+    {
+      "name": "daily maximum air temperature",
+      "label": "variable",
+      "description": "A measure of the highest air temperature recorded during a day, often used in climate and environmental studies",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6242940671758269
+    },
+    {
+      "name": "daily minimum air temperature",
+      "label": "variable",
+      "description": "A measure of the lowest air temperature recorded during a day, often used in climate and environmental studies",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.5913617477478096
+    },
+    {
+      "name": "total annual precipitation",
+      "label": "variable",
+      "description": "The total amount of precipitation recorded over a year, often used in climate and environmental studies",
+      "uuid": "9466020a-db25-40ba-a76f-4720800efc92",
+      "score": 0.5601762228933894
+    },
+    {
+      "name": "growing season length",
+      "label": "variable",
+      "description": "The duration of the growing season, often used in climate and environmental studies",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.7444593358381193
+    },
+    {
+      "name": "mean growing season temperature",
+      "label": "variable",
+      "description": "The average temperature recorded during the growing season, often used in climate and environmental studies",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.551770101327054
+    },
+    {
+      "name": "growing season precipitation",
+      "label": "variable",
+      "description": "The amount of precipitation recorded during the growing season, often used in climate and environmental studies",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5040680559059549
+    },
+    {
+      "name": "sedimentary rocks",
+      "label": "location",
+      "description": "A type of rock formed through the accumulation and consolidation of sediments, often used in geological and environmental studies",
+      "uuid": "85353d7b-05d8-4c32-a5b2-065f1f22f026",
+      "score": 0.7368914099137414
+    },
+    {
+      "name": "igneous rocks",
+      "label": "location",
+      "description": "A type of rock formed through the cooling and solidification of magma or lava, often used in geological and environmental studies",
+      "uuid": "e8d97ffd-2fd2-4989-88a7-9772fc9b7cd8",
+      "score": 0.7440684722862864
+    },
+    {
+      "name": "metamorphic rocks",
+      "label": "location",
+      "description": "A type of rock formed through the alteration of existing rocks under high pressure and temperature conditions, often used in geological and environmental studies",
+      "uuid": "d220bbb1-410e-4b77-9663-78cb68c6b134",
+      "score": 0.698222446491007
+    }
+  ],
+  "(15556, 18243)": [
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, characterized by a Mediterranean climate and diverse forest ecosystems",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.7055590087355305
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent with diverse climates and forest ecosystems, including Mediterranean and temperate regions",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6515182102030224
+    },
+    {
+      "name": "SDMs",
+      "label": "model",
+      "description": "Species Distribution Models, used to predict the distribution of species under different climate scenarios",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.7154225445661088
+    },
+    {
+      "name": "climate change",
+      "label": "phenomenon",
+      "description": "A global phenomenon characterized by rising temperatures and altered weather patterns, affecting forest ecosystems and tree species distributions",
+      "uuid": "d11df264-e70d-456c-9223-07f34e80b352",
+      "score": 0.5244292092097647
+    }
+  ],
+  "(17800, 20706)": [
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, known for its Mediterranean climate and diverse flora",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.7135597481708726
+    },
+    {
+      "name": "Italy",
+      "label": "location",
+      "description": "A country in southern Europe, known for its Mediterranean climate and diverse flora",
+      "uuid": "ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4",
+      "score": 0.714736052174209
+    },
+    {
+      "name": "Turkey",
+      "label": "location",
+      "description": "A country in western Asia and southeastern Europe, known for its diverse climate and flora",
+      "uuid": "26aad1c3-3d0e-4e4d-b1fe-e20961bb6b90",
+      "score": 0.7023241975139114
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, known for its diverse climate and flora",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7092806256491032
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region in southern Europe, known for its Mediterranean climate and diverse flora",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6130642547181582
+    },
+    {
+      "name": "SDM",
+      "label": "model",
+      "description": "A species distribution model, used to simulate the potential distribution of species under different climate change scenarios",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.6732994285371927
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "scenario",
+      "description": "A climate change scenario, used to simulate the potential impacts of climate change on species distribution and ecosystem processes",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.6991201509994761
+    },
+    {
+      "name": "climate change",
+      "label": "phenomenon",
+      "description": "A global phenomenon, referring to the long-term warming of the planet, caused by human activities and natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5653114843190303
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6962784032634196
+    },
+    {
+      "name": "fire",
+      "label": "natural hazard",
+      "description": "An uncontrolled fire, potentially causing damage to ecosystems and human infrastructure",
+      "uuid": "868b87a1-d8c2-49b3-8bbd-9cbbed115271",
+      "score": 0.5833302280897553
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing ecosystem processes and species distribution",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6083618280385645
+    }
+  ],
+  "(20211, 23104)": [
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, characterized by a Mediterranean climate with warm summers and mild winters",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.7086644151297141
+    },
+    {
+      "name": "Mediterranean regions",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, known for its unique climate and biodiversity",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6259295452412122
+    },
+    {
+      "name": "process-based models",
+      "label": "model",
+      "description": "Computational models that simulate complex systems, such as ecosystems, using mathematical representations of underlying processes",
+      "uuid": "f66e185f-7e17-4b5c-bc4e-523ddfbbe9ca",
+      "score": 0.5147394609709907
+    },
+    {
+      "name": "primary productivity",
+      "label": "variable",
+      "description": "The rate at which an ecosystem produces new biomass, often used as an indicator of ecosystem health and function",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.649329433795033
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that plays a crucial role in the Earth's climate system, influencing temperature and precipitation patterns",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6347250533054134
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to describe climate and weather patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6614137285309991
+    },
+    {
+      "name": "fire frequency",
+      "label": "variable",
+      "description": "The rate at which fires occur in an ecosystem, often used to describe the risk of wildfires and their impact on vegetation",
+      "uuid": "e6f1ee58-fb71-42dd-b071-c1637da7e51f",
+      "score": 0.6180208113466246
+    },
+    {
+      "name": "SSP5-8.5 scenario",
+      "label": "experiment",
+      "description": "A climate change scenario that assumes high greenhouse gas emissions and significant warming, used to project future climate conditions",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.6947231096583586
+    },
+    {
+      "name": "SSP1-2.6 scenario",
+      "label": "experiment",
+      "description": "A climate change scenario that assumes low greenhouse gas emissions and moderate warming, used to project future climate conditions",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6294273595190555
+    }
+  ],
+  "(22678, 25437)": [
+    {
+      "name": "SSP1-2.6",
+      "label": "scenario",
+      "description": "A shared socioeconomic pathway scenario, representing a future with low greenhouse gas emissions and moderate climate change",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6547986383853291
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by a unique climate and biodiversity",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6392471913913031
+    },
+    {
+      "name": "drought conditions",
+      "label": "weather event",
+      "description": "A period of abnormally low rainfall, leading to water stress and potential harm to plants and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6570341274883161
+    },
+    {
+      "name": "vegetation dynamics models",
+      "label": "model",
+      "description": "Computational models used to simulate the growth and behavior of plant communities in response to environmental factors",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.5984682232235442
+    },
+    {
+      "name": "fire regimes",
+      "label": "natural hazard",
+      "description": "The pattern and frequency of wildfires in a given region, influencing ecosystem dynamics and plant species composition",
+      "uuid": "e6f1ee58-fb71-42dd-b071-c1637da7e51f",
+      "score": 0.588267477624194
+    }
+  ],
+  "(25016, 27985)": [
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, characterized by its diverse geography and climate",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.7205847432942856
+    },
+    {
+      "name": "drought",
+      "label": "weather event",
+      "description": "A period of abnormally low rainfall, leading to water scarcity and potential harm to plants and ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6847417531746046
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, driven by human activities and leading to rising temperatures, sea-level rise, and altered weather patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6061355609305383
+    },
+    {
+      "name": "dendroecological studies",
+      "label": "experiment",
+      "description": "The study of tree rings and forest ecology, used to reconstruct past environmental conditions and understand the impacts of climate change on forest ecosystems",
+      "uuid": "84510f18-a4e6-434c-a54c-44cc995e1af2",
+      "score": 0.5347188893491687
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, characterized by its diverse geography, climate, and ecosystems",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7324312414393078
+    }
+  ],
+  "(27430, 29855)": [
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, known for its diverse geography and climate>",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.7169889179068346
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A phenomenon characterized by significant changes in global temperature and weather patterns, posing a threat to ecosystems and human societies>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5845966932740184
+    }
+  ],
+  "(29405, 31881)": [
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country located in southeastern Europe, known for its diverse geography and climate",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.7514480903869317
+    },
+    {
+      "name": "Aegean Sea",
+      "label": "location",
+      "description": "A part of the Mediterranean Sea located between Greece and Turkey",
+      "uuid": "c6679f10-7580-469c-99e8-d6f1e54b5245",
+      "score": 0.5640180180783642
+    },
+    {
+      "name": "Ionian Sea",
+      "label": "location",
+      "description": "A part of the Mediterranean Sea located between Greece and Italy",
+      "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+      "score": 0.5364051722390648
+    }
+  ],
+  "(31495, 34186)": [
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, known for its diverse geography and climate",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.7155673071537829
+    },
+    {
+      "name": "EU-Forest dataset",
+      "label": "dataset",
+      "description": "A high-resolution tree occurrence dataset for Europe, containing species presence data at a 1 \u00d7 1 km grid",
+      "uuid": "ae237a9b-53cd-4617-ba45-fa5e5e9c0ca4",
+      "score": 0.5156398151780874
+    },
+    {
+      "name": "National Forest Inventory",
+      "label": "project",
+      "description": "A project aimed at collecting data on forest resources, including tree species occurrence and abundance",
+      "uuid": "3bb604a9-2e43-458d-be7c-7a0f3e31a838",
+      "score": 0.5049287482129806
+    },
+    {
+      "name": "climate change mitigation",
+      "label": "project",
+      "description": "Efforts to reduce the impact of climate change, including the conversion of forests into high forests for increased lumber production",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.5804165911341395
+    }
+  ],
+  "(33737, 36321)": [
+    {
+      "name": "National Forest Inventories",
+      "label": "provider",
+      "description": "Organizations responsible for conducting forest surveys and maintaining forest inventory data, often at a national level>",
+      "uuid": "bbdfc1d8-f44a-4898-8bc5-251c57b262d9",
+      "score": 0.5135118731630942
+    },
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, known for its diverse geography and climate, which influences the distribution of plant species>",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.6721543850108627
+    },
+    {
+      "name": "T max",
+      "label": "variable",
+      "description": "The mean daily maximum air temperature of the warmest month, a climate variable used in the study to represent temperature stress>",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.6309931696698541
+    },
+    {
+      "name": "T min",
+      "label": "variable",
+      "description": "The mean daily minimum air temperature of the coldest month, a climate variable used in the study to represent temperature stress>",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.6066616908621719
+    },
+    {
+      "name": "P a",
+      "label": "variable",
+      "description": "The annual precipitation, a climate variable used in the study to represent water availability and stress>",
+      "uuid": "aab15612-f050-4ec0-9bb1-f72eb5bf0e44",
+      "score": 0.5433889775802475
+    },
+    {
+      "name": "GDD5",
+      "label": "variable",
+      "description": "The heat sum of all days above 5 \u2022 C accumulated over a year, a climate variable used in the study to represent growing season length>",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.6612159209700712
+    },
+    {
+      "name": "GSL",
+      "label": "variable",
+      "description": "The length of the growing season, a climate variable used in the study to represent growing season length>",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6210217767548604
+    },
+    {
+      "name": "GST",
+      "label": "variable",
+      "description": "The mean temperature of all growing season days, a climate variable used in the study to represent growing season \"quality\">",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.5494696709510767
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions>",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8184491554861058
+    },
+    {
+      "name": "GFDL-ESM4",
+      "label": "model",
+      "description": "The Geophysical Fluid Dynamics Laboratory Earth System Model version 4, a climate model used for simulating future climate conditions>",
+      "uuid": "6f7a0a68-6387-4f49-84ea-9652139018f5",
+      "score": 0.8419736324898157
+    },
+    {
+      "name": "Geophysical Fluid Dynamics Laboratory",
+      "label": "provider",
+      "description": "A research institution focused on developing and applying climate models to understand and predict Earth's climate system>",
+      "uuid": "025f20d7-620f-437b-a02a-e2b5aa674507",
+      "score": 0.6509605028166712
+    }
+  ],
+  "(35959, 38825)": [
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8161199914942596
+    },
+    {
+      "name": "GFDL-ESM4",
+      "label": "model",
+      "description": "The Geophysical Fluid Dynamics Laboratory Earth System Model version 4, a computational representation of the Earth's climate system",
+      "uuid": "6f7a0a68-6387-4f49-84ea-9652139018f5",
+      "score": 0.8314328590935312
+    },
+    {
+      "name": "SSPs",
+      "label": "experiment",
+      "description": "Shared Socio-economic Pathways, a set of scenarios used to project future socio-economic and environmental changes",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.8197200539527637
+    },
+    {
+      "name": "European Soil Data Centre",
+      "label": "provider",
+      "description": "An organization that collects, manages, and distributes soil data for Europe",
+      "uuid": "5348e1b5-3f28-410c-849d-1ae94e5a676f",
+      "score": 0.6847168102845118
+    },
+    {
+      "name": "GFDL-ESM4 outputs",
+      "label": "variable",
+      "description": "The data produced by the GFDL-ESM4 model, including climate projections and simulations",
+      "uuid": "6f7a0a68-6387-4f49-84ea-9652139018f5",
+      "score": 0.704215969240984
+    },
+    {
+      "name": "atmospheric temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the atmosphere, an important factor in climate modeling",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.6940505293759712
+    },
+    {
+      "name": "species distribution modelling",
+      "label": "experiment",
+      "description": "A method used to predict the distribution of species based on environmental factors",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.7222306944971837
+    },
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, used as a study area for species distribution modeling",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.6560109378723574
+    }
+  ],
+  "(38330, 41324)": [
+    {
+      "name": "species distribution modelling",
+      "label": "project",
+      "description": "A research field that aims to predict the geographic distribution of species based on environmental variables and other factors",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.7359580516702053
+    },
+    {
+      "name": "tree species",
+      "label": "variable",
+      "description": "A type of species that is being modeled and predicted in the context of species distribution modeling",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5282340853931571
+    },
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, which is being used as a study area for species distribution modeling",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.658695744013374
+    },
+    {
+      "name": "SSPs",
+      "label": "experiment",
+      "description": "Shared Socioeconomic Pathways, which are scenarios used to predict future climate conditions and their impacts on species distribution",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.7786591181057796
+    }
+  ],
+  "(40874, 43891)": [
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, characterized by a diverse range of ecosystems and climates",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.699153294436396
+    },
+    {
+      "name": "SSPs",
+      "label": "experiment",
+      "description": "Shared Socioeconomic Pathways, a set of scenarios used to model and predict future climate conditions",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.8099256077861753
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451712273350101
+    }
+  ],
+  "(43488, 46418)": [
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country located in southeastern Europe, with a diverse range of forests and ecosystems",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.6667060579559705
+    },
+    {
+      "name": "climate change scenarios",
+      "label": "experiment",
+      "description": "Simulations of potential future climate conditions, used to study the impacts of climate change",
+      "uuid": "6062293a-f372-4e65-9bab-27355f0ebc59",
+      "score": 0.5050894662674632
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A climate change scenario that represents a low-emissions future, with a global warming target of 2.6 degrees Celsius",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6491320783553941
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A climate change scenario that represents a high-emissions future, with a global warming target of 8.5 degrees Celsius",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7090983902133783
+    },
+    {
+      "name": "GeoTIFF files",
+      "label": "instrument",
+      "description": "A type of file format used to store geospatial data, such as maps and images",
+      "uuid": "668db73b-2a1c-4e92-8e0e-fda3131b4aac",
+      "score": 0.7581981019007853
+    },
+    {
+      "name": "climate mitigation policies",
+      "label": "project",
+      "description": "Policies and strategies aimed at reducing the impacts of climate change, such as reducing greenhouse gas emissions",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6220996881856021
+    }
+  ],
+  "(45912, 47794)": [
+    {
+      "name": "SSP5-8.5",
+      "label": "scenario",
+      "description": "A climate scenario that represents a high-emissions future, used to project potential climate changes and their impacts",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7201445278126548
+    },
+    {
+      "name": "GeoTIFF",
+      "label": "format",
+      "description": "A file format used for georeferenced raster data, often used to store and share spatial data such as maps and images",
+      "uuid": "668db73b-2a1c-4e92-8e0e-fda3131b4aac",
+      "score": 0.8063372127488772
+    },
+    {
+      "name": "conifers",
+      "label": "variable",
+      "description": "A type of tree species characterized by needle-like leaves, often used in studies of forest ecology and climate change",
+      "uuid": "b26769a1-f023-4ab1-bc21-78ef2a5fd185",
+      "score": 0.6994733735867156
+    },
+    {
+      "name": "Greece",
+      "label": "location",
+      "description": "A country in southeastern Europe, used as a study area for the research",
+      "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+      "score": 0.6334135700195084
+    }
+  ]
+}

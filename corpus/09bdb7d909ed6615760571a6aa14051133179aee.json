@@ -1,0 +1,1412 @@
+{
+  "(0, 3309)": [
+    {
+      "name": "atmospheric modeling community",
+      "label": "provider",
+      "description": "A group of researchers and scientists focused on developing and improving atmospheric models for weather and climate predictions",
+      "uuid": "063177a9-14cd-4750-9aa4-ad5d266bd7ad",
+      "score": 0.5292531058281369
+    },
+    {
+      "name": "machine learning",
+      "label": "model",
+      "description": "A type of artificial intelligence used for developing predictive models, including those for climate and weather forecasting",
+      "uuid": "fe4392b0-13a9-43ff-bacc-f44a65aed4fa",
+      "score": 0.6775000431927076
+    },
+    {
+      "name": "convective parameterization",
+      "label": "model",
+      "description": "A set of equations used to represent the effects of convection in atmospheric models, particularly for large-scale forecast and climate models",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.5081882565054996
+    },
+    {
+      "name": "radiative cooling",
+      "label": "process",
+      "description": "The process by which the atmosphere cools due to the emission of radiation, influencing atmospheric circulation and convection",
+      "uuid": "5bac3ef6-5e30-4f14-a5dc-8065c7fcba55",
+      "score": 0.7061214392291669
+    },
+    {
+      "name": "Madden-Julian oscillation",
+      "label": "teleconnection",
+      "description": "A tropical disturbance that propagates eastward along the equator, influencing global climate patterns and weather events",
+      "uuid": "25d4368e-3b66-40d5-bac1-2343b127fa32",
+      "score": 0.7248552593330329
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences such as heatwaves, floods, storms, and tropical cyclones",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6717854451503509
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "Intense, rotating storm systems that form over warm ocean waters, characterized by strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.742290098207165
+    },
+    {
+      "name": "mass flux",
+      "label": "variable",
+      "description": "The rate of flow of mass, often used to describe the vertical transport of air, heat, and moisture in the atmosphere",
+      "uuid": "1c6e0c43-eab4-49d2-b2de-3d24491f4146",
+      "score": 0.679816471765022
+    },
+    {
+      "name": "liquid and ice hydrometeors",
+      "label": "variable",
+      "description": "Particles of water or ice suspended in the air, including clouds, fog, and precipitation",
+      "uuid": "56f2cdbd-2a91-4267-97eb-1680e8582322",
+      "score": 0.6861297377093396
+    },
+    {
+      "name": "atmospheric moist convection",
+      "label": "process",
+      "description": "The process by which moist air rises, cools, and condenses, leading to the formation of clouds and precipitation",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.5461695903751955
+    }
+  ],
+  "(2750, 5870)": [
+    {
+      "name": "convective parameterization",
+      "label": "model",
+      "description": "A component of weather and climate models that represents the processes of convection in the atmosphere, including the formation of clouds and precipitation",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.54671075651346
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where weather and climate phenomena occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6137757207297246
+    },
+    {
+      "name": "climate simulations",
+      "label": "experiment",
+      "description": "Computer-based experiments designed to predict long-term climate patterns and understand the Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.52726702954145
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "Intense rotating storm systems that form over warm ocean waters in the tropics",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.7198328655677062
+    },
+    {
+      "name": "severe thunderstorms",
+      "label": "weather event",
+      "description": "Intense storms characterized by heavy rain, strong winds, and lightning",
+      "uuid": "ad28623e-bb9b-433c-8fc1-2ab06dda58c4",
+      "score": 0.6534972735229797
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles suspended in the air that can influence climate and weather patterns",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6975336759876064
+    },
+    {
+      "name": "hydrometeors",
+      "label": "variable",
+      "description": "Particles of water or ice that are suspended in the air, such as clouds, fog, or precipitation",
+      "uuid": "56f2cdbd-2a91-4267-97eb-1680e8582322",
+      "score": 0.7259485374850253
+    },
+    {
+      "name": "clouds",
+      "label": "variable",
+      "description": "Visible masses of water droplets or ice crystals suspended in the air, which can influence climate and weather patterns",
+      "uuid": "162e2243-3266-4999-b352-d8a1a9dc82ac",
+      "score": 0.6664050765062557
+    },
+    {
+      "name": "global climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, and biological processes to represent and predict the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6265558247673452
+    },
+    {
+      "name": "deep convective cloud systems",
+      "label": "variable",
+      "description": "Complex systems of clouds that form when warm air rises and cools, leading to the formation of precipitation",
+      "uuid": "879cccd4-d375-40f6-8bee-6f58efd2dd61",
+      "score": 0.69966712877846
+    },
+    {
+      "name": "mass flux",
+      "label": "variable",
+      "description": "The rate of transfer of mass, such as water or heat, through a given area",
+      "uuid": "7932ab90-9137-4496-a695-43943216f387",
+      "score": 0.656228609407874
+    },
+    {
+      "name": "mid-latitude continents",
+      "label": "location",
+      "description": "Regions of the Earth's surface located at mid-latitudes, characterized by a mix of oceanic and continental influences on climate",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.6140040093765119
+    },
+    {
+      "name": "eastern tropical oceans",
+      "label": "location",
+      "description": "Regions of the Earth's surface located in the tropics, characterized by warm ocean waters and high levels of precipitation",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.5627592423958043
+    }
+  ],
+  "(5293, 8608)": [
+    {
+      "name": "deep convective cloud systems",
+      "label": "weather event",
+      "description": "A type of cloud system associated with intense convection and heavy precipitation, playing a significant role in climate regulation",
+      "uuid": "879cccd4-d375-40f6-8bee-6f58efd2dd61",
+      "score": 0.7294478072679569
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from human activities and natural processes, with significant impacts on the environment and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5878945293397607
+    },
+    {
+      "name": "machine learning",
+      "label": "model",
+      "description": "A subset of artificial intelligence that involves training algorithms to learn from data and make predictions or decisions, with applications in climate modeling and parameterization development",
+      "uuid": "676bb4aa-1452-4527-aa05-83233ad5d01d",
+      "score": 0.6652643013984592
+    },
+    {
+      "name": "deep neural network",
+      "label": "model",
+      "description": "A type of machine learning algorithm that uses multiple layers of interconnected nodes to learn complex patterns in data, with potential applications in climate modeling and parameterization development",
+      "uuid": "543135bc-7749-49ca-89af-b108cac1afaa",
+      "score": 0.6386645043824358
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6574226942304473
+    },
+    {
+      "name": "weather models",
+      "label": "model",
+      "description": "Computer simulations that predict the behavior of the atmosphere over short timescales, typically up to a few days",
+      "uuid": "92471848-b940-4b31-9165-f106457a4616",
+      "score": 0.5419709492642318
+    },
+    {
+      "name": "large-scale models",
+      "label": "model",
+      "description": "Climate models that simulate the behavior of the atmosphere and oceans at relatively coarse resolution, typically on the order of hundreds of kilometers",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5464215603089025
+    },
+    {
+      "name": "convection",
+      "label": "variable",
+      "description": "The process by which heat and moisture are transferred within the atmosphere, playing a crucial role in shaping weather and climate patterns",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.7000790750399484
+    }
+  ],
+  "(8053, 11141)": [
+    {
+      "name": "convection",
+      "label": "process",
+      "description": "The process by which heat and moisture are transferred through the atmosphere, playing a crucial role in shaping weather and climate patterns",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6979417951412226
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6574226942304473
+    },
+    {
+      "name": "weather forecast models",
+      "label": "model",
+      "description": "Computational representations of atmospheric processes used to simulate and predict weather patterns",
+      "uuid": "92471848-b940-4b31-9165-f106457a4616",
+      "score": 0.6172726932221162
+    },
+    {
+      "name": "general circulation models (GCMs)",
+      "label": "model",
+      "description": "A type of climate model that simulates the large-scale circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7468006211792921
+    },
+    {
+      "name": "convective cloud ensembles",
+      "label": "phenomenon",
+      "description": "A collection of clouds that form due to convection, influencing weather and climate patterns",
+      "uuid": "9a802ef3-680d-4bc6-a42e-aa84d5eb9908",
+      "score": 0.5118909701183522
+    },
+    {
+      "name": "convection to large-scale interactions",
+      "label": "process",
+      "description": "The interaction between convection and larger-scale atmospheric processes, such as circulation patterns",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.5138792845401468
+    },
+    {
+      "name": "boundary-layer convection",
+      "label": "process",
+      "description": "The process by which convection occurs in the boundary layer, the layer of the atmosphere closest to the Earth's surface",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.5780846592232889
+    },
+    {
+      "name": "cumulus clouds",
+      "label": "phenomenon",
+      "description": "A type of cloud that forms due to convection, characterized by a puffy, white appearance",
+      "uuid": "e1dff4d5-2e5b-46e7-9804-9de29fdb36d9",
+      "score": 0.6174244989645549
+    },
+    {
+      "name": "stratocumulus clouds",
+      "label": "phenomenon",
+      "description": "A type of cloud that forms due to convection, characterized by a layered, rolled appearance",
+      "uuid": "3375096a-7782-42e8-97d2-0febf63893e0",
+      "score": 0.6866955032987936
+    },
+    {
+      "name": "diurnal cycle",
+      "label": "process",
+      "description": "The daily cycle of temperature, humidity, and other atmospheric conditions that occur due to the rotation of the Earth",
+      "uuid": "99ef187e-6940-4c10-8d65-00d4426d493b",
+      "score": 0.6485880549878569
+    },
+    {
+      "name": "cumulonimbus clouds",
+      "label": "phenomenon",
+      "description": "A type of cloud that forms due to deep convection, characterized by a tall, towering appearance",
+      "uuid": "7c4d5f8f-4809-4859-b379-3b8c379bc83c",
+      "score": 0.6800876981750447
+    },
+    {
+      "name": "congestus clouds",
+      "label": "phenomenon",
+      "description": "A type of cloud that forms due to convection, characterized by a mid-level, puffy appearance",
+      "uuid": "3bafe2e0-c1a7-4bee-a02e-ac66964b4d7f",
+      "score": 0.6134594623176124
+    },
+    {
+      "name": "water vapor",
+      "label": "variable",
+      "description": "The amount of water present in the atmosphere as a gas",
+      "uuid": "15029eb0-6342-4066-8ac9-c50f7dbfb392",
+      "score": 0.6914858543554837
+    },
+    {
+      "name": "potential temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the atmosphere, taking into account the effects of altitude and pressure",
+      "uuid": "7a0bd777-be0d-43c8-80eb-5ac58f4832de",
+      "score": 0.7130636343253701
+    },
+    {
+      "name": "mass-flux parameterizations",
+      "label": "technique",
+      "description": "A method used to parameterize convection in climate models",
+      "uuid": "bc5a9e5e-4033-4510-8c1d-c74abfb0a2bf",
+      "score": 0.5524313490236302
+    },
+    {
+      "name": "deep convective regimes",
+      "label": "phenomenon",
+      "description": "A type of convection that occurs when warm, moist air rises rapidly, forming deep clouds and precipitation",
+      "uuid": "879cccd4-d375-40f6-8bee-6f58efd2dd61",
+      "score": 0.5608936639511556
+    }
+  ],
+  "(10659, 13821)": [
+    {
+      "name": "global climate model",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6089748049220368
+    },
+    {
+      "name": "atmospheric convection",
+      "label": "process",
+      "description": "The movement of air in the atmosphere, driven by heat and moisture, which plays a crucial role in shaping weather and climate patterns",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6838962694900754
+    },
+    {
+      "name": "deep convective regimes",
+      "label": "experiment",
+      "description": "A type of climate simulation or experiment that focuses on the study of deep convection in the atmosphere",
+      "uuid": "879cccd4-d375-40f6-8bee-6f58efd2dd61",
+      "score": 0.5209880879834631
+    },
+    {
+      "name": "mass-flux parameterizations",
+      "label": "model",
+      "description": "A method used in climate models to represent the transport of mass and energy in the atmosphere, particularly in the context of convection",
+      "uuid": "1c6e0c43-eab4-49d2-b2de-3d24491f4146",
+      "score": 0.5621426030975268
+    },
+    {
+      "name": "convective rain",
+      "label": "weather event",
+      "description": "A type of precipitation that occurs when convection in the atmosphere leads to the formation of clouds and rainfall",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.700323610330633
+    },
+    {
+      "name": "water vapor",
+      "label": "variable",
+      "description": "A measure of the amount of water present in the air, which plays a crucial role in the Earth's climate system",
+      "uuid": "15029eb0-6342-4066-8ac9-c50f7dbfb392",
+      "score": 0.6850716533324965
+    },
+    {
+      "name": "clouds",
+      "label": "variable",
+      "description": "Visible masses of water droplets or ice crystals suspended in the air, which influence the Earth's climate and weather patterns",
+      "uuid": "162e2243-3266-4999-b352-d8a1a9dc82ac",
+      "score": 0.679665792761645
+    },
+    {
+      "name": "numerous cloud types",
+      "label": "variable",
+      "description": "A variety of cloud classifications, including cumulus, stratus, and cirrus, which are important for understanding atmospheric processes and climate modeling",
+      "uuid": "29b61359-ebec-42c2-be05-2d7be2275954",
+      "score": 0.6676224201535034
+    },
+    {
+      "name": "free troposphere",
+      "label": "location",
+      "description": "The region of the atmosphere above the planetary boundary layer, where the air is relatively free from the influence of the Earth's surface",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.5291358922719367
+    },
+    {
+      "name": "Tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of atmospheric moisture",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7544533339419089
+    }
+  ],
+  "(13281, 16268)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.748741754223816
+    },
+    {
+      "name": "CAPE",
+      "label": "variable",
+      "description": "Convective Available Potential Energy, a measure of the energy available for convection in the atmosphere",
+      "uuid": "00748b19-30cc-4d12-a7a3-0aa8b3be5a94",
+      "score": 0.784199957986202
+    },
+    {
+      "name": "cloud types",
+      "label": "variable",
+      "description": "Different categories of clouds, such as congestus, deep, and stratiform, which play important roles in the Earth's climate system",
+      "uuid": "29b61359-ebec-42c2-be05-2d7be2275954",
+      "score": 0.665234096872639
+    }
+  ],
+  "(15755, 18875)": [
+    {
+      "name": "multicloud model",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system, specifically focusing on cloud formations and their interactions",
+      "uuid": "62019831-aaba-4d63-a5cd-73138ccfa5d0",
+      "score": 0.510276998599269
+    },
+    {
+      "name": "cloud properties",
+      "label": "variable",
+      "description": "Characteristics of clouds, such as their height, thickness, and water content, which influence Earth's energy balance and climate",
+      "uuid": "c9e429cb-eff0-4dd3-9eca-527e0081f65c",
+      "score": 0.7014138719588158
+    },
+    {
+      "name": "chemical species",
+      "label": "variable",
+      "description": "Atoms, molecules, or ions that are transported through the atmosphere, influencing air quality, climate, and ecosystems",
+      "uuid": "0611b9fd-fd92-4c4d-87bb-bc2f22c548bc",
+      "score": 0.5026764932311854
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles suspended in the air, which can influence cloud formation, climate, and air quality",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7065544642587333
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "Long-term changes in the Earth's climate, driven by natural and human-induced factors, which impact ecosystems, weather patterns, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5931289631679123
+    },
+    {
+      "name": "entrainment rates",
+      "label": "variable",
+      "description": "The rate at which air is drawn into a convective updraft, influencing cloud properties and atmospheric circulation",
+      "uuid": "e89704aa-91a0-4888-bb33-a9073eff7119",
+      "score": 0.5359495272812218
+    },
+    {
+      "name": "cumulus clouds",
+      "label": "variable",
+      "description": "Puffy, white clouds that form in fair weather, which can grow into towering cumulonimbus clouds that produce heavy precipitation and thunderstorms",
+      "uuid": "e1dff4d5-2e5b-46e7-9804-9de29fdb36d9",
+      "score": 0.5937092178925281
+    },
+    {
+      "name": "CRM",
+      "label": "model",
+      "description": "Cloud-Resolving Model, a type of numerical model used to simulate cloud processes and atmospheric circulation at high resolution",
+      "uuid": "57441436-5372-484e-983c-f96cbc51ef72",
+      "score": 0.5450005461140833
+    },
+    {
+      "name": "turbulence",
+      "label": "variable",
+      "description": "Chaotic and unpredictable motions of air that influence atmospheric circulation, cloud formation, and weather patterns",
+      "uuid": "226d05da-dd0b-4314-919a-0b259ce724b5",
+      "score": 0.6852927198725386
+    }
+  ],
+  "(18325, 21294)": [
+    {
+      "name": "convective mass-flux",
+      "label": "variable",
+      "description": "A measure of the amount of air rising in convective updrafts, influencing cloud formation and precipitation>",
+      "uuid": "bc5a9e5e-4033-4510-8c1d-c74abfb0a2bf",
+      "score": 0.6742814069165903
+    },
+    {
+      "name": "cloud-base mass-flux",
+      "label": "variable",
+      "description": "The amount of air rising at the base of clouds, affecting cloud properties and development>",
+      "uuid": "804fb334-1c74-4070-bd5f-848014a6e220",
+      "score": 0.619668982673494
+    },
+    {
+      "name": "cloud properties",
+      "label": "variable",
+      "description": "Characteristics of clouds such as their height, thickness, and water content, which impact weather and climate>",
+      "uuid": "c9e429cb-eff0-4dd3-9eca-527e0081f65c",
+      "score": 0.7184665584270603
+    },
+    {
+      "name": "CRM",
+      "label": "model",
+      "description": "Cloud Resolving Model, a type of numerical model that simulates cloud processes and interactions>",
+      "uuid": "57441436-5372-484e-983c-f96cbc51ef72",
+      "score": 0.5460135205957192
+    },
+    {
+      "name": "SCM",
+      "label": "model",
+      "description": "Single-Column Model, a simplified model used to study atmospheric processes and convection>",
+      "uuid": "1a2ed9ca-033c-4ac5-941f-5ed0dc524c4a",
+      "score": 0.5007695469111195
+    },
+    {
+      "name": "EDMF",
+      "label": "model",
+      "description": "Eddy-Diffusivity Mass-Flux model, a parameterization scheme used to represent convection in climate models>",
+      "uuid": "1943e9c5-ecb5-4429-93eb-0cbb1be00ea9",
+      "score": 0.5042371966556652
+    },
+    {
+      "name": "microphysics",
+      "label": "variable",
+      "description": "The study of the physical processes that occur within clouds, including the formation of precipitation and cloud droplets>",
+      "uuid": "0cfcbaa7-727b-4199-8cca-93824b427e9b",
+      "score": 0.7095504211004321
+    },
+    {
+      "name": "convective systems",
+      "label": "weather event",
+      "description": "Complex systems of clouds and precipitation that form through convection>",
+      "uuid": "ca7f5dbd-199e-4cc8-bc7b-550753ecbc93",
+      "score": 0.5933389878311954
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system>",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6635509780440793
+    }
+  ],
+  "(20821, 23750)": [
+    {
+      "name": "convection",
+      "label": "process",
+      "description": "The process by which heat is transferred through the movement of fluids, playing a crucial role in atmospheric and oceanic dynamics",
+      "uuid": "69d394f7-a792-4a17-8d7f-e60cd60dcda0",
+      "score": 0.701877235646368
+    },
+    {
+      "name": "cloud-base mass-flux",
+      "label": "variable",
+      "description": "A measure of the rate at which air rises into clouds, important for understanding cloud formation and precipitation processes",
+      "uuid": "804fb334-1c74-4070-bd5f-848014a6e220",
+      "score": 0.6493554249800078
+    },
+    {
+      "name": "CRM",
+      "label": "model",
+      "description": "Cloud-Resolving Models, a type of model that explicitly resolves cloud and precipitation processes",
+      "uuid": "57441436-5372-484e-983c-f96cbc51ef72",
+      "score": 0.5610112149067807
+    },
+    {
+      "name": "mesoscale",
+      "label": "scale",
+      "description": "A range of spatial scales, typically from a few to several hundred kilometers, important for understanding organized convection and other atmospheric phenomena",
+      "uuid": "fc95c990-47cb-4087-a08f-235dd1eb1260",
+      "score": 0.5103644399319747
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Models, a type of climate model that simulates the large-scale circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7828952066891616
+    }
+  ],
+  "(23291, 26239)": [
+    {
+      "name": "Convective Clouds",
+      "label": "weather event",
+      "description": "A type of cloud that forms when warm air rises and cools, leading to the formation of cumulus or thunderstorm clouds",
+      "uuid": "9a802ef3-680d-4bc6-a42e-aa84d5eb9908",
+      "score": 0.5474611160059519
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A General Circulation Model, a type of climate model used to simulate the behavior of the Earth's atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7610497602440732
+    },
+    {
+      "name": "mesoscale convective systems",
+      "label": "weather event",
+      "description": "A type of weather system that forms when multiple thunderstorms interact and organize into a larger system",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5573644102399605
+    },
+    {
+      "name": "wind shear",
+      "label": "variable",
+      "description": "A change in wind speed or direction with height, which can influence the formation and behavior of weather systems",
+      "uuid": "05cf5b56-0f86-4819-b713-1272b97b06c5",
+      "score": 0.7014759179452097
+    },
+    {
+      "name": "moist boundary layer",
+      "label": "variable",
+      "description": "A layer of the atmosphere that is close to the surface and is characterized by high levels of moisture, which can influence the formation and behavior of weather systems",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.6086448035865641
+    },
+    {
+      "name": "gravity waves",
+      "label": "weather event",
+      "description": "A type of wave that forms when there is a disturbance in the atmosphere, such as a thunderstorm, which can influence the formation and behavior of weather systems",
+      "uuid": "7e6f7c15-32e7-4b6e-bd35-7bff4bc03caf",
+      "score": 0.6349243331071676
+    },
+    {
+      "name": "stratiform rain region",
+      "label": "location",
+      "description": "A region of the atmosphere where stratiform clouds and precipitation are dominant",
+      "uuid": "1bd529b0-060e-4371-96dd-f364c7784496",
+      "score": 0.5181364427590917
+    },
+    {
+      "name": "microphysics schemes",
+      "label": "instrument",
+      "description": "A type of parameterization used in climate models to represent the behavior of clouds and precipitation",
+      "uuid": "0cfcbaa7-727b-4199-8cca-93824b427e9b",
+      "score": 0.5697230402441661
+    },
+    {
+      "name": "climate sensitivity",
+      "label": "variable",
+      "description": "A measure of how sensitive the climate is to changes in greenhouse gas emissions or other factors",
+      "uuid": "6fa682b9-c6b5-46ca-971f-b7ecd4bf304d",
+      "score": 0.5299161484585168
+    },
+    {
+      "name": "radiative heating",
+      "label": "variable",
+      "description": "The process by which the atmosphere is heated by radiation from the sun or other sources",
+      "uuid": "06a24fd2-38b6-4a4a-a0cf-1abf149283e2",
+      "score": 0.6417968541493485
+    },
+    {
+      "name": "diabatic heating",
+      "label": "variable",
+      "description": "The process by which the atmosphere is heated by the release of latent heat, such as through the formation of clouds or precipitation",
+      "uuid": "06a24fd2-38b6-4a4a-a0cf-1abf149283e2",
+      "score": 0.5592600720169446
+    },
+    {
+      "name": "NWP models",
+      "label": "model",
+      "description": "A type of climate model used for numerical weather prediction",
+      "uuid": "4cbc6cbe-50a2-4464-acd9-395379753d4e",
+      "score": 0.5012957214373261
+    }
+  ],
+  "(25660, 28752)": [
+    {
+      "name": "NWP models",
+      "label": "model",
+      "description": "Numerical Weather Prediction models, used for forecasting the weather and simulating atmospheric conditions",
+      "uuid": "4cbc6cbe-50a2-4464-acd9-395379753d4e",
+      "score": 0.5627841724730402
+    },
+    {
+      "name": "convective systems",
+      "label": "weather event",
+      "description": "Systems of clouds and precipitation that form when warm air rises and cools, leading to the release of heat and moisture",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.6110561411650598
+    },
+    {
+      "name": "microphysics schemes",
+      "label": "model",
+      "description": "Methods used in climate models to simulate the behavior of small-scale atmospheric particles, such as cloud droplets and ice crystals",
+      "uuid": "0cfcbaa7-727b-4199-8cca-93824b427e9b",
+      "score": 0.5974374099258268
+    },
+    {
+      "name": "convection schemes",
+      "label": "model",
+      "description": "Methods used in climate models to simulate the vertical movement of air and the formation of clouds and precipitation",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.5102609582123583
+    },
+    {
+      "name": "hydrometeors",
+      "label": "variable",
+      "description": "Atmospheric particles, such as cloud droplets, ice crystals, and precipitation, that play a crucial role in the Earth's climate system",
+      "uuid": "56f2cdbd-2a91-4267-97eb-1680e8582322",
+      "score": 0.7458066812038402
+    },
+    {
+      "name": "cloud liquid water",
+      "label": "variable",
+      "description": "The amount of liquid water present in clouds, which affects the Earth's energy balance and climate",
+      "uuid": "05ac9d3e-bc44-41fa-ace0-c41bf3ebee97",
+      "score": 0.6915406729952749
+    },
+    {
+      "name": "cloud ice",
+      "label": "variable",
+      "description": "The amount of ice present in clouds, which affects the Earth's energy balance and climate",
+      "uuid": "05ac9d3e-bc44-41fa-ace0-c41bf3ebee97",
+      "score": 0.5766534505266082
+    },
+    {
+      "name": "rain",
+      "label": "variable",
+      "description": "Precipitation in the form of liquid water droplets, which is an important component of the Earth's climate system",
+      "uuid": "09a57dc7-3911-4a65-9f12-b819652b8671",
+      "score": 0.6604605059595591
+    },
+    {
+      "name": "snow",
+      "label": "variable",
+      "description": "Precipitation in the form of ice crystals, which is an important component of the Earth's climate system",
+      "uuid": "09c21315-faba-446c-b060-136705972347",
+      "score": 0.6896650988312202
+    },
+    {
+      "name": "aerosol concentration",
+      "label": "variable",
+      "description": "The amount of aerosols, such as particles and pollutants, present in the atmosphere, which affects the Earth's climate",
+      "uuid": "59920ad4-85fb-4cee-ba56-f39bc5857a3d",
+      "score": 0.7663824365564748
+    },
+    {
+      "name": "convective cloud radiative effects",
+      "label": "variable",
+      "description": "The impact of convective clouds on the Earth's energy balance and climate, which is an important area of research in climate modeling",
+      "uuid": "345ab082-59ac-4649-9a2a-a3bef0d26a06",
+      "score": 0.5946931583343813
+    }
+  ],
+  "(28246, 31369)": [
+    {
+      "name": "aerosol effects",
+      "label": "variable",
+      "description": "The influence of aerosols on climate and weather patterns, including their impact on convective clouds and precipitation>",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5567114638716968
+    },
+    {
+      "name": "aerosol concentration",
+      "label": "variable",
+      "description": "The amount of aerosols present in the atmosphere, which can affect cloud formation and precipitation>",
+      "uuid": "59920ad4-85fb-4cee-ba56-f39bc5857a3d",
+      "score": 0.7343756178603164
+    },
+    {
+      "name": "mass-flux transport",
+      "label": "model",
+      "description": "A method used in climate models to represent the vertical transport of air and trace species in the atmosphere>",
+      "uuid": "822fd082-5098-4b2c-bf0d-87c2b298eea7",
+      "score": 0.5873091280142586
+    },
+    {
+      "name": "near-surface winds",
+      "label": "variable",
+      "description": "The speed and direction of winds near the Earth's surface, which can be affected by convective clouds and other atmospheric processes>",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.5996926858434307
+    },
+    {
+      "name": "parameterized cloud microphysics",
+      "label": "model",
+      "description": "A component of climate models that represents the physical processes governing cloud formation and behavior>",
+      "uuid": "0cfcbaa7-727b-4199-8cca-93824b427e9b",
+      "score": 0.5872432538222592
+    },
+    {
+      "name": "diurnal cycle",
+      "label": "variable",
+      "description": "The daily cycle of changes in atmospheric conditions, such as temperature and humidity, which can be influenced by convective clouds>",
+      "uuid": "99ef187e-6940-4c10-8d65-00d4426d493b",
+      "score": 0.6151539622785972
+    },
+    {
+      "name": "convective clouds",
+      "label": "weather event",
+      "description": "Clouds that form when warm air rises and cools, leading to precipitation and other weather phenomena>",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.5744874866870476
+    },
+    {
+      "name": "CMIP simulations",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project, a framework for comparing and evaluating climate models>",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.722157096832566
+    },
+    {
+      "name": "East Tropical Ocean",
+      "label": "location",
+      "description": "A region of the ocean located near the equator, where warm biases in climate models have been observed>",
+      "uuid": "01b96758-13f3-4cea-8447-decae36b1bde",
+      "score": 0.5071161317677623
+    },
+    {
+      "name": "desert areas",
+      "label": "location",
+      "description": "Regions of the Earth's surface characterized by low precipitation and high temperatures>",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.6075778243753246
+    }
+  ],
+  "(30881, 33815)": [
+    {
+      "name": "CMIP",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.8020025669427631
+    },
+    {
+      "name": "East Tropical Ocean",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, known for its significant role in global climate variability",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.5671401733792176
+    },
+    {
+      "name": "CMIP models",
+      "label": "model",
+      "description": "Computational representations of climate processes used to simulate and predict weather, climate, and environmental changes",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.6544562553425126
+    },
+    {
+      "name": "trace species",
+      "label": "variable",
+      "description": "Chemical compounds present in the atmosphere in small quantities, influencing climate and air quality",
+      "uuid": "4dd22dc9-1db4-4187-a2b7-f5b76d666055",
+      "score": 0.6794981580621374
+    },
+    {
+      "name": "deep convection",
+      "label": "process",
+      "description": "A type of atmospheric convection that occurs when warm air rises rapidly, forming clouds and heavy precipitation",
+      "uuid": "879cccd4-d375-40f6-8bee-6f58efd2dd61",
+      "score": 0.548445980056688
+    },
+    {
+      "name": "mass-flux transport",
+      "label": "process",
+      "description": "The movement of air masses and the associated transport of momentum, heat, and moisture in the atmosphere",
+      "uuid": "1c6e0c43-eab4-49d2-b2de-3d24491f4146",
+      "score": 0.5832811681677145
+    },
+    {
+      "name": "diurnal cycle",
+      "label": "variable",
+      "description": "The daily cycle of changes in atmospheric conditions, such as temperature, humidity, and wind patterns",
+      "uuid": "99ef187e-6940-4c10-8d65-00d4426d493b",
+      "score": 0.6344037290005591
+    },
+    {
+      "name": "near-surface winds",
+      "label": "variable",
+      "description": "Winds that occur near the Earth's surface, influencing weather and climate patterns",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.6145946575280509
+    },
+    {
+      "name": "desert areas",
+      "label": "location",
+      "description": "Regions of the Earth characterized by low precipitation and sparse vegetation",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.6231882351630068
+    },
+    {
+      "name": "Antarctic Plateau",
+      "label": "location",
+      "description": "A high-altitude region in Antarctica, known for its extreme climate conditions",
+      "uuid": "694e18ec-ceaf-4070-9763-f3ee6dbd6b5b",
+      "score": 0.5241794980354122
+    },
+    {
+      "name": "cloud radiative forcing",
+      "label": "variable",
+      "description": "The influence of clouds on the Earth's energy balance, affecting climate and weather patterns",
+      "uuid": "345ab082-59ac-4649-9a2a-a3bef0d26a06",
+      "score": 0.788347340031416
+    },
+    {
+      "name": "tropical rainfall",
+      "label": "variable",
+      "description": "Precipitation that occurs in tropical regions, influencing climate and weather patterns",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.5192632178219918
+    },
+    {
+      "name": "Atlantic Ocean",
+      "label": "location",
+      "description": "The second-largest ocean, separating the Americas from Europe and Africa",
+      "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+      "score": 0.698176698728476
+    },
+    {
+      "name": "Pacific Ocean",
+      "label": "location",
+      "description": "The largest ocean, separating the Americas from Asia and Australia",
+      "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+      "score": 0.7181015442722479
+    },
+    {
+      "name": "stratocumulus",
+      "label": "cloud type",
+      "description": "A type of low-level cloud that forms over the ocean, influencing climate and weather patterns",
+      "uuid": "3375096a-7782-42e8-97d2-0febf63893e0",
+      "score": 0.7203880241618336
+    },
+    {
+      "name": "LES models",
+      "label": "model",
+      "description": "Large Eddy Simulation models, used to study atmospheric and oceanic processes at high resolution",
+      "uuid": "33d649ad-e0ec-42b6-b00d-8816fcf5d1ca",
+      "score": 0.5224032634342566
+    },
+    {
+      "name": "MJO",
+      "label": "phenomenon",
+      "description": "The Madden-Julian Oscillation, a tropical disturbance that affects global climate patterns",
+      "uuid": "25d4368e-3b66-40d5-bac1-2343b127fa32",
+      "score": 0.7425400340061696
+    },
+    {
+      "name": "CAPE closure",
+      "label": "process",
+      "description": "A method used to parameterize convection in climate models, influencing the representation of precipitation and climate patterns",
+      "uuid": "8e6ac9fb-b2a0-4547-915d-15b4e0df7d4a",
+      "score": 0.5360899160346814
+    },
+    {
+      "name": "sea breeze",
+      "label": "phenomenon",
+      "description": "A local wind pattern that occurs when cool air from the ocean moves over land, influencing precipitation and climate patterns",
+      "uuid": "9cb8f1a4-5d2b-40d1-a7c3-c608bbe20a0b",
+      "score": 0.6768915120606238
+    }
+  ],
+  "(33291, 36299)": [
+    {
+      "name": "MJO",
+      "label": "teleconnection",
+      "description": "The Madden-Julian Oscillation, a pattern of climate variability that influences weather patterns across the globe, particularly in the tropics",
+      "uuid": "25d4368e-3b66-40d5-bac1-2343b127fa32",
+      "score": 0.7617715275844065
+    },
+    {
+      "name": "sea breeze",
+      "label": "weather event",
+      "description": "A local wind pattern that occurs when there is a significant temperature difference between the land and the sea, influencing coastal weather and climate",
+      "uuid": "9cb8f1a4-5d2b-40d1-a7c3-c608bbe20a0b",
+      "score": 0.6884199410560389
+    },
+    {
+      "name": "congestus phase",
+      "label": "experiment",
+      "description": "A stage in the development of convective clouds, important for understanding the representation of precipitation in climate models",
+      "uuid": "3bafe2e0-c1a7-4bee-a02e-ac66964b4d7f",
+      "score": 0.5410348759193236
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, a type of climate model used to simulate the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7679000674146444
+    },
+    {
+      "name": "Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, playing a key role in global ocean circulation and climate regulation",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.7839919429736487
+    },
+    {
+      "name": "in situ data",
+      "label": "variable",
+      "description": "Data collected directly from the environment, used to validate and improve climate models",
+      "uuid": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
+      "score": 0.5451105205714015
+    },
+    {
+      "name": "convective cells",
+      "label": "variable",
+      "description": "Discrete areas of convective activity, important for understanding the representation of precipitation in climate models",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.5266235856173748
+    },
+    {
+      "name": "mass fluxes",
+      "label": "variable",
+      "description": "The rate of transfer of mass, such as water vapor or heat, through the atmosphere, important for understanding convective processes",
+      "uuid": "1c6e0c43-eab4-49d2-b2de-3d24491f4146",
+      "score": 0.6449409247977205
+    },
+    {
+      "name": "spatiotemporal precipitation variations",
+      "label": "variable",
+      "description": "Changes in precipitation patterns over space and time, important for understanding climate variability and change",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.6092430244766529
+    },
+    {
+      "name": "ice water path",
+      "label": "variable",
+      "description": "The amount of ice water present in the atmosphere, important for understanding cloud and precipitation processes",
+      "uuid": "7ec9473a-0d08-4fb1-b2e8-b83d590d710c",
+      "score": 0.78866867856679
+    },
+    {
+      "name": "MCSs",
+      "label": "weather event",
+      "description": "Mesoscale Convective Systems, large clusters of thunderstorms that can produce heavy precipitation and influence regional climate patterns",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.555768464387294
+    },
+    {
+      "name": "extreme precipitation events",
+      "label": "weather event",
+      "description": "Unusually heavy or intense precipitation events, often causing significant impacts on society and the environment",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.7501237908706094
+    }
+  ],
+  "(35838, 38684)": [
+    {
+      "name": "Mesoscale convective systems",
+      "label": "weather event",
+      "description": "Complex systems of thunderstorms that can produce heavy rainfall, strong winds, and other severe weather phenomena",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.6003897784676354
+    },
+    {
+      "name": "Madden--Julian oscillation",
+      "label": "teleconnection",
+      "description": "A tropical disturbance that propagates eastward along the equator, influencing global climate patterns",
+      "uuid": "25d4368e-3b66-40d5-bac1-2343b127fa32",
+      "score": 0.7285803165383731
+    },
+    {
+      "name": "tropical cloudiness",
+      "label": "variable",
+      "description": "The amount and type of clouds present in the tropics, which play a crucial role in regulating Earth's energy balance",
+      "uuid": "fe2e0b6f-3d7d-489a-b093-86ed0d233385",
+      "score": 0.5080411030680555
+    },
+    {
+      "name": "cloud height feedback",
+      "label": "variable",
+      "description": "The process by which changes in cloud height influence the Earth's energy balance and climate",
+      "uuid": "57292a97-19be-4fae-b2f7-9fa0a3629b53",
+      "score": 0.5024865977294045
+    },
+    {
+      "name": "General Circulation Model (GCM)",
+      "label": "model",
+      "description": "A type of climate model that simulates the large-scale circulation of the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7309931029789684
+    },
+    {
+      "name": "extreme precipitation events",
+      "label": "weather event",
+      "description": "Heavy rainfall or snowfall events that can cause flooding, landslides, and other hazards",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.7237594945279463
+    },
+    {
+      "name": "longwave heating",
+      "label": "variable",
+      "description": "The process by which the atmosphere is heated by longwave radiation, influencing climate and weather patterns",
+      "uuid": "68323795-3614-462f-8259-bd5293620799",
+      "score": 0.5817425237276246
+    }
+  ],
+  "(38214, 41516)": [
+    {
+      "name": "MCS",
+      "label": "experiment",
+      "description": "Mesoscale convective systems, a type of atmospheric phenomenon characterized by clusters of thunderstorms that can produce heavy rainfall and strong winds",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5897615700371305
+    },
+    {
+      "name": "satellite-derived",
+      "label": "instrument",
+      "description": "Data collected from satellites in orbit around the Earth, used to observe and study various aspects of the atmosphere and climate",
+      "uuid": "fbec58d9-1ba5-4a40-ac79-0a78ab89f609",
+      "score": 0.583893998042446
+    },
+    {
+      "name": "heating profiles",
+      "label": "variable",
+      "description": "Measurements of the rate of temperature change with altitude in the atmosphere, crucial for understanding atmospheric circulation and climate",
+      "uuid": "321d9086-fc85-40a3-a2e0-d24bc6765345",
+      "score": 0.5626566709449303
+    },
+    {
+      "name": "convection",
+      "label": "variable",
+      "description": "The process by which heat is transferred through the movement of fluids, important for understanding atmospheric circulation and climate",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6597361279101303
+    },
+    {
+      "name": "microphysics",
+      "label": "variable",
+      "description": "The study of the physical processes that occur within clouds and precipitation, important for understanding weather and climate patterns",
+      "uuid": "0cfcbaa7-727b-4199-8cca-93824b427e9b",
+      "score": 0.7013530558992268
+    },
+    {
+      "name": "turbulence",
+      "label": "variable",
+      "description": "The chaotic and unpredictable movement of fluids in the atmosphere, important for understanding atmospheric circulation and climate",
+      "uuid": "226d05da-dd0b-4314-919a-0b259ce724b5",
+      "score": 0.6976161782602694
+    },
+    {
+      "name": "radiation",
+      "label": "variable",
+      "description": "The transfer of energy through electromagnetic waves, important for understanding atmospheric circulation and climate",
+      "uuid": "4ad0c52d-6449-48ff-8678-adc6b2cebcb7",
+      "score": 0.5993098580116836
+    },
+    {
+      "name": "cumulus clouds",
+      "label": "variable",
+      "description": "A type of cloud that can appear alone or in large clusters, important for understanding precipitation and climate patterns",
+      "uuid": "e1dff4d5-2e5b-46e7-9804-9de29fdb36d9",
+      "score": 0.615888581997682
+    },
+    {
+      "name": "shallow cumulus clouds",
+      "label": "variable",
+      "description": "A type of cloud that forms at low altitudes and is important for understanding atmospheric circulation and climate",
+      "uuid": "ef4de9ce-01ee-4bf0-8814-abefd1bad4b9",
+      "score": 0.5549565064912131
+    },
+    {
+      "name": "boundary-layer",
+      "label": "location",
+      "description": "The layer of the atmosphere closest to the Earth's surface, where the atmosphere interacts with the land or ocean",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.7528221579728864
+    },
+    {
+      "name": "grid cell",
+      "label": "variable",
+      "description": "A small area of the atmosphere represented in a climate model, used to calculate various atmospheric properties",
+      "uuid": "b9c7e7cf-0c68-4be6-9f20-4802f4e923f8",
+      "score": 0.5844640246899728
+    },
+    {
+      "name": "cloud types",
+      "label": "variable",
+      "description": "The different forms that clouds can take, important for understanding precipitation and climate patterns",
+      "uuid": "29b61359-ebec-42c2-be05-2d7be2275954",
+      "score": 0.6673852921574954
+    },
+    {
+      "name": "stochastic entrainment",
+      "label": "variable",
+      "description": "A process by which air is mixed into clouds, important for understanding cloud formation and precipitation",
+      "uuid": "cfa49843-2d36-4709-8969-b176432adf78",
+      "score": 0.5551668883852968
+    },
+    {
+      "name": "prognostic variables",
+      "label": "variable",
+      "description": "Quantities used in climate models to predict future atmospheric conditions, important for understanding atmospheric circulation and climate",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5100208441930023
+    },
+    {
+      "name": "West Africa",
+      "label": "location",
+      "description": "A region in western Africa, important for understanding climate patterns and precipitation in the tropics",
+      "uuid": "0bd7d518-6e4d-455e-95cd-2add85fc88fa",
+      "score": 0.5238127975336687
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "A body of water between Africa, Asia, and Australia, important for understanding global climate patterns and precipitation",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.6942174934992899
+    },
+    {
+      "name": "West-African monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings rainfall to western Africa, important for understanding precipitation and climate patterns in the region",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.5313799784614158
+    },
+    {
+      "name": "Madden Julian oscillation",
+      "label": "teleconnection",
+      "description": "A pattern of climate variability that affects the tropics and subtropics, important for understanding global climate patterns and precipitation",
+      "uuid": "25d4368e-3b66-40d5-bac1-2343b127fa32",
+      "score": 0.7337611313877214
+    }
+  ],
+  "(41010, 44254)": [
+    {
+      "name": "West Africa",
+      "label": "location",
+      "description": "A region in Africa located west of the continent, known for its diverse climate and geography",
+      "uuid": "0bd7d518-6e4d-455e-95cd-2add85fc88fa",
+      "score": 0.6551401868376148
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "The third-largest ocean, located between Africa, Asia, Australia, and the Southern Ocean, playing a significant role in global climate patterns",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.7656737579455636
+    },
+    {
+      "name": "West-African monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings rainfall to West Africa, influencing the region's climate and agriculture",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.5706483746528664
+    },
+    {
+      "name": "Madden Julian oscillation",
+      "label": "teleconnection",
+      "description": "A tropical disturbance that affects the climate and weather patterns in the Indian and Pacific Oceans",
+      "uuid": "25d4368e-3b66-40d5-bac1-2343b127fa32",
+      "score": 0.7316530662464547
+    },
+    {
+      "name": "convection",
+      "label": "variable",
+      "description": "The process by which heat is transferred through the movement of fluids, playing a crucial role in atmospheric and oceanic circulation",
+      "uuid": "69d394f7-a792-4a17-8d7f-e60cd60dcda0",
+      "score": 0.6979347854960688
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6658183508968357
+    },
+    {
+      "name": "CMIP",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.8020025669427631
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, computational representations of the Earth's climate system used to simulate and predict climate patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7333735947377433
+    },
+    {
+      "name": "cloud feedback",
+      "label": "variable",
+      "description": "The process by which clouds interact with the atmosphere and influence the Earth's climate",
+      "uuid": "fc77777e-614f-41f1-9b97-d5324fa99105",
+      "score": 0.5998261629096826
+    },
+    {
+      "name": "radiative cooling",
+      "label": "variable",
+      "description": "The process by which the Earth's atmosphere cools through the emission of radiation",
+      "uuid": "5bac3ef6-5e30-4f14-a5dc-8065c7fcba55",
+      "score": 0.7085859040933862
+    },
+    {
+      "name": "atmospheric latent heating",
+      "label": "variable",
+      "description": "The process by which the atmosphere heats up through the release of latent heat from condensing water vapor",
+      "uuid": "06a24fd2-38b6-4a4a-a0cf-1abf149283e2",
+      "score": 0.5734793301605035
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The change in the Earth's energy balance due to external factors such as greenhouse gases or volcanic eruptions",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7978744805066049
+    },
+    {
+      "name": "clouds' radiative effect",
+      "label": "variable",
+      "description": "The impact of clouds on the Earth's energy balance through the absorption and reflection of radiation",
+      "uuid": "345ab082-59ac-4649-9a2a-a3bef0d26a06",
+      "score": 0.6449167982927356
+    }
+  ],
+  "(43673, 46919)": [
+    {
+      "name": "CMIP",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.8020025669427631
+    },
+    {
+      "name": "CMIP6 \"DECK\"",
+      "label": "experiment",
+      "description": "A set of experiments within the CMIP6 project, designed to test specific hypotheses about the climate system",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.5999725313509747
+    },
+    {
+      "name": "fully integrated climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5752571002178453
+    },
+    {
+      "name": "atmosphere-only models",
+      "label": "model",
+      "description": "Computational representations of atmospheric processes used to simulate and predict weather, climate, and air quality",
+      "uuid": "063177a9-14cd-4750-9aa4-ad5d266bd7ad",
+      "score": 0.5470523554908931
+    },
+    {
+      "name": "coupled models",
+      "label": "model",
+      "description": "Climate models that simulate the interactions between the atmosphere, oceans, and land surfaces",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.7532263674246666
+    },
+    {
+      "name": "clouds",
+      "label": "variable",
+      "description": "A collection of water droplets or ice crystals suspended in the atmosphere, influencing Earth's climate and weather",
+      "uuid": "162e2243-3266-4999-b352-d8a1a9dc82ac",
+      "score": 0.7006314299687485
+    },
+    {
+      "name": "convection",
+      "label": "variable",
+      "description": "The process by which heat is transferred through the movement of fluids, playing a crucial role in shaping Earth's climate and weather patterns",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6817897577999678
+    },
+    {
+      "name": "MJO",
+      "label": "teleconnection",
+      "description": "The Madden-Julian Oscillation, a large-scale pattern of climate variability that affects global weather patterns",
+      "uuid": "25d4368e-3b66-40d5-bac1-2343b127fa32",
+      "score": 0.7541584438928203
+    }
+  ],
+  "(46369, 49115)": [
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6574226942304473
+    },
+    {
+      "name": "convection",
+      "label": "process",
+      "description": "The transfer of heat through the movement of fluids, an important process in the atmosphere that drives weather patterns and climate phenomena",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6801560117670249
+    },
+    {
+      "name": "equilibrium climate sensitivity",
+      "label": "variable",
+      "description": "A measure of how much the Earth's surface temperature will rise in response to a doubling of atmospheric carbon dioxide, an important metric for understanding climate change",
+      "uuid": "6fa682b9-c6b5-46ca-971f-b7ecd4bf304d",
+      "score": 0.5111410952501693
+    }
+  ]
+}

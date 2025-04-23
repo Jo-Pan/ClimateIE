@@ -1,0 +1,927 @@
+{
+  "(0, 2928)": [
+    {
+      "name": "MCSs",
+      "label": "weather event",
+      "description": "Mesoscale convective systems, prominent features occurring worldwide, characterized by strong winds, precipitation, flooding, hail, and lightning",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5416978222715975
+    },
+    {
+      "name": "Madden-Julian Oscillation",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across the tropics, influencing atmospheric convection and precipitation patterns",
+      "uuid": "25d4368e-3b66-40d5-bac1-2343b127fa32",
+      "score": 0.7585571262515801
+    },
+    {
+      "name": "geostationary observations",
+      "label": "instrument",
+      "description": "Satellite-based observations that provide continuous monitoring of the Earth's atmosphere and surface from a fixed position in space",
+      "uuid": "2c8530dc-b6cc-445f-87dc-36e76a1cb29c",
+      "score": 0.6584354172742694
+    },
+    {
+      "name": "diurnal variations",
+      "label": "variable",
+      "description": "Changes in atmospheric or meteorological phenomena that occur over the course of a day, often influenced by the rotation of the Earth",
+      "uuid": "99ef187e-6940-4c10-8d65-00d4426d493b",
+      "score": 0.5538761337720348
+    },
+    {
+      "name": "atmospheric convection",
+      "label": "ocean circulation",
+      "description": "The process by which heat and moisture are transferred vertically through the atmosphere, playing a critical role in shaping weather patterns and climate phenomena",
+      "uuid": "ebce0874-7635-4094-8ef4-968851873771",
+      "score": 0.6929591113213097
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "Rotating, organized systems of clouds and thunderstorms that form over warm ocean waters in the tropics, characterized by strong winds and heavy rainfall",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.718959249928424
+    },
+    {
+      "name": "western Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, known for its high levels of tropical cyclone activity and complex atmospheric circulation patterns",
+      "uuid": "922a749a-d663-495f-bd26-31e6cfb89c57",
+      "score": 0.6955971871087933
+    },
+    {
+      "name": "southwestern Pacific",
+      "label": "location",
+      "description": "A sub-region of the western Pacific, characterized by a unique combination of atmospheric and oceanic conditions that influence the formation and behavior of tropical cyclones",
+      "uuid": "fa0ec8a7-ebed-4f2d-834b-1fa6a1c2e0ed",
+      "score": 0.5336981947973353
+    }
+  ],
+  "(2425, 5175)": [
+    {
+      "name": "MCSs",
+      "label": "weather event",
+      "description": "Mesoscale convective systems, a type of severe weather event that can produce heavy precipitation, strong winds, and large hail",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5515118882288241
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of humidity",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7516894451086985
+    },
+    {
+      "name": "Earth-orbiting satellites",
+      "label": "instrument",
+      "description": "Satellites that orbit the Earth, used for remote sensing, weather forecasting, and climate monitoring",
+      "uuid": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
+      "score": 0.6288454619219936
+    },
+    {
+      "name": "geostationary observations",
+      "label": "instrument",
+      "description": "A type of satellite observation that remains stationary over a fixed point on the Earth's surface, providing continuous monitoring of weather patterns and climate phenomena",
+      "uuid": "2c8530dc-b6cc-445f-87dc-36e76a1cb29c",
+      "score": 0.6653423633240055
+    },
+    {
+      "name": "satellite data",
+      "label": "variable",
+      "description": "Data collected by satellites, used to study the Earth's climate, weather, and environment",
+      "uuid": "17b1489c-fba7-4252-bf23-b981148343f1",
+      "score": 0.585940617466041
+    },
+    {
+      "name": "convective clusters",
+      "label": "variable",
+      "description": "Groups of convective clouds that can develop into MCSs",
+      "uuid": "4074eb32-a3de-494f-a722-2deeaab76b33",
+      "score": 0.553059801034912
+    }
+  ],
+  "(4663, 7604)": [
+    {
+      "name": "MCSs",
+      "label": "convective system",
+      "description": "Mesoscale convective systems, which are large, organized collections of thunderstorms that can cause significant weather events",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5451563625441406
+    },
+    {
+      "name": "satellite observations",
+      "label": "instrument",
+      "description": "Data collected by satellites in orbit around the Earth, used for monitoring weather patterns and tracking convective systems",
+      "uuid": "fbec58d9-1ba5-4a40-ac79-0a78ab89f609",
+      "score": 0.5297462626294571
+    },
+    {
+      "name": "temporal resolution",
+      "label": "variable",
+      "description": "The frequency at which data is collected or sampled, with higher resolutions indicating more frequent sampling",
+      "uuid": "502ad03c-dba8-4b32-8af5-13fa947c3988",
+      "score": 0.6546872360796393
+    }
+  ],
+  "(7117, 9899)": [
+    {
+      "name": "MCSs",
+      "label": "weather event",
+      "description": "Mesoscale convective systems, which are large clusters of thunderstorms that can cause severe weather and heavy precipitation",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5464966506849764
+    },
+    {
+      "name": "Hennon et al.",
+      "label": "provider",
+      "description": "Authors who created a publicly available dataset for tropical cloud clusters",
+      "uuid": "4f30e949-c49b-4a25-bbe3-be6c2acfc57c",
+      "score": 0.5446597896279923
+    },
+    {
+      "name": "TCC",
+      "label": "project",
+      "description": "Tropical Cloud Cluster, a project focused on studying cloud clusters in tropical regions",
+      "uuid": "423253e2-37b0-4696-9bb4-10beb012ec00",
+      "score": 0.5331383949722529
+    },
+    {
+      "name": "ISCCP",
+      "label": "project",
+      "description": "The International Satellite Cloud Climatology Project, a project aimed at collecting and analyzing satellite data on clouds",
+      "uuid": "3442f95a-69d0-4b47-ad4f-dc8005e961a3",
+      "score": 0.7610230970078569
+    },
+    {
+      "name": "long-term global satellite infrared brightness temperature observations",
+      "label": "variable",
+      "description": "A type of satellite data used for studying climate and weather patterns",
+      "uuid": "8d28c44d-b17d-4e31-9834-dd98f39312cd",
+      "score": 0.5787179056723862
+    },
+    {
+      "name": "calibrated International Satellite Cloud Climatology Project",
+      "label": "project",
+      "description": "A project focused on collecting and analyzing satellite data on clouds, with a calibration process applied to the data",
+      "uuid": "3442f95a-69d0-4b47-ad4f-dc8005e961a3",
+      "score": 0.599839808930168
+    },
+    {
+      "name": "3-hourly satellite data",
+      "label": "variable",
+      "description": "A type of satellite data collected at 3-hour intervals, used for studying weather and climate patterns",
+      "uuid": "262312f9-664a-4c70-892f-abf9e63d96dc",
+      "score": 0.6009750017510239
+    },
+    {
+      "name": "global brightness temperatures",
+      "label": "variable",
+      "description": "A measure of the temperature of the Earth's surface or atmosphere, derived from satellite data",
+      "uuid": "8d28c44d-b17d-4e31-9834-dd98f39312cd",
+      "score": 0.7084904165820036
+    }
+  ],
+  "(9421, 12124)": [
+    {
+      "name": "MCS",
+      "label": "weather event",
+      "description": "Mesoscale convective systems, a type of severe weather event characterized by strong convection and large-scale organization",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5888959215531214
+    },
+    {
+      "name": "BT",
+      "label": "variable",
+      "description": "Brightness temperature, a measure of the thermal radiation emitted by an object or surface, used to detect and study weather phenomena",
+      "uuid": "8d28c44d-b17d-4e31-9834-dd98f39312cd",
+      "score": 0.7159002156201335
+    },
+    {
+      "name": "tropical atmosphere",
+      "label": "location",
+      "description": "The layer of the atmosphere that surrounds the Earth, extending from the surface up to about 10-15 km altitude, and is characterized by warm temperatures and high levels of humidity",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.5718053915108988
+    },
+    {
+      "name": "ocean basins",
+      "label": "location",
+      "description": "Large bodies of saltwater that cover a significant portion of the Earth's surface, and are characterized by unique oceanographic and climatic features",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.5661112533591026
+    },
+    {
+      "name": "satellite",
+      "label": "instrument",
+      "description": "A device that orbits the Earth, used to collect data and images of the planet's surface and atmosphere",
+      "uuid": "17b1489c-fba7-4252-bf23-b981148343f1",
+      "score": 0.5318158357519684
+    }
+  ],
+  "(11600, 14375)": [
+    {
+      "name": "MCS",
+      "label": "weather event",
+      "description": "A type of atmospheric phenomenon characterized by a complex of thunderstorms that form a large, organized system",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5633227644644195
+    },
+    {
+      "name": "satellite",
+      "label": "instrument",
+      "description": "A device used to collect data and images of the Earth's surface and atmosphere from space",
+      "uuid": "17b1489c-fba7-4252-bf23-b981148343f1",
+      "score": 0.5362051408523176
+    },
+    {
+      "name": "brightness temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of an object or surface as detected by a satellite or other remote sensing instrument",
+      "uuid": "8d28c44d-b17d-4e31-9834-dd98f39312cd",
+      "score": 0.7800731578649689
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A defined area or section of the Earth's surface",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.5703324826317647
+    }
+  ],
+  "(14118, 16834)": [
+    {
+      "name": "MCS",
+      "label": "weather event",
+      "description": "Mesoscale Convective System, a type of storm system that can produce heavy precipitation and severe weather",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.564081441840753
+    },
+    {
+      "name": "geographic information",
+      "label": "variable",
+      "description": "Data that describes the location and spatial characteristics of objects or events on the Earth's surface",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.5965263691893886
+    },
+    {
+      "name": "cold cloud shield",
+      "label": "location",
+      "description": "A region of cold cloud cover that can be associated with a Mesoscale Convective System",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5496756861813384
+    }
+  ],
+  "(16383, 18831)": [
+    {
+      "name": "western Africa",
+      "label": "location",
+      "description": "A region in Africa located west of the continent, bordering the Atlantic Ocean and characterized by diverse climate and geography",
+      "uuid": "0bd7d518-6e4d-455e-95cd-2add85fc88fa",
+      "score": 0.7590942030581792
+    },
+    {
+      "name": "MCS",
+      "label": "weather event",
+      "description": "A mesoscale convective system, a type of atmospheric phenomenon characterized by a complex of thunderstorms that can produce heavy precipitation and strong winds",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.6057441786551774
+    },
+    {
+      "name": "temporal resolution",
+      "label": "variable",
+      "description": "The frequency or time interval at which data is collected or observations are made, affecting the ability to track and analyze phenomena like MCSs",
+      "uuid": "502ad03c-dba8-4b32-8af5-13fa947c3988",
+      "score": 0.6661249954986858
+    }
+  ],
+  "(18484, 20956)": [
+    {
+      "name": "MCSs",
+      "label": "weather event",
+      "description": "Mesoscale Convective Systems, large clusters of thunderstorms that can cause significant weather events such as heavy rain, strong winds, and tornadoes",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5577120344055602
+    },
+    {
+      "name": "diurnal variations",
+      "label": "variable",
+      "description": "Changes in weather or climate patterns that occur over the course of a day, often influenced by solar radiation and atmospheric conditions",
+      "uuid": "99ef187e-6940-4c10-8d65-00d4426d493b",
+      "score": 0.5768102090715885
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and other bodies of water",
+      "uuid": "e85d6a2d-23c7-405a-b062-caf78f6ab827",
+      "score": 0.6634101542348351
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7438582625622143
+    }
+  ],
+  "(20516, 23073)": [
+    {
+      "name": "MCSs",
+      "label": "weather event",
+      "description": "Mesoscale convective systems, which are clusters of thunderstorms that can cause significant precipitation and weather events",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5353873173756623
+    },
+    {
+      "name": "CLAUS dataset",
+      "label": "project",
+      "description": "A dataset that provides cloud top brightness temperatures, used to study and track mesoscale convective systems",
+      "uuid": "969e7fcf-11e4-4ad0-b23a-35cf7c91692c",
+      "score": 0.5115437021788694
+    },
+    {
+      "name": "ocean regions",
+      "label": "location",
+      "description": "Marine areas on Earth, which can be affected by mesoscale convective systems",
+      "uuid": "2cd71964-fa71-4456-bc81-0f6dcbef3042",
+      "score": 0.5083334185592949
+    },
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "Rotating, organized systems of clouds and thunderstorms that form over warm ocean waters in the tropics",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.6927979500343213
+    },
+    {
+      "name": "diurnal variations",
+      "label": "variable",
+      "description": "Changes in atmospheric or meteorological conditions that occur over the course of a day, often influenced by the rotation of the Earth",
+      "uuid": "99ef187e-6940-4c10-8d65-00d4426d493b",
+      "score": 0.5539065035852169
+    }
+  ],
+  "(22647, 25397)": [
+    {
+      "name": "Tropical Rainfall Measuring Mission",
+      "label": "project",
+      "description": "A NASA and Japan Aerospace Exploration Agency satellite mission aimed at measuring precipitation in the tropics",
+      "uuid": "168a28d0-b862-4f23-944d-776b00b6feb2",
+      "score": 0.7019084813401746
+    },
+    {
+      "name": "Global Precipitation Climatology Project",
+      "label": "project",
+      "description": "An international research project that aims to provide a comprehensive dataset of global precipitation",
+      "uuid": "502ea6bd-45e9-45af-9092-a4cbe6ba2e7e",
+      "score": 0.7129972797890973
+    },
+    {
+      "name": "TRMM v7",
+      "label": "dataset",
+      "description": "The Tropical Rainfall Measuring Mission version 7 dataset, providing precipitation data with high spatial resolution",
+      "uuid": "c0d19469-fd24-40f9-a3b1-872c7117460f",
+      "score": 0.7305936006091759
+    },
+    {
+      "name": "GPCP v2.3",
+      "label": "dataset",
+      "description": "The Global Precipitation Climatology Project version 2.3 dataset, offering precipitation data with moderate spatial resolution",
+      "uuid": "502ea6bd-45e9-45af-9092-a4cbe6ba2e7e",
+      "score": 0.7800252125664527
+    },
+    {
+      "name": "3B43 monthly rainfall data",
+      "label": "dataset",
+      "description": "A subset of the TRMM dataset, providing monthly rainfall data with high spatial resolution",
+      "uuid": "288a037d-4a99-4fdc-8308-c85e8664ec64",
+      "score": 0.6533314904539116
+    },
+    {
+      "name": "precipitation rate",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation falling on a given area over a specific period",
+      "uuid": "ac50c468-df2f-429c-8394-9d63efcc6f9d",
+      "score": 0.7026517098165135
+    },
+    {
+      "name": "tropical Africa",
+      "label": "location",
+      "description": "A region in Africa located near the equator, characterized by high temperatures and high levels of precipitation",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5844849336988192
+    },
+    {
+      "name": "Amazonia",
+      "label": "location",
+      "description": "A region in South America, known for its dense rainforests and high levels of biodiversity",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.7326425104718599
+    },
+    {
+      "name": "tropical warm pool",
+      "label": "location",
+      "description": "A region of warm ocean water in the western Pacific, playing a key role in global climate patterns",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.7278856861301177
+    },
+    {
+      "name": "southern Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located in the southern hemisphere, characterized by cooler temperatures and lower levels of precipitation",
+      "uuid": "9ce6b6ba-8f9f-4585-9438-05619d768578",
+      "score": 0.6430932846233286
+    },
+    {
+      "name": "tropical southeastern Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, characterized by cooler temperatures and lower levels of precipitation",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.5268129114551884
+    }
+  ],
+  "(24862, 27543)": [
+    {
+      "name": "MCSs",
+      "label": "weather event",
+      "description": "Mesoscale convective systems, a type of atmospheric phenomenon characterized by organized convection and precipitation on a scale of tens to hundreds of kilometers",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.6116052216141342
+    },
+    {
+      "name": "tropical Africa",
+      "label": "location",
+      "description": "A region of Africa located near the equator, known for its high levels of convective activity and precipitation",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5442834258702426
+    },
+    {
+      "name": "Amazonia",
+      "label": "location",
+      "description": "A region in South America encompassing the Amazon rainforest, characterized by high levels of rainfall and convective activity",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.703294172622489
+    },
+    {
+      "name": "tropical warm pool",
+      "label": "location",
+      "description": "A region of warm ocean water in the western Pacific and Indian Oceans, characterized by high levels of convection and precipitation",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.6945803361875793
+    },
+    {
+      "name": "monsoon trough",
+      "label": "location",
+      "description": "A region of low pressure that forms over land and sea in the tropics during the monsoon season, leading to high levels of convection and precipitation",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.5092861053304757
+    },
+    {
+      "name": "southeastern Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located southeast of the equator, known for its relatively cool ocean temperatures and low levels of convection",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.5921409930537341
+    },
+    {
+      "name": "southern Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located south of the equator, known for its relatively cool ocean temperatures and low levels of convection",
+      "uuid": "9ce6b6ba-8f9f-4585-9438-05619d768578",
+      "score": 0.674565566717685
+    },
+    {
+      "name": "SSTs",
+      "label": "variable",
+      "description": "Sea surface temperatures, a measure of the temperature of the ocean's surface, influencing global climate patterns and convective activity",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.6429770089079601
+    },
+    {
+      "name": "mesoscale convective complexes (MCCs)",
+      "label": "weather event",
+      "description": "A type of organized convective system, characterized by a large, long-lived complex of thunderstorms",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.7580209459341809
+    },
+    {
+      "name": "deep convection weather states",
+      "label": "weather event",
+      "description": "A type of atmospheric phenomenon characterized by intense, vertical convection and precipitation",
+      "uuid": "879cccd4-d375-40f6-8bee-6f58efd2dd61",
+      "score": 0.5425311969300025
+    },
+    {
+      "name": "BTs",
+      "label": "variable",
+      "description": "Brightness temperatures, a measure of the temperature of the Earth's surface or atmosphere, used to characterize convective activity",
+      "uuid": "8d28c44d-b17d-4e31-9834-dd98f39312cd",
+      "score": 0.6383519552769547
+    },
+    {
+      "name": "central Africa",
+      "label": "location",
+      "description": "A region in Africa, known for its high levels of convective activity and precipitation",
+      "uuid": "f2ffbe58-8792-413b-805b-3e1c8de1c6ff",
+      "score": 0.6380421658223475
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its diverse climate and geography",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6566183717513415
+    },
+    {
+      "name": "South China Sea",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located south of China, known for its high levels of convection and precipitation",
+      "uuid": "89eb3337-707f-496d-9850-a6312ca42ecf",
+      "score": 0.7315232969923087
+    },
+    {
+      "name": "mid-America",
+      "label": "location",
+      "description": "A region in North America, known for its diverse climate and geography",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.5523388519967961
+    },
+    {
+      "name": "Bay of Bengal",
+      "label": "location",
+      "description": "A region of the Indian Ocean located between India and Southeast Asia, known for its high levels of convection and precipitation",
+      "uuid": "66dc90fd-304a-4379-a9e1-18cf184cc6da",
+      "score": 0.7066039522524582
+    },
+    {
+      "name": "Amazon basin",
+      "label": "location",
+      "description": "A region in South America, encompassing the Amazon rainforest, characterized by high levels of rainfall and convective activity",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.529788701926258
+    }
+  ],
+  "(27139, 29779)": [
+    {
+      "name": "MCSs",
+      "label": "weather event",
+      "description": "Mesoscale convective systems, which are large, organized collections of thunderstorms that can produce heavy precipitation and strong winds",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5404546879687679
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent on Earth, known for its diverse climate and geography",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.6153654747164158
+    },
+    {
+      "name": "America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, comprising North, Central, and South America",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.5878365603697663
+    },
+    {
+      "name": "Indian Ocean",
+      "label": "location",
+      "description": "The third-largest of the world's five oceans, located between Africa, Asia, Australia, and the Southern Ocean",
+      "uuid": "24872895-bbe6-4a7c-8661-70f3cc9f7781",
+      "score": 0.7175063134003643
+    },
+    {
+      "name": "western Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located west of the International Date Line, known for its high levels of atmospheric convection and tropical cyclone activity",
+      "uuid": "922a749a-d663-495f-bd26-31e6cfb89c57",
+      "score": 0.7345401479175482
+    },
+    {
+      "name": "central Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, characterized by high levels of atmospheric convection and El Ni\u00f1o-Southern Oscillation activity",
+      "uuid": "54340be8-8bd7-40be-a9d0-2e212bddd5d9",
+      "score": 0.6825747128465528
+    },
+    {
+      "name": "eastern Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located off the west coast of the Americas, known for its high levels of atmospheric convection and hurricane activity",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.7368215446808571
+    },
+    {
+      "name": "Atlantic",
+      "label": "location",
+      "description": "The second-largest of the world's five oceans, located between the Americas, Europe, and Africa",
+      "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+      "score": 0.7115224020358848
+    },
+    {
+      "name": "diurnal variation",
+      "label": "variable",
+      "description": "The daily cycle of changes in atmospheric or environmental conditions, such as temperature, humidity, or precipitation",
+      "uuid": "99ef187e-6940-4c10-8d65-00d4426d493b",
+      "score": 0.5951569970146725
+    },
+    {
+      "name": "brightness temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of an object or surface, as inferred from its thermal radiation",
+      "uuid": "8d28c44d-b17d-4e31-9834-dd98f39312cd",
+      "score": 0.7731489705565968
+    }
+  ],
+  "(29358, 32042)": [
+    {
+      "name": "MCSs",
+      "label": "weather event",
+      "description": "Mesoscale convective systems, complex weather phenomena characterized by clusters of thunderstorms that can cause significant precipitation and strong winds",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5998347421698208
+    },
+    {
+      "name": "ocean areas",
+      "label": "location",
+      "description": "Regions of the Earth's surface covered by oceans, where MCSs exhibit distinct characteristics compared to land areas",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.5626959183155473
+    },
+    {
+      "name": "land areas",
+      "label": "location",
+      "description": "Regions of the Earth's surface covered by land, where MCSs exhibit distinct characteristics compared to ocean areas",
+      "uuid": "e85d6a2d-23c7-405a-b062-caf78f6ab827",
+      "score": 0.5648677600943943
+    },
+    {
+      "name": "coastal areas",
+      "label": "location",
+      "description": "Regions where the land meets the sea, often experiencing unique weather patterns due to the interaction between land and ocean",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.6843063221262096
+    },
+    {
+      "name": "sea/land breezes",
+      "label": "ocean circulation",
+      "description": "Local wind patterns that occur when there is a significant temperature difference between the land and the sea, influencing local weather and climate",
+      "uuid": "9cb8f1a4-5d2b-40d1-a7c3-c608bbe20a0b",
+      "score": 0.6767855724141117
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent on Earth, characterized by diverse geography and climate, and home to various weather phenomena including MCSs",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.5801755771163046
+    },
+    {
+      "name": "America",
+      "label": "location",
+      "description": "A continent on Earth, comprising North, Central, and South America, and exhibiting a wide range of climates and weather patterns",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.5613146730528438
+    },
+    {
+      "name": "western Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the western edge of the ocean, known for its complex weather patterns and significant impact on global climate",
+      "uuid": "922a749a-d663-495f-bd26-31e6cfb89c57",
+      "score": 0.7747638720948475
+    },
+    {
+      "name": "equatorial waves",
+      "label": "teleconnection",
+      "description": "Atmospheric waves that occur near the equator, influencing global climate patterns and weather phenomena",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.5585382661947156
+    }
+  ],
+  "(31501, 34606)": [
+    {
+      "name": "MCSs",
+      "label": "weather event",
+      "description": "Mesoscale convective systems, which are clusters of thunderstorms that can produce heavy rainfall, strong winds, and other severe weather phenomena",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5469290080179419
+    },
+    {
+      "name": "western Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located to the west of the International Date Line, characterized by high levels of tropical cyclone activity and convective systems",
+      "uuid": "922a749a-d663-495f-bd26-31e6cfb89c57",
+      "score": 0.7258042690728664
+    },
+    {
+      "name": "diurnal variations",
+      "label": "variable",
+      "description": "The changes in atmospheric or meteorological phenomena that occur over the course of a day, often influenced by the sun's radiation and the Earth's rotation",
+      "uuid": "99ef187e-6940-4c10-8d65-00d4426d493b",
+      "score": 0.5606365609108912
+    },
+    {
+      "name": "equatorial waves",
+      "label": "ocean circulation",
+      "description": "A type of wave that forms in the equatorial region of the ocean, often associated with the movement of warm water and the formation of tropical cyclones",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.5072877597015716
+    },
+    {
+      "name": "warm moist boundary layer",
+      "label": "variable",
+      "description": "A layer of air near the surface of the Earth that is warm and humid, often playing a key role in the formation and sustenance of convective systems",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.5785709091742037
+    },
+    {
+      "name": "satellite data",
+      "label": "instrument",
+      "description": "Data collected by satellites in orbit around the Earth, often used to study the weather, climate, and environment",
+      "uuid": "17b1489c-fba7-4252-bf23-b981148343f1",
+      "score": 0.5624364381422675
+    },
+    {
+      "name": "tropical Africa",
+      "label": "location",
+      "description": "A region of Africa located near the equator, characterized by high levels of convective activity and tropical cyclone formation",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5379606030265321
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, characterized by diverse geography and climate, including the Amazon rainforest and the Andes mountains",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6796308374207004
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, characterized by a diverse geography and climate, including the Himalayan mountains and the Indian Ocean",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6880264198166378
+    }
+  ],
+  "(34115, 37056)": [
+    {
+      "name": "TRMM",
+      "label": "project",
+      "description": "The Tropical Rainfall Measuring Mission, a joint NASA and Japan Aerospace Exploration Agency satellite mission designed to measure tropical rainfall and improve climate models",
+      "uuid": "168a28d0-b862-4f23-944d-776b00b6feb2",
+      "score": 0.8050152717759703
+    },
+    {
+      "name": "GPCP",
+      "label": "project",
+      "description": "The Global Precipitation Climatology Project, an initiative to produce global precipitation datasets for climate research and applications",
+      "uuid": "502ea6bd-45e9-45af-9092-a4cbe6ba2e7e",
+      "score": 0.825726966634151
+    },
+    {
+      "name": "MCS",
+      "label": "experiment",
+      "description": "A research experiment focusing on mesoscale convective systems, which are complexes of thunderstorms that can produce heavy rainfall and other severe weather phenomena",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.5391096323136835
+    },
+    {
+      "name": "hydrological cycle",
+      "label": "variable",
+      "description": "The continuous process by which water is circulated between the Earth's oceans, atmosphere, and land, playing a crucial role in climate regulation",
+      "uuid": "885735f3-121e-4ca0-ac8b-f37dbc972f03",
+      "score": 0.5529222342735246
+    },
+    {
+      "name": "convective processes",
+      "label": "variable",
+      "description": "Processes involving the movement of heat and moisture in the atmosphere, often associated with the formation of clouds and precipitation",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.5868694104264772
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6657507897618521
+    },
+    {
+      "name": "MATLAB",
+      "label": "instrument",
+      "description": "A high-level programming language and software environment used for numerical computation, data analysis, and visualization",
+      "uuid": "10de1987-5896-42d6-be7c-506fd7ba1f21",
+      "score": 0.5746818692041888
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, an American agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6696568636059744
+    },
+    {
+      "name": "Japan Aerospace Exploration Agency",
+      "label": "provider",
+      "description": "The national aerospace agency of Japan, responsible for the country's space program and for promoting the development of space technology",
+      "uuid": "d4f3ca67-5553-4947-8599-e8aa189d4b3b",
+      "score": 0.599894694499106
+    },
+    {
+      "name": "Qingdao National Laboratory for Marine Science and Technology",
+      "label": "provider",
+      "description": "A research institution focused on marine science and technology, located in Qingdao, China",
+      "uuid": "9f015f06-4a91-4b4a-b838-3e866fb58b08",
+      "score": 0.5971867996343625
+    },
+    {
+      "name": "National Natural Science Foundation of China",
+      "label": "provider",
+      "description": "A non-profit organization that supports and funds scientific research in China",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.5081092333861473
+    }
+  ],
+  "(36612, 39318)": [
+    {
+      "name": "CLAUS",
+      "label": "project",
+      "description": "A project providing public data access for climate research, possibly related to cloud and land surface properties",
+      "uuid": "c7e34000-213b-4b0e-abc1-dd51215266a2",
+      "score": 0.5172561210746492
+    },
+    {
+      "name": "GPCP",
+      "label": "project",
+      "description": "The Global Precipitation Climatology Project, an initiative to study and document global precipitation patterns",
+      "uuid": "502ea6bd-45e9-45af-9092-a4cbe6ba2e7e",
+      "score": 0.7991544221268748
+    },
+    {
+      "name": "TRMM",
+      "label": "project",
+      "description": "The Tropical Rainfall Measuring Mission, a satellite-based project aimed at measuring and studying tropical rainfall and its impact on climate",
+      "uuid": "168a28d0-b862-4f23-944d-776b00b6feb2",
+      "score": 0.8036909386735689
+    },
+    {
+      "name": "Qingdao National Laboratory for Marine Science and Technology",
+      "label": "provider",
+      "description": "A research institution focused on marine science and technology, providing support for climate-related research",
+      "uuid": "9f015f06-4a91-4b4a-b838-3e866fb58b08",
+      "score": 0.5969257959921325
+    },
+    {
+      "name": "National Natural Science Foundation of China",
+      "label": "provider",
+      "description": "A funding agency supporting scientific research in China, including climate and environmental studies",
+      "uuid": "85536e75-507b-4c8e-93f0-9048ef53e8f6",
+      "score": 0.5406454222771575
+    },
+    {
+      "name": "Ministry of Science and Technology of China",
+      "label": "provider",
+      "description": "A government agency responsible for promoting and funding scientific research in China, including climate and environmental studies",
+      "uuid": "85536e75-507b-4c8e-93f0-9048ef53e8f6",
+      "score": 0.5727215239033178
+    },
+    {
+      "name": "China Meteorological Administration",
+      "label": "provider",
+      "description": "The national weather service of China, responsible for weather forecasting, climate monitoring, and related research",
+      "uuid": "ae4dd4b3-9603-4dee-9241-ec1ed2b905bf",
+      "score": 0.5194331526107027
+    },
+    {
+      "name": "MCS",
+      "label": "variable",
+      "description": "Mesoscale Convective Systems, a type of atmospheric phenomenon characterized by clusters of thunderstorms",
+      "uuid": "d13661da-d022-439a-bb27-dc2273f9dc88",
+      "score": 0.6060032504176229
+    },
+    {
+      "name": "MATLAB",
+      "label": "platform",
+      "description": "A high-level programming language and environment used for numerical computation, data analysis, and visualization",
+      "uuid": "10de1987-5896-42d6-be7c-506fd7ba1f21",
+      "score": 0.5799080371128382
+    }
+  ],
+  "(38695, 39491)": [
+    {
+      "name": "MAT-LAB",
+      "label": "platform",
+      "description": "A high-level programming language and environment used for numerical computation and data analysis",
+      "uuid": "10de1987-5896-42d6-be7c-506fd7ba1f21",
+      "score": 0.5943047655220862
+    },
+    {
+      "name": "satellite data",
+      "label": "variable",
+      "description": "Data collected by satellites, often used in climate and weather research",
+      "uuid": "17b1489c-fba7-4252-bf23-b981148343f1",
+      "score": 0.5918153862187209
+    }
+  ]
+}

@@ -1,0 +1,2079 @@
+{
+  "(0, 2781)": [
+    {
+      "name": "University of Victoria Earth System Climate Model (UVic ESCM)",
+      "label": "model",
+      "description": "An earth system model of intermediate complexity used to simulate the climate system and carbon cycle>",
+      "uuid": "f5b03277-666a-4fa0-ab1e-3734bcdc021f",
+      "score": 0.5010817139178461
+    },
+    {
+      "name": "atmospheric CO 2 concentrations",
+      "label": "variable",
+      "description": "The amount of carbon dioxide present in the Earth's atmosphere, a key driver of climate change>",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6169795512550651
+    },
+    {
+      "name": "land and ocean carbon uptake",
+      "label": "variable",
+      "description": "The process by which the land and ocean absorb and store carbon from the atmosphere>",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5676958237837304
+    },
+    {
+      "name": "climate-carbon cycle feedback",
+      "label": "variable",
+      "description": "The interaction between climate change and the carbon cycle, where changes in climate affect the ability of the land and ocean to absorb carbon>",
+      "uuid": "514c891b-60b8-4a6f-adb3-0366c75588e9",
+      "score": 0.5905166968982806
+    },
+    {
+      "name": "coupled climate-carbon cycle models",
+      "label": "model",
+      "description": "Computational models that simulate the interactions between the climate system and the carbon cycle>",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6768107995429461
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants and other organisms convert light energy into chemical energy, absorbing carbon dioxide from the atmosphere>",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.703032820135396
+    },
+    {
+      "name": "vegetation and soil carbon uptake",
+      "label": "variable",
+      "description": "The process by which plants and soils absorb and store carbon from the atmosphere>",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5470488593775721
+    },
+    {
+      "name": "ocean circulation",
+      "label": "ocean circulation",
+      "description": "The movement of water in the ocean, driven by wind, density differences, and the Coriolis effect, which plays a key role in the global carbon cycle>",
+      "uuid": "a031952d-9f00-4ba5-9966-5f87ab9dfdd4",
+      "score": 0.6892714302004028
+    },
+    {
+      "name": "terrestrial biosphere",
+      "label": "location",
+      "description": "The region of the Earth's surface and atmosphere where life exists, including all living organisms and their environments>",
+      "uuid": "91c64c46-d040-4daa-b26c-61952fdfaf50",
+      "score": 0.580287408086536
+    },
+    {
+      "name": "anthropogenic CO 2 ",
+      "label": "variable",
+      "description": "The amount of carbon dioxide released into the atmosphere through human activities, such as fossil fuel burning and land use changes>",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5515319438624622
+    }
+  ],
+  "(2371, 5222)": [
+    {
+      "name": "Coupled climate-carbon cycle models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system and carbon cycle>",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6886723363098933
+    },
+    {
+      "name": "biogeochemical seawater properties",
+      "label": "variable",
+      "description": "The chemical and biological characteristics of seawater, including factors such as pH, nutrient levels, and marine life, which influence the ocean's ability to absorb CO2>",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.5261190948276394
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required by living organisms to grow and thrive, including nutrients such as nitrogen and phosphorus that impact marine biota and terrestrial ecosystems>",
+      "uuid": "8dd7c9f0-51d0-4037-b1d0-a2517c1770ad",
+      "score": 0.7156381879614391
+    },
+    {
+      "name": "vegetation productivity",
+      "label": "variable",
+      "description": "The rate at which plants produce organic matter through photosynthesis, influenced by factors such as CO2 levels, temperature, and nutrient availability>",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5546170425618312
+    },
+    {
+      "name": "climate feedback",
+      "label": "variable",
+      "description": "A process where a change in the climate system triggers a response that either amplifies or dampens the initial change, such as the climate-carbon cycle feedback>",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.676813733149798
+    },
+    {
+      "name": "climate-carbon cycle feedback",
+      "label": "variable",
+      "description": "A process where climate change affects the carbon cycle, and the carbon cycle in turn influences the climate, creating a feedback loop>",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.5627677433471134
+    },
+    {
+      "name": "land biosphere",
+      "label": "location",
+      "description": "The region of the Earth's surface where plants and animals live, including forests, grasslands, and other terrestrial ecosystems>",
+      "uuid": "91c64c46-d040-4daa-b26c-61952fdfaf50",
+      "score": 0.5802352702394631
+    },
+    {
+      "name": "terrestrial ecosystems",
+      "label": "location",
+      "description": "Ecosystems that exist on land, including forests, grasslands, and other areas where plants and animals interact>",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.6914655589743659
+    },
+    {
+      "name": "vegetation dynamics",
+      "label": "variable",
+      "description": "The study of how vegetation changes over time in response to factors such as climate, CO2 levels, and land use>",
+      "uuid": "053b8d43-684c-43c4-977d-2b678575fe22",
+      "score": 0.5358824344394683
+    },
+    {
+      "name": "ocean circulation",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of water masses in Earth's oceans, driven by wind, density differences, and the Coriolis effect, which regulates Earth's climate>",
+      "uuid": "a031952d-9f00-4ba5-9966-5f87ab9dfdd4",
+      "score": 0.6913836930905747
+    },
+    {
+      "name": "atmospheric CO2 concentration",
+      "label": "variable",
+      "description": "The amount of carbon dioxide present in the Earth's atmosphere, which influences the climate and is impacted by human activities and natural processes>",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6265269787801888
+    },
+    {
+      "name": "ocean acidification",
+      "label": "variable",
+      "description": "The decrease in pH levels of the ocean over time, caused by the absorption of excess CO2 from the atmosphere, which affects marine biota and ecosystems>",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.7476068177492516
+    }
+  ],
+  "(4727, 7526)": [
+    {
+      "name": "UVic ESCM",
+      "label": "model",
+      "description": "The University of Victoria Earth System Climate Model, a coupled climate-carbon cycle model of intermediate complexity",
+      "uuid": "3b998f60-4138-4376-88b2-98937484f04f",
+      "score": 0.5273226336667391
+    },
+    {
+      "name": "coupled climate-carbon cycle model",
+      "label": "model",
+      "description": "A computational representation of the Earth's climate system that integrates the physical, chemical, and biological processes of the climate and carbon cycle",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.6583524524853509
+    },
+    {
+      "name": "land and ocean carbon uptake",
+      "label": "variable",
+      "description": "The process by which the land and ocean absorb and store carbon from the atmosphere",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5646127699211055
+    },
+    {
+      "name": "carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between the atmosphere, oceans, and terrestrial ecosystems",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.72822461088927
+    },
+    {
+      "name": "land carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between the atmosphere and terrestrial ecosystems",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.6327311214233629
+    },
+    {
+      "name": "climate feedback",
+      "label": "variable",
+      "description": "The response of the climate system to a change in the climate, such as a change in temperature or atmospheric CO2 concentration",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.662270860134842
+    },
+    {
+      "name": "climate-carbon cycle feedback",
+      "label": "variable",
+      "description": "The response of the climate system to a change in the carbon cycle, such as a change in land or ocean carbon uptake",
+      "uuid": "514c891b-60b8-4a6f-adb3-0366c75588e9",
+      "score": 0.5821277016877043
+    },
+    {
+      "name": "atmospheric CO2 concentration",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5919381376689492
+    },
+    {
+      "name": "atmospheric CO2 level",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6203277847336038
+    },
+    {
+      "name": "ocean circulation",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of water masses in the Earth's oceans, driven by wind, density differences, and the Coriolis effect",
+      "uuid": "a031952d-9f00-4ba5-9966-5f87ab9dfdd4",
+      "score": 0.6861912736970733
+    },
+    {
+      "name": "pycnocline",
+      "label": "location",
+      "description": "A layer in the ocean where the density of the water changes rapidly with depth",
+      "uuid": "2ad73f85-8bad-4e5a-a902-e83eee910b5e",
+      "score": 0.7327852419531253
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants convert light energy into chemical energy",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6735957076572024
+    },
+    {
+      "name": "dynamical feedbacks",
+      "label": "variable",
+      "description": "The interactions between the atmosphere, oceans, and land that affect the climate system",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6141520281623152
+    },
+    {
+      "name": "3D ocean general circulation model",
+      "label": "model",
+      "description": "A computational representation of the ocean's circulation and dynamics",
+      "uuid": "c61a56a3-c08f-4989-92f3-0f0787688424",
+      "score": 0.6443637231572055
+    },
+    {
+      "name": "dynamic-thermodynamic sea ice model",
+      "label": "model",
+      "description": "A computational representation of the sea ice's dynamics and thermodynamics",
+      "uuid": "defd2c00-64e3-4986-9061-feade19f972f",
+      "score": 0.5219458602973074
+    },
+    {
+      "name": "vegetation and soil carbon pools",
+      "label": "variable",
+      "description": "The storage of carbon in vegetation and soil",
+      "uuid": "a85012cc-766c-43d3-958e-5c72ebada9d3",
+      "score": 0.5812484063251973
+    },
+    {
+      "name": "vegetation model",
+      "label": "model",
+      "description": "A computational representation of the vegetation's dynamics and interactions with the climate system",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5675882717929687
+    }
+  ],
+  "(7086, 9748)": [
+    {
+      "name": "MOSES",
+      "label": "model",
+      "description": "A land surface model used to calculate land carbon fluxes and simulate the terrestrial carbon cycle",
+      "uuid": "8c1eb362-072d-4763-b6f3-6b706b257e6a",
+      "score": 0.5306758664826026
+    },
+    {
+      "name": "OCMIP",
+      "label": "project",
+      "description": "The Ocean Carbon Model Intercomparison Project, a framework for comparing ocean carbon cycle models",
+      "uuid": "72387526-4ad9-439d-b14c-47b91a4e7ba2",
+      "score": 0.6530663777765131
+    },
+    {
+      "name": "UVic ESCM",
+      "label": "model",
+      "description": "The University of Victoria Earth System Climate Model, a comprehensive climate model",
+      "uuid": "3b998f60-4138-4376-88b2-98937484f04f",
+      "score": 0.5453441778332384
+    },
+    {
+      "name": "land carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between the atmosphere and land ecosystems",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.6293482203482854
+    },
+    {
+      "name": "carbon fluxes",
+      "label": "variable",
+      "description": "The flow of carbon between different components of the Earth's system",
+      "uuid": "53fb0557-9f7f-4504-b0e8-adf329146c52",
+      "score": 0.704050839522425
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6735957076572024
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that live in the ocean and play a key role in the marine carbon cycle",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6849741525580969
+    },
+    {
+      "name": "zooplankton",
+      "label": "variable",
+      "description": "Microscopic animal-like organisms that live in the ocean and play a key role in the marine carbon cycle",
+      "uuid": "0399b52c-e3de-4dcc-9eb6-b1e3acf2cf1b",
+      "score": 0.6927423998547247
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required by living organisms to grow and thrive",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.6503090720809351
+    },
+    {
+      "name": "vegetation model",
+      "label": "model",
+      "description": "A model used to simulate the growth and behavior of vegetation",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.55716131512547
+    },
+    {
+      "name": "marine ecosystem biogeochemistry model",
+      "label": "model",
+      "description": "A model used to simulate the interactions between the ocean's ecosystem and biogeochemical cycles",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.5330699625739751
+    },
+    {
+      "name": "marine sediment component",
+      "label": "model",
+      "description": "A model used to simulate the processes that occur in marine sediments",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.5719068176933195
+    },
+    {
+      "name": "SRES",
+      "label": "project",
+      "description": "The Special Report on Emission Scenarios, a report that provides scenarios for future greenhouse gas emissions",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.7131168554929693
+    }
+  ],
+  "(9211, 12050)": [
+    {
+      "name": "CLOe",
+      "label": "experiment",
+      "description": "A fully coupled experiment where all components, climate, land biosphere, and ocean, respond to increasing atmospheric CO2",
+      "uuid": "42e251d6-3d1d-4287-94a7-7a0df11fac8e",
+      "score": 0.5000229521637759
+    },
+    {
+      "name": "LOe",
+      "label": "experiment",
+      "description": "A biogeochemically coupled experiment where the land biosphere and ocean respond to increasing atmospheric CO2",
+      "uuid": "42e251d6-3d1d-4287-94a7-7a0df11fac8e",
+      "score": 0.5063400715442503
+    },
+    {
+      "name": "Ce",
+      "label": "experiment",
+      "description": "A radiatively coupled experiment where only the climate module is affected by increasing CO2",
+      "uuid": "ce1d9c51-7bb3-4157-a935-451f98fc54cc",
+      "score": 0.5543981015850504
+    },
+    {
+      "name": "COe",
+      "label": "experiment",
+      "description": "An experiment where CO2 is fixed at preindustrial levels to the land or ocean",
+      "uuid": "42e251d6-3d1d-4287-94a7-7a0df11fac8e",
+      "score": 0.51815052557164
+    },
+    {
+      "name": "CLe",
+      "label": "experiment",
+      "description": "An experiment where CO2 is fixed at preindustrial levels to the land",
+      "uuid": "42e251d6-3d1d-4287-94a7-7a0df11fac8e",
+      "score": 0.5131233627105196
+    },
+    {
+      "name": "Le",
+      "label": "experiment",
+      "description": "An experiment where only the land responds to elevated CO2",
+      "uuid": "42e251d6-3d1d-4287-94a7-7a0df11fac8e",
+      "score": 0.5012377735266899
+    },
+    {
+      "name": "Oe",
+      "label": "experiment",
+      "description": "An experiment where only the ocean responds to elevated CO2",
+      "uuid": "c17d7b85-708d-49ab-82ad-3fa84840c81b",
+      "score": 0.5373684600515282
+    },
+    {
+      "name": "Coupled Climate-Carbon Cycle Model Intercomparison Project",
+      "label": "project",
+      "description": "An initiative to compare different climate models that incorporate carbon cycle processes",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.5827314120151967
+    },
+    {
+      "name": "atmospheric CO2 burden",
+      "label": "variable",
+      "description": "The amount of CO2 in the atmosphere, which affects the climate and carbon cycle",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5633001058982811
+    },
+    {
+      "name": "terrestrial carbon cycle",
+      "label": "component",
+      "description": "The process by which carbon is exchanged between the atmosphere and land ecosystems",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.5111607453324214
+    },
+    {
+      "name": "oceanic carbon cycle",
+      "label": "component",
+      "description": "The process by which carbon is exchanged between the atmosphere and oceans",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.5398692832304255
+    },
+    {
+      "name": "land biosphere",
+      "label": "component",
+      "description": "The component of the Earth system that includes all living organisms and ecosystems on land",
+      "uuid": "91c64c46-d040-4daa-b26c-61952fdfaf50",
+      "score": 0.5407182795386206
+    },
+    {
+      "name": "physical climate model",
+      "label": "model",
+      "description": "A computational representation of the physical processes that govern the climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5492458287337086
+    },
+    {
+      "name": "radiation component",
+      "label": "component",
+      "description": "The part of the climate model that simulates the exchange of radiation between the atmosphere and the surface",
+      "uuid": "cd77430e-8e10-4581-b36e-e2db1124c34f",
+      "score": 0.5506142394869803
+    },
+    {
+      "name": "carbon sinks",
+      "label": "component",
+      "description": "The components of the Earth system that absorb and store carbon, such as oceans and land ecosystems",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.6172363892210329
+    }
+  ],
+  "(11613, 14405)": [
+    {
+      "name": "CLO",
+      "label": "experiment",
+      "description": "A fully coupled climate simulation experiment, incorporating interactions between atmosphere, ocean, and land systems",
+      "uuid": "e741b2db-8b3a-482b-8d3c-0494667132b2",
+      "score": 0.5472207603555473
+    },
+    {
+      "name": "LO",
+      "label": "experiment",
+      "description": "A biogeochemically coupled climate simulation experiment, focusing on the interactions between biological and chemical processes",
+      "uuid": "85112e2e-16b0-4c11-b2df-b1f8f95ff86f",
+      "score": 0.5577547379231417
+    },
+    {
+      "name": "CL",
+      "label": "experiment",
+      "description": "A climate simulation experiment that couples atmosphere and land systems",
+      "uuid": "e741b2db-8b3a-482b-8d3c-0494667132b2",
+      "score": 0.5864400250163658
+    },
+    {
+      "name": "CO",
+      "label": "experiment",
+      "description": "A climate simulation experiment that focuses on the effects of atmospheric CO2",
+      "uuid": "ab084955-c17a-498a-a6af-7237decf66f7",
+      "score": 0.5603403462047671
+    },
+    {
+      "name": "C",
+      "label": "experiment",
+      "description": "A radiatively coupled climate simulation experiment, examining the effects of radiation on the climate system",
+      "uuid": "ce1d9c51-7bb3-4157-a935-451f98fc54cc",
+      "score": 0.5700727793740006
+    },
+    {
+      "name": "L",
+      "label": "experiment",
+      "description": "A land-only climate simulation experiment, isolating the effects of land processes on the climate",
+      "uuid": "28c5e37b-2628-42c2-8059-b705fb947342",
+      "score": 0.6453251410548999
+    },
+    {
+      "name": "O",
+      "label": "experiment",
+      "description": "An ocean-only climate simulation experiment, focusing on the effects of ocean processes on the climate",
+      "uuid": "4378339b-336e-4227-9982-ad7f0f7d2a89",
+      "score": 0.5718270500650376
+    },
+    {
+      "name": "CLOe",
+      "label": "experiment",
+      "description": "A fully coupled climate simulation experiment with specified CO2 emissions",
+      "uuid": "0e9d6a08-a360-4cdc-a07a-11b22efa57f9",
+      "score": 0.5288351936997295
+    },
+    {
+      "name": "LOe",
+      "label": "experiment",
+      "description": "A biogeochemically coupled climate simulation experiment with specified CO2 emissions",
+      "uuid": "4925515a-6168-4ad3-8751-8c20424cc6fc",
+      "score": 0.5263921800083096
+    },
+    {
+      "name": "Ce",
+      "label": "experiment",
+      "description": "A radiatively coupled climate simulation experiment with specified CO2 emissions",
+      "uuid": "4925515a-6168-4ad3-8751-8c20424cc6fc",
+      "score": 0.5673957709630528
+    },
+    {
+      "name": "Ue",
+      "label": "experiment",
+      "description": "A control simulation experiment with specified CO2 emissions",
+      "uuid": "8a5b3beb-e397-4ab9-8ded-06940862bd89",
+      "score": 0.524139146779366
+    },
+    {
+      "name": "CLOfwind",
+      "label": "experiment",
+      "description": "A fully coupled climate simulation experiment with fixed wind patterns",
+      "uuid": "0e9d6a08-a360-4cdc-a07a-11b22efa57f9",
+      "score": 0.5879654082517518
+    },
+    {
+      "name": "Cfwind",
+      "label": "experiment",
+      "description": "A radiatively coupled climate simulation experiment with fixed wind patterns",
+      "uuid": "0e9d6a08-a360-4cdc-a07a-11b22efa57f9",
+      "score": 0.5298565780644756
+    },
+    {
+      "name": "CLOfnpzd",
+      "label": "experiment",
+      "description": "A fully coupled climate simulation experiment with fixed biological fluxes",
+      "uuid": "0e9d6a08-a360-4cdc-a07a-11b22efa57f9",
+      "score": 0.5675413207204929
+    },
+    {
+      "name": "Cfnpzd",
+      "label": "experiment",
+      "description": "A radiatively coupled climate simulation experiment with fixed biological fluxes",
+      "uuid": "0e9d6a08-a360-4cdc-a07a-11b22efa57f9",
+      "score": 0.5097252489124159
+    },
+    {
+      "name": "marine biology",
+      "label": "variable",
+      "description": "The study of living organisms in the ocean and their interactions with the environment",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.7390762774684505
+    },
+    {
+      "name": "dissolved inorganic carbon",
+      "label": "variable",
+      "description": "A measure of the amount of inorganic carbon dissolved in seawater",
+      "uuid": "037450ba-b996-4195-8615-76b8ad823875",
+      "score": 0.6954705536141182
+    },
+    {
+      "name": "alkalinity",
+      "label": "variable",
+      "description": "A measure of the ability of a solution to neutralize acids",
+      "uuid": "a74059fe-6b15-4b55-8ea5-4a65b66c7e11",
+      "score": 0.7130457439438513
+    },
+    {
+      "name": "atmospheric CO2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the atmosphere",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.635366150334164
+    },
+    {
+      "name": "climate-carbon cycle feedback",
+      "label": "variable",
+      "description": "The interaction between the climate system and the carbon cycle, where changes in one affect the other",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.582787369427573
+    },
+    {
+      "name": "C4MIP",
+      "label": "project",
+      "description": "The Coupled Climate-Carbon Cycle Model Intercomparison Project, a framework for comparing climate models that include carbon cycle processes",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.6843000664186654
+    }
+  ],
+  "(13941, 16595)": [
+    {
+      "name": "carbon cycle",
+      "label": "project",
+      "description": "A scientific study of the processes that control the movement of carbon between the atmosphere, oceans, land, and living things>",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.6176331854656103
+    },
+    {
+      "name": "CO 2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the atmosphere, a key factor influencing climate change>",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.6545889709841486
+    },
+    {
+      "name": "control run",
+      "label": "experiment",
+      "description": "A baseline climate simulation used for comparison with other experiments>",
+      "uuid": "a76c2d5c-e154-41ed-8eaa-34f3d2104405",
+      "score": 0.5840603952415525
+    },
+    {
+      "name": "Ue",
+      "label": "experiment",
+      "description": "A control experiment used to quantify the total effect of elevated CO2 and climate change on the carbon sinks>",
+      "uuid": "8a5b3beb-e397-4ab9-8ded-06940862bd89",
+      "score": 0.5051893017591415
+    },
+    {
+      "name": "atmospheric CO 2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the atmosphere, a key factor influencing climate change>",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6615221051709528
+    },
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A scientific study of the impacts of global warming on the environment and human societies>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5683755902127948
+    },
+    {
+      "name": "carbon sinks",
+      "label": "location",
+      "description": "Regions or processes that absorb more carbon dioxide from the atmosphere than they emit>",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.585181914516673
+    }
+  ],
+  "(16165, 18359)": [
+    {
+      "name": "C 4 MIP",
+      "label": "project",
+      "description": "The Coupled Climate Carbon Cycle Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.6630008661174958
+    },
+    {
+      "name": "land and ocean carbon sensitivity parameters",
+      "label": "variable",
+      "description": "Quantities that describe how sensitive the land and ocean carbon cycles are to changes in temperature",
+      "uuid": "4a6d0a78-45c3-4a15-bbd9-7d479dff6569",
+      "score": 0.5250023800527548
+    },
+    {
+      "name": "radiatively coupled simulation",
+      "label": "experiment",
+      "description": "A type of climate simulation that includes the interaction between the atmosphere and the land or ocean through radiation",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5088246630379022
+    },
+    {
+      "name": "carbon cycle feedbacks",
+      "label": "variable",
+      "description": "The process by which changes in the climate system affect the carbon cycle, which in turn affects the climate",
+      "uuid": "514c891b-60b8-4a6f-adb3-0366c75588e9",
+      "score": 0.5472467184442755
+    },
+    {
+      "name": "fully coupled simulation",
+      "label": "experiment",
+      "description": "A type of climate simulation that includes the interaction between the atmosphere, land, and ocean",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5816289807021813
+    },
+    {
+      "name": "biogeochemically coupled simulation",
+      "label": "experiment",
+      "description": "A type of climate simulation that includes the interaction between the biological and chemical processes in the climate system",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.5331822798282115
+    },
+    {
+      "name": "atmospheric CO 2 concentration",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, an important indicator of climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5934635628342199
+    },
+    {
+      "name": "carbon sinks",
+      "label": "variable",
+      "description": "Natural or artificial systems that absorb and store carbon dioxide from the atmosphere",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5976310676077484
+    }
+  ],
+  "(17955, 20399)": [
+    {
+      "name": "Ce",
+      "label": "experiment",
+      "description": "A radiatively coupled simulation that investigates the impact of climate change on the carbon cycle and atmospheric CO2 concentration",
+      "uuid": "ce1d9c51-7bb3-4157-a935-451f98fc54cc",
+      "score": 0.5115837546619666
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that plays a crucial role in the Earth's climate system, influencing global temperatures and weather patterns",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6462258240377688
+    },
+    {
+      "name": "carbon sinks",
+      "label": "variable",
+      "description": "Natural systems, such as oceans and forests, that absorb and store carbon from the atmosphere",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.616065334083116
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "A process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy, absorbing CO2 from the atmosphere",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.696656032610945
+    },
+    {
+      "name": "terrestrial biosphere",
+      "label": "location",
+      "description": "The region of the Earth's surface and atmosphere where life exists, including forests, grasslands, and other ecosystems",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.5748648647897476
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a critical role in the global carbon cycle",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7030925338311013
+    }
+  ],
+  "(19990, 22615)": [
+    {
+      "name": "biogeochemically coupled simulation",
+      "label": "experiment",
+      "description": "A type of climate simulation where the biological and chemical processes are coupled to study the interactions between the climate system and the carbon cycle",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.5380082384395862
+    },
+    {
+      "name": "fully coupled simulation",
+      "label": "experiment",
+      "description": "A type of climate simulation where all components of the climate system, including atmosphere, ocean, and land, are coupled to study the interactions and feedbacks between them",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5975111136064569
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The terrestrial part of the Earth's surface, excluding oceans and atmosphere",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6391678049731009
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7394753265898041
+    },
+    {
+      "name": "atmospheric CO2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the atmosphere, an important greenhouse gas that influences the climate system",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6631219341130162
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the statistical distribution of weather patterns, potentially leading to significant impacts on the environment and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5745701827461537
+    },
+    {
+      "name": "carbon cycle",
+      "label": "ocean circulation",
+      "description": "The biogeochemical cycle by which carbon is exchanged between the atmosphere, oceans, land, and living things, influencing the climate system",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.6106530963748744
+    },
+    {
+      "name": "C4MIP",
+      "label": "project",
+      "description": "The Coupled Climate-Carbon Cycle Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.6883938160537457
+    },
+    {
+      "name": "CO2 concentration",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, often used as a metric to study climate change and its impacts",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.6377443449837635
+    }
+  ],
+  "(22145, 24928)": [
+    {
+      "name": "atmospheric carbon inventory",
+      "label": "variable",
+      "description": "A measure of the amount of carbon in the atmosphere, which can be affected by various factors including human emissions and natural carbon sinks",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5455055363704419
+    },
+    {
+      "name": "climate feedback",
+      "label": "variable",
+      "description": "A process where a change in the climate system affects a component of the system, which in turn affects the climate, creating a loop of cause and effect",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6689387802465894
+    },
+    {
+      "name": "surface albedo differences",
+      "label": "variable",
+      "description": "Changes in the reflectivity of the Earth's surface, which can influence the amount of solar radiation absorbed and impact climate conditions",
+      "uuid": "9e2c36bb-2059-44b9-b9e6-2006f146582f",
+      "score": 0.5970826963854817
+    },
+    {
+      "name": "biogeochemically coupled experiment",
+      "label": "experiment",
+      "description": "A type of climate simulation where the biological and chemical processes are connected and interact with each other",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.5243670892609977
+    },
+    {
+      "name": "higher surface albedo",
+      "label": "variable",
+      "description": "An increase in the reflectivity of the Earth's surface, often due to changes in land use, snow cover, or other factors",
+      "uuid": "5395e33c-02cb-4027-b425-e771eab13610",
+      "score": 0.5944715407594848
+    },
+    {
+      "name": "CO2 concentration",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, which is a key factor in the greenhouse effect and climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.6186141562617185
+    },
+    {
+      "name": "Ce simulation",
+      "label": "experiment",
+      "description": "A specific climate simulation or model run, likely focused on certain aspects of the climate system",
+      "uuid": "9df8110a-191d-40f7-85fb-4d0985a8c990",
+      "score": 0.5318795567404956
+    },
+    {
+      "name": "CLOe simulation",
+      "label": "experiment",
+      "description": "A fully coupled climate simulation with specified CO2 emissions, used as a reference or control run",
+      "uuid": "b9081a13-bfec-41e4-bf19-59c0d95aa073",
+      "score": 0.5202935685780743
+    },
+    {
+      "name": "fully coupled simulation",
+      "label": "experiment",
+      "description": "A climate simulation where all components of the climate system, including atmosphere, oceans, and land, are connected and interact with each other",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5957868227282852
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The terrestrial portion of the Earth's surface, which plays a crucial role in the climate system",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6091414539667217
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers most of the Earth's surface, influencing climate and weather patterns",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.672305083177407
+    }
+  ],
+  "(24471, 27207)": [
+    {
+      "name": "UVic ESCM",
+      "label": "model",
+      "description": "The University of Victoria Earth System Climate Model, a computational representation of the Earth's climate system used for simulating and predicting climate change",
+      "uuid": "3b998f60-4138-4376-88b2-98937484f04f",
+      "score": 0.5524034938301235
+    },
+    {
+      "name": "C",
+      "label": "experiment",
+      "description": "A radiatively coupled simulation, part of the experiments conducted to analyze climate-carbon feedbacks",
+      "uuid": "ce1d9c51-7bb3-4157-a935-451f98fc54cc",
+      "score": 0.5701408691923279
+    },
+    {
+      "name": "U",
+      "label": "experiment",
+      "description": "A control simulation, used as a baseline for comparing the effects of different feedbacks in the climate system",
+      "uuid": "a76c2d5c-e154-41ed-8eaa-34f3d2104405",
+      "score": 0.540211110553527
+    },
+    {
+      "name": "CLO",
+      "label": "experiment",
+      "description": "A fully coupled experiment, combining the effects of radiative coupling and carbon cycle feedbacks",
+      "uuid": "84549e79-f7b7-4257-9e83-253c5b7eb4e0",
+      "score": 0.522865414794787
+    },
+    {
+      "name": "CO 2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas influencing the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6743966685062854
+    },
+    {
+      "name": "carbon sinks",
+      "label": "variable",
+      "description": "Natural or artificial systems that absorb and store carbon from the atmosphere",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5979203158152612
+    },
+    {
+      "name": "climate-carbon feedback",
+      "label": "variable",
+      "description": "The interaction between the climate system and the carbon cycle, influencing the rate of climate change",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6094997652783131
+    },
+    {
+      "name": "C 4 MIP",
+      "label": "project",
+      "description": "The Coupled Climate-Carbon Cycle Model Intercomparison Project, an initiative to compare and improve climate-carbon cycle models",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.6450282795216976
+    }
+  ],
+  "(26702, 29467)": [
+    {
+      "name": "atmospheric CO2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the atmosphere, an important factor in climate change>",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6537802469269026
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influenced by climate change and CO2 levels>",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.65071555058648
+    },
+    {
+      "name": "carbon uptake",
+      "label": "variable",
+      "description": "The process by which the land and ocean absorb and store carbon from the atmosphere>",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5915026874599035
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The terrestrial portion of the Earth's surface, playing a crucial role in the carbon cycle and climate regulation>",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6171258895219295
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, influencing global climate patterns and carbon uptake>",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7116701575996008
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant life that covers the land surface, affected by climate change, CO2 levels, and other environmental factors>",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6710698008997668
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "The long-term warming of the planet, driven by human activities and natural factors, with significant impacts on ecosystems and societies>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5921821551861461
+    }
+  ],
+  "(29016, 31626)": [
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "A measure of the amount of solar radiation reflected by the Earth's surface, influencing the climate system",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7975871183681689
+    },
+    {
+      "name": "biogeochemically coupled experiment",
+      "label": "experiment",
+      "description": "A type of climate simulation that accounts for the interactions between the biological, geological, and chemical components of the Earth system",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.5233554159815648
+    },
+    {
+      "name": "radiatively coupled experiment",
+      "label": "experiment",
+      "description": "A type of climate simulation that considers the radiative effects of atmospheric components on the climate system",
+      "uuid": "ce1d9c51-7bb3-4157-a935-451f98fc54cc",
+      "score": 0.5046352710914074
+    },
+    {
+      "name": "fully coupled experiment",
+      "label": "experiment",
+      "description": "A comprehensive climate simulation that integrates all components of the Earth system, including atmosphere, oceans, land, and ice",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5609300725935105
+    },
+    {
+      "name": "boreal forest",
+      "label": "location",
+      "description": "A subarctic region characterized by coniferous forests, playing a significant role in the global carbon cycle and climate regulation",
+      "uuid": "cafa8131-4a2d-4c8b-811c-0d64adf5fc06",
+      "score": 0.6314634817437794
+    },
+    {
+      "name": "East Asia",
+      "label": "location",
+      "description": "A region in Asia that includes countries such as China, Japan, and Korea, known for its diverse climate and vegetation patterns",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.6856295753984395
+    },
+    {
+      "name": "Northeast Asia",
+      "label": "location",
+      "description": "A subregion of East Asia, comprising countries such as China, Japan, and Korea, characterized by a temperate climate and significant vegetation changes",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.5957300923254284
+    },
+    {
+      "name": "Americas",
+      "label": "location",
+      "description": "A continent that includes North, Central, and South America, featuring diverse climate zones and vegetation patterns",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.5675881410752094
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent characterized by a wide range of climates and vegetation types, from deserts to tropical rainforests",
+      "uuid": "2ca1b865-5555-4375-aa81-72811335b695",
+      "score": 0.5896725236329798
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a crucial role in the Earth's climate system and carbon cycle",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6834121053836184
+    },
+    {
+      "name": "UVic ESCM",
+      "label": "model",
+      "description": "The University of Victoria Earth System Climate Model, a computational tool used to simulate and study the Earth's climate system",
+      "uuid": "3b998f60-4138-4376-88b2-98937484f04f",
+      "score": 0.564742416064428
+    },
+    {
+      "name": "climate-carbon feedbacks",
+      "label": "variable",
+      "description": "The interactions between the climate system and the carbon cycle, influencing the Earth's climate and vegetation patterns",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6303487591431952
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, including trees, shrubs, and other types of flora, that affects the climate system through processes such as photosynthesis and evapotranspiration",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.659358086952622
+    }
+  ],
+  "(31205, 34001)": [
+    {
+      "name": "UVic ESCM",
+      "label": "model",
+      "description": "The University of Victoria Earth System Climate Model, a computational tool used to simulate and study the Earth's climate system",
+      "uuid": "3b998f60-4138-4376-88b2-98937484f04f",
+      "score": 0.564742416064428
+    },
+    {
+      "name": "HadCM3LC",
+      "label": "model",
+      "description": "The Hadley Centre Climate Model version 3 with a coupled climate-carbon cycle, used for simulating climate change and carbon cycle interactions",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.6646284602470761
+    },
+    {
+      "name": "Hadley Centre",
+      "label": "provider",
+      "description": "A British research institution focused on climate change and meteorology, providing climate models and data",
+      "uuid": "fcbced96-7985-4690-9511-ba7f871b0370",
+      "score": 0.7168412827528988
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas influencing the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6834422366278412
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "Changes in global climate patterns, including rising temperatures, sea-level rise, and altered weather phenomena",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6316548203643946
+    },
+    {
+      "name": "carbon sinks",
+      "label": "variable",
+      "description": "Natural or artificial systems that absorb and store carbon dioxide from the atmosphere, such as oceans, forests, and soil",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.6236738530644053
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and atmosphere, where vegetation, soil, and other terrestrial ecosystems are found",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6714048845791762
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater covering over 70% of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7369433485390043
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life on land, including forests, grasslands, and other types of ecosystems, influencing the carbon cycle and climate",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6486897633877001
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, consisting of mineral and organic matter, supporting plant growth and storing carbon",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6570520694495146
+    }
+  ],
+  "(33555, 36419)": [
+    {
+      "name": "UVic ESCM",
+      "label": "model",
+      "description": "The University of Victoria Earth System Climate Model, a computational tool used to simulate and study the Earth's climate system",
+      "uuid": "3b998f60-4138-4376-88b2-98937484f04f",
+      "score": 0.564742416064428
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "Changes in global climate patterns, including rising temperatures, altered precipitation, and increased extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6013613850788088
+    },
+    {
+      "name": "forests",
+      "label": "location",
+      "description": "Terrestrial ecosystems dominated by trees, playing a crucial role in the global carbon cycle",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6703379217882459
+    },
+    {
+      "name": "low latitudes",
+      "label": "location",
+      "description": "Regions of the Earth located near the equator, characterized by relatively warm temperatures and high levels of solar radiation",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.5072312628671988
+    },
+    {
+      "name": "northern high latitudes",
+      "label": "location",
+      "description": "Regions of the Earth located in the northernmost parts of the globe, characterized by cold temperatures and limited vegetation growth",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.5508093477984422
+    },
+    {
+      "name": "vegetation carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in vegetation, including plants and trees",
+      "uuid": "eddc8733-4737-46c3-b487-1b8ac858ab3d",
+      "score": 0.6013250628518629
+    },
+    {
+      "name": "soil carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in soils, which can be affected by changes in vegetation and climate",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.6458730568656162
+    },
+    {
+      "name": "heterotrophic respiration",
+      "label": "variable",
+      "description": "The process by which microorganisms in soils break down organic matter and release carbon dioxide",
+      "uuid": "8286d00a-e540-4e01-9e15-377711e5fe56",
+      "score": 0.7200616215166337
+    },
+    {
+      "name": "ocean circulation",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of water masses in the Earth's oceans, driven by wind, density differences, and the Coriolis effect",
+      "uuid": "a031952d-9f00-4ba5-9966-5f87ab9dfdd4",
+      "score": 0.6861912736970733
+    },
+    {
+      "name": "sea ice cover",
+      "label": "variable",
+      "description": "The extent and thickness of ice covering the ocean's surface, which can be affected by changes in climate",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.6840996322327323
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the ocean's surface waters, which can be affected by changes in climate",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7709982013890107
+    },
+    {
+      "name": "sea surface salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in the ocean's surface waters, which can be affected by changes in precipitation and ocean circulation",
+      "uuid": "1d8525f0-0cfc-4d59-8677-da5c8038deb7",
+      "score": 0.681886891879945
+    },
+    {
+      "name": "equatorial region",
+      "label": "location",
+      "description": "The region of the Earth located near the equator, characterized by relatively warm temperatures and high levels of solar radiation",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.6853047730671991
+    },
+    {
+      "name": "subtropical gyres",
+      "label": "location",
+      "description": "Large-scale circulation patterns in the ocean, located in subtropical regions and characterized by rotating currents",
+      "uuid": "fc0a6bb2-27f0-48e8-89f1-ebfc7ccd4823",
+      "score": 0.6382839418527038
+    }
+  ],
+  "(35906, 38549)": [
+    {
+      "name": "sea ice cover changes",
+      "label": "variable",
+      "description": "Changes in the extent and thickness of sea ice, which is a critical component of the Earth's climate system>",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.6346748956403109
+    },
+    {
+      "name": "Atlantic meridional overturning circulation",
+      "label": "ocean circulation",
+      "description": "A large-scale ocean circulation pattern in the Atlantic Ocean, driven by changes in temperature and salinity>",
+      "uuid": "d0c16581-6951-4e8d-a0c1-97e9fcaa031a",
+      "score": 0.6309275790000827
+    },
+    {
+      "name": "mixed layer",
+      "label": "variable",
+      "description": "The layer of the ocean where the temperature and salinity are mixed by winds and waves>",
+      "uuid": "64074461-95d0-4538-869a-0114e39216aa",
+      "score": 0.7636632719276314
+    },
+    {
+      "name": "relevant physical ocean variables",
+      "label": "variable",
+      "description": "Properties of the ocean that are relevant to understanding its behavior and impact on the climate>",
+      "uuid": "23aac8f3-c918-430a-8fb2-e641f67e15f2",
+      "score": 0.5431148027346374
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, which plays a crucial role in regulating the Earth's climate>",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7761320728256262
+    },
+    {
+      "name": "ocean circulation",
+      "label": "ocean circulation",
+      "description": "The movement of water in the ocean, driven by wind, tides, and changes in temperature and salinity>",
+      "uuid": "a031952d-9f00-4ba5-9966-5f87ab9dfdd4",
+      "score": 0.6810730411936164
+    },
+    {
+      "name": "horizontal advection",
+      "label": "variable",
+      "description": "The movement of water in the ocean due to currents and winds>",
+      "uuid": "0cb7f2c6-5e99-4781-8d4f-19ecbad2e2e0",
+      "score": 0.6434595293580377
+    },
+    {
+      "name": "equatorial region",
+      "label": "location",
+      "description": "The region of the Earth near the equator, characterized by high temperatures and high levels of precipitation>",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.6954952982561988
+    },
+    {
+      "name": "Sea surface salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in the surface waters of the ocean>",
+      "uuid": "1d8525f0-0cfc-4d59-8677-da5c8038deb7",
+      "score": 0.6907214323125704
+    },
+    {
+      "name": "sea ice area",
+      "label": "variable",
+      "description": "The extent of the ocean covered by sea ice, which is an important indicator of climate change>",
+      "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
+      "score": 0.8115663781917979
+    },
+    {
+      "name": "Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, which plays a critical role in the global ocean circulation and climate regulation>",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.783016936486118
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "The region of the Atlantic Ocean located between Europe and North America, which is an important area for ocean circulation and climate regulation>",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7755276530624078
+    },
+    {
+      "name": "UVic ESCM",
+      "label": "model",
+      "description": "A climate model developed by the University of Victoria, used to simulate the behavior of the Earth's climate system>",
+      "uuid": "fc94343c-1809-431f-b3da-8ba5b887dda9",
+      "score": 0.5315701436182604
+    },
+    {
+      "name": "AMOC",
+      "label": "ocean circulation",
+      "description": "The Atlantic meridional overturning circulation, a critical component of the global ocean circulation>",
+      "uuid": "d0c16581-6951-4e8d-a0c1-97e9fcaa031a",
+      "score": 0.5683727577744749
+    },
+    {
+      "name": "ACC",
+      "label": "ocean circulation",
+      "description": "The Antarctic Circumpolar Current, a large-scale ocean circulation pattern in the Southern Ocean>",
+      "uuid": "511e6c26-8806-4d88-9763-a136a6957042",
+      "score": 0.5357037440939475
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a critical role in regulating the Earth's climate>",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6735833949729222
+    }
+  ],
+  "(38183, 40603)": [
+    {
+      "name": "AMOC",
+      "label": "ocean circulation",
+      "description": "The Atlantic Meridional Overturning Circulation, a component of the ocean circulation that plays a crucial role in regulating Earth's climate>",
+      "uuid": "d0c16581-6951-4e8d-a0c1-97e9fcaa031a",
+      "score": 0.5794709861742945
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that influences the Earth's climate system>",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6754499980941381
+    },
+    {
+      "name": "Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, playing a key role in global ocean circulation and climate regulation>",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.7883177526569285
+    },
+    {
+      "name": "elevated CO2",
+      "label": "variable",
+      "description": "Higher levels of carbon dioxide in the atmosphere compared to preindustrial levels, often used to simulate the effects of climate change>",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.5024329677025653
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "Frozen seawater that floats on the surface of the ocean, playing a significant role in the Earth's climate system>",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7672747279125967
+    },
+    {
+      "name": "meridional overturning circulation",
+      "label": "ocean circulation",
+      "description": "A global ocean circulation pattern that transports heat and nutrients across the ocean basins>",
+      "uuid": "aa1bc71c-daeb-401e-9e29-ebde975482cf",
+      "score": 0.5517777028860348
+    },
+    {
+      "name": "wind-driven upwelling",
+      "label": "ocean circulation",
+      "description": "The process by which winds drive the upward movement of deep, nutrient-rich water to the surface of the ocean>",
+      "uuid": "75ab3537-34b1-4025-b758-7296626079ba",
+      "score": 0.5454709038249532
+    },
+    {
+      "name": "DIC",
+      "label": "variable",
+      "description": "Dissolved inorganic carbon, a measure of the amount of inorganic carbon dissolved in seawater>",
+      "uuid": "b2ef01b2-9d63-43a1-9de9-627117d034d2",
+      "score": 0.7253174091512117
+    },
+    {
+      "name": "vegetation carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in vegetation, an important component of the global carbon cycle>",
+      "uuid": "511637f3-82aa-43b2-9eee-0c099ecbfcce",
+      "score": 0.6058001184554997
+    },
+    {
+      "name": "soil carbon",
+      "label": "variable",
+      "description": "The amount of carbon stored in soils, an important component of the global carbon cycle>",
+      "uuid": "a7ae5843-479c-4055-b8fc-ba651e485750",
+      "score": 0.6650044336050887
+    },
+    {
+      "name": "net primary productivity",
+      "label": "variable",
+      "description": "The rate at which vegetation produces new biomass, an important component of the global carbon cycle>",
+      "uuid": "569a2936-7543-434e-92e2-6f75a5be68c0",
+      "score": 0.6580214475113773
+    },
+    {
+      "name": "ocean biology",
+      "label": "variable",
+      "description": "The study of the living organisms in the ocean and their role in the Earth's climate system>",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.6046168337983684
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of biodiversity>",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7535744798630273
+    },
+    {
+      "name": "eastern Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean located to the east of the International Date Line, playing a significant role in global climate patterns>",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.7216335571133009
+    },
+    {
+      "name": "Atlantic",
+      "label": "location",
+      "description": "The Atlantic Ocean, one of the world's major oceans, playing a significant role in global climate patterns>",
+      "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+      "score": 0.7274647373432755
+    }
+  ],
+  "(40164, 42980)": [
+    {
+      "name": "ocean biology",
+      "label": "variable",
+      "description": "The processes and interactions of living organisms in the ocean, influencing the ocean's role in the carbon cycle and climate regulation",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.5501110146927607
+    },
+    {
+      "name": "atmospheric CO 2 level",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the Earth's atmosphere, a key factor in climate change and the carbon cycle",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6228465603010351
+    },
+    {
+      "name": "ocean carbonate chemistry",
+      "label": "variable",
+      "description": "The chemical processes and interactions involving carbonates in the ocean, crucial for understanding ocean acidification and the carbon cycle",
+      "uuid": "68f7ba1b-a2f9-41b6-9bc1-fd187942fbed",
+      "score": 0.6266511367709383
+    },
+    {
+      "name": "DIC",
+      "label": "variable",
+      "description": "Dissolved Inorganic Carbon, a measure of the amount of inorganic carbon dissolved in seawater, important for studying the ocean's carbon cycle",
+      "uuid": "b2ef01b2-9d63-43a1-9de9-627117d034d2",
+      "score": 0.7238696818804906
+    },
+    {
+      "name": "alkalinity",
+      "label": "variable",
+      "description": "A measure of the ocean's ability to neutralize acids, influencing the ocean's pH and carbonate chemistry",
+      "uuid": "4eab7956-e59e-4615-8d5c-39a16faa1f27",
+      "score": 0.7197063171915432
+    },
+    {
+      "name": "subsurface waters",
+      "label": "location",
+      "description": "The layers of water below the surface of the ocean, playing a significant role in ocean circulation, carbon storage, and climate regulation",
+      "uuid": "abb21298-124f-4f12-92e8-affbb5c8fba8",
+      "score": 0.615244618277322
+    },
+    {
+      "name": "equatorial upwelling system",
+      "label": "ocean circulation",
+      "description": "A system of ocean currents and upwelling that occurs near the equator, influencing global climate patterns and the carbon cycle",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.5126483946304088
+    },
+    {
+      "name": "eastern Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, known for its significant role in global climate variability and the carbon cycle",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.7179411426652232
+    },
+    {
+      "name": "Atlantic",
+      "label": "location",
+      "description": "A major ocean located between the Americas, Europe, and Africa, influencing global climate patterns and the carbon cycle",
+      "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+      "score": 0.7741292746481491
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth located near the equator, characterized by high temperatures and high levels of biodiversity",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7306394880988728
+    }
+  ],
+  "(42527, 45051)": [
+    {
+      "name": "carbon",
+      "label": "variable",
+      "description": "A chemical element and a key component of the Earth's climate system, influencing global temperatures and weather patterns",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.6001122208001299
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in regulating the planet's climate",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7289092616852312
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, comprising continents, islands, and underwater landmasses, which interacts with the atmosphere and oceans to shape the climate",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6423049100117003
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, essential for regulating temperature, weather, and climate",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.616212664910078
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that influences the Earth's climate by trapping heat and contributing to global warming",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.683284696451047
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, driven by human activities and natural processes, with significant impacts on the environment, ecosystems, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5939744309256242
+    },
+    {
+      "name": "carbon uptake",
+      "label": "variable",
+      "description": "The process by which the Earth's ecosystems absorb and store carbon dioxide from the atmosphere, influencing the global carbon cycle",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.5986776486676245
+    },
+    {
+      "name": "feedback metrics",
+      "label": "variable",
+      "description": "Quantitative measures used to evaluate the responses of the Earth's climate system to changes in CO2 concentrations and temperature",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.5491493015389727
+    },
+    {
+      "name": "climate-carbon feedback",
+      "label": "teleconnection",
+      "description": "A process where changes in the climate system influence the carbon cycle, and vice versa, creating a feedback loop that amplifies or dampens the effects of climate change",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.612721475876796
+    }
+  ],
+  "(44585, 47398)": [
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas with a significant impact on the Earth's climate system, often used as a control variable in climate simulations",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.6677287223446381
+    },
+    {
+      "name": "climate-carbon cycle models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate the Earth's climate system and the carbon cycle to predict future climate change",
+      "uuid": "640d703f-9312-4f11-8367-30a8bd8fc508",
+      "score": 0.5603216841731664
+    },
+    {
+      "name": "C4MIP",
+      "label": "project",
+      "description": "The Coupled Climate-Carbon Cycle Model Intercomparison Project, an initiative to compare and evaluate different climate-carbon cycle models",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.6721644712883081
+    },
+    {
+      "name": "Bern2.5CC",
+      "label": "model",
+      "description": "A specific climate-carbon cycle model used to simulate the response of the carbon cycle to elevated CO2 and climate change",
+      "uuid": "8f5c75ea-35a7-47a4-b63d-03a01f6f0907",
+      "score": 0.5289451941713378
+    },
+    {
+      "name": "atmospheric CO2 concentration",
+      "label": "variable",
+      "description": "The amount of CO2 present in the Earth's atmosphere, often used as a control variable in climate simulations",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.6225119046136139
+    },
+    {
+      "name": "coupled climate-carbon cycle system",
+      "label": "system",
+      "description": "A complex system that integrates the Earth's climate system and the carbon cycle to predict future climate change",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5760267378851266
+    },
+    {
+      "name": "biogeochemically coupled run",
+      "label": "experiment",
+      "description": "A type of climate simulation that couples the land and ocean carbon cycles with the climate system",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.5003095509550248
+    },
+    {
+      "name": "climate-carbon feedback",
+      "label": "variable",
+      "description": "The process by which the climate system and the carbon cycle interact and influence each other",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.5984609042839296
+    }
+  ],
+  "(46982, 49600)": [
+    {
+      "name": "C 4 MIP",
+      "label": "project",
+      "description": "The Coupled Climate-Carbon Cycle Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions and understand the carbon cycle>",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.6679972552131488
+    },
+    {
+      "name": "LO",
+      "label": "experiment",
+      "description": "A chemically coupled run where both land and ocean are coupled with respect to CO2>",
+      "uuid": "42e251d6-3d1d-4287-94a7-7a0df11fac8e",
+      "score": 0.5067219540797626
+    },
+    {
+      "name": "L",
+      "label": "experiment",
+      "description": "A run where only the land is coupled with respect to CO2>",
+      "uuid": "e8c6761b-0653-495c-82e9-feb685344542",
+      "score": 0.5741810148974716
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that affects the climate and carbon cycle>",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6641011667738654
+    },
+    {
+      "name": "carbon sinks",
+      "label": "variable",
+      "description": "Natural or artificial reservoirs that absorb and store carbon from the atmosphere>",
+      "uuid": "e58872a8-6104-4ff8-bbca-4b00ba4b38e8",
+      "score": 0.59783121036163
+    },
+    {
+      "name": "climate-carbon cycle system",
+      "label": "model",
+      "description": "A complex system that interacts between the climate and carbon cycle to predict future changes>",
+      "uuid": "6a6bed83-f95a-44e6-8ae0-1371b532abc3",
+      "score": 0.5019157939114123
+    },
+    {
+      "name": "atmospheric CO2 concentration",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, which affects the climate and carbon cycle>",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5862059190243174
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The terrestrial part of the Earth's surface, which plays a crucial role in the carbon cycle>",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.5946192951639003
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The marine part of the Earth's surface, which plays a crucial role in the carbon cycle>",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.6457360524951559
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the atmosphere, which affects the climate and carbon cycle>",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6166449889044473
+    }
+  ],
+  "(49197, 51956)": [
+    {
+      "name": "UVic ESCM",
+      "label": "model",
+      "description": "The University of Victoria Earth System Climate Model, a computational tool used to simulate and study the Earth's climate system",
+      "uuid": "3b998f60-4138-4376-88b2-98937484f04f",
+      "score": 0.564742416064428
+    },
+    {
+      "name": "Canadian Earth System Model",
+      "label": "model",
+      "description": "The Canadian Earth System Model, a climate model used to simulate and predict the behavior of the Earth's climate system",
+      "uuid": "24b382cb-5ed5-46f5-9134-1e34462f9f20",
+      "score": 0.6654436678221026
+    },
+    {
+      "name": "CanESM1",
+      "label": "model",
+      "description": "The first version of the Canadian Earth System Model, used for climate simulations and predictions",
+      "uuid": "24b382cb-5ed5-46f5-9134-1e34462f9f20",
+      "score": 0.7013808367474065
+    },
+    {
+      "name": "biogeochemically coupled simulation",
+      "label": "experiment",
+      "description": "A type of climate simulation that couples biological, chemical, and geological processes to study their interactions and impacts on the climate system",
+      "uuid": "b472632f-8e67-4892-9896-1c14c5089682",
+      "score": 0.5512403246194266
+    },
+    {
+      "name": "fully coupled simulation",
+      "label": "experiment",
+      "description": "A type of climate simulation that couples multiple components of the climate system, such as atmosphere, ocean, and land",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.599726544674376
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to study climate and climate change",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6780418023749701
+    },
+    {
+      "name": "CO2 concentration",
+      "label": "variable",
+      "description": "A measure of the amount of carbon dioxide in the atmosphere, often used to study climate and climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.6135067064358137
+    },
+    {
+      "name": "carbon storage",
+      "label": "variable",
+      "description": "A measure of the amount of carbon stored in a system, such as the atmosphere, oceans, or land",
+      "uuid": "ee0357cd-8f1c-4b62-8e97-51ebc91c4bb9",
+      "score": 0.5895215577251164
+    }
+  ],
+  "(51494, 54404)": [
+    {
+      "name": "UVic ESCM",
+      "label": "model",
+      "description": "The University of Victoria Earth System Climate Model, a computational representation of the Earth's climate system used for simulating and predicting climate change",
+      "uuid": "3b998f60-4138-4376-88b2-98937484f04f",
+      "score": 0.5524034938301235
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a crucial role in the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6832299860854896
+    },
+    {
+      "name": "climate-carbon cycle system",
+      "label": "project",
+      "description": "A research initiative focused on understanding the interactions between the climate system and the carbon cycle",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.503642424339098
+    },
+    {
+      "name": "biosphere",
+      "label": "location",
+      "description": "The region of the Earth where living organisms exist, including the atmosphere, hydrosphere, and lithosphere",
+      "uuid": "91c64c46-d040-4daa-b26c-61952fdfaf50",
+      "score": 0.7027661700539458
+    },
+    {
+      "name": "climate-carbon feedback",
+      "label": "variable",
+      "description": "The process by which changes in the climate system affect the carbon cycle, and vice versa",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.594077489558609
+    },
+    {
+      "name": "ocean circulation",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of water masses in the Earth's oceans, driven by wind, density differences, and the Coriolis effect",
+      "uuid": "a031952d-9f00-4ba5-9966-5f87ab9dfdd4",
+      "score": 0.6861912736970733
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960657877233357
+    }
+  ],
+  "(53885, 56926)": [
+    {
+      "name": "Atlantic meridional overturning circulation",
+      "label": "ocean circulation",
+      "description": "A component of the ocean circulation that plays a crucial role in the Earth's climate system by transporting heat and nutrients across the North Atlantic Ocean",
+      "uuid": "d0c16581-6951-4e8d-a0c1-97e9fcaa031a",
+      "score": 0.6254722853201765
+    },
+    {
+      "name": "ocean circulation",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of water masses in Earth\u2019s oceans, driven by wind, density differences, and the Coriolis effect, which regulates Earth\u2019s climate",
+      "uuid": "a031952d-9f00-4ba5-9966-5f87ab9dfdd4",
+      "score": 0.6901378057870445
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960657877233357
+    },
+    {
+      "name": "Southern Ocean",
+      "label": "location",
+      "description": "The ocean surrounding Antarctica, playing a key role in global ocean circulation and climate regulation",
+      "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+      "score": 0.7839919429736487
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A floating ice cover on the ocean surface, playing a crucial role in the Earth's climate system by reflecting sunlight and influencing ocean currents",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7790012118467676
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that affects the Earth's climate system",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.673980951679625
+    },
+    {
+      "name": "climate-carbon cycle system",
+      "label": "project",
+      "description": "A system that studies the interactions between the climate and the carbon cycle, including the effects of climate change on land and ocean carbon uptake",
+      "uuid": "2f144b3b-b730-412e-9b45-2c36117269c0",
+      "score": 0.5265640069489408
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The terrestrial part of the Earth's surface, playing a crucial role in the carbon cycle and climate system",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6172800913210086
+    },
+    {
+      "name": "C4MIP",
+      "label": "project",
+      "description": "The Coupled Climate-Carbon Cycle Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.6883938160537457
+    },
+    {
+      "name": "carbon cycle feedback",
+      "label": "variable",
+      "description": "The response of the carbon cycle to changes in the climate system, including the effects of climate change on land and ocean carbon uptake",
+      "uuid": "514c891b-60b8-4a6f-adb3-0366c75588e9",
+      "score": 0.5524868756629651
+    }
+  ],
+  "(56414, 59268)": [
+    {
+      "name": "C 4 MIP",
+      "label": "project",
+      "description": "The Coupled Climate-Carbon Cycle Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "a4c76c00-de9e-4374-8c03-f3623442974b",
+      "score": 0.6642878639880878
+    },
+    {
+      "name": "UVic ESCM",
+      "label": "model",
+      "description": "The University of Victoria Earth System Climate Model, a computational representation of the Earth's climate system",
+      "uuid": "3b998f60-4138-4376-88b2-98937484f04f",
+      "score": 0.5539808320349263
+    },
+    {
+      "name": "HadCM3LC",
+      "label": "model",
+      "description": "The Hadley Centre Coupled Model version 3 with a dynamic land and carbon cycle, used for climate simulations",
+      "uuid": "ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9",
+      "score": 0.6598506304441099
+    },
+    {
+      "name": "Canadian Earth System Model",
+      "label": "model",
+      "description": "The Canadian Earth System Model, a computational representation of the Earth's climate system",
+      "uuid": "24b382cb-5ed5-46f5-9134-1e34462f9f20",
+      "score": 0.6564733039410996
+    },
+    {
+      "name": "CanESM1",
+      "label": "model",
+      "description": "The Canadian Earth System Model version 1, used for climate simulations",
+      "uuid": "24b382cb-5ed5-46f5-9134-1e34462f9f20",
+      "score": 0.7418288824305254
+    },
+    {
+      "name": "Coupled Model Intercomparison Project",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.668733395201285
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "label": "provider",
+      "description": "An international organization that assesses climate change science and provides recommendations for mitigation and adaptation",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7204940224796775
+    },
+    {
+      "name": "National Science and Engineering Research Council of Canada",
+      "label": "provider",
+      "description": "A Canadian government agency that provides funding for scientific research and engineering",
+      "uuid": "fca1d280-dd23-4b2a-a343-efcde4503b77",
+      "score": 0.5086998059973673
+    },
+    {
+      "name": "Canadian Foundation for Climate and Atmospheric Science",
+      "label": "provider",
+      "description": "A Canadian organization that provides funding for climate and atmospheric science research",
+      "uuid": "39ce6e3c-eea3-47a3-84cc-118ff015b803",
+      "score": 0.5137966052637952
+    },
+    {
+      "name": "Amazon rain forest",
+      "label": "location",
+      "description": "A large tropical rainforest in South America, playing a significant role in the global carbon cycle",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.5341123293731234
+    },
+    {
+      "name": "atmospheric CO 2",
+      "label": "variable",
+      "description": "The concentration of carbon dioxide in the Earth's atmosphere, an important factor in climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6508352379942698
+    },
+    {
+      "name": "carbon cycle feedbacks",
+      "label": "variable",
+      "description": "The interactions between the climate system and the carbon cycle, influencing the rate of climate change",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.572814003128363
+    }
+  ],
+  "(58832, 59268)": [
+    {
+      "name": "National Science and Engineering Research Council of Canada",
+      "label": "provider",
+      "description": "A Canadian government agency that supports research in natural sciences and engineering",
+      "uuid": "0c6938d2-01be-4330-b080-cf1196309982",
+      "score": 0.5040219315493495
+    },
+    {
+      "name": "Canadian Foundation for Climate and Atmospheric Science",
+      "label": "provider",
+      "description": "A Canadian organization that supports research in climate and atmospheric science",
+      "uuid": "39ce6e3c-eea3-47a3-84cc-118ff015b803",
+      "score": 0.5024577500585554
+    }
+  ]
+}

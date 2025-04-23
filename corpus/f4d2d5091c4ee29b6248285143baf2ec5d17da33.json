@@ -1,0 +1,666 @@
+{
+  "(0, 2607)": [
+    {
+      "name": "growing season length",
+      "label": "variable",
+      "description": "The duration of the period during which plants can grow, influenced by climate and geography",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.7371697099646717
+    },
+    {
+      "name": "bird",
+      "label": "provider",
+      "description": "A group of animals that consume fruits and contribute to seed dispersal, known for their visual capabilities and preferences",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.5323127421000556
+    },
+    {
+      "name": "mammal",
+      "label": "provider",
+      "description": "A group of animals that consume fruits and contribute to seed dispersal, known for their olfactory capabilities and preferences",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.5200310872011819
+    }
+  ],
+  "(2308, 4694)": [
+    {
+      "name": "passerines",
+      "label": "mammal",
+      "description": "The largest order of birds, characterized by their perching ability and diverse range of species, including sparrows, finches, and robins",
+      "uuid": "c8186508-c5dd-4282-86d2-b217643a87d8",
+      "score": 0.5734199256906447
+    },
+    {
+      "name": "bats",
+      "label": "mammal",
+      "description": "The only mammals capable of true flight, found in a wide range of habitats and feeding on insects, fruits, and nectar",
+      "uuid": "9db9cb8c-7d18-4922-990c-b610d22356eb",
+      "score": 0.706330916486874
+    },
+    {
+      "name": "elephants",
+      "label": "mammal",
+      "description": "Large, intelligent mammals with a highly developed brain and social structure, found in savannas and forests of Africa and Asia",
+      "uuid": "de9598de-24cc-4f87-b3df-d9f3d4717d33",
+      "score": 0.6696492270558252
+    },
+    {
+      "name": "bears",
+      "label": "mammal",
+      "description": "Large, carnivorous mammals with a distinctive hibernation pattern, found in a variety of habitats, including forests, tundras, and mountains",
+      "uuid": "6831004a-34d7-42f5-a903-6c84a5e7590f",
+      "score": 0.7068112539378288
+    },
+    {
+      "name": "mammals",
+      "label": "mammal",
+      "description": "A group of warm-blooded animals characterized by the presence of hair, mammary glands, and three middle ear bones",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.7196769778960074
+    },
+    {
+      "name": "birds",
+      "label": "mammal",
+      "description": "A group of warm-blooded, egg-laying, feathered vertebrates, characterized by their ability to fly and their distinctive beak and skeletal system",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6783122951153324
+    },
+    {
+      "name": "UV-B radiation",
+      "label": "variable",
+      "description": "A type of ultraviolet radiation that can cause damage to living organisms, including plants and animals",
+      "uuid": "90e7fd13-2da2-4ba6-9e0c-dbecdf7c2215",
+      "score": 0.5395612535435403
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of organic compounds",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6780330322718482
+    }
+  ],
+  "(4176, 6990)": [
+    {
+      "name": "UV-B radiation",
+      "label": "variable",
+      "description": "A component of ultraviolet radiation from the sun that affects biological systems and may influence the evolution of fruit color",
+      "uuid": "90e7fd13-2da2-4ba6-9e0c-dbecdf7c2215",
+      "score": 0.5030145176182381
+    },
+    {
+      "name": "growing season length",
+      "label": "variable",
+      "description": "The duration of the growing season, which can influence the evolution of fruit traits such as color",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6244842198025967
+    },
+    {
+      "name": "bioclimatic variables",
+      "label": "variable",
+      "description": "Environmental factors that influence the climate and ecology of a region, such as temperature, precipitation, and radiation",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5266077861504134
+    },
+    {
+      "name": "global scale",
+      "label": "location",
+      "description": "A geographical extent that encompasses the entire Earth, often used in studies of ecological patterns and mechanisms",
+      "uuid": "51e3593f-4b42-4141-972e-96666c479f9c",
+      "score": 0.5330025307691255
+    }
+  ],
+  "(6540, 9066)": [
+    {
+      "name": "UV-B radiation",
+      "label": "variable",
+      "description": "A type of ultraviolet radiation that can affect plant growth and development",
+      "uuid": "90e7fd13-2da2-4ba6-9e0c-dbecdf7c2215",
+      "score": 0.5091569105234801
+    },
+    {
+      "name": "growing seasons",
+      "label": "variable",
+      "description": "The period of time during which plants grow and develop",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6256071619118059
+    }
+  ],
+  "(8692, 11205)": [
+    {
+      "name": "IUCN",
+      "label": "provider",
+      "description": "The International Union for Conservation of Nature, an organization that provides data on mammal species and their conservation status",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.6332588699914249
+    },
+    {
+      "name": "110km resolution grid",
+      "label": "platform",
+      "description": "A spatial framework used to analyze and visualize data on a 110km resolution grid",
+      "uuid": "ef23b094-00f7-4ad3-8a9c-fa4ab8666c12",
+      "score": 0.6154674511165417
+    },
+    {
+      "name": "mammals",
+      "label": "variable",
+      "description": "A class of warm-blooded animals that give birth to live young and produce milk to feed their offspring",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.682576397948017
+    },
+    {
+      "name": "birds",
+      "label": "variable",
+      "description": "A class of warm-blooded animals that lay eggs and have feathers",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6668346731999707
+    }
+  ],
+  "(10728, 13567)": [
+    {
+      "name": "growing season length",
+      "label": "variable",
+      "description": "The duration of the period in a year when plants are able to grow, often used as an indicator of climate suitability for plant species",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.7441041926859292
+    },
+    {
+      "name": "mean growing season length",
+      "label": "variable",
+      "description": "The average duration of the growing season length over multiple years, used to represent long-term climate conditions",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6580204745322623
+    },
+    {
+      "name": "UV-B layers",
+      "label": "variable",
+      "description": "A measure of ultraviolet radiation, which can impact plant growth and animal behavior",
+      "uuid": "ebb1a6bf-b84a-4159-a304-88c82e93f032",
+      "score": 0.5222607007922455
+    },
+    {
+      "name": "Karger et al.",
+      "label": "provider",
+      "description": "A research group or institution that published the CHELSA climatic layer",
+      "uuid": "71ad8149-3532-48f9-83e5-a7fce983b703",
+      "score": 0.5065975770485179
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent at the South Pole, often excluded from global climate analyses due to its unique and extreme climate conditions",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.6813346913465615
+    }
+  ],
+  "(13075, 15846)": [
+    {
+      "name": "growing season length",
+      "label": "variable",
+      "description": "A measure of the duration of the growing season, which can impact plant growth and development",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.724121651046956
+    },
+    {
+      "name": "angiosperms",
+      "label": "taxonomic group",
+      "description": "A group of flowering plants that are a major component of terrestrial ecosystems",
+      "uuid": "5eda068f-97ea-474a-8a1b-b193f6901251",
+      "score": 0.6820701452123337
+    },
+    {
+      "name": "biome",
+      "label": "location",
+      "description": "A broad category of ecosystems, such as forests, grasslands, or deserts, defined by their vegetation and climate characteristics",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5063506370231009
+    }
+  ],
+  "(15356, 18421)": [
+    {
+      "name": "eastern vs. western hemisphere",
+      "label": "location",
+      "description": "A geographical distinction between the Eastern and Western Hemispheres, which can influence the taxonomy of plants and animals",
+      "uuid": "116620fb-2762-4032-9bfa-152d109c029d",
+      "score": 0.6038274475376026
+    },
+    {
+      "name": "grid cell",
+      "label": "location",
+      "description": "A unit of spatial analysis, often used in geographic information systems to represent a specific area",
+      "uuid": "bb6184eb-1ced-44fb-9668-d57cf1baa2e3",
+      "score": 0.5162571008313256
+    },
+    {
+      "name": "tropical biomes",
+      "label": "location",
+      "description": "Regions of the Earth characterized by high temperatures and high levels of rainfall, often supporting diverse ecosystems",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.5964050344108823
+    }
+  ],
+  "(17919, 20556)": [
+    {
+      "name": "grid cell",
+      "label": "instrument",
+      "description": "A tool or method used for dividing and analyzing spatial data, such as in geographic information systems",
+      "uuid": "bb6184eb-1ced-44fb-9668-d57cf1baa2e3",
+      "score": 0.5133720100845265
+    },
+    {
+      "name": "tropical biomes",
+      "label": "location",
+      "description": "Regions near the equator characterized by high temperatures and high levels of rainfall, often associated with rainforests and other lush ecosystems",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.6044828607814203
+    },
+    {
+      "name": "boreal forest",
+      "label": "location",
+      "description": "A subarctic forest ecosystem found in high-latitude regions, dominated by coniferous trees and characterized by cold, long winters",
+      "uuid": "cafa8131-4a2d-4c8b-811c-0d64adf5fc06",
+      "score": 0.6909096971858232
+    },
+    {
+      "name": "tundra",
+      "label": "location",
+      "description": "A treeless Arctic or alpine region with low vegetation, found in the far north or at high elevations",
+      "uuid": "46ecf46f-a710-4589-82b2-34aebf35c3c0",
+      "score": 0.6730766958759009
+    },
+    {
+      "name": "temperate seasonal forests",
+      "label": "location",
+      "description": "Forests found in temperate regions with moderate climates, characterized by seasonal changes in temperature and precipitation",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6386408991027793
+    },
+    {
+      "name": "temperate rain forests",
+      "label": "location",
+      "description": "Forests found in temperate regions with high levels of rainfall, often characterized by dense vegetation and diverse ecosystems",
+      "uuid": "96ea0bde-7cf6-4601-8a49-116636f556cf",
+      "score": 0.6965949970793025
+    },
+    {
+      "name": "woodlands and shrublands",
+      "label": "location",
+      "description": "Regions with a mix of trees and shrubs, often found in areas with lower rainfall than forests",
+      "uuid": "e018b139-7e05-4155-8e2e-8d5603b5fe47",
+      "score": 0.5250676746235045
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the southern hemisphere, known for its unique biodiversity and ecosystems",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7229549757252803
+    },
+    {
+      "name": "northern Africa",
+      "label": "location",
+      "description": "The northern part of the African continent, characterized by diverse ecosystems and climates, including deserts and savannas",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.7198448189942559
+    },
+    {
+      "name": "western North America",
+      "label": "location",
+      "description": "A region in North America that includes the western United States and Canada, characterized by diverse landscapes and ecosystems",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.6257563049090875
+    },
+    {
+      "name": "central Africa",
+      "label": "location",
+      "description": "The central part of the African continent, characterized by tropical rainforests and diverse ecosystems",
+      "uuid": "f2ffbe58-8792-413b-805b-3e1c8de1c6ff",
+      "score": 0.6894144915658283
+    },
+    {
+      "name": "Indo-Pacific",
+      "label": "location",
+      "description": "A region that includes the Indian and Pacific Oceans, as well as the surrounding landmasses, characterized by high biodiversity and diverse ecosystems",
+      "uuid": "4f5b8f3d-19fe-4600-be01-b944f2eaf294",
+      "score": 0.7507483237811347
+    },
+    {
+      "name": "Amazon",
+      "label": "location",
+      "description": "A region in South America characterized by a large tropical rainforest, known for its high biodiversity and unique ecosystems",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.6069125715441983
+    },
+    {
+      "name": "growing season length",
+      "label": "variable",
+      "description": "A measure of the length of the growing season in a given ecosystem or region",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.7230538849016229
+    }
+  ],
+  "(20081, 22903)": [
+    {
+      "name": "growing season length",
+      "label": "variable",
+      "description": "The duration of the growing season, which can affect the development and characteristics of plants and fruits",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.7009972977481675
+    }
+  ],
+  "(22475, 25648)": [
+    {
+      "name": "growing season length",
+      "label": "variable",
+      "description": "A measure of the duration of the period during which plants are able to grow, often influenced by climate and temperature conditions",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.7521323090899042
+    },
+    {
+      "name": "angiosperms",
+      "label": "taxonomic group",
+      "description": "A large and diverse group of flowering plants, including trees, shrubs, and herbaceous plants",
+      "uuid": "5eda068f-97ea-474a-8a1b-b193f6901251",
+      "score": 0.6818851086255311
+    }
+  ],
+  "(25035, 28168)": [
+    {
+      "name": "central Africa",
+      "label": "location",
+      "description": "A region in Africa, known for its diverse ecosystems and species, including various frugivores and plant species",
+      "uuid": "f2ffbe58-8792-413b-805b-3e1c8de1c6ff",
+      "score": 0.6445596376935908
+    },
+    {
+      "name": "Amazon basin",
+      "label": "location",
+      "description": "A vast region in South America, encompassing the Amazon rainforest, which is home to a rich array of plant and animal species, including frugivorous birds and mammals",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.5336269769808941
+    },
+    {
+      "name": "Indo-Pacific",
+      "label": "location",
+      "description": "A biogeographic region that includes the Indian and Pacific Oceans, as well as the surrounding landmasses, characterized by a unique set of flora and fauna",
+      "uuid": "4f5b8f3d-19fe-4600-be01-b944f2eaf294",
+      "score": 0.7370236152559374
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent, known for its varied landscapes and climates, with a distinct set of plant and animal species",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6416663195196809
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a diverse range of ecosystems and species, including various frugivores and plant species",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.544367441364285
+    },
+    {
+      "name": "eastern North America",
+      "label": "location",
+      "description": "A region in North America, characterized by a mix of temperate and boreal ecosystems, with a variety of plant and animal species",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.5442775531054461
+    },
+    {
+      "name": "western North America",
+      "label": "location",
+      "description": "A region in North America, known for its diverse landscapes and climates, with a unique set of plant and animal species",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.582012415856278
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "A country in East Asia, with a distinct set of flora and fauna, including various frugivores and plant species",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.5837276247229152
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent, characterized by a unique set of ecosystems and species, including various frugivores and plant species",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6220268704837729
+    }
+  ],
+  "(27766, 30270)": [
+    {
+      "name": "Amazon",
+      "label": "location",
+      "description": "A region in South America known for its vast tropical rainforest and diverse wildlife",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.5839724563500271
+    },
+    {
+      "name": "birds",
+      "label": "variable",
+      "description": "A group of warm-blooded, egg-laying, feathered vertebrates that are often involved in seed dispersal",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6414592423149406
+    },
+    {
+      "name": "mammals",
+      "label": "variable",
+      "description": "A group of warm-blooded, vertebrate animals that are often involved in seed dispersal",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.6357986495830663
+    },
+    {
+      "name": "fruits",
+      "label": "variable",
+      "description": "The sweet and fleshy parts of plants that are often consumed by animals and aid in seed dispersal",
+      "uuid": "41b30b1b-5dbb-4ef8-849c-e1949ad04227",
+      "score": 0.5048792392293454
+    },
+    {
+      "name": "Paleotropics",
+      "label": "location",
+      "description": "A region that includes Africa, Asia, and Australia, characterized by its tropical climate and diverse wildlife",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5371902111367459
+    },
+    {
+      "name": "Indo-Pacific",
+      "label": "location",
+      "description": "A region that includes the Indian and Pacific Oceans, and the surrounding landmasses, known for its high levels of biodiversity",
+      "uuid": "4f5b8f3d-19fe-4600-be01-b944f2eaf294",
+      "score": 0.7441003285617623
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, known for its diverse geography and wildlife",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6911617424215011
+    },
+    {
+      "name": "Madagascar",
+      "label": "location",
+      "description": "An island nation off the coast of East Africa, known for its unique wildlife and ecosystems",
+      "uuid": "d9f82c3c-0edf-445e-b838-eebc2278d4c1",
+      "score": 0.6716573982980811
+    }
+  ],
+  "(29833, 32386)": [
+    {
+      "name": "Madagascar",
+      "label": "location",
+      "description": "An island nation off the coast of East Africa, known for its unique biodiversity and ecosystems",
+      "uuid": "d9f82c3c-0edf-445e-b838-eebc2278d4c1",
+      "score": 0.6819247500050191
+    },
+    {
+      "name": "Paleotropics",
+      "label": "location",
+      "description": "A region of the Earth that includes the tropics of the Old World, encompassing parts of Africa, Asia, and Australia",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5229943091879062
+    },
+    {
+      "name": "boreal to arctic habitats",
+      "label": "location",
+      "description": "Ecosystems found in the northernmost parts of the world, characterized by cold temperatures and limited vegetation",
+      "uuid": "46ecf46f-a710-4589-82b2-34aebf35c3c0",
+      "score": 0.569809412334865
+    },
+    {
+      "name": "northern North America",
+      "label": "location",
+      "description": "A region that includes the northern parts of the United States, Canada, and Alaska",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.5936687363285638
+    },
+    {
+      "name": "southern Spain",
+      "label": "location",
+      "description": "A region in the southwestern part of Europe, known for its Mediterranean climate and diverse ecosystems",
+      "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+      "score": 0.6316396071114401
+    },
+    {
+      "name": "western North America",
+      "label": "location",
+      "description": "A region that includes the western parts of the United States and Canada",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.626571862462711
+    },
+    {
+      "name": "mammals",
+      "label": "provider",
+      "description": "A group of warm-blooded animals that give birth to live young and produce milk to feed their offspring, playing a role in seed dispersal",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.6637696972605013
+    },
+    {
+      "name": "bears",
+      "label": "provider",
+      "description": "Large, carnivorous mammals that play a role in seed dispersal in certain ecosystems",
+      "uuid": "6831004a-34d7-42f5-a903-6c84a5e7590f",
+      "score": 0.6685932099244754
+    },
+    {
+      "name": "mustelids",
+      "label": "provider",
+      "description": "A family of carnivorous mammals that includes weasels, otters, and badgers, and are involved in seed dispersal",
+      "uuid": "eedb68d2-c487-4dc8-8292-c375e3e8b455",
+      "score": 0.5002360276272123
+    },
+    {
+      "name": "carnivoran mammals",
+      "label": "provider",
+      "description": "A group of mammals that primarily consume meat, and can play a role in seed dispersal through the consumption of fruits and subsequent deposition of seeds",
+      "uuid": "7a00c50c-827c-4012-9afe-20972e6a00c6",
+      "score": 0.5907655082974939
+    },
+    {
+      "name": "birds",
+      "label": "provider",
+      "description": "A group of warm-blooded animals that lay eggs and have feathers, playing a significant role in seed dispersal through the consumption of fruits and subsequent deposition of seeds",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6408344623073413
+    },
+    {
+      "name": "fruits",
+      "label": "variable",
+      "description": "The sweet and fleshy parts of plants that contain seeds, often consumed by animals and contributing to seed dispersal",
+      "uuid": "41b30b1b-5dbb-4ef8-849c-e1949ad04227",
+      "score": 0.5080929402059684
+    }
+  ],
+  "(31987, 34909)": [
+    {
+      "name": "fruit",
+      "label": "variable",
+      "description": "A type of plant reproductive structure, often used to study ecological and evolutionary processes",
+      "uuid": "41b30b1b-5dbb-4ef8-849c-e1949ad04227",
+      "score": 0.5202639649850164
+    },
+    {
+      "name": "growing season length",
+      "label": "variable",
+      "description": "The duration of the growing season, which can impact the development and evolution of plant traits such as fruit color",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6444051072060586
+    },
+    {
+      "name": "UV radiation",
+      "label": "variable",
+      "description": "A form of electromagnetic radiation that can affect plant growth and development, but was found to be unimportant in this study",
+      "uuid": "90e7fd13-2da2-4ba6-9e0c-dbecdf7c2215",
+      "score": 0.5433256535981498
+    },
+    {
+      "name": "high latitudes",
+      "label": "location",
+      "description": "Regions of the Earth located far from the equator, often characterized by colder temperatures and distinct ecological conditions",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.5488704118365061
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "Regions of the Earth located near the equator, often characterized by warm temperatures and high levels of biodiversity",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7252736726787841
+    },
+    {
+      "name": "eastern Asia",
+      "label": "location",
+      "description": "A region of Asia located east of the Asian continent, often characterized by distinct ecological and evolutionary patterns",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.6745695410659053
+    },
+    {
+      "name": "eastern North America",
+      "label": "location",
+      "description": "A region of North America located east of the continent, often characterized by distinct ecological and evolutionary patterns",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.5476132037566345
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent located in the Southern Hemisphere, often characterized by unique ecological and evolutionary patterns",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7157281219256503
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent located in the Southern Hemisphere, often characterized by diverse ecological and evolutionary patterns",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.5771163266165458
+    }
+  ],
+  "(34436, 37397)": [
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A continent and country in the Southern Hemisphere, known for its unique biodiversity and ecosystems",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7320849849224619
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent in the Eastern Hemisphere, characterized by diverse climates, ecosystems, and biodiversity",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.6170122339770623
+    }
+  ],
+  "(36932, 37839)": [
+    {
+      "name": "NSF",
+      "label": "provider",
+      "description": "The National Science Foundation, an American government agency that supports scientific research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.7253992728519075
+    }
+  ]
+}

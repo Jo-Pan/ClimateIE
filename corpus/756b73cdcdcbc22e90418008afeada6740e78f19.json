@@ -1,0 +1,79 @@
+{
+  "(0, 3293)": [
+    {
+      "name": "obstacles",
+      "label": "natural hazard",
+      "description": "Objects or features in the environment that can hinder or block the movement of robots",
+      "uuid": "56e4dd42-e393-4aa2-b4d9-9e96d85c9768",
+      "score": 0.5026089089907821
+    },
+    {
+      "name": "buildings",
+      "label": "location",
+      "description": "Structures that provide shelter and housing for humans and can also serve as obstacles for robots",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.5751350355589944
+    }
+  ],
+  "(5361, 8589)": [
+    {
+      "name": "buildings",
+      "label": "location",
+      "description": "A type of environment used to test the performance of the GCS planner",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.5227931227008956
+    }
+  ],
+  "(9891, 11880)": [
+    {
+      "name": "velocity",
+      "label": "variable",
+      "description": "A measure of the rate of change of an object's position with respect to time",
+      "uuid": "4487cb97-df49-421f-8c00-5c5f12dd8af1",
+      "score": 0.5564961220734281
+    }
+  ],
+  "(22831, 24627)": [
+    {
+      "name": "T max",
+      "label": "variable",
+      "description": "The maximum value of T",
+      "uuid": "8b6d9b42-d8f7-477c-bddb-fb0e9741a1f2",
+      "score": 0.5016682066704716
+    }
+  ],
+  "(29896, 32482)": [
+    {
+      "name": "GCS",
+      "label": "model",
+      "description": "A computational model used for designing trajectories and paths in complex environments",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5030293809009283
+    }
+  ],
+  "(40813, 43510)": [
+    {
+      "name": "Buildings",
+      "label": "location",
+      "description": "Man-made structures that the quadrotor must navigate through during the statistical analysis",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.5124236511445022
+    }
+  ],
+  "(65931, 68589)": [
+    {
+      "name": "GCS",
+      "label": "project",
+      "description": "A computational framework or system used for solving complex problems",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5086444170000611
+    },
+    {
+      "name": "grid",
+      "label": "platform",
+      "description": "A mathematical structure used to represent a set of points or locations in a two-dimensional space",
+      "uuid": "bb6184eb-1ced-44fb-9668-d57cf1baa2e3",
+      "score": 0.528945713682405
+    }
+  ]
+}

@@ -1,0 +1,821 @@
+{
+  "(0, 3114)": [
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Factors such as temperature, humidity, and solar radiation that influence the climate and energy demand",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6503892195557833
+    },
+    {
+      "name": "diurnal cycle",
+      "label": "variable",
+      "description": "The daily pattern of temperature and other climate variables that affect energy demand",
+      "uuid": "99ef187e-6940-4c10-8d65-00d4426d493b",
+      "score": 0.6126883613130166
+    },
+    {
+      "name": "thermal properties",
+      "label": "variable",
+      "description": "The characteristics of a building that determine its ability to retain or release heat",
+      "uuid": "7d3d6c15-b328-43a4-92eb-7d3c430647c4",
+      "score": 0.6296005992588252
+    },
+    {
+      "name": "population density",
+      "label": "variable",
+      "description": "The number of people living in a given area, which affects energy demand",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.6814273942301438
+    },
+    {
+      "name": "minimum and maximum daily temperatures",
+      "label": "variable",
+      "description": "The lowest and highest temperatures recorded in a day, which influence energy demand",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.5655216800223736
+    },
+    {
+      "name": "ambient temperature",
+      "label": "variable",
+      "description": "The temperature of the surrounding environment, which affects human thermal comfort and energy demand",
+      "uuid": "1d2ac206-0977-4145-b334-baa6e13a0db6",
+      "score": 0.7117054329047229
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air, which influences human thermal comfort and energy demand",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6529207896704619
+    },
+    {
+      "name": "heating and cooling Degree-Days methodology",
+      "label": "model",
+      "description": "A method for estimating the energy demand of buildings based on temperature and humidity",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.5815042160127853
+    },
+    {
+      "name": "global climate model simulations",
+      "label": "project",
+      "description": "A set of simulations using multiple climate models to predict future climate scenarios",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5432982786573144
+    }
+  ],
+  "(2609, 5848)": [
+    {
+      "name": "Degree-Days methodology",
+      "label": "model",
+      "description": "A method used to estimate heating and cooling energy demand of buildings based on the difference between outside daily temperature and comfortable indoor temperatures",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5512046202082803
+    },
+    {
+      "name": "Heating Degree-Days",
+      "label": "variable",
+      "description": "A measure of the cumulated temperature during one day below a base temperature, used to estimate heating energy demand",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.7317532913898536
+    },
+    {
+      "name": "Cooling Degree-Days",
+      "label": "variable",
+      "description": "A measure of the cumulated temperature during one day above a base temperature, used to estimate cooling energy demand",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.7530136728990019
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, leading to significant impacts on the environment, human health, and the economy",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5961210893264403
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse climate regions and energy demands",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6522574035215245
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising many countries with varying climate conditions and energy needs",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6695079087571345
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "general circulation models",
+      "label": "model",
+      "description": "Computational representations of the Earth's climate system, used to simulate and predict climate patterns and changes",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7007103006391248
+    },
+    {
+      "name": "greenhouse-gas concentrations",
+      "label": "variable",
+      "description": "The amount of greenhouse gases, such as carbon dioxide and methane, present in the atmosphere, influencing the Earth's climate",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.5016524549106549
+    },
+    {
+      "name": "surface air temperatures",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, an important factor in climate studies and energy demand estimation",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6514389461683436
+    }
+  ],
+  "(5340, 7971)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General circulation models, sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7476856772949853
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "UK Met Office",
+      "label": "provider",
+      "description": "The national weather service for the United Kingdom, providing data, forecasts, and climate-related research",
+      "uuid": "1ec31c00-f97f-45a6-acfd-b597d5751d57",
+      "score": 0.6038048482945417
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the energy demand for heating, calculated based on daily mean, minimum, and maximum temperatures",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6639823609330872
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the energy demand for cooling, calculated based on daily mean, minimum, and maximum temperatures",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6881208836268666
+    },
+    {
+      "name": "Representative Concentration Pathway 8.5",
+      "label": "experiment",
+      "description": "A scenario of future greenhouse-gas concentrations, used in climate modeling to project potential climate changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6513400299938857
+    },
+    {
+      "name": "historical climate simulations",
+      "label": "experiment",
+      "description": "Climate simulations based on past observed data, used to compare model outputs with historical climate patterns",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.6210192544054237
+    },
+    {
+      "name": "inter-tropical regions",
+      "label": "location",
+      "description": "A region of the Earth located between 30\u00b0N and 30\u00b0S latitude, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.6057430129699437
+    },
+    {
+      "name": "mid-latitude regions",
+      "label": "location",
+      "description": "A region of the Earth located between 30\u00b0 and 60\u00b0 latitude, characterized by moderate temperatures and seasonal changes",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.7871817204912761
+    },
+    {
+      "name": "polar regions",
+      "label": "location",
+      "description": "A region of the Earth located above 60\u00b0 latitude, characterized by cold temperatures and unique climate conditions",
+      "uuid": "3fedcf7c-7b0c-4b51-abd2-2c54de713061",
+      "score": 0.6405091893190394
+    }
+  ],
+  "(7547, 10291)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "The Representative Concentration Pathway 8.5, a greenhouse gas concentration trajectory used in climate projections to represent a high-emissions scenario",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6771051810514266
+    },
+    {
+      "name": "heating proxy",
+      "label": "variable",
+      "description": "A measure used to estimate changes in heating demand based on climate data",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.5168687075608137
+    },
+    {
+      "name": "cooling proxy",
+      "label": "variable",
+      "description": "A measure used to estimate changes in cooling demand based on climate data",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5225512672347697
+    },
+    {
+      "name": "polar regions",
+      "label": "location",
+      "description": "The Arctic and Antarctic regions, characterized by extreme cold and unique climate conditions",
+      "uuid": "3fedcf7c-7b0c-4b51-abd2-2c54de713061",
+      "score": 0.6701109758059818
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, including all of North America, Europe, and most of Asia",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7506833835442561
+    },
+    {
+      "name": "West Africa",
+      "label": "location",
+      "description": "A region in western Africa, including countries such as Nigeria, Ghana, and Senegal",
+      "uuid": "0bd7d518-6e4d-455e-95cd-2add85fc88fa",
+      "score": 0.640062946893447
+    },
+    {
+      "name": "mid-latitude regions",
+      "label": "location",
+      "description": "Regions of the Earth located between the tropics and the polar regions, characterized by temperate climates",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.7319413713233887
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7564571328196901
+    },
+    {
+      "name": "Amazonia",
+      "label": "location",
+      "description": "A region in South America, including the Amazon rainforest and surrounding areas",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.7422631341196356
+    },
+    {
+      "name": "Sahel",
+      "label": "location",
+      "description": "A region in western Africa, stretching from Senegal to Ethiopia, characterized by a semi-arid climate",
+      "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+      "score": 0.7430890638920156
+    },
+    {
+      "name": "Arabian Peninsula",
+      "label": "location",
+      "description": "A region in the Middle East, including countries such as Saudi Arabia, Yemen, and Oman",
+      "uuid": "798f3745-be8c-48b0-b903-0265dbe1f957",
+      "score": 0.5341265900122922
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An autonomous territory within the Kingdom of Denmark, located in the North Atlantic Ocean",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.7744798951186902
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent surrounding the South Pole, characterized by extreme cold and unique climate conditions",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7358924920170575
+    }
+  ],
+  "(9761, 12574)": [
+    {
+      "name": "heating",
+      "label": "variable",
+      "description": "A measure of the energy required to maintain a comfortable temperature in buildings",
+      "uuid": "349b4322-26ff-4b3c-90fb-b3b1afd20755",
+      "score": 0.5261263997551732
+    },
+    {
+      "name": "cooling",
+      "label": "variable",
+      "description": "A measure of the energy required to reduce the temperature of buildings or environments",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5390942719194965
+    },
+    {
+      "name": "continental areas",
+      "label": "location",
+      "description": "Land masses on Earth, excluding oceans and islands",
+      "uuid": "0a672f19-dad5-4114-819a-2eb55bdbb56a",
+      "score": 0.5732456102099758
+    },
+    {
+      "name": "mid-latitude oceans",
+      "label": "location",
+      "description": "Ocean regions located between the equator and the polar regions, characterized by moderate temperatures and weather patterns",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.6385415328275121
+    },
+    {
+      "name": "mid-latitude regions",
+      "label": "location",
+      "description": "Areas on Earth between the equator and the polar regions, known for their moderate climate and significant population density",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.7075011263725269
+    },
+    {
+      "name": "northern hemisphere regions",
+      "label": "location",
+      "description": "Areas on Earth located north of the equator, encompassing a wide range of climates and ecosystems",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7551017285617577
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, an important factor in climate studies",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6873100016465571
+    },
+    {
+      "name": "mid-latitude cities",
+      "label": "location",
+      "description": "Urban areas located in mid-latitude regions, often characterized by moderate climates and significant population density",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.6471739390851429
+    },
+    {
+      "name": "coastlines",
+      "label": "location",
+      "description": "The boundaries between land and sea, often densely populated and vulnerable to climate-related impacts",
+      "uuid": "18d136b8-728f-438b-90cb-3c82956e1c2c",
+      "score": 0.6187504370734113
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a particular area or region, an important factor in climate change mitigation and adaptation",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.626326735217523
+    }
+  ],
+  "(12148, 14814)": [
+    {
+      "name": "cooling proxy",
+      "label": "variable",
+      "description": "A measure used to estimate the need for cooling in buildings, often based on temperature and humidity data",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5196386392604448
+    },
+    {
+      "name": "tropical cities",
+      "label": "location",
+      "description": "Cities located near the equator, characterized by high temperatures and humidity levels throughout the year",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5047134390740676
+    },
+    {
+      "name": "mid-latitude cities",
+      "label": "location",
+      "description": "Cities located between the tropics and the polar regions, experiencing moderate temperatures and seasonal changes",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.6419318011270371
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emission scenario used in climate modeling, representing a business-as-usual approach with minimal efforts to reduce greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6709607232813176
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A moderately mitigated emission scenario used in climate modeling, representing a scenario with some efforts to reduce greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6133877039496934
+    },
+    {
+      "name": "greenhouse-gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide and methane into the atmosphere, contributing to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.549561646817652
+    }
+  ],
+  "(14416, 16944)": [
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A greenhouse gas concentration trajectory used in climate modeling, representing a high-emissions scenario with significant global warming potential",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6548864171161007
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A greenhouse gas concentration trajectory used in climate modeling, representing a medium-emissions scenario with moderate global warming potential",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5905996429265266
+    },
+    {
+      "name": "midlatitude cities",
+      "label": "location",
+      "description": "Urban areas located in the middle latitudes of the Earth, characterized by temperate climates and significant population densities",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.637999750749343
+    },
+    {
+      "name": "heating proxy",
+      "label": "variable",
+      "description": "A measure or indicator used to quantify the amount of heating required or the level of warmth in a given area",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.5038019291406496
+    },
+    {
+      "name": "cooling proxy",
+      "label": "variable",
+      "description": "A measure or indicator used to quantify the amount of cooling required or the level of coolness in a given area",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5086561264440547
+    },
+    {
+      "name": "Degree-Days",
+      "label": "variable",
+      "description": "A measure of the amount of heating or cooling required over a specific period, often used in energy and climate applications",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6472311902153303
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree-Days, a measure of the amount of heating required over a specific period",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6646905222388976
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree-Days, a measure of the amount of cooling required over a specific period",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6801671609943525
+    }
+  ],
+  "(16559, 19625)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the Earth's surface, often used in climate and environmental studies",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.7320004794459142
+    },
+    {
+      "name": "Atmospheric humidity",
+      "label": "variable",
+      "description": "The amount of water vapor present in the atmosphere, influencing climate and weather patterns",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6568897906018784
+    },
+    {
+      "name": "daily minimum and maximum temperatures",
+      "label": "variable",
+      "description": "Measurements of the lowest and highest temperatures recorded during a day, used in climate studies",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6224097119671548
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall, snowfall, or other forms of moisture falling to the Earth's surface, an important factor in climate and weather patterns",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6652183998642315
+    },
+    {
+      "name": "wind",
+      "label": "variable",
+      "description": "The movement of air in the atmosphere, influencing weather patterns and climate conditions",
+      "uuid": "a628333f-aea2-42cf-b930-c8c859ee0547",
+      "score": 0.5633987885070177
+    }
+  ],
+  "(19049, 22313)": [
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important factor in climate and weather patterns",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6506379439718308
+    },
+    {
+      "name": "temperature variability",
+      "label": "variable",
+      "description": "The variation in temperature over time, which can impact climate and weather patterns",
+      "uuid": "7013bdc9-519d-42b6-827c-4b8013fbb726",
+      "score": 0.7175016360600018
+    },
+    {
+      "name": "temperature threshold",
+      "label": "variable",
+      "description": "A specific temperature value used as a reference point to determine energy demand for heating and cooling",
+      "uuid": "d87901bc-8a50-4442-8d03-a4e77f02bfb0",
+      "score": 0.6335497830056847
+    },
+    {
+      "name": "daily minimum and maximum temperatures",
+      "label": "variable",
+      "description": "The lowest and highest temperatures recorded in a 24-hour period, used to estimate energy demand",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.5745775176955251
+    },
+    {
+      "name": "Surface temperatures",
+      "label": "variable",
+      "description": "The temperature at the Earth's surface, an important factor in climate and weather patterns",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6640771939631455
+    },
+    {
+      "name": "CMIP5 simulations",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.750654987260138
+    },
+    {
+      "name": "Arctic region",
+      "label": "location",
+      "description": "The northernmost region of the Earth, characterized by cold temperatures and sea ice coverage",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7660581066898051
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air, which can impact climate and weather patterns",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6764672339735748
+    },
+    {
+      "name": "northern Atlantic Ocean",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located near the northern hemisphere, influencing regional climate patterns",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.700380269271255
+    }
+  ],
+  "(21832, 24614)": [
+    {
+      "name": "temperature threshold",
+      "label": "variable",
+      "description": "A temperature value used as a reference point to calculate degree-days for heating and cooling energy demand",
+      "uuid": "d87901bc-8a50-4442-8d03-a4e77f02bfb0",
+      "score": 0.6366860099370342
+    },
+    {
+      "name": "daily minimum and maximum temperatures",
+      "label": "variable",
+      "description": "The lowest and highest temperatures recorded during a 24-hour period, used to calculate degree-days for heating and cooling energy demand",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.5917544726249465
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "diurnal temperature cycle",
+      "label": "variable",
+      "description": "The daily variation in temperature, influenced by the Earth's rotation and atmospheric conditions",
+      "uuid": "99ef187e-6940-4c10-8d65-00d4426d493b",
+      "score": 0.5888584484918363
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492816239530663
+    },
+    {
+      "name": "30 CMIP5 simulations",
+      "label": "experiment",
+      "description": "A set of climate model runs using the CMIP5 framework, designed to simulate past and future climate conditions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.5806599950097369
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a medium-low greenhouse gas emissions trajectory",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6500000608943591
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a high greenhouse gas emissions trajectory",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6964573510484643
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7195795415683549
+    },
+    {
+      "name": "Degree-Days method",
+      "label": "model",
+      "description": "A methodology used to estimate energy demand for heating and cooling based on temperature thresholds",
+      "uuid": "349b4322-26ff-4b3c-90fb-b3b1afd20755",
+      "score": 0.5580237790666688
+    }
+  ],
+  "(24202, 26797)": [
+    {
+      "name": "Degree-Days",
+      "label": "variable",
+      "description": "A measure of the amount of heating or cooling required for a building or location, calculated based on temperature differences",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6430066338201018
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, used to describe the climate and weather patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6484243257394786
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario used in climate modeling to project future greenhouse gas concentrations and their impacts",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6277863163366814
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario used in climate modeling to project future greenhouse gas concentrations and their impacts",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6792030334371697
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7385381284915613
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "UK Met Office",
+      "label": "provider",
+      "description": "The national weather service for the United Kingdom, providing data, forecasts, and climate-related research",
+      "uuid": "1ec31c00-f97f-45a6-acfd-b597d5751d57",
+      "score": 0.6038048482945417
+    },
+    {
+      "name": "islands",
+      "label": "location",
+      "description": "Land masses surrounded by water, often with unique climate and ecosystem characteristics",
+      "uuid": "fa3c6df8-a1e1-41d5-9de1-49b92e1ea455",
+      "score": 0.6716774402579203
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, an important factor in climate and weather studies",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6938785612317174
+    },
+    {
+      "name": "land areas",
+      "label": "location",
+      "description": "Regions of the Earth's surface that are not covered by water, including continents, islands, and other terrestrial environments",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.5913957985778039
+    },
+    {
+      "name": "ocean areas",
+      "label": "location",
+      "description": "Regions of the Earth's surface covered by oceans, playing a crucial role in global climate patterns and weather phenomena",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.6419149093596531
+    }
+  ],
+  "(26304, 28983)": [
+    {
+      "name": "UK Met Office",
+      "label": "provider",
+      "description": "The national weather service for the United Kingdom, providing data, forecasts, and climate-related research",
+      "uuid": "1ec31c00-f97f-45a6-acfd-b597d5751d57",
+      "score": 0.6038048482945417
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6626660606463488
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the energy demand for heating",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6523038256909973
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the energy demand for cooling",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.670312458098594
+    },
+    {
+      "name": "CRU TS 4.0",
+      "label": "dataset",
+      "description": "A dataset of historical climate observations from the Climatic Research Unit, University of East Anglia",
+      "uuid": "3658db7a-74a2-4614-bb3c-7d0eef569aa5",
+      "score": 0.5609465894590817
+    },
+    {
+      "name": "grid",
+      "label": "platform",
+      "description": "A framework for organizing and analyzing data, often used in climate modeling and research",
+      "uuid": "bb6184eb-1ced-44fb-9668-d57cf1baa2e3",
+      "score": 0.5654603751999491
+    }
+  ],
+  "(28483, 31059)": [
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the energy demand for heating a building or location",
+      "uuid": "349b4322-26ff-4b3c-90fb-b3b1afd20755",
+      "score": 0.6473029729704541
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the energy demand for cooling a building or location",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6691175954979485
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    }
+  ],
+  "(30971, 31059)": [
+    {
+      "name": "maps",
+      "label": "instrument",
+      "description": "Visual representations of geographic areas, used for navigation, planning, and analysis",
+      "uuid": "d53da93a-cc40-457a-a708-6bd4eeb1ffc1",
+      "score": 0.6074597952727996
+    }
+  ]
+}

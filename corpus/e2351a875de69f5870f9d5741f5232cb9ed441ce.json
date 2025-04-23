@@ -1,0 +1,457 @@
+{
+  "(0, 2741)": [
+    {
+      "name": "arthropods",
+      "label": "organism",
+      "description": "A group of animals including insects, spiders, and crustaceans, often targeted by pesticides",
+      "uuid": "bb87baf5-3844-4a56-865f-ea5ed420db06",
+      "score": 0.6336819616564249
+    },
+    {
+      "name": "biodegradation",
+      "label": "process",
+      "description": "The breakdown of organic substances by living organisms, considered a cost-effective and ecofriendly approach to removing pesticide residues",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.6116068710968752
+    },
+    {
+      "name": "environmental toxicity",
+      "label": "environmental issue",
+      "description": "The harmful effects of pollutants on the environment and living organisms",
+      "uuid": "dd539b52-6de1-4b1b-a60c-fa5782f4d64b",
+      "score": 0.5626451939328454
+    },
+    {
+      "name": "human health issues",
+      "label": "health issue",
+      "description": "Problems affecting human well-being, potentially caused by exposure to environmental pollutants",
+      "uuid": "5e468bd6-a13a-4f49-8cb4-7a0ba69d8ad3",
+      "score": 0.5926852478574702
+    },
+    {
+      "name": "oxidation",
+      "label": "process",
+      "description": "A chemical reaction that involves the loss of electrons, used as a method to remove pesticide residues",
+      "uuid": "9c2f3bee-4629-4607-9962-12fe919594a0",
+      "score": 0.5308263456832236
+    }
+  ],
+  "(2302, 4830)": [
+    {
+      "name": "insects",
+      "label": "organism",
+      "description": "A class of invertebrate animals with a wide range of species, some of which are pests that can be targeted by insecticides",
+      "uuid": "44e49605-e860-41d0-8ef8-cb74419f831d",
+      "score": 0.6292607672918105
+    },
+    {
+      "name": "ecosystems",
+      "label": "environmental system",
+      "description": "A community of living and non-living components that interact with each other in a specific environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6998790257003318
+    },
+    {
+      "name": "soil",
+      "label": "environmental medium",
+      "description": "A natural medium composed of mineral and organic matter, water, and air, that supports plant growth and filters water",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5925422712097775
+    },
+    {
+      "name": "water",
+      "label": "environmental medium",
+      "description": "A natural resource essential for life, used for drinking, irrigation, and other purposes",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.6033405275953253
+    },
+    {
+      "name": "air",
+      "label": "environmental medium",
+      "description": "The gaseous mixture surrounding the Earth, essential for respiration and other biological processes",
+      "uuid": "dc8bbde4-6d14-44b9-937e-730925d40c0a",
+      "score": 0.6252403046292294
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country located in Western Europe, known for its culture, history, and environmental policies",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.6943796350141536
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent located in the Northern Hemisphere, comprising many countries with diverse cultures, languages, and environments",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7375131626160987
+    },
+    {
+      "name": "mammals",
+      "label": "organism",
+      "description": "A class of warm-blooded animals that have hair or fur, and produce milk to feed their young",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.711442400285649
+    },
+    {
+      "name": "birds",
+      "label": "organism",
+      "description": "A class of warm-blooded animals that have feathers, beaks, and lay eggs",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.6764891941637555
+    }
+  ],
+  "(4433, 6889)": [
+    {
+      "name": "mammals",
+      "label": "organism",
+      "description": "A group of warm-blooded animals that include humans, livestock, and wildlife, potentially affected by methomyl residues",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.5671869208505008
+    },
+    {
+      "name": "birds",
+      "label": "organism",
+      "description": "A group of warm-blooded animals that can be affected by methomyl residues in the environment",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.5567577402684722
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, where methomyl can be distributed",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5870802556516351
+    },
+    {
+      "name": "air",
+      "label": "location",
+      "description": "The gaseous mixture surrounding the Earth, where methomyl can be distributed and affect organisms",
+      "uuid": "a8d070ea-9ffd-4dcc-bb78-799e20f16de8",
+      "score": 0.5487272521063101
+    }
+  ],
+  "(6489, 9073)": [
+    {
+      "name": "air",
+      "label": "medium",
+      "description": "The gaseous substance surrounding the Earth, which can be contaminated with pollutants",
+      "uuid": "78533b60-f7e2-4882-bd57-5d5049980abf",
+      "score": 0.6254194183667054
+    },
+    {
+      "name": "water",
+      "label": "medium",
+      "description": "A liquid substance essential for life, which can be contaminated with pollutants",
+      "uuid": "42c6d91b-afef-4638-95c5-0d130828b2e7",
+      "score": 0.521877136976743
+    },
+    {
+      "name": "soil",
+      "label": "medium",
+      "description": "The upper layer of the Earth's surface, which can be contaminated with pollutants",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6020583863486721
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Europe where a survey on methomyl exposure was conducted",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.5253523252096212
+    },
+    {
+      "name": "mammals",
+      "label": "organisms",
+      "description": "A group of warm-blooded animals that can be affected by methomyl",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.597324329363226
+    },
+    {
+      "name": "birds",
+      "label": "organisms",
+      "description": "A group of warm-blooded animals that can be affected by methomyl",
+      "uuid": "1bf8f27a-d6ff-4cb6-acb7-7e5cce11e029",
+      "score": 0.568378219985912
+    },
+    {
+      "name": "ecosystems",
+      "label": "ecosystem",
+      "description": "Complex networks of living organisms and their physical environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6906672506944739
+    },
+    {
+      "name": "sorption",
+      "label": "process",
+      "description": "The absorption or adsorption of pollutants by soil or other materials",
+      "uuid": "e497c2e3-cd21-4af9-9a5d-91da4e201631",
+      "score": 0.5292575620016595
+    },
+    {
+      "name": "oxidation",
+      "label": "degradation process",
+      "description": "A chemical reaction that can break down pollutants",
+      "uuid": "9c2f3bee-4629-4607-9962-12fe919594a0",
+      "score": 0.5250931973428412
+    }
+  ],
+  "(8649, 11383)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, and supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6254320733250105
+    },
+    {
+      "name": "water",
+      "label": "location",
+      "description": "A vital component of ecosystems, essential for life and influencing climate and environmental conditions",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5445065247410578
+    },
+    {
+      "name": "amphibians",
+      "label": "organism",
+      "description": "A group of cold-blooded animals, including frogs and toads, that are sensitive to environmental changes and pollutants",
+      "uuid": "a27837ae-62f7-4931-9da1-0bf63f4755fc",
+      "score": 0.6369792346640482
+    },
+    {
+      "name": "land mammals",
+      "label": "organism",
+      "description": "A group of warm-blooded animals that live on land and are affected by methomyl exposure",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.5248742040165376
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "Complex networks of living organisms and their environment, influenced by methomyl contamination",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.60758114551797
+    }
+  ],
+  "(10921, 13678)": [
+    {
+      "name": "mammals",
+      "label": "organism",
+      "description": "A group of warm-blooded animals that give birth to live young and produce milk to feed their offspring, including humans",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.6769086878702706
+    },
+    {
+      "name": "rats",
+      "label": "organism",
+      "description": "A common laboratory animal used in scientific research, particularly in the fields of biology, psychology, and medicine",
+      "uuid": "fae29067-5d65-455a-a515-b1ac52881285",
+      "score": 0.5253127556981976
+    },
+    {
+      "name": "DNA",
+      "label": "molecule",
+      "description": "A molecule that contains the genetic instructions used in the development and function of all living organisms",
+      "uuid": "66034667-3a75-401d-894e-57f604d56571",
+      "score": 0.6580598917136856
+    },
+    {
+      "name": "UV",
+      "label": "radiation",
+      "description": "A type of electromagnetic radiation with a shorter wavelength than visible light, often used to disinfect and degrade pollutants",
+      "uuid": "90e7fd13-2da2-4ba6-9e0c-dbecdf7c2215",
+      "score": 0.6062597350286759
+    },
+    {
+      "name": "H2O2",
+      "label": "chemical",
+      "description": "A type of hydrogen peroxide, a strong oxidizing agent used to degrade pollutants",
+      "uuid": "75662ed3-35c5-41ee-abba-51ce435d1b31",
+      "score": 0.6186839769059004
+    },
+    {
+      "name": "O3",
+      "label": "chemical",
+      "description": "A type of ozone, a strong oxidizing agent used to degrade pollutants",
+      "uuid": "b4212921-624a-40b6-a5d5-ad1aec695ff8",
+      "score": 0.5575201505487032
+    }
+  ],
+  "(13193, 15493)": [
+    {
+      "name": "H 2 O 2 ",
+      "label": "instrument",
+      "description": "Hydrogen peroxide, a strong oxidizing agent used to degrade pollutants",
+      "uuid": "75662ed3-35c5-41ee-abba-51ce435d1b31",
+      "score": 0.6414543881730169
+    },
+    {
+      "name": "O 3 ",
+      "label": "instrument",
+      "description": "Ozone, a strong oxidizing agent used to degrade pollutants",
+      "uuid": "b4212921-624a-40b6-a5d5-ad1aec695ff8",
+      "score": 0.552855349662019
+    }
+  ],
+  "(15167, 17679)": [
+    {
+      "name": "Hydroxyl radicals",
+      "label": "variable",
+      "description": "Highly reactive molecules that play a crucial role in the degradation of organic pollutants, such as methomyl",
+      "uuid": "5b49fd6d-3759-4b61-8b04-8309f38b2f90",
+      "score": 0.6542411124772861
+    },
+    {
+      "name": "H2O2",
+      "label": "variable",
+      "description": "A type of hydrogen peroxide that is used to produce hydroxyl radicals",
+      "uuid": "75662ed3-35c5-41ee-abba-51ce435d1b31",
+      "score": 0.5918229463983131
+    }
+  ],
+  "(17149, 19931)": [
+    {
+      "name": "oxidation",
+      "label": "chemical reaction",
+      "description": "A process in chemistry where an atom, molecule, or ion loses one or more electrons, often resulting in the gain of oxygen or loss of hydrogen",
+      "uuid": "9c2f3bee-4629-4607-9962-12fe919594a0",
+      "score": 0.5979660665956409
+    },
+    {
+      "name": "NO3\u2212",
+      "label": "chemical",
+      "description": "Nitrate ion, a final inorganic product formed during the degradation of methomyl",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.5381832916832998
+    },
+    {
+      "name": "SO42\u2212",
+      "label": "chemical",
+      "description": "Sulfate ion, a final inorganic product formed during the degradation of methomyl",
+      "uuid": "2ab4134d-1ac7-4421-a7a6-659a542aff4c",
+      "score": 0.5559937586350969
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where chemical reactions and degradation processes can occur",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.5822761241884735
+    },
+    {
+      "name": "sewage treatment systems",
+      "label": "location",
+      "description": "Infrastructure designed to treat and manage wastewater, where micro-organisms can be found to degrade methomyl",
+      "uuid": "835c5ec2-50e3-4bef-b380-9f74b143dac6",
+      "score": 0.5058212089583439
+    },
+    {
+      "name": "irrigation areas",
+      "label": "location",
+      "description": "Regions where water is applied to crops to support their growth, where micro-organisms can be found to degrade methomyl",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5434124865096127
+    }
+  ],
+  "(19462, 21835)": [
+    {
+      "name": "Biodegrading micro-organisms",
+      "label": "instrument",
+      "description": "Organisms capable of breaking down chemical compounds, including pesticides, through biological processes",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.515206095901678
+    },
+    {
+      "name": "algae",
+      "label": "instrument",
+      "description": "Microorganisms that can potentially degrade pesticides, such as methomyl",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.5394769079196878
+    },
+    {
+      "name": "irrigation areas",
+      "label": "location",
+      "description": "Agricultural areas where water is applied to crops, which can be a source of microorganisms capable of degrading pesticides",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5409560984966796
+    }
+  ],
+  "(23650, 26265)": [
+    {
+      "name": "rivers",
+      "label": "location",
+      "description": "Natural flowing bodies of water that can be contaminated with pollutants like methomyl",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.5732969479211155
+    },
+    {
+      "name": "sewage treatment systems",
+      "label": "platform",
+      "description": "Infrastructure designed to remove pollutants from wastewater",
+      "uuid": "835c5ec2-50e3-4bef-b380-9f74b143dac6",
+      "score": 0.5392267734135482
+    }
+  ],
+  "(25870, 28431)": [
+    {
+      "name": "formic acid",
+      "label": "variable",
+      "description": "A compound produced during the degradation of methomyl, resulting from the breakdown of methyl carbamic acid",
+      "uuid": "eb1bfadc-8aa6-477b-af6a-6c320aa21351",
+      "score": 0.5970541123887324
+    },
+    {
+      "name": "dimethyl disulfide",
+      "label": "variable",
+      "description": "A compound produced during the fungal degradation of methomyl, resulting from the cleavage of C-S bonds",
+      "uuid": "5d282de9-162a-4aeb-a48d-4569fbbd5205",
+      "score": 0.5106710009734359
+    },
+    {
+      "name": "toxicity",
+      "label": "variable",
+      "description": "The degree to which a substance, such as methomyl, can harm or poison living organisms",
+      "uuid": "5518feb6-93a8-46fd-9e9a-25be3a832d6d",
+      "score": 0.5947092395899581
+    }
+  ],
+  "(27914, 30536)": [
+    {
+      "name": "metagenomics",
+      "label": "instrument",
+      "description": "An advanced molecular technique used to study the genetic material of microorganisms in environmental samples",
+      "uuid": "6aafe55d-2349-42b2-83b3-0dbdfdddd4ee",
+      "score": 0.6726285115782854
+    },
+    {
+      "name": "transcriptomics",
+      "label": "instrument",
+      "description": "A molecular technique used to analyze the expression of genes in an organism or a community of organisms",
+      "uuid": "19291970-5f7d-47b0-9101-11b03a15d9ee",
+      "score": 0.686139438153733
+    },
+    {
+      "name": "proteomics",
+      "label": "instrument",
+      "description": "A branch of genomics that studies the structure and function of proteins in an organism or a community of organisms",
+      "uuid": "dd6592c0-c95a-4e4f-8ae7-8bfae7de9a3e",
+      "score": 0.6934824892356442
+    },
+    {
+      "name": "toxicity",
+      "label": "variable",
+      "description": "The degree to which a substance can harm or poison living organisms",
+      "uuid": "5518feb6-93a8-46fd-9e9a-25be3a832d6d",
+      "score": 0.6437203039434394
+    }
+  ],
+  "(30526, 30536)": [
+    {
+      "name": "experiment",
+      "label": "experiment",
+      "description": "A structured simulation designed to test specific hypotheses, investigate climate processes, or assess the impact of various forcings on the climate system",
+      "uuid": "d69f7457-db31-48ce-b8c2-98058c412bc6",
+      "score": 0.6849108263204021
+    }
+  ]
+}

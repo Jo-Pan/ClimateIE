@@ -1,0 +1,1344 @@
+{
+  "(0, 2941)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "The Representation Concentration Pathway 8.5, a high emission scenario used to project future climate changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6823038268251247
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States, a country in North America with diverse climate zones",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6932168659222433
+    },
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The contiguous United States, excluding Alaska and Hawaii, with varying climate conditions across different regions",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.6883245875429275
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree-Days, a measure of the energy demand for heating buildings",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6559716533779144
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree-Days, a measure of the energy demand for cooling buildings",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6699042941321715
+    },
+    {
+      "name": "Climate Change Science Program",
+      "label": "provider",
+      "description": "A US program that coordinates and supports research on climate change science",
+      "uuid": "1cb6e038-d017-48f0-8847-f7b021a091c3",
+      "score": 0.6761402516201167
+    },
+    {
+      "name": "global mean surface temperature",
+      "label": "variable",
+      "description": "The average temperature of the Earth's surface, an important indicator of global climate change",
+      "uuid": "b89a35ce-3a58-4a01-88b5-4f2b1f10aa06",
+      "score": 0.552976855080637
+    },
+    {
+      "name": "New York, NY",
+      "label": "location",
+      "description": "A city in the northeastern United States, known for its diverse climate and high population density",
+      "uuid": "854d0bb3-dcc3-48eb-a65a-2d26a8b87394",
+      "score": 0.6095949894398158
+    },
+    {
+      "name": "Oklahoma City, OK",
+      "label": "location",
+      "description": "A city in the south-central United States, characterized by a temperate climate with hot summers",
+      "uuid": "31ea4578-9b23-4f66-b454-b7dae358267c",
+      "score": 0.5876406978639622
+    }
+  ],
+  "(2364, 5293)": [
+    {
+      "name": "heating degree-days",
+      "label": "variable",
+      "description": "A measure of the amount of heating needed to maintain indoor thermal comfort, calculated from temperature deviations from a base temperature over time",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.7312886179328854
+    },
+    {
+      "name": "cooling degree-days",
+      "label": "variable",
+      "description": "A measure of the amount of cooling needed to maintain indoor thermal comfort, calculated from temperature deviations from a base temperature over time",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.7420809728534932
+    },
+    {
+      "name": "weather events",
+      "label": "weather event",
+      "description": "Occurrences such as heatwaves, storms, or other significant meteorological phenomena that impact outdoor thermal comfort and energy demand",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.6758439113072319
+    },
+    {
+      "name": "maximum and minimum daily temperatures",
+      "label": "variable",
+      "description": "The highest and lowest temperatures recorded in a 24-hour period, used in calculating degree-days",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6335501195352465
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, where climate change is projected to alter the balance between residential heating and cooling needs",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5916268748893554
+    },
+    {
+      "name": "building",
+      "label": "platform",
+      "description": "A structure designed for human habitation or use, with its own unique thermal characteristics and energy requirements",
+      "uuid": "d7742082-5461-4610-9ced-e0ec3bb64697",
+      "score": 0.5717942584862757
+    },
+    {
+      "name": "climate simulation models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6258620489840683
+    },
+    {
+      "name": "statistical analyses",
+      "label": "model",
+      "description": "The use of statistical techniques to analyze and interpret data, often used in climate and energy research",
+      "uuid": "997dc5a6-d83f-4d59-8c5a-1d901b069830",
+      "score": 0.6157271681775645
+    },
+    {
+      "name": "degree-days",
+      "label": "variable",
+      "description": "A measure of the amount of heating or cooling needed to maintain indoor thermal comfort, calculated from temperature deviations from a base temperature over time",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6375284462718925
+    }
+  ],
+  "(4825, 7815)": [
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the energy required for heating a building over a specific period",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6472257456973969
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the energy required for cooling a building over a specific period",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6697990256740017
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, comprising a diverse range of climates and regions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7378375305395108
+    },
+    {
+      "name": "outdoor thermal comfort",
+      "label": "variable",
+      "description": "A measure of how comfortable people feel in outdoor environments, influenced by factors such as temperature, humidity, and wind",
+      "uuid": "5bdc74e2-ea3a-4d1d-b64e-9eaf3a879545",
+      "score": 0.5039729583069011
+    },
+    {
+      "name": "global warming",
+      "label": "natural hazard",
+      "description": "The long-term rise in Earth's average surface temperature, primarily caused by human activities such as burning fossil fuels and deforestation",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.531451838372214
+    }
+  ],
+  "(7268, 10132)": [
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    },
+    {
+      "name": "US Climate Normals",
+      "label": "project",
+      "description": "A dataset of climate normals developed by NOAA, providing information on average climate conditions across the United States",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.586633132658125
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high greenhouse gas emissions scenario used in climate modeling to project future climate changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6749890184253196
+    },
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The 48 connected states of the United States, excluding Alaska and Hawaii",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7570501156221632
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "The largest and most sparsely populated state in the United States, known for its cold and varied climate",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.6856180042853002
+    },
+    {
+      "name": "Hawaii",
+      "label": "location",
+      "description": "A state in the United States located in the Pacific Ocean, known for its tropical climate and unique ecosystems",
+      "uuid": "017ac312-b650-4800-992f-5167708b4d31",
+      "score": 0.7198340430995003
+    },
+    {
+      "name": "heating degree-days",
+      "label": "variable",
+      "description": "A measure of the energy demand for heating buildings, calculated as the sum of the differences between the outdoor temperature and a base temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.7180865096802342
+    },
+    {
+      "name": "cooling degree-days",
+      "label": "variable",
+      "description": "A measure of the energy demand for cooling buildings, calculated as the sum of the differences between the outdoor temperature and a base temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.7339567614960095
+    },
+    {
+      "name": "weather stations",
+      "label": "instrument",
+      "description": "Locations equipped with instruments to measure and record weather conditions such as temperature, humidity, and precipitation",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.650467118933479
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The amount of water vapor in the air compared to the maximum amount of water vapor the air can hold at a given temperature",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7313565814511535
+    },
+    {
+      "name": "high latitudes",
+      "label": "location",
+      "description": "Regions of the Earth located far from the equator, characterized by cold climates and unique ecosystems",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.5609617608201871
+    }
+  ],
+  "(9676, 12235)": [
+    {
+      "name": "Hawaii",
+      "label": "location",
+      "description": "The state of Hawaii, an island chain in the Pacific Ocean, known for its tropical climate and unique ecosystems",
+      "uuid": "017ac312-b650-4800-992f-5167708b4d31",
+      "score": 0.6693785868678355
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "The state of Alaska, located in the northwest corner of North America, characterized by its cold and subarctic climate",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7369651647805942
+    },
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The contiguous United States, comprising the 48 states on the North American continent, excluding Alaska and Hawaii",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.76269489017981
+    },
+    {
+      "name": "western Wyoming",
+      "label": "location",
+      "description": "A region in the state of Wyoming, characterized by its mountainous terrain and cold climate",
+      "uuid": "c2847793-0bb8-41cf-b3e0-d4e4b27914ce",
+      "score": 0.572442983335839
+    },
+    {
+      "name": "upper North Dakota",
+      "label": "location",
+      "description": "A region in the state of North Dakota, known for its cold and continental climate",
+      "uuid": "25ff6e15-1d40-4df6-b008-eb11c3a199d9",
+      "score": 0.5622243938068464
+    },
+    {
+      "name": "northern Minnesota",
+      "label": "location",
+      "description": "A region in the state of Minnesota, characterized by its cold and subarctic climate",
+      "uuid": "2e2d65b6-d3de-4921-877c-2d3a4e447978",
+      "score": 0.5151379371154959
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the amount of cooling required to maintain a comfortable indoor temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6836823486185548
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the amount of heating required to maintain a comfortable indoor temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6549544611905181
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "The amount of moisture in the air, an important factor in determining outdoor thermal comfort",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6521913823898365
+    },
+    {
+      "name": "sunshine",
+      "label": "variable",
+      "description": "The amount of solar radiation received by a location, influencing outdoor thermal comfort and energy demand",
+      "uuid": "86c95fdb-17b9-4224-a020-b1aacbea00fd",
+      "score": 0.6356354808804651
+    },
+    {
+      "name": "wind",
+      "label": "variable",
+      "description": "The movement of air in the atmosphere, affecting outdoor thermal comfort and energy demand",
+      "uuid": "a628333f-aea2-42cf-b930-c8c859ee0547",
+      "score": 0.5368596892560372
+    }
+  ],
+  "(11822, 14391)": [
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The 48 connected states of the United States, excluding Alaska and Hawaii, which share borders with each other",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7513047804171066
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state on the West Coast of the United States, known for its diverse geography and climate",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6758667882254278
+    },
+    {
+      "name": "Wyoming",
+      "label": "location",
+      "description": "A state in the western United States, known for its mountainous terrain and cold winters",
+      "uuid": "c2847793-0bb8-41cf-b3e0-d4e4b27914ce",
+      "score": 0.6771819604439966
+    },
+    {
+      "name": "North Dakota",
+      "label": "location",
+      "description": "A state in the northern United States, known for its cold winters and agricultural land",
+      "uuid": "25ff6e15-1d40-4df6-b008-eb11c3a199d9",
+      "score": 0.6797663047711106
+    },
+    {
+      "name": "Minnesota",
+      "label": "location",
+      "description": "A state in the northern United States, known for its cold winters and numerous lakes",
+      "uuid": "2e2d65b6-d3de-4921-877c-2d3a4e447978",
+      "score": 0.622905695434571
+    },
+    {
+      "name": "Hawaii",
+      "label": "location",
+      "description": "A state in the United States, located in the Pacific Ocean, known for its tropical climate",
+      "uuid": "017ac312-b650-4800-992f-5167708b4d31",
+      "score": 0.7167861636179761
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States, located in the northwest corner of North America, known for its cold and rugged climate",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7461586028014997
+    },
+    {
+      "name": "Colorado",
+      "label": "location",
+      "description": "A state in the western United States, known for its mountainous terrain and varying climate",
+      "uuid": "e10d421b-11fd-4344-b0ad-b4d3eaec2fe5",
+      "score": 0.6329068489763923
+    },
+    {
+      "name": "Nashville",
+      "label": "location",
+      "description": "The capital city of Tennessee, located in the southeastern United States",
+      "uuid": "29ad7c2a-42d5-49e6-9093-e758da70432e",
+      "score": 0.5064451375217819
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the amount of heating required to maintain a certain temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6544570711331325
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the amount of cooling required to maintain a certain temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6836134779513101
+    }
+  ],
+  "(13894, 16364)": [
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state located on the West Coast of the United States, known for its diverse climate and geography",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.7067579690590289
+    },
+    {
+      "name": "Hawaii",
+      "label": "location",
+      "description": "A state located in the Pacific Ocean, known for its tropical climate and unique ecosystems",
+      "uuid": "017ac312-b650-4800-992f-5167708b4d31",
+      "score": 0.7084303571575835
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country located in North America, known for its diverse climate and geography",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7410934114009533
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high emission climate scenario used to estimate future climate change, characterized by a high level of greenhouse gas emissions and a corresponding increase in global temperatures",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6743439589589887
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the amount of heating required to maintain a comfortable indoor temperature, used to estimate energy demand",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6503911811661994
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the amount of cooling required to maintain a comfortable indoor temperature, used to estimate energy demand",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6833361653257485
+    },
+    {
+      "name": "degree-day sum",
+      "label": "variable",
+      "description": "A measure of the total amount of heating or cooling required over a given period, used to estimate energy demand",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5826611594062119
+    },
+    {
+      "name": "Oregon",
+      "label": "location",
+      "description": "A state in the Pacific Northwest region of the United States, known for its diverse climate and geography",
+      "uuid": "699d5c22-6bcd-4cfa-be0f-f06e34a63513",
+      "score": 0.7121962858605303
+    },
+    {
+      "name": "North-western Washington",
+      "label": "location",
+      "description": "A region in the state of Washington, known for its coastal climate and diverse ecosystems",
+      "uuid": "dcef091b-18b5-48bf-b191-69ab7a3511f1",
+      "score": 0.5427773611641138
+    },
+    {
+      "name": "Southern Texas",
+      "label": "location",
+      "description": "A region in the state of Texas, known for its hot and humid climate",
+      "uuid": "592c9ac4-74d9-495a-8736-f4d0e4dc3a2b",
+      "score": 0.5129477744159024
+    }
+  ],
+  "(16030, 18372)": [
+    {
+      "name": "North-western Washington",
+      "label": "location",
+      "description": "A region in the state of Washington, USA, characterized by its proximity to the Pacific Ocean and mountainous terrain",
+      "uuid": "dcef091b-18b5-48bf-b191-69ab7a3511f1",
+      "score": 0.5741102989262433
+    },
+    {
+      "name": "Southern Texas",
+      "label": "location",
+      "description": "A region in the state of Texas, USA, known for its hot and humid climate",
+      "uuid": "592c9ac4-74d9-495a-8736-f4d0e4dc3a2b",
+      "score": 0.528496491691204
+    },
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The 48 adjacent states of the United States, excluding Alaska and Hawaii",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7411834397036415
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "The largest and most sparsely populated state in the United States, located in the northwest corner of North America",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7024382169293176
+    },
+    {
+      "name": "Hawaii",
+      "label": "location",
+      "description": "A state in the United States, located in the Pacific Ocean, known for its tropical climate and unique geography",
+      "uuid": "017ac312-b650-4800-992f-5167708b4d31",
+      "score": 0.7223917501191949
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the energy demand for cooling, calculated as the number of days with temperatures above a certain threshold",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6897751001331834
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the energy demand for heating, calculated as the number of days with temperatures below a certain threshold",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6657959228640966
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to describe weather and climate patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6582783430865894
+    }
+  ],
+  "(17975, 20256)": [
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The 48 connected states in the United States, excluding Alaska and Hawaii, which are the main landmass of the country",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7487480693916707
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "The largest and most sparsely populated state in the United States, located in the northwest corner of North America",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7024382169293176
+    },
+    {
+      "name": "Hawaii",
+      "label": "location",
+      "description": "A state in the United States, located in the Pacific Ocean, known for its tropical climate and unique geography",
+      "uuid": "017ac312-b650-4800-992f-5167708b4d31",
+      "score": 0.7223917501191949
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state on the West Coast of the United States, known for its diverse climate and geography",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6730028522581338
+    },
+    {
+      "name": "North Dakota",
+      "label": "location",
+      "description": "A state in the northern United States, known for its cold winters and agricultural production",
+      "uuid": "25ff6e15-1d40-4df6-b008-eb11c3a199d9",
+      "score": 0.6757732077034745
+    },
+    {
+      "name": "Southern Florida",
+      "label": "location",
+      "description": "A region in the southeastern United States, known for its subtropical climate and high population density",
+      "uuid": "592c9ac4-74d9-495a-8736-f4d0e4dc3a2b",
+      "score": 0.5051909320257889
+    },
+    {
+      "name": "northern Maine",
+      "label": "location",
+      "description": "A region in the northeastern United States, known for its cold winters and rugged coastline",
+      "uuid": "fcc2ca75-790a-4e69-80b6-7af8be328a71",
+      "score": 0.5983428616038917
+    },
+    {
+      "name": "heating degree days (HDD)",
+      "label": "variable",
+      "description": "A measure of the energy required to heat a building or space, typically measured in degree-days",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6844410444371245
+    },
+    {
+      "name": "cooling degree days (CDD)",
+      "label": "variable",
+      "description": "A measure of the energy required to cool a building or space, typically measured in degree-days",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.7032465631180379
+    }
+  ],
+  "(19840, 22179)": [
+    {
+      "name": "Hawaii",
+      "label": "location",
+      "description": "The most recent of the 50 U.S. states, located in the Pacific Ocean and known for its tropical climate",
+      "uuid": "017ac312-b650-4800-992f-5167708b4d31",
+      "score": 0.6798007283055818
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the western United States, known for its diverse climate, geography, and population",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6509030459952361
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse climates, geography, and ecosystems",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7178157153394414
+    },
+    {
+      "name": "degree-day sum",
+      "label": "variable",
+      "description": "A measure of the amount of heating or cooling needed to maintain a certain temperature, used to estimate energy demand",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5963921882644551
+    },
+    {
+      "name": "heating",
+      "label": "variable",
+      "description": "The process of increasing the temperature of a system or environment, often used in the context of energy demand and climate",
+      "uuid": "06a24fd2-38b6-4a4a-a0cf-1abf149283e2",
+      "score": 0.5411770776602683
+    },
+    {
+      "name": "cooling",
+      "label": "variable",
+      "description": "The process of decreasing the temperature of a system or environment, often used in the context of energy demand and climate",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5231379692632239
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the amount of heating needed to maintain a certain temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6539871778008189
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the amount of cooling needed to maintain a certain temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6855344375981757
+    }
+  ],
+  "(21769, 24209)": [
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The 48 connected states of the United States, excluding Alaska and Hawaii, which share a common border",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7452238785751639
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state located on the West Coast of the United States, known for its diverse climate and geography",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.7067579690590289
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the energy required for heating buildings, calculated as the difference between the average daily temperature and a base temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6575704716273079
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the energy required for cooling buildings, calculated as the difference between the average daily temperature and a base temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6836940275986921
+    },
+    {
+      "name": "US cities",
+      "label": "location",
+      "description": "Cities located within the United States, representing various climate regimes and geographic diversity",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5289467371533879
+    }
+  ],
+  "(23745, 26198)": [
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    },
+    {
+      "name": "US cities",
+      "label": "location",
+      "description": "Major urban areas in the United States, often serving as hubs for economic, cultural, and environmental activities",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5205837927227518
+    },
+    {
+      "name": "degree-day",
+      "label": "variable",
+      "description": "A measure of the amount of heating or cooling required to maintain a comfortable indoor temperature, often used in climate and energy studies",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6389429513946695
+    },
+    {
+      "name": "global warming",
+      "label": "teleconnection",
+      "description": "The long-term increase in Earth's average surface temperature due to human activities, particularly the emission of greenhouse gases",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5350451038963798
+    },
+    {
+      "name": "New York City",
+      "label": "location",
+      "description": "A major city in New York, known for its humid subtropical climate and significant environmental, economic, and cultural impacts",
+      "uuid": "854d0bb3-dcc3-48eb-a65a-2d26a8b87394",
+      "score": 0.5242314945826554
+    },
+    {
+      "name": "Oklahoma City",
+      "label": "location",
+      "description": "A city in Oklahoma, recognized for its humid subtropical climate and vulnerability to climate-related hazards",
+      "uuid": "31ea4578-9b23-4f66-b454-b7dae358267c",
+      "score": 0.5154209501868294
+    },
+    {
+      "name": "cooling demand",
+      "label": "variable",
+      "description": "The amount of energy required to maintain a comfortable indoor temperature during hot weather",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5126105546641894
+    }
+  ],
+  "(25821, 28631)": [
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "weather stations",
+      "label": "platform",
+      "description": "Locations equipped with instruments for observing and recording weather conditions",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.6555378445820512
+    },
+    {
+      "name": "latitude",
+      "label": "variable",
+      "description": "A geographic coordinate used to measure the distance north or south of the equator on Earth's surface",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6766087739700248
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the energy demand for heating buildings and spaces",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6553065320079503
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the energy demand for cooling buildings and spaces",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6725146662358756
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high greenhouse gas emission climate scenario used in the Coupled Model Intercomparison Project Phase 5 to project future climate changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6985410646602467
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse climate regions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7128768264263222
+    }
+  ],
+  "(28158, 31095)": [
+    {
+      "name": "RCP8.5",
+      "label": "scenario",
+      "description": "A high greenhouse gas emissions scenario used in climate modeling, representing a future with significant global warming",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6699173338853873
+    },
+    {
+      "name": "US regions",
+      "label": "location",
+      "description": "Geographic areas within the United States, often used for studying regional climate patterns and impacts",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.5891361847861927
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the energy demand for heating in buildings",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6532858287740158
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the energy demand for cooling in buildings",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6696792547087108
+    },
+    {
+      "name": "HDD + CDD",
+      "label": "variable",
+      "description": "The sum of Heating Degree Days and Cooling Degree Days, used as an indicator of overall demand for heating and cooling",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5512478888656186
+    },
+    {
+      "name": "coastal Hawaii",
+      "label": "location",
+      "description": "The islands of Hawaii, located in the Pacific Ocean, with a tropical climate and unique ecosystems",
+      "uuid": "2006ec69-34f2-4ece-8823-6dc49f892b02",
+      "score": 0.5943566127111591
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "The northernmost state in the United States, characterized by a cold and subarctic climate",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.6961784403551033
+    },
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The 48 connected states of the United States, excluding Alaska and Hawaii",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7570501156221632
+    },
+    {
+      "name": "Maryland",
+      "label": "location",
+      "description": "A state in the eastern United States, known for its diverse climate and geography",
+      "uuid": "417c01a8-79c5-40e6-affc-8a462b0b4336",
+      "score": 0.6874513198295862
+    },
+    {
+      "name": "tropical Hawaii",
+      "label": "location",
+      "description": "The islands of Hawaii, located in the Pacific Ocean, with a tropical climate and unique ecosystems",
+      "uuid": "2006ec69-34f2-4ece-8823-6dc49f892b02",
+      "score": 0.5961995256326273
+    },
+    {
+      "name": "northern regions",
+      "label": "location",
+      "description": "Geographic areas in the northern parts of the United States, often characterized by colder climates",
+      "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+      "score": 0.5093147252844314
+    },
+    {
+      "name": "southern regions",
+      "label": "location",
+      "description": "Geographic areas in the southern parts of the United States, often characterized by warmer climates",
+      "uuid": "592c9ac4-74d9-495a-8736-f4d0e4dc3a2b",
+      "score": 0.5924015191638046
+    }
+  ],
+  "(30627, 33283)": [
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the amount of energy required for heating a building or region",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6594847898450821
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the amount of energy required for cooling a building or region",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6741164026826771
+    },
+    {
+      "name": "New York, NY",
+      "label": "location",
+      "description": "The most populous city in the United States, located in the state of New York",
+      "uuid": "854d0bb3-dcc3-48eb-a65a-2d26a8b87394",
+      "score": 0.5394955572612746
+    },
+    {
+      "name": "Washington, DC",
+      "label": "location",
+      "description": "The capital city of the United States, located on the east coast",
+      "uuid": "2ad8b29a-df7d-4fdc-b7b9-bcd2ff8d9866",
+      "score": 0.6440698480065259
+    },
+    {
+      "name": "Las Vegas, NV",
+      "label": "location",
+      "description": "A city located in the state of Nevada, known for its desert climate",
+      "uuid": "2bdea9ad-43c4-4559-a156-6dad5d9ba137",
+      "score": 0.5749444158885917
+    },
+    {
+      "name": "Boston, MA",
+      "label": "location",
+      "description": "The capital city of Massachusetts, located in the northeastern United States",
+      "uuid": "5ae6db89-e135-4e83-9317-c48ee0bc832c",
+      "score": 0.7188648257350315
+    },
+    {
+      "name": "Tulsa, OK",
+      "label": "location",
+      "description": "A city located in the state of Oklahoma, known for its temperate climate",
+      "uuid": "31ea4578-9b23-4f66-b454-b7dae358267c",
+      "score": 0.5142338947398064
+    },
+    {
+      "name": "Raleigh, NC",
+      "label": "location",
+      "description": "The capital city of North Carolina, located in the southeastern United States",
+      "uuid": "a6eb6bdd-8aec-475f-a660-b8603219a5b0",
+      "score": 0.5009506624182565
+    },
+    {
+      "name": "Mesa, AZ",
+      "label": "location",
+      "description": "A city located in the state of Arizona, known for its desert climate",
+      "uuid": "c46d59a8-d874-4db8-87f5-d59ecbb79a29",
+      "score": 0.5382231912302199
+    },
+    {
+      "name": "Seattle, WA",
+      "label": "location",
+      "description": "The largest city in the state of Washington, located on the west coast",
+      "uuid": "dcef091b-18b5-48bf-b191-69ab7a3511f1",
+      "score": 0.5263061399695523
+    },
+    {
+      "name": "Portland, OR",
+      "label": "location",
+      "description": "The largest city in the state of Oregon, known for its temperate climate",
+      "uuid": "11a7e181-3804-4ec7-8717-446546fdd014",
+      "score": 0.5487819429621805
+    },
+    {
+      "name": "Oklahoma, OK",
+      "label": "location",
+      "description": "A state located in the south-central United States, known for its temperate climate",
+      "uuid": "31ea4578-9b23-4f66-b454-b7dae358267c",
+      "score": 0.7031035970001054
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario of high greenhouse gas emissions, used to project future climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6766808983683044
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country located in North America, known for its diverse climate and geography",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7648336492942238
+    }
+  ],
+  "(32832, 35594)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A climate change scenario that assumes a high greenhouse gas emission pathway, leading to significant warming by the end of the century",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6630865728688744
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, with diverse climate zones and significant influence on global climate patterns",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6755308745154602
+    },
+    {
+      "name": "Degree-day measures",
+      "label": "variable",
+      "description": "Indicators of heating and cooling demand, calculated based on daily temperature differences from a reference temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6492824470215214
+    },
+    {
+      "name": "Texas",
+      "label": "location",
+      "description": "A state in the United States known for its hot summers and variable climate",
+      "uuid": "0f01d3b9-3691-471e-b21b-3f42c512dcd2",
+      "score": 0.5943381123528886
+    },
+    {
+      "name": "Minnesota",
+      "label": "location",
+      "description": "A state in the United States with a continental climate, experiencing cold winters and warm summers",
+      "uuid": "2e2d65b6-d3de-4921-877c-2d3a4e447978",
+      "score": 0.6457855159881729
+    },
+    {
+      "name": "North-western Washington state",
+      "label": "location",
+      "description": "A region in the United States characterized by a mild oceanic climate",
+      "uuid": "dcef091b-18b5-48bf-b191-69ab7a3511f1",
+      "score": 0.5325397963828633
+    },
+    {
+      "name": "Southern Texas",
+      "label": "location",
+      "description": "A region in the United States known for its hot and dry climate",
+      "uuid": "592c9ac4-74d9-495a-8736-f4d0e4dc3a2b",
+      "score": 0.5082906913584169
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the amount of heating required to maintain a comfortable indoor temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6642875083191684
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the amount of cooling required to maintain a comfortable indoor temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6873497746422454
+    },
+    {
+      "name": "North Dakota",
+      "label": "location",
+      "description": "A state in the United States with a continental climate, experiencing cold winters and warm summers",
+      "uuid": "25ff6e15-1d40-4df6-b008-eb11c3a199d9",
+      "score": 0.6332433819454083
+    },
+    {
+      "name": "Maine",
+      "label": "location",
+      "description": "A state in the United States with a humid continental climate, known for its cold winters and mild summers",
+      "uuid": "fcc2ca75-790a-4e69-80b6-7af8be328a71",
+      "score": 0.6590379085761153
+    },
+    {
+      "name": "Florida",
+      "label": "location",
+      "description": "A state in the United States with a subtropical climate, characterized by warm temperatures and high humidity",
+      "uuid": "b607766c-83f5-42bb-96b2-2de4e7b488a4",
+      "score": 0.5692293337082925
+    },
+    {
+      "name": "New York",
+      "label": "location",
+      "description": "A city in the United States with a humid subtropical climate, experiencing cold winters and hot summers",
+      "uuid": "854d0bb3-dcc3-48eb-a65a-2d26a8b87394",
+      "score": 0.5429472973924618
+    },
+    {
+      "name": "Oklahoma City",
+      "label": "location",
+      "description": "A city in the United States with a humid subtropical climate, characterized by hot summers and mild winters",
+      "uuid": "31ea4578-9b23-4f66-b454-b7dae358267c",
+      "score": 0.5392587555460926
+    }
+  ],
+  "(35166, 37546)": [
+    {
+      "name": "CA",
+      "label": "location",
+      "description": "A state in the United States known for its diverse climate and geography",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.6115148001614001
+    },
+    {
+      "name": "New York",
+      "label": "location",
+      "description": "A state in the northeastern United States, known for its urbanized areas and varying climate conditions",
+      "uuid": "854d0bb3-dcc3-48eb-a65a-2d26a8b87394",
+      "score": 0.6286300394708166
+    },
+    {
+      "name": "Oklahoma City",
+      "label": "location",
+      "description": "The capital city of Oklahoma, a state in the south-central United States, known for its continental climate",
+      "uuid": "31ea4578-9b23-4f66-b454-b7dae358267c",
+      "score": 0.5789308332884269
+    },
+    {
+      "name": "RCP8.5",
+      "label": "project",
+      "description": "A climate change scenario that represents a \"business as usual\" approach, with high greenhouse gas emissions and significant climate change impacts",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6476879814334877
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the amount of energy needed to heat a building or a region",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6556052686862541
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the amount of energy needed to cool a building or a region",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6744014254400256
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "Daily minimum and maximum near-surface air temperature variables",
+      "label": "variable",
+      "description": "Measurements of the lowest and highest air temperatures near the Earth's surface, used in climate studies and modeling",
+      "uuid": "efcb13d4-ce68-4d42-8cc5-932ac3ef6126",
+      "score": 0.6863812010039285
+    }
+  ],
+  "(37114, 39582)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the energy required for heating buildings, calculated as the difference between the daily mean temperature and a base temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6605990728712194
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the energy required for cooling buildings, calculated as the difference between the daily mean temperature and a base temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6838081622175975
+    },
+    {
+      "name": "near-surface air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, an important variable in climate and weather studies",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6503152846832592
+    },
+    {
+      "name": "World Climate Research Programme's Working Group on Coupled Modelling",
+      "label": "provider",
+      "description": "An international organization focused on coordinating and promoting climate research, particularly in the area of coupled modeling",
+      "uuid": "485e86f3-7cd1-43c0-bb02-a929b7d96e43",
+      "score": 0.6581609589002511
+    },
+    {
+      "name": "UK Met Office",
+      "label": "provider",
+      "description": "The national weather service for the United Kingdom, providing data, forecasts, and climate-related research",
+      "uuid": "1ec31c00-f97f-45a6-acfd-b597d5751d57",
+      "score": 0.6038048482945417
+    },
+    {
+      "name": "Minneapolis",
+      "label": "location",
+      "description": "A city in the state of Minnesota, USA, known for its continental climate",
+      "uuid": "2e2d65b6-d3de-4921-877c-2d3a4e447978",
+      "score": 0.5031973011649805
+    },
+    {
+      "name": "New York",
+      "label": "location",
+      "description": "A city in the state of New York, USA, known for its humid subtropical climate",
+      "uuid": "854d0bb3-dcc3-48eb-a65a-2d26a8b87394",
+      "score": 0.5930951675037557
+    }
+  ],
+  "(39142, 41833)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    },
+    {
+      "name": "contiguous US",
+      "label": "location",
+      "description": "The 48 connected states of the United States, excluding Alaska and Hawaii",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7570501156221632
+    },
+    {
+      "name": "Alaska",
+      "label": "location",
+      "description": "A state in the United States located in the northwest corner of North America, known for its diverse climate and geography",
+      "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+      "score": 0.7578366133907103
+    },
+    {
+      "name": "Hawaii",
+      "label": "location",
+      "description": "A state in the United States located in the Pacific Ocean, known for its tropical climate and volcanic geography",
+      "uuid": "017ac312-b650-4800-992f-5167708b4d31",
+      "score": 0.7234445461507528
+    },
+    {
+      "name": "longitude",
+      "label": "variable",
+      "description": "A measure of the distance east or west of the prime meridian, used to describe locations on Earth's surface",
+      "uuid": "67e9c8dd-8675-41d6-b81c-fef392de682d",
+      "score": 0.6613486079191263
+    },
+    {
+      "name": "latitude",
+      "label": "variable",
+      "description": "A measure of the distance north or south of the equator, used to describe locations on Earth's surface",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6879226012221753
+    },
+    {
+      "name": "United States Census Bureau",
+      "label": "provider",
+      "description": "A government agency responsible for collecting and analyzing data about the United States population and economy",
+      "uuid": "6e9aa091-715d-47cf-baee-047e5e63cbdc",
+      "score": 0.523185119669489
+    },
+    {
+      "name": "Microsoft Excel",
+      "label": "instrument",
+      "description": "A software application used for data analysis, visualization, and management",
+      "uuid": "e807acba-457e-4f7e-be44-da5f93f4118b",
+      "score": 0.683680708796882
+    }
+  ],
+  "(41357, 42556)": [
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the energy required to heat buildings and homes",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.652598783112146
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the energy required to cool buildings and homes",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6689538168989463
+    },
+    {
+      "name": "ArcMap 10.2",
+      "label": "instrument",
+      "description": "A geographic information system software used for mapping and analyzing spatial data",
+      "uuid": "67084eeb-2dca-4a4c-b5dd-0c37fc7b6c9a",
+      "score": 0.5068631409239198
+    }
+  ]
+}

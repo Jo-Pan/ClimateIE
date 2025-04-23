@@ -1,0 +1,819 @@
+{
+  "(0, 3296)": [
+    {
+      "name": "vulnerability index",
+      "label": "variable",
+      "description": "A measure of the potential impact of climate change on marine fisheries, calculated based on exposure, sensitivity, and adaptive capacity>",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6098877077704143
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability of sufficient, safe, and nutritious food to meet the dietary needs of a population>",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6936507934030255
+    },
+    {
+      "name": "micronutrients",
+      "label": "variable",
+      "description": "Essential nutrients required by the human body in small amounts, often obtained through consumption of fish and other seafood>",
+      "uuid": "ac061db6-21c7-46fc-b5a8-9f61c795fdd6",
+      "score": 0.5720498764367616
+    },
+    {
+      "name": "marine fisheries",
+      "label": "project",
+      "description": "The management and harvesting of fish and other marine species for human consumption and other uses>",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5735479156831772
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from human activities and natural processes>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5647651883113537
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "label": "provider",
+      "description": "An international organization that assesses the science related to climate change and provides guidance on mitigation and adaptation strategies>",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7237503291369749
+    },
+    {
+      "name": "Small Island Developing States",
+      "label": "location",
+      "description": "A group of island nations that are vulnerable to the impacts of climate change due to their geographic location and limited resources>",
+      "uuid": "34ade06e-d992-45aa-8fd1-9eabd2d417fc",
+      "score": 0.5180618965029672
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent with a diverse range of countries, many of which are vulnerable to the impacts of climate change>",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.64928427378588
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent with a large and diverse population, where climate change is expected to have significant impacts on marine fisheries and food security>",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.5819347427488258
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent with a diverse range of countries, where climate change is expected to have significant impacts on marine fisheries and food security>",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.617925095650616
+    },
+    {
+      "name": "Oceania",
+      "label": "location",
+      "description": "A continent with a diverse range of countries, where climate change is expected to have significant impacts on marine fisheries and food security>",
+      "uuid": "e3205e96-9379-4b6c-86e0-c012090549f7",
+      "score": 0.6190344853707137
+    },
+    {
+      "name": "Organization for Economic Co-operation and Development",
+      "label": "provider",
+      "description": "An international organization that promotes economic growth, prosperity, and sustainable development>",
+      "uuid": "63dffc44-2557-41a5-80c0-9594fcd19dfc",
+      "score": 0.6799256564626729
+    },
+    {
+      "name": "per capita carbon emissions",
+      "label": "variable",
+      "description": "A measure of the amount of carbon dioxide emitted per person in a given country or region>",
+      "uuid": "0e530a5f-1e75-4602-9659-98ff5c3d7076",
+      "score": 0.514450727333793
+    }
+  ],
+  "(2756, 6017)": [
+    {
+      "name": "vulnerability index",
+      "label": "variable",
+      "description": "A measure of the susceptibility of marine fisheries to the impacts of climate change, considering exposure, sensitivity, and adaptive capacity",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6233587606024348
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from human activities and natural processes, with significant impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5917625632652231
+    },
+    {
+      "name": "ocean systems",
+      "label": "location",
+      "description": "The complex networks of oceanic and atmospheric processes that regulate the Earth's climate and support marine life",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.5550359765304771
+    },
+    {
+      "name": "marine species",
+      "label": "variable",
+      "description": "The diverse range of plants and animals that inhabit marine ecosystems, affected by climate change and other environmental stressors",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.5052998173000705
+    },
+    {
+      "name": "fisheries managers",
+      "label": "provider",
+      "description": "Individuals and organizations responsible for managing and regulating marine fisheries to ensure their sustainability and resilience",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.504202807223281
+    },
+    {
+      "name": "mean predicted land surface temperature",
+      "label": "variable",
+      "description": "A measure of the average temperature of the land surface, used as an indicator of climate change impacts on inland fisheries",
+      "uuid": "5b457e2e-cdea-4b2f-b4a9-8a235065b141",
+      "score": 0.5729180062607536
+    },
+    {
+      "name": "sea surface temperature (SST)",
+      "label": "variable",
+      "description": "A measure of the temperature of the ocean surface, used as an indicator of climate change impacts on marine fisheries",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.702035942632382
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which plants and algae convert sunlight into energy, forming the base of marine food webs and supporting marine ecosystems",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7598982788628995
+    }
+  ],
+  "(5463, 8692)": [
+    {
+      "name": "vulnerability index",
+      "label": "variable",
+      "description": "A measure used to assess the susceptibility of a system, in this case, countries, to the impacts of climate change on fisheries",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6301812223315193
+    },
+    {
+      "name": "mean predicted land surface temperature",
+      "label": "variable",
+      "description": "A measure of the average temperature of the land surface, used as an indicator for assessing climate change impacts",
+      "uuid": "5b457e2e-cdea-4b2f-b4a9-8a235065b141",
+      "score": 0.6079994592688555
+    },
+    {
+      "name": "sea surface temperature (SST)",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, an important indicator for marine ecosystems and fisheries",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7305310976750478
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which plants and some other organisms convert light energy into chemical energy, forming the base of aquatic food webs",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7758228830310248
+    },
+    {
+      "name": "marine fisheries",
+      "label": "sector",
+      "description": "The industry or system related to the harvesting of fish and other seafood from the ocean",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6023686648272073
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "northeastern Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean, where changes in sea surface temperature have impacted the distribution and abundance of Atlantic mackerel",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.5370837360464383
+    },
+    {
+      "name": "International Council for the Exploration of the Sea (ICES)",
+      "label": "provider",
+      "description": "An international organization that provides scientific advice on the management of fish stocks and the marine environment",
+      "uuid": "fdacd6c6-a2db-449a-af9d-630fe8d42ac1",
+      "score": 0.5902518937361866
+    },
+    {
+      "name": "North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean, where natural variability in climate and ocean conditions is high",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.7102567690919377
+    }
+  ],
+  "(8182, 11407)": [
+    {
+      "name": "Sea Around Us Project",
+      "label": "project",
+      "description": "A research initiative that provides data and analysis on global fisheries and marine ecosystems",
+      "uuid": "dcc41cbc-007e-45f4-8a1c-792e7fc91d98",
+      "score": 0.5315249673162977
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492758557127771
+    },
+    {
+      "name": "fisheries sector",
+      "label": "platform",
+      "description": "The industry or system related to fishing, including commercial and small-scale fisheries",
+      "uuid": "c7112a64-be39-414a-9125-f63ab44ecb5b",
+      "score": 0.6196412031599231
+    },
+    {
+      "name": "adaptive capacity",
+      "label": "variable",
+      "description": "The ability of a system or sector to adapt to climate-related stressors or changes",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5207421688114168
+    }
+  ],
+  "(10899, 13281)": [
+    {
+      "name": "projected sea surface temperature anomalies",
+      "label": "variable",
+      "description": "A measure of the change in sea surface temperature due to climate change, used to calculate exposure to climate change impacts on marine capture fisheries",
+      "uuid": "904f3b34-20c8-4eb8-bf68-6304edecf945",
+      "score": 0.6532571683532691
+    },
+    {
+      "name": "Multi-model ensemble means",
+      "label": "model",
+      "description": "A method of combining the outputs of multiple climate models to generate a single, more robust estimate of future climate change",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5241684016065907
+    },
+    {
+      "name": "sea surface temperature anomalies",
+      "label": "variable",
+      "description": "A measure of the difference between actual sea surface temperature and the average temperature over a reference period",
+      "uuid": "904f3b34-20c8-4eb8-bf68-6304edecf945",
+      "score": 0.7846779622009175
+    },
+    {
+      "name": "CMIP5 models",
+      "label": "model",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.7769801898817239
+    },
+    {
+      "name": "RCP 2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes highly successful reduction of greenhouse gas emissions, leading to a low level of climate change",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6546105902539513
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes modest emissions reductions, leading to a moderate level of climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6055704014419687
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario that assumes a continued increase in carbon emissions, leading to a high level of climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6599557393451145
+    },
+    {
+      "name": "marine capture fisheries",
+      "label": "location",
+      "description": "The industry or activity of catching fish and other seafood in the ocean, which can be impacted by climate change",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5559922331663946
+    }
+  ],
+  "(12921, 15556)": [
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A greenhouse gas concentration trajectory used in climate modeling, representing a high-emissions scenario>",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.655445816062854
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions>",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.807598701651389
+    },
+    {
+      "name": "Earth System Grid Federation",
+      "label": "provider",
+      "description": "An organization that provides a framework for managing and sharing climate model data and outputs>",
+      "uuid": "3929d78c-be5e-49e1-ba69-cb456d7123e0",
+      "score": 0.6559421309884323
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, an important factor in climate modeling and research>",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7865482301544052
+    },
+    {
+      "name": "NetCDF",
+      "label": "instrument",
+      "description": "A set of software libraries and self-describing data formats for storing and managing climate and weather data>",
+      "uuid": "30ea4e9a-4741-42c9-ad8f-f10930b35294",
+      "score": 0.7012468431081326
+    },
+    {
+      "name": "SST anomaly files",
+      "label": "variable",
+      "description": "Files containing data on anomalies in sea surface temperature, used for climate research and analysis>",
+      "uuid": "904f3b34-20c8-4eb8-bf68-6304edecf945",
+      "score": 0.6293996876438129
+    },
+    {
+      "name": "Multi-model ensemble means",
+      "label": "model",
+      "description": "A method of combining the outputs of multiple climate models to produce a single, more reliable prediction>",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5527704631787091
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Factors such as temperature, precipitation, and sea level rise that are studied in climate research>",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.7130230148184168
+    },
+    {
+      "name": "marine capture fisheries",
+      "label": "variable",
+      "description": "The practice of catching fish and other seafood in the ocean, an important source of food and income for many communities>",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5711671608675927
+    }
+  ],
+  "(15054, 17985)": [
+    {
+      "name": "Kristiansen",
+      "label": "provider",
+      "description": "A researcher or institution that provided data and calculations for SST anomaly",
+      "uuid": "5f3d4571-40a9-4e81-9dfe-0c96c22228ca",
+      "score": 0.5149944077951629
+    },
+    {
+      "name": "SST anomaly",
+      "label": "variable",
+      "description": "A measure of the deviation of sea surface temperature from its average value, used to study climate variability",
+      "uuid": "904f3b34-20c8-4eb8-bf68-6304edecf945",
+      "score": 0.7349738420704464
+    },
+    {
+      "name": "marine capture fisheries",
+      "label": "project",
+      "description": "A project or initiative focused on the management and sustainability of marine fisheries",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5040332997991354
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Quantities or characteristics that can be measured or observed in climate-related studies, such as temperature, precipitation, or sea level rise",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.7303637164908477
+    },
+    {
+      "name": "FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, an institution that provides data and reports on fisheries and agriculture",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.6538587306915015
+    },
+    {
+      "name": "Sea Around Us project",
+      "label": "project",
+      "description": "A research initiative that provides data and analysis on global fisheries and marine ecosystems",
+      "uuid": "dcc41cbc-007e-45f4-8a1c-792e7fc91d98",
+      "score": 0.5269356079124442
+    }
+  ],
+  "(17530, 20600)": [
+    {
+      "name": "vulnerability index",
+      "label": "variable",
+      "description": "A measure of the potential impact of climate change on a system, calculated based on exposure, sensitivity, and adaptive capacity",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6472436800363446
+    },
+    {
+      "name": "fisheries-related variables",
+      "label": "variable",
+      "description": "Variables related to the fisheries sector, such as total fisheries subsidies and the ratio of industrial to small-scale fisheries",
+      "uuid": "c7112a64-be39-414a-9125-f63ab44ecb5b",
+      "score": 0.5273155085266743
+    },
+    {
+      "name": "Sea Around Us project",
+      "label": "project",
+      "description": "A research project that provides data and analysis on global fisheries and marine ecosystems",
+      "uuid": "dcc41cbc-007e-45f4-8a1c-792e7fc91d98",
+      "score": 0.5199634179474003
+    },
+    {
+      "name": "World Bank Development Indicators database",
+      "label": "provider",
+      "description": "A database that provides access to development data from the World Bank",
+      "uuid": "bbd3d3b4-e1d6-492e-a286-eef7d0fbaf9e",
+      "score": 0.5601402926983056
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that provides scientific advice on climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7223097577747254
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to model future climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5606586704202168
+    }
+  ],
+  "(20154, 22990)": [
+    {
+      "name": "vulnerability index",
+      "label": "variable",
+      "description": "A measure of a country's susceptibility to the impacts of climate change on fisheries, calculated based on exposure, sensitivity, and adaptive capacity",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.61270567713253
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7401987820677528
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to model different future climate change trajectories",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5608493154221288
+    },
+    {
+      "name": "Pacific Ocean",
+      "label": "location",
+      "description": "The largest of the world's five oceans, playing a significant role in global climate patterns and fisheries",
+      "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+      "score": 0.7734940666337679
+    },
+    {
+      "name": "Caribbean",
+      "label": "location",
+      "description": "A region in the Americas, consisting of the Caribbean Sea and its surrounding islands, known for its vulnerability to climate change",
+      "uuid": "ad18da3f-fbdb-4bc1-ab4d-008e9b8f6002",
+      "score": 0.6540574701458448
+    },
+    {
+      "name": "Western coast of Africa",
+      "label": "location",
+      "description": "A region in Africa, bordering the Atlantic Ocean, with several countries that are vulnerable to climate change impacts on fisheries",
+      "uuid": "0bd7d518-6e4d-455e-95cd-2add85fc88fa",
+      "score": 0.609572562455143
+    },
+    {
+      "name": "Eastern coast of Africa",
+      "label": "location",
+      "description": "A region in Africa, bordering the Indian Ocean, with several countries that are vulnerable to climate change impacts on fisheries",
+      "uuid": "1837fc8f-4622-433b-8148-dd2b5826f6f2",
+      "score": 0.5813122866712853
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country in East Africa, with significant inland fisheries and a varying level of vulnerability to climate change",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.5881881368905911
+    },
+    {
+      "name": "Cambodia",
+      "label": "location",
+      "description": "A country in Southeast Asia, with significant inland fisheries and a varying level of vulnerability to climate change",
+      "uuid": "2d955182-b62b-43eb-9acc-74f1f1f062f7",
+      "score": 0.5492731313787108
+    },
+    {
+      "name": "Russian Federation",
+      "label": "location",
+      "description": "A country in Eastern Europe and Northern Asia, with a significant fishing industry and a varying level of vulnerability to climate change",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.6334515510435571
+    },
+    {
+      "name": "coupled physical-biological shelf seas models",
+      "label": "model",
+      "description": "A type of climate model that simulates the interactions between physical and biological processes in shelf seas",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5600337806216863
+    },
+    {
+      "name": "OECD",
+      "label": "provider",
+      "description": "The Organisation for Economic Co-operation and Development, an international organization that promotes economic development and cooperation among its member states",
+      "uuid": "63dffc44-2557-41a5-80c0-9594fcd19dfc",
+      "score": 0.7152122609656527
+    }
+  ],
+  "(22528, 25645)": [
+    {
+      "name": "vulnerability index",
+      "label": "variable",
+      "description": "A measure of the potential impact of climate change on marine fisheries, considering factors such as exposure, sensitivity, and adaptive capacity",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6151737528760635
+    },
+    {
+      "name": "OECD states",
+      "label": "provider",
+      "description": "The Organisation for Economic Co-operation and Development, a group of countries committed to democracy and the market economy",
+      "uuid": "63dffc44-2557-41a5-80c0-9594fcd19dfc",
+      "score": 0.5664809310784286
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on Earth, comprising many countries with diverse economies and cultures",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.652537423897666
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent on Earth, comprising many countries with diverse economies and cultures",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.5832513169162238
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent on Earth, comprising many countries with diverse economies and cultures",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6822984222279944
+    },
+    {
+      "name": "Caribbean",
+      "label": "location",
+      "description": "A region in the Americas, consisting of the Caribbean Sea and its islands",
+      "uuid": "ad18da3f-fbdb-4bc1-ab4d-008e9b8f6002",
+      "score": 0.6951722541575017
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent on Earth, comprising many countries with diverse economies and cultures",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6612196769486907
+    },
+    {
+      "name": "Oceania",
+      "label": "location",
+      "description": "A region on Earth, comprising many islands and countries in the Pacific Ocean",
+      "uuid": "e3205e96-9379-4b6c-86e0-c012090549f7",
+      "score": 0.7004407374476402
+    },
+    {
+      "name": "climate change mitigation efforts",
+      "label": "project",
+      "description": "Initiatives and actions taken to reduce the impact of climate change on the environment and human societies",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6366703550256462
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, scenarios used to predict future climate change and its impacts",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5466383648875274
+    },
+    {
+      "name": "marine fisheries",
+      "label": "variable",
+      "description": "The industry and practice of fishing in the ocean, providing food and livelihoods for many people",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6063225297356301
+    },
+    {
+      "name": "adaptive capacity",
+      "label": "variable",
+      "description": "The ability of a system or population to adapt to the impacts of climate change",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5172693975750514
+    }
+  ],
+  "(25079, 28657)": [
+    {
+      "name": "OECD",
+      "label": "provider",
+      "description": "The Organisation for Economic Co-operation and Development, an intergovernmental economic organization that promotes economic growth, prosperity, and sustainable development",
+      "uuid": "63dffc44-2557-41a5-80c0-9594fcd19dfc",
+      "score": 0.7280155854330442
+    },
+    {
+      "name": "fisheries sector",
+      "label": "project",
+      "description": "A sector of the economy that involves the harvesting, processing, and distribution of fish and other seafood products",
+      "uuid": "c7112a64-be39-414a-9125-f63ab44ecb5b",
+      "score": 0.5859937719998126
+    },
+    {
+      "name": "agriculture",
+      "label": "project",
+      "description": "The practice of cultivating the soil, growing crops, and raising livestock, which can be affected by climate change",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.547682388678011
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the average weather patterns of a region or the entire planet, which can have significant impacts on ecosystems, economies, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5808711507104193
+    },
+    {
+      "name": "health outcomes",
+      "label": "variable",
+      "description": "The consequences of climate change on human health, which can include increased mortality, morbidity, and other negative effects",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5147599003488686
+    },
+    {
+      "name": "adaptive capacity",
+      "label": "variable",
+      "description": "The ability of a system or community to adapt to climate change, which can be influenced by various factors, including economic, social, and institutional factors",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5422332031905259
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system or community is susceptible to the negative impacts of climate change",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5630650226735769
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "The complex systems of plants, animals, and microorganisms that interact with each other and their environment, which can be affected by climate change and other factors",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6645315967239879
+    },
+    {
+      "name": "SST anomalies",
+      "label": "variable",
+      "description": "The deviations from normal sea surface temperatures, which can have significant impacts on fisheries and the environment",
+      "uuid": "904f3b34-20c8-4eb8-bf68-6304edecf945",
+      "score": 0.703906766577487
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "The Representative Concentration Pathways, which are scenarios of future greenhouse gas emissions and concentrations that are used to project future climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5354664134743532
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The amount of organic matter that is produced by phytoplankton and other primary producers in an ecosystem, which can be affected by climate change and other factors",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.69334130612162
+    },
+    {
+      "name": "acidity levels",
+      "label": "variable",
+      "description": "The concentration of hydrogen ions in seawater, which can be affected by climate change and other factors",
+      "uuid": "a219dbe6-c095-4002-9fbe-012b31da839c",
+      "score": 0.5526160892029585
+    }
+  ],
+  "(28106, 31378)": [
+    {
+      "name": "vulnerability index",
+      "label": "variable",
+      "description": "A measure used to assess the potential impact of climate change on marine fisheries and the ability of countries to adapt to these changes",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6043303305818686
+    },
+    {
+      "name": "World Climate Research Programme's Working Group on Coupled Modelling",
+      "label": "provider",
+      "description": "An international organization that coordinates and promotes climate research, including the development of climate models",
+      "uuid": "485e86f3-7cd1-43c0-bb02-a929b7d96e43",
+      "score": 0.6398914775039749
+    },
+    {
+      "name": "CMIP",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.8020025669427631
+    },
+    {
+      "name": "climate modeling groups",
+      "label": "provider",
+      "description": "Organizations that develop and run climate models to simulate and predict climate change",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5930931970196831
+    },
+    {
+      "name": "carbon emissions",
+      "label": "variable",
+      "description": "The release of carbon dioxide into the atmosphere, a key driver of climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5776753574258813
+    },
+    {
+      "name": "fisheries management",
+      "label": "experiment",
+      "description": "The practice of managing fisheries to ensure their sustainability and resilience to climate change",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.508250745093436
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country with a large population and significant impact on global climate change",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5719422501898754
+    },
+    {
+      "name": "Indonesia",
+      "label": "location",
+      "description": "A country with a large population and significant impact on global climate change",
+      "uuid": "84aeedd2-6093-4252-9895-8dc063a9ad97",
+      "score": 0.6422154697462851
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country with a large population and significant impact on global climate change",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6355358871911747
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, sea-level rise, and altered weather patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6150280961708429
+    }
+  ],
+  "(30838, 31777)": [
+    {
+      "name": "vulnerability index",
+      "label": "variable",
+      "description": "A measure used to assess the susceptibility of a system, such as marine fisheries, to the impacts of climate change",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6555499430433834
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A phenomenon with the potential to cause significant harm to life, property, and the environment, resulting from the increasing levels of greenhouse gases in the Earth's atmosphere",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5347924895689978
+    },
+    {
+      "name": "marine fisheries",
+      "label": "project",
+      "description": "A scientific program or field campaign focused on the study and management of fisheries in marine ecosystems",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5685519728994636
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "A measure of the availability and accessibility of food for human consumption, often influenced by climate-related factors",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6842468099359524
+    }
+  ]
+}

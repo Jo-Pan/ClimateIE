@@ -1,0 +1,928 @@
+{
+  "(0, 2911)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Toxic substances that exist in nature and can accumulate in the environment, posing risks to human health and ecosystems",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6660042293804279
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, indicating its suitability for various uses",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7124235243455473
+    },
+    {
+      "name": "pollutants",
+      "label": "variable",
+      "description": "Substances that contaminate the environment, including heavy metals, petroleum, polythenes, and other toxic materials",
+      "uuid": "42c6d91b-afef-4638-95c5-0d130828b2e7",
+      "score": 0.5206326137066164
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, supporting plant growth and filtering water",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6322257357162069
+    }
+  ],
+  "(2532, 5418)": [
+    {
+      "name": "hydrocarbons",
+      "label": "pollutant",
+      "description": "A type of organic compound",
+      "uuid": "344cbd30-a2e4-437e-9fc9-5e6b1c484bac",
+      "score": 0.6387864580109476
+    },
+    {
+      "name": "heavy metals",
+      "label": "pollutant",
+      "description": "A type of inorganic compound",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6691625880734762
+    },
+    {
+      "name": "xenobiotic chemicals",
+      "label": "pollutant",
+      "description": "A type of chemical that is foreign to the environment",
+      "uuid": "bf3aaf41-3502-49cf-89df-4613ce87c9c3",
+      "score": 0.5006136952508389
+    },
+    {
+      "name": "petroleum",
+      "label": "pollutant",
+      "description": "A type of fossil fuel",
+      "uuid": "44d0ad8f-fe22-4d17-bc47-c0b728a82baf",
+      "score": 0.6854216909735532
+    },
+    {
+      "name": "benzene",
+      "label": "pollutant",
+      "description": "A type of volatile organic compound",
+      "uuid": "1f3c543d-9ca9-4db4-b4a5-d3e2fd71e4a4",
+      "score": 0.5425960978715882
+    }
+  ],
+  "(7314, 10362)": [
+    {
+      "name": "carbon",
+      "label": "nutrient",
+      "description": "A fundamental element necessary for the growth and survival of microorganisms, influencing bioremediation efficiency",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.505835479633068
+    },
+    {
+      "name": "nitrogen",
+      "label": "nutrient",
+      "description": "An essential nutrient for microorganisms, affecting their growth and ability to degrade pollutants",
+      "uuid": "bf03dba8-2881-44ac-abfc-ba3353f67a24",
+      "score": 0.5870159716320743
+    },
+    {
+      "name": "soil type",
+      "label": "environmental factor",
+      "description": "The classification of soil based on its composition and properties, which can impact bioremediation processes",
+      "uuid": "14e51b6e-9d91-4af5-bb93-22842359d492",
+      "score": 0.5198882643251093
+    },
+    {
+      "name": "organic carbon",
+      "label": "nutrient",
+      "description": "A source of carbon found in organic materials, which can be used by microorganisms to enhance bioremediation",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6253323109847642
+    },
+    {
+      "name": "biodegradation rate",
+      "label": "variable",
+      "description": "The speed at which microorganisms break down pollutants, influenced by various factors including nutrients and environmental conditions",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.5566129422014133
+    },
+    {
+      "name": "biodegradation efficiency",
+      "label": "variable",
+      "description": "The effectiveness of microorganisms in breaking down pollutants, which can be optimized through the provision of necessary nutrients and conditions",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.5174484550001928
+    },
+    {
+      "name": "moisture content",
+      "label": "environmental factor",
+      "description": "The amount of water in the soil, which must be sufficient for microorganisms to grow and degrade pollutants effectively",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.5678512746975654
+    }
+  ],
+  "(9854, 13015)": [
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances such as carbon, phosphorus, and nitrogen that are essential for microbial growth and reproduction",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.5932158190597667
+    },
+    {
+      "name": "toxic compounds",
+      "label": "variable",
+      "description": "Harmful substances that can be degraded or detoxified through bioremediation",
+      "uuid": "bf3aaf41-3502-49cf-89df-4613ce87c9c3",
+      "score": 0.5454706416307272
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of acidity, alkalinity, or basicity that affects microbial metabolism and the removal process",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.6527513789899749
+    },
+    {
+      "name": "biodegradation efficiency",
+      "label": "variable",
+      "description": "The rate at which microorganisms can break down harmful substances",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.5437730712465095
+    },
+    {
+      "name": "biodegradation rate",
+      "label": "variable",
+      "description": "The speed at which microorganisms can degrade or detoxify harmful substances",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.5340154995932974
+    },
+    {
+      "name": "soil's pH",
+      "label": "location",
+      "description": "The measure of acidity, alkalinity, or basicity of the soil, which affects microbial growth and biodegradation",
+      "uuid": "357193c5-154d-487b-a1c3-a1a90d15918c",
+      "score": 0.6398721150142501
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "A cold climate region where natural oil degradation is slow",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.6561210765981237
+    }
+  ],
+  "(12549, 15443)": [
+    {
+      "name": "pH",
+      "label": "environmental parameter",
+      "description": "A measure of the acidity or alkalinity of the soil, affecting microbial activity and biodegradation",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.6211784812487021
+    },
+    {
+      "name": "biodegradation rate",
+      "label": "variable",
+      "description": "A measure of the rate at which pollutants are degraded or detoxified by microorganisms",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.5372358122104461
+    }
+  ],
+  "(14983, 17743)": [
+    {
+      "name": "petroleum contaminated soil",
+      "label": "location",
+      "description": "Soil that has been contaminated with petroleum hydrocarbons",
+      "uuid": "aef23021-81c1-4540-a0a5-35c590142a6d",
+      "score": 0.520490535216985
+    },
+    {
+      "name": "sub-Antarctic region",
+      "label": "location",
+      "description": "A region in the Southern Ocean surrounding Antarctica",
+      "uuid": "2485e9d2-fa9d-48d9-b6f3-03154b8148bc",
+      "score": 0.5855486922907516
+    },
+    {
+      "name": "hydrocarbons",
+      "label": "variable",
+      "description": "A type of organic compound found in petroleum",
+      "uuid": "344cbd30-a2e4-437e-9fc9-5e6b1c484bac",
+      "score": 0.6362124711326435
+    },
+    {
+      "name": "bio-available organic carbon",
+      "label": "variable",
+      "description": "A measure of the amount of organic carbon available for biodegradation",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5337371629565956
+    },
+    {
+      "name": "total petroleum hydrocarbon",
+      "label": "variable",
+      "description": "A measure of the amount of petroleum hydrocarbons in contaminated soil",
+      "uuid": "aef23021-81c1-4540-a0a5-35c590142a6d",
+      "score": 0.5467930810750415
+    }
+  ],
+  "(17260, 20258)": [
+    {
+      "name": "biodegradation",
+      "label": "variable",
+      "description": "The process by which microorganisms break down organic pollutants into less toxic or harmless compounds",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.6212871199960576
+    },
+    {
+      "name": "Earth's surface",
+      "label": "location",
+      "description": "The outermost solid layer of the planet, where human activities and ecosystems interact",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.5826018476654329
+    }
+  ],
+  "(19762, 22729)": [
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances that promote microbial growth and biodegradation",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.5676884215574076
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Toxic substances that can be broken down through bioremediation",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.610752787503364
+    },
+    {
+      "name": "Cr (VI)",
+      "label": "variable",
+      "description": "A toxic form of chromium that can be reduced through bioremediation",
+      "uuid": "9ab53717-17f1-4259-b425-0eed19c31884",
+      "score": 0.5456496883877291
+    },
+    {
+      "name": "redox reactions",
+      "label": "variable",
+      "description": "Chemical reactions that involve the transfer of electrons and can contribute to biodegradation",
+      "uuid": "9c2f3bee-4629-4607-9962-12fe919594a0",
+      "score": 0.5436088079957031
+    },
+    {
+      "name": "machine learning",
+      "label": "instrument",
+      "description": "A technique used to optimize and simulate bioremediation processes",
+      "uuid": "fe4392b0-13a9-43ff-bacc-f44a65aed4fa",
+      "score": 0.5590593854851938
+    }
+  ],
+  "(22192, 25095)": [
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances added to the soil to promote microbial growth and activity",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.5620517442959475
+    },
+    {
+      "name": "moisture",
+      "label": "variable",
+      "description": "The amount of water present in the soil, influencing microbial activity and biodegradation",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.5349812024694465
+    },
+    {
+      "name": "microflora",
+      "label": "variable",
+      "description": "The community of microorganisms present in the soil, responsible for biodegradation",
+      "uuid": "b3063d3a-af53-44f9-a532-4cea2880c198",
+      "score": 0.6576883668894887
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "The water present beneath the Earth's surface, which can be contaminated by pollutants",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6498833756284618
+    }
+  ],
+  "(24588, 27532)": [
+    {
+      "name": "Heavy metals",
+      "label": "variable",
+      "description": "A group of metals that are toxic and can contaminate soil and water",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6942904618360981
+    },
+    {
+      "name": "Nutrients",
+      "label": "variable",
+      "description": "Substances required for plant growth and development",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.6266993349911535
+    },
+    {
+      "name": "Evaporation",
+      "label": "process",
+      "description": "The process by which a liquid transforms into a gas or vapor",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.6533282295680671
+    },
+    {
+      "name": "Biodegradation processes",
+      "label": "process",
+      "description": "The breakdown of organic substances by living organisms or their enzymes",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.6454164712372535
+    },
+    {
+      "name": "Toxicity levels",
+      "label": "variable",
+      "description": "The degree to which a substance can harm or poison living organisms",
+      "uuid": "5518feb6-93a8-46fd-9e9a-25be3a832d6d",
+      "score": 0.7282984017304576
+    },
+    {
+      "name": "Soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6354151258967576
+    }
+  ],
+  "(27032, 29777)": [
+    {
+      "name": "transpiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the air, influencing the movement of water and nutrients",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.5710454453024136
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Toxic substances, such as Cu, Zn, and Ni, that can accumulate in the environment and pose risks to human health and ecosystems",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6896101240942354
+    },
+    {
+      "name": "wastewater",
+      "label": "variable",
+      "description": "Water that has been contaminated with pollutants, such as heavy metals, and can be treated using phytoremediation",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5424652781627358
+    }
+  ],
+  "(29283, 32207)": [
+    {
+      "name": "organic carbons",
+      "label": "variable",
+      "description": "A measure of the amount of organic compounds present in a system, often used to study microbial activity and biodegradation",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6541385993812426
+    },
+    {
+      "name": "anoxic conditions",
+      "label": "natural hazard",
+      "description": "A state of low or no oxygen in an environment, which can be hazardous to plant and animal life",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.5834796120085374
+    },
+    {
+      "name": "metagenomics tools",
+      "label": "instrument",
+      "description": "Techniques used to study the genetic material of microbial communities, providing insights into their composition and function",
+      "uuid": "6aafe55d-2349-42b2-83b3-0dbdfdddd4ee",
+      "score": 0.6188981370598448
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "A natural environment where microbial activity and biodegradation can occur",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5103607022317316
+    }
+  ],
+  "(31638, 34760)": [
+    {
+      "name": "microbe",
+      "label": "organism",
+      "description": "A microscopic living organism, such as bacteria, fungi, or viruses, that plays a crucial role in bioremediation and ecosystem processes",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.5364989959107487
+    },
+    {
+      "name": "metagenomics tools",
+      "label": "instrument",
+      "description": "Techniques and software used to analyze and interpret genetic data from environmental samples, providing insights into microbial communities and their functions",
+      "uuid": "6aafe55d-2349-42b2-83b3-0dbdfdddd4ee",
+      "score": 0.6324720923944098
+    },
+    {
+      "name": "biodegradation",
+      "label": "process",
+      "description": "The breakdown of organic compounds by microorganisms, which can be used to remediate polluted environments",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.6416378193932594
+    },
+    {
+      "name": "organic compounds",
+      "label": "variable",
+      "description": "Chemical substances that contain carbon and hydrogen, which can be broken down by microorganisms through biodegradation",
+      "uuid": "9c90825c-a35f-4165-8248-e90ab869f8ec",
+      "score": 0.5481153184847257
+    },
+    {
+      "name": "toxic organics",
+      "label": "variable",
+      "description": "Organic compounds that are harmful to living organisms and the environment, which can be remediated through biodegradation",
+      "uuid": "bf3aaf41-3502-49cf-89df-4613ce87c9c3",
+      "score": 0.5366909115969801
+    },
+    {
+      "name": "fungi",
+      "label": "organism",
+      "description": "A type of microorganism that can be used for bioremediation, particularly for breaking down toxic organic compounds",
+      "uuid": "3546cb0a-27a2-4914-85cf-1774b5c4ed19",
+      "score": 0.5773834143976321
+    },
+    {
+      "name": "toxic heavy metals",
+      "label": "variable",
+      "description": "Metallic elements that are harmful to living organisms and the environment, which can be remediated through bioremediation",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6108217359411889
+    }
+  ],
+  "(34244, 37222)": [
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Toxic metals such as iron, zinc, chrome, magnesium, mercury, and barium that can contaminate the environment",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6784788910286125
+    },
+    {
+      "name": "bioinformatics",
+      "label": "model",
+      "description": "The use of computational tools and methods to analyze and interpret biological data, including data related to bioremediation",
+      "uuid": "41f960a3-d695-4fa2-bfad-2d2887e1b063",
+      "score": 0.7033822322667528
+    },
+    {
+      "name": "bioavailability",
+      "label": "variable",
+      "description": "The degree to which a substance, such as a heavy metal, is available to be absorbed and utilized by living organisms",
+      "uuid": "8e89d525-161c-4e02-8ef8-4868e0cf8c57",
+      "score": 0.7237194913276149
+    },
+    {
+      "name": "mass spectrometry",
+      "label": "instrument",
+      "description": "A technique used to analyze the composition of substances, including pollutants and biological samples",
+      "uuid": "09c35c61-d1ed-4591-b4d5-c539a2a0aec2",
+      "score": 0.6029944666943088
+    },
+    {
+      "name": "bioinformatics tools",
+      "label": "instrument",
+      "description": "Computational methods and software used to analyze and interpret biological data, including data related to bioremediation",
+      "uuid": "41f960a3-d695-4fa2-bfad-2d2887e1b063",
+      "score": 0.6030865621136612
+    }
+  ],
+  "(36718, 39833)": [
+    {
+      "name": "bioinformatics",
+      "label": "model",
+      "description": "The use of computational tools and methods to analyze and interpret biological data, such as genomic sequences and protein structures",
+      "uuid": "41f960a3-d695-4fa2-bfad-2d2887e1b063",
+      "score": 0.7383771589564959
+    },
+    {
+      "name": "proteomic approaches",
+      "label": "experiment",
+      "description": "A set of techniques, including two-dimensional polyacrylamide gel electrophoresis, microarrays, and mass spectrometry, used to study proteins and their functions",
+      "uuid": "dd6592c0-c95a-4e4f-8ae7-8bfae7de9a3e",
+      "score": 0.5566361996170917
+    },
+    {
+      "name": "mass spectrometry",
+      "label": "instrument",
+      "description": "An analytical technique used to identify and quantify the components of a sample, based on their mass-to-charge ratio",
+      "uuid": "09c35c61-d1ed-4591-b4d5-c539a2a0aec2",
+      "score": 0.6477632450312719
+    },
+    {
+      "name": "genomics",
+      "label": "model",
+      "description": "The study of the structure, function, and evolution of genomes, including the use of genomic tools such as PCR and DNA hybridization",
+      "uuid": "4e3dcb15-d2db-4fa5-9f5f-f2c7a8a7ae34",
+      "score": 0.7205276841794048
+    },
+    {
+      "name": "transcriptomics",
+      "label": "model",
+      "description": "The study of the complete set of RNA transcripts produced by an organism or a cell, used to understand gene expression and regulation",
+      "uuid": "7d3c1302-4d88-4964-b966-f318bf2bcf74",
+      "score": 0.7065312073084207
+    },
+    {
+      "name": "metabolomics",
+      "label": "model",
+      "description": "The study of the complete set of metabolites produced by an organism or a cell, used to understand metabolic pathways and networks",
+      "uuid": "f978bbb1-08fb-4cc5-bb49-d8da0ee07bc4",
+      "score": 0.6760785314373716
+    },
+    {
+      "name": "biodegradation process",
+      "label": "natural hazard",
+      "description": "The process by which microorganisms break down contaminants, used in bioremediation applications",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.6292868868267967
+    },
+    {
+      "name": "PCR-based quantitative analysis",
+      "label": "instrument",
+      "description": "A technique used to quantify the amount of a specific DNA sequence in a sample, based on the polymerase chain reaction",
+      "uuid": "692be87a-7812-44c7-be4b-7d067a3fa77d",
+      "score": 0.6408052697234659
+    },
+    {
+      "name": "quantitative PCR",
+      "label": "instrument",
+      "description": "A technique used to quantify the amount of a specific DNA sequence in a sample, based on the polymerase chain reaction",
+      "uuid": "692be87a-7812-44c7-be4b-7d067a3fa77d",
+      "score": 0.7450192762224676
+    }
+  ],
+  "(39307, 42459)": [
+    {
+      "name": "FISH",
+      "label": "instrument",
+      "description": "Fluorescence in situ hybridization, a technique used to visualize specific DNA sequences within a cell>",
+      "uuid": "ab3a6b71-992e-4f21-a383-950c24549214",
+      "score": 0.5434595721766173
+    },
+    {
+      "name": "quantitative PCR",
+      "label": "instrument",
+      "description": "A laboratory technique used to amplify and quantify specific DNA sequences>",
+      "uuid": "692be87a-7812-44c7-be4b-7d067a3fa77d",
+      "score": 0.7370595661105017
+    },
+    {
+      "name": "PCR-based quantitative analysis",
+      "label": "experiment",
+      "description": "A laboratory technique used to analyze and quantify specific DNA sequences>",
+      "uuid": "692be87a-7812-44c7-be4b-7d067a3fa77d",
+      "score": 0.6296278839172801
+    },
+    {
+      "name": "molecular biomarker genes",
+      "label": "variable",
+      "description": "Specific genes used as indicators of a particular biological process or condition>",
+      "uuid": "625ac4b3-a126-4c98-a061-3a780b942280",
+      "score": 0.5039576392615985
+    },
+    {
+      "name": "transcriptomics",
+      "label": "model",
+      "description": "The study of the complete set of RNA transcripts produced by an organism or cell>",
+      "uuid": "7d3c1302-4d88-4964-b966-f318bf2bcf74",
+      "score": 0.6869774820024568
+    },
+    {
+      "name": "metatranscriptomics",
+      "label": "model",
+      "description": "The study of the complete set of RNA transcripts produced by a community of microorganisms>",
+      "uuid": "6aafe55d-2349-42b2-83b3-0dbdfdddd4ee",
+      "score": 0.5567352751651234
+    },
+    {
+      "name": "metagenomics",
+      "label": "model",
+      "description": "The study of the genetic material recovered from environmental samples>",
+      "uuid": "6aafe55d-2349-42b2-83b3-0dbdfdddd4ee",
+      "score": 0.6988067998310885
+    },
+    {
+      "name": "genome binning",
+      "label": "instrument",
+      "description": "A technique used to group and analyze genomic sequences from environmental samples>",
+      "uuid": "3078eaeb-541e-44a0-9828-a1020f7bc6cf",
+      "score": 0.6390172972371667
+    },
+    {
+      "name": "proteomics",
+      "label": "model",
+      "description": "The study of the complete set of proteins produced by an organism or cell>",
+      "uuid": "dd6592c0-c95a-4e4f-8ae7-8bfae7de9a3e",
+      "score": 0.6584609828404266
+    },
+    {
+      "name": "metabolomics",
+      "label": "model",
+      "description": "The study of the complete set of metabolites produced by an organism or cell>",
+      "uuid": "f978bbb1-08fb-4cc5-bb49-d8da0ee07bc4",
+      "score": 0.6571038910481071
+    },
+    {
+      "name": "biological systems",
+      "label": "variable",
+      "description": "Complex systems composed of living organisms and their interactions>",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5093181601688354
+    },
+    {
+      "name": "environmental microbial communities",
+      "label": "variable",
+      "description": "Communities of microorganisms that live in environmental samples>",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.5168455980565358
+    }
+  ],
+  "(41912, 44920)": [
+    {
+      "name": "proteomics",
+      "label": "instrument",
+      "description": "A scientific technique used to analyze the proteins present in a biological sample, often employed in microbiology and biochemistry research",
+      "uuid": "dd6592c0-c95a-4e4f-8ae7-8bfae7de9a3e",
+      "score": 0.669756590633176
+    },
+    {
+      "name": "genomics",
+      "label": "instrument",
+      "description": "The study of genomes, the complete set of DNA (including all of its genes) in an organism, used to understand the structure, function, and evolution of genomes",
+      "uuid": "4e3dcb15-d2db-4fa5-9f5f-f2c7a8a7ae34",
+      "score": 0.7495859373855672
+    },
+    {
+      "name": "metabolomics",
+      "label": "instrument",
+      "description": "A branch of biochemistry focused on the comprehensive study of small molecules, known as metabolites, within cells, tissues, or organisms",
+      "uuid": "f978bbb1-08fb-4cc5-bb49-d8da0ee07bc4",
+      "score": 0.6833266732484766
+    },
+    {
+      "name": "metabolome",
+      "label": "variable",
+      "description": "The complete set of metabolites present in a biological system, such as a cell, tissue, or organism, which can provide insight into its physiological and pathological state",
+      "uuid": "f978bbb1-08fb-4cc5-bb49-d8da0ee07bc4",
+      "score": 0.5829973866649627
+    },
+    {
+      "name": "microbial metabolomics",
+      "label": "project",
+      "description": "The application of metabolomics to study the metabolic processes of microorganisms, aiming to understand their interactions with the environment and other organisms",
+      "uuid": "f978bbb1-08fb-4cc5-bb49-d8da0ee07bc4",
+      "score": 0.5288102034245931
+    },
+    {
+      "name": "biological systems",
+      "label": "location",
+      "description": "Complex systems composed of living organisms and their interactions with the environment, which can range from a single cell to entire ecosystems",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5075413516559639
+    },
+    {
+      "name": "polycyclic aromatic hydrocarbons (PAHs)",
+      "label": "variable",
+      "description": "A class of organic compounds consisting of multiple benzene rings, often found in fossil fuels and known for their potential to cause environmental harm and health problems",
+      "uuid": "aef23021-81c1-4540-a0a5-35c590142a6d",
+      "score": 0.5409627524473346
+    },
+    {
+      "name": "petroleum hydrocarbons",
+      "label": "variable",
+      "description": "A class of organic compounds found in petroleum, often released into the environment through human activities and posing a risk to ecosystems and human health",
+      "uuid": "aef23021-81c1-4540-a0a5-35c590142a6d",
+      "score": 0.7266799308460097
+    }
+  ],
+  "(44423, 47231)": [
+    {
+      "name": "aquifer material",
+      "label": "location",
+      "description": "A type of underground rock or soil that stores water and can be contaminated with pollutants",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5171919684268537
+    }
+  ],
+  "(46689, 49390)": [
+    {
+      "name": "PAHs",
+      "label": "variable",
+      "description": "Polycyclic aromatic hydrocarbons, a type of toxic compound",
+      "uuid": "aef23021-81c1-4540-a0a5-35c590142a6d",
+      "score": 0.5038797862221465
+    }
+  ],
+  "(48994, 52135)": [
+    {
+      "name": "microbial community",
+      "label": "community",
+      "description": "A group of microorganisms living together in a specific environment, interacting and influencing each other's behavior and function",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.5647992793470233
+    },
+    {
+      "name": "public health",
+      "label": "field",
+      "description": "The science and practice of preventing disease and promoting health at the population level",
+      "uuid": "da2c70fd-d92b-45be-b159-b2c10cb387c6",
+      "score": 0.5579738504634096
+    }
+  ],
+  "(51577, 54820)": [
+    {
+      "name": "omics",
+      "label": "instrument",
+      "description": "A field of research that involves the study of the structure, function, and interaction of biological molecules, such as genes, proteins, and metabolites",
+      "uuid": "8eb84f36-f355-458b-889f-b37cfa120654",
+      "score": 0.7690659500653141
+    },
+    {
+      "name": "dairy industry",
+      "label": "provider",
+      "description": "An industry that produces and processes dairy products",
+      "uuid": "a368da76-b191-4859-bd55-8643f4fab812",
+      "score": 0.5470458805278096
+    },
+    {
+      "name": "fisheries",
+      "label": "provider",
+      "description": "An industry that produces and processes fish and other seafood products",
+      "uuid": "c7112a64-be39-414a-9125-f63ab44ecb5b",
+      "score": 0.6515045881658632
+    },
+    {
+      "name": "heavy metal pollution remediation",
+      "label": "experiment",
+      "description": "The process of removing or reducing heavy metal pollutants from the environment",
+      "uuid": "0c4ffc6a-694d-4f33-bc18-06fefb68acdd",
+      "score": 0.5163664312996881
+    },
+    {
+      "name": "biomarkers",
+      "label": "variable",
+      "description": "Molecules that can be used to measure the presence or activity of a particular biological process or organism",
+      "uuid": "625ac4b3-a126-4c98-a061-3a780b942280",
+      "score": 0.6107504986881499
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water that is stored beneath the Earth's surface, which can be contaminated by pollutants",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6512918579051344
+    },
+    {
+      "name": "air pollution",
+      "label": "natural hazard",
+      "description": "The release of pollutants into the air, which can harm human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5058348725381862
+    },
+    {
+      "name": "toxic waste",
+      "label": "natural hazard",
+      "description": "Waste that is hazardous to human health and the environment",
+      "uuid": "bf3aaf41-3502-49cf-89df-4613ce87c9c3",
+      "score": 0.5277169676259142
+    },
+    {
+      "name": "hydrochloric acid",
+      "label": "variable",
+      "description": "A type of chemical that can be used in semiconductor manufacturing",
+      "uuid": "146a0a0b-1b42-41a6-b1f7-a27615b006a0",
+      "score": 0.5598580128493484
+    },
+    {
+      "name": "hydrogen fluoride",
+      "label": "variable",
+      "description": "A type of chemical that can be used in semiconductor manufacturing",
+      "uuid": "ff9f8056-84d6-4fbc-abe0-9b6e82ed3f5e",
+      "score": 0.5940738600815146
+    },
+    {
+      "name": "methanol",
+      "label": "variable",
+      "description": "A type of chemical that can be used in semiconductor manufacturing",
+      "uuid": "228c14d1-e9bf-4c25-a67b-92c99bc2a8b7",
+      "score": 0.6587308273303567
+    },
+    {
+      "name": "solar power generation facilities",
+      "label": "provider",
+      "description": "Facilities that generate electricity from solar energy",
+      "uuid": "9ff1f885-108f-40cb-a054-4e076b8d648b",
+      "score": 0.5057189164295287
+    },
+    {
+      "name": "carbon monoxide",
+      "label": "variable",
+      "description": "A type of air pollutant that can be emitted by fossil fuel-based power generation facilities",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.6186653273988946
+    },
+    {
+      "name": "volatile organic compounds",
+      "label": "variable",
+      "description": "A type of air pollutant that can be emitted by fossil fuel-based power generation facilities",
+      "uuid": "1f3c543d-9ca9-4db4-b4a5-d3e2fd71e4a4",
+      "score": 0.7254899643199705
+    },
+    {
+      "name": "nitrogen oxides",
+      "label": "variable",
+      "description": "A type of air pollutant that can be emitted by fossil fuel-based power generation facilities",
+      "uuid": "e82ebd1c-8241-4ca0-95a9-a6e1432519cd",
+      "score": 0.6597093973737477
+    },
+    {
+      "name": "carbon dioxide",
+      "label": "variable",
+      "description": "A type of air pollutant that can be emitted by fossil fuel-based power generation facilities",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5003330069513503
+    }
+  ],
+  "(54267, 55560)": [
+    {
+      "name": "urban sources",
+      "label": "location",
+      "description": "Human settlements with high population densities, which can generate significant amounts of pollution",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5514540441451267
+    },
+    {
+      "name": "rural sources",
+      "label": "location",
+      "description": "Areas with lower population densities, which can still generate pollution from agricultural and industrial activities",
+      "uuid": "d83b4271-048c-4763-9d5c-b5ec1b1788f4",
+      "score": 0.5242200084163005
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water stored beneath the Earth's surface, which can be contaminated by pollutants",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6512518990849474
+    },
+    {
+      "name": "solar power generation facilities",
+      "label": "platform",
+      "description": "Infrastructure used to generate electricity from solar energy",
+      "uuid": "9ff1f885-108f-40cb-a054-4e076b8d648b",
+      "score": 0.5394614733563247
+    },
+    {
+      "name": "carbon monoxide",
+      "label": "variable",
+      "description": "A toxic gas produced by incomplete combustion of fossil fuels",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.7279621697989975
+    },
+    {
+      "name": "volatile organic compounds",
+      "label": "variable",
+      "description": "Chemicals that evaporate easily and can contribute to air pollution",
+      "uuid": "1f3c543d-9ca9-4db4-b4a5-d3e2fd71e4a4",
+      "score": 0.8046028851769673
+    },
+    {
+      "name": "nitrogen oxides",
+      "label": "variable",
+      "description": "Gases that contribute to air pollution and can cause respiratory problems",
+      "uuid": "e5563c99-0fb6-43a9-8e20-6b47b1144394",
+      "score": 0.6543687221425385
+    },
+    {
+      "name": "carbon dioxide",
+      "label": "variable",
+      "description": "A greenhouse gas produced by fossil fuel combustion and other human activities",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6340533582841199
+    },
+    {
+      "name": "genomics",
+      "label": "model",
+      "description": "The study of genomes, which can aid in the development of bioremediation solutions",
+      "uuid": "4e3dcb15-d2db-4fa5-9f5f-f2c7a8a7ae34",
+      "score": 0.6890229825847023
+    },
+    {
+      "name": "metabolomics",
+      "label": "model",
+      "description": "The study of the complete set of metabolites in a biological system, which can aid in the development of bioremediation solutions",
+      "uuid": "f978bbb1-08fb-4cc5-bb49-d8da0ee07bc4",
+      "score": 0.6526939827653685
+    },
+    {
+      "name": "proteomics",
+      "label": "model",
+      "description": "The study of proteins and their functions, which can aid in the development of bioremediation solutions",
+      "uuid": "dd6592c0-c95a-4e4f-8ae7-8bfae7de9a3e",
+      "score": 0.6686700120095393
+    }
+  ]
+}

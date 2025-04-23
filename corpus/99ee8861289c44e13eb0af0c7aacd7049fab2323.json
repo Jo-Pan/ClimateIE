@@ -1,0 +1,1500 @@
+{
+  "(0, 3130)": [
+    {
+      "name": "LULCC",
+      "label": "project",
+      "description": "A research project examining long-term urban land use land cover change dynamics and climate change trends in Southwest Ethiopia's four urban centers",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.6473030802663273
+    },
+    {
+      "name": "Landsat",
+      "label": "instrument",
+      "description": "A series of Earth-observing satellites used for remote sensing and land cover classification",
+      "uuid": "77d92504-8160-4f72-90b9-a7c9640f4361",
+      "score": 0.7295975337100604
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat in the atmosphere, an important factor in climate studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6430553487134413
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the ground, an important factor in climate studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5262861013264873
+    },
+    {
+      "name": "geospatial analysis",
+      "label": "model",
+      "description": "A method of analyzing data using geographic information systems and remote sensing techniques",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.5090427908478187
+    },
+    {
+      "name": "built-up areas",
+      "label": "location",
+      "description": "Areas of human development, such as cities and towns, which can impact local climate",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5762779146428602
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant life in a given area, an important factor in climate studies",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6425446727581863
+    },
+    {
+      "name": "wetland",
+      "label": "location",
+      "description": "An area of land saturated with water, which can impact local climate and biodiversity",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.6728689005167312
+    },
+    {
+      "name": "cropland",
+      "label": "location",
+      "description": "An area of land used for agriculture, which can impact local climate and food security",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6702736825002201
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures and changing weather patterns, which can have significant impacts on human societies and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5931641126920076
+    }
+  ],
+  "(2592, 5222)": [
+    {
+      "name": "urbanization",
+      "label": "natural hazard",
+      "description": "The process of people moving from rural areas to cities, leading to changes in land use and potentially harmful effects on the environment",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5836403479028945
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The surface of the Earth, including land and water, that is affected by human activities and climate change",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.6835857203863545
+    },
+    {
+      "name": "remote sensing data",
+      "label": "instrument",
+      "description": "Data collected from satellites or aircraft to observe and study the Earth's surface and atmosphere",
+      "uuid": "6015ef7b-f3bd-49e1-9193-cc23db566b69",
+      "score": 0.5510935039221859
+    },
+    {
+      "name": "supervised classification",
+      "label": "model",
+      "description": "A machine learning technique used to classify data into different categories based on labeled training data",
+      "uuid": "fdd890fa-377a-46ce-8fdc-2d7d16a461b7",
+      "score": 0.6339675168648679
+    },
+    {
+      "name": "LULC maps",
+      "label": "project",
+      "description": "Maps that show the different types of land use and land cover, such as urban, rural, and natural areas",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.6395968207874327
+    },
+    {
+      "name": "surface air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the surface of the Earth, which can be affected by climate change and human activities",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6696552481003636
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an organization that provides scientific information and guidance on climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7310603114103316
+    },
+    {
+      "name": "global average surface temperature",
+      "label": "variable",
+      "description": "The average temperature of the Earth's surface, which has been rising due to climate change",
+      "uuid": "f7c9aebd-2802-4221-8adb-199f81034a1a",
+      "score": 0.5537173240773355
+    },
+    {
+      "name": "projected sea level rises",
+      "label": "variable",
+      "description": "The predicted increase in sea level due to climate change, which can lead to coastal flooding and erosion",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.6387318986437254
+    },
+    {
+      "name": "United Nations",
+      "label": "provider",
+      "description": "An international organization that provides information and guidance on global issues, including climate change and urbanization",
+      "uuid": "7471c405-d062-42cb-bfab-94a93d46cce6",
+      "score": 0.5683825272499927
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country in Africa that is experiencing rapid urbanization and climate change",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.5622933797167343
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "The long-term warming of the planet due to human activities, such as burning fossil fuels and deforestation",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5398935354772249
+    }
+  ],
+  "(4792, 7523)": [
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country located in the Horn of Africa, known for its diverse climate and geography",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6731135559830939
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent with diverse climates, geography, and ecosystems, home to many countries, including Ethiopia",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.6408076519496698
+    },
+    {
+      "name": "United Nations",
+      "label": "provider",
+      "description": "An international organization that provides data, research, and guidance on global issues, including climate change and population growth",
+      "uuid": "72cc1b10-4ca7-4cd3-af25-181ee5dc6725",
+      "score": 0.5717311369919407
+    },
+    {
+      "name": "TM",
+      "label": "instrument",
+      "description": "A type of remote-sensing instrument used to collect data on land use and land cover changes",
+      "uuid": "bfc07fb2-ca22-48e6-8171-84527b0faae7",
+      "score": 0.7274032892358928
+    },
+    {
+      "name": "ETM+",
+      "label": "instrument",
+      "description": "An enhanced version of the TM instrument, used for remote-sensing applications, including land use and land cover mapping",
+      "uuid": "4dbe7764-a2ea-4a19-b754-696c35ac3205",
+      "score": 0.7715854380204394
+    },
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land use and land cover, a crucial factor in understanding climate change, urbanization, and environmental degradation",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.676906114560303
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "A measure of the temperature at the Earth's surface, often used to study climate change and urban heat islands",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.7245142392369044
+    },
+    {
+      "name": "geographical information system",
+      "label": "instrument",
+      "description": "A computer-based tool used to analyze and visualize geospatial data, including land use and land cover changes",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.6713996576918649
+    },
+    {
+      "name": "remote-sensing data",
+      "label": "variable",
+      "description": "Data collected from satellites or other remote-sensing platforms, used to study the Earth's surface and climate",
+      "uuid": "6015ef7b-f3bd-49e1-9193-cc23db566b69",
+      "score": 0.5920804554518336
+    },
+    {
+      "name": "recurrent extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences, such as heatwaves, floods, and droughts, that have significant impacts on the environment and human populations",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.5971795939407206
+    },
+    {
+      "name": "urbanization",
+      "label": "variable",
+      "description": "The process of urban growth and development, leading to changes in land use, land cover, and climate",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5764341386230799
+    },
+    {
+      "name": "climate change",
+      "label": "variable",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872681524345835
+    }
+  ],
+  "(6999, 9978)": [
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country located in the Horn of Africa, characterized by diverse geography and climate conditions",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6714398873446124
+    },
+    {
+      "name": "El Ni\u00f1o-Southern Oscillations",
+      "label": "teleconnection",
+      "description": "A complex climate phenomenon involving fluctuations in ocean temperatures and atmospheric pressure in the Pacific Ocean, influencing global climate patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7623204113233791
+    },
+    {
+      "name": "Indian Ocean Dipole",
+      "label": "teleconnection",
+      "description": "A climate phenomenon characterized by fluctuations in sea surface temperatures between the western and eastern Indian Ocean, affecting regional climate variability",
+      "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+      "score": 0.5171036022129779
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "The El Ni\u00f1o-Southern Oscillation, a periodic climate phenomenon impacting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7868519690506068
+    },
+    {
+      "name": "GIS",
+      "label": "instrument",
+      "description": "A Geographical Information System, a tool used for capturing, storing, analyzing, and displaying geographically referenced data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.679299112532053
+    },
+    {
+      "name": "remote-sensing data",
+      "label": "variable",
+      "description": "Data collected through remote sensing technologies, such as satellite or aerial imagery, used to analyze and understand Earth's surface and atmosphere",
+      "uuid": "6015ef7b-f3bd-49e1-9193-cc23db566b69",
+      "score": 0.552797224389528
+    },
+    {
+      "name": "urban LULC change",
+      "label": "variable",
+      "description": "Changes in land use and land cover in urban areas, often studied to understand urban growth, development, and environmental impacts",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.5601252510245075
+    },
+    {
+      "name": "tropical rainforest",
+      "label": "location",
+      "description": "A type of ecosystem found near the equator, characterized by high temperatures, high humidity, and heavy rainfall",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.7066201103741685
+    }
+  ],
+  "(9410, 12193)": [
+    {
+      "name": "land use land cover change",
+      "label": "variable",
+      "description": "The process of altering the natural environment, such as deforestation or urbanization, which impacts the urban microclimate",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5803649472795722
+    },
+    {
+      "name": "urban microclimate",
+      "label": "variable",
+      "description": "The local climate conditions within an urban area, influenced by factors such as land use, vegetation, and built infrastructure",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.6229380162733285
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon of rising temperatures and changing weather patterns, posing challenges for urban areas",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5341300715317159
+    },
+    {
+      "name": "climate change adaptation",
+      "label": "project",
+      "description": "Efforts to adjust to the impacts of climate change, such as implementing mitigation schemes in urban areas",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6326452186219848
+    },
+    {
+      "name": "mitigation schemes",
+      "label": "project",
+      "description": "Strategies to reduce the effects of climate change, such as reducing greenhouse gas emissions or promoting sustainable land use practices",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6050637981237962
+    }
+  ],
+  "(11840, 14216)": [
+    {
+      "name": "Land Use Land Cover Change",
+      "label": "project",
+      "description": "A study on the dynamics of urban area changes due to urbanization and the magnitude and spatial patterns of land use land cover changes in and around the four urban centers",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.5523659683838948
+    },
+    {
+      "name": "remote sensing",
+      "label": "instrument",
+      "description": "A technique used to collect data about the Earth's surface using satellite or aerial imagery",
+      "uuid": "c38e16d1-61f9-4189-a3c9-33e2015db137",
+      "score": 0.5640901746990865
+    },
+    {
+      "name": "urbanization",
+      "label": "variable",
+      "description": "The process of urban growth and development, leading to changes in land use and land cover",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5703339216316919
+    },
+    {
+      "name": "altitude",
+      "label": "variable",
+      "description": "The height of an object or point in relation to sea level or ground level",
+      "uuid": "16bfcf54-f8e1-4c8e-9bd4-a1ac06ea95a0",
+      "score": 0.6924690978942685
+    }
+  ],
+  "(13765, 16783)": [
+    {
+      "name": "Garmin Global Positioning System",
+      "label": "instrument",
+      "description": "A device used for navigation and geospatial data collection",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.6279083579234185
+    },
+    {
+      "name": "Landsat Thematic Mappers",
+      "label": "instrument",
+      "description": "A satellite-based instrument used for remote sensing and land use land cover change analysis",
+      "uuid": "bfc07fb2-ca22-48e6-8171-84527b0faae7",
+      "score": 0.68085913732893
+    },
+    {
+      "name": "Landsat 8 Operational Land Imager",
+      "label": "instrument",
+      "description": "A satellite-based instrument used for remote sensing and land use land cover change analysis",
+      "uuid": "e8a6f9ad-e376-495c-869e-3467526b49ec",
+      "score": 0.6537380782395368
+    },
+    {
+      "name": "United States Geological Survey",
+      "label": "provider",
+      "description": "The agency responsible for collecting and providing geospatial data in the United States",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6535082694797201
+    },
+    {
+      "name": "Land Use Land Cover Change",
+      "label": "variable",
+      "description": "A measure of the change in land use and land cover over time",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.617793110726549
+    },
+    {
+      "name": "urbanization",
+      "label": "variable",
+      "description": "A measure of the growth and development of urban areas",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5181919052115838
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation in a given area",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5532041740599885
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the temperature in a given area",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.628738507990647
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Areas characterized by high population density and urban development",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7183382950025351
+    }
+  ],
+  "(16217, 19523)": [
+    {
+      "name": "SPSS",
+      "label": "instrument",
+      "description": "A software package used for statistical analysis and data management",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.6124878902381359
+    },
+    {
+      "name": "Land Use Land Cover",
+      "label": "project",
+      "description": "A research initiative focused on studying changes in land use and land cover, often using remote sensing and GIS techniques",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6440897820932202
+    },
+    {
+      "name": "meteorological station",
+      "label": "platform",
+      "description": "A location equipped with instruments to measure and record weather and climate data",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.660556928756284
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in an environment, often used in climate and weather studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.65131540833058
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the ground, often measured and studied in meteorology and climatology",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5605356566770582
+    },
+    {
+      "name": "GIS",
+      "label": "instrument",
+      "description": "Geographic Information System, a software tool used for analyzing and visualizing geospatial data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.696643743728629
+    },
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "Global Positioning System, a network of satellites used for navigation and location determination",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.7442745511965303
+    },
+    {
+      "name": "land cover classes",
+      "label": "variable",
+      "description": "Categorical classifications of land cover types, such as forest, grassland, or urban areas",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6798092597583643
+    },
+    {
+      "name": "land cover data",
+      "label": "variable",
+      "description": "Information about the characteristics of the land surface, often collected through remote sensing or field observations",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6178834676661487
+    }
+  ],
+  "(18977, 21832)": [
+    {
+      "name": "GIS",
+      "label": "platform",
+      "description": "A geographic information system, used for analyzing and interpreting geographically referenced data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.7044917844978519
+    },
+    {
+      "name": "land-use class",
+      "label": "variable",
+      "description": "A category of land use, such as urban, agricultural, or forested",
+      "uuid": "fe2f8240-4d8e-4b1f-b869-29fee59692f7",
+      "score": 0.6641673600536191
+    },
+    {
+      "name": "land use land cover change matrix",
+      "label": "instrument",
+      "description": "A tool used to analyze and display changes in land use or land cover over time",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.5014226269309767
+    },
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land use and land cover, referring to the human use of land and its natural characteristics",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.7010122767424328
+    },
+    {
+      "name": "MS Excel",
+      "label": "instrument",
+      "description": "A software package used for data analysis and visualization",
+      "uuid": "e807acba-457e-4f7e-be44-da5f93f4118b",
+      "score": 0.6483310986599026
+    },
+    {
+      "name": "SPSS",
+      "label": "instrument",
+      "description": "A software package used for statistical analysis",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.5998026952838084
+    },
+    {
+      "name": "GIS software",
+      "label": "instrument",
+      "description": "A software package used for geographic information systems analysis",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.5983283800090992
+    },
+    {
+      "name": "Standardized Precipitation Anomaly",
+      "label": "variable",
+      "description": "A measure of the deviation of precipitation from its long-term average",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6576354759131974
+    },
+    {
+      "name": "annual and decadal long-term climate variability",
+      "label": "variable",
+      "description": "A measure of the changes in climate over time",
+      "uuid": "addadf3e-ae8d-49aa-9b5d-abee1952a543",
+      "score": 0.5346427443909185
+    },
+    {
+      "name": "land use type",
+      "label": "variable",
+      "description": "A category of land use, such as urban, agricultural, or forested",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.5836149148755067
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air",
+      "uuid": "f721be74-a590-4147-8af4-f2804aea4c0b",
+      "score": 0.6245248497131894
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation that falls to the ground",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5648076364673627
+    }
+  ],
+  "(21414, 23852)": [
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, often used to study climate and water resources",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5672126500579371
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.680557041432352
+    },
+    {
+      "name": "Excel",
+      "label": "instrument",
+      "description": "A spreadsheet software used for data analysis",
+      "uuid": "e807acba-457e-4f7e-be44-da5f93f4118b",
+      "score": 0.6890516803158622
+    }
+  ],
+  "(23484, 25552)": [
+    {
+      "name": "aerial photos",
+      "label": "instrument",
+      "description": "Photographic images taken from an aircraft, used to analyze land use and land cover changes",
+      "uuid": "3cb5948f-2a92-4c2a-9410-eb17a1045d8e",
+      "score": 0.5724545671247782
+    }
+  ],
+  "(25153, 27928)": [
+    {
+      "name": "Land Use Land Cover Change",
+      "label": "project",
+      "description": "A research project analyzing changes in land use and land cover over time, focusing on urban areas in southwest Ethiopia",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.6194663654763134
+    },
+    {
+      "name": "supervised image classification",
+      "label": "instrument",
+      "description": "A technique used in remote sensing to classify pixels in an image into different land use or land cover categories based on training data",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.5136807152379111
+    },
+    {
+      "name": "land use land cover maps",
+      "label": "variable",
+      "description": "Maps representing different categories of land use and land cover, such as built-up, vegetation, agriculture, and wetlands",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6545011580860389
+    },
+    {
+      "name": "Landsat TM",
+      "label": "instrument",
+      "description": "A satellite-based instrument used for collecting remote sensing data, particularly for land use and land cover analysis",
+      "uuid": "bfc07fb2-ca22-48e6-8171-84527b0faae7",
+      "score": 0.72505159434057
+    },
+    {
+      "name": "Landsat OLI",
+      "label": "instrument",
+      "description": "A satellite-based instrument used for collecting remote sensing data, particularly for land use and land cover analysis",
+      "uuid": "e8a6f9ad-e376-495c-869e-3467526b49ec",
+      "score": 0.7299730664304483
+    },
+    {
+      "name": "GIS",
+      "label": "platform",
+      "description": "Geographic Information System, a computer-based tool for analyzing, storing, and displaying geographically referenced data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.6976489182451119
+    }
+  ],
+  "(27388, 30156)": [
+    {
+      "name": "Land use land cover change",
+      "label": "variable",
+      "description": "A measure of the change in land use and land cover over time, often used to study environmental and urbanization trends",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6276734248056018
+    },
+    {
+      "name": "GIS",
+      "label": "platform",
+      "description": "A geographic information system, used for analyzing and visualizing geospatial data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.7142139571729649
+    },
+    {
+      "name": "Land cover classes",
+      "label": "variable",
+      "description": "Categories of land cover, such as cropland, vegetation, and built-up areas, used to classify and analyze land use land cover change",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6856249390570853
+    },
+    {
+      "name": "Cropland",
+      "label": "variable",
+      "description": "A type of land cover, referring to areas used for agricultural purposes",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.7015912761601397
+    },
+    {
+      "name": "Vegetation",
+      "label": "variable",
+      "description": "A type of land cover, referring to areas covered by plants and trees",
+      "uuid": "2bf08c64-dabc-42ab-99ae-3cf3104cd596",
+      "score": 0.6333109527043244
+    },
+    {
+      "name": "Built-up areas",
+      "label": "variable",
+      "description": "A type of land cover, referring to areas developed for urban use, such as cities and towns",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5715895671253042
+    },
+    {
+      "name": "Wetland",
+      "label": "variable",
+      "description": "A type of land cover, referring to areas of land saturated with water, such as marshes and swamps",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.6865627318663166
+    },
+    {
+      "name": "Land surface temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the Earth's surface, often used to study urban heat islands and environmental trends",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7588978554754866
+    }
+  ],
+  "(29569, 32168)": [
+    {
+      "name": "LULC",
+      "label": "variable",
+      "description": "Land Use Land Cover, a measure of the way land is utilized, including categories such as built-up, vegetation, cropland, and wetland",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.7142470277058609
+    },
+    {
+      "name": "LULCC Classification Accuracy Assessment",
+      "label": "project",
+      "description": "A research project aimed at evaluating the accuracy of land use land cover classification",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.5563903242031114
+    },
+    {
+      "name": "GPS",
+      "label": "instrument",
+      "description": "A navigation system used for collecting ground truth points and verifying land use land cover classifications",
+      "uuid": "e5fde4c4-15cd-4278-b922-005488df096f",
+      "score": 0.6916017813881391
+    }
+  ],
+  "(31680, 34064)": [
+    {
+      "name": "land use class",
+      "label": "variable",
+      "description": "A category of land use, such as cropland, wetland, or built-up area",
+      "uuid": "fe2f8240-4d8e-4b1f-b869-29fee59692f7",
+      "score": 0.6466292075261553
+    },
+    {
+      "name": "land cover classes",
+      "label": "variable",
+      "description": "Categories of land cover, such as vegetation or built-up land",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6686192251674451
+    },
+    {
+      "name": "wetland",
+      "label": "location",
+      "description": "A type of land cover characterized by saturated soil and aquatic plants",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.6619731491888802
+    },
+    {
+      "name": "built-up land area",
+      "label": "location",
+      "description": "A type of land cover characterized by urban development and infrastructure",
+      "uuid": "3e59af3d-500b-4c66-a9a1-76db5cf4a00b",
+      "score": 0.5394829682013654
+    },
+    {
+      "name": "cropland",
+      "label": "location",
+      "description": "A type of land use characterized by agricultural activities",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6803769987190309
+    },
+    {
+      "name": "vegetation",
+      "label": "location",
+      "description": "A type of land cover characterized by plant growth and density",
+      "uuid": "2bf08c64-dabc-42ab-99ae-3cf3104cd596",
+      "score": 0.6327611960812684
+    },
+    {
+      "name": "urbanization",
+      "label": "natural hazard",
+      "description": "A process of urban development that can lead to environmental and social challenges",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5659490416509906
+    }
+  ],
+  "(33636, 35910)": [
+    {
+      "name": "land use land cover change",
+      "label": "variable",
+      "description": "The process of change in the use or cover of land, such as from cropland to built-up areas",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6094565275340393
+    },
+    {
+      "name": "urbanization",
+      "label": "variable",
+      "description": "The process of urban growth and development, leading to changes in land use and land cover",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5703339216316919
+    },
+    {
+      "name": "cropland",
+      "label": "variable",
+      "description": "Land used for growing crops, such as agricultural fields",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6779561853178206
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, including trees, grasses, and other types of plants",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6266944225365372
+    },
+    {
+      "name": "wetland",
+      "label": "variable",
+      "description": "Land that is saturated with water, such as marshes, swamps, and bogs",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.669985173696046
+    },
+    {
+      "name": "built-up areas",
+      "label": "variable",
+      "description": "Areas of land that have been developed for human use, such as cities, towns, and villages",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5880336302073726
+    },
+    {
+      "name": "land cover classes",
+      "label": "variable",
+      "description": "Categories of land cover, such as cropland, vegetation, and built-up areas",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6657495170277241
+    }
+  ],
+  "(35542, 37781)": [
+    {
+      "name": "cropland",
+      "label": "variable",
+      "description": "A type of land cover used for agricultural purposes",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.7004181317113104
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "A type of land cover characterized by plant growth",
+      "uuid": "2bf08c64-dabc-42ab-99ae-3cf3104cd596",
+      "score": 0.6329870952592213
+    },
+    {
+      "name": "wetland",
+      "label": "variable",
+      "description": "A type of land cover consisting of marshes, swamps, or other areas saturated with water",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.6795268679757632
+    },
+    {
+      "name": "built-up areas",
+      "label": "variable",
+      "description": "A type of land cover consisting of urban or developed areas",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5683159484817982
+    },
+    {
+      "name": "land cover classes",
+      "label": "variable",
+      "description": "Categories used to classify the different types of land use or cover",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6953827880717496
+    },
+    {
+      "name": "urbanization",
+      "label": "natural hazard",
+      "description": "The process of urban development leading to changes in land use and cover",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5556248917069909
+    }
+  ],
+  "(37443, 39612)": [
+    {
+      "name": "cropland",
+      "label": "location",
+      "description": "A type of land use where crops are grown, often involving the conversion of natural habitats",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6684564154033822
+    },
+    {
+      "name": "wetland",
+      "label": "location",
+      "description": "A type of ecosystem characterized by saturated soils and abundant water, providing habitat for various plant and animal species",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.7047054005343659
+    },
+    {
+      "name": "built-up areas",
+      "label": "location",
+      "description": "Areas with high human population density and infrastructure, such as cities and towns",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6495158857917406
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, including trees, grasses, and other types of flora, which can be affected by land use changes",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.611219757413616
+    },
+    {
+      "name": "land use land cover change",
+      "label": "project",
+      "description": "A study or initiative focused on understanding and analyzing changes in land use and land cover over time",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6134371561006673
+    },
+    {
+      "name": "land cover classes",
+      "label": "variable",
+      "description": "Categories used to classify and describe different types of land cover, such as cropland, wetland, and built-up areas",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6736678702568597
+    }
+  ],
+  "(39235, 41932)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat in the atmosphere, crucial for understanding climate patterns",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6445388929193286
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface, vital for climate and water resource studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.567541176746049
+    },
+    {
+      "name": "land use change",
+      "label": "natural hazard",
+      "description": "Changes in the way land is utilized, potentially leading to environmental hazards and climate impacts",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5360734260290011
+    },
+    {
+      "name": "seasonal time scale analysis",
+      "label": "experiment",
+      "description": "A method of analyzing data over specific time periods, such as seasons, to understand climate trends and variability",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5416775653723908
+    }
+  ],
+  "(41500, 44240)": [
+    {
+      "name": "spring",
+      "label": "season",
+      "description": "A season of the year, typically characterized by increasing temperatures and rainfall",
+      "uuid": "620a9e6c-5851-48b7-93c5-a1706546f5d1",
+      "score": 0.5416435866072651
+    },
+    {
+      "name": "severe droughts",
+      "label": "natural hazard",
+      "description": "A period of abnormally low rainfall, leading to water scarcity and impacts on agriculture and ecosystems",
+      "uuid": "e4c806af-ab57-4fda-b7e9-29e3c65f6ec5",
+      "score": 0.6200837781888388
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country in eastern Africa, characterized by diverse climate patterns and agricultural activity",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.616700824161379
+    },
+    {
+      "name": "Standardized Rainfall Anomaly",
+      "label": "instrument",
+      "description": "A method used to assess inter-annual rainfall fluctuations and identify patterns of wet and dry conditions",
+      "uuid": "e13b084e-d044-49c9-8791-f057f777fca3",
+      "score": 0.5200333369734664
+    },
+    {
+      "name": "seasonal rainfall variability",
+      "label": "variable",
+      "description": "The variation in rainfall patterns across different seasons, an important metric for understanding climate dynamics",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.5452850151557096
+    },
+    {
+      "name": "inter-seasonal rainfall variability",
+      "label": "variable",
+      "description": "The variation in rainfall patterns between seasons, an important metric for understanding climate dynamics",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.5061466702366256
+    }
+  ],
+  "(43754, 46403)": [
+    {
+      "name": "monthly temperature",
+      "label": "variable",
+      "description": "A measurement of temperature on a monthly basis, used to analyze temporal trends",
+      "uuid": "8c8c70b1-f6c5-4f34-89b5-510049b8c8ab",
+      "score": 0.6119489482530462
+    },
+    {
+      "name": "seasonal temperature",
+      "label": "variable",
+      "description": "A measurement of temperature on a seasonal basis, used to analyze temporal trends",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5450511413979646
+    },
+    {
+      "name": "annual temperature",
+      "label": "variable",
+      "description": "A measurement of temperature on an annual basis, used to analyze temporal trends",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.6128188696781214
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded during a given period",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6222153669943454
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded during a given period",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6028286796176424
+    },
+    {
+      "name": "climatic normals",
+      "label": "variable",
+      "description": "Standardized values of climate variables, such as temperature, over a specific period",
+      "uuid": "f308a8db-40ea-4932-a58c-fb0a093959dc",
+      "score": 0.5731000999985628
+    },
+    {
+      "name": "global climate change",
+      "label": "natural hazard",
+      "description": "A phenomenon characterized by the warming of the Earth's climate system, leading to various environmental and societal impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5615132237156419
+    },
+    {
+      "name": "linear regression model",
+      "label": "model",
+      "description": "A statistical model used to analyze the relationship between variables, in this case, temperature changes over time",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.5243713172088242
+    }
+  ],
+  "(46068, 49030)": [
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded during a specific time period, often used to study climate patterns and trends",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6067059067716496
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded during a specific time period, often used to study climate patterns and trends",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6209664985636775
+    },
+    {
+      "name": "mean temperature",
+      "label": "variable",
+      "description": "The average temperature recorded during a specific time period, often used to study climate patterns and trends",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5111789308627022
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance to policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7395965331828134
+    },
+    {
+      "name": "EEA",
+      "label": "provider",
+      "description": "The Ethiopian Environment and Agriculture organization, responsible for environmental conservation and agricultural development in Ethiopia",
+      "uuid": "92ffb6aa-1680-4cf0-af41-10839ca9c316",
+      "score": 0.5661182891181078
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country in East Africa, known for its diverse climate and geography",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.6511321932200768
+    },
+    {
+      "name": "tropical rain forests",
+      "label": "location",
+      "description": "A type of ecosystem characterized by high temperatures and high levels of rainfall, often found near the equator",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.7093728420271666
+    },
+    {
+      "name": "industrial zones",
+      "label": "location",
+      "description": "Areas where industrial activities are concentrated, often associated with high levels of greenhouse gas emissions",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5263639905306187
+    }
+  ],
+  "(48431, 51518)": [
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded during a specific time period, often used to study climate trends and patterns",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6061100150183918
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded during a specific time period, often used to study climate trends and patterns",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6202152577521454
+    },
+    {
+      "name": "Ethiopia",
+      "label": "location",
+      "description": "A country in East Africa, used as a study area to analyze temperature trends and climate change impacts",
+      "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+      "score": 0.575604073857715
+    },
+    {
+      "name": "ENSO events",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation events, which impact global climate patterns and are linked to extreme weather events",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7458392561328592
+    },
+    {
+      "name": "urbanization",
+      "label": "natural hazard",
+      "description": "The process of urban growth and development, which can lead to environmental and social changes",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5698090600195408
+    },
+    {
+      "name": "LULC classification",
+      "label": "project",
+      "description": "Land Use Land Cover classification, a project aimed at analyzing and understanding land use and land cover changes",
+      "uuid": "d6cd3c84-8553-4740-b489-3a9d1e8f4380",
+      "score": 0.7442969372027949
+    },
+    {
+      "name": "climate change adaptation strategies",
+      "label": "project",
+      "description": "Initiatives and plans developed to help communities adapt to the impacts of climate change",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5678091852968437
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric elements such as temperature, rainfall, and humidity, used to study climate trends and patterns",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6682237586251515
+    },
+    {
+      "name": "land use land cover changes",
+      "label": "variable",
+      "description": "Changes in the way land is used and covered, often driven by urbanization and climate change",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6566597517664704
+    }
+  ],
+  "(50982, 53544)": [
+    {
+      "name": "LULCC",
+      "label": "variable",
+      "description": "Land use land cover change, a measure of the alteration in land use and land cover patterns over time",
+      "uuid": "4b4b35aa-94b9-47ba-86f9-e7a1b2b78d1f",
+      "score": 0.5978590971936188
+    },
+    {
+      "name": "urbanization",
+      "label": "project",
+      "description": "A process of urban development and growth, leading to changes in land use and land cover",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5698737813416414
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal state of the environment, including minimum, mean, and maximum temperatures",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6358990043028663
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation in a given area over a certain period of time",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5508563177861165
+    },
+    {
+      "name": "built-up areas",
+      "label": "location",
+      "description": "Areas of human settlement and development, characterized by the presence of buildings and infrastructure",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6150964420665797
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life and cover in a given area, influencing local climate and environmental conditions",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6435419452712603
+    },
+    {
+      "name": "cropland",
+      "label": "location",
+      "description": "Areas used for agricultural purposes, often affected by urbanization and land use changes",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6898494592234602
+    },
+    {
+      "name": "wetland",
+      "label": "location",
+      "description": "Areas of land saturated with water, providing important ecosystem services and habitats for various species",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.704591708959616
+    },
+    {
+      "name": "anthropogenic influence",
+      "label": "variable",
+      "description": "Human-induced changes to the environment, including urbanization, land use changes, and climate variability",
+      "uuid": "c4a619e9-88ba-4dc6-91a6-5f95284d6f80",
+      "score": 0.5920068942289848
+    }
+  ],
+  "(53168, 56067)": [
+    {
+      "name": "urban land use land cover change",
+      "label": "variable",
+      "description": "A measure of the changes in land use and land cover patterns in urban areas, often used to study the impact of urbanization on climate and environment",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.5941274131245382
+    },
+    {
+      "name": "local microclimate",
+      "label": "variable",
+      "description": "The unique climate conditions of a specific, small area, such as an urban center, which can differ from the surrounding regional climate",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.6932937360656255
+    },
+    {
+      "name": "urbanization",
+      "label": "variable",
+      "description": "The process of urban growth and development, often leading to changes in land use and land cover patterns",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.570420517663466
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used to study climate change and its impacts",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6654739963220367
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall or other forms of moisture that fall to the ground, often used to study climate change and its impacts",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6817234862834479
+    },
+    {
+      "name": "urban flooding",
+      "label": "natural hazard",
+      "description": "The inundation of water in urban areas, often caused by heavy rainfall or other extreme weather events",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.5635640105031781
+    },
+    {
+      "name": "GIS spatial analysis",
+      "label": "instrument",
+      "description": "A tool used to analyze and interpret geospatial data, often used in climate change and urbanization studies",
+      "uuid": "fef15af1-607d-4005-b1a8-778af1a4dca9",
+      "score": 0.5116155806581121
+    }
+  ],
+  "(55522, 58605)": [
+    {
+      "name": "urban centers",
+      "label": "location",
+      "description": "Cities or towns with high population density and built-up areas, often experiencing unique microclimates",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.617709832940739
+    },
+    {
+      "name": "built-up areas",
+      "label": "location",
+      "description": "Areas with high density of buildings, infrastructure, and human activity, often associated with urbanization",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6370263900066835
+    },
+    {
+      "name": "agricultural lands",
+      "label": "location",
+      "description": "Areas used for farming, crop production, and livestock grazing, often affected by urban expansion",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6803712360256674
+    },
+    {
+      "name": "urban expansion",
+      "label": "natural hazard",
+      "description": "The rapid growth of cities, leading to the conversion of natural habitats and agricultural lands to built-up areas",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5702382788837316
+    },
+    {
+      "name": "urbanization",
+      "label": "natural hazard",
+      "description": "The process of urban growth, often resulting in environmental degradation, social inequality, and climate change",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5817178986496092
+    },
+    {
+      "name": "local microclimate",
+      "label": "variable",
+      "description": "The unique climate conditions of a specific area, influenced by local factors such as urbanization, vegetation, and topography",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.7012191753607362
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, often warmer in urban areas due to the urban heat island effect",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6912468849118688
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the ground, often affected by climate change and urbanization",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5379828753482888
+    },
+    {
+      "name": "NMSA",
+      "label": "provider",
+      "description": "The National Meteorological Services Agency, responsible for collecting and analyzing weather and climate data",
+      "uuid": "63389936-2d57-496b-8624-411aec71dadc",
+      "score": 0.5178398819642827
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change research and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7384060458908503
+    },
+    {
+      "name": "daily mean temperature",
+      "label": "variable",
+      "description": "The average temperature of a day, often used to study climate trends and patterns",
+      "uuid": "f86e464a-cf9d-4e15-a39b-501855d1dc5a",
+      "score": 0.5460258639336998
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded during a day, often used to study extreme weather events",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6582937687702339
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded during a day, often used to study climate trends and patterns",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6135509056872275
+    }
+  ],
+  "(57999, 61458)": [
+    {
+      "name": "urban centers",
+      "label": "location",
+      "description": "The central areas of cities, often serving as hubs for politics, technology, and economic growth, but also experiencing poverty, inequality, and environmental hazards",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5796995800538681
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by long-term changes in the Earth's climate, leading to extreme weather events, rising temperatures, and altered ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5921227299449654
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences, such as intense heavy rainfall, heatwaves, and storms, which can cause damage to infrastructure and disrupt access to basic necessities",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6279656606359064
+    },
+    {
+      "name": "urban heat island effect",
+      "label": "natural hazard",
+      "description": "A phenomenon where built-up areas absorb and retain heat, leading to higher temperatures and increased energy consumption",
+      "uuid": "5ce8b673-cdb9-4000-ad00-774d1c67c1b1",
+      "score": 0.7429446506765036
+    },
+    {
+      "name": "water-borne diseases",
+      "label": "natural hazard",
+      "description": "Illnesses caused by the presence of pathogens in water, often spread through contaminated water sources",
+      "uuid": "68447296-6019-453b-9684-3cd3ff1530c9",
+      "score": 0.7137980895563607
+    },
+    {
+      "name": "foodborne diseases",
+      "label": "natural hazard",
+      "description": "Illnesses caused by the consumption of contaminated food, often resulting from bacterial growth in foods exposed to higher temperatures",
+      "uuid": "007eeff3-1c96-4b54-aa35-2de5ebb9971a",
+      "score": 0.6923638694298451
+    },
+    {
+      "name": "vectorborne infectious diseases",
+      "label": "natural hazard",
+      "description": "Diseases spread through the bite of infected insects, such as mosquitoes and ticks",
+      "uuid": "9d92320e-b9b9-4ae8-8394-252eeda7ceb1",
+      "score": 0.7243936116521278
+    },
+    {
+      "name": "land use land cover change",
+      "label": "variable",
+      "description": "Changes in the way land is used and covered, such as deforestation, urbanization, and agriculture, which can impact climate change",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6344132343565446
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability and accessibility of sufficient, safe, and nutritious food, often threatened by climate change and urbanization",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7122811905503654
+    },
+    {
+      "name": "United States Geological Survey (USGS)",
+      "label": "provider",
+      "description": "A scientific agency responsible for providing information on the Earth's natural resources and hazards",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6739337569707832
+    },
+    {
+      "name": "University of California Santa Barbara",
+      "label": "provider",
+      "description": "A research university with a strong focus on environmental and climate-related studies",
+      "uuid": "4135c6c7-9947-48bf-99bc-0fd6abcef56b",
+      "score": 0.6273306498339396
+    }
+  ],
+  "(60895, 63131)": [
+    {
+      "name": "Ethiopia Geo-Spatial Agency",
+      "label": "provider",
+      "description": "A government agency in Ethiopia focused on geospatial data, mapping, and related services, potentially providing data or expertise for research",
+      "uuid": "1ff07fdd-9f88-4c87-8b2a-6e1a8dc4dfd9",
+      "score": 0.5003717726073433
+    },
+    {
+      "name": "University of California Santa Barbara",
+      "label": "provider",
+      "description": "An academic institution in the United States, with a broad range of research interests, including environmental sciences and potentially providing expertise in language and manuscript review",
+      "uuid": "4135c6c7-9947-48bf-99bc-0fd6abcef56b",
+      "score": 0.6365974009793985
+    },
+    {
+      "name": "Creative Commons Attribution License",
+      "label": "platform",
+      "description": "A licensing platform, allowing for open-access distribution and reproduction of academic works, provided the original authors and copyright owners are credited",
+      "uuid": "95c7e601-fcfe-4fc9-9994-8105a1e11428",
+      "score": 0.6613644083826351
+    }
+  ]
+}

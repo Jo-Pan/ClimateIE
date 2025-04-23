@@ -1,0 +1,979 @@
+{
+  "(0, 2822)": [
+    {
+      "name": "Methane",
+      "label": "variable",
+      "description": "A potent greenhouse gas that contributes to global warming, with emissions influenced by various natural and human-induced factors",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.6903919169467398
+    },
+    {
+      "name": "Wet ecosystems",
+      "label": "location",
+      "description": "Areas of land covered with water, such as marshes, swamps, and bogs, that play a crucial role in the global methane cycle",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.6400551168621842
+    },
+    {
+      "name": "Freshwater ecosystems",
+      "label": "location",
+      "description": "Ecosystems found in freshwater environments, such as rivers, lakes, and wetlands, that are important drivers of the global greenhouse gas balance",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.6841272124962303
+    },
+    {
+      "name": "Temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of an environment, influencing various biological and chemical processes, including methane emissions",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5911787735731697
+    },
+    {
+      "name": "Organic matter availability",
+      "label": "variable",
+      "description": "The amount of organic material present in an ecosystem, which can impact microbial processes, including methane production and consumption",
+      "uuid": "e82c0632-5a3c-4da2-ba10-55c0fc222580",
+      "score": 0.560561548357127
+    },
+    {
+      "name": "Global warming",
+      "label": "natural hazard",
+      "description": "The long-term rise in Earth's average surface temperature, primarily caused by human activities, leading to various environmental and societal impacts",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5554737087710007
+    }
+  ],
+  "(2368, 5271)": [
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas that plays a significant role in the Earth's climate system",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7189362455213564
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, influencing various physical, chemical, and biological processes",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.603516796271043
+    },
+    {
+      "name": "high-latitude systems",
+      "label": "location",
+      "description": "Regions near the North or South Pole, characterized by unique climate and environmental conditions",
+      "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+      "score": 0.5530289347397206
+    },
+    {
+      "name": "freshwater ecosystems",
+      "label": "location",
+      "description": "Aqueous environments such as lakes, rivers, and wetlands that support a wide range of plant and animal life",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.7192103009435321
+    },
+    {
+      "name": "sediment",
+      "label": "location",
+      "description": "The material that settles to the bottom of a body of water, often composed of organic and inorganic matter",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6024924153061435
+    },
+    {
+      "name": "primary production",
+      "label": "process",
+      "description": "The process by which plants, algae, and other organisms convert sunlight into organic matter, forming the base of aquatic food webs",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7906972051514654
+    },
+    {
+      "name": "sedimentation",
+      "label": "process",
+      "description": "The process by which particles settle to the bottom of a body of water, influencing water clarity and ecosystem functioning",
+      "uuid": "984e15c6-7eac-45b8-b098-ad82eab6be6e",
+      "score": 0.6376453174603105
+    },
+    {
+      "name": "plankton communities",
+      "label": "location",
+      "description": "Groups of microorganisms, plants, and animals that drift in the water column of aquatic ecosystems",
+      "uuid": "ca8d77f2-9257-4298-9244-e81cd890f000",
+      "score": 0.6477200278241363
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an organization that assesses and reports on climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.749518563273357
+    },
+    {
+      "name": "RCP8.5",
+      "label": "scenario",
+      "description": "A climate change scenario that represents a high-emissions future, often used in climate modeling and impact assessments",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6688788215632414
+    },
+    {
+      "name": "heat wave",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally hot weather, often associated with increased mortality and ecosystem disruption",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.747434560333271
+    }
+  ],
+  "(4789, 7778)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an organization that assesses climate change science and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7366726583856118
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario used in climate modeling to predict future climate changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6754963346002356
+    },
+    {
+      "name": "heat waves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally hot weather, often leading to health issues and environmental damage",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.7226306299379034
+    },
+    {
+      "name": "GHG analyzer",
+      "label": "instrument",
+      "description": "A device used to measure the concentration of greenhouse gases in the atmosphere",
+      "uuid": "e553e68d-bc64-4b5b-b4e5-c01cf3fc68d9",
+      "score": 0.521959797985624
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, influencing many environmental and ecological processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6028860846672497
+    },
+    {
+      "name": "freshwater ecosystems",
+      "label": "location",
+      "description": "Ecosystems found in rivers, lakes, and wetlands, supporting a wide range of plant and animal life",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.7086208723021253
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent on Earth, comprising a diverse range of cultures, climates, and ecosystems",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6994356396005631
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent on Earth, encompassing the United States, Canada, and Mexico, among other countries",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7052690404037405
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on Earth, comprising a diverse range of cultures, climates, and ecosystems",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6822981720871353
+    },
+    {
+      "name": "sediment organic matter",
+      "label": "variable",
+      "description": "The amount of organic material present in sediment, influencing ecosystem processes and greenhouse gas emissions",
+      "uuid": "e82c0632-5a3c-4da2-ba10-55c0fc222580",
+      "score": 0.6124067496075167
+    },
+    {
+      "name": "hydrostatic pressure",
+      "label": "variable",
+      "description": "The pressure exerted by a fluid at equilibrium at a point of the fluid due to the force of gravity",
+      "uuid": "a5aa7055-642d-4442-9b4b-76a759e15257",
+      "score": 0.7168453867384772
+    },
+    {
+      "name": "atmospheric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of air in the atmosphere",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.7355390194857181
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required by living organisms to grow and survive, often limiting factors in ecosystem processes",
+      "uuid": "1459a39c-4781-4481-8bd9-510762865efd",
+      "score": 0.65790892188963
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A critical component of the atmosphere, necessary for the survival of most living organisms",
+      "uuid": "90aa8838-79bd-4b28-b518-8217e863c385",
+      "score": 0.5853603349776407
+    }
+  ],
+  "(7288, 10029)": [
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas produced through microbial metabolism in aquatic ecosystems",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.6931337983878905
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy in a system, influencing chemical reactions and biological processes",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5900668211194908
+    },
+    {
+      "name": "atmospheric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere, affecting environmental conditions",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.726182859932884
+    },
+    {
+      "name": "hydrostatic pressure",
+      "label": "variable",
+      "description": "The pressure exerted by a fluid at equilibrium, influencing physical and biological processes in aquatic systems",
+      "uuid": "a5aa7055-642d-4442-9b4b-76a759e15257",
+      "score": 0.6985751842282059
+    },
+    {
+      "name": "organic carbon supply",
+      "label": "variable",
+      "description": "The availability of organic carbon compounds for microbial metabolism and growth",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.5361135313168306
+    },
+    {
+      "name": "gross primary production",
+      "label": "variable",
+      "description": "The rate at which an ecosystem produces new organic matter through photosynthesis",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.655347760097304
+    }
+  ],
+  "(9552, 12452)": [
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "A period of abnormally high temperatures, often associated with global climate change and its impacts on ecosystems and greenhouse gas emissions",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6593790872368871
+    },
+    {
+      "name": "microbial community",
+      "label": "variable",
+      "description": "A group of microorganisms, such as bacteria and archaea, that interact with each other and their environment, influencing processes like methanogenesis and CH4 production",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.550019005350015
+    },
+    {
+      "name": "threshold temperature",
+      "label": "variable",
+      "description": "A specific temperature value above which a process or phenomenon, such as ebullition, increases significantly or becomes more dominant",
+      "uuid": "d87901bc-8a50-4442-8d03-a4e77f02bfb0",
+      "score": 0.6239605414026792
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas that contributes to global warming and is produced in various natural and human-related processes",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7236805748954643
+    },
+    {
+      "name": "sediment",
+      "label": "location",
+      "description": "The material that settles to the bottom of a body of water, such as a lake or pond, and can influence processes like methanogenesis and CH4 production",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.5589053230420371
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where greenhouse gases like methane contribute to global warming",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.5841425221822649
+    },
+    {
+      "name": "experiment",
+      "label": "experiment",
+      "description": "A controlled study or investigation, often used to test hypotheses or understand complex processes like CH4 production and emission",
+      "uuid": "d69f7457-db31-48ce-b8c2-98058c412bc6",
+      "score": 0.6550674393958809
+    }
+  ],
+  "(11958, 14913)": [
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "A long-term increase in Earth's average surface temperature, primarily caused by human activities such as burning fossil fuels and deforestation",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6446413157329736
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, which can impact various environmental and climatic processes",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6558765356113472
+    },
+    {
+      "name": "permafrost soils",
+      "label": "location",
+      "description": "Soils that remain frozen for two or more consecutive years, found in high-latitude and high-altitude regions, and sensitive to climate change",
+      "uuid": "fb3ce3be-d830-407f-bd7c-58d66c24b6be",
+      "score": 0.6637534690553715
+    },
+    {
+      "name": "eutrophication",
+      "label": "natural hazard",
+      "description": "A process by which a body of water becomes enriched with excess nutrients, leading to harmful algal blooms and decreased water quality",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.7570941823758854
+    },
+    {
+      "name": "organic matter production",
+      "label": "variable",
+      "description": "The process by which organic matter is created through photosynthesis and other biological processes, influencing the carbon cycle and ecosystem health",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.5830795820126718
+    },
+    {
+      "name": "atmospheric temperature",
+      "label": "variable",
+      "description": "The temperature of the atmosphere, which can impact weather patterns, climate, and various environmental processes",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.6886145659822666
+    },
+    {
+      "name": "boreal and Arctic region",
+      "label": "location",
+      "description": "A high-latitude region encompassing the Arctic and subarctic zones, characterized by cold temperatures, short growing seasons, and unique ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.6414585594547402
+    },
+    {
+      "name": "ongoing eutrophication",
+      "label": "natural hazard",
+      "description": "A continuous process of nutrient enrichment in water bodies, leading to detrimental effects on aquatic ecosystems and water quality",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.6373709147311856
+    },
+    {
+      "name": "organic carbon",
+      "label": "variable",
+      "description": "A measure of the amount of carbon present in organic compounds, which can impact the carbon cycle, climate, and ecosystem health",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6917737695118742
+    },
+    {
+      "name": "permafrost thaw",
+      "label": "natural hazard",
+      "description": "The melting of permafrost soils due to increasing temperatures, leading to the release of stored carbon and methane, and impacting ecosystems and infrastructure",
+      "uuid": "ed0501c5-310c-42ab-b1eb-66e211f22803",
+      "score": 0.6829470999688548
+    },
+    {
+      "name": "methanogenesis",
+      "label": "variable",
+      "description": "The process by which microorganisms produce methane, a potent greenhouse gas, influencing the carbon cycle and climate",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.5005103648151609
+    },
+    {
+      "name": "CH4 ebullition",
+      "label": "variable",
+      "description": "The process by which methane is released from aquatic ecosystems through bubbles, contributing to greenhouse gas emissions and climate change",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.5184227989521527
+    }
+  ],
+  "(14429, 17466)": [
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "The phenomenon of increasing global temperatures due to human activities and natural processes, leading to changes in climate patterns and ecosystems>",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6845870156134208
+    },
+    {
+      "name": "freshwater ecosystems",
+      "label": "location",
+      "description": "Aquatic environments such as rivers, lakes, and wetlands that support a wide range of plant and animal life, and play a crucial role in the global carbon cycle>",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.6870195016367401
+    },
+    {
+      "name": "atmospheric temperature",
+      "label": "variable",
+      "description": "The temperature of the air in the atmosphere, which influences the temperature of the Earth's surface and the behavior of ecosystems>",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.6812675116136567
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, characterized by cold temperatures and unique ecosystems that are sensitive to climate change>",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7790225656350809
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas that contributes to climate change and is released through various natural and human-related processes>",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7301720526125077
+    },
+    {
+      "name": "sediments",
+      "label": "location",
+      "description": "Layers of material that settle at the bottom of bodies of water, such as lakes and oceans, and can store and release greenhouse gases like methane>",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6134878590557975
+    },
+    {
+      "name": "global warming",
+      "label": "weather event",
+      "description": "The long-term increase in the average temperature of the Earth's surface, caused by human activities and natural processes, and leading to changes in climate patterns and ecosystems>",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5707125167722669
+    }
+  ],
+  "(16947, 19265)": [
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas emitted from freshwater sources",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.6842458770622266
+    },
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "The gradual increase in global temperatures due to climate change",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6553715508201551
+    },
+    {
+      "name": "The Netherlands",
+      "label": "location",
+      "description": "A country in Northwestern Europe, where the experiment was conducted",
+      "uuid": "c4ff980e-6edd-400f-9c99-951fa0d0c887",
+      "score": 0.5940896351996648
+    },
+    {
+      "name": "eutrophic pond",
+      "label": "location",
+      "description": "A type of aquatic ecosystem with high levels of nutrients, where additional sediment was collected",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.5420307153852022
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that live in water and form the base of aquatic food webs",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6739408499154399
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required for the growth and survival of living organisms, added to the experiment",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.6343773443125357
+    },
+    {
+      "name": "freshwater",
+      "label": "location",
+      "description": "Aquatic ecosystems with low salt concentrations, such as lakes, rivers, and ponds",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.738206265500779
+    },
+    {
+      "name": "organic matter",
+      "label": "variable",
+      "description": "Carbon-based compounds that come from living organisms, present in the sediment",
+      "uuid": "9c90825c-a35f-4165-8248-e90ab869f8ec",
+      "score": 0.6894778122116827
+    },
+    {
+      "name": "sediment",
+      "label": "variable",
+      "description": "Material that settles to the bottom of a body of water, collected from ponds and used in the experiment",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.5915116450882236
+    }
+  ],
+  "(18993, 21115)": [
+    {
+      "name": "Netherlands",
+      "label": "location",
+      "description": "A country in Northwestern Europe, home to various companies and research institutions involved in the experiment",
+      "uuid": "c4ff980e-6edd-400f-9c99-951fa0d0c887",
+      "score": 0.6102155277089835
+    },
+    {
+      "name": "gross primary production",
+      "label": "variable",
+      "description": "A measure of the rate at which phytoplankton produce organic matter through photosynthesis",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.6243362338927056
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "A type of microorganism that plays a crucial role in aquatic ecosystems, particularly in the context of primary production",
+      "uuid": "235996b1-b1a8-4c20-bb1f-711fb1a0c952",
+      "score": 0.6715716204095866
+    },
+    {
+      "name": "zooplankton",
+      "label": "variable",
+      "description": "A type of small animal that feeds on phytoplankton and other microorganisms, playing a key role in aquatic food webs",
+      "uuid": "0399b52c-e3de-4dcc-9eb6-b1e3acf2cf1b",
+      "score": 0.6933168952167873
+    },
+    {
+      "name": "nitrate",
+      "label": "variable",
+      "description": "A type of nutrient that is essential for phytoplankton growth and primary production",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.6316737135472066
+    },
+    {
+      "name": "phosphate",
+      "label": "variable",
+      "description": "A type of nutrient that is essential for phytoplankton growth and primary production",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.6501121245602605
+    },
+    {
+      "name": "silicon",
+      "label": "variable",
+      "description": "A type of nutrient that is essential for the growth of certain phytoplankton species",
+      "uuid": "b0e90d61-2aad-45a1-920a-c2aa2f915bb4",
+      "score": 0.574007189787583
+    },
+    {
+      "name": "heat wave",
+      "label": "weather event",
+      "description": "A period of abnormally hot weather, used in the experiment to simulate the effects of climate change",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.6748612653372573
+    }
+  ],
+  "(20740, 23221)": [
+    {
+      "name": "Gross primary production",
+      "label": "variable",
+      "description": "The rate at which plants and other organisms produce organic compounds through photosynthesis, a key component of the carbon cycle",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.6765735337045096
+    },
+    {
+      "name": "multi-parameter meter",
+      "label": "instrument",
+      "description": "A device used to measure multiple water quality parameters, such as dissolved oxygen, temperature, and pH",
+      "uuid": "e0333132-bbed-4b09-a453-75afc4afae6d",
+      "score": 0.5271275963354005
+    },
+    {
+      "name": "luminescent/optical dissolved oxygen probe",
+      "label": "instrument",
+      "description": "A sensor used to measure dissolved oxygen levels in water, often used in aquatic research",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.5455510306192932
+    },
+    {
+      "name": "Loveland",
+      "label": "location",
+      "description": "A city in Colorado, USA, known for its research institutions and companies involved in environmental monitoring and climate research",
+      "uuid": "e10d421b-11fd-4344-b0ad-b4d3eaec2fe5",
+      "score": 0.501213650989318
+    },
+    {
+      "name": "sedimentation traps",
+      "label": "instrument",
+      "description": "Devices used to collect and measure the amount of sediment that settles to the bottom of a body of water, often used in aquatic research",
+      "uuid": "363d283c-b6ba-4c90-852a-365b22b86f7e",
+      "score": 0.7223488634407506
+    },
+    {
+      "name": "NC analyser",
+      "label": "instrument",
+      "description": "A device used to measure the carbon and nitrogen content of water samples, often used in aquatic research",
+      "uuid": "276af45e-11f4-4545-a05a-f74a8ce2612e",
+      "score": 0.569691208300626
+    },
+    {
+      "name": "diffusive fluxes",
+      "label": "variable",
+      "description": "The rate at which a substance, such as methane, diffuses through a medium, such as water or air, often used as an indicator of ecosystem processes and carbon cycling",
+      "uuid": "822fd082-5098-4b2c-bf0d-87c2b298eea7",
+      "score": 0.5368207059439765
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas that plays a key role in the Earth's climate system",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7296653845968564
+    },
+    {
+      "name": "Greenhouse Gas Analyzers",
+      "label": "instrument",
+      "description": "Devices used to measure the concentration of greenhouse gases, such as methane and carbon dioxide, in the atmosphere or in water samples",
+      "uuid": "7f7bb2bd-89a6-418e-b291-8fb5af7dcf4f",
+      "score": 0.577870046275849
+    }
+  ],
+  "(22806, 25437)": [
+    {
+      "name": "Greenhouse Gas Analyzers",
+      "label": "instrument",
+      "description": "Devices used to measure the concentration of greenhouse gases such as methane (CH4) in the air or water",
+      "uuid": "7f7bb2bd-89a6-418e-b291-8fb5af7dcf4f",
+      "score": 0.5539427598415533
+    },
+    {
+      "name": "GGA-24EP",
+      "label": "instrument",
+      "description": "A specific model of Greenhouse Gas Analyzer manufactured by Los Gatos Research",
+      "uuid": "bd9406f1-2e9d-4823-8437-0bc479edd516",
+      "score": 0.5640440435250006
+    },
+    {
+      "name": "G2508 CRDS Analyzer",
+      "label": "instrument",
+      "description": "A specific model of gas analyzer manufactured by Picarro, used for measuring greenhouse gas concentrations",
+      "uuid": "bd9406f1-2e9d-4823-8437-0bc479edd516",
+      "score": 0.6751430792722998
+    },
+    {
+      "name": "flame ionization detector",
+      "label": "instrument",
+      "description": "A component of a gas chromatograph used to detect and measure the concentration of specific gases, such as methane",
+      "uuid": "8421ed50-4ae2-4df7-bd76-9fd7b8aea9a6",
+      "score": 0.7779367381372332
+    },
+    {
+      "name": "HP 5890 gas chromatograph",
+      "label": "instrument",
+      "description": "A device used to separate and analyze the components of a mixture of gases, including methane",
+      "uuid": "32402358-e5dc-4c01-bede-5304ebea0584",
+      "score": 0.6188310239271306
+    },
+    {
+      "name": "Picarro",
+      "label": "provider",
+      "description": "A company that manufactures and supplies instruments for measuring greenhouse gas concentrations",
+      "uuid": "68530a96-9976-45c2-b8ea-80661bec7531",
+      "score": 0.58236793958159
+    },
+    {
+      "name": "methane (CH4)",
+      "label": "variable",
+      "description": "A potent greenhouse gas, whose concentration is measured in this experiment",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.6772676344838503
+    }
+  ],
+  "(25053, 27424)": [
+    {
+      "name": "Agilent 5975C",
+      "label": "instrument",
+      "description": "A gas chromatograph coupled to a mass spectrometer used for analyzing the composition of gases",
+      "uuid": "3ce7f4f0-d2db-4352-8762-d88296f7aa15",
+      "score": 0.5900560215515432
+    },
+    {
+      "name": "gas chromatograph",
+      "label": "instrument",
+      "description": "An analytical instrument used to separate and analyze the components of a mixture, such as gases",
+      "uuid": "32402358-e5dc-4c01-bede-5304ebea0584",
+      "score": 0.7529310790622347
+    },
+    {
+      "name": "mass spectrometer",
+      "label": "instrument",
+      "description": "An analytical instrument used to identify the chemical composition of a sample by measuring the mass-to-charge ratio of ions",
+      "uuid": "09c35c61-d1ed-4591-b4d5-c539a2a0aec2",
+      "score": 0.7520844968830291
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas and a key component of ebullitive gas",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7228278657048932
+    },
+    {
+      "name": "O2",
+      "label": "variable",
+      "description": "Oxygen, a component of the ebullitive gas",
+      "uuid": "61f4f3d0-7895-4cce-94e3-d249001d5ee8",
+      "score": 0.5535253437858164
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a component of the ebullitive gas",
+      "uuid": "26afa886-4866-4536-be3a-6f9db9aacd97",
+      "score": 0.6106871942314771
+    },
+    {
+      "name": "N2O",
+      "label": "variable",
+      "description": "Nitrous oxide, a component of the ebullitive gas",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.6283615153802441
+    },
+    {
+      "name": "N2",
+      "label": "variable",
+      "description": "Nitrogen, a component of the ebullitive gas",
+      "uuid": "ef36cb15-ad64-4bdc-9331-42cc5b493671",
+      "score": 0.5842884306520213
+    },
+    {
+      "name": "IBM SPSS 21",
+      "label": "platform",
+      "description": "A software platform used for statistical analysis and data visualization",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.5615543551957457
+    }
+  ],
+  "(26919, 29469)": [
+    {
+      "name": "IBM SPSS",
+      "label": "instrument",
+      "description": "A software package used for statistical analysis, including nonlinear regression analysis",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.5386611876104922
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas, whose solubility and ebullition rates are studied in relation to temperature and ecological processes",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.6720033084516435
+    },
+    {
+      "name": "DataONE",
+      "label": "provider",
+      "description": "The Data Observation Network for Earth, a platform that provides access to data and research on environmental and ecological topics",
+      "uuid": "fa6f6c07-7c04-4374-b9a8-3ac0f236f743",
+      "score": 0.7518303947056044
+    },
+    {
+      "name": "freshwater ecosystems",
+      "label": "location",
+      "description": "Ecosystems found in freshwater environments such as ponds, lakes, reservoirs, and rivers, characterized by specific biogeochemical processes",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.7376910971066309
+    },
+    {
+      "name": "biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of chemical elements and compounds between living organisms and the environment, important in understanding ecosystem processes",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.6888720948584904
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, influencing chemical reaction rates, ecological processes, and biogeochemical cycles",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5949343105814268
+    }
+  ],
+  "(29053, 31555)": [
+    {
+      "name": "biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of chemicals and nutrients through ecosystems, including the interactions between living organisms and their environment",
+      "uuid": "9015e65f-bbae-4855-a4b6-1bfa601752bd",
+      "score": 0.6757272225024638
+    },
+    {
+      "name": "freshwater ecosystems",
+      "label": "location",
+      "description": "Ecosystems that exist in freshwater environments, such as rivers, lakes, and ponds",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.7322491490435401
+    },
+    {
+      "name": "regression model",
+      "label": "model",
+      "description": "A statistical model used to establish relationships between variables, in this case, to analyze the relationship between temperature and ebullition",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.5325692775719345
+    },
+    {
+      "name": "GC-FID",
+      "label": "instrument",
+      "description": "A gas chromatograph equipped with a flame ionization detector, used to analyze the concentration of methane in gas samples",
+      "uuid": "bb7586fa-5af4-495d-ab07-4f9c4a79b1a6",
+      "score": 0.6828509458056655
+    },
+    {
+      "name": "flame ionization detector",
+      "label": "instrument",
+      "description": "A type of detector used in gas chromatography to measure the concentration of organic compounds, including methane",
+      "uuid": "8421ed50-4ae2-4df7-bd76-9fd7b8aea9a6",
+      "score": 0.7870507912260686
+    },
+    {
+      "name": "constant CH4 concentration",
+      "label": "variable",
+      "description": "A fixed value used to represent the average concentration of methane in gas samples",
+      "uuid": "b631f7b6-9a64-4f2b-bd29-7a20a466e44b",
+      "score": 0.5417320226559899
+    },
+    {
+      "name": "Measured CH4 concentration",
+      "label": "variable",
+      "description": "The actual concentration of methane measured in individual gas samples",
+      "uuid": "b631f7b6-9a64-4f2b-bd29-7a20a466e44b",
+      "score": 0.5334559795334913
+    },
+    {
+      "name": "Sweden",
+      "label": "location",
+      "description": "A country in Northern Europe, home to post-glacial lakes",
+      "uuid": "2edce566-82e1-4645-a94d-58cffa42f8e2",
+      "score": 0.6647340290973154
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, home to boreal meso-eutrophic forest ponds",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.5838807687411067
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, home to the temperate river Saar",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.5532320675047893
+    },
+    {
+      "name": "Netherlands",
+      "label": "location",
+      "description": "A country in Northwestern Europe, home to a temperate eutrophic city pond",
+      "uuid": "c4ff980e-6edd-400f-9c99-951fa0d0c887",
+      "score": 0.6250151581565521
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "A country in North America, home to temperate farm ponds",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5864373576888164
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, home to a subtropical eutrophic city pond",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5541430866246915
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, in this case, the water temperature of aquatic ecosystems",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.6557625681750792
+    }
+  ],
+  "(31117, 33827)": [
+    {
+      "name": "HP 5890",
+      "label": "instrument",
+      "description": "A gas chromatograph used for analyzing the composition of gases, equipped with a Porapak Q column and a flame ionization detector",
+      "uuid": "32402358-e5dc-4c01-bede-5304ebea0584",
+      "score": 0.5550633580290374
+    },
+    {
+      "name": "flame ionization detector",
+      "label": "instrument",
+      "description": "A device used in gas chromatography to detect ions produced by the combustion of organic compounds in a flame",
+      "uuid": "8421ed50-4ae2-4df7-bd76-9fd7b8aea9a6",
+      "score": 0.8023248617009825
+    },
+    {
+      "name": "GC-FID",
+      "label": "instrument",
+      "description": "A type of gas chromatograph equipped with a flame ionization detector, used for analyzing the composition of gases",
+      "uuid": "bb7586fa-5af4-495d-ab07-4f9c4a79b1a6",
+      "score": 0.7219414419579226
+    },
+    {
+      "name": "regression model",
+      "label": "model",
+      "description": "A statistical model used to establish relationships between variables, in this case, water temperature and CH4 ebullition",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.5477889974819533
+    },
+    {
+      "name": "water temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of water, which can affect various aquatic processes, including CH4 ebullition",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.6928598918105118
+    },
+    {
+      "name": "CH4 concentration",
+      "label": "variable",
+      "description": "A measure of the amount of methane in a given volume of gas or water",
+      "uuid": "b631f7b6-9a64-4f2b-bd29-7a20a466e44b",
+      "score": 0.616126320334014
+    },
+    {
+      "name": "northern Sweden",
+      "label": "location",
+      "description": "A region in Sweden characterized by subarctic climate and geography",
+      "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+      "score": 0.5358723992343302
+    },
+    {
+      "name": "post-glacial lakes",
+      "label": "location",
+      "description": "Lakes formed after the last ice age, often found in regions such as northern Sweden",
+      "uuid": "86c6042a-b7ca-4d97-b9d7-db22b1560810",
+      "score": 0.5176623189091764
+    }
+  ],
+  "(33359, 34779)": [
+    {
+      "name": "IBM SPSS 21",
+      "label": "instrument",
+      "description": "A software package used for statistical analysis and data management",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.5602501613746309
+    },
+    {
+      "name": "IBM",
+      "label": "provider",
+      "description": "A multinational technology and consulting company that develops and sells computer hardware, software, and services",
+      "uuid": "659e2d9f-3ded-4572-8127-01d95372dc7e",
+      "score": 0.5260442180613183
+    }
+  ]
+}

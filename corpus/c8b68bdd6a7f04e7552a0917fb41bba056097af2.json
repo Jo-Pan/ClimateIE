@@ -1,0 +1,1335 @@
+{
+  "(0, 3248)": [
+    {
+      "name": "Madagascar",
+      "label": "location",
+      "description": "An island country in the Indian Ocean, off the coast of East Africa, with a diverse climate and geography>",
+      "uuid": "d9f82c3c-0edf-445e-b838-eebc2278d4c1",
+      "score": 0.7302015879932489
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country in East Africa, with a diverse geography and climate, including coastal areas and islands>",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.674726669669246
+    },
+    {
+      "name": "Indonesia",
+      "label": "location",
+      "description": "A country in Southeast Asia, comprising more than 17,000 islands, with a diverse climate and geography>",
+      "uuid": "84aeedd2-6093-4252-9895-8dc063a9ad97",
+      "score": 0.6857714175999882
+    },
+    {
+      "name": "Philippines",
+      "label": "location",
+      "description": "An archipelago in Southeast Asia, with a tropical climate and diverse geography>",
+      "uuid": "9f78dabd-0540-4724-b093-8c0fc05afd3f",
+      "score": 0.6465032427655345
+    },
+    {
+      "name": "fisheries",
+      "label": "sector",
+      "description": "A sector of food production that involves the catching, processing, and selling of fish and seafood>",
+      "uuid": "c7112a64-be39-414a-9125-f63ab44ecb5b",
+      "score": 0.6394667110299003
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by a warm and humid climate>",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7372332820320666
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the global climate system>",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7452179163328266
+    },
+    {
+      "name": "agriculture",
+      "label": "sector",
+      "description": "A sector of food production that involves the cultivation of crops and the raising of livestock>",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5493121168836725
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, caused by human activities and natural processes, with significant impacts on the environment and human societies>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5855209943102703
+    },
+    {
+      "name": "coastal communities",
+      "label": "location",
+      "description": "Communities located near the coast, often relying on both fisheries and agriculture for their livelihood, and vulnerable to the impacts of climate change>",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5113318082941439
+    },
+    {
+      "name": "multi-model simulation",
+      "label": "model",
+      "description": "A computational approach that combines multiple climate models to simulate and predict the impacts of climate change on different sectors>",
+      "uuid": "c15e05c9-9dc4-4712-98ba-a05d61bdf1c1",
+      "score": 0.5023329281855674
+    },
+    {
+      "name": "Indo-Pacific",
+      "label": "location",
+      "description": "A region that includes the Indian and Pacific Oceans, and the surrounding landmasses, with a diverse climate and geography>",
+      "uuid": "4f5b8f3d-19fe-4600-be01-b944f2eaf294",
+      "score": 0.7384956198589759
+    },
+    {
+      "name": "Papua New Guinea",
+      "label": "location",
+      "description": "A country in the Pacific Islands, with a diverse geography and climate>",
+      "uuid": "f0757092-c0bf-4937-83bc-6011c682bae9",
+      "score": 0.68985396347212
+    }
+  ],
+  "(2695, 5912)": [
+    {
+      "name": "ISIMIP",
+      "label": "project",
+      "description": "The Inter-Sectoral Impact Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions and assessing impacts across sectors",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.623390801585361
+    },
+    {
+      "name": "Inter-Sectoral Impact Model",
+      "label": "model",
+      "description": "A type of climate model used to simulate and predict the impacts of climate change on various sectors such as fisheries and agriculture",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.5340450693143737
+    },
+    {
+      "name": "fisheries",
+      "label": "sector",
+      "description": "A sector of the economy related to the catching, processing, and selling of fish and seafood products",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.655331662730645
+    },
+    {
+      "name": "agriculture",
+      "label": "sector",
+      "description": "A sector of the economy related to the cultivation of crops and rearing of livestock for food and other products",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5477734556541486
+    },
+    {
+      "name": "coastal communities",
+      "label": "location",
+      "description": "Communities located near the coast, often dependent on marine resources for livelihood and vulnerable to climate change impacts",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.541653043875319
+    },
+    {
+      "name": "marine biomass",
+      "label": "variable",
+      "description": "The total amount of living matter in the ocean, including plants, animals, and microorganisms",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5779115638743308
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events, posing significant risks to human societies and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5796632220316831
+    },
+    {
+      "name": "mitigation measures",
+      "label": "experiment",
+      "description": "Actions taken to reduce the impacts of climate change, such as reducing greenhouse gas emissions or implementing adaptation strategies",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6526753121550501
+    },
+    {
+      "name": "Shared Socioeconomic Pathway 8.5",
+      "label": "experiment",
+      "description": "A scenario used to project future climate change impacts, characterized by high greenhouse gas emissions and significant socioeconomic changes",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.6381712016604988
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7438582625622143
+    }
+  ],
+  "(5413, 7634)": [
+    {
+      "name": "Sala et al",
+      "label": "provider",
+      "description": "A research group or institution that conducted a study on the impact of ocean conservation on food provisioning",
+      "uuid": "654795ed-ee3e-438a-a4b0-9907a9f8b2f6",
+      "score": 0.5195924698468725
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the planet's climate and ecosystems",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7365354992259898
+    },
+    {
+      "name": "fisheries",
+      "label": "variable",
+      "description": "The industry or activity of catching fish and other seafood, often used as an indicator of the health of marine ecosystems",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.7006052643261923
+    },
+    {
+      "name": "agricultural productivity",
+      "label": "variable",
+      "description": "A measure of the output of agricultural production per unit of input, often used to assess the efficiency and sustainability of farming practices",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5314483350632095
+    },
+    {
+      "name": "agricultural production",
+      "label": "variable",
+      "description": "The total amount of agricultural products, such as crops and livestock, produced by a farm, region, or country",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5118189354732066
+    },
+    {
+      "name": "crop models",
+      "label": "model",
+      "description": "Computational tools used to simulate the growth and yield of crops, often used to predict the impacts of climate change on agriculture",
+      "uuid": "10dacf4d-3058-43a2-9cc4-9752ff5f6859",
+      "score": 0.5864811649561312
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario that represents a low-emissions future with rapid economic growth and significant reductions in greenhouse gas emissions",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6430010935106533
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario that represents a high-emissions future with slow economic growth and minimal reductions in greenhouse gas emissions",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7081907301283298
+    },
+    {
+      "name": "coastal locations",
+      "label": "location",
+      "description": "Areas of land that border the ocean, often characterized by unique ecosystems and vulnerable to the impacts of climate change",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.6707161317792881
+    }
+  ],
+  "(7316, 9739)": [
+    {
+      "name": "Indonesia",
+      "label": "location",
+      "description": "A country located in Southeast Asia, comprising more than 17,000 islands and known for its rich biodiversity and vulnerability to climate change",
+      "uuid": "84aeedd2-6093-4252-9895-8dc063a9ad97",
+      "score": 0.7196572862118324
+    },
+    {
+      "name": "Philippines",
+      "label": "location",
+      "description": "A country in Southeast Asia, consisting of over 7,000 islands and facing significant climate-related challenges",
+      "uuid": "9f78dabd-0540-4724-b093-8c0fc05afd3f",
+      "score": 0.7290000798599892
+    },
+    {
+      "name": "fisheries",
+      "label": "variable",
+      "description": "The practice of catching fish and other seafood, an important source of food and livelihood for many communities",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6768833092218755
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing a high greenhouse gas emissions future",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7342835194799704
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing a low greenhouse gas emissions future",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6451512895606388
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, primarily caused by human activities such as burning fossil fuels and deforestation",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5582971326430577
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "Gases in the Earth's atmosphere that trap heat and contribute to global warming, such as carbon dioxide and methane",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5109760623849886
+    },
+    {
+      "name": "mitigation efforts",
+      "label": "project",
+      "description": "Actions taken to reduce the impact of climate change, such as reducing greenhouse gas emissions or implementing climate-resilient practices",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6346400373616927
+    },
+    {
+      "name": "productivity",
+      "label": "variable",
+      "description": "The rate at which goods or services are produced, often used to measure the efficiency of economic activities",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5267259908819951
+    }
+  ],
+  "(9274, 12267)": [
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A low-emissions climate scenario that assumes strong mitigation efforts to limit global warming to 1.5\u00b0C above pre-industrial levels",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6414485989217539
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A high-emissions climate scenario that assumes little to no mitigation efforts, leading to significant global warming",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.6969782361191277
+    },
+    {
+      "name": "Madagascar",
+      "label": "location",
+      "description": "An island nation off the coast of East Africa, known for its unique biodiversity and vulnerability to climate change",
+      "uuid": "d9f82c3c-0edf-445e-b838-eebc2278d4c1",
+      "score": 0.7067210847135513
+    },
+    {
+      "name": "Indonesia",
+      "label": "location",
+      "description": "A country in Southeast Asia, comprising over 17,000 islands, with a diverse climate and significant coastal communities",
+      "uuid": "84aeedd2-6093-4252-9895-8dc063a9ad97",
+      "score": 0.7066275131655452
+    },
+    {
+      "name": "Philippines",
+      "label": "location",
+      "description": "An archipelago in Southeast Asia, prone to natural disasters and climate-related impacts due to its geographical location",
+      "uuid": "9f78dabd-0540-4724-b093-8c0fc05afd3f",
+      "score": 0.7245489274496707
+    },
+    {
+      "name": "Papua New Guinea",
+      "label": "location",
+      "description": "A country in the Pacific Islands, with a diverse culture and economy, and significant vulnerability to climate change",
+      "uuid": "f0757092-c0bf-4937-83bc-6011c682bae9",
+      "score": 0.7233797011880075
+    },
+    {
+      "name": "fisheries",
+      "label": "variable",
+      "description": "The industry or practice of catching fish and other seafood, often affected by climate change and ocean conditions",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6903639712649756
+    },
+    {
+      "name": "agriculture",
+      "label": "variable",
+      "description": "The practice of cultivating land and breeding plants and animals to provide food, fiber, and other products, often impacted by climate change",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5652588512045363
+    },
+    {
+      "name": "coastal communities",
+      "label": "location",
+      "description": "Communities located near the coast, often vulnerable to climate-related impacts such as sea-level rise, storms, and changes in fisheries and agriculture",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5418774116687519
+    },
+    {
+      "name": "households",
+      "label": "provider",
+      "description": "Basic social units, often consisting of families or individuals, that can be affected by climate change and economic conditions",
+      "uuid": "c88a747b-2302-49c9-b747-f2faa21e2b6b",
+      "score": 0.5037218688172642
+    }
+  ],
+  "(11698, 13272)": [
+    {
+      "name": "Philippines",
+      "label": "location",
+      "description": "A country located in Southeast Asia, comprising over 7,000 islands and known for its diverse ecosystems and climate vulnerability",
+      "uuid": "9f78dabd-0540-4724-b093-8c0fc05afd3f",
+      "score": 0.7665813119899123
+    },
+    {
+      "name": "agriculture",
+      "label": "variable",
+      "description": "The practice of cultivating land, growing crops, and raising livestock, which can be impacted by climate change",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5670937405110085
+    },
+    {
+      "name": "fisheries",
+      "label": "variable",
+      "description": "The industry or occupation of catching, processing, and selling fish and other seafood, which can be affected by climate-related changes in ocean ecosystems",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6741027750555387
+    },
+    {
+      "name": "coastal communities",
+      "label": "location",
+      "description": "Human settlements located near the coast, often vulnerable to climate-related impacts such as sea-level rise, storms, and erosion",
+      "uuid": "fee25cad-7ffe-4ee2-a6f2-8116b8a0a707",
+      "score": 0.5928638156452897
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A climate mitigation scenario from the Shared Socioeconomic Pathways, representing a low-emissions future with strong global cooperation and sustainable development",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6295082819692395
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A climate mitigation scenario from the Shared Socioeconomic Pathways, representing a high-emissions future with limited global cooperation and continued reliance on fossil fuels",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7058623019965541
+    }
+  ],
+  "(13113, 15267)": [
+    {
+      "name": "SSP1-2.6",
+      "label": "project",
+      "description": "A Shared Socioeconomic Pathway that describes a future with low greenhouse gas emissions and a focus on sustainable development",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6250414988617607
+    },
+    {
+      "name": "fisheries",
+      "label": "sector",
+      "description": "The economic activity related to the catching, processing, and selling of fish and seafood products",
+      "uuid": "c7112a64-be39-414a-9125-f63ab44ecb5b",
+      "score": 0.6663784777586134
+    },
+    {
+      "name": "agriculture",
+      "label": "sector",
+      "description": "The economic activity related to the cultivation of crops and rearing of livestock",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5309529876957354
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, primarily caused by human activities, leading to rising temperatures and more frequent extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5769612506884458
+    },
+    {
+      "name": "socioeconomic status",
+      "label": "variable",
+      "description": "A measure of an individual's or community's social and economic position, often based on factors such as income, education, and occupation",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.5022325768803971
+    }
+  ],
+  "(14757, 17779)": [
+    {
+      "name": "coastal communities",
+      "label": "location",
+      "description": "Communities located near the coast, often dependent on marine resources for livelihood and vulnerable to climate change impacts",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.541653043875319
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, sea-level rise, and altered weather patterns, posing significant threats to ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6023118719348356
+    },
+    {
+      "name": "agriculture",
+      "label": "occupation",
+      "description": "The practice of cultivating land, raising crops, and rearing livestock for food, fiber, and other products",
+      "uuid": "8916dafb-5ad5-45c6-ab64-3500ea1e9577",
+      "score": 0.513818661919536
+    },
+    {
+      "name": "GDP",
+      "label": "variable",
+      "description": "Gross Domestic Product, a measure of a country's economic activity and output",
+      "uuid": "6163b751-c8a6-42e5-9eb1-2b73932da631",
+      "score": 0.587507402724696
+    },
+    {
+      "name": "sensitivity",
+      "label": "variable",
+      "description": "A measure of an individual's or community's vulnerability to changes or stressors, often assessed through indicators such as exposure, adaptability, and resilience",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5271695012934556
+    },
+    {
+      "name": "Papua New Guinean",
+      "label": "location",
+      "description": "A country in the Pacific Islands, known for its diverse cultures, languages, and ecosystems",
+      "uuid": "f0757092-c0bf-4937-83bc-6011c682bae9",
+      "score": 0.6110705936644297
+    }
+  ],
+  "(17289, 20460)": [
+    {
+      "name": "ensemble models",
+      "label": "model",
+      "description": "A set of multiple climate models run under the same conditions to generate a range of possible future climate scenarios",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.6173820811224665
+    },
+    {
+      "name": "global ensemble models",
+      "label": "model",
+      "description": "A collection of climate models that simulate the Earth's climate system on a global scale, used for predicting future climate changes",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5423411858499111
+    },
+    {
+      "name": "Indonesia",
+      "label": "location",
+      "description": "A country in Southeast Asia, known for its significant agricultural production and diverse ecosystems",
+      "uuid": "84aeedd2-6093-4252-9895-8dc063a9ad97",
+      "score": 0.5816738746310303
+    },
+    {
+      "name": "decadal timeframes",
+      "label": "variable",
+      "description": "A measure of time, specifically a period of ten years, used to study changes and trends in climate and environmental data",
+      "uuid": "3d97e993-dc6a-41ff-8a49-3e837c1fc2b1",
+      "score": 0.7082057689393317
+    },
+    {
+      "name": "GDP",
+      "label": "variable",
+      "description": "Gross Domestic Product, a measure of a country's economic activity and growth",
+      "uuid": "6163b751-c8a6-42e5-9eb1-2b73932da631",
+      "score": 0.5936279167635508
+    },
+    {
+      "name": "coastal communities",
+      "label": "location",
+      "description": "Communities located near the coast, often vulnerable to climate-related impacts such as sea-level rise and extreme weather events",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5465035714281792
+    },
+    {
+      "name": "seagrass",
+      "label": "location",
+      "description": "A type of marine ecosystem, characterized by underwater grasslands that provide habitat for various marine species",
+      "uuid": "e36c5faa-c772-4bb0-aeca-b361e160ce9d",
+      "score": 0.6985890766468879
+    },
+    {
+      "name": "coral reef habitats",
+      "label": "location",
+      "description": "A type of marine ecosystem, characterized by coral reefs that provide habitat for various marine species",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.6290437768718937
+    }
+  ],
+  "(19931, 23192)": [
+    {
+      "name": "Papua New Guinea",
+      "label": "location",
+      "description": "A country in the Pacific Islands, known for its diverse geography and climate, with a strong focus on subsistence agriculture",
+      "uuid": "f0757092-c0bf-4937-83bc-6011c682bae9",
+      "score": 0.6761475984539518
+    },
+    {
+      "name": "fisheries models",
+      "label": "model",
+      "description": "Computational representations of fisheries systems used to simulate and predict fish populations and fisheries productivity",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5070930769603186
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that form the base of aquatic food webs, important for ocean productivity and climate regulation",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6843118834487589
+    },
+    {
+      "name": "heat waves",
+      "label": "weather event",
+      "description": "Prolonged periods of abnormally hot weather, potentially leading to heat-related illnesses and mortality",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.7460965168829015
+    },
+    {
+      "name": "sea level rise",
+      "label": "natural hazard",
+      "description": "The long-term increase in the average level of the world's oceans, potentially leading to coastal erosion, flooding, and saltwater intrusion",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7480154274802258
+    },
+    {
+      "name": "soil erosion",
+      "label": "natural hazard",
+      "description": "The loss of topsoil due to wind or water, potentially leading to decreased agricultural productivity and increased risk of landslides",
+      "uuid": "36c862a7-7117-4fd2-8e33-0dda03097178",
+      "score": 0.7147170837595502
+    },
+    {
+      "name": "Indo-Pacific",
+      "label": "location",
+      "description": "A region of the world that includes the Indian and Pacific Oceans, and the surrounding landmasses, known for its high biodiversity and climate variability",
+      "uuid": "4f5b8f3d-19fe-4600-be01-b944f2eaf294",
+      "score": 0.7471483495229516
+    },
+    {
+      "name": "shared socioeconomic pathway exploratory scenarios",
+      "label": "experiment",
+      "description": "A set of scenarios used to explore the potential impacts of different socioeconomic and climate change pathways on human societies and ecosystems",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.6344374729323076
+    },
+    {
+      "name": "ISIMIP Fastrack Phase 3 dataset",
+      "label": "project",
+      "description": "A dataset used for climate impact research, providing a framework for comparing different climate models and scenarios",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.5226220499785058
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing a high-emissions, high-growth future",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7113750910582131
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing a low-emissions, sustainable future",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6263717829374442
+    }
+  ],
+  "(22637, 25862)": [
+    {
+      "name": "ISIMIP Fastrack Phase 3",
+      "label": "project",
+      "description": "A project focused on climate change research and data analysis, providing datasets for studying the impacts of climate change",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.556403609095122
+    },
+    {
+      "name": "Indo-Pacific",
+      "label": "location",
+      "description": "A geographic region encompassing the Indian and Pacific Oceans and their surrounding land areas, known for its diverse ecosystems and climate variability",
+      "uuid": "4f5b8f3d-19fe-4600-be01-b944f2eaf294",
+      "score": 0.7524336349161664
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, leading to rising temperatures, sea-level rise, and altered weather patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6122571689965625
+    },
+    {
+      "name": "fisheries",
+      "label": "sector",
+      "description": "The economic and social activities related to fishing, including the catching, processing, and trade of fish and seafood products",
+      "uuid": "c7112a64-be39-414a-9125-f63ab44ecb5b",
+      "score": 0.6792641215604562
+    },
+    {
+      "name": "agriculture",
+      "label": "sector",
+      "description": "The practice of cultivating land, raising livestock, and producing crops for food and other products",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5257011690372416
+    },
+    {
+      "name": "soil erosion",
+      "label": "natural hazard",
+      "description": "The process of soil being worn away or removed by natural forces such as wind or water, leading to decreased fertility and increased risk of landslides",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.709165347890421
+    },
+    {
+      "name": "Philippines",
+      "label": "location",
+      "description": "A country located in Southeast Asia, comprising over 7,000 islands and known for its rich biodiversity and vulnerability to climate-related hazards",
+      "uuid": "9f78dabd-0540-4724-b093-8c0fc05afd3f",
+      "score": 0.7797705731760504
+    },
+    {
+      "name": "Indonesia",
+      "label": "location",
+      "description": "A country located in Southeast Asia, comprising over 17,000 islands and known for its rich biodiversity and vulnerability to climate-related hazards",
+      "uuid": "84aeedd2-6093-4252-9895-8dc063a9ad97",
+      "score": 0.7232330662741548
+    },
+    {
+      "name": "Madagascar",
+      "label": "location",
+      "description": "An island country located off the coast of East Africa, known for its unique biodiversity and vulnerability to climate-related hazards",
+      "uuid": "d9f82c3c-0edf-445e-b838-eebc2278d4c1",
+      "score": 0.7121396088523646
+    },
+    {
+      "name": "Papua New Guinea",
+      "label": "location",
+      "description": "A country located in the Pacific Islands, known for its rich biodiversity and cultural diversity",
+      "uuid": "f0757092-c0bf-4937-83bc-6011c682bae9",
+      "score": 0.702816552547866
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country located in East Africa, known for its diverse ecosystems and wildlife",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.7056104208112699
+    },
+    {
+      "name": "Zanzibar",
+      "label": "location",
+      "description": "A semi-autonomous region within Tanzania, located off the coast of East Africa and known for its rich cultural heritage and biodiversity",
+      "uuid": "02fb6908-e5bd-4dd0-a627-2f6e13b4281f",
+      "score": 0.7048784686842913
+    },
+    {
+      "name": "model projections",
+      "label": "model",
+      "description": "Computational simulations used to predict future climate conditions and their potential impacts on various sectors",
+      "uuid": "c15e05c9-9dc4-4712-98ba-a05d61bdf1c1",
+      "score": 0.5780586659410708
+    }
+  ],
+  "(25326, 28118)": [
+    {
+      "name": "household",
+      "label": "location",
+      "description": "A residential unit or a social group that shares a common living space and resources",
+      "uuid": "c88a747b-2302-49c9-b747-f2faa21e2b6b",
+      "score": 0.5019310615881547
+    },
+    {
+      "name": "Philippines",
+      "label": "location",
+      "description": "A country located in Southeast Asia, known for its diverse culture and geography",
+      "uuid": "9f78dabd-0540-4724-b093-8c0fc05afd3f",
+      "score": 0.6388664021242986
+    },
+    {
+      "name": "Papua New Guinea",
+      "label": "location",
+      "description": "A country in the Pacific Islands, characterized by its unique cultural and environmental features",
+      "uuid": "f0757092-c0bf-4937-83bc-6011c682bae9",
+      "score": 0.6567292105687057
+    },
+    {
+      "name": "fisheries",
+      "label": "sector",
+      "description": "A category of livelihood activities related to fishing, mariculture, gleaning, and fish trading",
+      "uuid": "c7112a64-be39-414a-9125-f63ab44ecb5b",
+      "score": 0.6467021419256208
+    },
+    {
+      "name": "agriculture",
+      "label": "sector",
+      "description": "A category of livelihood activities related to farming and cash crop production",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5204746376893717
+    },
+    {
+      "name": "fishing",
+      "label": "sector",
+      "description": "A category of livelihood activities related to catching fish and other seafood",
+      "uuid": "c7112a64-be39-414a-9125-f63ab44ecb5b",
+      "score": 0.5480735256269224
+    },
+    {
+      "name": "mariculture",
+      "label": "sector",
+      "description": "A category of livelihood activities related to the cultivation of marine plants and animals",
+      "uuid": "49da5018-59ec-4a60-9cb9-614ea6266ced",
+      "score": 0.5628063364145856
+    },
+    {
+      "name": "income",
+      "label": "variable",
+      "description": "A measure of the financial resources available to a household, often used as an indicator of economic well-being",
+      "uuid": "c88a747b-2302-49c9-b747-f2faa21e2b6b",
+      "score": 0.6452918670413837
+    }
+  ],
+  "(27725, 30395)": [
+    {
+      "name": "fisheries",
+      "label": "sector",
+      "description": "An economic sector that involves the commercial or recreational harvesting of fish and other seafood",
+      "uuid": "c7112a64-be39-414a-9125-f63ab44ecb5b",
+      "score": 0.6428225426622745
+    },
+    {
+      "name": "agriculture",
+      "label": "sector",
+      "description": "An economic sector that involves the cultivation of crops, livestock, and other plant and animal products",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5227742272177979
+    },
+    {
+      "name": "Inter-Sectoral Impact Model Intercomparison Project",
+      "label": "project",
+      "description": "An international project that aims to compare and improve models of the impacts of climate change on different sectors",
+      "uuid": "62bc69a0-d55f-4bd1-9d20-ef1442eec981",
+      "score": 0.5136413113130857
+    },
+    {
+      "name": "ISIMIP Fast Track phase 3",
+      "label": "experiment",
+      "description": "A specific experiment within the ISIMIP project that focuses on simulating the impacts of climate change on different sectors",
+      "uuid": "012eeb36-8c6e-442d-92c2-16f2714dbc79",
+      "score": 0.5139216581338277
+    },
+    {
+      "name": "global simulations",
+      "label": "model",
+      "description": "Computational models that simulate the behavior of complex systems, such as the global climate",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5093448516551353
+    },
+    {
+      "name": "coastal populations",
+      "label": "location",
+      "description": "Populations that live in coastal areas, which are often vulnerable to the impacts of climate change",
+      "uuid": "35b7c7cd-49c8-476c-83f2-f2e1f4097307",
+      "score": 0.5686391737726262
+    }
+  ],
+  "(29870, 32389)": [
+    {
+      "name": "ISIMIP",
+      "label": "project",
+      "description": "The Inter-Sectoral Impact Model Intercomparison Project, a framework for comparing different climate models to improve climate predictions and assess the impact of climate change on various sectors",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.6229751371747038
+    },
+    {
+      "name": "FishMIP",
+      "label": "project",
+      "description": "The Fisheries and marine ecosystem Model Intercomparison Project, a part of ISIMIP that focuses on comparing marine ecosystem and fisheries models",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.6007540159859355
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "GFDL-ESM4",
+      "label": "model",
+      "description": "The Geophysical Fluid Dynamics Laboratory Earth System Model version 4, a sophisticated computer simulation used to represent and predict Earth's climate system",
+      "uuid": "6f7a0a68-6387-4f49-84ea-9652139018f5",
+      "score": 0.8205012589266982
+    },
+    {
+      "name": "IPSL-CM6A-LR",
+      "label": "model",
+      "description": "The Institut Pierre-Simon Laplace Climate Model version 6A-LR, a sophisticated computer simulation used to represent and predict Earth's climate system",
+      "uuid": "71f69b1f-f00c-4303-809b-027d58ebacf5",
+      "score": 0.7769215343388677
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A low-emission scenario used in climate modeling to project future climate changes",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6671323703455881
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A high-emission scenario used in climate modeling to project future climate changes",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7255151145291575
+    },
+    {
+      "name": "historical",
+      "label": "experiment",
+      "description": "A climate simulation or experiment that is based on past observed data to compare model outputs with historical climate patterns",
+      "uuid": "20dea6db-e5d4-42a9-a1d5-0421c65fced8",
+      "score": 0.6616116374914691
+    },
+    {
+      "name": "EcoOcean",
+      "label": "model",
+      "description": "A marine ecosystem model used to simulate and predict the behavior of marine ecosystems",
+      "uuid": "794a1ac9-3686-462a-982f-3b1e1f97a866",
+      "score": 0.5630250756266747
+    },
+    {
+      "name": "Macroecological",
+      "label": "model",
+      "description": "A marine ecosystem model used to simulate and predict the behavior of marine ecosystems",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.5064636401082874
+    },
+    {
+      "name": "agriculture",
+      "label": "sector",
+      "description": "The sector of the economy that deals with the production of food and other products through farming and livestock",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5543804891509189
+    },
+    {
+      "name": "fisheries",
+      "label": "sector",
+      "description": "The sector of the economy that deals with the catching, processing, and selling of fish and other seafood",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6408675798349496
+    },
+    {
+      "name": "community sites",
+      "label": "location",
+      "description": "Specific geographic locations where communities are located and may be impacted by climate change",
+      "uuid": "713eb469-abe4-4b6b-bad6-134187deabd8",
+      "score": 0.505559206279628
+    },
+    {
+      "name": "coastal populations",
+      "label": "location",
+      "description": "Populations living in coastal areas, which may be vulnerable to climate-related hazards such as sea-level rise and storms",
+      "uuid": "35b7c7cd-49c8-476c-83f2-f2e1f4097307",
+      "score": 0.5850696556339854
+    },
+    {
+      "name": "ocean grid cells",
+      "label": "location",
+      "description": "Grid cells used to discretize the ocean and simulate ocean processes in climate models",
+      "uuid": "4332b76c-a19b-4482-8e76-d35332430aa7",
+      "score": 0.5557488408757555
+    },
+    {
+      "name": "trophic level",
+      "label": "variable",
+      "description": "A measure of the position of an organism in a food web, with higher trophic levels indicating greater energy consumption",
+      "uuid": "bd46a0bf-5c06-48af-a6c9-022417b1fffd",
+      "score": 0.5294508013386385
+    },
+    {
+      "name": "consumer biomass",
+      "label": "variable",
+      "description": "A measure of the total biomass of consumers in an ecosystem, which can be used to assess the health and productivity of the ecosystem",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.518049748591343
+    },
+    {
+      "name": "Earth System Model forcings",
+      "label": "model",
+      "description": "Forcings used to drive Earth System Models, such as greenhouse gas concentrations and aerosol emissions",
+      "uuid": "862e790e-d42f-433a-8561-107562aceb64",
+      "score": 0.559169467436684
+    }
+  ],
+  "(31956, 34481)": [
+    {
+      "name": "L-CM6A-LR",
+      "label": "model",
+      "description": "A climate model developed for the Coupled Model Intercomparison Project Phase 6, designed to simulate and predict Earth's climate system",
+      "uuid": "71f69b1f-f00c-4303-809b-027d58ebacf5",
+      "score": 0.6741044153286306
+    },
+    {
+      "name": "FishMIP",
+      "label": "project",
+      "description": "A project focused on studying the impacts of climate change on fisheries and marine ecosystems",
+      "uuid": "72387526-4ad9-439d-b14c-47b91a4e7ba2",
+      "score": 0.5704813852977123
+    },
+    {
+      "name": "Earth System Model",
+      "label": "model",
+      "description": "A comprehensive climate model that integrates physical, chemical, and biological processes to simulate Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.5796513099720706
+    },
+    {
+      "name": "ESMs",
+      "label": "model",
+      "description": "Earth System Models, sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "fc94343c-1809-431f-b3da-8ba5b887dda9",
+      "score": 0.5496233486376044
+    },
+    {
+      "name": "GGCMI",
+      "label": "project",
+      "description": "The Global Gridded Crop model Intercomparison Project, an initiative to compare and improve crop models for climate change research",
+      "uuid": "67263303-d911-4042-8be6-8f18a5c052ce",
+      "score": 0.5837245321198516
+    },
+    {
+      "name": "ISIMIP",
+      "label": "project",
+      "description": "The Inter-Sectoral Impact Model Intercomparison Project, a framework for comparing and improving impact models across different sectors",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.6147941017081826
+    },
+    {
+      "name": "GFDL-ESM4",
+      "label": "model",
+      "description": "A climate model developed by the Geophysical Fluid Dynamics Laboratory, used for simulating Earth's climate system",
+      "uuid": "6f7a0a68-6387-4f49-84ea-9652139018f5",
+      "score": 0.8620631197397066
+    },
+    {
+      "name": "IPSL-CM6A-LR",
+      "label": "model",
+      "description": "A climate model developed by the Institute Pierre-Simon Laplace, used for simulating Earth's climate system",
+      "uuid": "71f69b1f-f00c-4303-809b-027d58ebacf5",
+      "score": 0.8080138332836633
+    },
+    {
+      "name": "MPI-ESM1-2-HR",
+      "label": "model",
+      "description": "A climate model developed by the Max Planck Institute for Meteorology, used for simulating Earth's climate system",
+      "uuid": "b82e3b5b-c989-48d9-8fc4-66b56bf442a9",
+      "score": 0.7899555322454105
+    },
+    {
+      "name": "MRI-ESM2-0",
+      "label": "model",
+      "description": "A climate model developed by the Meteorological Research Institute, used for simulating Earth's climate system",
+      "uuid": "913c8a38-8cef-4062-b98c-039d22d1ced5",
+      "score": 0.8326829205855589
+    },
+    {
+      "name": "UKESM1-0-LL",
+      "label": "model",
+      "description": "A climate model developed by the United Kingdom, used for simulating Earth's climate system",
+      "uuid": "5214a3f3-8061-4d3a-be6c-e67602a3ae56",
+      "score": 0.7563558126314538
+    },
+    {
+      "name": "EPIC-IIASA",
+      "label": "model",
+      "description": "A crop model used for simulating agricultural productivity and climate change impacts",
+      "uuid": "89f3807b-655e-4a09-af18-fb00ee4803f6",
+      "score": 0.5816538410787624
+    },
+    {
+      "name": "LPJmL",
+      "label": "model",
+      "description": "A crop model used for simulating agricultural productivity and climate change impacts",
+      "uuid": "3e06da32-2340-4565-b944-d3c5141f5522",
+      "score": 0.6255453348663433
+    },
+    {
+      "name": "PEPIC",
+      "label": "model",
+      "description": "A crop model used for simulating agricultural productivity and climate change impacts",
+      "uuid": "89f3807b-655e-4a09-af18-fb00ee4803f6",
+      "score": 0.5058483447182022
+    },
+    {
+      "name": "climate data",
+      "label": "variable",
+      "description": "Data related to climate, such as temperature, precipitation, and other environmental factors",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.6304018598548614
+    },
+    {
+      "name": "fisheries",
+      "label": "variable",
+      "description": "The industry or practice of catching fish and other seafood, often impacted by climate change",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6738892547247423
+    },
+    {
+      "name": "population densities",
+      "label": "variable",
+      "description": "A measure of the number of people living in a given area, often used as a factor in climate change research",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7001265974222957
+    },
+    {
+      "name": "monthly or annual temporal resolution",
+      "label": "variable",
+      "description": "A measure of the frequency at which data is collected or simulated, often used in climate modeling",
+      "uuid": "502ad03c-dba8-4b32-8af5-13fa947c3988",
+      "score": 0.7315752069144442
+    },
+    {
+      "name": "1\u00b0spatial grid",
+      "label": "variable",
+      "description": "A measure of the spatial resolution at which data is collected or simulated, often used in climate modeling",
+      "uuid": "0eadedd6-194a-4a91-95cc-041ad065face",
+      "score": 0.6933620662724902
+    }
+  ],
+  "(34035, 36819)": [
+    {
+      "name": "Madagascar",
+      "label": "location",
+      "description": "An island country located in the Indian Ocean, off the coast of East Africa, known for its unique biodiversity and ecosystems",
+      "uuid": "d9f82c3c-0edf-445e-b838-eebc2278d4c1",
+      "score": 0.7400507384541198
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "A measure of the total amount of living matter in a given area or volume, often used to study ecosystem health and productivity",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.6872295660825403
+    },
+    {
+      "name": "ensemble models",
+      "label": "model",
+      "description": "A set of climate models that are combined to improve the accuracy and reliability of climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.651573432447655
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country located in East Africa, known for its diverse ecosystems and wildlife",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.7056104208112699
+    },
+    {
+      "name": "Philippines",
+      "label": "location",
+      "description": "An archipelago country in Southeast Asia, known for its rich marine biodiversity and vulnerability to climate change",
+      "uuid": "9f78dabd-0540-4724-b093-8c0fc05afd3f",
+      "score": 0.7111453592736072
+    },
+    {
+      "name": "SEDAC gridded populating density",
+      "label": "dataset",
+      "description": "A dataset providing population density information at a global scale, used for studying demographic and environmental trends",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.5898345025418331
+    },
+    {
+      "name": "population densities",
+      "label": "variable",
+      "description": "A measure of the number of people living in a given area, often used to study urbanization, migration, and environmental impacts",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7110089058697603
+    },
+    {
+      "name": "Indonesia",
+      "label": "location",
+      "description": "A country located in Southeast Asia, known for its diverse ecosystems, rich marine biodiversity, and vulnerability to climate change",
+      "uuid": "84aeedd2-6093-4252-9895-8dc063a9ad97",
+      "score": 0.6658242245530824
+    }
+  ],
+  "(36329, 39345)": [
+    {
+      "name": "EcoOcean",
+      "label": "model",
+      "description": "A model used for simulating and predicting marine ecosystems and their responses to environmental changes",
+      "uuid": "794a1ac9-3686-462a-982f-3b1e1f97a866",
+      "score": 0.5787267088060389
+    },
+    {
+      "name": "Bay of Bengal",
+      "label": "location",
+      "description": "A region in the northeastern Indian Ocean, characterized by its unique marine ecosystems and climate patterns",
+      "uuid": "66dc90fd-304a-4379-a9e1-18cf184cc6da",
+      "score": 0.7163535937849527
+    },
+    {
+      "name": "Indonesian Sea",
+      "label": "location",
+      "description": "A part of the western Pacific Ocean, located between the Indonesian archipelago and the Asian mainland, known for its diverse marine ecosystems",
+      "uuid": "4f5b8f3d-19fe-4600-be01-b944f2eaf294",
+      "score": 0.5584199662392112
+    },
+    {
+      "name": "RAM",
+      "label": "database",
+      "description": "A database used for stock assessment and management of marine ecosystems",
+      "uuid": "1f6a5b36-78b5-4412-bf1b-f98456b12d63",
+      "score": 0.5852583948728587
+    },
+    {
+      "name": "GGCMI",
+      "label": "project",
+      "description": "The Global Gridded Crop Model Intercomparison, a project aimed at comparing and evaluating different crop models used for simulating and predicting crop yields and their responses to environmental changes",
+      "uuid": "67263303-d911-4042-8be6-8f18a5c052ce",
+      "score": 0.5743260398840095
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "FAOSTAT",
+      "label": "database",
+      "description": "A database provided by the Food and Agriculture Organization of the United Nations, containing statistics on food, agriculture, and natural resources",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.7780241800205193
+    },
+    {
+      "name": "ensemble multi-model mean",
+      "label": "model",
+      "description": "The average of multiple climate models, used to improve the accuracy and reliability of climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5676931750763056
+    },
+    {
+      "name": "climate forcings",
+      "label": "variable",
+      "description": "External factors that influence the climate system, such as greenhouse gas emissions, volcanic eruptions, and changes in solar radiation",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6402139791296236
+    },
+    {
+      "name": "crop yield",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area, often used as an indicator of agricultural productivity and food security",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.5958811562757734
+    },
+    {
+      "name": "relative biomass",
+      "label": "variable",
+      "description": "A measure of the amount of biomass in a given area or ecosystem, often used to evaluate the health and productivity of marine ecosystems",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5468715012119827
+    },
+    {
+      "name": "maximum yield",
+      "label": "variable",
+      "description": "The maximum amount of crop or biomass that can be produced in a given area or ecosystem, often used to evaluate the potential for agricultural productivity and food security",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.505549127209907
+    }
+  ],
+  "(38831, 41993)": [
+    {
+      "name": "ensemble models",
+      "label": "model",
+      "description": "A set of multiple models run with the same inputs and parameters to quantify uncertainty and variability in the outputs",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.6706477218148046
+    },
+    {
+      "name": "fisheries",
+      "label": "project",
+      "description": "A scientific program or field campaign focused on the study of fish populations, fisheries management, and the impact of climate change on fisheries",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6525994539370492
+    },
+    {
+      "name": "agriculture",
+      "label": "project",
+      "description": "A scientific program or field campaign focused on the study of agricultural practices, crop yields, and the impact of climate change on agriculture",
+      "uuid": "112e71ec-c0a1-49a8-82d7-bcb317b45860",
+      "score": 0.5388512512950344
+    },
+    {
+      "name": "FishMIP",
+      "label": "model",
+      "description": "The Fisheries and Marine Ecosystems Model Intercomparison Project, a framework for comparing different fisheries models to improve predictions of fisheries responses to climate change",
+      "uuid": "72387526-4ad9-439d-b14c-47b91a4e7ba2",
+      "score": 0.6022940360628274
+    },
+    {
+      "name": "ISIMIP",
+      "label": "provider",
+      "description": "The Inter-Sectoral Impact Model Intercomparison Project, a framework for comparing different impact models to improve predictions of climate change impacts across various sectors",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.62008097523021
+    },
+    {
+      "name": "country",
+      "label": "location",
+      "description": "A geographic and political entity with defined borders and governance",
+      "uuid": "245c630a-8022-46ed-9a79-8f6cf99b0822",
+      "score": 0.566000803367692
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing a low-emissions future with stringent climate mitigation efforts",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6407480054842736
+    },
+    {
+      "name": "SSP8.5",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing a high-emissions future with minimal climate mitigation efforts",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.692176553183826
+    }
+  ],
+  "(41542, 43222)": [
+    {
+      "name": "FishMIP",
+      "label": "model",
+      "description": "A climate model used to simulate the impacts of climate change on fish populations",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.5133142276426207
+    },
+    {
+      "name": "ISIMIP",
+      "label": "provider",
+      "description": "The Inter-Sectoral Impact Model Intercomparison Project, an organization that coordinates and supports climate impact modeling efforts",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.629595441203365
+    },
+    {
+      "name": "SEDAC",
+      "label": "provider",
+      "description": "The Socioeconomic Data and Applications Center, a data center that provides access to socioeconomic and environmental data, including population density datasets",
+      "uuid": "5afd7fb3-e3a4-4cde-8cad-c6e0963d9eba",
+      "score": 0.7247066837184568
+    },
+    {
+      "name": "Columbia University",
+      "label": "provider",
+      "description": "An academic institution that hosts the SEDAC data center",
+      "uuid": "f6751307-19d8-4672-b1d1-93de7d1cf1ca",
+      "score": 0.63076254650406
+    },
+    {
+      "name": "population density",
+      "label": "variable",
+      "description": "A measure of the number of people living in a given area",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7458364913790536
+    }
+  ]
+}

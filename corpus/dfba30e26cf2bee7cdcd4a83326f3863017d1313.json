@@ -1,0 +1,2016 @@
+{
+  "(0, 3249)": [
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "A measure of the atmospheric conditions that prevail in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5241241399612517
+    },
+    {
+      "name": "catchment characteristics",
+      "label": "variable",
+      "description": "Properties of a catchment, such as topography, vegetation, and soil type, that influence its hydrological response",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5716311949024744
+    },
+    {
+      "name": "hydrologic response",
+      "label": "variable",
+      "description": "The way in which a catchment responds to precipitation and other climate-related factors, including the flow of water through the catchment",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.5306386287054147
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The shape and features of the Earth's surface, including hills, valleys, and other landforms",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6940396343532591
+    },
+    {
+      "name": "geomorphology",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including the processes that shape it",
+      "uuid": "d35b9ba5-d018-48a5-8f0d-92b9c55b3279",
+      "score": 0.6242359388953106
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The outermost layer of the Earth's surface, composed of mineral and organic particles, water, and air",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6166089690318681
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, including trees, grasses, and other types of plants, that cover the Earth's surface",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6193960899792297
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "Water that falls to the Earth's surface, including rain, snow, sleet, and hail",
+      "uuid": "6c71e621-aae6-436b-9405-5dc6ed2a527e",
+      "score": 0.6977751829649678
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, often used as an indicator of hydrological response",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5624605140647435
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used as an indicator of climate",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6464693350857119
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country located in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6874614133976987
+    }
+  ],
+  "(2692, 5891)": [
+    {
+      "name": "catchment classification",
+      "label": "project",
+      "description": "A research initiative focused on categorizing catchments based on their hydrologic behavior and characteristics",
+      "uuid": "09ef7548-5e64-4296-8129-0ab625e15721",
+      "score": 0.5055619769258786
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "A measure of the atmospheric conditions, including temperature, precipitation, and other factors influencing hydrologic behavior",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.539034652995761
+    },
+    {
+      "name": "catchment characteristics",
+      "label": "variable",
+      "description": "The properties of a catchment, including topography, vegetation, and geology, that influence its hydrologic response",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5640508356988049
+    },
+    {
+      "name": "hydrologic behavior",
+      "label": "variable",
+      "description": "The way a catchment responds to climate and catchment characteristics, including factors such as runoff, infiltration, and evapotranspiration",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.525646062929119
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area, potentially containing multiple catchments, with distinct climate and catchment characteristics",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.6418355048773492
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7470704205046298
+    },
+    {
+      "name": "maximum evapotranspiration",
+      "label": "variable",
+      "description": "The maximum rate of evapotranspiration, often used as a parameter in hydrologic models",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6043804824034652
+    },
+    {
+      "name": "hydrologic response",
+      "label": "variable",
+      "description": "The output of a catchment, including factors such as streamflow, groundwater levels, and water quality",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.5016587738846915
+    }
+  ],
+  "(5350, 8393)": [
+    {
+      "name": "hydrologic response",
+      "label": "variable",
+      "description": "The way in which a catchment reacts to precipitation and other environmental factors, influencing its water balance and flow characteristics",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.5331756094163246
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "A region of land that drains water into a common outlet, such as a river or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5534516929614968
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7470704205046298
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that stores and transmits large amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5903341072701214
+    },
+    {
+      "name": "horizontal hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the ease with which water can flow through a porous material, such as soil or rock",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.643687354458092
+    },
+    {
+      "name": "catchment characteristics",
+      "label": "variable",
+      "description": "Properties of a catchment, such as its shape, size, and geology, that influence its hydrologic response",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5807282606186036
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse climates and hydrologic systems",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7078268816302068
+    },
+    {
+      "name": "geomorphologic functions",
+      "label": "model",
+      "description": "Mathematical descriptions of the shape and structure of landscapes, used to simulate hydrologic processes",
+      "uuid": "d35b9ba5-d018-48a5-8f0d-92b9c55b3279",
+      "score": 0.5164818849374401
+    },
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The region below the Earth's surface, where water flows and is stored in the soil and rock",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.6218384350589152
+    }
+  ],
+  "(7928, 10874)": [
+    {
+      "name": "MOPEX",
+      "label": "project",
+      "description": "The Model Parameter Experiment, a database and research initiative focused on improving the parameterization of hydrologic models",
+      "uuid": "0bc41cf0-cf0e-4122-be92-a24ac8ba6012",
+      "score": 0.5153079107627284
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country with diverse climate and physiographic gradients",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6855997276034282
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "A region of land that drains water into a common outlet, often used as a unit of study in hydrology",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5703765890686876
+    },
+    {
+      "name": "hydrologic response",
+      "label": "variable",
+      "description": "The way in which a catchment responds to hydro-meteorological inputs such as precipitation and temperature",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.5102615389948059
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The volume of water flowing out of a catchment over a given time period",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.6577000195713923
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere or surface, influencing hydrologic processes",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6533550703543043
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water falling to the Earth's surface, driving hydrologic processes",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.653420871030251
+    },
+    {
+      "name": "subsurface flow",
+      "label": "variable",
+      "description": "The movement of water beneath the Earth's surface, contributing to catchment hydrology",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.7144440305819941
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface into streams and rivers, a key component of the hydrologic cycle",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6652917484995963
+    }
+  ],
+  "(10361, 12864)": [
+    {
+      "name": "digital elevation models",
+      "label": "instrument",
+      "description": "A digital representation of the Earth's surface, used to derive topographic and terrain properties",
+      "uuid": "e5f94c93-e8af-4919-827f-9059dab9cf27",
+      "score": 0.7020699781798596
+    },
+    {
+      "name": "bedrock",
+      "label": "location",
+      "description": "The solid, unweathered rock that underlies the soil and regolith, playing a crucial role in groundwater flow and aquifer dynamics",
+      "uuid": "4beaeec9-0750-44e6-8fb4-8d0085efc82e",
+      "score": 0.575118564672747
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The unconsolidated mineral and organic material on the surface of the Earth, influencing water infiltration, storage, and runoff",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6197118055665037
+    },
+    {
+      "name": "infiltration",
+      "label": "variable",
+      "description": "The process by which water enters the soil, recharging groundwater and influencing catchment hydrology",
+      "uuid": "638a22af-4e97-450e-a278-b81338443230",
+      "score": 0.737854802020527
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a given point in a river or stream over a specific period, often used as an indicator of catchment hydrology",
+      "uuid": "36a2999b-2255-4d4e-a249-40df3b7b3aaf",
+      "score": 0.6870919320593526
+    },
+    {
+      "name": "subsurface flow",
+      "label": "variable",
+      "description": "The movement of water beneath the Earth's surface, playing a key role in groundwater recharge and catchment hydrology",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.7365184286900206
+    },
+    {
+      "name": "land use-land cover",
+      "label": "variable",
+      "description": "The classification of the Earth's surface into different categories based on its use and cover, influencing catchment hydrology and water quality",
+      "uuid": "75c312bc-79f9-4d74-a7c0-3c67c019196c",
+      "score": 0.6989941085956988
+    },
+    {
+      "name": "hillslope",
+      "label": "location",
+      "description": "A sloping area of land between a valley and a ridge, playing a crucial role in catchment hydrology and water flow",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.5359913305481703
+    },
+    {
+      "name": "channel network",
+      "label": "location",
+      "description": "The system of rivers, streams, and other watercourses that drain a catchment, influencing water flow and catchment hydrology",
+      "uuid": "4b276110-57bc-4ed6-b741-1ec0383fa962",
+      "score": 0.5027930314084182
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a river or lake, and is often used as a unit of study in hydrology",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5651854125058298
+    }
+  ],
+  "(12630, 14758)": [
+    {
+      "name": "infiltration capacity",
+      "label": "variable",
+      "description": "A measure of the maximum rate at which the soil can absorb water, influencing the generation of surface runoff and groundwater recharge",
+      "uuid": "d16cd32f-978d-4ab5-9711-f8189a748399",
+      "score": 0.6415402722366292
+    },
+    {
+      "name": "root zone water balance",
+      "label": "model",
+      "description": "A mathematical representation of the processes controlling the movement of water within the root zone, including infiltration, evapotranspiration, and percolation",
+      "uuid": "cd631b73-46fd-451e-b4fd-81dceafae93e",
+      "score": 0.5467911644258295
+    },
+    {
+      "name": "soil",
+      "label": "platform",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, and supporting plant growth",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6254320733250105
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The rate at which water flows through a channel or river, often used to study hydrological processes and water resources",
+      "uuid": "36a2999b-2255-4d4e-a249-40df3b7b3aaf",
+      "score": 0.6990255020195643
+    },
+    {
+      "name": "root zone moisture content",
+      "label": "variable",
+      "description": "The amount of water present in the soil within the root zone, influencing plant growth and hydrological processes",
+      "uuid": "4353d710-3d65-44b3-b988-26af1415646a",
+      "score": 0.7105552690298965
+    },
+    {
+      "name": "canopy storage",
+      "label": "variable",
+      "description": "The amount of water stored on the leaves and branches of plants, affecting the amount of throughfall and runoff",
+      "uuid": "f4d51926-427d-45ee-a6c3-ece717572849",
+      "score": 0.5355381207962556
+    }
+  ],
+  "(14401, 16682)": [
+    {
+      "name": "infiltration capacity",
+      "label": "variable",
+      "description": "The rate at which water enters the soil, influencing surface runoff and groundwater recharge",
+      "uuid": "d16cd32f-978d-4ab5-9711-f8189a748399",
+      "score": 0.6699964654074262
+    },
+    {
+      "name": "leaf area index",
+      "label": "variable",
+      "description": "A measure of the amount of leaf area per unit ground area, used to estimate canopy storage capacity",
+      "uuid": "201b21eb-5781-4d69-ba1f-026111b3b1e5",
+      "score": 0.7514127964921018
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The unconsolidated mineral and organic material on the surface of the Earth, playing a crucial role in hydrological processes",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5908124098691911
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from liquid to vapor, influencing the water balance and energy fluxes",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.695597497462579
+    },
+    {
+      "name": "precipitation rate",
+      "label": "variable",
+      "description": "The rate at which water falls to the Earth's surface, driving hydrological processes and influencing climate patterns",
+      "uuid": "ac50c468-df2f-429c-8394-9d63efcc6f9d",
+      "score": 0.7075918196864555
+    },
+    {
+      "name": "canopy storage",
+      "label": "variable",
+      "description": "The amount of water stored in the vegetation canopy, affecting the throughfall rate and runoff generation",
+      "uuid": "f4d51926-427d-45ee-a6c3-ece717572849",
+      "score": 0.5566727878613501
+    },
+    {
+      "name": "vertical hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the soil's ability to transmit water, influencing infiltration and groundwater flow",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.6366372938350164
+    },
+    {
+      "name": "cumulative infiltration",
+      "label": "variable",
+      "description": "The total amount of water that has infiltrated the soil since the start of a rain or snowmelt event",
+      "uuid": "875b1cd8-ca7e-4edb-9e83-ac78f1a3bc9f",
+      "score": 0.5460676442783966
+    },
+    {
+      "name": "water table",
+      "label": "location",
+      "description": "The upper surface of the zone of saturation in the soil, marking the boundary between the unsaturated and saturated zones",
+      "uuid": "ecbe9f17-6012-4e39-a707-713973b7d167",
+      "score": 0.7236323101321412
+    },
+    {
+      "name": "root zone",
+      "label": "location",
+      "description": "The region of the soil where plant roots are active, influencing water and nutrient uptake",
+      "uuid": "4353d710-3d65-44b3-b988-26af1415646a",
+      "score": 0.5694397716251586
+    }
+  ],
+  "(16217, 18528)": [
+    {
+      "name": "root zone",
+      "label": "location",
+      "description": "The area of soil where plant roots are present, influencing water and nutrient uptake",
+      "uuid": "4353d710-3d65-44b3-b988-26af1415646a",
+      "score": 0.5701004931092691
+    },
+    {
+      "name": "residual moisture content",
+      "label": "variable",
+      "description": "The amount of water retained in soil after drainage, often used as an indicator of soil moisture status",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.5458498532300585
+    },
+    {
+      "name": "saturated moisture content",
+      "label": "variable",
+      "description": "The maximum amount of water that soil can hold, often used as a reference point for soil moisture measurements",
+      "uuid": "7c00e468-6a43-49ef-891e-b0ce29e2ff36",
+      "score": 0.5879797467620982
+    },
+    {
+      "name": "net recharge",
+      "label": "variable",
+      "description": "The difference between the recharge flux and the capillary rise flux, often used to estimate the amount of water added to an aquifer",
+      "uuid": "2cd0b33e-4805-4930-ba84-fef6c625a9b4",
+      "score": 0.542196706848443
+    },
+    {
+      "name": "land surface energy budget",
+      "label": "model",
+      "description": "A framework for estimating the energy balance at the land surface, including components such as net radiation, latent heat flux, and sensible heat flux",
+      "uuid": "c6847d01-cbf9-491b-be59-c283d9072d95",
+      "score": 0.5500047111973628
+    },
+    {
+      "name": "net radiation",
+      "label": "variable",
+      "description": "The difference between incoming and outgoing radiation at the land surface, often used as a driver for energy balance models",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.7103548255107434
+    },
+    {
+      "name": "latent heat flux",
+      "label": "variable",
+      "description": "The energy required to change the state of water from liquid to vapor, often used to estimate evaporation and transpiration",
+      "uuid": "05dd9887-0b58-45f2-b3ea-6e26bbee6990",
+      "score": 0.7527438922033739
+    },
+    {
+      "name": "sensible heat flux",
+      "label": "variable",
+      "description": "The energy transferred between the land surface and the atmosphere due to temperature differences, often used to estimate surface temperature and energy balance",
+      "uuid": "6a2d1d48-d2cc-4fe7-85f5-c98ab3a11262",
+      "score": 0.7119097613262745
+    },
+    {
+      "name": "soil heat flux",
+      "label": "variable",
+      "description": "The energy transferred between the land surface and the soil, often used to estimate soil temperature and energy balance",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.6906340181944506
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the land surface, often used as a key variable in energy balance models",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.681871601376405
+    },
+    {
+      "name": "surface albedo",
+      "label": "variable",
+      "description": "The reflectivity of the land surface, often used to estimate the amount of incoming radiation that is reflected back to the atmosphere",
+      "uuid": "5395e33c-02cb-4027-b425-e771eab13610",
+      "score": 0.7374129673618209
+    },
+    {
+      "name": "emissivity",
+      "label": "variable",
+      "description": "The ability of the land surface to emit radiation, often used to estimate outgoing longwave radiation",
+      "uuid": "4ee9d0c5-2e0c-486c-b89b-7b002d18c5f7",
+      "score": 0.7660758586923663
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plants and other organisms that cover the land surface, often influencing energy balance and water cycling",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6457372739734386
+    },
+    {
+      "name": "canopy",
+      "label": "location",
+      "description": "The layer of leaves and branches that covers the land surface, often influencing energy balance and water cycling",
+      "uuid": "7266c8c3-81eb-47fd-849c-55a1498c4d3d",
+      "score": 0.6794690390068736
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the land surface, often used as a key variable in energy balance models",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6528907131482791
+    },
+    {
+      "name": "density",
+      "label": "variable",
+      "description": "The mass per unit volume of a substance, often used to estimate energy balance and water cycling",
+      "uuid": "007ab607-2ee1-484d-85fb-0bfb89f18c9b",
+      "score": 0.6137704602751192
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land surface to the atmosphere, often used to estimate water cycling and energy balance",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.6848475704225555
+    },
+    {
+      "name": "transpiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the atmosphere, often used to estimate water cycling and energy balance",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.6177022232721994
+    }
+  ],
+  "(18173, 20599)": [
+    {
+      "name": "hsB-SM model",
+      "label": "model",
+      "description": "A semi-distributed hydrological model used to simulate and study hydrological processes and climate interactions",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5021627070972428
+    },
+    {
+      "name": "canopy",
+      "label": "platform",
+      "description": "A layer of vegetation that covers the soil surface and influences hydrological and energy balance processes",
+      "uuid": "7266c8c3-81eb-47fd-849c-55a1498c4d3d",
+      "score": 0.6871760203603011
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, an important factor in climate and hydrological studies",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.7073434007023626
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, a key factor in climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6859108978175616
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "A measure of the reflectivity of the Earth's surface, influencing the amount of solar radiation absorbed or reflected",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7856506686043925
+    },
+    {
+      "name": "transpiration rate",
+      "label": "variable",
+      "description": "The rate at which plants release water vapor into the atmosphere, an important component of the water cycle",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.5969989623698213
+    },
+    {
+      "name": "snow melt rate",
+      "label": "variable",
+      "description": "The rate at which snow melts and becomes liquid water, influencing hydrological processes and water availability",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6595134943890042
+    },
+    {
+      "name": "catchment-wide leaf area index",
+      "label": "variable",
+      "description": "A measure of the amount of leaf area per unit ground area, influencing photosynthesis and transpiration processes",
+      "uuid": "201b21eb-5781-4d69-ba1f-026111b3b1e5",
+      "score": 0.6982254485196179
+    },
+    {
+      "name": "threshold temperature",
+      "label": "variable",
+      "description": "A temperature value above or below which certain processes or events occur, such as snow melt or plant growth",
+      "uuid": "d87901bc-8a50-4442-8d03-a4e77f02bfb0",
+      "score": 0.667458080882554
+    },
+    {
+      "name": "downward short-and longwave radiation",
+      "label": "variable",
+      "description": "The amount of solar radiation that reaches the Earth's surface, influencing energy balance and climate processes",
+      "uuid": "e1af236f-ee88-4b10-8feb-70d9e09f90be",
+      "score": 0.6690408460456361
+    },
+    {
+      "name": "Evaporation",
+      "label": "process",
+      "description": "The process by which liquid water becomes water vapor, an important component of the water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.6815207778501217
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The amount of water vapor in the air compared to the maximum amount the air can hold, influencing climate and weather patterns",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7353585756562909
+    },
+    {
+      "name": "wilting point",
+      "label": "variable",
+      "description": "The soil moisture content below which plants begin to wilt and experience water stress, an important factor in plant growth and hydrological processes",
+      "uuid": "1ee216e5-1b80-4e8c-98a9-df7817bd61df",
+      "score": 0.7254688008949703
+    },
+    {
+      "name": "net ground heat flux",
+      "label": "variable",
+      "description": "The amount of heat energy transferred between the Earth's surface and the atmosphere, influencing climate and energy balance processes",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.665529308284373
+    },
+    {
+      "name": "atmospheric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere, influencing weather patterns and climate processes",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.704016982762167
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The speed at which air moves over the Earth's surface, influencing climate and weather patterns",
+      "uuid": "a7ce84a3-8329-4eb7-b5de-72d2dea8c6bf",
+      "score": 0.7040945144808959
+    },
+    {
+      "name": "soil moisture content",
+      "label": "variable",
+      "description": "The amount of water present in the soil, influencing hydrological processes and plant growth",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.7243915925260752
+    }
+  ],
+  "(20129, 22975)": [
+    {
+      "name": "hsB-SM",
+      "label": "model",
+      "description": "A semi-distributed hydrological model used for simulating and predicting hydrologic responses and catchment behavior",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5214770574707737
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "A measure of the reflectivity of the Earth's surface, affecting the amount of solar radiation absorbed and influencing climate and hydrology",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7750920584035624
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "A component of the Earth's surface, influencing hydrologic processes through its properties such as moisture content and permeability",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5998910107936308
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plants and their characteristics, influencing hydrologic processes through factors such as evapotranspiration and soil moisture>",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6206938413889751
+    },
+    {
+      "name": "basin",
+      "label": "location",
+      "description": "A region of land where water from rain, snowmelt, and other sources flows into a single exit point, such as a river or lake",
+      "uuid": "272700c5-d762-452b-8e9f-130e3a51efb5",
+      "score": 0.5842730836989936
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a river, lake, or ocean>",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5597152897004443
+    },
+    {
+      "name": "hydrologic response",
+      "label": "variable",
+      "description": "The way in which a catchment or basin responds to precipitation, including processes such as runoff, infiltration, and evapotranspiration",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.5164546213450353
+    },
+    {
+      "name": "climate forcing",
+      "label": "variable",
+      "description": "The external factors that drive changes in the climate system, such as greenhouse gas emissions or volcanic eruptions>",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6462004466702144
+    },
+    {
+      "name": "canopy",
+      "label": "variable",
+      "description": "The layer of leaves and branches at the top of a plant or tree, influencing hydrologic processes through factors such as evapotranspiration and interception>",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.6773258270118033
+    },
+    {
+      "name": "wet canopy evaporation",
+      "label": "variable",
+      "description": "The process by which water is evaporated from the surface of leaves and branches, influencing hydrologic processes>",
+      "uuid": "1e10e790-9f01-437e-8846-6c10d8330d6e",
+      "score": 0.5544174514142854
+    },
+    {
+      "name": "snow pack",
+      "label": "variable",
+      "description": "A layer of snow that has accumulated on the ground, influencing hydrologic processes through factors such as snowmelt and runoff>",
+      "uuid": "abc70f23-f386-41da-b1ad-43cd7aebe7c4",
+      "score": 0.552658424527615
+    },
+    {
+      "name": "snowmelt",
+      "label": "variable",
+      "description": "The process by which snow is melted, influencing hydrologic processes such as runoff and infiltration>",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.646165883512736
+    },
+    {
+      "name": "root zone",
+      "label": "variable",
+      "description": "The area of soil where plant roots are active, influencing hydrologic processes through factors such as water uptake and soil moisture>",
+      "uuid": "4353d710-3d65-44b3-b988-26af1415646a",
+      "score": 0.6084182422495243
+    },
+    {
+      "name": "hydrologic regimes",
+      "label": "variable",
+      "description": "The patterns and processes that govern the movement of water through a catchment or basin, including factors such as precipitation, runoff, and evapotranspiration>",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.7233643463514728
+    }
+  ],
+  "(22546, 25048)": [
+    {
+      "name": "field capacity",
+      "label": "variable",
+      "description": "The maximum amount of water that a soil can hold, typically measured as the amount of water retained in the soil after it has been saturated and allowed to drain",
+      "uuid": "fb27a60c-d682-4850-b42c-58b60245a14a",
+      "score": 0.7309661861138045
+    },
+    {
+      "name": "snow melt",
+      "label": "weather event",
+      "description": "The process by which snow turns into liquid water, often influencing soil moisture and groundwater recharge",
+      "uuid": "8e4f4500-e377-4b8c-8275-6194c4b7db8b",
+      "score": 0.6216910826525246
+    },
+    {
+      "name": "average soil moisture content",
+      "label": "variable",
+      "description": "A measure of the amount of water present in the soil, typically expressed as a percentage of the soil's field capacity",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.6697273051394325
+    },
+    {
+      "name": "soil moisture content",
+      "label": "variable",
+      "description": "The amount of water present in the soil at a given time, often used to study soil hydrology and climate interactions",
+      "uuid": "88e1a654-5cfd-423f-9350-0ef48d85e085",
+      "score": 0.7395259708244052
+    },
+    {
+      "name": "soil moisture dynamics",
+      "label": "variable",
+      "description": "The study of how soil moisture changes over time, influenced by factors such as precipitation, evaporation, and soil properties",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.5778883098920581
+    },
+    {
+      "name": "root zone",
+      "label": "location",
+      "description": "The area of soil where plant roots are active, playing a crucial role in soil hydrology and water balance",
+      "uuid": "4353d710-3d65-44b3-b988-26af1415646a",
+      "score": 0.5892980785787798
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "A region of land that drains water into a common outlet, such as a river or lake, often studied in hydrology and water resources management",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5798833764868054
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plants and other organisms that grow in a particular region, influencing soil hydrology, water balance, and climate interactions",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6104997196757211
+    },
+    {
+      "name": "baseflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river that is sustained by groundwater, often used to study hydrology and water balance",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.734362453403741
+    },
+    {
+      "name": "recharge",
+      "label": "variable",
+      "description": "The process by which water moves from the surface to the groundwater, often influencing soil hydrology and water balance",
+      "uuid": "3609b843-d840-460c-b1a3-d4fcc69a32f6",
+      "score": 0.6455666999225343
+    }
+  ],
+  "(24741, 27266)": [
+    {
+      "name": "hillslope",
+      "label": "location",
+      "description": "The area between the divide and the nearest channel, where water flows over or through the ground, influencing local hydrology and water balance",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.5075260242971519
+    },
+    {
+      "name": "advection-driven flow",
+      "label": "experiment",
+      "description": "A type of fluid flow in which the transport of substances is dominated by the movement of the fluid itself, often studied in the context of groundwater or atmospheric circulation",
+      "uuid": "0cb7f2c6-5e99-4781-8d4f-19ecbad2e2e0",
+      "score": 0.5857592706786191
+    },
+    {
+      "name": "diffusion-driven flow",
+      "label": "experiment",
+      "description": "A type of fluid flow in which the transport of substances is dominated by the spreading or mixing of the fluid, often studied in the context of groundwater or atmospheric circulation",
+      "uuid": "4fc9280e-f273-4280-a732-93ef4ceea418",
+      "score": 0.5366896997219597
+    },
+    {
+      "name": "hydrologic regimes",
+      "label": "variable",
+      "description": "The characteristic patterns or modes of hydrologic behavior, including the timing, magnitude, and frequency of water flows, which can be used to classify and understand different hydrologic systems",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.7289064405059364
+    },
+    {
+      "name": "baseflow dynamics",
+      "label": "experiment",
+      "description": "The study of the slow, steady flow of water through the soil and underlying rock, often used to understand groundwater recharge and discharge",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6354062718861739
+    },
+    {
+      "name": "diffusion",
+      "label": "variable",
+      "description": "The process by which particles or substances spread out or mix, often studied in the context of fluid flow or atmospheric circulation",
+      "uuid": "4fc9280e-f273-4280-a732-93ef4ceea418",
+      "score": 0.6549507844103397
+    },
+    {
+      "name": "hydrologic regimes",
+      "label": "variable",
+      "description": "The characteristic patterns or modes of hydrologic behavior, including the timing, magnitude, and frequency of water flows, which can be used to classify and understand different hydrologic systems",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.7289064405059364
+    },
+    {
+      "name": "channel network",
+      "label": "location",
+      "description": "The system of streams, rivers, and other waterways that drain an area, often studied in the context of hydrology and water resources management",
+      "uuid": "4b276110-57bc-4ed6-b741-1ec0383fa962",
+      "score": 0.5289368362820884
+    }
+  ],
+  "(26834, 29864)": [
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life in a given area, affecting hydrologic processes through transpiration and evapotranspiration",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6124003506349898
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams, rivers, and other watercourses, influenced by hydrologic processes such as precipitation, evaporation, and aquifer dynamics",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5668409113571523
+    },
+    {
+      "name": "growing season",
+      "label": "variable",
+      "description": "The period of the year when plants are actively growing, typically characterized by increased evapotranspiration and water uptake",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6378767191518342
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that stores and transmits large amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5903341072701214
+    },
+    {
+      "name": "hydrologic model",
+      "label": "model",
+      "description": "A computational representation of hydrologic processes, used to simulate and predict water flow, storage, and quality in catchments and watersheds",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5383282537441613
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a stream, river, or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.549046972840969
+    }
+  ],
+  "(29317, 32180)": [
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a stream, river, or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.549046972840969
+    },
+    {
+      "name": "baseflow",
+      "label": "variable",
+      "description": "The portion of streamflow that comes from groundwater, as opposed to surface runoff",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.7210844260100056
+    },
+    {
+      "name": "aquifer",
+      "label": "model",
+      "description": "A layer of permeable rock or soil that stores and transmits large amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5872835175589042
+    },
+    {
+      "name": "baseflow separation",
+      "label": "instrument",
+      "description": "A technique used to separate the baseflow component from the total streamflow",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5553138479814976
+    },
+    {
+      "name": "climate gradient",
+      "label": "location",
+      "description": "A gradual change in climate conditions over a geographic area",
+      "uuid": "99d567bb-7767-4ea4-a135-a611eac6a669",
+      "score": 0.5083875377288675
+    }
+  ],
+  "(31735, 34612)": [
+    {
+      "name": "deep aquifer",
+      "label": "location",
+      "description": "A layer of permeable rock that stores and transmits large amounts of water",
+      "uuid": "37e1daa7-503a-4d5c-b6d7-c18b71030bc6",
+      "score": 0.5162204031398059
+    },
+    {
+      "name": "horizontal hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the ability of a rock or soil to transmit water in the horizontal direction",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.6224474412941419
+    },
+    {
+      "name": "drainable porosity",
+      "label": "variable",
+      "description": "A measure of the amount of water that can be drained from a rock or soil",
+      "uuid": "4b604ba3-39d8-46bd-9d33-6b44c7a316c2",
+      "score": 0.5588998549331944
+    },
+    {
+      "name": "baseflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river that comes from groundwater sources",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.7251038396068814
+    },
+    {
+      "name": "recharge rate",
+      "label": "variable",
+      "description": "The rate at which water is added to an aquifer",
+      "uuid": "e89dc20d-0570-41ca-8039-38316332238a",
+      "score": 0.6071084518139322
+    }
+  ],
+  "(34127, 37215)": [
+    {
+      "name": "root zone soil",
+      "label": "location",
+      "description": "The upper layer of soil where plant roots are active, influencing infiltration, percolation, and water uptake",
+      "uuid": "4353d710-3d65-44b3-b988-26af1415646a",
+      "score": 0.590333775139538
+    },
+    {
+      "name": "temperature threshold",
+      "label": "variable",
+      "description": "A critical temperature value used in modeling snowmelt, determining when snow begins to melt",
+      "uuid": "d87901bc-8a50-4442-8d03-a4e77f02bfb0",
+      "score": 0.5918827556668124
+    },
+    {
+      "name": "snow melt model",
+      "label": "model",
+      "description": "A computational representation of the process by which snow turns into liquid water, often used in hydrological and climate studies",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6233504343958545
+    },
+    {
+      "name": "infiltration and percolation processes",
+      "label": "experiment",
+      "description": "Investigations into how water moves into and through the soil, affecting groundwater recharge and surface runoff",
+      "uuid": "638a22af-4e97-450e-a278-b81338443230",
+      "score": 0.6359227505267916
+    },
+    {
+      "name": "total porosity",
+      "label": "variable",
+      "description": "A measure of the total amount of pore space in a soil, influencing its ability to hold water",
+      "uuid": "4b604ba3-39d8-46bd-9d33-6b44c7a316c2",
+      "score": 0.6818295282103783
+    },
+    {
+      "name": "infiltrated water",
+      "label": "variable",
+      "description": "Water that has entered the soil through infiltration, contributing to groundwater recharge and plant water uptake",
+      "uuid": "638a22af-4e97-450e-a278-b81338443230",
+      "score": 0.6110517913005903
+    },
+    {
+      "name": "snow melt",
+      "label": "weather event",
+      "description": "The process by which snow turns into liquid water, often driven by increasing temperatures",
+      "uuid": "8e4f4500-e377-4b8c-8275-6194c4b7db8b",
+      "score": 0.6352293906356786
+    },
+    {
+      "name": "vegetation height",
+      "label": "variable",
+      "description": "The height of plants in a given area, affecting aerodynamic properties and energy fluxes",
+      "uuid": "42eb8baf-edbd-4791-8114-ca898ce5890f",
+      "score": 0.692934864247445
+    },
+    {
+      "name": "growing season",
+      "label": "location",
+      "description": "The period of the year when plants are actively growing, typically characterized by favorable temperature and moisture conditions",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6597257609408346
+    },
+    {
+      "name": "total percolation rate",
+      "label": "variable",
+      "description": "The rate at which water moves downward through the soil, recharging groundwater",
+      "uuid": "acdb39a8-1816-4d8d-bb80-38a94024035e",
+      "score": 0.6523522141946598
+    },
+    {
+      "name": "soil and vegetation parameters",
+      "label": "variable",
+      "description": "Quantities that describe the properties of soil and vegetation, such as moisture content, root fraction, and light use efficiency",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5335323529699548
+    },
+    {
+      "name": "baseflow",
+      "label": "variable",
+      "description": "The component of streamflow that comes from groundwater, often maintaining a steady flow between storms",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.707227369597865
+    },
+    {
+      "name": "total streamflow",
+      "label": "variable",
+      "description": "The total amount of water flowing through a stream or river, including both surface runoff and baseflow",
+      "uuid": "0eb4156f-e4ab-4e02-a473-df4b44290556",
+      "score": 0.5377071020968021
+    },
+    {
+      "name": "infiltration and percolation parameters",
+      "label": "variable",
+      "description": "Quantities that control the movement of water into and through the soil, such as sorptivity and hydraulic conductivity",
+      "uuid": "875b1cd8-ca7e-4edb-9e83-ac78f1a3bc9f",
+      "score": 0.5439346984446933
+    },
+    {
+      "name": "deep aquifer percolation",
+      "label": "experiment",
+      "description": "The process by which water moves downward from the soil into a deep aquifer, recharging groundwater",
+      "uuid": "d64094ae-774b-4435-8f2e-a54d114e5555",
+      "score": 0.5802482077646288
+    }
+  ],
+  "(36747, 39295)": [
+    {
+      "name": "vegetation height",
+      "label": "variable",
+      "description": "The height of vegetation in a given area, used in hydrological modeling to estimate parameters such as aerodynamic roughness length and zero plane displacement height",
+      "uuid": "42eb8baf-edbd-4791-8114-ca898ce5890f",
+      "score": 0.6786454360998492
+    },
+    {
+      "name": "snowmelt parameters",
+      "label": "variable",
+      "description": "Parameters used in hydrological modeling to simulate the melting of snow and its contribution to runoff",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.5787778857975404
+    },
+    {
+      "name": "soil and vegetation parameters",
+      "label": "variable",
+      "description": "Parameters that describe the characteristics of soil and vegetation, such as critical moisture content, wilting point moisture content, and vegetation root fraction, used in hydrological modeling",
+      "uuid": "ff141ffe-05ea-4901-a243-e6186826b05c",
+      "score": 0.5233536961641224
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "The angle or steepness of a land surface, which can affect runoff and erosion in hydrological modeling",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.5976514734465987
+    },
+    {
+      "name": "aerodynamic parameters",
+      "label": "variable",
+      "description": "Parameters that describe the interaction between the atmosphere and the land surface, such as zero plane displacement height and roughness length, used in hydrological modeling",
+      "uuid": "d6b77a8c-2d53-4813-b8bd-4301153672e8",
+      "score": 0.5083966219917198
+    },
+    {
+      "name": "hydrologic model",
+      "label": "model",
+      "description": "A computational representation of the hydrological cycle, used to simulate and predict the movement of water through a catchment or watershed",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5570784260250168
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "A area of land that drains water into a common outlet, such as a river or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5444730756806124
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, used as a measure of the performance of a hydrological model",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5542314511924411
+    },
+    {
+      "name": "hydrologic signatures",
+      "label": "variable",
+      "description": "Characteristics of the hydrological cycle, such as the annual runoff coefficient, annual baseflow index, and slope of the flow duration curve, used to evaluate the performance of a hydrological model",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.5154098303378434
+    },
+    {
+      "name": "annual baseflow index",
+      "label": "variable",
+      "description": "The ratio of the baseflow to the total streamflow in a given year, used as a measure of the performance of a hydrological model",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5078536846951021
+    }
+  ],
+  "(38818, 41523)": [
+    {
+      "name": "MOPEX",
+      "label": "project",
+      "description": "The Model Parameter Estimation Experiment, a research initiative focused on improving hydrologic model parameter estimation across various climate and hydrologic regimes",
+      "uuid": "0bc41cf0-cf0e-4122-be92-a24ac8ba6012",
+      "score": 0.5181390478596601
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse climate and hydrologic conditions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7021928708648933
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "A drainage basin or area of land where precipitation collects and drains off into a common outlet",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5945468503255764
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6660531500710053
+    },
+    {
+      "name": "land surface albedo",
+      "label": "variable",
+      "description": "A measure of the amount of sunlight that is reflected by the Earth's surface",
+      "uuid": "5395e33c-02cb-4027-b425-e771eab13610",
+      "score": 0.7783078767826509
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6823892347383033
+    },
+    {
+      "name": "long and short wave downward radiation",
+      "label": "variable",
+      "description": "The amount of solar radiation that reaches the Earth's surface",
+      "uuid": "e1af236f-ee88-4b10-8feb-70d9e09f90be",
+      "score": 0.6550411923495326
+    },
+    {
+      "name": "atmospheric pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.737038001744855
+    },
+    {
+      "name": "actual vapor pressure",
+      "label": "variable",
+      "description": "The pressure exerted by water vapor in the air",
+      "uuid": "433ea253-243d-42e4-bc61-f85eb7a73879",
+      "score": 0.6034618033209526
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The speed at which air is moving",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6896391353695374
+    },
+    {
+      "name": "mean annual potential evapotranspiration",
+      "label": "variable",
+      "description": "The average amount of water that could evaporate from the Earth's surface over the course of a year",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.5959474448936507
+    },
+    {
+      "name": "total soil porosity",
+      "label": "variable",
+      "description": "The amount of space within the soil that can hold water",
+      "uuid": "4b604ba3-39d8-46bd-9d33-6b44c7a316c2",
+      "score": 0.6438604080557984
+    },
+    {
+      "name": "vegetation type",
+      "label": "variable",
+      "description": "The type of plants that grow in a particular area",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.5767350995787643
+    },
+    {
+      "name": "NLDAS",
+      "label": "project",
+      "description": "The North American Land Data Assimilation System, a research initiative focused on improving land surface modeling",
+      "uuid": "cb29cf9f-d283-475c-b627-11cf92321e82",
+      "score": 0.791414866981192
+    },
+    {
+      "name": "USDA",
+      "label": "provider",
+      "description": "The United States Department of Agriculture, an organization that provides information on soil types",
+      "uuid": "90bb0b25-358d-4f12-afca-fc54e99379ff",
+      "score": 0.6621172149483073
+    }
+  ],
+  "(41044, 43931)": [
+    {
+      "name": "USDA",
+      "label": "provider",
+      "description": "The United States Department of Agriculture, a government agency responsible for promoting agriculture, natural resources, and related issues",
+      "uuid": "90bb0b25-358d-4f12-afca-fc54e99379ff",
+      "score": 0.7331326739750198
+    },
+    {
+      "name": "University of Maryland",
+      "label": "provider",
+      "description": "An academic institution that offers various programs in fields such as agriculture, natural resources, and environmental science",
+      "uuid": "947f7d9e-7dd2-4a5b-b29e-af6f98a3dd1a",
+      "score": 0.5152799387534442
+    },
+    {
+      "name": "North American Land Data Assimilation System",
+      "label": "project",
+      "description": "A research project that aims to develop and improve land data assimilation systems for North America",
+      "uuid": "cb29cf9f-d283-475c-b627-11cf92321e82",
+      "score": 0.6678579799382465
+    },
+    {
+      "name": "Texas",
+      "label": "location",
+      "description": "A state in the United States known for its diverse climate and geography",
+      "uuid": "0f01d3b9-3691-471e-b21b-3f42c512dcd2",
+      "score": 0.6395791660909441
+    },
+    {
+      "name": "Louisiana",
+      "label": "location",
+      "description": "A state in the United States known for its unique cultural and geographical features",
+      "uuid": "73c5d3e9-29f6-4352-a3db-1bc49bbff315",
+      "score": 0.6046401482590025
+    },
+    {
+      "name": "Maryland",
+      "label": "location",
+      "description": "A state in the United States known for its historical significance and diverse geography",
+      "uuid": "417c01a8-79c5-40e6-affc-8a462b0b4336",
+      "score": 0.6863841289197036
+    },
+    {
+      "name": "total soil porosity",
+      "label": "variable",
+      "description": "A measure of the total amount of pore space in soil, which affects its ability to retain water",
+      "uuid": "4b604ba3-39d8-46bd-9d33-6b44c7a316c2",
+      "score": 0.6778812642975675
+    },
+    {
+      "name": "vegetation type",
+      "label": "variable",
+      "description": "A classification of different types of vegetation, which can affect hydrological processes",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5787616361580338
+    },
+    {
+      "name": "vegetation height",
+      "label": "variable",
+      "description": "A measure of the height of vegetation, which can affect hydrological processes",
+      "uuid": "42eb8baf-edbd-4791-8114-ca898ce5890f",
+      "score": 0.6796688517529595
+    },
+    {
+      "name": "root zone depth",
+      "label": "variable",
+      "description": "A measure of the depth of the root zone, which affects the ability of plants to absorb water",
+      "uuid": "4353d710-3d65-44b3-b988-26af1415646a",
+      "score": 0.5396675715892879
+    },
+    {
+      "name": "baseflow",
+      "label": "variable",
+      "description": "The portion of streamflow that is generated from groundwater, rather than from surface runoff",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.7151880632026817
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, which can be affected by various hydrological processes",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5580279398642827
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground, which affects hydrological processes",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6473982540907156
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the air, which affects hydrological processes",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6928350540610565
+    }
+  ],
+  "(43456, 46613)": [
+    {
+      "name": "Texas",
+      "label": "location",
+      "description": "A state in the United States known for its diverse climate and geography, including water-limited catchments",
+      "uuid": "0f01d3b9-3691-471e-b21b-3f42c512dcd2",
+      "score": 0.6060329077105246
+    },
+    {
+      "name": "Louisiana",
+      "label": "location",
+      "description": "A state in the United States known for its wet climate and geography, including energy-limited catchments",
+      "uuid": "73c5d3e9-29f6-4352-a3db-1bc49bbff315",
+      "score": 0.6254406186242305
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that falls to the ground, an important input for hydrologic modeling",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6250112841502672
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the air, an important component of the water cycle",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6879887978079204
+    },
+    {
+      "name": "discharge",
+      "label": "variable",
+      "description": "The amount of water flowing out of a catchment, often used as an output for hydrologic modeling",
+      "uuid": "0976b778-91be-40e7-9ed7-ebbf214bb818",
+      "score": 0.6501393284068461
+    },
+    {
+      "name": "model",
+      "label": "model",
+      "description": "A computational representation of hydrologic processes, used to simulate and predict water flow and other hydrologic variables",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5572573564221676
+    },
+    {
+      "name": "catchment characteristics",
+      "label": "variable",
+      "description": "Properties of a catchment, such as drainage area, mean catchment slope, and mean channel slope, used as inputs for hydrologic modeling",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5710118026503692
+    },
+    {
+      "name": "drainage area",
+      "label": "variable",
+      "description": "The area of land that drains water into a particular catchment or waterbody",
+      "uuid": "272700c5-d762-452b-8e9f-130e3a51efb5",
+      "score": 0.5779643624460135
+    },
+    {
+      "name": "Total porosity",
+      "label": "variable",
+      "description": "A measure of the amount of pore space within a soil or rock, which can affect hydrologic processes such as infiltration and groundwater flow",
+      "uuid": "4b604ba3-39d8-46bd-9d33-6b44c7a316c2",
+      "score": 0.6906038137516526
+    },
+    {
+      "name": "minimum and maximum LAI",
+      "label": "variable",
+      "description": "The minimum and maximum values of the Leaf Area Index, a measure of the amount of leaf cover within a catchment",
+      "uuid": "c297fda0-848a-4a9b-85be-86f29c92f212",
+      "score": 0.6263778247756399
+    },
+    {
+      "name": "root zone",
+      "label": "location",
+      "description": "The area of soil where plant roots are active, which can affect hydrologic processes such as water uptake and nutrient cycling",
+      "uuid": "4353d710-3d65-44b3-b988-26af1415646a",
+      "score": 0.5771523067959314
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plants and other organisms that grow within a catchment, which can affect hydrologic processes such as evapotranspiration and soil erosion",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.52868672295851
+    }
+  ],
+  "(46075, 49341)": [
+    {
+      "name": "minimum and maximum LAI",
+      "label": "variable",
+      "description": "Measurements of the minimum and maximum Leaf Area Index, a parameter used to describe the amount of vegetation cover in a given area",
+      "uuid": "c297fda0-848a-4a9b-85be-86f29c92f212",
+      "score": 0.6758291168575582
+    },
+    {
+      "name": "soil parameters",
+      "label": "variable",
+      "description": "Properties of the soil, such as texture, structure, and hydraulic conductivity, that influence water movement and storage in the catchment",
+      "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
+      "score": 0.5286991242404928
+    },
+    {
+      "name": "hydraulic conductivity",
+      "label": "variable",
+      "description": "A measure of the ease with which water can flow through the soil, influencing the rate of infiltration and runoff",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.7494088247757534
+    },
+    {
+      "name": "vegetation height",
+      "label": "variable",
+      "description": "The height of vegetation in a given area, which can affect evapotranspiration, runoff, and other hydrologic processes",
+      "uuid": "42eb8baf-edbd-4791-8114-ca898ce5890f",
+      "score": 0.6654376244668258
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The maximum amount of water that can evaporate from a surface, influenced by factors such as temperature, humidity, and wind speed",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7135395618546929
+    },
+    {
+      "name": "baseflow index",
+      "label": "variable",
+      "description": "A measure of the proportion of baseflow in a stream's discharge, which can indicate the presence of groundwater or other slow-flowing water sources",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6157995887238628
+    },
+    {
+      "name": "saturated hydraulic conductivity",
+      "label": "variable",
+      "description": "The maximum rate at which water can flow through a saturated soil, influencing the rate of infiltration and runoff",
+      "uuid": "8f499d5b-1aae-46d5-87c5-bbb0f9cf6947",
+      "score": 0.7176242738462195
+    },
+    {
+      "name": "catchment characteristics",
+      "label": "variable",
+      "description": "Properties of a catchment, such as topography, geology, and land cover, that influence hydrologic processes",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5870076183151978
+    },
+    {
+      "name": "drainage",
+      "label": "variable",
+      "description": "The process by which water flows out of a catchment, influenced by factors such as topography, soil properties, and vegetation cover",
+      "uuid": "269c7277-fa8f-4c1c-bd8b-ab772c1df4e5",
+      "score": 0.6740033883484124
+    },
+    {
+      "name": "transpiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the air, influencing the water balance of a catchment",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.5864556736778596
+    },
+    {
+      "name": "actual evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that is actually lost to the atmosphere through evapotranspiration, influenced by factors such as temperature, humidity, and vegetation cover",
+      "uuid": "f28060e0-1c51-41df-8451-6c98b3e77e8a",
+      "score": 0.5936734299376389
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "The steepness of a catchment's terrain, which can influence runoff, erosion, and other hydrologic processes",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.615375874302511
+    },
+    {
+      "name": "runoff coefficient",
+      "label": "variable",
+      "description": "A measure of the proportion of rainfall that becomes runoff, influenced by factors such as soil properties, vegetation cover, and topography",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5415140060781162
+    }
+  ],
+  "(48822, 51650)": [
+    {
+      "name": "transpiration",
+      "label": "variable",
+      "description": "The process by which water is transported through a plant, from the roots to the atmosphere",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.5792764549208322
+    },
+    {
+      "name": "drainage",
+      "label": "variable",
+      "description": "The flow of water through the soil and into streams, rivers, and lakes",
+      "uuid": "269c7277-fa8f-4c1c-bd8b-ab772c1df4e5",
+      "score": 0.6561328185461045
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, often caused by heavy rainfall or melting snow",
+      "uuid": "c6cef513-7c32-4b3a-beed-f09dd790933b",
+      "score": 0.6293168496481524
+    },
+    {
+      "name": "potential evaporation",
+      "label": "variable",
+      "description": "The maximum amount of water that can evaporate from a surface, often used to estimate water loss from a catchment",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7111901492854505
+    },
+    {
+      "name": "baseflow index",
+      "label": "variable",
+      "description": "A measure of the proportion of streamflow that comes from groundwater, often used to characterize catchment hydrology",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6189159866807717
+    },
+    {
+      "name": "actual evapotranspiration",
+      "label": "variable",
+      "description": "The actual amount of water that is lost through evaporation and transpiration, often used to estimate water balance",
+      "uuid": "f28060e0-1c51-41df-8451-6c98b3e77e8a",
+      "score": 0.5652652177984253
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "The rate of change of elevation, often used to characterize catchment topography",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.5833533956127873
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, often used to study hydrology and water balance",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5721421231543147
+    },
+    {
+      "name": "aridity index",
+      "label": "variable",
+      "description": "A measure of the dryness of a region, often used to characterize climate and hydrology",
+      "uuid": "cdd7a31f-3244-494d-bc44-7b5f1ebb4bd7",
+      "score": 0.5421464303786555
+    },
+    {
+      "name": "PET",
+      "label": "variable",
+      "description": "The potential evapotranspiration, often used to estimate water loss from a catchment",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6566463076979515
+    }
+  ],
+  "(51213, 54107)": [
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life in a given area, influencing hydrologic processes through factors like evapotranspiration and soil moisture retention",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6316196640655463
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Atmospheric conditions that affect the environment, including temperature, precipitation, and potential evapotranspiration",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6539594442505745
+    },
+    {
+      "name": "baseflow index",
+      "label": "variable",
+      "description": "A measure of the proportion of streamflow that comes from groundwater, indicating the contribution of subsurface water to river flow",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6172031120694905
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "The rate of change of elevation in a catchment, influencing runoff, erosion, and water flow",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.5928981753685946
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that could be evaporated from the soil and plants if there were sufficient water available, a key factor in hydrologic and climate studies",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7456124287995664
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river or lake, often studied in hydrology to understand water flow and quality",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5764194154715571
+    },
+    {
+      "name": "root zone",
+      "label": "location",
+      "description": "The area of soil where plant roots are active, influencing water uptake and nutrient cycling",
+      "uuid": "4353d710-3d65-44b3-b988-26af1415646a",
+      "score": 0.5678840963205497
+    }
+  ],
+  "(53610, 56810)": [
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant life in a given area, influencing local climate, hydrology, and ecosystems",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6308397639025629
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Quantities used to describe and analyze climate phenomena, such as temperature, precipitation, and evapotranspiration",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6752539953466252
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that could be evaporated and transpired by plants if soil moisture were not limited, an important factor in hydrologic and climate studies",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7405852298018722
+    },
+    {
+      "name": "catchment models",
+      "label": "model",
+      "description": "Computational representations of the hydrologic processes within a catchment, used to simulate and predict water flow and storage",
+      "uuid": "09ef7548-5e64-4296-8129-0ab625e15721",
+      "score": 0.5759571006234601
+    },
+    {
+      "name": "subsurface",
+      "label": "location",
+      "description": "The area below the Earth's surface, including soil, rock, and groundwater, which plays a crucial role in hydrologic and climate processes",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.5977796780217278
+    },
+    {
+      "name": "Texas",
+      "label": "location",
+      "description": "A state in the southern United States, known for its diverse climate and geography",
+      "uuid": "0f01d3b9-3691-471e-b21b-3f42c512dcd2",
+      "score": 0.6444378558547984
+    },
+    {
+      "name": "Missouri",
+      "label": "location",
+      "description": "A state in the Midwestern United States, characterized by a temperate climate with cold winters and hot summers",
+      "uuid": "c42c3695-f569-40f4-8330-9b6fde553abf",
+      "score": 0.6409364281254044
+    },
+    {
+      "name": "West Virginia",
+      "label": "location",
+      "description": "A state in the eastern United States, known for its mountainous terrain and varied climate",
+      "uuid": "5f5917c3-7225-47d1-b465-03d7b8338060",
+      "score": 0.7031349027056076
+    }
+  ],
+  "(56279, 59487)": [
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river or lake, often studied in hydrology to understand water flow and quality",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5764194154715571
+    },
+    {
+      "name": "climate forcing",
+      "label": "variable",
+      "description": "The influence of climate patterns, such as temperature and precipitation, on the hydrologic cycle and catchment behavior",
+      "uuid": "dc3f297b-8471-4101-b70e-dc5765762061",
+      "score": 0.534443579256948
+    },
+    {
+      "name": "canopy storage",
+      "label": "variable",
+      "description": "The amount of water stored in the vegetation canopy of a catchment, affecting the hydrologic response to precipitation",
+      "uuid": "f4d51926-427d-45ee-a6c3-ece717572849",
+      "score": 0.5611439767538097
+    },
+    {
+      "name": "belowground storage",
+      "label": "variable",
+      "description": "The amount of water stored in the soil and aquifers of a catchment, influencing the hydrologic response to precipitation and evapotranspiration",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5357112364063779
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that could be evaporated from the surface of a catchment if there were no limitations on water availability, an important factor in hydrologic modeling",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7133898856475561
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, a key input to hydrologic models and a factor influencing catchment behavior",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6221787311185343
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "The degree of heat or cold in a catchment, affecting the hydrologic cycle and the behavior of water in the environment",
+      "uuid": "61594015-4ab4-4b38-ae4f-e31a4757b065",
+      "score": 0.5847673296788561
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, a key output of hydrologic models and an important factor in understanding catchment behavior",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5594742245506592
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The layer of unconsolidated mineral and organic material on the surface of the Earth, influencing the hydrologic behavior of a catchment",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.574654824385546
+    },
+    {
+      "name": "aquifers",
+      "label": "variable",
+      "description": "Layers of permeable rock or soil that store and transmit large amounts of water, playing a crucial role in the hydrologic cycle and catchment behavior",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.6698315170537473
+    },
+    {
+      "name": "geomorphology",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, influencing the hydrologic behavior of a catchment",
+      "uuid": "d35b9ba5-d018-48a5-8f0d-92b9c55b3279",
+      "score": 0.5837807501817354
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plants and flora that cover the surface of a catchment, affecting the hydrologic cycle and the behavior of water in the environment",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5736504075750591
+    }
+  ],
+  "(58914, 61892)": [
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a river or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5485997297582526
+    },
+    {
+      "name": "eastern US",
+      "label": "location",
+      "description": "A region in the United States characterized by diverse climate and geography",
+      "uuid": "c23966c4-9e16-484c-a1ef-efcd2354d71c",
+      "score": 0.5215410402732794
+    },
+    {
+      "name": "climate gradient",
+      "label": "variable",
+      "description": "A gradual change in climate conditions over a geographic area",
+      "uuid": "99d567bb-7767-4ea4-a135-a611eac6a669",
+      "score": 0.5083875377288675
+    },
+    {
+      "name": "hydrologic signatures",
+      "label": "variable",
+      "description": "Quantitative measures of hydrologic behavior, such as runoff coefficient, baseflow index, and slope of the flow duration curve",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.5112931794332296
+    },
+    {
+      "name": "runoff coefficient",
+      "label": "variable",
+      "description": "A measure of the proportion of rainfall that becomes runoff",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5190794032782426
+    },
+    {
+      "name": "baseflow index",
+      "label": "variable",
+      "description": "A measure of the proportion of streamflow that is derived from groundwater",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6029433738892377
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life in a catchment, influencing hydrologic responses through evapotranspiration and soil properties",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5928355275898167
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, playing a crucial role in hydrologic processes through infiltration, storage, and release of water",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.5710354454947084
+    },
+    {
+      "name": "aquifers",
+      "label": "location",
+      "description": "Underground layers of permeable rock or soil that store and transmit large amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.6670615715816046
+    },
+    {
+      "name": "geomorphology",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, influencing hydrologic responses through topography and drainage patterns",
+      "uuid": "d35b9ba5-d018-48a5-8f0d-92b9c55b3279",
+      "score": 0.5906865840116495
+    },
+    {
+      "name": "tectonics",
+      "label": "variable",
+      "description": "The study of the Earth's crust and its processes, influencing hydrologic responses through geologic and geomorphic changes",
+      "uuid": "1e17c8d3-81d0-473c-8f24-d2a4ea52b6b9",
+      "score": 0.6568362147481148
+    },
+    {
+      "name": "conductivity",
+      "label": "variable",
+      "description": "A measure of the ability of a material to conduct heat or electricity, in this case, related to soil properties",
+      "uuid": "781bf38b-2797-4415-8d5a-67e9f3a2f5fe",
+      "score": 0.6703349272855643
+    },
+    {
+      "name": "geology",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes, influencing hydrologic responses through underlying rock and soil properties",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.6001558095639142
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "The angle of inclination of a surface, influencing hydrologic responses through runoff and erosion patterns",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.6084178952945777
+    },
+    {
+      "name": "annual",
+      "label": "variable",
+      "description": "A time scale of one year, used to analyze hydrologic responses",
+      "uuid": "40e09855-fb48-4a7d-9851-d6e809e6c309",
+      "score": 0.6260835519386255
+    },
+    {
+      "name": "seasonal",
+      "label": "variable",
+      "description": "A time scale of a season, used to analyze hydrologic responses",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.6180584119393671
+    },
+    {
+      "name": "daily",
+      "label": "variable",
+      "description": "A time scale of one day, used to analyze hydrologic responses",
+      "uuid": "1ac968ef-a90a-4ffc-adbf-ea0c0d69a7f9",
+      "score": 0.5876380678779346
+    }
+  ],
+  "(61643, 61892)": [
+    {
+      "name": "hydrologic response",
+      "label": "variable",
+      "description": "The reaction of a hydrologic system to changes in climate, land use, or other external factors",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.50041706353065
+    }
+  ]
+}

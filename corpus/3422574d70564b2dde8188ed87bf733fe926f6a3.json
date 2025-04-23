@@ -1,0 +1,982 @@
+{
+  "(0, 3030)": [
+    {
+      "name": "North Atlantic Oscillation",
+      "label": "teleconnection",
+      "description": "The dominant mode of atmospheric variability in the Atlantic domain, influencing winter weather and climate in Europe and North America",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.7519454917822754
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico, known for its diverse climate and geography",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7345153368843953
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising many countries, known for its diverse climate and geography",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7121175915229947
+    },
+    {
+      "name": "sea-ice concentration",
+      "label": "variable",
+      "description": "The amount of sea ice present in a given area, often used as an indicator of climate change",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.803598171914157
+    },
+    {
+      "name": "sea-surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, influencing climate and weather patterns",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.78319340572208
+    },
+    {
+      "name": "Arctic Oscillation",
+      "label": "teleconnection",
+      "description": "A climate pattern characterized by fluctuations in the atmospheric pressure difference between the Arctic and mid-latitudes, influencing weather and climate patterns",
+      "uuid": "98e5a7e4-b946-474a-8214-c1b7b3e5f976",
+      "score": 0.7691269183644919
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A continent comprising Europe and Asia, known for its diverse climate and geography",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.7376082357899018
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used as an indicator of climate and weather patterns",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6779109729834796
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, influencing climate and weather patterns",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6947972491402649
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7036570460955207
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "An overflow of water that submerges land and can cause damage to ecosystems, infrastructure, and human societies",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6795183187663236
+    }
+  ],
+  "(2555, 5247)": [
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a climate pattern that affects the atmospheric pressure difference between the Icelandic Low and the Azores High, influencing weather and climate in the North Atlantic region",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.8027707891422409
+    },
+    {
+      "name": "SIC",
+      "label": "variable",
+      "description": "Sea ice concentration, a measure of the percentage of sea surface covered by ice, which impacts ocean-atmosphere interactions and climate patterns",
+      "uuid": "9cafcf3d-f9da-4ed6-baf4-81e315d0fd91",
+      "score": 0.7323325499834059
+    },
+    {
+      "name": "synoptic scale eddies",
+      "label": "weather event",
+      "description": "Small-scale, short-lived weather phenomena that can influence larger-scale climate patterns",
+      "uuid": "160c0b4d-6c03-4576-a4ea-f743a3a69d13",
+      "score": 0.5447296159882937
+    },
+    {
+      "name": "planetary scale waves",
+      "label": "ocean circulation",
+      "description": "Large-scale waves that propagate through the atmosphere or oceans, influencing global climate patterns",
+      "uuid": "41764af0-1264-4adb-881d-44991489344c",
+      "score": 0.6883203249526678
+    },
+    {
+      "name": "UKMO",
+      "label": "provider",
+      "description": "The United Kingdom Meteorological Office, a national weather service that provides forecasts, warnings, and climate research",
+      "uuid": "9b0e49df-3b50-4cfa-8ea1-0206dfd05f9b",
+      "score": 0.5283686395440009
+    },
+    {
+      "name": "Atlantic",
+      "label": "location",
+      "description": "The Atlantic Ocean, a major ocean that plays a significant role in global climate patterns and ocean-atmosphere interactions",
+      "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+      "score": 0.714342008415781
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "The El Ni\u00f1o-Southern Oscillation, a climate pattern that affects the tropical Pacific Ocean and has significant impacts on global climate patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7931188135394021
+    },
+    {
+      "name": "QBO",
+      "label": "teleconnection",
+      "description": "The quasi-biennial oscillation, a climate pattern that affects the stratospheric winds and has significant impacts on global climate patterns",
+      "uuid": "ea64fa04-2822-4cc5-9014-f18ce1a1ef23",
+      "score": 0.6599126541737999
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The Arctic region, a polar region that plays a significant role in global climate patterns and ocean-atmosphere interactions",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.717993532769074
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea surface temperature, a measure of the temperature of the ocean surface, which impacts ocean-atmosphere interactions and climate patterns",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7096311864884095
+    }
+  ],
+  "(4771, 7404)": [
+    {
+      "name": "AO/NAO",
+      "label": "teleconnection",
+      "description": "A large-scale climate pattern characterized by fluctuations in atmospheric pressure over the Arctic and North Atlantic Oceans, influencing regional climate variability",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.7214976394012489
+    },
+    {
+      "name": "Atlantic SST",
+      "label": "variable",
+      "description": "The sea surface temperature of the Atlantic Ocean, an important factor in climate variability and prediction",
+      "uuid": "ca418285-d1f2-4348-82e4-7fc59f8b60c8",
+      "score": 0.6433952768575647
+    },
+    {
+      "name": "Arctic sea ice",
+      "label": "variable",
+      "description": "The extent and thickness of ice in the Arctic Ocean, affecting global climate patterns and ocean circulation",
+      "uuid": "fe2719de-c5c8-4ce6-8230-1d16c8155991",
+      "score": 0.6414681652279668
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a climate phenomenon characterized by fluctuations in ocean temperatures and atmospheric pressure in the Pacific, impacting global climate patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.8202112488061081
+    },
+    {
+      "name": "QBO",
+      "label": "variable",
+      "description": "Quasi-Biennial Oscillation, a periodic fluctuation in the atmospheric circulation of the equatorial stratosphere, influencing climate variability",
+      "uuid": "ea64fa04-2822-4cc5-9014-f18ce1a1ef23",
+      "score": 0.70226374632089
+    },
+    {
+      "name": "Eurasian snow extent",
+      "label": "variable",
+      "description": "The area covered by snow in Eurasia, affecting climate patterns through its impact on atmospheric circulation and temperature",
+      "uuid": "350fb2da-c713-497e-9d7d-42dcad0df83f",
+      "score": 0.5012435034344357
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of atmospheric moisture",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7505341060896782
+    },
+    {
+      "name": "NH",
+      "label": "location",
+      "description": "The Northern Hemisphere, one of the two hemispheres of the Earth, extending from the equator to the North Pole",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.676035376733579
+    },
+    {
+      "name": "NAO forecast model",
+      "label": "model",
+      "description": "A statistical or dynamical model used to predict the North Atlantic Oscillation, a climate pattern influencing regional weather and climate",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.6114277558346338
+    },
+    {
+      "name": "DJF-mean NAO",
+      "label": "variable",
+      "description": "The average value of the North Atlantic Oscillation during the winter months (December, January, and February), used as a metric for climate variability and prediction",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.6057019136667402
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, the temperature of the surface of the ocean, an important factor in climate variability and prediction",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6941173984666227
+    },
+    {
+      "name": "SIC",
+      "label": "variable",
+      "description": "Sea Ice Concentration, the percentage of sea surface covered by ice, affecting global climate patterns and ocean circulation",
+      "uuid": "9cafcf3d-f9da-4ed6-baf4-81e315d0fd91",
+      "score": 0.7306655097565998
+    },
+    {
+      "name": "70 hPa geopotential height",
+      "label": "variable",
+      "description": "The height of the 70 hectopascal pressure surface in the atmosphere, used as a metric for atmospheric circulation and climate variability",
+      "uuid": "2f2aae83-ea68-4f78-b1a2-ab00db7db5fd",
+      "score": 0.6284519424751186
+    }
+  ],
+  "(6972, 9395)": [
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a large-scale climate pattern that affects weather and climate variability across the North Atlantic region",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.780103185667598
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, a measure of the temperature of the ocean's surface, important for understanding climate and weather patterns",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6982907765068722
+    },
+    {
+      "name": "SIC",
+      "label": "variable",
+      "description": "Sea Ice Concentration, a measure of the amount of sea ice in a given area, influencing climate and ocean circulation",
+      "uuid": "9cafcf3d-f9da-4ed6-baf4-81e315d0fd91",
+      "score": 0.7325178196728398
+    },
+    {
+      "name": "Z70 hPa",
+      "label": "variable",
+      "description": "The geopotential height at 70 hPa, a measure of atmospheric pressure and height at a specific altitude, used in climate and weather forecasting",
+      "uuid": "2f2aae83-ea68-4f78-b1a2-ab00db7db5fd",
+      "score": 0.6729244452183638
+    },
+    {
+      "name": "EOF",
+      "label": "model",
+      "description": "Empirical Orthogonal Function, a statistical method used to identify patterns and trends in data",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5171506136683007
+    },
+    {
+      "name": "UKMO",
+      "label": "provider",
+      "description": "The United Kingdom Meteorological Office, a national weather service providing weather forecasts, warnings, and climate research",
+      "uuid": "a2e701d9-65e4-495c-b478-95b7d6a70ef8",
+      "score": 0.5344023679103466
+    },
+    {
+      "name": "GloSea5",
+      "label": "model",
+      "description": "A global climate model used for seasonal forecasting and climate prediction",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5304669009732053
+    }
+  ],
+  "(8983, 11502)": [
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a large-scale climate pattern that affects weather and climate variability across the North Atlantic region",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.780103185667598
+    },
+    {
+      "name": "MLR",
+      "label": "model",
+      "description": "The multiple linear regression model, used to predict the NAO index based on selected predictors",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.5296147831681804
+    },
+    {
+      "name": "EOF",
+      "label": "model",
+      "description": "The Empirical Orthogonal Function model, used to identify dominant patterns in climate data",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5307606220267163
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "The sea surface temperature, an important variable in climate studies",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6727648840197885
+    },
+    {
+      "name": "SIC",
+      "label": "variable",
+      "description": "The sea ice concentration, an important variable in climate studies",
+      "uuid": "9cafcf3d-f9da-4ed6-baf4-81e315d0fd91",
+      "score": 0.7346467620665897
+    },
+    {
+      "name": "Z70 hPa",
+      "label": "variable",
+      "description": "The geopotential height at 70 hPa, a variable used to study the lower stratosphere polar vortex",
+      "uuid": "2f2aae83-ea68-4f78-b1a2-ab00db7db5fd",
+      "score": 0.6597682979789437
+    },
+    {
+      "name": "Arctic sea ice",
+      "label": "location",
+      "description": "The sea ice in the Arctic region, an important component of the Earth's climate system",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.6252010563874414
+    },
+    {
+      "name": "Barents and Kara Seas",
+      "label": "location",
+      "description": "A region in the Arctic Ocean, known for its significance in climate variability and sea ice formation",
+      "uuid": "ff04d3c5-d89a-436a-ae78-c6bb7a2320b0",
+      "score": 0.6705704563452592
+    },
+    {
+      "name": "Northern Canada",
+      "label": "location",
+      "description": "A region in Canada, known for its cold climate and influence on the polar vortex",
+      "uuid": "cbd0d3aa-ef63-4920-bd0d-75ca27cf6066",
+      "score": 0.5198788815414309
+    },
+    {
+      "name": "Norwegian Sea",
+      "label": "location",
+      "description": "A region in the North Atlantic Ocean, known for its significance in climate variability and ocean currents",
+      "uuid": "d366e721-8a65-478c-a84a-b2101a417416",
+      "score": 0.7942159523532074
+    },
+    {
+      "name": "Laptev Sea",
+      "label": "location",
+      "description": "A region in the Arctic Ocean, known for its significance in climate variability and sea ice formation",
+      "uuid": "02b54a09-ce2b-4d08-a2a3-a45ccd049b30",
+      "score": 0.5734254133985955
+    },
+    {
+      "name": "Pacific",
+      "label": "location",
+      "description": "The largest of the world's five oceans, known for its influence on global climate patterns",
+      "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+      "score": 0.7385746041193134
+    },
+    {
+      "name": "Atlantic",
+      "label": "location",
+      "description": "The second-largest of the world's five oceans, known for its influence on global climate patterns",
+      "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+      "score": 0.6709509585262503
+    }
+  ],
+  "(11052, 13814)": [
+    {
+      "name": "Atlantic Ocean",
+      "label": "location",
+      "description": "The second-largest of the world's five oceans, playing a significant role in global climate regulation and ocean circulation>",
+      "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+      "score": 0.7371431991063714
+    },
+    {
+      "name": "sea surface",
+      "label": "location",
+      "description": "The uppermost layer of the ocean, where it meets the atmosphere, influencing weather and climate patterns>",
+      "uuid": "5810d615-a3fc-4f79-947a-bae456b728c2",
+      "score": 0.7031880521879545
+    },
+    {
+      "name": "Z70 hPa",
+      "label": "variable",
+      "description": "A measure of atmospheric pressure at an altitude of 70 hPa, used in climate and weather studies>",
+      "uuid": "2f2aae83-ea68-4f78-b1a2-ab00db7db5fd",
+      "score": 0.5786328247131038
+    },
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a climate phenomenon characterized by fluctuations in atmospheric pressure between the Icelandic Low and the Azores High>",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.8128771441664497
+    },
+    {
+      "name": "atmospheric circulation",
+      "label": "ocean circulation",
+      "description": "The movement of air in the atmosphere, driven by differences in temperature and pressure, influencing weather and climate>",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.506025212038064
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where weather and climate phenomena occur>",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6186949691826048
+    },
+    {
+      "name": "Z70 hPa EOF2",
+      "label": "variable",
+      "description": "The second empirical orthogonal function of Z70 hPa, representing a pattern of atmospheric variability>",
+      "uuid": "2f2aae83-ea68-4f78-b1a2-ab00db7db5fd",
+      "score": 0.503130503691824
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "The El Ni\u00f1o-Southern Oscillation, a periodic climate phenomenon characterized by fluctuations in sea surface temperatures in the Pacific Ocean>",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7816758056611727
+    },
+    {
+      "name": "atmospheric circulation response",
+      "label": "experiment",
+      "description": "A study or simulation of how atmospheric circulation patterns respond to changes in climate or weather conditions>",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.5247013555387079
+    },
+    {
+      "name": "Arctic sea ice",
+      "label": "location",
+      "description": "The sea ice covering the Arctic Ocean, playing a crucial role in global climate regulation>",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.6582430180738278
+    },
+    {
+      "name": "NAO-like anomaly",
+      "label": "weather event",
+      "description": "A weather pattern that resembles the North Atlantic Oscillation, influencing climate and weather conditions>",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.6074656932116265
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a significant role in global climate regulation>",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.736478743117515
+    }
+  ],
+  "(13360, 15954)": [
+    {
+      "name": "Atlantic Ocean",
+      "label": "location",
+      "description": "The second-largest of the world's five oceans, located between the Americas, Europe, and Africa",
+      "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+      "score": 0.7436861329564816
+    },
+    {
+      "name": "sea surface",
+      "label": "location",
+      "description": "The top layer of the ocean, where the atmosphere and ocean meet, playing a crucial role in global climate regulation",
+      "uuid": "5810d615-a3fc-4f79-947a-bae456b728c2",
+      "score": 0.6959838183518509
+    },
+    {
+      "name": "Pacific SST",
+      "label": "variable",
+      "description": "The sea surface temperature in the Pacific Ocean, an important factor influencing global climate patterns and weather events",
+      "uuid": "01b96758-13f3-4cea-8447-decae36b1bde",
+      "score": 0.6366028973401495
+    },
+    {
+      "name": "Z70 hPa",
+      "label": "variable",
+      "description": "A measure of atmospheric pressure at an altitude of approximately 18 km, used to study atmospheric circulation and climate patterns",
+      "uuid": "2f2aae83-ea68-4f78-b1a2-ab00db7db5fd",
+      "score": 0.572349776560675
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "A vast body of saltwater that covers over 70% of the Earth's surface, playing a central role in the Earth's climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7186547889085086
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, essential for regulating the planet's climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6339015790641244
+    },
+    {
+      "name": "Norwegian Sea",
+      "label": "location",
+      "description": "A part of the North Atlantic Ocean, located off the coast of Norway, known for its unique oceanographic features and climate significance",
+      "uuid": "91dd3935-a1ae-48ca-b263-9b10ac732372",
+      "score": 0.8222924637356939
+    },
+    {
+      "name": "storm track",
+      "label": "weather event",
+      "description": "A region in the atmosphere where storms and low-pressure systems tend to form and move, influencing regional climate and weather patterns",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.630560409203684
+    },
+    {
+      "name": "sea ice effect",
+      "label": "variable",
+      "description": "The influence of sea ice on the Earth's climate system, including its impact on ocean currents, atmospheric circulation, and global temperature regulation",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.6335180846872782
+    },
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a climate phenomenon characterized by fluctuations in atmospheric pressure between the Icelandic Low and the Azores High",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.8120475049935475
+    },
+    {
+      "name": "MLR model",
+      "label": "model",
+      "description": "A statistical model used for predicting and analyzing the relationships between variables, in this case, the North Atlantic Oscillation",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.5207197705827763
+    },
+    {
+      "name": "Northern Annular Mode",
+      "label": "teleconnection",
+      "description": "A climate pattern characterized by fluctuations in atmospheric pressure between the polar regions and the mid-latitudes",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.5190371856511886
+    }
+  ],
+  "(15528, 18156)": [
+    {
+      "name": "stratosphere",
+      "label": "location",
+      "description": "The layer of the atmosphere above the troposphere, extending from about 10 to 50 km altitude, where the temperature increases with height",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.7360785377805207
+    },
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a large-scale climate pattern that influences weather and climate variability across the North Atlantic region",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.785582669891068
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A continent that includes Europe and Asia, known for its diverse climate and geography",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.7279491230640162
+    },
+    {
+      "name": "sea ice anomalies",
+      "label": "variable",
+      "description": "The deviation of sea ice coverage from its long-term average, influencing climate patterns and atmospheric circulation",
+      "uuid": "0fde8353-9773-4948-b206-9c273c2100c8",
+      "score": 0.6042479239219626
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of atmospheric moisture",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7505341060896782
+    },
+    {
+      "name": "QBO",
+      "label": "ocean circulation",
+      "description": "The Quasi-Biennial Oscillation, a periodic variation in the atmospheric circulation of the tropics, influencing climate patterns and atmospheric variability",
+      "uuid": "ea64fa04-2822-4cc5-9014-f18ce1a1ef23",
+      "score": 0.6860297499750783
+    },
+    {
+      "name": "AO",
+      "label": "teleconnection",
+      "description": "The Arctic Oscillation, a large-scale climate pattern that influences weather and climate variability across the Arctic region",
+      "uuid": "98e5a7e4-b946-474a-8214-c1b7b3e5f976",
+      "score": 0.7300050654329069
+    },
+    {
+      "name": "MLR model",
+      "label": "model",
+      "description": "A multilinear regression model, used for predicting seasonal climate variability based on various atmospheric and oceanic predictors",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.5348288718743711
+    }
+  ],
+  "(17714, 20715)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "Northern Europe",
+      "label": "location",
+      "description": "A region in Europe that includes countries such as Norway, Sweden, and Denmark, known for its cold climate and winter weather patterns",
+      "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+      "score": 0.7610726469600058
+    },
+    {
+      "name": "ocean surface temperatures",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, which plays a crucial role in global climate patterns and weather phenomena",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6432711824091524
+    },
+    {
+      "name": "GPCP",
+      "label": "project",
+      "description": "The Global Precipitation Climatology Project, an initiative to create a comprehensive dataset of global precipitation",
+      "uuid": "502ea6bd-45e9-45af-9092-a4cbe6ba2e7e",
+      "score": 0.8195572489747966
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an essential component of the Earth's water cycle and climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6754386797087075
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "The world's largest island, located in the North Atlantic, known for its ice sheet and significant role in global climate regulation",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.7425503308327881
+    },
+    {
+      "name": "East Asia",
+      "label": "location",
+      "description": "A region in Asia that includes countries such as China, Japan, and Korea, known for its diverse climate and weather patterns",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.6832248170573231
+    },
+    {
+      "name": "Global Precipitation Climatology Project",
+      "label": "provider",
+      "description": "An organization that aims to create a comprehensive dataset of global precipitation, used for climate research and weather forecasting",
+      "uuid": "14ded00a-80a7-4d9d-8180-10f8f251275d",
+      "score": 0.7040833585221233
+    },
+    {
+      "name": "DJF-mean NAO index and surface climate",
+      "label": "variable",
+      "description": "A measure of the North Atlantic Oscillation and surface climate conditions, used to study and predict winter weather patterns",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.637941005126173
+    },
+    {
+      "name": "coupled ocean-atmosphere models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, and biological processes to represent and predict the Earth's climate system",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.7109256836068557
+    },
+    {
+      "name": "the winter NAO index and surface climate",
+      "label": "variable",
+      "description": "A measure of the North Atlantic Oscillation and surface climate conditions during the winter season, used to study and predict winter weather patterns",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.626867335318796
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, an essential component of the Earth's climate system and weather patterns",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6980829126308079
+    },
+    {
+      "name": "Mediterranean regions",
+      "label": "location",
+      "description": "A region in southern Europe, North Africa, and western Asia, known for its mild climate and diverse weather patterns",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.608775108244061
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "The El Ni\u00f1o-Southern Oscillation, a periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7928499620595851
+    },
+    {
+      "name": "Eurasia",
+      "label": "location",
+      "description": "A continent that includes Europe and Asia, known for its diverse climate and weather patterns",
+      "uuid": "0ad9d595-8e1d-478b-873e-5b4a112354d4",
+      "score": 0.700508994880227
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies north of the equator, known for its diverse climate and weather patterns",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7547067031959199
+    }
+  ],
+  "(20234, 22930)": [
+    {
+      "name": "NAO",
+      "label": "variable",
+      "description": "The North Atlantic Oscillation, a climate phenomenon characterized by fluctuations in atmospheric pressure between the Icelandic Low and the Azores High, influencing climate patterns in the North Atlantic region",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.8233911625504096
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "The El Ni\u00f1o-Southern Oscillation, a periodic climate phenomenon characterized by the warming or cooling of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.79235887746849
+    },
+    {
+      "name": "QBO",
+      "label": "variable",
+      "description": "The Quasi-Biennial Oscillation, a periodic fluctuation in the atmospheric circulation of the equatorial stratosphere, influencing global climate patterns",
+      "uuid": "ea64fa04-2822-4cc5-9014-f18ce1a1ef23",
+      "score": 0.6904944346601036
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "coupled ocean-atmosphere models",
+      "label": "model",
+      "description": "Computational representations of the interactions between the ocean and atmosphere, used to simulate and predict climate patterns",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.7003321566045563
+    },
+    {
+      "name": "ERA-Interim reanalysis",
+      "label": "project",
+      "description": "A reanalysis dataset providing a consistent and comprehensive record of the atmosphere, land surface, and oceans, used for climate research and model validation",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7846818654379117
+    },
+    {
+      "name": "Climate Prediction Center",
+      "label": "provider",
+      "description": "A US government agency responsible for issuing climate predictions, including forecasts of El Ni\u00f1o and La Ni\u00f1a events",
+      "uuid": "5d899ead-7134-4970-8b15-ac1d0cec867a",
+      "score": 0.6205975465440822
+    },
+    {
+      "name": "GPCP precipitation",
+      "label": "variable",
+      "description": "The Global Precipitation Climatology Project, a dataset providing global precipitation measurements, used to study climate patterns and variability",
+      "uuid": "502ea6bd-45e9-45af-9092-a4cbe6ba2e7e",
+      "score": 0.8060213700763964
+    },
+    {
+      "name": "500 hPa geopotential height anomalies",
+      "label": "variable",
+      "description": "Measurements of the height of the 500 hPa pressure level in the atmosphere, used to study atmospheric circulation patterns",
+      "uuid": "a4850560-d5e3-4db4-beb8-81fc352effc7",
+      "score": 0.7543984088898166
+    },
+    {
+      "name": "Azores Subtropical High",
+      "label": "location",
+      "description": "A semi-permanent high-pressure system located over the Azores Islands in the North Atlantic, influencing regional climate patterns",
+      "uuid": "946f1f4f-fddc-418b-8177-38ba747e0e64",
+      "score": 0.5416308750904485
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    }
+  ],
+  "(22464, 25128)": [
+    {
+      "name": "Azores Subtropical High",
+      "label": "location",
+      "description": "A semi-permanent anticyclonic high-pressure system located over the Azores Islands in the North Atlantic Ocean, influencing regional climate patterns",
+      "uuid": "946f1f4f-fddc-418b-8177-38ba747e0e64",
+      "score": 0.5608951838117555
+    },
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a large-scale climate pattern that affects the atmospheric pressure difference between the Icelandic Low and the Azores High",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.8009799002176774
+    },
+    {
+      "name": "EOF",
+      "label": "model",
+      "description": "Empirical Orthogonal Function analysis, a statistical technique used to identify and extract dominant patterns in climate data",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5639536819735413
+    },
+    {
+      "name": "Z70 hPa",
+      "label": "variable",
+      "description": "The geopotential height of the 70-hPa pressure level, used as an indicator of atmospheric circulation patterns",
+      "uuid": "2f2aae83-ea68-4f78-b1a2-ab00db7db5fd",
+      "score": 0.6469136105386232
+    },
+    {
+      "name": "SIC",
+      "label": "variable",
+      "description": "Sea Ice Concentration, a measure of the percentage of sea surface covered by ice, influencing ocean-atmosphere interactions and climate variability",
+      "uuid": "9cafcf3d-f9da-4ed6-baf4-81e315d0fd91",
+      "score": 0.7480630380423183
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, a measure of the temperature of the ocean's surface, playing a crucial role in global climate patterns and weather phenomena",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.6933524557228767
+    },
+    {
+      "name": "tropical SST variability",
+      "label": "ocean circulation",
+      "description": "Variations in sea surface temperature in the tropics, influencing global climate patterns and weather phenomena",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5699315003234097
+    },
+    {
+      "name": "North Atlantic",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located between North America and Europe, known for its influence on global ocean circulation and climate",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7960912176674992
+    }
+  ],
+  "(24712, 27405)": [
+    {
+      "name": "winter NAO",
+      "label": "variable",
+      "description": "The winter North Atlantic Oscillation, a climate pattern characterized by fluctuations in atmospheric pressure difference between the Icelandic Low and the Azores High",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.7421769688655461
+    },
+    {
+      "name": "SIC",
+      "label": "variable",
+      "description": "Sea Ice Concentration, a measure of the percentage of sea surface covered by ice",
+      "uuid": "9cafcf3d-f9da-4ed6-baf4-81e315d0fd91",
+      "score": 0.7337916481913228
+    },
+    {
+      "name": "Z70hPa",
+      "label": "variable",
+      "description": "The geopotential height at 70hPa, a measure of atmospheric pressure at a specific altitude",
+      "uuid": "2f2aae83-ea68-4f78-b1a2-ab00db7db5fd",
+      "score": 0.7011056250516808
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, a measure of the temperature of the ocean's surface",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7077439282957075
+    },
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a large-scale climate pattern characterized by fluctuations in atmospheric pressure difference between the Icelandic Low and the Azores High",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.8113121581900852
+    },
+    {
+      "name": "atmosphere-ocean-cryosphere system",
+      "label": "project",
+      "description": "A complex system that includes the atmosphere, oceans, and cryosphere, interacting to form the Earth's climate system",
+      "uuid": "fa0a36c3-2503-4662-98cd-7f3e74ce9f80",
+      "score": 0.5229311207304551
+    }
+  ],
+  "(26843, 29605)": [
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a large-scale climate pattern characterized by fluctuations in the atmospheric pressure difference between the Icelandic Low and the Azores High, influencing European and North American climate variability",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.818384252912254
+    },
+    {
+      "name": "MLR",
+      "label": "model",
+      "description": "A multivariate linear regression model, used for predicting the winter NAO based on various predictors",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.5187597039696805
+    },
+    {
+      "name": "predictors",
+      "label": "variable",
+      "description": "Variables or factors used to predict the winter NAO, such as sea ice concentration, sea surface temperature, and atmospheric conditions",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.5249847399839681
+    },
+    {
+      "name": "SIC",
+      "label": "variable",
+      "description": "Sea ice concentration, a measure of the amount of sea ice covering a given area, used as a predictor for the winter NAO",
+      "uuid": "9cafcf3d-f9da-4ed6-baf4-81e315d0fd91",
+      "score": 0.6892854294493717
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea surface temperature, the temperature of the surface layer of the ocean, used as a predictor for the winter NAO",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6626778108037137
+    },
+    {
+      "name": "BKS",
+      "label": "location",
+      "description": "The Barents and Kara Seas, a region in the Arctic Ocean known for its significant role in sea ice formation and climate variability",
+      "uuid": "ff04d3c5-d89a-436a-ae78-c6bb7a2320b0",
+      "score": 0.555646180578479
+    },
+    {
+      "name": "atmosphere-ocean-cryosphere",
+      "label": "system",
+      "description": "A complex system that encompasses the interactions between the atmosphere, oceans, and cryosphere, influencing global climate patterns",
+      "uuid": "fa0a36c3-2503-4662-98cd-7f3e74ce9f80",
+      "score": 0.5395805920087319
+    }
+  ],
+  "(29204, 30421)": [
+    {
+      "name": "Office of Naval Research",
+      "label": "provider",
+      "description": "An American government agency responsible for funding scientific research, particularly in the fields of oceanography and naval technology",
+      "uuid": "36370f59-5f3e-4465-a2d0-05ec958526e6",
+      "score": 0.5381377136418044
+    },
+    {
+      "name": "Lamont",
+      "label": "provider",
+      "description": "Lamont-Doherty Earth Observatory, a research institution focused on Earth and environmental sciences",
+      "uuid": "f6751307-19d8-4672-b1d1-93de7d1cf1ca",
+      "score": 0.5325222987946506
+    }
+  ]
+}

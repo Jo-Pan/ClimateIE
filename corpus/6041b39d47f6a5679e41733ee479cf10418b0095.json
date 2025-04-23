@@ -1,0 +1,653 @@
+{
+  "(0, 3562)": [
+    {
+      "name": "atmospheric General Circulation Model",
+      "label": "model",
+      "description": "A type of climate model that simulates the circulation of the atmosphere and its interactions with other components of the climate system",
+      "uuid": "063177a9-14cd-4750-9aa4-ad5d266bd7ad",
+      "score": 0.6794737764162777
+    },
+    {
+      "name": "mixed-layer ocean",
+      "label": "model",
+      "description": "A simplified representation of the ocean that assumes a uniform mixed layer at the surface",
+      "uuid": "48ec6449-373c-41f6-8a61-8f1e9ed95737",
+      "score": 0.7167928010564883
+    },
+    {
+      "name": "observed sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the ocean's surface as measured by observations, used as a boundary condition in climate models",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6789278070279983
+    },
+    {
+      "name": "multimodel ensemble means",
+      "label": "experiment",
+      "description": "A method of combining the results of multiple climate models to estimate the uncertainty in climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5162944731024003
+    },
+    {
+      "name": "global average surface temperature",
+      "label": "variable",
+      "description": "The average temperature of the Earth's surface, often used as a metric for global warming",
+      "uuid": "f7c9aebd-2802-4221-8adb-199f81034a1a",
+      "score": 0.5696822530351427
+    },
+    {
+      "name": "human and ecosystem impacts",
+      "label": "natural hazard",
+      "description": "The potential consequences of climate change on human societies and ecosystems, including effects on health, economy, and environment",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5504494990961232
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface as rain, snow, or other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6848079750350232
+    },
+    {
+      "name": "regional climatology",
+      "label": "location",
+      "description": "The study of the climate characteristics of a specific region, including temperature, precipitation, and other factors",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.5225307385095472
+    }
+  ],
+  "(2964, 6024)": [
+    {
+      "name": "global warming",
+      "label": "weather event",
+      "description": "The gradual increase in the overall temperature of the Earth's atmosphere, primarily caused by human activities such as burning fossil fuels and deforestation",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5375295095051877
+    },
+    {
+      "name": "hydrological cycle",
+      "label": "ocean circulation",
+      "description": "The continuous process by which water is circulated between the Earth's oceans, atmosphere, and land, involving evaporation, condensation, and precipitation",
+      "uuid": "885735f3-121e-4ca0-ac8b-f37dbc972f03",
+      "score": 0.5330146186539142
+    },
+    {
+      "name": "climate model",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6074193891503035
+    },
+    {
+      "name": "regional-scale prediction",
+      "label": "experiment",
+      "description": "A type of climate simulation or prediction that focuses on a specific geographic region, aiming to forecast climate changes and their impacts on local ecosystems and human societies",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.5055447654347525
+    },
+    {
+      "name": "climate sensitivity",
+      "label": "variable",
+      "description": "A measure of how much the Earth's temperature is expected to rise in response to a given increase in atmospheric carbon dioxide concentrations, often used to evaluate the potential impacts of climate change",
+      "uuid": "6fa682b9-c6b5-46ca-971f-b7ecd4bf304d",
+      "score": 0.5476853229889587
+    },
+    {
+      "name": "global average temperature",
+      "label": "variable",
+      "description": "The average temperature of the Earth's surface, often used as an indicator of global climate change",
+      "uuid": "f7c9aebd-2802-4221-8adb-199f81034a1a",
+      "score": 0.5358611891438695
+    },
+    {
+      "name": "human and ecosystem impacts",
+      "label": "natural hazard",
+      "description": "The potential consequences of climate change on human societies and ecosystems, including damage to infrastructure, loss of biodiversity, and impacts on human health",
+      "uuid": "3ad043a9-2ec8-401d-a727-5589a303ea4a",
+      "score": 0.5391984335688604
+    }
+  ],
+  "(5694, 8788)": [
+    {
+      "name": "International Centre for Theoretical Physics climate model",
+      "label": "model",
+      "description": "A climate model developed by the International Centre for Theoretical Physics, used for studying various climate-related phenomena",
+      "uuid": "0cd4d2c4-ebfa-4759-b7aa-f9982122f581",
+      "score": 0.5305395464460176
+    },
+    {
+      "name": "climate variable",
+      "label": "variable",
+      "description": "A quantity or characteristic that can be measured or observed in climate experiments, such as temperature or precipitation",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6683584350267259
+    },
+    {
+      "name": "metamodel",
+      "label": "model",
+      "description": "A simplified model used to approximate the behavior of a more complex system, in this case, the climate model",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.5162323214887425
+    },
+    {
+      "name": "field campaign",
+      "label": "project",
+      "description": "A research project that involves collecting data in the field, often using instruments or observations to study climate-related phenomena",
+      "uuid": "3e0843ae-d6ed-4972-b164-53adc891563a",
+      "score": 0.5123515589127202
+    }
+  ],
+  "(8267, 11272)": [
+    {
+      "name": "International Centre for Theoretical Physics climate model",
+      "label": "model",
+      "description": "A climate model used for studying various climate-related problems, developed by the International Centre for Theoretical Physics",
+      "uuid": "0cd4d2c4-ebfa-4759-b7aa-f9982122f581",
+      "score": 0.5207548942463631
+    },
+    {
+      "name": "atmospheric general circulation model",
+      "label": "model",
+      "description": "A type of climate model that simulates the general circulation of the atmosphere",
+      "uuid": "063177a9-14cd-4750-9aa4-ad5d266bd7ad",
+      "score": 0.6912934977320332
+    },
+    {
+      "name": "mixed-layer ocean",
+      "label": "model",
+      "description": "A simple ocean model that represents the upper layer of the ocean as a mixed layer",
+      "uuid": "48ec6449-373c-41f6-8a61-8f1e9ed95737",
+      "score": 0.7259540029701097
+    },
+    {
+      "name": "Q-flux",
+      "label": "variable",
+      "description": "A measure of ocean heat flux transport divergence, used in climate models",
+      "uuid": "ee2cb9eb-f960-4e23-9e7c-be64d44a64e7",
+      "score": 0.6066907825270121
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, an important factor in climate modeling",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7838494361820931
+    },
+    {
+      "name": "cloud albedo parameter",
+      "label": "variable",
+      "description": "A parameter that represents the reflectivity of clouds, used in climate models",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.6650362429760124
+    },
+    {
+      "name": "relative humidity parameter",
+      "label": "variable",
+      "description": "A parameter that represents the inhibition of convection due to relative humidity, used in climate models",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.5784152479937543
+    },
+    {
+      "name": "climate field",
+      "label": "variable",
+      "description": "A variable that represents a climate-related quantity, such as temperature or precipitation",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5415365844944983
+    }
+  ],
+  "(10789, 13579)": [
+    {
+      "name": "AGCM",
+      "label": "model",
+      "description": "An Atmospheric General Circulation Model, a type of climate model that simulates the atmosphere and its interactions with the Earth's surface",
+      "uuid": "3b20a141-8408-44b2-adf1-632ac9222c61",
+      "score": 0.7474701025237401
+    },
+    {
+      "name": "ensemble",
+      "label": "experiment",
+      "description": "A set of multiple model runs, each with slightly different initial conditions or parameters, used to quantify uncertainty in model predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.6063869199983458
+    }
+  ],
+  "(13072, 15899)": [
+    {
+      "name": "AGCM",
+      "label": "model",
+      "description": "An Atmospheric General Circulation Model, a type of climate model that simulates the behavior of the atmosphere",
+      "uuid": "3b20a141-8408-44b2-adf1-632ac9222c61",
+      "score": 0.7359541714852573
+    },
+    {
+      "name": "cloud albedo parameter",
+      "label": "variable",
+      "description": "A measure of the reflectivity of clouds, an important factor in climate modeling for understanding Earth's energy balance",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.72253613275783
+    },
+    {
+      "name": "RH conv",
+      "label": "variable",
+      "description": "A measure of the relative humidity at the convective boundary layer, relevant in climate modeling for understanding atmospheric processes",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.5484861686032743
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that plays a significant role in climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6690810026657982
+    },
+    {
+      "name": "preindustrial AGCM-ML runs",
+      "label": "experiment",
+      "description": "Climate model simulations using preindustrial levels of CO2 and a mixed-layer model",
+      "uuid": "3b20a141-8408-44b2-adf1-632ac9222c61",
+      "score": 0.5862783315524116
+    },
+    {
+      "name": "doubled CO2",
+      "label": "experiment",
+      "description": "Climate model simulations using doubled levels of CO2, often used to study the effects of climate change",
+      "uuid": "678ac355-4fe9-46f7-9723-96bd949b382a",
+      "score": 0.5463263943235764
+    },
+    {
+      "name": "mixed-layer case",
+      "label": "experiment",
+      "description": "A type of climate model simulation that uses a mixed-layer model to represent the upper ocean",
+      "uuid": "48ec6449-373c-41f6-8a61-8f1e9ed95737",
+      "score": 0.5741070824658054
+    }
+  ],
+  "(15498, 18513)": [
+    {
+      "name": "metamodel",
+      "label": "model",
+      "description": "A mathematical model used to approximate and analyze the behavior of a complex system, in this case, a climate model",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.5088105861816181
+    },
+    {
+      "name": "AGCM-ML",
+      "label": "model",
+      "description": "An atmospheric general circulation model with a mixed-layer ocean, used for simulating climate phenomena",
+      "uuid": "3b20a141-8408-44b2-adf1-632ac9222c61",
+      "score": 0.7224792710452905
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that affects the Earth's climate",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6721395619352574
+    },
+    {
+      "name": "RH conv",
+      "label": "variable",
+      "description": "Relative humidity, a measure of the amount of moisture in the air, which influences convective precipitation",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.6416958524921074
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "A region of the Earth near the equator, characterized by high temperatures and high levels of precipitation",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7222592061977757
+    },
+    {
+      "name": "Coupled Model Intercomparison Project 3",
+      "label": "project",
+      "description": "A framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.7126675380492493
+    },
+    {
+      "name": "multimodel ensemble",
+      "label": "experiment",
+      "description": "A collection of climate models used to simulate and predict climate phenomena, allowing for the analysis of uncertainties and variations",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5631918854428327
+    },
+    {
+      "name": "convective precipitation",
+      "label": "variable",
+      "description": "A type of precipitation that occurs when warm air rises and cools, causing water vapor to condense and fall to the ground",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.7532657135804807
+    },
+    {
+      "name": "geographic information",
+      "label": "variable",
+      "description": "Data that describes the spatial distribution of climate phenomena, such as precipitation patterns",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.527988420249787
+    }
+  ],
+  "(18074, 20633)": [
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "A greenhouse gas that plays a significant role in the Earth's climate system, with increased concentrations leading to global warming",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6642533769082225
+    },
+    {
+      "name": "AGCM-ML",
+      "label": "model",
+      "description": "An atmospheric general circulation model with machine learning capabilities, used to simulate and predict climate phenomena",
+      "uuid": "3b20a141-8408-44b2-adf1-632ac9222c61",
+      "score": 0.6670510682802852
+    },
+    {
+      "name": "RH conv",
+      "label": "variable",
+      "description": "A parameter related to convection in climate models, influencing the representation of precipitation and other climate processes",
+      "uuid": "b6a683c6-f5f9-41e3-b285-7b88ca08d2c0",
+      "score": 0.5263549784029458
+    }
+  ],
+  "(20141, 22947)": [
+    {
+      "name": "climate modeling",
+      "label": "project",
+      "description": "A scientific program aimed at developing and applying climate models to understand and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5747172073261129
+    },
+    {
+      "name": "A",
+      "label": "model",
+      "description": "A mathematical representation of the relationships between variables in a climate model",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.527571730717384
+    },
+    {
+      "name": "RH",
+      "label": "location",
+      "description": "A region or area where the climate model is being applied",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.5283261952014832
+    }
+  ],
+  "(22530, 25513)": [
+    {
+      "name": "RH conv",
+      "label": "variable",
+      "description": "A measure of the relative humidity in the convective region of the atmosphere, important for understanding climate processes",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.5681577934178762
+    },
+    {
+      "name": "global average",
+      "label": "location",
+      "description": "A geographical area that encompasses the entire Earth, used as a reference for climate studies",
+      "uuid": "51e3593f-4b42-4141-972e-96666c479f9c",
+      "score": 0.5941616932068507
+    },
+    {
+      "name": "regional averages",
+      "label": "location",
+      "description": "Geographical areas that are smaller than the global average, used to study regional climate patterns",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.5296516816578262
+    },
+    {
+      "name": "climate variable",
+      "label": "variable",
+      "description": "A quantity or characteristic that can be measured or observed in climate experiments, such as temperature, precipitation, or humidity",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6699295692070772
+    },
+    {
+      "name": "water vapor",
+      "label": "variable",
+      "description": "The amount of water present in the atmosphere, playing a crucial role in climate regulation and weather patterns",
+      "uuid": "15029eb0-6342-4066-8ac9-c50f7dbfb392",
+      "score": 0.6869766418812019
+    },
+    {
+      "name": "free troposphere",
+      "label": "location",
+      "description": "The region of the atmosphere above the planetary boundary layer, where the air is relatively free from the influence of the Earth's surface",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.5291358922719367
+    },
+    {
+      "name": "lower troposphere",
+      "label": "location",
+      "description": "The region of the atmosphere closest to the Earth's surface, where weather patterns and climate processes are strongly influenced",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.6230795488863312
+    }
+  ],
+  "(25027, 28204)": [
+    {
+      "name": "water vapor",
+      "label": "variable",
+      "description": "A gaseous state of water that plays a crucial role in Earth's climate system, influencing weather patterns and climate phenomena",
+      "uuid": "15029eb0-6342-4066-8ac9-c50f7dbfb392",
+      "score": 0.7264028613590677
+    },
+    {
+      "name": "land surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, which is an important factor in climate studies, affecting heat balance, and weather patterns",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.7227715365969833
+    },
+    {
+      "name": "free troposphere",
+      "label": "location",
+      "description": "The region of the atmosphere above the planetary boundary layer, where the air is relatively free from the influence of the Earth's surface",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.5291358922719367
+    },
+    {
+      "name": "lower troposphere",
+      "label": "location",
+      "description": "The lowest part of the Earth's atmosphere, extending up to about 8-10 km altitude, where most weather phenomena occur",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.6836937013209856
+    },
+    {
+      "name": "convective plumes",
+      "label": "weather event",
+      "description": "Upright columns of air that rise due to convection, often associated with thunderstorms and heavy precipitation",
+      "uuid": "a42f94f5-1ba2-45cd-ad2a-ca3468efc35e",
+      "score": 0.533949660284271
+    },
+    {
+      "name": "climate model",
+      "label": "model",
+      "description": "A computational representation of the Earth's climate system, used to simulate and predict climate phenomena",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6315567537624348
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an essential component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6514089579576143
+    },
+    {
+      "name": "vertical velocity",
+      "label": "variable",
+      "description": "The rate of change of altitude with respect to time, an important factor in atmospheric circulation and climate modeling",
+      "uuid": "a95a0223-c67b-45b9-addd-10607c09298a",
+      "score": 0.6393482765297062
+    }
+  ],
+  "(27648, 31169)": [
+    {
+      "name": "climate model",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6074193891503035
+    },
+    {
+      "name": "multimodel ensemble averages",
+      "label": "experiment",
+      "description": "A technique used to combine the output of multiple climate models, aiming to reduce uncertainty and improve prediction accuracy",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5243576905255893
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6473658017629415
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The ratio of the amount of water vapor in the air to the maximum amount of water vapor the air can hold at a given temperature",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7392251967317165
+    },
+    {
+      "name": "climate model grid scale",
+      "label": "location",
+      "description": "The spatial resolution at which a climate model is run, often ranging from a few kilometers to several hundred kilometers",
+      "uuid": "82a2971f-82eb-46aa-8d70-1343570edba8",
+      "score": 0.5713730570681073
+    }
+  ],
+  "(30575, 33866)": [
+    {
+      "name": "multimodel ensemble",
+      "label": "experiment",
+      "description": "A collection of climate models run with different parameters or initial conditions to quantify uncertainty in climate predictions",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5418214273972134
+    },
+    {
+      "name": "model ensemble",
+      "label": "experiment",
+      "description": "A set of climate model simulations with varying parameters or initial conditions to estimate the range of possible climate outcomes",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5516327315410358
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface over a certain period, an important component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6484786991630926
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the atmosphere, oceans, or land surfaces, a fundamental variable in climate studies",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6812358883972937
+    },
+    {
+      "name": "wind components",
+      "label": "variable",
+      "description": "The speed and direction of wind in the atmosphere, influencing weather patterns and climate conditions",
+      "uuid": "1e9bb112-5dc0-47a5-8c8a-b9cb07ece7c5",
+      "score": 0.5396920381041769
+    },
+    {
+      "name": "vertical velocity",
+      "label": "variable",
+      "description": "The rate of change of altitude or depth in the atmosphere or oceans, affecting climate and weather phenomena",
+      "uuid": "a95a0223-c67b-45b9-addd-10607c09298a",
+      "score": 0.6382167090702953
+    },
+    {
+      "name": "mean sea level pressure",
+      "label": "variable",
+      "description": "The average atmospheric pressure at sea level, an important factor in climate and weather patterns",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.6822845096122484
+    },
+    {
+      "name": "land surface temperature",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, influencing local and global climate conditions",
+      "uuid": "d559b900-eca6-42a4-9311-0297b2ef98ab",
+      "score": 0.73441975665935
+    },
+    {
+      "name": "doubled-CO2",
+      "label": "experiment",
+      "description": "A climate model simulation where the concentration of carbon dioxide is doubled to study its impact on the climate system",
+      "uuid": "678ac355-4fe9-46f7-9723-96bd949b382a",
+      "score": 0.5305981818175838
+    },
+    {
+      "name": "SensMIP",
+      "label": "project",
+      "description": "The Sensitivity Model Intercomparison Project, an initiative to compare and analyze the sensitivity of different climate models to their parameters",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.6038008708431253
+    }
+  ],
+  "(33329, 34625)": [
+    {
+      "name": "SensMIP",
+      "label": "project",
+      "description": "The Sensitivity Model Intercomparison Project, an initiative to compare and analyze the sensitivity of different climate models to various parameters",
+      "uuid": "00a97d0c-e05e-43c9-93d0-3c7a2527b3c0",
+      "score": 0.6070224899141312
+    },
+    {
+      "name": "regional climate change patterns",
+      "label": "variable",
+      "description": "The changes in climate conditions, such as temperature and precipitation, that occur in specific regions",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.5403533173685424
+    },
+    {
+      "name": "National Science Foundation",
+      "label": "provider",
+      "description": "A US government agency that supports scientific research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.7155796954879072
+    },
+    {
+      "name": "National Oceanic and Atmospheric Administration",
+      "label": "provider",
+      "description": "A US government agency that focuses on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.667091967494657
+    },
+    {
+      "name": "Department of Energy",
+      "label": "provider",
+      "description": "A US government agency that oversees energy-related research and development",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6563080177918859
+    },
+    {
+      "name": "ATM-0645200",
+      "label": "project",
+      "description": "A research project funded by the National Science Foundation, focused on atmospheric science",
+      "uuid": "8e8f77e0-ef24-4ae4-a96d-bcc29572212f",
+      "score": 0.5729296714837169
+    },
+    {
+      "name": "NA08OAR4310882",
+      "label": "project",
+      "description": "A research project funded by the National Oceanic and Atmospheric Administration, focused on oceanic and atmospheric research",
+      "uuid": "758196d0-75e7-402f-aa77-f32abf14e745",
+      "score": 0.6183875065388013
+    },
+    {
+      "name": "DE-FG02-07ER64439",
+      "label": "project",
+      "description": "A research project funded by the Department of Energy, focused on energy-related research",
+      "uuid": "34cb53af-f2cd-4b04-8357-25503e34b92a",
+      "score": 0.5702662401198553
+    }
+  ]
+}

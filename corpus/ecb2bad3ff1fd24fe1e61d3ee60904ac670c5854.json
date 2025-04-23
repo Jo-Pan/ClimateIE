@@ -1,0 +1,872 @@
+{
+  "(0, 2756)": [
+    {
+      "name": "United Nations Environmental Programme",
+      "label": "provider",
+      "description": "A leading global environmental authority, promoting sustainable development and environmental protection",
+      "uuid": "687d4231-8da8-4236-9cc4-26d7ff198578",
+      "score": 0.5662730742792782
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, playing a significant role in global power generation and greenhouse gas emissions",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5741608108675369
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe, known for its efforts in reducing greenhouse gas emissions and promoting renewable energy",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6331561981045001
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, experiencing rapid economic growth and increasing energy demand",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5454619904813622
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, a major player in global power generation and greenhouse gas emissions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5701689107742647
+    },
+    {
+      "name": "black carbon",
+      "label": "variable",
+      "description": "A potent climate pollutant, emitted through fossil fuel combustion and biomass burning, contributing to warming",
+      "uuid": "9c0288cc-864d-40f7-93af-6df413b404f5",
+      "score": 0.7317541858344767
+    },
+    {
+      "name": "SOx",
+      "label": "variable",
+      "description": "Sulfur oxides, pollutants emitted through fossil fuel combustion, leading to cooling and air quality issues",
+      "uuid": "cc676fb2-cf17-413d-bb00-0b95d231f157",
+      "score": 0.6354209155670497
+    },
+    {
+      "name": "organic carbon",
+      "label": "variable",
+      "description": "A component of particulate matter, influencing climate and air quality",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6796970514896782
+    },
+    {
+      "name": "methane",
+      "label": "variable",
+      "description": "A potent greenhouse gas, emitted through human activities and natural processes, contributing to climate change",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7018832060414573
+    },
+    {
+      "name": "carbon dioxide",
+      "label": "variable",
+      "description": "A primary greenhouse gas, emitted through human activities and natural processes, driving climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6556448378260487
+    }
+  ],
+  "(2249, 5169)": [
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6623960376795508
+    },
+    {
+      "name": "coal",
+      "label": "variable",
+      "description": "A fossil fuel that releases carbon dioxide and other pollutants when burned",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.626029017700847
+    },
+    {
+      "name": "natural gas",
+      "label": "variable",
+      "description": "A fossil fuel that releases methane and other pollutants when extracted, transported, and burned",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.6848760952648367
+    },
+    {
+      "name": "fossil fuels",
+      "label": "variable",
+      "description": "Energy sources formed from ancient plants and animals, including coal, oil, and natural gas",
+      "uuid": "edfbff1e-b24b-40b9-be54-e1823b4d7f49",
+      "score": 0.5325153249599085
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas that contributes to global warming",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7168156474600644
+    },
+    {
+      "name": "atmospheric transport models",
+      "label": "model",
+      "description": "Computational representations of the movement of pollutants and greenhouse gases in the atmosphere",
+      "uuid": "3668de06-8a7d-4667-beb8-d04dcac619b0",
+      "score": 0.5239888463156939
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country with significant fossil fuel production and consumption",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5284839719595347
+    },
+    {
+      "name": "air pollution",
+      "label": "natural hazard",
+      "description": "The release of pollutants into the air, posing risks to human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5126699331872256
+    },
+    {
+      "name": "regional",
+      "label": "location",
+      "description": "A geographic area with distinct characteristics, such as climate, economy, or culture",
+      "uuid": "204270d9-8039-4768-851e-63635af5fb65",
+      "score": 0.537156505347906
+    },
+    {
+      "name": "country",
+      "label": "location",
+      "description": "A nation with its own government, economy, and borders",
+      "uuid": "245c630a-8022-46ed-9a79-8f6cf99b0822",
+      "score": 0.5120996136795193
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Computational representations of the Earth's climate system, used to simulate and predict climate change",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6954847640566704
+    }
+  ],
+  "(4634, 7459)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance to policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7395965331828134
+    },
+    {
+      "name": "IPCC Fifth Assessment Report",
+      "label": "project",
+      "description": "A comprehensive report published by the IPCC, summarizing the current state of knowledge on climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5587236857263298
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6623960376795508
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a greenhouse gas that contributes to global warming",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7158532113823196
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6658183508968357
+    },
+    {
+      "name": "radiative forcing",
+      "label": "variable",
+      "description": "The change in the balance between the amount of energy absorbed by the Earth and the amount of energy emitted back into space, often used to quantify the impact of greenhouse gases on climate",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7926317288588659
+    },
+    {
+      "name": "temperature change",
+      "label": "variable",
+      "description": "The change in global temperature, often used to quantify the impact of climate change",
+      "uuid": "d87901bc-8a50-4442-8d03-a4e77f02bfb0",
+      "score": 0.5338759399680812
+    }
+  ],
+  "(7037, 9799)": [
+    {
+      "name": "IPCC Fifth Assessment Report",
+      "label": "project",
+      "description": "A comprehensive report published by the Intergovernmental Panel on Climate Change, assessing the current state of climate change research and its implications>",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.573130721549269
+    },
+    {
+      "name": "UNEP-SETAC",
+      "label": "provider",
+      "description": "A partnership between the United Nations Environment Programme and the Society of Environmental Toxicology and Chemistry, focused on promoting sustainable development and environmental protection>",
+      "uuid": "687d4231-8da8-4236-9cc4-26d7ff198578",
+      "score": 0.529506089312158
+    },
+    {
+      "name": "AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, published in 2014>",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.5389724899480748
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming>",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6655387916571917
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas that contributes to global warming>",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7177542015740861
+    }
+  ],
+  "(9322, 12152)": [
+    {
+      "name": "coal",
+      "label": "variable",
+      "description": "A type of fossil fuel used to generate electricity, which has significant environmental impacts",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6301332940408004
+    },
+    {
+      "name": "gas",
+      "label": "variable",
+      "description": "A type of fossil fuel used to generate electricity, which has significant environmental impacts",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.5928967299489261
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6657960623838751
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas that contributes to climate change",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7207091008277234
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country with significant energy consumption and greenhouse gas emissions",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5440675589120686
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country with significant energy consumption and greenhouse gas emissions",
+      "uuid": "c1d6f18d-1a8c-4ed1-a85d-c2b0912fbf5f",
+      "score": 0.5770670252615474
+    },
+    {
+      "name": "shortwave forcing",
+      "label": "variable",
+      "description": "A type of radiative forcing that affects the Earth's energy balance",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6367989406739403
+    },
+    {
+      "name": "climate-carbon feedbacks",
+      "label": "variable",
+      "description": "The interactions between the climate system and the carbon cycle, which can amplify or mitigate climate change",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6592034425763503
+    },
+    {
+      "name": "SOx",
+      "label": "variable",
+      "description": "Sulfur oxides, a type of air pollutant that contributes to environmental impacts",
+      "uuid": "cc676fb2-cf17-413d-bb00-0b95d231f157",
+      "score": 0.635077330862465
+    }
+  ],
+  "(11720, 14624)": [
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7267282858139678
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6602346471924573
+    },
+    {
+      "name": "climate forcers",
+      "label": "variable",
+      "description": "Substances or processes that influence the climate system",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5448600459299516
+    },
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.5834930161696927
+    },
+    {
+      "name": "O3",
+      "label": "variable",
+      "description": "Ozone, a greenhouse gas",
+      "uuid": "b4212921-624a-40b6-a5d5-ad1aec695ff8",
+      "score": 0.5792708164414536
+    },
+    {
+      "name": "climate impact assessments",
+      "label": "project",
+      "description": "Studies that evaluate the effects of climate change on various systems",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.6052630914134987
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.566103184812034
+    }
+  ],
+  "(14172, 17018)": [
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas with a long atmospheric lifetime",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7252229523908851
+    },
+    {
+      "name": "O3",
+      "label": "variable",
+      "description": "Ozone, a gas that plays a crucial role in the Earth's atmosphere, particularly in the stratosphere",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.6311538834246883
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance to policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7395965331828134
+    },
+    {
+      "name": "AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, which provides a comprehensive assessment of climate change science",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.5613905002987648
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia with a large population and significant greenhouse gas emissions",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.595272828753495
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia with a large population and significant greenhouse gas emissions",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6217290330614366
+    }
+  ],
+  "(16561, 19631)": [
+    {
+      "name": "UNEP-SETAC",
+      "label": "provider",
+      "description": "The United Nations Environment Programme and Society of Environmental Toxicology and Chemistry, organizations focused on environmental sustainability and climate change research",
+      "uuid": "687d4231-8da8-4236-9cc4-26d7ff198578",
+      "score": 0.5589872679089645
+    },
+    {
+      "name": "CH4 leakage",
+      "label": "variable",
+      "description": "The release of methane, a potent greenhouse gas, during natural gas production, processing, and transportation",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.5580704769224833
+    },
+    {
+      "name": "natural gas",
+      "label": "variable",
+      "description": "A fossil fuel used as an energy source, considered a cleaner alternative to coal",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.696675349628881
+    },
+    {
+      "name": "air quality",
+      "label": "variable",
+      "description": "The measure of the cleanliness of the air, affected by pollutants from fossil fuel combustion",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.6439405773287147
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, one of the world's largest emitters of greenhouse gases",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5968675137514613
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe, known for its efforts to reduce greenhouse gas emissions",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6276033543924705
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country in North America, one of the world's largest emitters of greenhouse gases",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6037522075260344
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, experiencing rapid economic growth and increasing energy demand",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5454619904813622
+    }
+  ],
+  "(19167, 22043)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large and growing economy, and significant environmental impacts",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6035833144632705
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, with a strong economy and a leader in environmental policies",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.620320530419833
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country in North America, with a large and diverse economy, and significant environmental impacts",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.608759541138546
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, with a large and growing population, and significant environmental challenges",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5946442987067382
+    },
+    {
+      "name": "natural gas power plants",
+      "label": "project",
+      "description": "Electricity generation facilities that use natural gas as a fuel source, with lower greenhouse gas emissions compared to coal",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.5087243218876649
+    }
+  ],
+  "(21560, 24403)": [
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.651049438466591
+    },
+    {
+      "name": "Norway",
+      "label": "location",
+      "description": "A country in Northern Europe, known for its natural gas production",
+      "uuid": "4bbd9eec-9daa-45c5-9cc7-1d8fb8bffd79",
+      "score": 0.6058913763275364
+    },
+    {
+      "name": "Russia",
+      "label": "location",
+      "description": "A country in Eastern Europe and Northern Asia, known for its natural gas production",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.5810150471048423
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its growing energy demands",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.581116693475341
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia, known for its growing energy demands",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5654138020513233
+    },
+    {
+      "name": "Nigeria",
+      "label": "location",
+      "description": "A country in West Africa, known for its natural gas production",
+      "uuid": "2a5c24de-0eb1-4049-a58b-7cc716ecd34c",
+      "score": 0.532949464325601
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, known for its energy policies",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6241468018389235
+    },
+    {
+      "name": "Algeria",
+      "label": "location",
+      "description": "A country in North Africa, known for its natural gas production",
+      "uuid": "553fabba-37b9-4d16-aed1-cc6ac6f729e1",
+      "score": 0.6535874264270728
+    },
+    {
+      "name": "Netherlands",
+      "label": "location",
+      "description": "A country in Northwestern Europe, known for its natural gas production",
+      "uuid": "c4ff980e-6edd-400f-9c99-951fa0d0c887",
+      "score": 0.6535242493799582
+    },
+    {
+      "name": "Middle East",
+      "label": "location",
+      "description": "A region in Western Asia, known for its oil and natural gas production",
+      "uuid": "8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab",
+      "score": 0.5499478779499122
+    },
+    {
+      "name": "natural gas",
+      "label": "variable",
+      "description": "A fossil fuel used for energy production",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.7074658833850043
+    },
+    {
+      "name": "BC",
+      "label": "variable",
+      "description": "Black carbon, a pollutant emitted by fossil fuel combustion",
+      "uuid": "9c0288cc-864d-40f7-93af-6df413b404f5",
+      "score": 0.687280421746368
+    },
+    {
+      "name": "OC",
+      "label": "variable",
+      "description": "Organic carbon, a pollutant emitted by fossil fuel combustion",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6225627366609267
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a greenhouse gas emitted by natural gas production and transport",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7090106750412573
+    },
+    {
+      "name": "coal",
+      "label": "variable",
+      "description": "A fossil fuel used for energy production",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6640195262047057
+    }
+  ],
+  "(23989, 26591)": [
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas with significant impacts on climate change",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7142870356575616
+    },
+    {
+      "name": "International Energy Agency",
+      "label": "provider",
+      "description": "An intergovernmental organization focused on energy policy, research, and development",
+      "uuid": "e236abe1-c8c5-4bca-ab7d-89b5a0392d6b",
+      "score": 0.7205553994993215
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country with significant energy consumption and production",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5384316841714167
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country with significant energy consumption and production, and a major player in global climate change mitigation efforts",
+      "uuid": "85536e75-507b-4c8e-93f0-9048ef53e8f6",
+      "score": 0.5259762053530186
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe with a strong focus on renewable energy and climate change mitigation",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6442832526275262
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country with rapidly growing energy demands and a significant role in global climate change mitigation efforts",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5785068983394223
+    },
+    {
+      "name": "radiative forcing calculations",
+      "label": "model",
+      "description": "A method used to quantify the impact of greenhouse gases on the Earth's energy balance and climate",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6841456826359362
+    },
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, providing a comprehensive review of climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.6091962530231421
+    },
+    {
+      "name": "N2O",
+      "label": "variable",
+      "description": "Nitrous oxide, a potent greenhouse gas with significant impacts on climate change",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.709763904754515
+    }
+  ],
+  "(26115, 28959)": [
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, a comprehensive report on the state of climate change research and its implications>",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.58122214104354
+    },
+    {
+      "name": "Source-Receptor global chemical transport models",
+      "label": "model",
+      "description": "Computational tools used to simulate the movement and transformation of chemicals in the atmosphere, helping to understand air pollution and climate interactions>",
+      "uuid": "eb6ac594-7a26-4220-a587-4f2200e5dca6",
+      "score": 0.5137531614692205
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a long-lived greenhouse gas with significant impacts on climate change>",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6705536968752038
+    },
+    {
+      "name": "N2O",
+      "label": "variable",
+      "description": "Nitrous oxide, a long-lived greenhouse gas with significant impacts on climate change>",
+      "uuid": "cf08917f-4cef-456f-99b0-57dc468da877",
+      "score": 0.6938339512465509
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas with significant impacts on climate change>",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7140556501688119
+    },
+    {
+      "name": "radiative forcing calculations",
+      "label": "variable",
+      "description": "Quantifications of the energy imbalance in the atmosphere caused by various climate factors, including greenhouse gases and aerosols>",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.7326420650200005
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Small particles in the atmosphere that can influence climate by reflecting or absorbing solar radiation>",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6957438032671653
+    },
+    {
+      "name": "climate-carbon feedbacks",
+      "label": "variable",
+      "description": "Interactions between the climate system and the carbon cycle, which can amplify or dampen climate change>",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6732299852292234
+    },
+    {
+      "name": "snow-albedo effects",
+      "label": "variable",
+      "description": "Changes in the reflectivity of the Earth's surface due to snow cover, which can influence climate by altering the amount of solar radiation absorbed>",
+      "uuid": "03a7c97e-71e2-469e-8af9-bbe80ffedb1a",
+      "score": 0.6155317971010312
+    }
+  ],
+  "(28427, 31418)": [
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles or droplets in the atmosphere that can affect climate by scattering or absorbing sunlight and influencing cloud formation>",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7038012312698997
+    },
+    {
+      "name": "snow-albedo effects",
+      "label": "variable",
+      "description": "The impact of snow cover on the Earth's energy balance, as snow reflects sunlight and thus affects the amount of solar energy absorbed by the Earth's surface>",
+      "uuid": "03a7c97e-71e2-469e-8af9-bbe80ffedb1a",
+      "score": 0.6422746077203231
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, often considered a major player in global climate change discussions due to its large population and significant greenhouse gas emissions>",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6104579206195647
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas with significant impacts on climate change>",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7140556501688119
+    },
+    {
+      "name": "AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, a comprehensive review of the current state of climate change knowledge>",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.5490120942071594
+    },
+    {
+      "name": "emission data",
+      "label": "variable",
+      "description": "Information on the amount of greenhouse gases or other pollutants released into the atmosphere, often used in climate change studies>",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5671777778776435
+    },
+    {
+      "name": "emission metrics",
+      "label": "variable",
+      "description": "Standardized measures of the climate impacts of different greenhouse gases or emission scenarios, used to compare and evaluate various strategies for mitigating climate change>",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.5128223476324129
+    }
+  ],
+  "(30984, 33864)": [
+    {
+      "name": "Institute for Advanced Sustainability Studies",
+      "label": "provider",
+      "description": "A research institution focused on advancing sustainability studies, located in Potsdam, Germany",
+      "uuid": "be11d2fc-7681-44be-b37f-8dbc8da31f70",
+      "score": 0.5245841138137517
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "An island country in East Asia, known for its technological advancements and environmental initiatives",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.6414329304438297
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, recognized for its contributions to science, technology, and sustainability",
+      "uuid": "d780c4ea-4b39-4fda-a0d3-4f5bee42530d",
+      "score": 0.6148355617592867
+    },
+    {
+      "name": "UNEP-SET",
+      "label": "provider",
+      "description": "The United Nations Environment Programme's Sustainable Energy Transitions initiative, promoting sustainable energy development globally",
+      "uuid": "687d4231-8da8-4236-9cc4-26d7ff198578",
+      "score": 0.5303672019041992
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas influencing climate change",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.7100357932389392
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a primary greenhouse gas contributing to global warming",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6589377435499956
+    },
+    {
+      "name": "climate impacts",
+      "label": "variable",
+      "description": "The effects of human activities, particularly greenhouse gas emissions, on the climate system",
+      "uuid": "1f0053e3-a1ac-4c7c-a4c4-1adacfe24a80",
+      "score": 0.5239020172278237
+    },
+    {
+      "name": "global emissions",
+      "label": "variable",
+      "description": "The total amount of greenhouse gases emitted globally, influencing global climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5038173660717938
+    }
+  ],
+  "(33439, 34219)": [
+    {
+      "name": "UNEP-SETAC",
+      "label": "provider",
+      "description": "A partnership between the United Nations Environment Programme and the Society of Environmental Toxicology and Chemistry, focused on promoting sustainable development and environmental protection",
+      "uuid": "687d4231-8da8-4236-9cc4-26d7ff198578",
+      "score": 0.522489860562153
+    },
+    {
+      "name": "CH4",
+      "label": "variable",
+      "description": "Methane, a potent greenhouse gas with significant climate impacts",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.715406562178923
+    },
+    {
+      "name": "coal",
+      "label": "variable",
+      "description": "A fossil fuel with high climate impacts due to its high carbon content",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6181295081726649
+    },
+    {
+      "name": "gas",
+      "label": "variable",
+      "description": "A fossil fuel with lower climate impacts compared to coal, due to its lower carbon content",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.5920576071729573
+    }
+  ]
+}

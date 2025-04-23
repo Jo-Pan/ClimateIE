@@ -1,0 +1,1208 @@
+{
+  "(0, 2752)": [
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country in the Middle East, characterized by a diverse range of climates, including arid and semi-arid regions",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.6710283303327246
+    },
+    {
+      "name": "Middle East",
+      "label": "location",
+      "description": "A region in Western Asia and North Africa, known for its arid and semi-arid climates",
+      "uuid": "8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab",
+      "score": 0.6279285772545823
+    },
+    {
+      "name": "meteorological droughts",
+      "label": "natural hazard",
+      "description": "A type of drought that occurs when there is a prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human activities",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5908748806755151
+    },
+    {
+      "name": "standardized precipitation index",
+      "label": "variable",
+      "description": "A measure of precipitation that is standardized to have a mean of 0 and a standard deviation of 1, used to monitor and predict droughts",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7730591511921686
+    },
+    {
+      "name": "standardized precipitation and evapotranspiration index",
+      "label": "variable",
+      "description": "A measure that combines precipitation and evapotranspiration to monitor and predict droughts, taking into account the impact of temperature on water availability",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6922272239031834
+    },
+    {
+      "name": "random forest",
+      "label": "model",
+      "description": "A machine learning algorithm used for classification and regression tasks, including drought prediction",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.6830161417330379
+    },
+    {
+      "name": "Penman-Monteith method",
+      "label": "model",
+      "description": "A method used to estimate evapotranspiration, which is the amount of water lost to the atmosphere through evaporation and plant transpiration",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.6509235791126898
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that could be lost to the atmosphere through evaporation and plant transpiration if there were no limitations on water availability",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7594608329757929
+    },
+    {
+      "name": "ground-based data",
+      "label": "variable",
+      "description": "Data collected from instruments or sensors located on the ground, used to measure various environmental parameters",
+      "uuid": "dbcead38-c78b-4306-b56f-0ea15c0b755b",
+      "score": 0.6465406720461113
+    },
+    {
+      "name": "drought prediction",
+      "label": "experiment",
+      "description": "The use of models and methods to forecast the occurrence and severity of droughts",
+      "uuid": "a394776f-b658-44de-b952-90f4e53d58cc",
+      "score": 0.6129016364552613
+    },
+    {
+      "name": "meteorological drought indices",
+      "label": "variable",
+      "description": "Measures used to quantify and monitor droughts, including the standardized precipitation index and the standardized precipitation and evapotranspiration index",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.6963376425415921
+    }
+  ],
+  "(2229, 5379)": [
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country in the Middle East, known for its diverse climate and geography, with regions experiencing droughts and other climate-related phenomena",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.6413661113910083
+    },
+    {
+      "name": "Central and Eastern Iran",
+      "label": "location",
+      "description": "A region within Iran, characterized by arid and semi-arid climates, prone to droughts and water scarcity",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.5125898901109899
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on various sectors such as agriculture and industry",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7242372469939815
+    },
+    {
+      "name": "meteorological drought",
+      "label": "weather event",
+      "description": "A type of drought characterized by a decrease in rainfall compared to normal, often caused by changes in climatic and hydrological processes",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.569553871939158
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon referring to the long-term warming of the planet, resulting in changes to weather patterns, including droughts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5623317658951167
+    },
+    {
+      "name": "biosphere interactions",
+      "label": "teleconnection",
+      "description": "The interactions between the living components of the Earth's system and the physical environment, affecting climate and drought patterns",
+      "uuid": "91c64c46-d040-4daa-b26c-61952fdfaf50",
+      "score": 0.5151427926624152
+    },
+    {
+      "name": "solar energy fluctuations",
+      "label": "teleconnection",
+      "description": "Changes in the amount of energy emitted by the sun, influencing Earth's climate and drought occurrence",
+      "uuid": "3b230650-68ff-4e7a-9273-6e0b1083bdfa",
+      "score": 0.5627869285498973
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used to study climate patterns and droughts",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6411415672318436
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground, crucial for understanding drought patterns",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6227917441941111
+    },
+    {
+      "name": "SPI",
+      "label": "instrument",
+      "description": "The Standardized Precipitation Index, a tool used to monitor and predict droughts",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7600799303294947
+    },
+    {
+      "name": "SPEI",
+      "label": "instrument",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a tool used to monitor and predict droughts, taking into account both precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6656804744289706
+    }
+  ],
+  "(4872, 7601)": [
+    {
+      "name": "effective drought index",
+      "label": "variable",
+      "description": "A quantitative measure used to assess the severity and impact of droughts on the environment and human activities",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.5776194162678018
+    },
+    {
+      "name": "severe drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall that can have significant impacts on ecosystems, agriculture, and human societies",
+      "uuid": "e4c806af-ab57-4fda-b7e9-29e3c65f6ec5",
+      "score": 0.6265150852683508
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used in climate and weather studies",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6760310654352032
+    },
+    {
+      "name": "meteorological droughts",
+      "label": "weather event",
+      "description": "A type of drought characterized by a prolonged period of abnormally low rainfall, often studied using meteorological data and indices",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5657253209444552
+    },
+    {
+      "name": "Caspian Sea's northwestern and southern shores",
+      "label": "location",
+      "description": "A region located on the shores of the Caspian Sea, known for its unique climate and environmental characteristics",
+      "uuid": "109670ea-5fc7-4726-b772-f315fa0fa603",
+      "score": 0.6074967390483833
+    },
+    {
+      "name": "seven precipitation-based drought indices",
+      "label": "variable",
+      "description": "A set of quantitative measures used to assess and monitor droughts based on precipitation data",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.627821113790298
+    },
+    {
+      "name": "meteorological drought",
+      "label": "weather event",
+      "description": "A type of drought characterized by a prolonged period of abnormally low rainfall, often studied using meteorological data and indices",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.582547985272825
+    },
+    {
+      "name": "drought events",
+      "label": "weather event",
+      "description": "Specific instances of droughts, often characterized by their severity, duration, and impact",
+      "uuid": "12a896f3-993d-49f6-aafc-17378ffa3998",
+      "score": 0.6447019055812384
+    },
+    {
+      "name": "standardized precipitation index",
+      "label": "variable",
+      "description": "A quantitative measure used to assess the severity and impact of droughts on the environment and human activities",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7547670593424919
+    },
+    {
+      "name": "extreme drought",
+      "label": "natural hazard",
+      "description": "A severe and prolonged period of abnormally low rainfall that can have significant impacts on ecosystems, agriculture, and human societies",
+      "uuid": "e4c806af-ab57-4fda-b7e9-29e3c65f6ec5",
+      "score": 0.7426102063501605
+    },
+    {
+      "name": "FAO-56 Penman-Monteith equation",
+      "label": "model",
+      "description": "A mathematical model used to estimate evapotranspiration and other hydrological processes, often used in climate and agricultural studies",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.6987098580743074
+    },
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country located in the Middle East, known for its diverse climate and environmental characteristics",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.6748370256398244
+    }
+  ],
+  "(7139, 9943)": [
+    {
+      "name": "atmospheric evaporative demand",
+      "label": "variable",
+      "description": "A measure of the atmosphere's ability to remove water from the surface, calculated using the FAO-56 Penman-Monteith equation",
+      "uuid": "f28060e0-1c51-41df-8451-6c98b3e77e8a",
+      "score": 0.5234528790603943
+    },
+    {
+      "name": "meteorological drought",
+      "label": "natural hazard",
+      "description": "A type of drought characterized by a prolonged period of abnormally low precipitation, often leading to water shortages and impacts on ecosystems",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6121530677384989
+    },
+    {
+      "name": "FAO-56 Penman-Monteith equation",
+      "label": "model",
+      "description": "A widely used method for estimating evapotranspiration and atmospheric evaporative demand, developed by the Food and Agriculture Organization of the United Nations",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.6538942940092615
+    },
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure of drought severity that takes into account both precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6589656549760244
+    },
+    {
+      "name": "SPI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Index, a measure of drought severity based on precipitation alone",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7685587495590724
+    },
+    {
+      "name": "random forest",
+      "label": "model",
+      "description": "A machine learning algorithm used for classification and regression tasks, known for its simplicity and effectiveness",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.7281192020409851
+    },
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country in the Middle East, characterized by a diverse climate and prone to droughts",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.6551665171396666
+    },
+    {
+      "name": "data mining",
+      "label": "instrument",
+      "description": "The process of discovering patterns and relationships in large datasets, often using machine learning algorithms",
+      "uuid": "07291e32-fd39-45e8-a603-7443cb780976",
+      "score": 0.7065853727862533
+    }
+  ],
+  "(9529, 12325)": [
+    {
+      "name": "SPI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Index, a measure used to identify and monitor droughts based on precipitation data",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7754758208984045
+    },
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation-Evapotranspiration Index, a measure that considers both precipitation and temperature to assess drought conditions",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6559500040496116
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface over a specified period, an essential component of the hydrological cycle",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6538860463615422
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold in an environment, affecting various climate and weather phenomena",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6255290071723933
+    },
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country in the Middle East, characterized by a predominantly arid and semi-arid climate",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.6581535779036175
+    },
+    {
+      "name": "Meteorological Organization of Iran",
+      "label": "provider",
+      "description": "The national agency responsible for collecting, analyzing, and disseminating weather and climate data in Iran",
+      "uuid": "e1569365-7ec4-45c7-a0ba-b69a2a7ba8f4",
+      "score": 0.5088019775009992
+    }
+  ],
+  "(11849, 14381)": [
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country in Western Asia, characterized by diverse topography and climates, with a wide range of elevations and precipitation patterns",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.6872600244407984
+    },
+    {
+      "name": "Meteorological Organization of Iran",
+      "label": "provider",
+      "description": "The national weather service of Iran, responsible for collecting and disseminating meteorological data",
+      "uuid": "274d7fdb-a008-46ab-b902-96e5a8d40314",
+      "score": 0.5089740932750785
+    },
+    {
+      "name": "Western Asia",
+      "label": "location",
+      "description": "A region in Asia, encompassing countries such as Iran, Turkey, and Iraq, with varied climates and geography",
+      "uuid": "1b6309ac-463b-4512-ab29-9870f3f8ba19",
+      "score": 0.8056991284182301
+    },
+    {
+      "name": "Caspian Sea",
+      "label": "location",
+      "description": "The largest inland body of water in the world, located in the northern part of Iran, with a significant impact on regional climate and ecosystems",
+      "uuid": "109670ea-5fc7-4726-b772-f315fa0fa603",
+      "score": 0.7723475863513786
+    },
+    {
+      "name": "Standardized Precipitation Index (SPI)",
+      "label": "variable",
+      "description": "A measure of precipitation anomaly, used to identify and quantify droughts",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7908463724696281
+    },
+    {
+      "name": "Standardized Precipitation Evapotranspiration Index (SPEI)",
+      "label": "variable",
+      "description": "A measure of precipitation and evapotranspiration anomaly, used to identify and quantify droughts",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6788365702212207
+    },
+    {
+      "name": "mean sea level",
+      "label": "variable",
+      "description": "The average height of the ocean's surface, used as a reference point for measuring elevation",
+      "uuid": "f3ea8884-87a8-4a12-96d5-98e21a9fa2c7",
+      "score": 0.7988838061420038
+    }
+  ],
+  "(13996, 15828)": [
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure used to quantify drought conditions by considering both precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6632826517555753
+    },
+    {
+      "name": "SPI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Index, a measure used to quantify drought conditions based solely on precipitation data",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7744519610896409
+    },
+    {
+      "name": "PET",
+      "label": "variable",
+      "description": "Potential Evapotranspiration, the amount of water that would evaporate from the land surface if it were completely saturated",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6715664362132384
+    },
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country in the Middle East, known for its diverse climate and geography",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.686799983301451
+    },
+    {
+      "name": "monthly",
+      "label": "time scale",
+      "description": "A unit of time used to measure and analyze climate and weather patterns, specifically one month",
+      "uuid": "8c8c70b1-f6c5-4f34-89b5-510049b8c8ab",
+      "score": 0.6473236243114647
+    },
+    {
+      "name": "seasonal",
+      "label": "time scale",
+      "description": "A unit of time used to measure and analyze climate and weather patterns, specifically one season",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.637067856083428
+    },
+    {
+      "name": "annual",
+      "label": "time scale",
+      "description": "A unit of time used to measure and analyze climate and weather patterns, specifically one year",
+      "uuid": "40e09855-fb48-4a7d-9851-d6e809e6c309",
+      "score": 0.628561583635327
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7036570460955207
+    }
+  ],
+  "(15596, 18114)": [
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure of meteorological drought that takes into account both precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6589262038793446
+    },
+    {
+      "name": "SPI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Index, a measure of meteorological drought based solely on precipitation data",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7731947999145422
+    },
+    {
+      "name": "Penman-Monteith method",
+      "label": "model",
+      "description": "A method used to estimate evapotranspiration from a surface, taking into account factors such as temperature, humidity, wind speed, and radiation",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.6757971171365679
+    },
+    {
+      "name": "ground-based data",
+      "label": "variable",
+      "description": "Data collected directly from weather stations or other ground-based measurement systems",
+      "uuid": "dbcead38-c78b-4306-b56f-0ea15c0b755b",
+      "score": 0.6107383424755417
+    },
+    {
+      "name": "synoptic stations",
+      "label": "platform",
+      "description": "Weather stations that provide data on current weather conditions, used for forecasting and climate research",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.5844656553754949
+    },
+    {
+      "name": "Climatic Research Unit (CRU)",
+      "label": "provider",
+      "description": "A research institution that produces and distributes climate datasets, including reanalysis data",
+      "uuid": "a32f3c0b-b3e9-4e93-a9d2-53c2f61404d8",
+      "score": 0.6127564733318773
+    },
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country in the Middle East, used as a study area for investigating meteorological drought",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.5952882115914242
+    },
+    {
+      "name": "meteorological drought",
+      "label": "natural hazard",
+      "description": "A type of drought characterized by a prolonged period of abnormally low precipitation, leading to water shortages and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6163783332746754
+    },
+    {
+      "name": "drought characteristics",
+      "label": "variable",
+      "description": "Features of drought events, including severity, duration, and peak, used to understand and predict drought impacts",
+      "uuid": "1a6b76b0-6c03-4021-92fb-66552edcf845",
+      "score": 0.6048103597561559
+    },
+    {
+      "name": "drought event",
+      "label": "weather event",
+      "description": "A specific occurrence of drought, characterized by its severity, duration, and impact on the environment and human societies",
+      "uuid": "1a6b76b0-6c03-4021-92fb-66552edcf845",
+      "score": 0.6372941608592486
+    },
+    {
+      "name": "drought severity",
+      "label": "variable",
+      "description": "A measure of the intensity of a drought event, often quantified using indices such as SPI or SPEI",
+      "uuid": "1a6b76b0-6c03-4021-92fb-66552edcf845",
+      "score": 0.7927792880669995
+    }
+  ],
+  "(17639, 20394)": [
+    {
+      "name": "drought events",
+      "label": "weather event",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "12a896f3-993d-49f6-aafc-17378ffa3998",
+      "score": 0.6845434832347581
+    },
+    {
+      "name": "drought characteristics",
+      "label": "variable",
+      "description": "Quantities that describe the severity, duration, and peak of drought events, used to understand and predict drought impacts",
+      "uuid": "1a6b76b0-6c03-4021-92fb-66552edcf845",
+      "score": 0.5953720876234114
+    },
+    {
+      "name": "drought indices",
+      "label": "variable",
+      "description": "Time series data that represent the intensity of drought, used to detect and analyze drought events",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.6928810176963668
+    },
+    {
+      "name": "SPI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Index, a drought index used to measure the severity of drought",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7682060013088219
+    },
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a drought index used to measure the severity of drought",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6643735404925979
+    },
+    {
+      "name": "random forest model",
+      "label": "model",
+      "description": "A machine learning algorithm used for classification and regression tasks, including the analysis of drought events and characteristics",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.6769128949719629
+    }
+  ],
+  "(19982, 22552)": [
+    {
+      "name": "Random Forest",
+      "label": "model",
+      "description": "A machine learning algorithm that combines multiple decision trees to improve the accuracy and robustness of predictions",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.7395753641475785
+    },
+    {
+      "name": "meteorological droughts",
+      "label": "natural hazard",
+      "description": "A type of drought that occurs when there is a prolonged period of abnormally low rainfall, leading to water shortages and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5908172461658057
+    },
+    {
+      "name": "climate regions",
+      "label": "location",
+      "description": "Areas on Earth characterized by distinct climate patterns, such as temperature, precipitation, and seasonality",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.5382457591200017
+    }
+  ],
+  "(22140, 24508)": [
+    {
+      "name": "RF model",
+      "label": "model",
+      "description": "A machine learning model that uses decision trees to predict continuous and categorical variables, in this case, droughts",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.587176451934912
+    },
+    {
+      "name": "SPI-1",
+      "label": "variable",
+      "description": "The Standardized Precipitation Index for a 1-month timescale, used to measure drought severity",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6802991584649328
+    },
+    {
+      "name": "SPEI-1",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index for a 1-month timescale, used to measure drought severity",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.5954863141119658
+    },
+    {
+      "name": "drought class prediction",
+      "label": "experiment",
+      "description": "A study that aims to predict the class of droughts using machine learning models",
+      "uuid": "a394776f-b658-44de-b952-90f4e53d58cc",
+      "score": 0.5758920767441055
+    },
+    {
+      "name": "drought class",
+      "label": "variable",
+      "description": "A categorical variable that represents the severity of droughts",
+      "uuid": "d0a52ada-8d32-4d68-9daf-cc1c4d58aed3",
+      "score": 0.6213940023169163
+    }
+  ],
+  "(24012, 26894)": [
+    {
+      "name": "SPI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Index, a measure used to quantify the precipitation deficit or surplus at different time scales",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7833909961374473
+    },
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation-Evapotranspiration Index, a measure that takes into account both precipitation and potential evapotranspiration to quantify drought conditions",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6620452912603232
+    },
+    {
+      "name": "drought events",
+      "label": "weather event",
+      "description": "Occurrences of drought conditions, which can have significant impacts on the environment, agriculture, and human societies",
+      "uuid": "12a896f3-993d-49f6-aafc-17378ffa3998",
+      "score": 0.6759517181962619
+    },
+    {
+      "name": "drought class prediction",
+      "label": "variable",
+      "description": "A classification of drought severity, often based on indices such as SPI or SPEI, used to predict and manage drought impacts",
+      "uuid": "a394776f-b658-44de-b952-90f4e53d58cc",
+      "score": 0.6048833842329464
+    },
+    {
+      "name": "drought intensity",
+      "label": "variable",
+      "description": "A measure of the severity of drought conditions, often quantified using indices such as SPI or SPEI",
+      "uuid": "d0a52ada-8d32-4d68-9daf-cc1c4d58aed3",
+      "score": 0.6718184339734071
+    },
+    {
+      "name": "drought duration",
+      "label": "variable",
+      "description": "The length of time a drought condition persists, an important factor in assessing drought impacts and planning mitigation strategies",
+      "uuid": "27f92e4f-93f0-4740-bf99-2c44c0c3c23d",
+      "score": 0.7153305096084294
+    }
+  ],
+  "(26351, 29029)": [
+    {
+      "name": "SPI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Index, a measure of drought based on precipitation data",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7743735917113825
+    },
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation-Evapotranspiration Index, a measure of drought that takes into account both precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6599636949900022
+    },
+    {
+      "name": "drought events",
+      "label": "weather event",
+      "description": "Occurrences of drought, which can be characterized by their frequency, duration, and severity",
+      "uuid": "0f7f8887-844d-45d8-9d45-7e48e15c50fd",
+      "score": 0.6624850557870396
+    },
+    {
+      "name": "drought characteristics",
+      "label": "variable",
+      "description": "Properties of drought events, including their frequency, duration, and severity",
+      "uuid": "0f7f8887-844d-45d8-9d45-7e48e15c50fd",
+      "score": 0.6021774409512982
+    },
+    {
+      "name": "drought severity",
+      "label": "variable",
+      "description": "A measure of the intensity of a drought event, often quantified using indices such as SPI or SPEI",
+      "uuid": "1a6b76b0-6c03-4021-92fb-66552edcf845",
+      "score": 0.7927792880669995
+    },
+    {
+      "name": "highest drought severity",
+      "label": "variable",
+      "description": "The maximum intensity of drought experienced at a particular location or time period",
+      "uuid": "1a6b76b0-6c03-4021-92fb-66552edcf845",
+      "score": 0.6218356843503564
+    },
+    {
+      "name": "drought classes",
+      "label": "variable",
+      "description": "Categorizations of drought severity, often based on indices such as SPI or SPEI",
+      "uuid": "d0a52ada-8d32-4d68-9daf-cc1c4d58aed3",
+      "score": 0.6103698687201142
+    },
+    {
+      "name": "meteorological drought index",
+      "label": "variable",
+      "description": "A measure of drought based on meteorological data, such as precipitation and temperature",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.5913497286692196
+    }
+  ],
+  "(28557, 30883)": [
+    {
+      "name": "SPI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Index, a drought index used to quantify the severity of precipitation deficits over a given period of time",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.770099431796122
+    },
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation-Evapotranspiration Index, a drought index that incorporates both precipitation and evapotranspiration to assess drought severity",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6608447127329522
+    },
+    {
+      "name": "RF model",
+      "label": "model",
+      "description": "The Random Forest model, a machine learning algorithm used for predicting and classifying data, in this case, used to predict drought indices",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.6675961683223159
+    },
+    {
+      "name": "meteorological drought index",
+      "label": "variable",
+      "description": "An index used to quantify the severity of droughts based on meteorological factors such as precipitation and temperature",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.6041385236249563
+    },
+    {
+      "name": "drought classes",
+      "label": "variable",
+      "description": "Categorizations of drought severity, often based on drought indices such as SPI and SPEI",
+      "uuid": "d0a52ada-8d32-4d68-9daf-cc1c4d58aed3",
+      "score": 0.6134404748782692
+    },
+    {
+      "name": "short, medium, and long-term severe or extreme meteorological droughts",
+      "label": "natural hazard",
+      "description": "Drought events categorized by their duration and severity, with short-term referring to periods of less than 6 months, medium-term between 6 months and 2 years, and long-term exceeding 2 years",
+      "uuid": "ebd54a3b-8b8b-40e8-94fd-d0b4352e0745",
+      "score": 0.5804086375537946
+    },
+    {
+      "name": "drought index data",
+      "label": "variable",
+      "description": "Data collected and used to calculate drought indices such as SPI and SPEI",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.6513748935527828
+    }
+  ],
+  "(30420, 32827)": [
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7131149544161883
+    },
+    {
+      "name": "drought index",
+      "label": "variable",
+      "description": "A quantitative measure used to characterize the severity and impact of droughts",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.6550982209492316
+    },
+    {
+      "name": "prediction models",
+      "label": "model",
+      "description": "Computational tools used to forecast or simulate the behavior of complex systems, such as droughts",
+      "uuid": "fe4392b0-13a9-43ff-bacc-f44a65aed4fa",
+      "score": 0.5047649199018838
+    },
+    {
+      "name": "RF model",
+      "label": "model",
+      "description": "A type of machine learning model, specifically a random forest model, used for predicting droughts",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.6106644571604979
+    },
+    {
+      "name": "SPI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Index, a drought index used to characterize precipitation anomalies",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7831178030440881
+    },
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation-Evapotranspiration Index, a drought index used to characterize precipitation and evapotranspiration anomalies",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6739425590629657
+    }
+  ],
+  "(32367, 34687)": [
+    {
+      "name": "SPI",
+      "label": "model",
+      "description": "The Standardized Precipitation Index, a widely used indicator for assessing drought severity and duration based on precipitation data",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7803481701840433
+    },
+    {
+      "name": "SPEI",
+      "label": "model",
+      "description": "The Standardized Precipitation Evapotranspiration Index, an extension of SPI that incorporates both precipitation and evapotranspiration to assess drought conditions",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6565941671118145
+    },
+    {
+      "name": "drought class",
+      "label": "variable",
+      "description": "A categorization of drought severity, often based on indices like SPI or SPEI, used to assess and manage drought impacts",
+      "uuid": "d0a52ada-8d32-4d68-9daf-cc1c4d58aed3",
+      "score": 0.6439889073787319
+    }
+  ],
+  "(34284, 36199)": [
+    {
+      "name": "SPEI",
+      "label": "model",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a drought index used to assess drought conditions based on precipitation and evapotranspiration data",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6643009063708822
+    },
+    {
+      "name": "SPI",
+      "label": "model",
+      "description": "The Standardized Precipitation Index, a drought index used to assess drought conditions based on precipitation data",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7801053459254977
+    },
+    {
+      "name": "RF",
+      "label": "model",
+      "description": "Random Forest, a machine learning algorithm used for classification and regression tasks, including drought prediction",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.6544767600613892
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7131149544161883
+    }
+  ],
+  "(35867, 38557)": [
+    {
+      "name": "SPI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Index, a measure of drought severity based on precipitation data",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7728347732451757
+    },
+    {
+      "name": "SPEI",
+      "label": "variable",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a measure of drought severity that takes into account both precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6589656549760244
+    },
+    {
+      "name": "PET",
+      "label": "variable",
+      "description": "Potential Evapotranspiration, a measure of the amount of water that could evaporate from the soil and plants if there were enough water available",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6673062682341475
+    },
+    {
+      "name": "UE",
+      "label": "variable",
+      "description": "A measure of underestimation in modeling, possibly related to drought monitoring",
+      "uuid": "8a5b3beb-e397-4ab9-8ded-06940862bd89",
+      "score": 0.6012907064083374
+    },
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country in the Middle East, known for its diverse climate and geography",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.686799983301451
+    },
+    {
+      "name": "3-month drought",
+      "label": "weather event",
+      "description": "A drought event that lasts for 3 months, characterized by low precipitation and high temperatures",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5118565351344059
+    }
+  ],
+  "(38045, 40741)": [
+    {
+      "name": "north",
+      "label": "location",
+      "description": "A geographic region characterized by its latitude, typically above the equator",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.5312759400849305
+    },
+    {
+      "name": "northwest",
+      "label": "location",
+      "description": "A geographic region characterized by its latitude and longitude, typically located in the northwestern part of a country or continent",
+      "uuid": "7d10a16f-ca01-4ea5-b842-24c889210ab5",
+      "score": 0.5815669967445186
+    },
+    {
+      "name": "central",
+      "label": "location",
+      "description": "A geographic region characterized by its latitude and longitude, typically located in the central part of a country or continent",
+      "uuid": "f2b153dd-1c30-42e4-8abf-677111e76c9a",
+      "score": 0.5461998768686598
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7131149544161883
+    },
+    {
+      "name": "drought severity",
+      "label": "variable",
+      "description": "A measure of the intensity or impact of a drought, often quantified using indices such as SPI or SPEI",
+      "uuid": "5bb5322d-f3f8-4ca4-91c6-311769936f96",
+      "score": 0.7717750838734376
+    },
+    {
+      "name": "drought durability",
+      "label": "variable",
+      "description": "A measure of the duration or persistence of a drought, often quantified using indices such as SPI or SPEI",
+      "uuid": "27f92e4f-93f0-4740-bf99-2c44c0c3c23d",
+      "score": 0.600045970990049
+    },
+    {
+      "name": "SPI",
+      "label": "instrument",
+      "description": "The Standardized Precipitation Index, a tool used to quantify and monitor drought conditions",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7661934250592634
+    },
+    {
+      "name": "SPEI",
+      "label": "instrument",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a tool used to quantify and monitor drought conditions, taking into account both precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6722461216599864
+    },
+    {
+      "name": "precipitation trends",
+      "label": "variable",
+      "description": "Changes in the pattern or amount of precipitation over time, often used to study climate variability and change",
+      "uuid": "279961c4-dac3-4188-917f-fa11982f957e",
+      "score": 0.7328123169193197
+    },
+    {
+      "name": "drought time scale",
+      "label": "variable",
+      "description": "The duration or timeframe over which drought conditions are measured or analyzed, often ranging from short-term to long-term",
+      "uuid": "27f92e4f-93f0-4740-bf99-2c44c0c3c23d",
+      "score": 0.5855038887672359
+    },
+    {
+      "name": "drought time series",
+      "label": "variable",
+      "description": "A sequence of data points representing drought conditions over time, often used for analysis and prediction",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5420499796395681
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate system, often driven by human activities and leading to impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5993935620811328
+    },
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country located in the Middle East, characterized by its diverse climate and geography",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.712484546143073
+    },
+    {
+      "name": "RF",
+      "label": "model",
+      "description": "A type of machine learning algorithm used for predicting and modeling complex phenomena, including drought events",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.5851200209022802
+    }
+  ],
+  "(40259, 43059)": [
+    {
+      "name": "drought time scale",
+      "label": "variable",
+      "description": "A measure of the duration of drought periods, used to analyze and predict drought patterns",
+      "uuid": "27f92e4f-93f0-4740-bf99-2c44c0c3c23d",
+      "score": 0.5726908796190174
+    },
+    {
+      "name": "short-term drought predictions",
+      "label": "experiment",
+      "description": "Climate simulations designed to forecast drought events over short periods, typically less than a year",
+      "uuid": "a394776f-b658-44de-b952-90f4e53d58cc",
+      "score": 0.5129518910700982
+    },
+    {
+      "name": "decision tree",
+      "label": "model",
+      "description": "A machine learning algorithm used for classification and regression tasks, including drought prediction",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.7368995246934362
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability and quality of water in a region, essential for human consumption, agriculture, and ecosystems",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.7141659794948257
+    },
+    {
+      "name": "meteorological drought",
+      "label": "natural hazard",
+      "description": "A type of drought characterized by a prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human activities",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6150611020341545
+    },
+    {
+      "name": "drought hazards",
+      "label": "natural hazard",
+      "description": "The potential risks and consequences associated with drought events, including water scarcity, crop failure, and increased risk of wildfires",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.6169888403186284
+    },
+    {
+      "name": "precipitation-based drought indices",
+      "label": "variable",
+      "description": "Measures used to quantify drought severity based on precipitation data, such as the Standardized Precipitation Index (SPI) and the Standardized Precipitation Evapotranspiration Index (SPEI",
+      "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
+      "score": 0.6572212816533992
+    },
+    {
+      "name": "drought forecasting",
+      "label": "experiment",
+      "description": "Climate simulations designed to predict the onset, duration, and severity of drought events",
+      "uuid": "a394776f-b658-44de-b952-90f4e53d58cc",
+      "score": 0.674939644473087
+    },
+    {
+      "name": "drought time series",
+      "label": "variable",
+      "description": "A sequence of data points representing drought conditions over time, used for analysis and prediction of drought patterns",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5271133064443503
+    },
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country in the Middle East, characterized by an arid and semi-arid climate, making it prone to drought events",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.601036074109355
+    }
+  ],
+  "(42563, 45493)": [
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and potential impacts on ecosystems, agriculture, and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.7211582294132386
+    },
+    {
+      "name": "Iran",
+      "label": "location",
+      "description": "A country in the Middle East with diverse climate zones, including arid, semi-arid, temperate, and continental regions",
+      "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+      "score": 0.6633818689875988
+    },
+    {
+      "name": "SPI",
+      "label": "instrument",
+      "description": "The Standardized Precipitation Index, a tool used to measure drought severity and monitor precipitation patterns",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.7663067329181522
+    },
+    {
+      "name": "SPEI",
+      "label": "instrument",
+      "description": "The Standardized Precipitation Evapotranspiration Index, a method for assessing drought conditions by considering both precipitation and evapotranspiration",
+      "uuid": "7427fb2d-43b5-478a-960d-2ff9aa398462",
+      "score": 0.6594324170600315
+    },
+    {
+      "name": "drought management",
+      "label": "project",
+      "description": "Efforts and strategies aimed at mitigating the impacts of drought, including water conservation, efficient irrigation, and emergency response planning",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.5263510508284968
+    },
+    {
+      "name": "RF model",
+      "label": "model",
+      "description": "A Random Forest model, a machine learning algorithm used for predicting drought events and assessing the relationships between various climate and environmental factors",
+      "uuid": "a68048f4-181c-4c6c-9bfa-9e4171e9f237",
+      "score": 0.6298311683260243
+    },
+    {
+      "name": "Penman-Monteith method",
+      "label": "instrument",
+      "description": "A technique for estimating potential evapotranspiration, which is essential for understanding water balance and drought dynamics",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.6498042965353972
+    },
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that would be lost through evaporation and plant transpiration if the soil were fully saturated and vegetation were fully grown",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.742243207190324
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability and quality of water in a region, which can be affected by drought and other climate-related factors",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6662021922694972
+    },
+    {
+      "name": "ground-based data",
+      "label": "variable",
+      "description": "Meteorological data collected from ground-based stations, which can be used to validate and improve drought prediction models",
+      "uuid": "dbcead38-c78b-4306-b56f-0ea15c0b755b",
+      "score": 0.5566787364677682
+    },
+    {
+      "name": "drought severity",
+      "label": "variable",
+      "description": "The degree of drought impact, often measured by indices such as SPI and SPEI, which consider factors like precipitation, evapotranspiration, and soil moisture",
+      "uuid": "d0a52ada-8d32-4d68-9daf-cc1c4d58aed3",
+      "score": 0.7448686370214812
+    },
+    {
+      "name": "short-term meteorological drought prediction",
+      "label": "experiment",
+      "description": "An effort to forecast drought conditions over a short period, typically using statistical or machine learning models",
+      "uuid": "a394776f-b658-44de-b952-90f4e53d58cc",
+      "score": 0.5685742554461239
+    }
+  ],
+  "(45109, 45493)": [
+    {
+      "name": "potential evapotranspiration",
+      "label": "variable",
+      "description": "A measure of the maximum possible evapotranspiration that can occur from a surface, typically used in hydrology and climate studies",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.7600869234704085
+    },
+    {
+      "name": "short-term meteorological drought prediction",
+      "label": "experiment",
+      "description": "A type of climate prediction focused on forecasting drought conditions over short periods, typically using statistical or machine learning models",
+      "uuid": "a394776f-b658-44de-b952-90f4e53d58cc",
+      "score": 0.5747755675744312
+    }
+  ]
+}

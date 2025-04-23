@@ -1,0 +1,767 @@
+{
+  "(0, 2593)": [
+    {
+      "name": "Intergovernmental Panel on Climate Change (IPCC)",
+      "label": "provider",
+      "description": "An international organization that assesses climate change science and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7376879715759739
+    },
+    {
+      "name": "Representative Concentration Pathway (RCP)",
+      "label": "experiment",
+      "description": "A set of scenarios used to predict future climate change, defined by the IPCC",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5309875714600948
+    },
+    {
+      "name": "Maxent model",
+      "label": "model",
+      "description": "A maximum entropy model used for predicting species distribution based on environmental variables",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5140881681989022
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "A measure of the height of an area above sea level, influencing the distribution of Qinghai spruce",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.563795379006988
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, altering ecosystems and species distributions",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5912871713766178
+    }
+  ],
+  "(2233, 4977)": [
+    {
+      "name": "Southeast Asian monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings significant precipitation to parts of Asia",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6081378830628903
+    },
+    {
+      "name": "atmospheric circulation systems",
+      "label": "model",
+      "description": "A conceptual framework for understanding the movement of air in the atmosphere and its impact on climate",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.5025477407310761
+    },
+    {
+      "name": "meteorological stations",
+      "label": "instrument",
+      "description": "Devices used to measure and record weather and climate data",
+      "uuid": "9b51d8b7-1ad3-4ca4-985b-e178bb17f745",
+      "score": 0.6904701805286961
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important factor in shaping climate and ecosystems",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6415501029149926
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing climate and ecosystems",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6387112725828034
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "The plant life in a particular region, influenced by climate, soil, and other environmental factors",
+      "uuid": "c7b5c02c-724d-4a19-b824-98180f3900c9",
+      "score": 0.6222653140898804
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, and supporting plant life",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6287538392918184
+    },
+    {
+      "name": "desert",
+      "label": "location",
+      "description": "A type of ecosystem characterized by low precipitation and limited vegetation",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.6641735545651285
+    },
+    {
+      "name": "desert steppe",
+      "label": "location",
+      "description": "A type of ecosystem characterized by low precipitation and limited vegetation, with some grasses and shrubs",
+      "uuid": "4f63746e-0e8b-4254-9d4a-a23a852f819f",
+      "score": 0.5464427138811615
+    },
+    {
+      "name": "steppe-forest",
+      "label": "location",
+      "description": "A type of ecosystem characterized by a mix of grasses and trees, often found in transition zones between steppe and forest ecosystems",
+      "uuid": "9cde47e7-325b-465e-93a6-ae4d459c7945",
+      "score": 0.514019850444462
+    },
+    {
+      "name": "sub-alpine shrubby meadow",
+      "label": "location",
+      "description": "A type of ecosystem characterized by shrubs and grasses, often found in high-elevation regions",
+      "uuid": "101950b9-00d3-4721-9af8-fa5d51b196c3",
+      "score": 0.5592779967050397
+    },
+    {
+      "name": "alpine frost-action barren zone",
+      "label": "location",
+      "description": "A type of ecosystem characterized by limited vegetation and harsh climate conditions, often found in high-elevation regions",
+      "uuid": "76589134-8d93-4e45-8476-f04497181d14",
+      "score": 0.5535042389619721
+    },
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a government agency responsible for providing scientific information about the Earth's natural resources",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6732127446749481
+    }
+  ],
+  "(4467, 7138)": [
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a scientific agency responsible for providing information on the Earth's natural resources and environment",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6777012309229211
+    },
+    {
+      "name": "WorldClim",
+      "label": "provider",
+      "description": "A database providing global climate data, including bioclimatic variables and climate projections",
+      "uuid": "1840f198-7392-4525-982b-e3ac47f84780",
+      "score": 0.5507960748546941
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used for simulating and predicting Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.794386786461252
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, describing a future greenhouse gas concentration trajectory with a total radiative forcing of 2.6 W/m^2 by 2100",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6953468060233651
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, describing a future greenhouse gas concentration trajectory with a total radiative forcing of 4.5 W/m^2 by 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6383155879693948
+    },
+    {
+      "name": "RCP6.0",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, describing a future greenhouse gas concentration trajectory with a total radiative forcing of 6.0 W/m^2 by 2100",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6366367046558551
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, describing a future greenhouse gas concentration trajectory with a total radiative forcing of 8.5 W/m^2 by 2100",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.7193843111959185
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "A measure of the height of a location above sea level, often used as a terrain variable in environmental studies",
+      "uuid": "74ed1690-968e-444c-8a31-7b8344a2aad3",
+      "score": 0.6599876851305647
+    },
+    {
+      "name": "aspect",
+      "label": "variable",
+      "description": "A measure of the direction in which a slope faces, often used as a terrain variable in environmental studies",
+      "uuid": "284594aa-8f07-41db-927c-f84980da2877",
+      "score": 0.512653695555656
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "A measure of the steepness of a terrain, often used as a terrain variable in environmental studies",
+      "uuid": "aeb02243-583f-444e-a2a4-341ab351a3d8",
+      "score": 0.6095494564385732
+    },
+    {
+      "name": "bioclimatic variables",
+      "label": "variable",
+      "description": "A set of climate variables, such as temperature and precipitation, used to describe the climate conditions of a region",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.5219485332292706
+    },
+    {
+      "name": "IBM-SPSS",
+      "label": "instrument",
+      "description": "A statistical software used for data analysis and modeling",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.6092645507783853
+    }
+  ],
+  "(6635, 9308)": [
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a scientific agency providing data and information on the Earth's natural resources",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.684677269080037
+    },
+    {
+      "name": "WorldClim",
+      "label": "provider",
+      "description": "A database providing global climate data, including bioclimatic variables",
+      "uuid": "1840f198-7392-4525-982b-e3ac47f84780",
+      "score": 0.5384606879991503
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used to simulate future climate scenarios",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7828759736417696
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, modeling future greenhouse gas concentrations and their impact on climate",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6709858946680777
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, modeling future greenhouse gas concentrations and their impact on climate",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6321514829718853
+    },
+    {
+      "name": "RCP6.0",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, modeling future greenhouse gas concentrations and their impact on climate",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6198886796383761
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario, modeling future greenhouse gas concentrations and their impact on climate",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.67550750966836
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "A terrain variable, measuring the height of land above sea level",
+      "uuid": "74ed1690-968e-444c-8a31-7b8344a2aad3",
+      "score": 0.6910771492978681
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "A terrain variable, measuring the steepness of land",
+      "uuid": "aeb02243-583f-444e-a2a4-341ab351a3d8",
+      "score": 0.5937426520191135
+    },
+    {
+      "name": "bioclimatic variables",
+      "label": "variable",
+      "description": "Climate variables, such as temperature and precipitation, used to study the ecological niche of species",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.503284645846638
+    }
+  ],
+  "(8873, 11650)": [
+    {
+      "name": "Maxent model",
+      "label": "model",
+      "description": "A machine learning technique used for predicting species distribution based on occurrence and environmental data",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5302418028419076
+    },
+    {
+      "name": "IBM-SPSS",
+      "label": "instrument",
+      "description": "Statistical software used for data analysis, including the calculation of Pearson's correlation coefficient",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.5183548654792031
+    },
+    {
+      "name": "Ecological Niche Modeling",
+      "label": "project",
+      "description": "A research project aimed at predicting the current and future potential distribution of species based on environmental factors",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5454470629927045
+    },
+    {
+      "name": "CSV format",
+      "label": "variable",
+      "description": "A file format used for storing species distribution point data",
+      "uuid": "465809cc-e76c-4630-8594-bb8bd7a1a380",
+      "score": 0.713254178443213
+    },
+    {
+      "name": "ASCII raster grids",
+      "label": "variable",
+      "description": "A format used for storing environmental variable data",
+      "uuid": "d7d5b771-8c3e-44d5-ba14-8a3757cecbaf",
+      "score": 0.7769372467066004
+    },
+    {
+      "name": "ArcGIS",
+      "label": "instrument",
+      "description": "Geographic Information System software used for converting species occurrence coordinates and environmental variables",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.5309188283524893
+    },
+    {
+      "name": "Elevation",
+      "label": "variable",
+      "description": "A environmental variable used in the Maxent model, representing the height of an area above sea level",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.546536847425824
+    },
+    {
+      "name": "Slope",
+      "label": "variable",
+      "description": "A environmental variable used in the Maxent model, representing the steepness of an area",
+      "uuid": "aeb02243-583f-444e-a2a4-341ab351a3d8",
+      "score": 0.5164242842462177
+    }
+  ],
+  "(11198, 13602)": [
+    {
+      "name": "Elevation",
+      "label": "variable",
+      "description": "The height of an object or point in relation to sea level or ground level",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.6060348531239342
+    },
+    {
+      "name": "Slope",
+      "label": "variable",
+      "description": "The angle of inclination of a surface or a line",
+      "uuid": "aeb02243-583f-444e-a2a4-341ab351a3d8",
+      "score": 0.5434559424732679
+    },
+    {
+      "name": "Aspect",
+      "label": "variable",
+      "description": "The direction in which a slope faces",
+      "uuid": "284594aa-8f07-41db-927c-f84980da2877",
+      "score": 0.506672854817339
+    },
+    {
+      "name": "RCP",
+      "label": "project",
+      "description": "Representative Concentration Pathway, a scenario used to predict future climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5701332472315295
+    }
+  ],
+  "(13318, 15478)": [
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A climate change scenario representing a low greenhouse gas emission pathway, used for modeling and predicting future climate conditions",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6795367015326229
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A climate change scenario representing a medium greenhouse gas emission pathway, used for modeling and predicting future climate conditions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6315115802470053
+    },
+    {
+      "name": "RCP6.0",
+      "label": "experiment",
+      "description": "A climate change scenario representing a medium-high greenhouse gas emission pathway, used for modeling and predicting future climate conditions",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6347359753994597
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A climate change scenario representing a high greenhouse gas emission pathway, used for modeling and predicting future climate conditions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6761872918663508
+    },
+    {
+      "name": "Bio2",
+      "label": "variable",
+      "description": "A bioclimatic variable representing the mean diurnal range, used in species distribution modeling",
+      "uuid": "520a14d3-818b-4d8a-8bae-67307b4b6539",
+      "score": 0.501641501381475
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "A topographic variable representing the height of an area above sea level, used in species distribution modeling",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.5825476417358452
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "A topographic variable representing the steepness of an area, used in species distribution modeling",
+      "uuid": "aeb02243-583f-444e-a2a4-341ab351a3d8",
+      "score": 0.5508169222497398
+    }
+  ],
+  "(15150, 17464)": [
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of an area above sea level, affecting climate, vegetation, and species distribution>",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.5534718659096335
+    },
+    {
+      "name": "RCP2.6",
+      "label": "scenario",
+      "description": "A climate change scenario representing a low-emissions pathway, used for predicting future environmental conditions>",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6804323717445466
+    },
+    {
+      "name": "RCP4.5",
+      "label": "scenario",
+      "description": "A climate change scenario representing a medium-emissions pathway, used for predicting future environmental conditions>",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6328214545532453
+    },
+    {
+      "name": "RCP6.0",
+      "label": "scenario",
+      "description": "A climate change scenario representing a medium-emissions pathway, used for predicting future environmental conditions>",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6333717769844133
+    },
+    {
+      "name": "RCP8.5",
+      "label": "scenario",
+      "description": "A climate change scenario representing a high-emissions pathway, used for predicting future environmental conditions>",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6802555526119375
+    }
+  ],
+  "(17018, 19472)": [
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a low-emissions future with a peak in greenhouse gas emissions followed by a decline",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6576586254220765
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a medium-emissions future with a gradual decline in greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6236317628628582
+    },
+    {
+      "name": "RCP6.0",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a medium-emissions future with a gradual decline in greenhouse gas emissions",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6169813470386236
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, representing a high-emissions future with continued growth in greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6829940190498841
+    },
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "The increase in global temperatures due to human-induced climate change, leading to changes in weather patterns and ecosystems",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6770333407528074
+    }
+  ],
+  "(19167, 21429)": [
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "A period of abnormally hot weather due to an increase in the average global temperature, often associated with climate change>",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6206420454749979
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a low-emissions future with stringent climate policies>",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6728738783565915
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a medium-emissions future with moderate climate policies>",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6267926081311683
+    },
+    {
+      "name": "RCP6.0",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a medium-emissions future with moderate climate policies>",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6261171076088465
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, representing a high-emissions future with little to no climate policies>",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6699120647710476
+    }
+  ],
+  "(21055, 23544)": [
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A climate change scenario used in the Intergovernmental Panel on Climate Change (IPCC) reports, representing a high-emissions future>",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6668112759068179
+    },
+    {
+      "name": "RCP2.6",
+      "label": "experiment",
+      "description": "A climate change scenario used in the Intergovernmental Panel on Climate Change (IPCC) reports, representing a low-emissions future>",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6674511274118569
+    }
+  ],
+  "(23089, 26057)": [
+    {
+      "name": "Maxent model",
+      "label": "model",
+      "description": "A software for modeling species' distributions, using presence-only data to predict the geographical distribution of a species",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5201680499238449
+    },
+    {
+      "name": "SDM",
+      "label": "model",
+      "description": "Species Distribution Models, a type of model used to predict the distribution of species based on environmental factors",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.7291803985930734
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, an important factor influencing the distribution and growth of species",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6172892319634763
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "scenario",
+      "description": "A climate change scenario representing a high greenhouse gas emissions pathway, used for predicting future environmental changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6745339416309071
+    },
+    {
+      "name": "Bio1",
+      "label": "variable",
+      "description": "Annual mean temperature, a bioclimatic variable used in species distribution modeling",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.500944107581074
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of an area above sea level, an important factor influencing the distribution of species",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.5371101124605538
+    }
+  ],
+  "(25505, 28410)": [
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, influencing the distribution and growth of species",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6232249425375411
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of an area above sea level, affecting the distribution and habitat of species",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.5329228443801252
+    },
+    {
+      "name": "RCP2.6",
+      "label": "scenario",
+      "description": "A representative concentration pathway scenario, representing a low carbon emission scenario",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6760810528924354
+    },
+    {
+      "name": "RCP4.5",
+      "label": "scenario",
+      "description": "A representative concentration pathway scenario, representing a medium carbon emission scenario",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6445333175077577
+    },
+    {
+      "name": "RCP6.0",
+      "label": "scenario",
+      "description": "A representative concentration pathway scenario, representing a medium carbon emission scenario",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6372638464450326
+    },
+    {
+      "name": "RCP8.5",
+      "label": "scenario",
+      "description": "A representative concentration pathway scenario, representing an extreme carbon emission scenario",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6840671027763422
+    },
+    {
+      "name": "CCSM4 model",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used to simulate future climate change projections",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7686002912385791
+    },
+    {
+      "name": "WorldClim",
+      "label": "project",
+      "description": "A project providing global climate data, including temperature and precipitation patterns",
+      "uuid": "1840f198-7392-4525-982b-e3ac47f84780",
+      "score": 0.6084300900949948
+    },
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "An increase in global temperatures, affecting species distribution and ecosystems",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6718629260487036
+    },
+    {
+      "name": "general circulation models",
+      "label": "model",
+      "description": "Computational models used to simulate the Earth's climate system, including atmosphere, ocean, and land components",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.714626643647158
+    }
+  ],
+  "(27873, 31006)": [
+    {
+      "name": "climate warming",
+      "label": "weather event",
+      "description": "A period of abnormally high temperatures, often associated with global climate change",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.6395479877306428
+    },
+    {
+      "name": "WorldClim",
+      "label": "project",
+      "description": "A global climate database that provides climate data for the world, used for climate modeling and species distribution modeling",
+      "uuid": "1840f198-7392-4525-982b-e3ac47f84780",
+      "score": 0.5225962404979819
+    },
+    {
+      "name": "CCSM4 model",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a climate model used to simulate future climate change projections",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7686002912385791
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, a type of climate model used to simulate the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7679000674146444
+    },
+    {
+      "name": "Maxent model",
+      "label": "model",
+      "description": "A species distribution modeling software used to predict the potential distribution of species based on environmental variables",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5409592326064349
+    },
+    {
+      "name": "species distribution",
+      "label": "variable",
+      "description": "The geographic range of a species, often used to study the effects of climate change on ecosystems",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5622625248939178
+    }
+  ],
+  "(30463, 32374)": [
+    {
+      "name": "grasslands",
+      "label": "location",
+      "description": "Areas of land dominated by grasses and other herbaceous plants, often resulting from deforestation or land use changes",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6159819699685506
+    },
+    {
+      "name": "farmland",
+      "label": "location",
+      "description": "Areas of land used for agricultural purposes, such as farming and livestock production",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5377339474622368
+    },
+    {
+      "name": "deforestation",
+      "label": "natural hazard",
+      "description": "The clearance of forests, usually as a result of human activities like agriculture, urbanization, or logging",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6691513536741548
+    },
+    {
+      "name": "global warming",
+      "label": "weather event",
+      "description": "The long-term rise in Earth's average surface temperature, primarily due to human activities like burning fossil fuels and deforestation",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5339851104054906
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451712273350101
+    },
+    {
+      "name": "species distribution",
+      "label": "variable",
+      "description": "The geographic range of a species, influenced by factors like climate, habitat, and human activities",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5232797106358419
+    },
+    {
+      "name": "conservation prioritization",
+      "label": "experiment",
+      "description": "The process of identifying and prioritizing areas or species for conservation efforts, often based on their vulnerability and importance",
+      "uuid": "40869a25-edea-4438-80f9-47c9e6910b9b",
+      "score": 0.5026866233559957
+    }
+  ]
+}

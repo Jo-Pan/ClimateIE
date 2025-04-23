@@ -1,0 +1,2164 @@
+{
+  "(0, 3014)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A semi-enclosed sea located in Northern Europe, known for its unique physical and biogeochemical properties and its sensitivity to climate change",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7977810882170092
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air near the Earth's surface, often used as an indicator of climate change",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6965405390819637
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, which plays a crucial role in regulating global climate patterns and marine ecosystems",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7626506570274928
+    },
+    {
+      "name": "atmospheric forcing",
+      "label": "variable",
+      "description": "The external factors that influence the climate system, such as changes in greenhouse gases, aerosols, and volcanic eruptions",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6240117489760342
+    },
+    {
+      "name": "oceanic climate simulations",
+      "label": "experiment",
+      "description": "Computational models used to study and predict the behavior of the ocean and its interactions with the atmosphere",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5841928387431121
+    },
+    {
+      "name": "RCP scenarios",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways scenarios, used to project future climate change based on different levels of greenhouse gas emissions",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5795582256249139
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A critical component of the Earth's climate system, influencing ocean currents, marine ecosystems, and global climate patterns",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7484210929140905
+    },
+    {
+      "name": "surface winds",
+      "label": "variable",
+      "description": "The winds that blow over the surface of the ocean, playing a key role in shaping ocean currents and climate patterns",
+      "uuid": "fbc53539-ce4e-4e3e-bbd2-8270386616b4",
+      "score": 0.6930442416862761
+    },
+    {
+      "name": "heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy between the ocean and atmosphere, influencing climate patterns and marine ecosystems",
+      "uuid": "ae1c9b54-caf2-4726-b180-5c6544f09111",
+      "score": 0.7096797354925355
+    },
+    {
+      "name": "upwelling frequencies",
+      "label": "variable",
+      "description": "The rate at which deep water rises to the surface, influencing ocean productivity and climate patterns",
+      "uuid": "75ab3537-34b1-4025-b758-7296626079ba",
+      "score": 0.5628178847791894
+    },
+    {
+      "name": "classification tree",
+      "label": "instrument",
+      "description": "A statistical tool used to classify and analyze complex data sets, often used in climate research to identify patterns and relationships",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.5971675528826927
+    },
+    {
+      "name": "marine ecosystems",
+      "label": "location",
+      "description": "The complex communities of plants and animals that live in the ocean, influenced by climate change and human activities",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6514061876284558
+    },
+    {
+      "name": "public management",
+      "label": "provider",
+      "description": "The organizations and institutions responsible for managing and regulating human activities that impact the environment and climate",
+      "uuid": "d81b77be-0177-4e26-942c-aa911239482d",
+      "score": 0.5089804433900267
+    },
+    {
+      "name": "tourism",
+      "label": "provider",
+      "description": "An industry that relies on the natural environment and climate, often impacted by climate change and environmental degradation",
+      "uuid": "82fdb39c-4fe8-4e2b-9dcf-67ceb4c6d8b9",
+      "score": 0.6887901676961935
+    },
+    {
+      "name": "euphotic zone",
+      "label": "location",
+      "description": "The layer of the ocean where sunlight penetrates, supporting photosynthesis and marine life",
+      "uuid": "4e8943e7-daf9-41f2-8a5e-b415b82e6381",
+      "score": 0.5553382391918285
+    }
+  ],
+  "(2569, 5197)": [
+    {
+      "name": "aerosols concentrations",
+      "label": "variable",
+      "description": "A measure of the amount of aerosols present in the atmosphere, which can impact climate and air quality",
+      "uuid": "59920ad4-85fb-4cee-ba56-f39bc5857a3d",
+      "score": 0.7305044966990804
+    },
+    {
+      "name": "tourism",
+      "label": "economic sector",
+      "description": "An industry that provides services and activities for travelers, which can be affected by environmental changes",
+      "uuid": "82fdb39c-4fe8-4e2b-9dcf-67ceb4c6d8b9",
+      "score": 0.6597950448975951
+    },
+    {
+      "name": "water masses",
+      "label": "ocean circulation",
+      "description": "The large-scale movement of water in the ocean, driven by factors such as wind, density differences, and the Coriolis effect",
+      "uuid": "113edd07-7b1a-4082-b054-b58d3f23b93a",
+      "score": 0.6923610601053745
+    },
+    {
+      "name": "North Sea",
+      "label": "location",
+      "description": "A sea located off the coast of northern Europe, connected to the Baltic Sea through the Danish straits",
+      "uuid": "4401ec0e-0d64-41d3-b4bd-2ff797865e83",
+      "score": 0.7441417565976352
+    },
+    {
+      "name": "freshwater",
+      "label": "variable",
+      "description": "Water with low salinity, often used to describe the input of rivers into the ocean",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.5658464500263997
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish sea located in northern Europe, characterized by a unique combination of freshwater and saline water inputs",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.765426002761668
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6657507897618521
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "Ice that forms on the surface of the ocean, often used as an indicator of climate change",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.732377777826267
+    },
+    {
+      "name": "Black Sea",
+      "label": "location",
+      "description": "A large inland body of water located in southeastern Europe, known for its unique geological and ecological characteristics",
+      "uuid": "afbc0a01-742e-49da-939e-3eaa3cf431b0",
+      "score": 0.7905606274354169
+    },
+    {
+      "name": "saline water",
+      "label": "variable",
+      "description": "Water with high salinity, often used to describe the input of ocean water into a region",
+      "uuid": "a38db528-3064-449d-ae70-af86997a11f4",
+      "score": 0.5759460177768214
+    },
+    {
+      "name": "Finland",
+      "label": "location",
+      "description": "A country located in northern Europe, bordering the Baltic Sea",
+      "uuid": "b198283f-02d9-424e-838a-8997a18139a9",
+      "score": 0.7712094515498394
+    },
+    {
+      "name": "Gulf",
+      "label": "location",
+      "description": "A body of water partially enclosed by land, often used to describe a region of the ocean",
+      "uuid": "75fab119-51a6-4b59-9711-f6c3cd3139db",
+      "score": 0.5335932729781384
+    },
+    {
+      "name": "situ SST datasets",
+      "label": "dataset",
+      "description": "A collection of sea surface temperature data collected through in-situ measurements, often used to validate climate models",
+      "uuid": "5f3d4571-40a9-4e81-9dfe-0c96c22228ca",
+      "score": 0.5931159868163494
+    },
+    {
+      "name": "average salinity",
+      "label": "variable",
+      "description": "A measure of the average concentration of dissolved salts in seawater, often used to characterize a region's ocean chemistry",
+      "uuid": "1a4e5774-7d4a-4ce7-9a4c-e2c72c8c377f",
+      "score": 0.6680686793842261
+    }
+  ],
+  "(4678, 7621)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, characterized by its unique physical and biological properties",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7630151383210523
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, playing a crucial role in shaping climate and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6231505311120779
+    },
+    {
+      "name": "Finland",
+      "label": "location",
+      "description": "A country located in Northern Europe, bordering the Baltic Sea and the Gulf of Finland",
+      "uuid": "b198283f-02d9-424e-838a-8997a18139a9",
+      "score": 0.7776450046282544
+    },
+    {
+      "name": "Gulf of Finland",
+      "label": "location",
+      "description": "A part of the Baltic Sea, located between Finland and Estonia, known for its complex oceanography and climate dynamics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.542026745393312
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, influencing various climate and weather phenomena",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.669319732473699
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A type of ice that forms when seawater freezes, playing a significant role in Earth's climate system and ocean circulation",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7729396923852309
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles suspended in the air, affecting climate by influencing cloud formation and radiation balance",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7145120008408575
+    },
+    {
+      "name": "cloud cover",
+      "label": "variable",
+      "description": "The amount of cloudiness in the sky, impacting climate by regulating the amount of solar radiation that reaches the Earth's surface",
+      "uuid": "6d496890-1853-4515-97f9-73cccb84514c",
+      "score": 0.6251931624690191
+    },
+    {
+      "name": "surface winds",
+      "label": "variable",
+      "description": "Winds that occur near the Earth's surface, influencing climate and weather patterns by transporting heat and moisture",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.670241862166719
+    },
+    {
+      "name": "upwelling",
+      "label": "ocean circulation",
+      "description": "The process by which deep, cold water moves up to replace the surface water, affecting climate and marine ecosystems",
+      "uuid": "75ab3537-34b1-4025-b758-7296626079ba",
+      "score": 0.6116223443702893
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6657507897618521
+    },
+    {
+      "name": "regional aerosol concentration",
+      "label": "variable",
+      "description": "The amount of aerosols present in a specific region, influencing local climate and air quality",
+      "uuid": "59920ad4-85fb-4cee-ba56-f39bc5857a3d",
+      "score": 0.636579896863394
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "The measure of the amount of sunlight that is reflected by the Earth's surface, affecting climate by influencing the amount of solar radiation that is absorbed",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7838843336001076
+    },
+    {
+      "name": "reduced industrial emissions",
+      "label": "natural hazard",
+      "description": "The decrease in the amount of pollutants released into the atmosphere as a result of human activities, affecting climate and air quality",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.6163617979205239
+    },
+    {
+      "name": "surface waters",
+      "label": "location",
+      "description": "The upper layer of the ocean, playing a crucial role in Earth's climate system and marine ecosystems",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.611293424383214
+    },
+    {
+      "name": "Bothnian Bay",
+      "label": "location",
+      "description": "A bay located in the northern part of the Baltic Sea, known for its unique oceanography and climate dynamics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5864353098948006
+    },
+    {
+      "name": "Bothnian Sea",
+      "label": "location",
+      "description": "A part of the Baltic Sea, located between Sweden and Finland, characterized by its complex oceanography and climate dynamics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5981937442972646
+    }
+  ],
+  "(7104, 9957)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish sea located in Northern Europe, connected to the North Sea and the Atlantic Ocean, known for its unique marine ecosystem and vulnerability to climate change",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.8096047887643398
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, an important variable in climate studies, used to analyze oceanic and atmospheric conditions",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6847576889442114
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "RCP scenarios",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future climate change based on different greenhouse gas concentration trajectories",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5722395973305557
+    },
+    {
+      "name": "atmospheric forcings",
+      "label": "variable",
+      "description": "External factors that influence the Earth's climate system, such as greenhouse gas emissions, volcanic eruptions, and solar radiation",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6480917799665545
+    },
+    {
+      "name": "classification",
+      "label": "instrument",
+      "description": "A statistical method used to categorize data into distinct groups or classes based on their characteristics",
+      "uuid": "ca240508-9cd7-400e-9420-ad96f72195bd",
+      "score": 0.567887127393574
+    },
+    {
+      "name": "clustering methods",
+      "label": "instrument",
+      "description": "A type of statistical analysis used to group similar data points or observations into clusters, often used in climate studies to identify patterns and trends",
+      "uuid": "e4ef83d6-c132-4cd9-ab8b-5745949877d4",
+      "score": 0.6243760930980979
+    }
+  ],
+  "(9599, 12149)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, known for its unique oceanographic characteristics and sensitivity to climate change",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.8067332211047904
+    },
+    {
+      "name": "Kattegat",
+      "label": "location",
+      "description": "A sea area located between Denmark and Sweden, connecting the Baltic Sea to the North Sea",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5293777919635123
+    },
+    {
+      "name": "North Sea",
+      "label": "location",
+      "description": "A marginal sea of the Atlantic Ocean, located off the coast of Northern Europe, known for its significant role in regional climate and oceanography",
+      "uuid": "4401ec0e-0d64-41d3-b4bd-2ff797865e83",
+      "score": 0.7942026246465382
+    },
+    {
+      "name": "SCOBI",
+      "label": "model",
+      "description": "A biogeochemical model used to simulate the dynamics of nutrients and phytoplankton in the ocean",
+      "uuid": "b63e0078-74a3-431d-92f7-8853c10474e4",
+      "score": 0.5298864236984262
+    },
+    {
+      "name": "nitrate",
+      "label": "variable",
+      "description": "A nutrient essential for phytoplankton growth, often limiting primary production in aquatic ecosystems",
+      "uuid": "4fde380a-38c5-4d46-bc80-4f2515a43983",
+      "score": 0.6558556696103733
+    },
+    {
+      "name": "ammonium",
+      "label": "variable",
+      "description": "A nutrient that can be used by phytoplankton for growth, influencing aquatic ecosystem productivity",
+      "uuid": "64d17528-29b4-4e2e-843a-7f7035bb5717",
+      "score": 0.5563907900590674
+    },
+    {
+      "name": "phosphate",
+      "label": "variable",
+      "description": "A nutrient crucial for phytoplankton growth, often limiting primary production in aquatic ecosystems",
+      "uuid": "0b513d8c-bfd3-44ee-976e-42757b8375a2",
+      "score": 0.6786833063782911
+    },
+    {
+      "name": "oxygen",
+      "label": "variable",
+      "description": "A critical component of aquatic ecosystems, necessary for the survival of most marine life",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.5719580722325234
+    },
+    {
+      "name": "phytoplankton",
+      "label": "variable",
+      "description": "Microscopic plant-like organisms that form the base of aquatic food webs, playing a key role in ocean productivity and carbon cycling",
+      "uuid": "28dc7895-3365-4bab-9946-3b247f4137b0",
+      "score": 0.6927200724099316
+    },
+    {
+      "name": "zooplankton",
+      "label": "variable",
+      "description": "Small, usually microscopic, animals that drift in the water column of oceans, seas, and freshwater bodies, serving as a crucial link in aquatic food webs",
+      "uuid": "0399b52c-e3de-4dcc-9eb6-b1e3acf2cf1b",
+      "score": 0.742522624009177
+    },
+    {
+      "name": "detritus",
+      "label": "variable",
+      "description": "Dead and decaying organic matter in aquatic ecosystems, providing a source of nutrients for other organisms",
+      "uuid": "f2ac0a8c-c68a-4000-ab74-94d40b0830f2",
+      "score": 0.5029447855115012
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The gaseous envelope surrounding the Earth, playing a critical role in climate regulation and weather patterns",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.651279887072987
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "Frozen seawater that floats on the surface of polar oceans, influencing global climate, ocean currents, and marine ecosystems",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7489837925426374
+    },
+    {
+      "name": "HiResAFF",
+      "label": "project",
+      "description": "The High RESolution Atmospheric Forcing Fields data set, developed to provide consistent multivariate forcing fields for climate simulations",
+      "uuid": "4e3cf807-3ff0-48ef-b867-990da77b39f2",
+      "score": 0.5571321927233605
+    }
+  ],
+  "(11673, 14257)": [
+    {
+      "name": "reanalysis data",
+      "label": "variable",
+      "description": "Historical climate data that have been reprocessed to provide a consistent and comprehensive record of past climate conditions",
+      "uuid": "878e70de-f929-4d2f-9325-145ca95787e9",
+      "score": 0.7228739678423453
+    },
+    {
+      "name": "observational stations",
+      "label": "instrument",
+      "description": "Locations where climate data are collected through direct measurements",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.60257455019962
+    },
+    {
+      "name": "multivariate forcing fields",
+      "label": "variable",
+      "description": "Data sets that include multiple climate variables, such as temperature, precipitation, and wind, used to drive climate models",
+      "uuid": "dc3f297b-8471-4101-b70e-dc5765762061",
+      "score": 0.5082127146578307
+    },
+    {
+      "name": "river runoff",
+      "label": "variable",
+      "description": "The flow of water from the land into rivers and streams, often used as an indicator of climate change impacts on water resources",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6797902427807154
+    },
+    {
+      "name": "TAIR",
+      "label": "experiment",
+      "description": "A sensitivity simulation that investigates the influence of long-term trends in air temperature on SST trends",
+      "uuid": "474b7bfb-063c-4e79-a96a-871177179b52",
+      "score": 0.5024339536064925
+    },
+    {
+      "name": "WIND",
+      "label": "experiment",
+      "description": "A sensitivity simulation that investigates the influence of long-term trends in surface winds on SST trends",
+      "uuid": "4d71b36a-af54-43f2-8c1d-9e326458597e",
+      "score": 0.5210554675071983
+    },
+    {
+      "name": "CLOUD",
+      "label": "experiment",
+      "description": "A sensitivity simulation that investigates the influence of long-term trends in cloud cover on SST trends",
+      "uuid": "ba9e4d54-5715-47c6-89c5-32042d5e8a6d",
+      "score": 0.506867625788402
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, often used as a climate variable in models and observations",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6887788521759561
+    },
+    {
+      "name": "surface winds",
+      "label": "variable",
+      "description": "The speed and direction of winds near the Earth's surface, often used as a climate variable in models and observations",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.7152274186814718
+    },
+    {
+      "name": "cloud cover",
+      "label": "variable",
+      "description": "The amount of cloudiness in the atmosphere, often used as a climate variable in models and observations",
+      "uuid": "6d496890-1853-4515-97f9-73cccb84514c",
+      "score": 0.6787408051029081
+    },
+    {
+      "name": "SST trends",
+      "label": "variable",
+      "description": "Changes in sea surface temperature over time, often used as an indicator of climate change",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.6047513414605793
+    },
+    {
+      "name": "RCA4-NEMO",
+      "label": "model",
+      "description": "A regional coupled ocean-atmosphere model used for climate simulations",
+      "uuid": "afd4757f-0530-43ac-a5cf-b73cafe458fd",
+      "score": 0.5342360117179484
+    },
+    {
+      "name": "EURO-CORDEX",
+      "label": "project",
+      "description": "A European climate downscaling project that aims to provide high-resolution climate simulations for the European region",
+      "uuid": "68885007-d975-4f24-bdd5-dd19b246bdf6",
+      "score": 0.6801699479516338
+    },
+    {
+      "name": "NEMO-Nordic",
+      "label": "model",
+      "description": "A regional ocean model used for climate simulations of the North Sea and Baltic Sea",
+      "uuid": "33d649ad-e0ec-42b6-b00d-8816fcf5d1ca",
+      "score": 0.5420855475861135
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "MPI-ESM-LR",
+      "label": "model",
+      "description": "A global climate model used for climate simulations",
+      "uuid": "4baeaba9-9381-4ed5-b7aa-75879bacbb03",
+      "score": 0.7368016106746799
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A global climate model used for climate simulations",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7484830002089775
+    },
+    {
+      "name": "IPSL-CM5A-MR",
+      "label": "model",
+      "description": "A global climate model used for climate simulations",
+      "uuid": "f88c4559-fc4b-4b4a-ac57-0f15bb24e8e0",
+      "score": 0.7779548875567768
+    },
+    {
+      "name": "HadGEM2-ES",
+      "label": "model",
+      "description": "A global climate model used for climate simulations",
+      "uuid": "028fe075-8ed0-47f0-b462-71e4adf72a4e",
+      "score": 0.7832457026524229
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario that assumes a moderate increase in greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6145222856947077
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario that assumes a high increase in greenhouse gas emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6800135361160968
+    }
+  ],
+  "(13889, 16715)": [
+    {
+      "name": "MPI-ESM-LR",
+      "label": "model",
+      "description": "A comprehensive climate model developed by the Max Planck Institute for Meteorology, used for simulating Earth's climate system",
+      "uuid": "4baeaba9-9381-4ed5-b7aa-75879bacbb03",
+      "score": 0.7557085610305114
+    },
+    {
+      "name": "EC-Earth",
+      "label": "model",
+      "description": "A European climate model developed by the European Consortium for Earth System Modelling, used for simulating Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.7693394606697046
+    },
+    {
+      "name": "IPSL-CM5A-MR",
+      "label": "model",
+      "description": "A climate model developed by the Institute Pierre-Simon Laplace, used for simulating Earth's climate system",
+      "uuid": "f88c4559-fc4b-4b4a-ac57-0f15bb24e8e0",
+      "score": 0.811542122257568
+    },
+    {
+      "name": "HadGEM2-ES",
+      "label": "model",
+      "description": "A climate model developed by the Met Office Hadley Centre, used for simulating Earth's climate system",
+      "uuid": "028fe075-8ed0-47f0-b462-71e4adf72a4e",
+      "score": 0.7939756098776659
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario representing a moderate increase in greenhouse gas concentrations",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6253155990085418
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario representing a high increase in greenhouse gas concentrations",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6872516281296398
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water sea located in Northern Europe, known for its complex oceanography and vulnerability to climate change",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7982594843799757
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, an important indicator of climate change",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7796656262614758
+    },
+    {
+      "name": "surface winds",
+      "label": "variable",
+      "description": "The speed and direction of winds near the Earth's surface, influencing weather and climate patterns",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.6929077709274396
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, an important indicator of climate change",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6816766427331249
+    },
+    {
+      "name": "cloudiness",
+      "label": "variable",
+      "description": "The amount of cloud cover in the atmosphere, influencing Earth's energy balance and climate",
+      "uuid": "70f5b8a3-3f52-467c-957c-7ca98e1c6184",
+      "score": 0.589015169505592
+    },
+    {
+      "name": "longitude",
+      "label": "variable",
+      "description": "A measure of the east-west position of a point on the Earth's surface, used in geographic and climate studies",
+      "uuid": "67e9c8dd-8675-41d6-b81c-fef392de682d",
+      "score": 0.6912735604475059
+    },
+    {
+      "name": "latitude",
+      "label": "variable",
+      "description": "A measure of the north-south position of a point on the Earth's surface, used in geographic and climate studies",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6754635673877868
+    },
+    {
+      "name": "classification tree",
+      "label": "instrument",
+      "description": "A statistical method used for classifying data points into categories, based on their characteristics",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.6082880524636365
+    }
+  ],
+  "(16177, 19212)": [
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air near the Earth's surface, often used in climate and weather studies",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.7031205299760335
+    },
+    {
+      "name": "clustering",
+      "label": "experiment",
+      "description": "A method of grouping similar data points or observations into clusters based on their characteristics",
+      "uuid": "e4ef83d6-c132-4cd9-ab8b-5745949877d4",
+      "score": 0.58085086985902
+    },
+    {
+      "name": "classification tree",
+      "label": "model",
+      "description": "A type of machine learning model used to classify data into different categories based on a set of input variables",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.6945035018721506
+    },
+    {
+      "name": "coastline",
+      "label": "location",
+      "description": "The boundary between the land and the sea, often used as a reference point in coastal studies",
+      "uuid": "18d136b8-728f-438b-90cb-3c82956e1c2c",
+      "score": 0.6649814866894698
+    },
+    {
+      "name": "upwelling",
+      "label": "ocean circulation",
+      "description": "A process by which deep, cold water is brought to the surface, often influencing local climate and ecosystems",
+      "uuid": "75ab3537-34b1-4025-b758-7296626079ba",
+      "score": 0.6170052229124723
+    },
+    {
+      "name": "heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy between the atmosphere and the ocean, often used to study climate and weather patterns",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.7251120927655278
+    },
+    {
+      "name": "surface winds",
+      "label": "variable",
+      "description": "The winds that blow near the Earth's surface, often used to study weather and climate patterns",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.6964629940654242
+    },
+    {
+      "name": "Finland",
+      "label": "location",
+      "description": "A country located in Northern Europe, often used as a reference point in regional climate studies",
+      "uuid": "b198283f-02d9-424e-838a-8997a18139a9",
+      "score": 0.6967948806493098
+    },
+    {
+      "name": "Gulf of Finland",
+      "label": "location",
+      "description": "A bay located in the Baltic Sea, often used as a reference point in regional climate studies",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5391264595293487
+    },
+    {
+      "name": "longitude",
+      "label": "variable",
+      "description": "A measure of the distance east or west of a point on the Earth's surface, often used in geographic and climate studies",
+      "uuid": "67e9c8dd-8675-41d6-b81c-fef392de682d",
+      "score": 0.6846914435376447
+    },
+    {
+      "name": "latitude",
+      "label": "variable",
+      "description": "A measure of the distance north or south of a point on the Earth's surface, often used in geographic and climate studies",
+      "uuid": "abfb741a-1c8b-4bf0-b536-0b097d973821",
+      "score": 0.6807406897216937
+    },
+    {
+      "name": "Baltic",
+      "label": "location",
+      "description": "A region located in Northern Europe, often used as a reference point in regional climate studies",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.6517564693574422
+    }
+  ],
+  "(18758, 21191)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water sea located in Northern Europe, bordered by several countries and known for its unique ecosystem and climate characteristics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7872821074560074
+    },
+    {
+      "name": "Gulf of Finland",
+      "label": "location",
+      "description": "A bay located in the eastern part of the Baltic Sea, bordered by Finland and Estonia, and characterized by a unique combination of freshwater and saltwater influences",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5167315867887873
+    },
+    {
+      "name": "Bothnian Sea",
+      "label": "location",
+      "description": "A part of the Baltic Sea located between Sweden and Finland, known for its cold and brackish waters",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.6060632518548884
+    },
+    {
+      "name": "Bothnian Bay",
+      "label": "location",
+      "description": "A bay located in the northern part of the Baltic Sea, bordered by Sweden and Finland, and characterized by a mix of freshwater and saltwater influences",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5443485260530996
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, a measure of the temperature of the ocean's surface, often used to study climate and oceanic phenomena",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7091122187458347
+    },
+    {
+      "name": "Finland",
+      "label": "location",
+      "description": "A country located in Northern Europe, bordering the Baltic Sea and known for its natural beauty and unique cultural heritage",
+      "uuid": "b198283f-02d9-424e-838a-8997a18139a9",
+      "score": 0.7842066369808737
+    },
+    {
+      "name": "coastline",
+      "label": "location",
+      "description": "The boundary between land and sea, where the land meets the ocean, and often characterized by unique ecosystems and geological features",
+      "uuid": "18d136b8-728f-438b-90cb-3c82956e1c2c",
+      "score": 0.6819671383456829
+    },
+    {
+      "name": "hierarchical clustering algorithm",
+      "label": "instrument",
+      "description": "A computational method used to group similar objects or patterns into clusters, often applied in data analysis and machine learning",
+      "uuid": "e4ef83d6-c132-4cd9-ab8b-5745949877d4",
+      "score": 0.5021611808124314
+    },
+    {
+      "name": "seasonal SST trends",
+      "label": "variable",
+      "description": "The changes in sea surface temperature over different seasons, often used to study climate variability and oceanic phenomena",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.5573808816715763
+    },
+    {
+      "name": "Baltic Sea sub-basins",
+      "label": "location",
+      "description": "Smaller regions within the Baltic Sea, often characterized by unique hydrological and ecological features",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5751372422490962
+    },
+    {
+      "name": "Gotland Sea",
+      "label": "location",
+      "description": "A part of the Baltic Sea located between Sweden and Latvia, known for its unique ecosystem and geological features",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5839732491193682
+    },
+    {
+      "name": "Bornholm Basin",
+      "label": "location",
+      "description": "A part of the Baltic Sea located between Sweden and Denmark, characterized by a mix of freshwater and saltwater influences",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5157728813825223
+    },
+    {
+      "name": "Danish straits",
+      "label": "location",
+      "description": "A group of straits located between Denmark and Sweden, connecting the Baltic Sea to the North Sea",
+      "uuid": "f60b1c04-da51-4668-8f94-45215994e78e",
+      "score": 0.5284759794993344
+    },
+    {
+      "name": "northern Baltic Sea",
+      "label": "location",
+      "description": "The northern part of the Baltic Sea, often characterized by unique hydrological and ecological features",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.630378958386488
+    }
+  ],
+  "(20857, 23229)": [
+    {
+      "name": "Danish straits",
+      "label": "location",
+      "description": "A narrow waterway connecting the Baltic Sea to the North Sea, separating Denmark from Sweden and Germany",
+      "uuid": "f60b1c04-da51-4668-8f94-45215994e78e",
+      "score": 0.5238877014867114
+    },
+    {
+      "name": "Gotland Sea",
+      "label": "location",
+      "description": "A part of the Baltic Sea, surrounding the island of Gotland, Sweden",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.51315020320861
+    },
+    {
+      "name": "C3",
+      "label": "cluster",
+      "description": "A group of data points or observations that share similar characteristics, in this case, sea surface temperature trends",
+      "uuid": "bffa51f7-5027-446f-bb19-b85cd84a23c0",
+      "score": 0.5354516723416111
+    },
+    {
+      "name": "SST trends",
+      "label": "variable",
+      "description": "Changes in sea surface temperature over time, often used to study climate variability and change",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.606961627707137
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, an important factor influencing climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6640912093888152
+    },
+    {
+      "name": "sea ice concentration",
+      "label": "variable",
+      "description": "The amount of sea ice present in a given area, often used to study climate change and ocean-atmosphere interactions",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.8131243038694514
+    },
+    {
+      "name": "cloud cover",
+      "label": "variable",
+      "description": "The amount of cloudiness in the atmosphere, influencing the Earth's energy balance and climate",
+      "uuid": "70f5b8a3-3f52-467c-957c-7ca98e1c6184",
+      "score": 0.6211493209086094
+    },
+    {
+      "name": "u-v wind components",
+      "label": "variable",
+      "description": "The eastward and northward components of wind velocity, playing a crucial role in atmospheric circulation and climate patterns",
+      "uuid": "1e9bb112-5dc0-47a5-8c8a-b9cb07ece7c5",
+      "score": 0.7203889644448532
+    },
+    {
+      "name": "heat and radiation fluxes",
+      "label": "variable",
+      "description": "The transfer of energy through heat and radiation, essential for understanding climate dynamics and the Earth's energy balance",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.703550660075548
+    },
+    {
+      "name": "classification trees",
+      "label": "model",
+      "description": "A statistical method used to classify data into distinct groups or categories, based on their characteristics and relationships",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.5853512657060919
+    }
+  ],
+  "(22735, 25764)": [
+    {
+      "name": "sea ice concentration",
+      "label": "variable",
+      "description": "The percentage of an area covered by sea ice, an important factor in climate studies as it affects heat fluxes and albedo",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.7852732893778887
+    },
+    {
+      "name": "u-v wind components",
+      "label": "variable",
+      "description": "The eastward and northward components of wind, which play a role in shaping climate patterns and ocean currents",
+      "uuid": "1e9bb112-5dc0-47a5-8c8a-b9cb07ece7c5",
+      "score": 0.7074390419567883
+    },
+    {
+      "name": "classification tree",
+      "label": "instrument",
+      "description": "A statistical tool used to classify data based on input variables and their relationships",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.5806698111690113
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, a key factor in climate studies as it influences heat fluxes and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6860012821878537
+    },
+    {
+      "name": "cloud cover",
+      "label": "variable",
+      "description": "The amount of cloudiness in the sky, which affects the amount of solar radiation reaching the Earth's surface",
+      "uuid": "70f5b8a3-3f52-467c-957c-7ca98e1c6184",
+      "score": 0.6105461448840519
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "The measure of the amount of sunlight that is reflected by a surface, such as sea ice or the ocean",
+      "uuid": "5332daa8-b5c4-4ac9-8a0e-6f60614ac760",
+      "score": 0.7866920817733891
+    },
+    {
+      "name": "heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy between the atmosphere, ocean, and land, which plays a crucial role in climate regulation",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.7309024690506637
+    },
+    {
+      "name": "surface winds",
+      "label": "variable",
+      "description": "The winds that occur near the surface of the Earth, which influence climate patterns and ocean currents",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.6539766024018138
+    },
+    {
+      "name": "incident solar radiation",
+      "label": "variable",
+      "description": "The amount of solar energy that reaches the Earth's surface, which affects climate patterns and heat fluxes",
+      "uuid": "6b3be650-6625-40b5-9b40-9e7c8a9fd336",
+      "score": 0.6877470657109382
+    },
+    {
+      "name": "sensible and latent ocean heat gain",
+      "label": "variable",
+      "description": "The amount of heat energy gained by the ocean through sensible and latent heat fluxes, which plays a role in climate regulation",
+      "uuid": "6a2d1d48-d2cc-4fe7-85f5-c98ab3a11262",
+      "score": 0.6358569144162222
+    },
+    {
+      "name": "Baltic proper",
+      "label": "location",
+      "description": "A region in the Baltic Sea, known for its unique climate and oceanographic characteristics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.6073294124851417
+    },
+    {
+      "name": "Arkona basin",
+      "label": "location",
+      "description": "A region in the Baltic Sea, known for its unique climate and oceanographic characteristics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5045225006269651
+    },
+    {
+      "name": "Danish straits",
+      "label": "location",
+      "description": "A region in the Baltic Sea, known for its unique climate and oceanographic characteristics",
+      "uuid": "f60b1c04-da51-4668-8f94-45215994e78e",
+      "score": 0.5877090270360196
+    },
+    {
+      "name": "Bothnian Sea",
+      "label": "location",
+      "description": "A region in the Baltic Sea, known for its unique climate and oceanographic characteristics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.604676036017798
+    },
+    {
+      "name": "Bothnian Bay",
+      "label": "location",
+      "description": "A region in the Baltic Sea, known for its unique climate and oceanographic characteristics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5781043997663846
+    },
+    {
+      "name": "WIND",
+      "label": "experiment",
+      "description": "An experiment designed to test the impact of surface winds on climate patterns",
+      "uuid": "d69f7457-db31-48ce-b8c2-98058c412bc6",
+      "score": 0.5109632775156592
+    },
+    {
+      "name": "TAIR",
+      "label": "experiment",
+      "description": "An experiment designed to test the impact of air temperature on climate patterns",
+      "uuid": "0844a959-8ce0-4065-bef4-ee180a346445",
+      "score": 0.5172280504255067
+    },
+    {
+      "name": "CLOUD",
+      "label": "experiment",
+      "description": "An experiment designed to test the impact of cloud cover on climate patterns",
+      "uuid": "1c08d8f3-f733-41d8-a01b-2f4044043224",
+      "score": 0.5488201014295256
+    }
+  ],
+  "(25251, 27652)": [
+    {
+      "name": "WIND",
+      "label": "experiment",
+      "description": "An experiment designed to analyze the sensitivity of wind trends on sea surface temperature trends",
+      "uuid": "69526601-5607-46e0-954a-251249de80fe",
+      "score": 0.5131071242431917
+    },
+    {
+      "name": "TAIR",
+      "label": "experiment",
+      "description": "An experiment designed to analyze the sensitivity of air temperature trends on sea surface temperature trends",
+      "uuid": "0844a959-8ce0-4065-bef4-ee180a346445",
+      "score": 0.5074554584314906
+    },
+    {
+      "name": "CLOUD",
+      "label": "experiment",
+      "description": "An experiment designed to analyze the sensitivity of cloud cover trends on sea surface temperature trends",
+      "uuid": "1c08d8f3-f733-41d8-a01b-2f4044043224",
+      "score": 0.5175897500295771
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface layer of the ocean, an important factor in climate studies",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7728789386997923
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the surface of the Earth, influencing climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6675469855309338
+    },
+    {
+      "name": "cloud cover",
+      "label": "variable",
+      "description": "The amount of cloudiness in the atmosphere, affecting Earth's energy balance and climate",
+      "uuid": "70f5b8a3-3f52-467c-957c-7ca98e1c6184",
+      "score": 0.6129443505404215
+    },
+    {
+      "name": "sensible heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat from the ocean to the atmosphere, playing a role in climate regulation",
+      "uuid": "6a2d1d48-d2cc-4fe7-85f5-c98ab3a11262",
+      "score": 0.7851947331867069
+    },
+    {
+      "name": "classification tree",
+      "label": "model",
+      "description": "A statistical model used to classify data into distinct categories based on input variables",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.6502688444443703
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, crucial for climate and weather phenomena",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6298606677458128
+    },
+    {
+      "name": "Baltic proper",
+      "label": "location",
+      "description": "A region of the Baltic Sea, known for its unique oceanographic and climatic characteristics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5811251716429895
+    }
+  ],
+  "(27281, 29974)": [
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "A measure of the amount of sunlight that is reflected by the Earth's surface, influencing the amount of solar radiation absorbed by the planet",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7823613469938095
+    },
+    {
+      "name": "air-sea heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy between the atmosphere and the ocean, playing a crucial role in climate regulation",
+      "uuid": "ae1c9b54-caf2-4726-b180-5c6544f09111",
+      "score": 0.6662043779396591
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The rate at which air moves over the Earth's surface, influencing weather patterns and climate phenomena",
+      "uuid": "a7ce84a3-8329-4eb7-b5de-72d2dea8c6bf",
+      "score": 0.7107449284495808
+    },
+    {
+      "name": "sensible heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy between the atmosphere and the ocean through convection, an important component of the Earth's energy balance",
+      "uuid": "6a2d1d48-d2cc-4fe7-85f5-c98ab3a11262",
+      "score": 0.7781114990231597
+    },
+    {
+      "name": "air temperature trends",
+      "label": "variable",
+      "description": "Changes in air temperature over time, often used to study climate change and its impacts",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.653256761193808
+    },
+    {
+      "name": "climate feedback loops",
+      "label": "teleconnection",
+      "description": "Processes within the Earth's climate system where a change in one component leads to a response in another component, which in turn affects the original component",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6703735838036341
+    },
+    {
+      "name": "air-sea temperature anomalies",
+      "label": "variable",
+      "description": "Differences between the actual temperature and the average temperature of the air and sea, often used to study climate variability",
+      "uuid": "904f3b34-20c8-4eb8-bf68-6304edecf945",
+      "score": 0.6657516030977638
+    },
+    {
+      "name": "RCP scenarios",
+      "label": "project",
+      "description": "Representative Concentration Pathways scenarios, a set of greenhouse gas concentration trajectories used to study climate change and its impacts",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5698053800879215
+    },
+    {
+      "name": "heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy between the atmosphere and the ocean, playing a crucial role in climate regulation",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.7049636260124883
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, playing a crucial role in regulating the planet's climate",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6474418274081535
+    },
+    {
+      "name": "classification tree",
+      "label": "instrument",
+      "description": "A statistical tool used to classify data and make predictions, often used in climate research to identify patterns and relationships",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.6086905625030621
+    },
+    {
+      "name": "surface winds",
+      "label": "variable",
+      "description": "Winds that occur near the Earth's surface, influencing weather patterns and climate phenomena",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.6793806370830311
+    },
+    {
+      "name": "Baltic proper",
+      "label": "location",
+      "description": "A region of the Baltic Sea, located in Northern Europe",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5994981588313871
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water sea located in Northern Europe, bordered by several countries",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7606409954337179
+    }
+  ],
+  "(29547, 32390)": [
+    {
+      "name": "RCP scenarios",
+      "label": "project",
+      "description": "A set of scenarios developed by the Intergovernmental Panel on Climate Change (IPCC) to represent different possible future climate change pathways based on greenhouse gas emissions",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5560818860035783
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water sea located in Northern Europe, bordered by several countries and known for its unique ecosystem and climate characteristics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7872821074560074
+    },
+    {
+      "name": "SST trends",
+      "label": "variable",
+      "description": "Changes in sea surface temperature over time, often used to study climate change and its impacts on marine ecosystems",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.6014724204660897
+    },
+    {
+      "name": "non-linear climate feedback processes",
+      "label": "model",
+      "description": "Complex interactions within the climate system that can amplify or dampen the effects of climate change, often represented in climate models",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6197525323595465
+    },
+    {
+      "name": "Bothnian Sea",
+      "label": "location",
+      "description": "A sub-basin of the Baltic Sea, located in the northern part of the sea",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5514087169841159
+    },
+    {
+      "name": "Danish straits",
+      "label": "location",
+      "description": "A narrow waterway connecting the Baltic Sea to the North Sea, located between Denmark and Sweden",
+      "uuid": "f60b1c04-da51-4668-8f94-45215994e78e",
+      "score": 0.5395702984928149
+    }
+  ],
+  "(31855, 34579)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its unique ecosystem and climate characteristics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.8003364884349348
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A layer of frozen seawater floating on the surface of the ocean, playing a significant role in Earth's climate system by reflecting sunlight and insulating the ocean",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7713797494814617
+    },
+    {
+      "name": "ice concentration",
+      "label": "variable",
+      "description": "The percentage of sea surface covered by sea ice, an important parameter in climate studies for understanding ocean-atmosphere interactions",
+      "uuid": "bb27bbb7-7bc4-4e38-833a-30e0a7861ccc",
+      "score": 0.764375767431497
+    },
+    {
+      "name": "albedo",
+      "label": "variable",
+      "description": "The measure of the amount of sunlight that is reflected by a surface, such as sea ice or land, influencing the Earth's energy balance and climate",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.79275771547974
+    },
+    {
+      "name": "non-linear climate feedback processes",
+      "label": "teleconnection",
+      "description": "Complex interactions within the climate system that can amplify or dampen the effects of climate change, leading to non-linear responses to external forcings",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.6220619532789754
+    },
+    {
+      "name": "heat fluxes",
+      "label": "variable",
+      "description": "The transfer of thermal energy between the atmosphere and the ocean, an essential component of the Earth's climate system",
+      "uuid": "46a3c823-727d-4c3c-b09d-e3e3fcaa43a5",
+      "score": 0.7192375532318191
+    },
+    {
+      "name": "North Baltic Sea",
+      "label": "location",
+      "description": "The northern part of the Baltic Sea, characterized by unique oceanographic and climatic features",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.6703948394483397
+    },
+    {
+      "name": "South Baltic Sea",
+      "label": "location",
+      "description": "The southern part of the Baltic Sea, influenced by different oceanographic and climatic conditions compared to the North Baltic Sea",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.5643526498995174
+    },
+    {
+      "name": "Bothnian Bay",
+      "label": "location",
+      "description": "A bay located in the northern part of the Baltic Sea, known for its brackish waters and seasonal ice cover",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5504213319951021
+    },
+    {
+      "name": "\u00c5land Sea",
+      "label": "location",
+      "description": "A part of the Baltic Sea located between the \u00c5land Islands and the Finnish mainland, characterized by its shallow waters and unique ecosystem",
+      "uuid": "cbb172c1-a791-4a87-ab39-fe54508b26cd",
+      "score": 0.6056936863321984
+    }
+  ],
+  "(34162, 36839)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "Baltic proper",
+      "label": "location",
+      "description": "A region of the Baltic Sea, characterized by its brackish water and complex oceanography",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.5911506295835885
+    },
+    {
+      "name": "Kattegat",
+      "label": "location",
+      "description": "A strait located between Denmark and Sweden, connecting the Baltic Sea to the North Sea",
+      "uuid": "f60b1c04-da51-4668-8f94-45215994e78e",
+      "score": 0.5326321979390174
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "A floating ice cover that forms on the surface of polar oceans, playing a crucial role in Earth's climate system",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7532407385737896
+    },
+    {
+      "name": "upwelling",
+      "label": "ocean circulation",
+      "description": "The process of deep, cold water rising to the surface, often driven by wind or changes in ocean currents",
+      "uuid": "75ab3537-34b1-4025-b758-7296626079ba",
+      "score": 0.6293523837010141
+    },
+    {
+      "name": "heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy through the ocean, atmosphere, or land surfaces, influencing climate patterns",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.7095277089994083
+    },
+    {
+      "name": "sensible heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy through the air, influencing climate patterns and weather conditions",
+      "uuid": "6a2d1d48-d2cc-4fe7-85f5-c98ab3a11262",
+      "score": 0.7232362918058478
+    },
+    {
+      "name": "air temperature trends",
+      "label": "variable",
+      "description": "Changes in air temperature over time, often used to study climate change and its impacts",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.653256761193808
+    },
+    {
+      "name": "CMIP5 models forcings",
+      "label": "experiment",
+      "description": "A set of climate simulations using the CMIP5 framework, designed to test the effects of different external forcings on the climate system",
+      "uuid": "6f109d11-d745-4090-9c21-a62b2909363e",
+      "score": 0.6383638544113917
+    },
+    {
+      "name": "northern Baltic Sea",
+      "label": "location",
+      "description": "The northern part of the Baltic Sea, characterized by its unique oceanography and climate conditions",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.6614521823878878
+    }
+  ],
+  "(36343, 39212)": [
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and connected to the North Sea, playing a significant role in regional climate patterns",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.8274899911606277
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "The formation and melting of ice in polar regions, influencing global climate patterns and ocean currents",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7025537391701434
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, the temperature of the surface of the ocean, an important indicator of climate change and ocean health",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7026186373395087
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6573741894372095
+    },
+    {
+      "name": "cloud cover",
+      "label": "variable",
+      "description": "The amount of cloud present in the sky, affecting Earth's energy balance and climate patterns",
+      "uuid": "70f5b8a3-3f52-467c-957c-7ca98e1c6184",
+      "score": 0.6251849808623351
+    },
+    {
+      "name": "cloud albedo",
+      "label": "variable",
+      "description": "The measure of how much sunlight is reflected by clouds, influencing Earth's energy balance and climate patterns",
+      "uuid": "34e4bf15-fa75-409a-bac2-8ddfe8e7fe75",
+      "score": 0.7651786013407271
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that reaches the Earth's surface, an important factor in climate and weather patterns",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6808886053526321
+    },
+    {
+      "name": "heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy between the atmosphere and the ocean, influencing climate patterns and ocean currents",
+      "uuid": "ae1c9b54-caf2-4726-b180-5c6544f09111",
+      "score": 0.6919809908663981
+    },
+    {
+      "name": "sea ice-related climate feedback",
+      "label": "teleconnection",
+      "description": "The process by which changes in sea ice cover influence other components of the climate system, such as ocean currents and atmospheric circulation",
+      "uuid": "3da6855e-9be8-4a79-826e-4ce984ed49a5",
+      "score": 0.5882316614208897
+    },
+    {
+      "name": "HiResAFF atmospheric forcings",
+      "label": "experiment",
+      "description": "A set of atmospheric conditions used to drive climate models, including factors such as solar radiation, cloud cover, and aerosol emissions",
+      "uuid": "4e3cf807-3ff0-48ef-b867-990da77b39f2",
+      "score": 0.5153880241864901
+    },
+    {
+      "name": "CLOUD",
+      "label": "experiment",
+      "description": "A sensitivity experiment designed to test the effects of cloud cover on climate patterns",
+      "uuid": "1c08d8f3-f733-41d8-a01b-2f4044043224",
+      "score": 0.5190114920439464
+    },
+    {
+      "name": "northern Baltic Sea",
+      "label": "location",
+      "description": "The northern part of the Baltic Sea, a region with distinct climate and oceanographic characteristics",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.6593742045863706
+    }
+  ],
+  "(38807, 41576)": [
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy emitted by the sun that reaches the Earth's surface, influencing climate and weather patterns",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6991665493219014
+    },
+    {
+      "name": "HiResAFF atmospheric forcings",
+      "label": "model",
+      "description": "A specific set of atmospheric conditions used to drive climate models, focusing on high-resolution representation of atmospheric processes",
+      "uuid": "4e3cf807-3ff0-48ef-b867-990da77b39f2",
+      "score": 0.5275805914969428
+    },
+    {
+      "name": "boundaries",
+      "label": "location",
+      "description": "The edges or limits of a geographic or spatial domain, influencing the behavior of climate models",
+      "uuid": "07a856fd-75e2-46e8-91eb-8a8562d3452f",
+      "score": 0.6164557221983424
+    },
+    {
+      "name": "sea level rise",
+      "label": "ocean circulation",
+      "description": "The increase in the level of the world's oceans, primarily caused by climate change, affecting coastal regions and ecosystems",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7666541123155654
+    },
+    {
+      "name": "RCP scenarios",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways scenarios, a set of climate change scenarios used to project future greenhouse gas emissions and their impacts",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5716889759433866
+    },
+    {
+      "name": "atmospheric forcings",
+      "label": "variable",
+      "description": "External factors that influence the behavior of the atmosphere, such as greenhouse gas emissions, aerosols, and solar radiation",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6035006113927042
+    },
+    {
+      "name": "SST trends",
+      "label": "variable",
+      "description": "Changes in sea surface temperature over time, an important indicator of climate change",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.6087194304018346
+    }
+  ],
+  "(41165, 43988)": [
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas concentration trajectories used in climate modeling, representing a moderate increase in emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6106685374203273
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas concentration trajectories used in climate modeling, representing a high increase in emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.668143453454006
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, a measure of the temperature of the surface of the ocean, important for understanding climate patterns and variability",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7010052370674967
+    },
+    {
+      "name": "atmospheric processes",
+      "label": "model",
+      "description": "Computational representations of atmospheric phenomena used to simulate and predict weather, climate, and air quality",
+      "uuid": "3668de06-8a7d-4667-beb8-d04dcac619b0",
+      "score": 0.5178140526426064
+    },
+    {
+      "name": "oceanic processes",
+      "label": "model",
+      "description": "Computational representations of ocean phenomena used to simulate and predict ocean currents, temperature, and other properties",
+      "uuid": "04d24dfe-c9f7-43b6-8bd8-8f2613767257",
+      "score": 0.53934434133168
+    },
+    {
+      "name": "air temperature variability",
+      "label": "variable",
+      "description": "The variation in air temperature over time, which can influence climate patterns and weather events",
+      "uuid": "7013bdc9-519d-42b6-827c-4b8013fbb726",
+      "score": 0.649881761462116
+    },
+    {
+      "name": "upwelling frequency",
+      "label": "variable",
+      "description": "The rate at which deep water rises to the surface, affecting ocean productivity and climate",
+      "uuid": "75ab3537-34b1-4025-b758-7296626079ba",
+      "score": 0.5418395620093731
+    },
+    {
+      "name": "mixed layer",
+      "label": "variable",
+      "description": "The upper layer of the ocean where water properties are mixed, influencing ocean-atmosphere interactions",
+      "uuid": "48ec6449-373c-41f6-8a61-8f1e9ed95737",
+      "score": 0.7567853517094709
+    },
+    {
+      "name": "turbulent mixing",
+      "label": "variable",
+      "description": "The process of mixing water properties in the ocean, affecting ocean circulation and climate",
+      "uuid": "b9f343a1-0b8d-4e88-91bc-21f5d551963f",
+      "score": 0.6058912384468753
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "Frozen seawater that floats on the surface of the ocean, influencing climate patterns and ocean currents",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7458541627982483
+    },
+    {
+      "name": "air-sea coupling",
+      "label": "model",
+      "description": "The interaction between the atmosphere and ocean, which affects climate patterns and weather events",
+      "uuid": "6a6bed83-f95a-44e6-8ae0-1371b532abc3",
+      "score": 0.5315332708206976
+    },
+    {
+      "name": "atmospheric boundary layer",
+      "label": "variable",
+      "description": "The layer of the atmosphere closest to the Earth's surface, where atmospheric conditions are directly influenced by the surface",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.678998383137487
+    },
+    {
+      "name": "atmospheric forcing",
+      "label": "variable",
+      "description": "The influence of atmospheric conditions on the ocean, such as wind and temperature, which affects ocean currents and climate",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5024080518803417
+    },
+    {
+      "name": "temperature trends",
+      "label": "variable",
+      "description": "The change in temperature over time, which can indicate climate patterns and variability",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.7090379915614281
+    }
+  ],
+  "(43514, 46423)": [
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas emissions used in climate modeling to predict future climate change, characterized by a moderate increase in emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6070961056444469
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas emissions used in climate modeling to predict future climate change, characterized by a high increase in emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6569478680073162
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and playing a significant role in regional climate and marine ecosystems",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.8124268749333247
+    },
+    {
+      "name": "atmosphere",
+      "label": "model",
+      "description": "A layer of gases surrounding the Earth, which is simulated in climate models to understand and predict weather and climate patterns",
+      "uuid": "e384382c-fb2a-43ea-b064-610e6d4807e9",
+      "score": 0.571680683396816
+    },
+    {
+      "name": "CCLM",
+      "label": "model",
+      "description": "The Climate Limited-area Modelling Community model, a regional climate model used to simulate and study climate phenomena at the regional scale",
+      "uuid": "d8e67ddc-abaf-469b-8e84-f1549c1ca70d",
+      "score": 0.54134591065994
+    },
+    {
+      "name": "temperature threshold",
+      "label": "variable",
+      "description": "A specific temperature value that triggers a particular biological or physical process, such as the spawning of herring",
+      "uuid": "d87901bc-8a50-4442-8d03-a4e77f02bfb0",
+      "score": 0.6879851684736197
+    },
+    {
+      "name": "shortwave radiation changes",
+      "label": "variable",
+      "description": "Changes in the amount of shortwave radiation, which can impact climate and weather patterns",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.6248923119597146
+    },
+    {
+      "name": "ice concentration",
+      "label": "variable",
+      "description": "The amount of ice present in a given area, which can impact climate and weather patterns",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.6622794286232898
+    },
+    {
+      "name": "moisture convergence",
+      "label": "variable",
+      "description": "The process by which moisture is transported and concentrated in a particular region, which can impact climate and weather patterns",
+      "uuid": "5d8b1280-62a6-48f5-a9f6-ed18023e3481",
+      "score": 0.5530773741277651
+    },
+    {
+      "name": "wind speed",
+      "label": "variable",
+      "description": "The speed at which wind is blowing, which can impact climate and weather patterns",
+      "uuid": "661591b3-6685-4de7-a2a4-9ce8ae505044",
+      "score": 0.6603033577292805
+    },
+    {
+      "name": "atmospheric boundary layer",
+      "label": "model",
+      "description": "The layer of the atmosphere closest to the Earth's surface, which is simulated in climate models to understand and predict weather and climate patterns",
+      "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+      "score": 0.6551850280301365
+    },
+    {
+      "name": "tourism",
+      "label": "platform",
+      "description": "An economic sector that relies on the attraction of visitors to a particular region, which can be impacted by climate change",
+      "uuid": "82fdb39c-4fe8-4e2b-9dcf-67ceb4c6d8b9",
+      "score": 0.6802522881454485
+    },
+    {
+      "name": "marine ecosystems",
+      "label": "platform",
+      "description": "Ecosystems that exist in the ocean, which can be impacted by climate change",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.653537389487629
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area, which can be impacted by climate change",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.6666574068686577
+    }
+  ],
+  "(45936, 48785)": [
+    {
+      "name": "tourism",
+      "label": "sector",
+      "description": "An economic sector that involves the travel and stay of people for leisure, business, or other purposes, often influenced by environmental conditions such as weather and climate",
+      "uuid": "82fdb39c-4fe8-4e2b-9dcf-67ceb4c6d8b9",
+      "score": 0.672857606627559
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, often used in climate and environmental studies",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6881740490168443
+    },
+    {
+      "name": "marine ecosystems",
+      "label": "ecosystem",
+      "description": "Complex communities of plants, animals, and microorganisms that interact with each other and their environment in marine environments",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.656023838240861
+    },
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area with defined boundaries, often used to describe areas of interest in climate and environmental studies",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.7125606052176031
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its unique environmental conditions",
+      "uuid": "95d5a5b6-38dd-49a4-9f60-3bea2c4d0058",
+      "score": 0.7664345378929255
+    },
+    {
+      "name": "heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy between the atmosphere, ocean, and land surfaces, playing a crucial role in climate regulation",
+      "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
+      "score": 0.742616471032966
+    },
+    {
+      "name": "surface winds",
+      "label": "variable",
+      "description": "Winds that occur near the surface of the Earth, influencing weather patterns, ocean currents, and climate conditions",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.6834114502809211
+    },
+    {
+      "name": "HiResAFF atmospheric forcings",
+      "label": "model",
+      "description": "A high-resolution atmospheric forcing dataset used to drive climate models and simulate environmental conditions",
+      "uuid": "4e3cf807-3ff0-48ef-b867-990da77b39f2",
+      "score": 0.5508222377473122
+    },
+    {
+      "name": "air temperature trends",
+      "label": "variable",
+      "description": "Long-term changes in air temperature, often used to study climate change and its impacts",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.6490534103513544
+    },
+    {
+      "name": "ice concentration",
+      "label": "variable",
+      "description": "The amount of ice present in a given area, often used to study climate change and its impacts on marine ecosystems",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.6940568114010137
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, playing a crucial role in climate regulation and environmental conditions",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6360705577392591
+    },
+    {
+      "name": "regional oceanic model",
+      "label": "model",
+      "description": "A computational representation of oceanic processes used to simulate and predict ocean currents, temperature, and other environmental conditions",
+      "uuid": "c61a56a3-c08f-4989-92f3-0f0787688424",
+      "score": 0.5653905543285711
+    },
+    {
+      "name": "classification tree",
+      "label": "instrument",
+      "description": "A statistical tool used to classify data and identify relationships between variables",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.5803241914637806
+    }
+  ],
+  "(48338, 51309)": [
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, an important factor influencing climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6469926384416355
+    },
+    {
+      "name": "marine ecosystems",
+      "label": "location",
+      "description": "The communities of plants and animals that live in the ocean, including the Baltic Sea, and are influenced by climate change",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6177581476599068
+    },
+    {
+      "name": "clustering",
+      "label": "instrument",
+      "description": "A statistical method used to group similar data points or observations, applied in this study to analyze SST trends",
+      "uuid": "e4ef83d6-c132-4cd9-ab8b-5745949877d4",
+      "score": 0.598490206778117
+    },
+    {
+      "name": "cloud cover",
+      "label": "variable",
+      "description": "The amount of cloudiness in the atmosphere, affecting the amount of solar radiation that reaches the Earth's surface",
+      "uuid": "6d496890-1853-4515-97f9-73cccb84514c",
+      "score": 0.6136800450715145
+    },
+    {
+      "name": "surface albedo",
+      "label": "variable",
+      "description": "The measure of how much sunlight is reflected by the Earth's surface, influencing the amount of solar radiation absorbed",
+      "uuid": "5395e33c-02cb-4027-b425-e771eab13610",
+      "score": 0.7512742110579226
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and influenced by climate change",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7997288486381964
+    },
+    {
+      "name": "fixed surface winds",
+      "label": "variable",
+      "description": "The wind patterns at the Earth's surface, which can be held constant in climate simulations to isolate other factors",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.5445318351664475
+    },
+    {
+      "name": "heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy between the atmosphere and the ocean, influencing climate patterns and SST trends",
+      "uuid": "ee2cb9eb-f960-4e23-9e7c-be64d44a64e7",
+      "score": 0.6873044624208345
+    },
+    {
+      "name": "surface winds",
+      "label": "variable",
+      "description": "The wind patterns at the Earth's surface, influencing ocean currents, upwelling, and climate patterns",
+      "uuid": "fbc53539-ce4e-4e3e-bbd2-8270386616b4",
+      "score": 0.6592787001686948
+    },
+    {
+      "name": "four CMIP5 models forcings",
+      "label": "experiment",
+      "description": "A set of climate simulations using different models and forcings to predict future climate change, part of the Coupled Model Intercomparison Project Phase 5",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.6255080769726814
+    },
+    {
+      "name": "air temperature trends",
+      "label": "variable",
+      "description": "The changes in air temperature over time, influencing climate patterns and SST trends",
+      "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
+      "score": 0.6247885134594883
+    },
+    {
+      "name": "ice concentration",
+      "label": "variable",
+      "description": "The amount of ice cover in a given area, influencing surface albedo and air-sea coupling",
+      "uuid": "bb27bbb7-7bc4-4e38-833a-30e0a7861ccc",
+      "score": 0.7063849359106792
+    },
+    {
+      "name": "shortwave radiation",
+      "label": "variable",
+      "description": "The amount of solar radiation that reaches the Earth's surface, influencing climate patterns and SST trends",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.7003908593623344
+    },
+    {
+      "name": "sensible heat fluxes",
+      "label": "variable",
+      "description": "The transfer of heat energy between the atmosphere and the ocean through convection, influencing climate patterns and SST trends",
+      "uuid": "6a2d1d48-d2cc-4fe7-85f5-c98ab3a11262",
+      "score": 0.7697114578426496
+    },
+    {
+      "name": "classification tree",
+      "label": "instrument",
+      "description": "A statistical method used to classify data points or observations into different categories, applied in this study to analyze SST trends",
+      "uuid": "8cf3a3ce-4dd4-4364-8414-83e3b01354ec",
+      "score": 0.5912467425824398
+    },
+    {
+      "name": "four CMIP5 forcings",
+      "label": "experiment",
+      "description": "A set of climate simulations using different models and forcings to predict future climate change, part of the Coupled Model Intercomparison Project Phase 5",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.6103042619741901
+    },
+    {
+      "name": "SST trends",
+      "label": "variable",
+      "description": "The changes in sea surface temperature over time, influenced by climate change and affecting marine ecosystems",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.5827694309038128
+    },
+    {
+      "name": "Baltic Sea sub-basins",
+      "label": "location",
+      "description": "The different regions within the Baltic Sea, each with unique characteristics and influenced by climate change",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.6006939752521505
+    }
+  ],
+  "(50792, 53918)": [
+    {
+      "name": "ice cover",
+      "label": "variable",
+      "description": "The extent and thickness of ice covering the surface of a body of water, such as a sea or lake",
+      "uuid": "63b37017-9d57-4247-af4e-2df36ee3ed03",
+      "score": 0.5984345378065226
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air, an important factor in determining climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6416134547199379
+    },
+    {
+      "name": "surface winds",
+      "label": "variable",
+      "description": "The speed and direction of winds near the surface of the Earth, influencing weather and climate conditions",
+      "uuid": "10685919-bc01-43e7-901a-b62ac44627f3",
+      "score": 0.6953231195181788
+    },
+    {
+      "name": "Baltic Sea",
+      "label": "location",
+      "description": "A brackish water body located in Northern Europe, bordered by several countries and known for its unique ecosystem and climate",
+      "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+      "score": 0.7938298179953038
+    },
+    {
+      "name": "cloud cover",
+      "label": "variable",
+      "description": "The amount of sky covered by clouds, affecting the amount of solar radiation that reaches the Earth's surface",
+      "uuid": "70f5b8a3-3f52-467c-957c-7ca98e1c6184",
+      "score": 0.6233291087754004
+    },
+    {
+      "name": "shortwave radiation",
+      "label": "variable",
+      "description": "The radiation with shorter wavelengths, such as visible light and ultraviolet radiation, emitted by the sun and influencing Earth's climate",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.7588098986088526
+    },
+    {
+      "name": "sea ice albedo",
+      "label": "variable",
+      "description": "The measure of how much solar radiation is reflected by sea ice, influencing the Earth's energy balance and climate",
+      "uuid": "5332daa8-b5c4-4ac9-8a0e-6f60614ac760",
+      "score": 0.810296832954492
+    },
+    {
+      "name": "nonlinear climate feedbacks",
+      "label": "variable",
+      "description": "Complex interactions within the climate system that can amplify or dampen the effects of climate change",
+      "uuid": "de62c07e-96c6-44fb-a3a1-cd2902305691",
+      "score": 0.642410780368344
+    },
+    {
+      "name": "RCO model",
+      "label": "model",
+      "description": "A climate model used to simulate and predict future climate conditions, including sea surface temperature trends",
+      "uuid": "c15e05c9-9dc4-4712-98ba-a05d61bdf1c1",
+      "score": 0.504479994115876
+    },
+    {
+      "name": "Baltic Earth programme",
+      "label": "project",
+      "description": "A research initiative focused on understanding and predicting climate change in the Baltic Sea region",
+      "uuid": "51c38679-3f74-4020-aa9b-c5d432c59580",
+      "score": 0.5318968375567739
+    },
+    {
+      "name": "Swedish Research Council",
+      "label": "provider",
+      "description": "A funding agency supporting research in various fields, including environmental sciences and climate research",
+      "uuid": "bb93bdeb-dbad-45b0-b5ed-4dfbd972ffc4",
+      "score": 0.5331358535006516
+    },
+    {
+      "name": "ClimeMarine project",
+      "label": "project",
+      "description": "A research project focused on climate and marine sciences, funded by Formas and part of the National Research Programme for Climate",
+      "uuid": "5837d982-6f03-4994-9a79-17c87345bd01",
+      "score": 0.5589160627653392
+    },
+    {
+      "name": "Sweden",
+      "label": "location",
+      "description": "A country in Northern Europe, known for its commitment to environmental and climate research",
+      "uuid": "2edce566-82e1-4645-a94d-58cffa42f8e2",
+      "score": 0.6397133799349071
+    },
+    {
+      "name": "National Supercomputer Centre",
+      "label": "provider",
+      "description": "A research institution providing computational resources for various scientific fields, including climate modeling",
+      "uuid": "a63ad0f9-42ed-4f40-a81f-3f1e9e848f28",
+      "score": 0.5709375603675689
+    }
+  ],
+  "(53377, 54115)": [
+    {
+      "name": "Creative Commons licence",
+      "label": "instrument",
+      "description": "A public licence that allows users to use, share, and build upon a creator's work while giving credit to the original creator",
+      "uuid": "95c7e601-fcfe-4fc9-9994-8105a1e11428",
+      "score": 0.5731493943814584
+    },
+    {
+      "name": "Springer Nature",
+      "label": "provider",
+      "description": "A leading academic publisher that produces and distributes scientific and technical journals, books, and other publications",
+      "uuid": "67aee06b-a1df-4d00-9945-c9229f1ad121",
+      "score": 0.5612357276443236
+    }
+  ]
+}

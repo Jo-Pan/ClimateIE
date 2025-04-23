@@ -1,0 +1,584 @@
+{
+  "(0, 3006)": [
+    {
+      "name": "wastewater environments",
+      "label": "location",
+      "description": "A type of environment characterized by the presence of wastewater, which can be toxic to certain microorganisms",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.505607647416156
+    },
+    {
+      "name": "eukaryotic microalgae",
+      "label": "organism",
+      "description": "A type of microorganism that belongs to the domain Eukarya, characterized by the presence of a true nucleus and other membrane-bound organelles",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.5610077042050434
+    },
+    {
+      "name": "chlorophyll content",
+      "label": "variable",
+      "description": "A measure of the amount of chlorophyll present in microorganisms",
+      "uuid": "15cc550b-068c-49f4-b082-bc2a43675606",
+      "score": 0.5573247621773051
+    },
+    {
+      "name": "Fourier transform infrared spectroscopy",
+      "label": "instrument",
+      "description": "A technique used to analyze the chemical composition of microorganisms",
+      "uuid": "1536cab4-190b-4a58-8185-b183b124e76c",
+      "score": 0.5249270031926879
+    }
+  ],
+  "(2610, 5190)": [
+    {
+      "name": "microalgae",
+      "label": "platform",
+      "description": "A type of microscopic algae that can be used for various applications, including biofuel production and pollutant bioremediation",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.7259488118587625
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Toxic substances that can be present in wastewater and have negative effects on microalgae",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.5312144861771644
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, which can affect the growth and survival of microalgae",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.5973063783963769
+    },
+    {
+      "name": "wastewater",
+      "label": "location",
+      "description": "Water that has been contaminated with pollutants and toxins, potentially toxic to microalgae",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5197503992044047
+    },
+    {
+      "name": "ammonium concentration",
+      "label": "variable",
+      "description": "The amount of ammonium present in wastewater, which can affect the growth and survival of microalgae",
+      "uuid": "3165610f-56d5-4107-a6c2-cf05aff0bfdc",
+      "score": 0.5258482289904828
+    },
+    {
+      "name": "fertilizer",
+      "label": "instrument",
+      "description": "Substances used to promote the growth of microalgae",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5162255488607882
+    }
+  ],
+  "(4762, 7472)": [
+    {
+      "name": "wastewater environments",
+      "label": "location",
+      "description": "Places where wastewater is present, potentially harmful to the environment and human health",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5345902358532694
+    },
+    {
+      "name": "microalgae",
+      "label": "organism",
+      "description": "A type of microscopic algae that can be used for various applications, including biofuel production and wastewater remediation",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.7246190483228739
+    },
+    {
+      "name": "chlorophyte microalgae",
+      "label": "organism",
+      "description": "A type of green microalgae that can be used for various applications, including biofuel production and wastewater remediation",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.5669761897179217
+    },
+    {
+      "name": "nitrogen",
+      "label": "variable",
+      "description": "A chemical element that can be removed from wastewater through microalgae remediation",
+      "uuid": "bf03dba8-2881-44ac-abfc-ba3353f67a24",
+      "score": 0.5999066953569221
+    },
+    {
+      "name": "phosphorus",
+      "label": "variable",
+      "description": "A chemical element that can be removed from wastewater through microalgae remediation",
+      "uuid": "846d2db9-41cd-4ae8-b4ff-a34a9efb7428",
+      "score": 0.5962457677947947
+    }
+  ],
+  "(7034, 9641)": [
+    {
+      "name": "wastewater",
+      "label": "location",
+      "description": "A type of environment or medium, however, the text does not specify the type of entity, so it will be classified as a location",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5585297698154021
+    },
+    {
+      "name": "cell density",
+      "label": "variable",
+      "description": "A measure of the number of cells in a given area or volume",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.5140878967746828
+    },
+    {
+      "name": "optical density",
+      "label": "variable",
+      "description": "A measure of the amount of light that is absorbed or scattered by a substance",
+      "uuid": "001f18d3-7e61-430b-9883-1960c6256fe5",
+      "score": 0.5892799134045258
+    },
+    {
+      "name": "biomass productivity",
+      "label": "variable",
+      "description": "A measure of the amount of biomass produced by a system or organism",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5258615897268152
+    },
+    {
+      "name": "photosynthetic pigments",
+      "label": "variable",
+      "description": "Substances that play a crucial role in the process of photosynthesis",
+      "uuid": "3e801e91-897e-4528-8f4c-4ec527ad33cc",
+      "score": 0.5449526141055256
+    },
+    {
+      "name": "chlorophyll fluorescence",
+      "label": "variable",
+      "description": "A measure of the amount of light that is emitted by chlorophyll during the process of photosynthesis",
+      "uuid": "a60ae1b6-abfc-4905-8c09-772da7bb1a10",
+      "score": 0.5599287881068465
+    }
+  ],
+  "(9137, 11875)": [
+    {
+      "name": "FTIR",
+      "label": "instrument",
+      "description": "Fourier transform infrared spectroscopy, a technique used to obtain an infrared spectrum of absorption of a solid, liquid, or gas",
+      "uuid": "aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2",
+      "score": 0.6396810907032359
+    }
+  ],
+  "(11404, 14003)": [
+    {
+      "name": "FTIR spectra",
+      "label": "instrument",
+      "description": "A technique used to obtain an infrared spectrum of absorption of a solid, liquid, or gas, providing information about the molecular structure of the sample",
+      "uuid": "aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2",
+      "score": 0.5641407496464352
+    },
+    {
+      "name": "protein",
+      "label": "variable",
+      "description": "A type of macromolecule that performs a vast array of functions in living organisms, including catalyzing metabolic reactions and replicating DNA",
+      "uuid": "a4f1da9a-eda0-4240-90a0-074d58a713ba",
+      "score": 0.6387370063915648
+    }
+  ],
+  "(13611, 16128)": [
+    {
+      "name": "FTIR",
+      "label": "instrument",
+      "description": "A spectroscopic technique used to analyze the infrared radiation absorbed or emitted by molecules, providing information on their chemical composition",
+      "uuid": "aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2",
+      "score": 0.631897489086107
+    }
+  ],
+  "(15693, 18393)": [
+    {
+      "name": "biomass production",
+      "label": "variable",
+      "description": "A measure of the amount of biomass produced by microalgae species",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.520702279271487
+    }
+  ],
+  "(17930, 20298)": [
+    {
+      "name": "biochemical oxygen demand",
+      "label": "variable",
+      "description": "A measure of the amount of oxygen required to break down organic matter in water>",
+      "uuid": "2ef34dc5-4d29-4820-963c-f830f46c0347",
+      "score": 0.7135208570260227
+    },
+    {
+      "name": "NH + 4 -N",
+      "label": "variable",
+      "description": "A measure of ammonium nitrogen concentration in water>",
+      "uuid": "3165610f-56d5-4107-a6c2-cf05aff0bfdc",
+      "score": 0.6303544382070594
+    },
+    {
+      "name": "PO 3\u00c0 4 -P",
+      "label": "variable",
+      "description": "A measure of phosphate phosphorus concentration in water>",
+      "uuid": "569d3ff1-ce5d-4932-a4dd-3ab3d64e4c71",
+      "score": 0.5975171810877886
+    },
+    {
+      "name": "wastewater",
+      "label": "location",
+      "description": "A type of water that has been contaminated with pollutants and requires treatment>",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5704323671910503
+    }
+  ],
+  "(19890, 22772)": [
+    {
+      "name": "microalgae",
+      "label": "organism",
+      "description": "A type of microorganism that can grow in wastewater environments",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.6620015512636465
+    },
+    {
+      "name": "chlorophyll content",
+      "label": "variable",
+      "description": "A measure of the amount of chlorophyll present in microalgae, which can indicate their growth and health",
+      "uuid": "0f816677-9e94-4e3b-b409-513335769af8",
+      "score": 0.5520611229019898
+    }
+  ],
+  "(22301, 25099)": [
+    {
+      "name": "FTIR spectroscopy",
+      "label": "instrument",
+      "description": "A technique used for analyzing the metabolic profiling of microalgae by measuring the absorption of infrared radiation",
+      "uuid": "aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2",
+      "score": 0.5426209022142483
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of dissolved salts in water, which can affect the growth and metabolism of microalgae",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6164818031945838
+    },
+    {
+      "name": "microalgae species",
+      "label": "variable",
+      "description": "A type of microorganism that can be used for studying stress responses and metabolic changes",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.6267827947251662
+    }
+  ],
+  "(24588, 27455)": [
+    {
+      "name": "wastewater",
+      "label": "location",
+      "description": "A type of water that has been contaminated with pollutants and waste products",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5450367516358391
+    },
+    {
+      "name": "dissolved organic matter",
+      "label": "variable",
+      "description": "A type of organic compound that is dissolved in water",
+      "uuid": "9c90825c-a35f-4165-8248-e90ab869f8ec",
+      "score": 0.5816264583350598
+    },
+    {
+      "name": "dissolved organic carbon",
+      "label": "variable",
+      "description": "A type of organic compound that is dissolved in water and can be used as a source of carbon for microalgae",
+      "uuid": "b22b0369-cabf-44e8-85af-f084f8a6d5d8",
+      "score": 0.6375101157061689
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "A measure of the concentration of salts in water",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6885466281312156
+    },
+    {
+      "name": "microalgae",
+      "label": "microalgae",
+      "description": "A type of organism that is capable of photosynthesis and can be used to study acclimation to wastewater",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.6622302060853451
+    }
+  ],
+  "(27004, 29727)": [
+    {
+      "name": "microalgae",
+      "label": "organism",
+      "description": "A type of simple, photosynthetic organism, often used in bioremediation and biofuel production",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.7103144032570641
+    },
+    {
+      "name": "wastewater",
+      "label": "substance",
+      "description": "Water that has been used and contains pollutants or contaminants",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5519990727142121
+    }
+  ],
+  "(29373, 31581)": [
+    {
+      "name": "Chlorella vulgaris",
+      "label": "organism",
+      "description": "A species of green algae used in scientific research",
+      "uuid": "4fb63f34-f934-4a20-9d6e-ee57424f2391",
+      "score": 0.5148438263972914
+    },
+    {
+      "name": "wastewater treatment plant",
+      "label": "facility",
+      "description": "A facility that treats wastewater before releasing it into the environment",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5580845417556013
+    },
+    {
+      "name": "glass flasks",
+      "label": "instrument",
+      "description": "Laboratory equipment used for culturing microorganisms",
+      "uuid": "25ed0fd3-9f56-4464-9ecc-618c49084deb",
+      "score": 0.5757785322114675
+    },
+    {
+      "name": "trace nutrients",
+      "label": "variable",
+      "description": "Essential nutrients required for the growth of microorganisms",
+      "uuid": "ac061db6-21c7-46fc-b5a8-9f61c795fdd6",
+      "score": 0.6121595948835205
+    },
+    {
+      "name": "suspended solids",
+      "label": "variable",
+      "description": "Solid particles that are suspended in a liquid",
+      "uuid": "bcf6975f-2a21-4a6c-9286-fb8f85d00901",
+      "score": 0.7072360797554561
+    },
+    {
+      "name": "NH4-N",
+      "label": "variable",
+      "description": "A measure of the amount of ammonium nitrogen in a sample",
+      "uuid": "3165610f-56d5-4107-a6c2-cf05aff0bfdc",
+      "score": 0.6131535529081831
+    },
+    {
+      "name": "NO3-N",
+      "label": "variable",
+      "description": "A measure of the amount of nitrate nitrogen in a sample",
+      "uuid": "85d20fe6-1c50-4b5b-b920-54102f9fcafd",
+      "score": 0.6365508986106144
+    },
+    {
+      "name": "PO4-P",
+      "label": "variable",
+      "description": "A measure of the amount of phosphate phosphorus in a sample",
+      "uuid": "569d3ff1-ce5d-4932-a4dd-3ab3d64e4c71",
+      "score": 0.6083033382712698
+    },
+    {
+      "name": "BOD",
+      "label": "variable",
+      "description": "A measure of the amount of oxygen required to break down organic matter in a sample",
+      "uuid": "2ef34dc5-4d29-4820-963c-f830f46c0347",
+      "score": 0.6899151481284252
+    },
+    {
+      "name": "chemical oxygen demand",
+      "label": "variable",
+      "description": "A measure of the amount of oxygen required to break down organic matter in a sample",
+      "uuid": "5fb90409-f9b5-46bc-8a6a-7c42e250c7c3",
+      "score": 0.5779255331829509
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or basicity of a sample",
+      "uuid": "14625f2a-4186-4377-a0d9-88998bb6b775",
+      "score": 0.7192312745126673
+    }
+  ],
+  "(31144, 33572)": [
+    {
+      "name": "microalgae",
+      "label": "variable",
+      "description": "A type of algae that can be used for bioremediation and biofuel production",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.7050136783710569
+    },
+    {
+      "name": "glass flasks",
+      "label": "instrument",
+      "description": "Laboratory equipment used for batch cultivation and experimentation",
+      "uuid": "25ed0fd3-9f56-4464-9ecc-618c49084deb",
+      "score": 0.5773013710763205
+    },
+    {
+      "name": "wastewater",
+      "label": "location",
+      "description": "A type of water that has been contaminated with pollutants and needs to be treated",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5563766833770685
+    },
+    {
+      "name": "NH + 4 -N",
+      "label": "variable",
+      "description": "A type of nutrient found in wastewater",
+      "uuid": "3165610f-56d5-4107-a6c2-cf05aff0bfdc",
+      "score": 0.5400239331397535
+    },
+    {
+      "name": "PO 3\u00c0 4 -P",
+      "label": "variable",
+      "description": "A type of nutrient found in wastewater",
+      "uuid": "569d3ff1-ce5d-4932-a4dd-3ab3d64e4c71",
+      "score": 0.5396320265763576
+    }
+  ],
+  "(33146, 35601)": [
+    {
+      "name": "autoanalyzer",
+      "label": "instrument",
+      "description": "A device used to automatically analyze the chemical composition of a sample, such as the Skalar Sans Plus autoanalyzer",
+      "uuid": "79f76e22-ae42-450d-8bed-d05a800f6ea0",
+      "score": 0.7567385897732117
+    },
+    {
+      "name": "Jenway 9500 Dissolved Oxygen Meter",
+      "label": "instrument",
+      "description": "A device used to measure the dissolved oxygen levels in a solution",
+      "uuid": "fdcfecd6-9731-450e-94e8-5bc4c04e22a2",
+      "score": 0.5587555887286311
+    },
+    {
+      "name": "wastewater",
+      "label": "variable",
+      "description": "A type of water that has been contaminated with waste products",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5517221628205525
+    },
+    {
+      "name": "chlorophyll",
+      "label": "variable",
+      "description": "A green pigment found in plants and algae, often used to study photosynthesis",
+      "uuid": "15cc550b-068c-49f4-b082-bc2a43675606",
+      "score": 0.7148586979308897
+    },
+    {
+      "name": "carotenoid",
+      "label": "variable",
+      "description": "A type of pigment found in plants and algae, often used to study photosynthesis",
+      "uuid": "3e801e91-897e-4528-8f4c-4ec527ad33cc",
+      "score": 0.5498126688021988
+    },
+    {
+      "name": "green microalgae",
+      "label": "variable",
+      "description": "A type of microorganism that is often used to study photosynthesis and other biological processes",
+      "uuid": "d3594523-ba0d-4275-b121-95039f905058",
+      "score": 0.6378482227155221
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which cells convert light energy into chemical energy",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6578900659276913
+    },
+    {
+      "name": "fluorimeter",
+      "label": "instrument",
+      "description": "A device used to measure the fluorescence of a sample, often used to study photosynthesis",
+      "uuid": "e904c3c7-0111-4d09-bb01-2b7bea9b4d3f",
+      "score": 0.6309543835897783
+    },
+    {
+      "name": "Heinz Walz PAM-101 chlorophyll fluorimeter",
+      "label": "instrument",
+      "description": "A specific type of fluorimeter used to measure the fluorescence of chlorophyll",
+      "uuid": "972dae4e-73b2-46d1-8817-3789bef4e11b",
+      "score": 0.5190096844784694
+    },
+    {
+      "name": "FTIR spectroscopy",
+      "label": "instrument",
+      "description": "A technique used to analyze the chemical composition of a sample by measuring the infrared radiation it absorbs or emits",
+      "uuid": "aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2",
+      "score": 0.5869368101828091
+    }
+  ],
+  "(35216, 37650)": [
+    {
+      "name": "yll fluorimeter",
+      "label": "instrument",
+      "description": "A device used to measure the fluorescence of a sample, often used in biological and chemical analyses",
+      "uuid": "e904c3c7-0111-4d09-bb01-2b7bea9b4d3f",
+      "score": 0.5966500129742386
+    },
+    {
+      "name": "FTIR spectroscopy",
+      "label": "instrument",
+      "description": "A technique used to analyze the infrared spectrum of a sample, providing information on its molecular composition",
+      "uuid": "aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2",
+      "score": 0.6000751503478352
+    },
+    {
+      "name": "FTIR spectrometer",
+      "label": "instrument",
+      "description": "A device used to collect FTIR spectra, equipped with a detector and other components to analyze the infrared radiation absorbed or emitted by a sample",
+      "uuid": "aa2c39cf-1c4c-437e-ae2d-29e6a77f1aa2",
+      "score": 0.6746447938660458
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants, algae, and some bacteria convert light energy into chemical energy",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6771335147147148
+    },
+    {
+      "name": "wastewater",
+      "label": "location",
+      "description": "A type of water that has been used or contaminated, often requiring treatment before disposal or reuse",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5779699497231772
+    },
+    {
+      "name": "BBSRC",
+      "label": "provider",
+      "description": "The Biotechnology and Biological Sciences Research Council, a UK-based funding agency that supports research in the biological sciences",
+      "uuid": "61271d6f-8a7a-48a0-83c0-3beea456a76c",
+      "score": 0.5026911980903147
+    },
+    {
+      "name": "MATLAB",
+      "label": "instrument",
+      "description": "A programming language and software environment used for numerical computation and data analysis",
+      "uuid": "10de1987-5896-42d6-be7c-506fd7ba1f21",
+      "score": 0.576648144008442
+    },
+    {
+      "name": "IBM Statistics SPSS 20",
+      "label": "instrument",
+      "description": "A software package used for statistical analysis and data visualization",
+      "uuid": "e3b8b3e3-3dd0-41c2-a784-9697ba934d2d",
+      "score": 0.5527963149276421
+    }
+  ],
+  "(37418, 37650)": [
+    {
+      "name": "wastewater effluent",
+      "label": "variable",
+      "description": "The liquid waste or sewage discharged from a wastewater treatment plant, containing pollutants and contaminants that need to be monitored and managed",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5107008527052697
+    },
+    {
+      "name": "chlorophyll fluorescence analysis",
+      "label": "instrument",
+      "description": "A technique or method used to measure the fluorescence of chlorophyll, indicating the health and productivity of phytoplankton or other photosynthetic organisms",
+      "uuid": "a60ae1b6-abfc-4905-8c09-772da7bb1a10",
+      "score": 0.5438091916310169
+    }
+  ]
+}

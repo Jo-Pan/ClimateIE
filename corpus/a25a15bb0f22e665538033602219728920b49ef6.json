@@ -1,0 +1,452 @@
+{
+  "(0, 2780)": [
+    {
+      "name": "COVID-19",
+      "label": "weather event",
+      "description": "A global pandemic caused by the SARS-CoV-2 virus, characterized by respiratory infections and significant impacts on human health, economy, and environment",
+      "uuid": "89e3dc82-e76e-48a4-8070-abd70ea5d2fd",
+      "score": 0.5082676493169657
+    },
+    {
+      "name": "World Health Organization",
+      "label": "provider",
+      "description": "A specialized agency of the United Nations responsible for international public health, coordinating responses to global health crises",
+      "uuid": "18c5e622-2039-44f9-94e0-cf7682c08cf6",
+      "score": 0.6606396610574997
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, where the COVID-19 pandemic originated",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5655490134927055
+    },
+    {
+      "name": "air",
+      "label": "variable",
+      "description": "A measure of the quality of the air, which can be affected by pollution and other environmental factors",
+      "uuid": "a8d070ea-9ffd-4dcc-bb78-799e20f16de8",
+      "score": 0.6508192866034365
+    },
+    {
+      "name": "water",
+      "label": "variable",
+      "description": "A measure of the quality of water, which can be affected by pollution and other environmental factors",
+      "uuid": "9a583e74-34e9-4eb5-af7a-03418d702af6",
+      "score": 0.6478808983062307
+    },
+    {
+      "name": "energy consumption",
+      "label": "variable",
+      "description": "The amount of energy used by human activities, which can impact the environment and climate",
+      "uuid": "b73cee46-8e2c-4df9-b1ed-7f0aa98a04ac",
+      "score": 0.5141799655750713
+    }
+  ],
+  "(2313, 5353)": [
+    {
+      "name": "air",
+      "label": "variable",
+      "description": "A mixture of gases that surrounds the Earth, essential for human and animal respiration",
+      "uuid": "78533b60-f7e2-4882-bd57-5d5049980abf",
+      "score": 0.6243454506198852
+    },
+    {
+      "name": "water",
+      "label": "variable",
+      "description": "A vital component for human consumption, agriculture, and industrial processes, affected by the pandemic",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5785434834105986
+    },
+    {
+      "name": "waste management",
+      "label": "platform",
+      "description": "The process of handling and disposing of waste, impacted by the pandemic due to increased medical waste",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5060804204290726
+    },
+    {
+      "name": "public health",
+      "label": "platform",
+      "description": "The science and art of preventing disease, prolonging life, and promoting health through organized efforts",
+      "uuid": "da2c70fd-d92b-45be-b159-b2c10cb387c6",
+      "score": 0.5898574822758164
+    }
+  ],
+  "(4894, 7964)": [
+    {
+      "name": "contaminants",
+      "label": "variable",
+      "description": "Substances that can harm human health or the environment, often found in food, water, or air",
+      "uuid": "42c6d91b-afef-4638-95c5-0d130828b2e7",
+      "score": 0.6508783282618745
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "The measure of the physical, chemical, and biological characteristics of water, affecting its suitability for human consumption and environmental health",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7028704685074927
+    },
+    {
+      "name": "population growth",
+      "label": "variable",
+      "description": "The increase in the number of people living in a given area or region, often leading to increased pressure on resources",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5339652260111493
+    },
+    {
+      "name": "pollutants",
+      "label": "variable",
+      "description": "Substances that contaminate the environment, often harming human health and ecosystems",
+      "uuid": "42c6d91b-afef-4638-95c5-0d130828b2e7",
+      "score": 0.5258435830137582
+    },
+    {
+      "name": "water cycle",
+      "label": "process",
+      "description": "The continuous process by which water is circulated between the Earth and the atmosphere, involving evaporation, condensation, and precipitation",
+      "uuid": "3c4fe00c-6fb1-403e-a053-3a0174a6dfe6",
+      "score": 0.5031217680453771
+    },
+    {
+      "name": "aquatic environment",
+      "label": "location",
+      "description": "The ecosystem that exists in and around water, including rivers, lakes, oceans, and wetlands",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6669739719074621
+    },
+    {
+      "name": "freshwater resources",
+      "label": "variable",
+      "description": "Sources of water that are suitable for human consumption, agriculture, and other uses, often limited in supply",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6155915526545834
+    },
+    {
+      "name": "transport",
+      "label": "process",
+      "description": "The movement of people, goods, or services from one place to another, often involving the use of vehicles or infrastructure",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.6149176123178409
+    },
+    {
+      "name": "wastewater",
+      "label": "variable",
+      "description": "Water that has been used and contains pollutants or contaminants, often requiring treatment before disposal",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5725855796354572
+    },
+    {
+      "name": "ribonucleic acid",
+      "label": "variable",
+      "description": "A molecule that contains genetic information and is essential for the development and function of living organisms",
+      "uuid": "236cec51-c9e5-4584-90c4-0dac11c603cb",
+      "score": 0.614897864923157
+    },
+    {
+      "name": "organic compounds",
+      "label": "variable",
+      "description": "Substances that contain carbon and are often found in living organisms or produced by human activities",
+      "uuid": "19ab681c-bdd7-4793-bbdb-1ec498575314",
+      "score": 0.5363227810763002
+    }
+  ],
+  "(7450, 10504)": [
+    {
+      "name": "wastewater",
+      "label": "location",
+      "description": "Water that has been used and discharged from households, industries, or agricultural activities, potentially carrying pollutants and pathogens",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5809938861250581
+    },
+    {
+      "name": "water quality",
+      "label": "variable",
+      "description": "A measure of the physical, chemical, and biological characteristics of water, indicating its suitability for various uses",
+      "uuid": "1ee8a323-f0ba-4a21-b597-50890c527c8e",
+      "score": 0.7124393751033328
+    },
+    {
+      "name": "ribonucleic acid",
+      "label": "variable",
+      "description": "A molecule essential for various biological processes, including the transmission of genetic information",
+      "uuid": "236cec51-c9e5-4584-90c4-0dac11c603cb",
+      "score": 0.6338392597105976
+    },
+    {
+      "name": "organic compounds",
+      "label": "variable",
+      "description": "Chemical substances containing carbon, potentially affecting water quality and human health",
+      "uuid": "9c90825c-a35f-4165-8248-e90ab869f8ec",
+      "score": 0.609043847650397
+    },
+    {
+      "name": "metallic compounds",
+      "label": "variable",
+      "description": "Chemical substances containing metals, potentially affecting water quality and human health",
+      "uuid": "961591ce-9207-47db-9aeb-11586371fa12",
+      "score": 0.5488447782630538
+    },
+    {
+      "name": "water resources",
+      "label": "location",
+      "description": "Sources of water, including rivers, lakes, and groundwater, essential for human consumption, agriculture, and ecosystems",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.7305655647995377
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "Gases released into the atmosphere, contributing to climate change and global warming",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5266761805896314
+    },
+    {
+      "name": "sulfur dioxide",
+      "label": "variable",
+      "description": "A gas released into the atmosphere, contributing to air pollution and acid rain",
+      "uuid": "f5717312-c3ca-4492-a166-9f17c6d9b273",
+      "score": 0.7401452851299738
+    },
+    {
+      "name": "nitrogen oxides",
+      "label": "variable",
+      "description": "Gases released into the atmosphere, contributing to air pollution and climate change",
+      "uuid": "e5563c99-0fb6-43a9-8e20-6b47b1144394",
+      "score": 0.7199290622879763
+    },
+    {
+      "name": "particulate matter",
+      "label": "variable",
+      "description": "Small particles released into the atmosphere, contributing to air pollution and negative health effects",
+      "uuid": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
+      "score": 0.7453919449025479
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A gas released into the atmosphere, contributing to air pollution and climate change",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5987931825568877
+    },
+    {
+      "name": "industrial limitations",
+      "label": "experiment",
+      "description": "Restrictions on industrial activities, potentially reducing air pollution and greenhouse gas emissions",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5440638082176393
+    },
+    {
+      "name": "ambient air pollutants",
+      "label": "variable",
+      "description": "Pollutants present in the air, potentially affecting human health and the environment",
+      "uuid": "ba2abd4d-80f7-4861-8aa7-aaa3ed58a526",
+      "score": 0.5077498181992829
+    },
+    {
+      "name": "volatile organic compounds",
+      "label": "variable",
+      "description": "Chemical substances released into the atmosphere, contributing to air pollution and climate change",
+      "uuid": "1f3c543d-9ca9-4db4-b4a5-d3e2fd71e4a4",
+      "score": 0.7994677639941793
+    },
+    {
+      "name": "solar activity",
+      "label": "variable",
+      "description": "The sun's energy output, potentially affecting Earth's climate and atmospheric chemistry",
+      "uuid": "2e83362e-d8f8-4bca-83fd-bae360ebe94b",
+      "score": 0.6804747107672635
+    },
+    {
+      "name": "hydroperoxy radicals",
+      "label": "variable",
+      "description": "Highly reactive molecules formed in the atmosphere, potentially affecting air quality and climate change",
+      "uuid": "d8494f01-bcec-4232-ad78-fbd92c242e62",
+      "score": 0.6482086002818812
+    },
+    {
+      "name": "acid rain",
+      "label": "natural hazard",
+      "description": "Rainfall containing high levels of pollutants, potentially harming ecosystems and human health",
+      "uuid": "62ee81e7-9f5a-4af5-a086-f4c402c7d19d",
+      "score": 0.706868912855145
+    },
+    {
+      "name": "carbon oxides",
+      "label": "variable",
+      "description": "Gases released into the atmosphere, contributing to air pollution and climate change",
+      "uuid": "080389c4-68d4-41ee-ab89-070794038c8e",
+      "score": 0.5545893953494629
+    },
+    {
+      "name": "heavy metals",
+      "label": "variable",
+      "description": "Toxic substances released into the environment, potentially harming human health and ecosystems",
+      "uuid": "49ee4fcc-a0ad-4638-aec9-90b4946d8922",
+      "score": 0.6581961169096364
+    },
+    {
+      "name": "food description",
+      "label": "variable",
+      "description": "Information about the nutritional content and characteristics of food, potentially affecting human health and environmental sustainability",
+      "uuid": "3ec3b00e-52e1-4df9-99cd-c93120d97645",
+      "score": 0.561691024868729
+    },
+    {
+      "name": "eicosapentaenoic",
+      "label": "variable",
+      "description": "A type of omega-3 fatty acid, potentially affecting human health and environmental sustainability",
+      "uuid": "8e2c0e3a-4716-4211-9804-734a7a93adbe",
+      "score": 0.5177142984121132
+    }
+  ],
+  "(12471, 15671)": [
+    {
+      "name": "waste management sector",
+      "label": "project",
+      "description": "The industry responsible for collecting, processing, and disposing of waste in a safe and environmentally responsible manner",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5131666346969811
+    },
+    {
+      "name": "laboratories",
+      "label": "location",
+      "description": "Facilities where scientific research and testing are conducted",
+      "uuid": "3cbb9f17-ddb1-48d3-a507-786887e485af",
+      "score": 0.5879000634454418
+    },
+    {
+      "name": "transportation",
+      "label": "project",
+      "description": "The movement of people, goods, and services from one place to another",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.6314083821492812
+    },
+    {
+      "name": "nuclear",
+      "label": "variable",
+      "description": "A source of energy produced by the fission of atomic nuclei",
+      "uuid": "582af998-1f5c-48a7-8cdd-70fe06bb9f17",
+      "score": 0.5527464744926219
+    },
+    {
+      "name": "coal",
+      "label": "variable",
+      "description": "A fossil fuel used to produce energy, often burned to generate electricity",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6563671676970099
+    },
+    {
+      "name": "natural gas",
+      "label": "variable",
+      "description": "A fossil fuel used to produce energy, often burned to generate electricity or used as a fuel for vehicles",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.7129245548459064
+    }
+  ],
+  "(15067, 18335)": [
+    {
+      "name": "nuclear",
+      "label": "variable",
+      "description": "A type of energy generated by nuclear reactions, often used to produce electricity",
+      "uuid": "582af998-1f5c-48a7-8cdd-70fe06bb9f17",
+      "score": 0.572746703152764
+    },
+    {
+      "name": "coal",
+      "label": "variable",
+      "description": "A fossil fuel used to generate electricity and produce steel",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6440002368948355
+    },
+    {
+      "name": "natural gas",
+      "label": "variable",
+      "description": "A fossil fuel used to generate electricity, heat homes, and power vehicles",
+      "uuid": "72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac",
+      "score": 0.7057419750377489
+    },
+    {
+      "name": "industrial activities",
+      "label": "experiment",
+      "description": "Human activities that involve the production of goods and services, often resulting in environmental impacts such as pollution and energy consumption",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.529199407129118
+    }
+  ],
+  "(17761, 21011)": [
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing various climate and weather phenomena",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6673140958987378
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, affecting climate, weather, and the spread of diseases",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6773994457690122
+    },
+    {
+      "name": "vulnerable populations",
+      "label": "provider",
+      "description": "Groups of people who are more susceptible to the negative impacts of climate change, economic downturns, or health crises due to their socioeconomic status, age, or health conditions",
+      "uuid": "35b7c7cd-49c8-476c-83f2-f2e1f4097307",
+      "score": 0.7589813973752518
+    }
+  ],
+  "(20503, 23042)": [
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used in climate and environmental studies",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6778712104668045
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, often used in climate and environmental studies",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.7176495360534471
+    },
+    {
+      "name": "Norway",
+      "label": "location",
+      "description": "A country in Northern Europe, known for its climate and environmental research",
+      "uuid": "4bbd9eec-9daa-45c5-9cc7-1d8fb8bffd79",
+      "score": 0.6466468247515172
+    },
+    {
+      "name": "Malaysia",
+      "label": "location",
+      "description": "A country in Southeast Asia, known for its tropical climate",
+      "uuid": "5f9a0900-8379-456b-bd5e-d6235a022bfa",
+      "score": 0.6902432717656055
+    },
+    {
+      "name": "Indonesia",
+      "label": "location",
+      "description": "A country in Southeast Asia, known for its tropical climate",
+      "uuid": "84aeedd2-6093-4252-9895-8dc063a9ad97",
+      "score": 0.6468673650227232
+    },
+    {
+      "name": "Thailand",
+      "label": "location",
+      "description": "A country in Southeast Asia, known for its tropical climate",
+      "uuid": "6af5848c-db4b-4dd0-a6fb-1b9c904ef21b",
+      "score": 0.7097975104942424
+    },
+    {
+      "name": "Morocco",
+      "label": "location",
+      "description": "A country in North Africa, known for its climate and environmental policies",
+      "uuid": "cb410cb0-d8f3-42e2-9500-5576b802a7fa",
+      "score": 0.6698924763730193
+    }
+  ]
+}

@@ -1,0 +1,1043 @@
+{
+  "(0, 2881)": [
+    {
+      "name": "DLR-NASA",
+      "label": "provider",
+      "description": "A collaborative effort between the German Aerospace Center and the National Aeronautics and Space Administration, focused on advancing aerospace research and development",
+      "uuid": "3760ecbd-dcfd-467f-b9bb-a64d27bca198",
+      "score": 0.5960367095910728
+    },
+    {
+      "name": "jet fuels",
+      "label": "variable",
+      "description": "A type of fuel used to power aircraft engines, with varying compositions that can affect contrail microphysics and climate impact",
+      "uuid": "5b8e4067-db4e-42d4-b4a5-7de5e683125d",
+      "score": 0.5482650027226226
+    },
+    {
+      "name": "contrail cirrus clouds",
+      "label": "weather event",
+      "description": "A type of cloud formed by the condensation of water vapor on soot particles emitted by aircraft engines, which can affect the Earth's radiation budget and climate",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.6379839082428168
+    },
+    {
+      "name": "contrail microphysics",
+      "label": "variable",
+      "description": "The study of the physical processes that govern the formation and behavior of contrail cirrus clouds, including the role of soot particles and ice crystals",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.5359071412781323
+    },
+    {
+      "name": "carbon dioxide",
+      "label": "variable",
+      "description": "A greenhouse gas emitted by aircraft engines, which contributes to global warming and climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.5987015342085322
+    },
+    {
+      "name": "water vapour",
+      "label": "variable",
+      "description": "A gas emitted by aircraft engines, which can condense onto soot particles and form contrail cirrus clouds",
+      "uuid": "15029eb0-6342-4066-8ac9-c50f7dbfb392",
+      "score": 0.5185990035784485
+    },
+    {
+      "name": "ice crystals",
+      "label": "variable",
+      "description": "Small, frozen particles that make up contrail cirrus clouds, which can affect the Earth's radiation budget and climate",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.5190694583882496
+    },
+    {
+      "name": "atmospheric temperature",
+      "label": "variable",
+      "description": "The temperature of the air in the atmosphere, which can influence the formation and persistence of contrail cirrus clouds",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.6018299101294551
+    },
+    {
+      "name": "H 2 O mixing ratio",
+      "label": "variable",
+      "description": "The proportion of water vapor in the air, which can affect the formation and properties of contrail cirrus clouds",
+      "uuid": "ea308986-ad35-4482-948c-5eb1a01be836",
+      "score": 0.6493899125306825
+    },
+    {
+      "name": "ambient temperature",
+      "label": "variable",
+      "description": "The temperature of the surrounding air, which can influence the formation and persistence of contrail cirrus clouds",
+      "uuid": "1d2ac206-0977-4145-b334-baa6e13a0db6",
+      "score": 0.6131343960185647
+    },
+    {
+      "name": "ice supersaturated environment",
+      "label": "variable",
+      "description": "A condition in the atmosphere where the air is cooled to a temperature at which ice crystals can form and grow, sustaining contrail cirrus clouds",
+      "uuid": "293cdec2-44b7-488c-ae04-0722f0a9e8b9",
+      "score": 0.5625091298898416
+    },
+    {
+      "name": "Earth's radiation budget",
+      "label": "variable",
+      "description": "The balance of incoming and outgoing radiation that affects the Earth's climate, which can be influenced by contrail cirrus clouds",
+      "uuid": "7cacbfdf-71a3-4fac-b690-9aa54e4060dd",
+      "score": 0.6948845980630992
+    },
+    {
+      "name": "net effective radiative forcing",
+      "label": "variable",
+      "description": "A measure of the impact of human activities, such as aviation, on the Earth's climate system, expressed in units of energy per unit area",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6283969578001721
+    },
+    {
+      "name": "global average effective radiative forcing",
+      "label": "variable",
+      "description": "A measure of the average impact of human activities, such as aviation, on the Earth's climate system, expressed in units of energy per unit area",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6088557268692217
+    },
+    {
+      "name": "incoming solar radiation",
+      "label": "variable",
+      "description": "The energy from the sun that enters the Earth's atmosphere, which can be affected by contrail cirrus clouds",
+      "uuid": "6b3be650-6625-40b5-9b40-9e7c8a9fd336",
+      "score": 0.7321226590077144
+    },
+    {
+      "name": "outgoing infrared radiation",
+      "label": "variable",
+      "description": "The energy that is emitted by the Earth's surface and atmosphere into space, which can be affected by contrail cirrus clouds",
+      "uuid": "006b1ea6-222d-4740-b220-03886d49cd81",
+      "score": 0.646167454852068
+    }
+  ],
+  "(2482, 5453)": [
+    {
+      "name": "contrail cirrus",
+      "label": "weather event",
+      "description": "A type of cloud formed by the exhaust of aircraft engines, contributing to climate change by trapping heat in the atmosphere",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.6229830575715583
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to global warming and climate change",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6668672422974816
+    },
+    {
+      "name": "NOx",
+      "label": "variable",
+      "description": "Nitrogen oxides, pollutants emitted by aircraft engines that contribute to air pollution and climate change",
+      "uuid": "e82ebd1c-8241-4ca0-95a9-a6e1432519cd",
+      "score": 0.6852456686738125
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, with significant air traffic and a major contributor to global greenhouse gas emissions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5937839803511915
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent with significant air traffic and a major contributor to global greenhouse gas emissions",
+      "uuid": "a62ae820-58c5-47ff-bb72-2680962b26f4",
+      "score": 0.5615885312423584
+    },
+    {
+      "name": "atmospheric energy budget",
+      "label": "variable",
+      "description": "The balance of energy inputs and outputs in the Earth's atmosphere, which is affected by various factors including contrail cirrus",
+      "uuid": "7cacbfdf-71a3-4fac-b690-9aa54e4060dd",
+      "score": 0.5454230956431988
+    },
+    {
+      "name": "regional anthropogenic radiative forcing",
+      "label": "variable",
+      "description": "The change in the energy balance of the atmosphere due to human activities, such as air traffic, in a specific region",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6131315008229234
+    },
+    {
+      "name": "net effective radiative forcing",
+      "label": "variable",
+      "description": "The overall change in the energy balance of the atmosphere due to human activities, such as air traffic",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6551753742183344
+    },
+    {
+      "name": "jet fuel",
+      "label": "variable",
+      "description": "A type of fuel used to power aircraft, which can impact climate and air quality",
+      "uuid": "5b8e4067-db4e-42d4-b4a5-7de5e683125d",
+      "score": 0.5538781411216074
+    },
+    {
+      "name": "cruise altitudes",
+      "label": "location",
+      "description": "The heights at which aircraft typically fly, which can impact the formation of contrail cirrus",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.5002955268637472
+    }
+  ],
+  "(4893, 7708)": [
+    {
+      "name": "Deutsches Zentrum f\u00fcr Luft-und Raumfahrt (DLR)",
+      "label": "provider",
+      "description": "A German aerospace research center and space agency, conducting research in aviation, space, and energy",
+      "uuid": "2f9d7c12-c02d-41fb-a168-4d91794187f7",
+      "score": 0.7005804217443589
+    },
+    {
+      "name": "National Aeronautics and Space Administration (NASA)",
+      "label": "provider",
+      "description": "A United States government agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6855317746952938
+    },
+    {
+      "name": "DLR Advanced Technology Research Aircraft (ATRA)",
+      "label": "platform",
+      "description": "A state-of-the-art Airbus A320 equipped with advanced sensors and engines for research purposes",
+      "uuid": "0c31ed1c-8ec6-4f7c-ac27-23fb428b7415",
+      "score": 0.5028472199103001
+    },
+    {
+      "name": "NASA DC-8",
+      "label": "platform",
+      "description": "A research aircraft used for various scientific missions, including atmospheric and climate research",
+      "uuid": "a930c78a-6ed3-4a49-ad2d-bd2c5c36d291",
+      "score": 0.7650557744221791
+    },
+    {
+      "name": "DLR Falcon 20",
+      "label": "platform",
+      "description": "A research aircraft used for sampling and measuring atmospheric and climate-related data",
+      "uuid": "0c31ed1c-8ec6-4f7c-ac27-23fb428b7415",
+      "score": 0.6455050007175346
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe, serving as the location for the flight campaigns and ground tests",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.575555495340272
+    }
+  ],
+  "(7259, 9987)": [
+    {
+      "name": "DLR",
+      "label": "provider",
+      "description": "The German Aerospace Center, a research institution focused on aeronautics, space, energy, transport, and security",
+      "uuid": "2f9d7c12-c02d-41fb-a168-4d91794187f7",
+      "score": 0.6893781957454753
+    },
+    {
+      "name": "DC8",
+      "label": "platform",
+      "description": "A jet airliner used for research and testing, including the study of contrails and aviation emissions",
+      "uuid": "a930c78a-6ed3-4a49-ad2d-bd2c5c36d291",
+      "score": 0.6446118334610191
+    },
+    {
+      "name": "contrail",
+      "label": "weather event",
+      "description": "A visible trail of condensed water vapor left behind by an aircraft, influenced by fuel composition and atmospheric conditions",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.6002790130199113
+    }
+  ],
+  "(9564, 12316)": [
+    {
+      "name": "DLR Falcon",
+      "label": "platform",
+      "description": "A research aircraft used for various scientific experiments and measurements, operated by the German Aerospace Center",
+      "uuid": "0c31ed1c-8ec6-4f7c-ac27-23fb428b7415",
+      "score": 0.6834603320739221
+    },
+    {
+      "name": "Cloud and Aerosol Spectrometer Probe",
+      "label": "instrument",
+      "description": "A device used to measure the properties of clouds and aerosols in the atmosphere",
+      "uuid": "d1be0e72-acd4-4fae-90b2-2eba8b91861f",
+      "score": 0.5908656744797486
+    },
+    {
+      "name": "condensation particle counters",
+      "label": "instrument",
+      "description": "Devices modified for airborne application to measure the number concentrations of nonvolatile particles",
+      "uuid": "7b08ac7a-6242-4fc5-bff9-e7d0c6341555",
+      "score": 0.6523924203333327
+    },
+    {
+      "name": "Fast Forward Scattering Spectrometer Probe",
+      "label": "instrument",
+      "description": "A device used to measure the properties of particles and aerosols in the atmosphere",
+      "uuid": "6f3d675e-b046-455f-b2bd-04cfbe7ce652",
+      "score": 0.667362049832672
+    },
+    {
+      "name": "DC-8",
+      "label": "platform",
+      "description": "A research aircraft used for various scientific experiments and measurements",
+      "uuid": "a930c78a-6ed3-4a49-ad2d-bd2c5c36d291",
+      "score": 0.679161591231275
+    },
+    {
+      "name": "ECLIF1",
+      "label": "project",
+      "description": "A research project focused on studying contrail characteristics and emissions from alternative fuel blends",
+      "uuid": "e23b4757-38f3-4be1-8d70-035dacb782f6",
+      "score": 0.535810626870704
+    },
+    {
+      "name": "ECLIF2/ND-MAX",
+      "label": "project",
+      "description": "A research project focused on studying contrail characteristics and emissions from alternative fuel blends",
+      "uuid": "c31fa334-41d7-47ec-bbf7-6b406c7b3247",
+      "score": 0.5004744195893611
+    },
+    {
+      "name": "contrail characteristics",
+      "label": "variable",
+      "description": "Properties of contrails such as their formation, persistence, and optical properties",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.5524649806786645
+    },
+    {
+      "name": "threshold temperature",
+      "label": "variable",
+      "description": "The temperature below which contrails can thermodynamically occur, also known as the Schmidt-Appleman temperature",
+      "uuid": "e2203a61-1ef4-4e3d-b7aa-98e7867f8b7c",
+      "score": 0.5532408767446935
+    }
+  ],
+  "(11915, 14650)": [
+    {
+      "name": "DC-8",
+      "label": "platform",
+      "description": "A research aircraft used for chasing and measuring contrails",
+      "uuid": "a930c78a-6ed3-4a49-ad2d-bd2c5c36d291",
+      "score": 0.6076318859014268
+    },
+    {
+      "name": "contrails",
+      "label": "weather event",
+      "description": "Trails of condensed water vapor left behind by aircraft, influencing local climate and atmospheric conditions",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.658728817403601
+    },
+    {
+      "name": "ECLIF1",
+      "label": "experiment",
+      "description": "A research experiment focused on studying contrail formation and properties",
+      "uuid": "e23b4757-38f3-4be1-8d70-035dacb782f6",
+      "score": 0.505280559941173
+    },
+    {
+      "name": "gas chromatography",
+      "label": "instrument",
+      "description": "An analytical technique used to separate and identify the components of a mixture, such as fuel properties",
+      "uuid": "32402358-e5dc-4c01-bede-5304ebea0584",
+      "score": 0.6627473807498974
+    },
+    {
+      "name": "DLR",
+      "label": "provider",
+      "description": "The German Aerospace Center, a research institution involved in aeronautics, space, energy, transport, and security",
+      "uuid": "2f9d7c12-c02d-41fb-a168-4d91794187f7",
+      "score": 0.686620112254741
+    },
+    {
+      "name": "ice crystal",
+      "label": "variable",
+      "description": "A type of atmospheric particle formed through the freezing of water vapor, often associated with contrails",
+      "uuid": "7d44b6e1-9914-458a-8fc9-eeeaacf613ed",
+      "score": 0.5338826517903515
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas influencing climate and atmospheric conditions",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6780058053108239
+    }
+  ],
+  "(14161, 16803)": [
+    {
+      "name": "ice particles",
+      "label": "variable",
+      "description": "Tiny ice crystals formed in contrails, which can affect climate and aviation",
+      "uuid": "60bb6ddf-29b1-4dad-9c9f-27f040a43bba",
+      "score": 0.5032085727671207
+    },
+    {
+      "name": "contrail ice crystals",
+      "label": "variable",
+      "description": "Ice crystals formed in contrails, which can affect climate and aviation",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.5909408559490757
+    },
+    {
+      "name": "volatile particles",
+      "label": "variable",
+      "description": "Tiny particles that can evaporate quickly, often found in the atmosphere and influencing climate and air quality",
+      "uuid": "f9fe1bc0-88c5-4c26-9b4c-a9867d027685",
+      "score": 0.5083803119363837
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, influencing climate, weather, and contrail formation",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.6997008657491145
+    },
+    {
+      "name": "ambient temperatures",
+      "label": "variable",
+      "description": "The temperature of the surrounding air, influencing climate, weather, and contrail formation",
+      "uuid": "1d2ac206-0977-4145-b334-baa6e13a0db6",
+      "score": 0.6614174811154793
+    },
+    {
+      "name": "diode laser hygrometer DLH",
+      "label": "instrument",
+      "description": "A device used to measure the relative humidity in the air, essential for understanding contrail formation and climate",
+      "uuid": "086b650d-3aac-4b1a-8d51-0928634eca50",
+      "score": 0.7641324892007922
+    },
+    {
+      "name": "frost point hygrometer",
+      "label": "instrument",
+      "description": "A device used to measure the temperature at which the air becomes saturated with water vapor, important for understanding contrail formation and climate",
+      "uuid": "fdc33ea9-1f74-40ec-b7d2-c44f384832e5",
+      "score": 0.55032053631557
+    },
+    {
+      "name": "Schmidt-Appleman threshold temperature",
+      "label": "variable",
+      "description": "A temperature threshold below which contrails can form, influencing climate and aviation",
+      "uuid": "e2203a61-1ef4-4e3d-b7aa-98e7867f8b7c",
+      "score": 0.5156646711161912
+    }
+  ],
+  "(16420, 19115)": [
+    {
+      "name": "contrail conditions",
+      "label": "weather event",
+      "description": "Specific atmospheric conditions under which contrails form, typically involving high humidity and low temperatures",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.5998864953170234
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air compared to the maximum amount the air can hold at a given temperature",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7177995399986082
+    },
+    {
+      "name": "diode laser hygrometer DLH",
+      "label": "instrument",
+      "description": "A device used to measure the humidity of the air, specifically employing a diode laser to detect changes in water vapor content",
+      "uuid": "086b650d-3aac-4b1a-8d51-0928634eca50",
+      "score": 0.755822050413746
+    },
+    {
+      "name": "Schmidt-Appleman threshold temperature",
+      "label": "variable",
+      "description": "A temperature threshold below which contrails can form, named after the researchers who first identified it",
+      "uuid": "e2203a61-1ef4-4e3d-b7aa-98e7867f8b7c",
+      "score": 0.5015424917583042
+    },
+    {
+      "name": "ECLIF-1",
+      "label": "project",
+      "description": "A research project or experiment focused on studying contrail formation and properties",
+      "uuid": "e23b4757-38f3-4be1-8d70-035dacb782f6",
+      "score": 0.5312821659587074
+    },
+    {
+      "name": "ECLIF2/ND-MAX",
+      "label": "project",
+      "description": "A research project or experiment focused on studying contrail formation and properties, possibly an extension or follow-up to ECLIF-1",
+      "uuid": "1a02732b-e091-47ee-be97-14f010b1e07c",
+      "score": 0.5129953348645934
+    },
+    {
+      "name": "contrail",
+      "label": "weather event",
+      "description": "A visible cloud-like formation that trails behind an aircraft, formed when the exhaust gases mix with the cold air in the upper atmosphere",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.6045849079465457
+    }
+  ],
+  "(18639, 21503)": [
+    {
+      "name": "contrail conditions",
+      "label": "weather event",
+      "description": "Atmospheric conditions that lead to the formation of contrails, which are clouds formed when an airplane flies through a layer of cold air",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.6149806518236228
+    }
+  ],
+  "(21025, 23740)": [
+    {
+      "name": "jet fuels",
+      "label": "instrument",
+      "description": "A type of fuel used to power jet engines, with varying compositions that can affect contrail formation",
+      "uuid": "5b8e4067-db4e-42d4-b4a5-7de5e683125d",
+      "score": 0.5095945995877659
+    },
+    {
+      "name": "contrails",
+      "label": "weather event",
+      "description": "Trails of condensed water vapor left behind by aircraft, influenced by fuel composition and atmospheric conditions",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.6545679785793005
+    }
+  ],
+  "(23318, 26333)": [
+    {
+      "name": "Jet A1",
+      "label": "fuel",
+      "description": "A standard aviation fuel used for comparison in studies examining the effects of alternative fuels on contrail formation and climate impact",
+      "uuid": "5b8e4067-db4e-42d4-b4a5-7de5e683125d",
+      "score": 0.514785127538898
+    },
+    {
+      "name": "contrail",
+      "label": "weather event",
+      "description": "A visible trail of condensed water vapor and ice crystals left behind by an aircraft, influencing climate through radiative forcing and cirrus formation",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.6236198924966377
+    },
+    {
+      "name": "supersaturated ambient atmosphere",
+      "label": "location",
+      "description": "A region of the atmosphere where the air is supersaturated with water vapor, conducive to contrail formation",
+      "uuid": "293cdec2-44b7-488c-ae04-0722f0a9e8b9",
+      "score": 0.6135311838543525
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, where contrails form and interact with the climate system",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.5727604830478885
+    },
+    {
+      "name": "contrail cirrus",
+      "label": "weather event",
+      "description": "A type of high-level cloud formed from contrails, influencing climate through radiative forcing and energy deposition",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.6196003616602744
+    }
+  ],
+  "(25777, 28426)": [
+    {
+      "name": "contrail cirrus",
+      "label": "weather event",
+      "description": "A type of cloud that forms when the exhaust of an aircraft engine mixes with cold air, contributing to climate change",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.6141722263603733
+    },
+    {
+      "name": "background aerosol",
+      "label": "variable",
+      "description": "Tiny particles present in the atmosphere that can affect climate and air quality",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.5194154886628923
+    },
+    {
+      "name": "ice nucleation",
+      "label": "natural hazard",
+      "description": "The process by which ice forms in the atmosphere, which can be affected by aircraft emissions",
+      "uuid": "60bb6ddf-29b1-4dad-9c9f-27f040a43bba",
+      "score": 0.6192684863633442
+    },
+    {
+      "name": "jet fuels",
+      "label": "instrument",
+      "description": "Fuels used to power jet engines, which can contribute to climate change",
+      "uuid": "5b8e4067-db4e-42d4-b4a5-7de5e683125d",
+      "score": 0.5299912273521238
+    },
+    {
+      "name": "DLR ATRA",
+      "label": "platform",
+      "description": "A research aircraft used to study the effects of aircraft emissions on climate change",
+      "uuid": "0c31ed1c-8ec6-4f7c-ac27-23fb428b7415",
+      "score": 0.5004204271837225
+    }
+  ],
+  "(28077, 30586)": [
+    {
+      "name": "DLR",
+      "label": "provider",
+      "description": "A research institution or organization involved in the production of sustainable alternative jet fuels",
+      "uuid": "2f9d7c12-c02d-41fb-a168-4d91794187f7",
+      "score": 0.5833429881258152
+    },
+    {
+      "name": "hydrogen",
+      "label": "chemical element",
+      "description": "A chemical element used in the production of synthetic jet fuels",
+      "uuid": "96bbae63-81c1-43b4-90f0-52731e2b52ca",
+      "score": 0.5415465009483642
+    },
+    {
+      "name": "carbon",
+      "label": "chemical element",
+      "description": "A chemical element used in the production of synthetic jet fuels",
+      "uuid": "5c52009f-2c44-4db1-b62b-135c6181bad2",
+      "score": 0.5120943916093909
+    },
+    {
+      "name": "CO2 footprint",
+      "label": "metric",
+      "description": "A measure of the amount of carbon dioxide emissions associated with the production of a fuel",
+      "uuid": "0e530a5f-1e75-4602-9659-98ff5c3d7076",
+      "score": 0.6523001516267206
+    }
+  ],
+  "(30052, 32838)": [
+    {
+      "name": "CO 2 footprint",
+      "label": "variable",
+      "description": "A measure of the amount of carbon dioxide emissions associated with a particular activity or product, used to assess environmental sustainability",
+      "uuid": "0e530a5f-1e75-4602-9659-98ff5c3d7076",
+      "score": 0.6916568715558767
+    },
+    {
+      "name": "CAS",
+      "label": "instrument",
+      "description": "The Cloud and Aerosol Spectrometer, an instrument used to measure the size distribution and concentration of particles in the atmosphere",
+      "uuid": "d1be0e72-acd4-4fae-90b2-2eba8b91861f",
+      "score": 0.7977959219995449
+    },
+    {
+      "name": "Falcon",
+      "label": "platform",
+      "description": "An aircraft used as a research platform for atmospheric measurements",
+      "uuid": "0c31ed1c-8ec6-4f7c-ac27-23fb428b7415",
+      "score": 0.5830618013396973
+    },
+    {
+      "name": "contrails",
+      "label": "phenomenon",
+      "description": "Trails of condensed water vapor left behind by aircraft, which can impact climate and air quality",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.6617518806933725
+    },
+    {
+      "name": "ice particles",
+      "label": "variable",
+      "description": "Small, frozen particles found in clouds and contrails, which can influence climate and weather patterns",
+      "uuid": "3c8caa79-900b-4f42-9320-7726c92e50b9",
+      "score": 0.567535766111183
+    },
+    {
+      "name": "FFSSP-300",
+      "label": "instrument",
+      "description": "The Fast Forward Scattering Spectrometer Probe, an instrument used to measure the size distribution and concentration of particles in the atmosphere",
+      "uuid": "6f3d675e-b046-455f-b2bd-04cfbe7ce652",
+      "score": 0.7641114881882632
+    },
+    {
+      "name": "DC-8",
+      "label": "platform",
+      "description": "A research aircraft used for atmospheric measurements and experiments",
+      "uuid": "a930c78a-6ed3-4a49-ad2d-bd2c5c36d291",
+      "score": 0.6849732029612762
+    },
+    {
+      "name": "CO 2 inlet",
+      "label": "instrument",
+      "description": "A device used to measure carbon dioxide concentrations in the atmosphere",
+      "uuid": "e553e68d-bc64-4b5b-b4e5-c01cf3fc68d9",
+      "score": 0.5148239819910377
+    }
+  ],
+  "(32369, 35171)": [
+    {
+      "name": "DC8",
+      "label": "platform",
+      "description": "A type of aircraft used for research and measurement of atmospheric properties",
+      "uuid": "a930c78a-6ed3-4a49-ad2d-bd2c5c36d291",
+      "score": 0.6569730165845666
+    },
+    {
+      "name": "aerosol inlet",
+      "label": "instrument",
+      "description": "A device used to sample aerosol particles from the atmosphere for measurement and analysis",
+      "uuid": "6a858dfd-8e3a-408e-a250-89ed91fff930",
+      "score": 0.5210878515570567
+    },
+    {
+      "name": "CAS",
+      "label": "instrument",
+      "description": "A device used to measure particle size distribution in contrails",
+      "uuid": "d1be0e72-acd4-4fae-90b2-2eba8b91861f",
+      "score": 0.6930867404761053
+    },
+    {
+      "name": "FFSSP",
+      "label": "instrument",
+      "description": "A forward-facing spectrometer used to measure ice particle concentrations and sizes",
+      "uuid": "ea9c102c-6987-445e-a869-c853d2d8e912",
+      "score": 0.7384797418525976
+    },
+    {
+      "name": "TSI",
+      "label": "provider",
+      "description": "A company that manufactures and supplies scientific instruments, including condensation particle counters",
+      "uuid": "3e507cc0-d6a2-4bd5-9598-70956268e9aa",
+      "score": 0.5230466585792067
+    },
+    {
+      "name": "CPCs",
+      "label": "instrument",
+      "description": "Condensation particle counters, used to measure the number concentration of nonvolatile particles in the atmosphere",
+      "uuid": "7b08ac7a-6242-4fc5-bff9-e7d0c6341555",
+      "score": 0.7732894037009386
+    },
+    {
+      "name": "ECLIF1",
+      "label": "experiment",
+      "description": "A research experiment focused on measuring and analyzing atmospheric properties, including aerosol and ice particle concentrations",
+      "uuid": "e23b4757-38f3-4be1-8d70-035dacb782f6",
+      "score": 0.5111130744921537
+    },
+    {
+      "name": "Thermodenuder",
+      "label": "instrument",
+      "description": "A device used to heat and evaporate volatile components of aerosol particles, leaving behind non-volatile components",
+      "uuid": "ff62a73b-6949-4e1c-b07e-ddbdc48a1a7c",
+      "score": 0.7792035358961543
+    },
+    {
+      "name": "Picarro Inc",
+      "label": "provider",
+      "description": "A company that manufactures and supplies scientific instruments, including cavity ring down spectroscopy instruments for measuring CO2 concentrations",
+      "uuid": "bd9406f1-2e9d-4823-8437-0bc479edd516",
+      "score": 0.6054742990173577
+    },
+    {
+      "name": "CRDS",
+      "label": "instrument",
+      "description": "Cavity ring down spectroscopy, a technique used to measure the concentration of gases such as CO2",
+      "uuid": "9a61fcbd-c75f-4940-939f-6e4c7d84d643",
+      "score": 0.8044879653161057
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas with significant implications for climate and atmospheric chemistry",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6852141713978
+    },
+    {
+      "name": "contrails",
+      "label": "weather event",
+      "description": "Condensation trails formed by the exhaust of aircraft engines, which can affect atmospheric properties and climate",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.6708740408330645
+    }
+  ],
+  "(34731, 37315)": [
+    {
+      "name": "CO 2",
+      "label": "variable",
+      "description": "A measure of the concentration of carbon dioxide in the air, a key component in studying climate change and atmospheric chemistry",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.6200191520636402
+    },
+    {
+      "name": "NOAA/ESRL",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration Earth System Research Laboratory, a leading institution in climate and atmospheric research",
+      "uuid": "3970129f-8bb5-49bb-8517-1532f0a0f828",
+      "score": 0.7356781231530688
+    },
+    {
+      "name": "CRDS instrument",
+      "label": "instrument",
+      "description": "A cavity ring-down spectroscopy instrument, used for measuring the concentration of gases such as CO 2 and H 2 O in the atmosphere",
+      "uuid": "9a61fcbd-c75f-4940-939f-6e4c7d84d643",
+      "score": 0.7932265259354172
+    },
+    {
+      "name": "Falcon",
+      "label": "platform",
+      "description": "An aircraft used for atmospheric research, equipped with various instruments to measure climate-related variables",
+      "uuid": "0c31ed1c-8ec6-4f7c-ac27-23fb428b7415",
+      "score": 0.5569773155215193
+    },
+    {
+      "name": "DC8",
+      "label": "platform",
+      "description": "A research aircraft used for studying the atmosphere, climate, and weather phenomena",
+      "uuid": "a930c78a-6ed3-4a49-ad2d-bd2c5c36d291",
+      "score": 0.6550761467683586
+    },
+    {
+      "name": "H 2 O",
+      "label": "variable",
+      "description": "A measure of the concentration of water vapor in the air, an essential component in atmospheric chemistry and climate studies",
+      "uuid": "04c30b59-88ea-4311-8353-8896d4eba83f",
+      "score": 0.5853255285309694
+    },
+    {
+      "name": "Buck Research Instruments, LLC",
+      "label": "provider",
+      "description": "A company that develops and manufactures instruments for atmospheric research, including hygrometers for measuring water vapor",
+      "uuid": "8a22fea1-f43e-4147-abca-13e44016a483",
+      "score": 0.5087522585469371
+    },
+    {
+      "name": "ECLIF1",
+      "label": "project",
+      "description": "A research project focused on studying contrails and their impact on climate, involving measurements of atmospheric variables such as H 2 O and temperature",
+      "uuid": "e23b4757-38f3-4be1-8d70-035dacb782f6",
+      "score": 0.5627023281580081
+    },
+    {
+      "name": "ECLIF2/ND-MAX",
+      "label": "project",
+      "description": "A research project that builds upon ECLIF1, aiming to further understand contrails and their effects on climate, with a focus on high-altitude measurements",
+      "uuid": "c31fa334-41d7-47ec-bbf7-6b406c7b3247",
+      "score": 0.5298808970898561
+    },
+    {
+      "name": "NASA Langley Diode Laser Hygrometer",
+      "label": "instrument",
+      "description": "A highly sensitive instrument used for measuring water vapor concentrations in the atmosphere, employing a tunable diode laser and differential absorption spectroscopy",
+      "uuid": "086b650d-3aac-4b1a-8d51-0928634eca50",
+      "score": 0.7168078942904866
+    },
+    {
+      "name": "near-infrared spectral region",
+      "label": "variable",
+      "description": "A range of wavelengths in the electromagnetic spectrum, used in various atmospheric and climate studies, including the measurement of H 2 O concentrations",
+      "uuid": "81ec51b3-31eb-4c2c-b196-582d29d8fbc5",
+      "score": 0.5887933420972519
+    },
+    {
+      "name": "lower stratosphere",
+      "label": "location",
+      "description": "A region of the atmosphere, extending from about 10 to 50 kilometers above the Earth's surface, characterized by a stable temperature profile and low humidity",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6450214747338385
+    },
+    {
+      "name": "ambient relative humidity",
+      "label": "variable",
+      "description": "A measure of the amount of water vapor in the air compared to the maximum amount the air can hold at a given temperature, an important factor in atmospheric chemistry and climate studies",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.68751066192322
+    }
+  ],
+  "(36804, 39438)": [
+    {
+      "name": "DLH",
+      "label": "instrument",
+      "description": "A device used to measure water vapor concentrations in the atmosphere",
+      "uuid": "086b650d-3aac-4b1a-8d51-0928634eca50",
+      "score": 0.7264220211431536
+    },
+    {
+      "name": "NASA DC-8",
+      "label": "platform",
+      "description": "A research aircraft used for atmospheric and climate studies",
+      "uuid": "a930c78a-6ed3-4a49-ad2d-bd2c5c36d291",
+      "score": 0.7552459123312669
+    },
+    {
+      "name": "contrail formation temperature threshold",
+      "label": "variable",
+      "description": "The temperature at which contrails begin to form behind an aircraft",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.5029467712605097
+    },
+    {
+      "name": "lower stratosphere",
+      "label": "location",
+      "description": "The lower part of the stratosphere, a layer of the atmosphere extending from about 10 to 50 km altitude",
+      "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+      "score": 0.6126864572132975
+    },
+    {
+      "name": "H 2 O mixing ratio",
+      "label": "variable",
+      "description": "The ratio of water vapor to dry air in the atmosphere",
+      "uuid": "ea308986-ad35-4482-948c-5eb1a01be836",
+      "score": 0.7505404234840004
+    },
+    {
+      "name": "ambient pressure",
+      "label": "variable",
+      "description": "The pressure of the surrounding air",
+      "uuid": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
+      "score": 0.5607109774434925
+    },
+    {
+      "name": "ambient temperature",
+      "label": "variable",
+      "description": "The temperature of the surrounding air",
+      "uuid": "1d2ac206-0977-4145-b334-baa6e13a0db6",
+      "score": 0.7457433820984178
+    }
+  ],
+  "(39000, 41605)": [
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas emitted by engines",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6064495882354131
+    },
+    {
+      "name": "air",
+      "label": "variable",
+      "description": "The mixture of gases surrounding the Earth, including nitrogen, oxygen, and trace amounts of other gases",
+      "uuid": "dc8bbde4-6d14-44b9-937e-730925d40c0a",
+      "score": 0.6695274058614067
+    },
+    {
+      "name": "trace gas",
+      "label": "variable",
+      "description": "Gases present in small amounts in the atmosphere, such as carbon monoxide and nitrogen oxides",
+      "uuid": "4dd22dc9-1db4-4187-a2b7-f5b76d666055",
+      "score": 0.6232720720710876
+    },
+    {
+      "name": "ECLIF1",
+      "label": "project",
+      "description": "A research project studying contrails and emissions from aircraft engines",
+      "uuid": "e23b4757-38f3-4be1-8d70-035dacb782f6",
+      "score": 0.5254085000482795
+    },
+    {
+      "name": "ND-MAX",
+      "label": "project",
+      "description": "A research project studying aerosol emissions from aircraft engines",
+      "uuid": "c31fa334-41d7-47ec-bbf7-6b406c7b3247",
+      "score": 0.5461741539750512
+    },
+    {
+      "name": "ice",
+      "label": "particle",
+      "description": "A type of particle emitted by engines, consisting of ice crystals",
+      "uuid": "60bb6ddf-29b1-4dad-9c9f-27f040a43bba",
+      "score": 0.5021153526895873
+    },
+    {
+      "name": "contrail",
+      "label": "weather event",
+      "description": "A trail of condensed water vapor left behind an aircraft",
+      "uuid": "cf75769c-2430-4280-b9c2-ba384849a548",
+      "score": 0.5781684570546867
+    },
+    {
+      "name": "aerosol inlet",
+      "label": "instrument",
+      "description": "A device used to sample aerosol particles",
+      "uuid": "6a858dfd-8e3a-408e-a250-89ed91fff930",
+      "score": 0.5009609706553888
+    }
+  ],
+  "(41199, 43397)": [
+    {
+      "name": "ND-MAX",
+      "label": "project",
+      "description": "A research project focused on studying the effects of alternative fuels on aircraft emissions",
+      "uuid": "c31fa334-41d7-47ec-bbf7-6b406c7b3247",
+      "score": 0.5195486155870446
+    },
+    {
+      "name": "ECLIF2",
+      "label": "project",
+      "description": "A research project focused on studying the effects of alternative fuels on aircraft emissions",
+      "uuid": "e23b4757-38f3-4be1-8d70-035dacb782f6",
+      "score": 0.5001152325831136
+    },
+    {
+      "name": "DLR",
+      "label": "provider",
+      "description": "The German Aerospace Center, a research institution focused on aeronautics, space, and energy",
+      "uuid": "2f9d7c12-c02d-41fb-a168-4d91794187f7",
+      "score": 0.694009985740715
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, a US government agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6859193901468745
+    },
+    {
+      "name": "DLR Falcon",
+      "label": "platform",
+      "description": "A research aircraft used for studying atmospheric and climate phenomena",
+      "uuid": "0c31ed1c-8ec6-4f7c-ac27-23fb428b7415",
+      "score": 0.674740030093078
+    },
+    {
+      "name": "DLR ATRA",
+      "label": "platform",
+      "description": "A research aircraft used for studying atmospheric and climate phenomena",
+      "uuid": "0c31ed1c-8ec6-4f7c-ac27-23fb428b7415",
+      "score": 0.5218614999392153
+    },
+    {
+      "name": "NASA DC-8",
+      "label": "platform",
+      "description": "A research aircraft used for studying atmospheric and climate phenomena",
+      "uuid": "a930c78a-6ed3-4a49-ad2d-bd2c5c36d291",
+      "score": 0.7516849670381717
+    },
+    {
+      "name": "CAS",
+      "label": "instrument",
+      "description": "A device used to measure the size distribution of ice particles in aircraft contrails",
+      "uuid": "d1be0e72-acd4-4fae-90b2-2eba8b91861f",
+      "score": 0.6795453046635673
+    }
+  ],
+  "(42980, 44542)": [
+    {
+      "name": "DLR",
+      "label": "provider",
+      "description": "The German Aerospace Center, a research organization that conducts space and aeronautics research and development",
+      "uuid": "2f9d7c12-c02d-41fb-a168-4d91794187f7",
+      "score": 0.6851996058437109
+    },
+    {
+      "name": "NASA",
+      "label": "provider",
+      "description": "The National Aeronautics and Space Administration, an American agency responsible for the nation's civilian space program and for aeronautics and space research",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.6696568636059744
+    },
+    {
+      "name": "DLR data repository",
+      "label": "platform",
+      "description": "A digital repository for storing and sharing research data, provided by the DLR",
+      "uuid": "2f9d7c12-c02d-41fb-a168-4d91794187f7",
+      "score": 0.5545637413718721
+    },
+    {
+      "name": "NASA archive",
+      "label": "platform",
+      "description": "A digital repository for storing and sharing research data, provided by NASA",
+      "uuid": "4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc",
+      "score": 0.5568865625179337
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+{
+  "(0, 3337)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the Earth's climate, influenced by human activities and natural processes, affecting ecosystems, biodiversity, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5787012412943765
+    },
+    {
+      "name": "marine fisheries",
+      "label": "project",
+      "description": "A type of fishery that takes place in the ocean, providing a vital source of food and livelihoods for millions of people globally",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5554855890748193
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of greenhouse gas concentration scenarios used to project future climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.556882169198767
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A scenario representing a moderate level of greenhouse gas emissions, used to project future climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6279145475825816
+    },
+    {
+      "name": "RCP 6.0",
+      "label": "experiment",
+      "description": "A scenario representing a moderate to high level of greenhouse gas emissions, used to project future climate change",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6223914706386469
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A scenario representing a high level of greenhouse gas emissions, used to project future climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6810510681335198
+    },
+    {
+      "name": "aquaculture",
+      "label": "project",
+      "description": "The practice of cultivating aquatic plants and animals, providing an alternative source of food and livelihoods",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.6969847276619588
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The world's oceans, covering over 70% of the Earth's surface, playing a crucial role in regulating the climate and providing ecosystem services",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.6832709450506902
+    },
+    {
+      "name": "tropical regions",
+      "label": "location",
+      "description": "Regions near the equator, characterized by high temperatures and high levels of biodiversity",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.6190105084211994
+    },
+    {
+      "name": "temperate regions",
+      "label": "location",
+      "description": "Regions between the tropics and the polar regions, characterized by moderate temperatures and diverse ecosystems",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5108654365735663
+    },
+    {
+      "name": "polar regions",
+      "label": "location",
+      "description": "The Arctic and Antarctic regions, characterized by cold temperatures and unique ecosystems",
+      "uuid": "3fedcf7c-7b0c-4b51-abd2-2c54de713061",
+      "score": 0.6829548815215623
+    },
+    {
+      "name": "marine ecosystem models",
+      "label": "model",
+      "description": "Computational representations of marine ecosystems, used to simulate and predict the impacts of climate change on marine ecosystems",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.5888325151442261
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "The total mass of living organisms in a given area or volume, used as an indicator of ecosystem health and productivity",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.6977700634027397
+    },
+    {
+      "name": "productivity",
+      "label": "variable",
+      "description": "The rate at which an ecosystem produces new biomass, used as an indicator of ecosystem health and function",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5529189349071165
+    }
+  ],
+  "(2758, 6054)": [
+    {
+      "name": "tropical and temperate regions",
+      "label": "location",
+      "description": "Areas near the equator and between the tropics and the polar circles, characterized by distinct climate and ecological conditions",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5857501514154967
+    },
+    {
+      "name": "poles",
+      "label": "location",
+      "description": "The northernmost and southernmost points on Earth, characterized by unique and sensitive ecosystems",
+      "uuid": "3fedcf7c-7b0c-4b51-abd2-2c54de713061",
+      "score": 0.5257866839518723
+    },
+    {
+      "name": "marine organisms",
+      "label": "variable",
+      "description": "Living things in the ocean, such as plants, animals, and microorganisms, that play a crucial role in the marine ecosystem",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.5583184722737626
+    },
+    {
+      "name": "productivity",
+      "label": "variable",
+      "description": "The rate at which marine organisms produce biomass, influencing the overall health and sustainability of marine ecosystems",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5289092677812629
+    },
+    {
+      "name": "fisheries",
+      "label": "project",
+      "description": "Human activities related to the catching, processing, and selling of fish and other seafood, providing a source of food and income for many communities",
+      "uuid": "c7112a64-be39-414a-9125-f63ab44ecb5b",
+      "score": 0.6797833340941949
+    },
+    {
+      "name": "food",
+      "label": "variable",
+      "description": "A source of nutrition for human populations, with fisheries providing a significant portion of global food security",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.5062091396376364
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events, affecting marine ecosystems and fisheries",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.562953822829758
+    },
+    {
+      "name": "fishers",
+      "label": "provider",
+      "description": "Individuals who engage in fishing activities, often dependent on fisheries for their livelihood",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5037543383896902
+    },
+    {
+      "name": "territorial boundaries",
+      "label": "location",
+      "description": "The geographical limits of a country or region, influencing the management and regulation of fisheries",
+      "uuid": "245c630a-8022-46ed-9a79-8f6cf99b0822",
+      "score": 0.5117461278549649
+    }
+  ],
+  "(5552, 8618)": [
+    {
+      "name": "fisheries",
+      "label": "project",
+      "description": "A scientific program focused on the study and management of fish populations and their ecosystems",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.646540164066808
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across vast distances",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5087004786976634
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future greenhouse gas concentrations and their impacts on climate",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5529579386845926
+    }
+  ],
+  "(8061, 11206)": [
+    {
+      "name": "spatial range shifts",
+      "label": "natural hazard",
+      "description": "Changes in the geographic distribution of species or ecosystems due to environmental or climate-related factors",
+      "uuid": "f5c63c23-f819-46e8-bc97-1e894424c00c",
+      "score": 0.6856663824818455
+    },
+    {
+      "name": "fisheries management",
+      "label": "project",
+      "description": "The practice of managing fish populations and their habitats to ensure sustainable fishing and conservation of marine ecosystems",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5609461642068757
+    },
+    {
+      "name": "productivity",
+      "label": "variable",
+      "description": "The rate at which an ecosystem produces biomass, often affected by environmental factors such as climate change",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5750856996073929
+    }
+  ],
+  "(10758, 13550)": [
+    {
+      "name": "SDM",
+      "label": "model",
+      "description": "A species distribution model, which is a type of bioclimatic envelope model used to project changes in species distributions under different climate scenarios",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.6745794655091941
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of greenhouse gas concentration trajectories used in climate modeling and scenario development",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5556726398329199
+    },
+    {
+      "name": "sea surface temperatures",
+      "label": "variable",
+      "description": "A measure of the temperature of the ocean's surface, which is an important factor in species distribution modeling and climate change research",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7517458735375091
+    },
+    {
+      "name": "climate velocity",
+      "label": "variable",
+      "description": "A measure of the rate and direction of climate change, which is used in species distribution modeling to project changes in species ranges",
+      "uuid": "4487cb97-df49-421f-8c00-5c5f12dd8af1",
+      "score": 0.5031286543662068
+    },
+    {
+      "name": "species distributions",
+      "label": "variable",
+      "description": "A measure of the geographic range and abundance of different species, which is an important factor in ecology and conservation biology",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5410604684859271
+    },
+    {
+      "name": "FAO Catch Database",
+      "label": "project",
+      "description": "A database of global fish catch data, which is used in fisheries research and management",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5033989290956803
+    }
+  ],
+  "(13082, 16345)": [
+    {
+      "name": "habitat degradation",
+      "label": "natural hazard",
+      "description": "The deterioration of natural habitats, often caused by human activities, leading to loss of biodiversity and ecosystem disruption",
+      "uuid": "f1682ed1-2d9c-41ec-9553-49b9ab55df9b",
+      "score": 0.541278772184372
+    },
+    {
+      "name": "Range shift adaptations",
+      "label": "experiment",
+      "description": "A management strategy that involves adjusting fisheries management to account for changes in species distribution due to climate change",
+      "uuid": "f5c63c23-f819-46e8-bc97-1e894424c00c",
+      "score": 0.5247445883180949
+    },
+    {
+      "name": "degradation",
+      "label": "natural hazard",
+      "description": "The process of deterioration or decline in the quality or condition of something, such as habitats or ecosystems",
+      "uuid": "2f2f5764-d4e6-4bbb-bd6d-dda373018237",
+      "score": 0.6514868646526148
+    },
+    {
+      "name": "population abundance",
+      "label": "variable",
+      "description": "The number of individuals of a species present in a given area or population",
+      "uuid": "7bc06198-5546-40f5-97ac-b7b5b5503cfc",
+      "score": 0.6380810468164747
+    },
+    {
+      "name": "boundaries",
+      "label": "location",
+      "description": "The limits or edges of a geographic area, such as a country, region, or ecosystem",
+      "uuid": "07a856fd-75e2-46e8-91eb-8a8562d3452f",
+      "score": 0.6567016266326148
+    },
+    {
+      "name": "FAO Catch Database",
+      "label": "project",
+      "description": "A database of global fisheries catch data maintained by the Food and Agriculture Organization of the United Nations",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5640943250105334
+    },
+    {
+      "name": "SDM",
+      "label": "model",
+      "description": "A species distribution model, used to predict the geographic range of a species based on environmental factors",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.7004856338382904
+    }
+  ],
+  "(15758, 18912)": [
+    {
+      "name": "boundaries",
+      "label": "location",
+      "description": "The limits or edges of a country's Exclusive Economic Zone (EEZ), beyond which the country's management and enforcement capacities may not apply",
+      "uuid": "245c630a-8022-46ed-9a79-8f6cf99b0822",
+      "score": 0.5170218063888694
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "A measure of the total amount of living matter in a given area or volume, often used to assess the health and productivity of ecosystems",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.68375936385789
+    },
+    {
+      "name": "fisheries",
+      "label": "project",
+      "description": "A human activity or industry focused on the catching, processing, and marketing of fish and other seafood",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.674070274823969
+    },
+    {
+      "name": "countries",
+      "label": "provider",
+      "description": "National governments or organizations responsible for managing and enforcing fisheries policies within their respective Exclusive Economic Zones (EEZs",
+      "uuid": "15a784a9-ab6f-4ed0-b006-9e920ff3748f",
+      "score": 0.5056375801916843
+    }
+  ],
+  "(18419, 21365)": [
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "The amount of living matter in a given area or volume, often used as an indicator of ecosystem health and productivity",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.6693902353890003
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in temperature, precipitation, and other environmental factors that affect ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5838949135846256
+    },
+    {
+      "name": "SDM",
+      "label": "model",
+      "description": "A species distribution model, used to predict the geographic range of a species based on environmental factors",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.7004856338382904
+    }
+  ],
+  "(20796, 23741)": [
+    {
+      "name": "Angola",
+      "label": "location",
+      "description": "A country located in southern Africa, bordered by the Atlantic Ocean and several neighboring countries",
+      "uuid": "9b0a194d-d617-4fed-9625-df176319892d",
+      "score": 0.7675991987174089
+    },
+    {
+      "name": "Senegal",
+      "label": "location",
+      "description": "A country in West Africa, known for its diverse ecosystems and fisheries",
+      "uuid": "80e7a4da-82a2-449e-87d3-603d857058c5",
+      "score": 0.6984713770012011
+    },
+    {
+      "name": "West Africa",
+      "label": "location",
+      "description": "A region in Africa, comprising several countries along the western coast, characterized by diverse ecosystems and significant fisheries",
+      "uuid": "0bd7d518-6e4d-455e-95cd-2add85fc88fa",
+      "score": 0.6280742904541003
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Americas, comprising several countries with diverse ecosystems and significant fisheries",
+      "uuid": "e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3",
+      "score": 0.6760372953945847
+    },
+    {
+      "name": "Indo-Pacific",
+      "label": "location",
+      "description": "A biogeographic region that includes the Indian and Pacific Oceans, known for its rich marine biodiversity and fisheries",
+      "uuid": "4f5b8f3d-19fe-4600-be01-b944f2eaf294",
+      "score": 0.7505219788193982
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "The total amount of living matter in a given area or volume, often used as an indicator of ecosystem health and productivity",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.6829469843010766
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to project future climate change and its impacts",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5557253650092362
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, often driven by human activities and resulting in significant impacts on ecosystems and societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5925331789569384
+    },
+    {
+      "name": "fisheries management",
+      "label": "project",
+      "description": "The practice of managing fisheries to ensure their sustainability and productivity, often involving regulations, monitoring, and enforcement",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5604842275781977
+    }
+  ],
+  "(23241, 26104)": [
+    {
+      "name": "Fiji",
+      "label": "location",
+      "description": "A country located in the Pacific Ocean, known for its tropical climate and marine biodiversity",
+      "uuid": "3c6073a8-432d-4cf9-9d48-1963cc5290ff",
+      "score": 0.7494498375644998
+    },
+    {
+      "name": "Indo-Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean, including the Indian Ocean and surrounding landmasses, known for its rich marine ecosystems and climate variability",
+      "uuid": "4f5b8f3d-19fe-4600-be01-b944f2eaf294",
+      "score": 0.7682547444929577
+    },
+    {
+      "name": "Portugal",
+      "label": "location",
+      "description": "A country located in southwestern Europe, known for its Atlantic coastline and marine resources",
+      "uuid": "73236574-93e5-4520-ad5d-e298fd28d42d",
+      "score": 0.67452304119894
+    },
+    {
+      "name": "Azores",
+      "label": "location",
+      "description": "A group of islands in the Atlantic Ocean, part of Portugal, known for their unique ecosystems and climate",
+      "uuid": "946f1f4f-fddc-418b-8177-38ba747e0e64",
+      "score": 0.7099082981241923
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent surrounding the South Pole, known for its extreme climate and unique ecosystems",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7429314974713621
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the southern hemisphere, known for its diverse climates, ecosystems, and marine resources",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6905648899398552
+    },
+    {
+      "name": "Finland",
+      "label": "location",
+      "description": "A country located in northern Europe, known for its boreal forests, lakes, and climate",
+      "uuid": "b198283f-02d9-424e-838a-8997a18139a9",
+      "score": 0.7758542240083236
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A greenhouse gas concentration trajectory used in climate modeling, representing a high-emissions scenario",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6570951273073523
+    }
+  ],
+  "(25595, 28709)": [
+    {
+      "name": "adaptation",
+      "label": "project",
+      "description": "A set of strategies or actions taken to adjust to or mitigate the impacts of climate change on fisheries and other sectors",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6008231667850478
+    },
+    {
+      "name": "country",
+      "label": "location",
+      "description": "A geopolitical entity with defined borders, subject to climate impacts and management decisions",
+      "uuid": "245c630a-8022-46ed-9a79-8f6cf99b0822",
+      "score": 0.5694908813825362
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors, with significant impacts on ecosystems and societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5985090559434189
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to study the potential impacts of climate change under different greenhouse gas emissions trajectories",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5659209779667667
+    },
+    {
+      "name": "fisheries",
+      "label": "platform",
+      "description": "A system or industry related to the catching, processing, and marketing of fish and other seafood products",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6745287171477841
+    },
+    {
+      "name": "productivity",
+      "label": "variable",
+      "description": "The rate at which an ecosystem or fishery produces biomass, often used to study the impacts of climate change on fisheries",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5577093135085758
+    },
+    {
+      "name": "West African countries",
+      "label": "location",
+      "description": "A group of countries located in the western part of Africa, subject to climate impacts and management decisions",
+      "uuid": "0bd7d518-6e4d-455e-95cd-2add85fc88fa",
+      "score": 0.5693114154644815
+    }
+  ],
+  "(28116, 31251)": [
+    {
+      "name": "marine fisheries",
+      "label": "project",
+      "description": "A project studying the impact of climate change on marine fisheries, including the distribution and productivity of fish stocks",
+      "uuid": "361085a8-6d96-4f38-8621-d9d63278acf2",
+      "score": 0.5388795421997424
+    },
+    {
+      "name": "RCPs",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to model the impact of climate change on the environment",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5593318253291174
+    },
+    {
+      "name": "ensemble model",
+      "label": "model",
+      "description": "A type of model that combines the predictions of multiple models to produce a more accurate forecast",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.671376579239779
+    },
+    {
+      "name": "fisheries",
+      "label": "project",
+      "description": "A project or system for managing and conserving fish stocks and their habitats",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6231349127804444
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, resulting in rising temperatures, sea-level rise, and altered weather patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6111642499121362
+    },
+    {
+      "name": "productivity",
+      "label": "variable",
+      "description": "A measure of the amount of biological production in an ecosystem, such as the growth rate of fish stocks",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5455394585407236
+    },
+    {
+      "name": "marine ecosystem",
+      "label": "location",
+      "description": "A community of living organisms, including plants, animals, and microorganisms, that interact with each other and their environment in the ocean",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6534921437056133
+    },
+    {
+      "name": "tropical to temperate regions",
+      "label": "location",
+      "description": "A region of the Earth's surface that spans the tropics and temperate zones, characterized by a specific range of temperatures and precipitation patterns",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5432765772709587
+    },
+    {
+      "name": "poleward regions",
+      "label": "location",
+      "description": "A region of the Earth's surface that is located towards the poles, characterized by cold temperatures and unique ecosystems",
+      "uuid": "3fedcf7c-7b0c-4b51-abd2-2c54de713061",
+      "score": 0.5351609412916709
+    }
+  ],
+  "(30669, 34210)": [
+    {
+      "name": "ensemble model",
+      "label": "model",
+      "description": "A type of model that combines the predictions of multiple models to produce a more robust forecast",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.6708232171353699
+    },
+    {
+      "name": "productivity",
+      "label": "variable",
+      "description": "A measure of the rate at which an ecosystem or a population produces new biomass",
+      "uuid": "2e69c08b-ee0f-426c-a8d2-dc50876f76c2",
+      "score": 0.5562385199782415
+    },
+    {
+      "name": "tropical to temperate regions",
+      "label": "location",
+      "description": "Regions located near the equator, which are expected to experience changes in climate and ecosystems",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.5006613091367199
+    },
+    {
+      "name": "fisheries",
+      "label": "platform",
+      "description": "A system or industry that manages and harvests fish and other seafood",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6613003139719819
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, caused by human activities and natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5573061562610814
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide and methane into the atmosphere, which contribute to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5391290359436911
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A scenario of high greenhouse gas emissions, used to predict the potential impacts of climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6608472111851557
+    },
+    {
+      "name": "RCP 6.0",
+      "label": "experiment",
+      "description": "A scenario of moderate greenhouse gas emissions, used to predict the potential impacts of climate change",
+      "uuid": "136afb53-dabe-4fa5-9505-1c4382e349d1",
+      "score": 0.6035266221575875
+    }
+  ],
+  "(33545, 37046)": [
+    {
+      "name": "fisheries",
+      "label": "platform",
+      "description": "Systems or industries related to the catching, processing, and selling of fish and other seafood, which can be impacted by climate change",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6583827092870371
+    },
+    {
+      "name": "fisheries catch",
+      "label": "variable",
+      "description": "The quantity of fish and other seafood caught by fisheries, which can be affected by climate change",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5548896467058182
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the statistical distribution of weather patterns over significant periods, which can have severe impacts on the environment, human health, and the economy",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5768337886056178
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, which has implemented various measures to manage its fisheries sustainably",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5472025909637322
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "The total mass of living organisms in a given area or volume, often used as an indicator of the health and productivity of ecosystems",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.7044230215128768
+    }
+  ],
+  "(36547, 39906)": [
+    {
+      "name": "Fisheries",
+      "label": "project",
+      "description": "The management of fish stocks and fishing activities to ensure sustainability and conservation of marine ecosystems",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6350896959977856
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872478600468966
+    },
+    {
+      "name": "ecosystem",
+      "label": "location",
+      "description": "A community of living organisms, including plants, animals, and microorganisms, that interact with each other and their environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6654451828511251
+    },
+    {
+      "name": "fishers",
+      "label": "provider",
+      "description": "Individuals or groups that engage in fishing activities, often relying on fisheries for their livelihood",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5157816699153249
+    },
+    {
+      "name": "evolutionary adaptations",
+      "label": "natural hazard",
+      "description": "Changes in the characteristics of a species or population over time, which can help it adapt to changing environmental conditions",
+      "uuid": "cf3d1728-7606-4561-a0dd-116b4dbec21f",
+      "score": 0.6635549637018585
+    }
+  ],
+  "(39290, 42791)": [
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process without depleting natural resources, in this context referring to the long-term health of fisheries and the ecosystems they depend on",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6447350188687779
+    },
+    {
+      "name": "political boundaries",
+      "label": "location",
+      "description": "The limits or edges of a country, state, or other political entity, which can affect the management of fisheries and the distribution of fish stocks",
+      "uuid": "ef04f170-4797-4db1-aff7-ad493b6a7cda",
+      "score": 0.5346055526858867
+    },
+    {
+      "name": "fisheries",
+      "label": "project",
+      "description": "The practice of catching fish and other seafood, which is impacted by climate change and requires adaptive management to ensure sustainability",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.626800706487788
+    },
+    {
+      "name": "country borders",
+      "label": "location",
+      "description": "The lines that separate one country from another, which can pose challenges for managing fisheries that shift across these borders due to climate change",
+      "uuid": "245c630a-8022-46ed-9a79-8f6cf99b0822",
+      "score": 0.5178688172852519
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, sea-level rise, and altered ecosystems, which affects fisheries and requires adaptive management",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5745722842360546
+    },
+    {
+      "name": "marine protected areas",
+      "label": "platform",
+      "description": "Designated areas in the ocean where human activities are limited to protect marine ecosystems and biodiversity",
+      "uuid": "6ff14fe4-8821-4242-bf42-272e60658a69",
+      "score": 0.5537450836862307
+    }
+  ],
+  "(42188, 45580)": [
+    {
+      "name": "aquaculture",
+      "label": "project",
+      "description": "A project that involves the cultivation of marine animals and plants, presenting a promising substitute for capture fisheries",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.6586729177807994
+    },
+    {
+      "name": "mariculture",
+      "label": "project",
+      "description": "A type of aquaculture that involves the cultivation of marine animals and plants in marine environments",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.5601229227303484
+    },
+    {
+      "name": "capture fisheries",
+      "label": "project",
+      "description": "A type of fishing that involves catching fish and other seafood in their natural habitats",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5239713247312
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in regulating the planet's climate and providing a source of food and livelihood for millions of people",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7369333319162165
+    },
+    {
+      "name": "marine animals",
+      "label": "variable",
+      "description": "A diverse group of organisms that live in the ocean, including fish, shellfish, and other seafood",
+      "uuid": "4cf1a3bd-20ce-42d7-95ac-9a4ece7be12c",
+      "score": 0.5456800018468023
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability of a system or process to be maintained at a certain level over time without depleting natural resources or causing harm to the environment",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6755403115159518
+    },
+    {
+      "name": "tourism",
+      "label": "variable",
+      "description": "The practice of traveling for pleasure or business, which can have both positive and negative impacts on the environment and local communities",
+      "uuid": "82fdb39c-4fe8-4e2b-9dcf-67ceb4c6d8b9",
+      "score": 0.536390339474307
+    },
+    {
+      "name": "recreation",
+      "label": "variable",
+      "description": "Activities that people engage in for enjoyment or leisure, such as fishing, boating, or swimming",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.6003779196261132
+    },
+    {
+      "name": "habitat conversion",
+      "label": "natural hazard",
+      "description": "The process of changing the natural environment of a species or ecosystem, often resulting in the loss of biodiversity and ecosystem function",
+      "uuid": "f1682ed1-2d9c-41ec-9553-49b9ab55df9b",
+      "score": 0.6196843589339097
+    },
+    {
+      "name": "marine fisheries",
+      "label": "project",
+      "description": "A type of fishing that involves catching fish and other seafood in marine environments",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5936575578342395
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting in rising temperatures, sea-level rise, and more frequent extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6029143049956931
+    }
+  ],
+  "(45001, 47151)": [
+    {
+      "name": "Adaptation",
+      "label": "project",
+      "description": "Initiatives or strategies to adjust to the impacts of climate change, such as climate-adaptive fisheries management reforms",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.631518311424258
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide, into the atmosphere, contributing to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.6680604695017124
+    },
+    {
+      "name": "marine fisheries",
+      "label": "project",
+      "description": "The management and exploitation of fish and other marine resources, often affected by climate change and requiring adaptive management strategies",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.5571640451835513
+    },
+    {
+      "name": "fisheries",
+      "label": "project",
+      "description": "The industry or practice of catching fish and other seafood, which can be impacted by climate change and require adaptive management",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6441062529967262
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7438582625622143
+    },
+    {
+      "name": "ensemble mean",
+      "label": "model",
+      "description": "A statistical method used to combine the results of multiple climate models, providing a more robust estimate of future climate scenarios",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.548462757102013
+    },
+    {
+      "name": "Representative Concentration Pathways (RCPs)",
+      "label": "experiment",
+      "description": "A set of scenarios used to project future greenhouse gas concentrations and their impacts on the climate system",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5419623088769292
+    },
+    {
+      "name": "RCP 2.6",
+      "label": "experiment",
+      "description": "A specific scenario of Representative Concentration Pathways, representing a low-emissions future with stringent mitigation efforts",
+      "uuid": "f8da7ba3-6659-4be3-b357-c0c9c82eb6a6",
+      "score": 0.6695333153028814
+    },
+    {
+      "name": "earth system models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, and biological processes to represent and predict the Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.5530775706852984
+    },
+    {
+      "name": "tropical countries",
+      "label": "location",
+      "description": "Countries located near the equator, often with developing economies and vulnerable to the impacts of climate change",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5081942889539279
+    },
+    {
+      "name": "sustainable mariculture",
+      "label": "project",
+      "description": "The practice of cultivating marine organisms, such as fish and shellfish, in a way that minimizes environmental impacts and promotes long-term sustainability",
+      "uuid": "f6c057c9-c789-4cd5-ba22-e9b08aae152b",
+      "score": 0.5500249710006941
+    }
+  ]
+}

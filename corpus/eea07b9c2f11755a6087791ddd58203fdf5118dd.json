@@ -1,0 +1,880 @@
+{
+  "(0, 3087)": [
+    {
+      "name": "global climate model",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6089730962471908
+    },
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "The European Centre Hamburg Model version 5, a global climate model used for simulating climate conditions and predicting future changes",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5841609212530695
+    },
+    {
+      "name": "SRES A1B",
+      "label": "experiment",
+      "description": "A scenario from the Special Report on Emissions Scenarios, describing a future world with high economic growth and a balanced energy mix",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5375514557393927
+    },
+    {
+      "name": "agricultural suitability",
+      "label": "variable",
+      "description": "A measure of the suitability of land for agricultural use, considering factors such as climate, soil, and topography",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5264487006070422
+    },
+    {
+      "name": "irrigated areas",
+      "label": "location",
+      "description": "Regions where crops are grown using irrigation systems, often to increase agricultural productivity",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.5687137627978756
+    },
+    {
+      "name": "densely forested areas",
+      "label": "location",
+      "description": "Regions with high tree cover, often protected for conservation and biodiversity purposes",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5374353916538523
+    },
+    {
+      "name": "Northern high latitudes",
+      "label": "location",
+      "description": "Regions near the North Pole, including countries such as Canada, China, and Russia",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.518659734228182
+    },
+    {
+      "name": "tropical regions",
+      "label": "location",
+      "description": "Areas near the equator, known for their high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.6171757729225011
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, known for its vast territory and diverse climate conditions",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.6192477018888775
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its large population and diverse climate conditions",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6744331107438163
+    },
+    {
+      "name": "Russia",
+      "label": "location",
+      "description": "A country in Eastern Europe and Northern Asia, known for its vast territory and diverse climate conditions",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.6166471196052277
+    }
+  ],
+  "(2591, 5765)": [
+    {
+      "name": "desertification",
+      "label": "natural hazard",
+      "description": "A process of land degradation in which fertile land becomes desert-like, often due to climate change, overgrazing, or deforestation",
+      "uuid": "dee57819-62c7-4f89-87e5-90a87a07820a",
+      "score": 0.7091746167019591
+    },
+    {
+      "name": "global climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6305216285110786
+    },
+    {
+      "name": "soil erosion",
+      "label": "natural hazard",
+      "description": "The process of soil being removed or worn away, often due to water or wind, leading to land degradation and decreased fertility",
+      "uuid": "6eef914d-ff9f-44b0-a3a6-3dcf911023d4",
+      "score": 0.7072043179456626
+    },
+    {
+      "name": "topography data",
+      "label": "variable",
+      "description": "Information about the physical features of the Earth's surface, including elevation, slope, and landforms",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6259209417101933
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including landforms, elevation, and drainage patterns",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6704494879349355
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, known for its diverse geography, climate, and ecosystems",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6939884073386327
+    },
+    {
+      "name": "Sub Saharan Africa",
+      "label": "location",
+      "description": "A region in Africa, south of the Sahara Desert, characterized by diverse climates, ecosystems, and cultures",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.564722426758261
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "Areas used for farming, cultivation, and livestock production, often competing with natural ecosystems and protected areas",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6642121874449608
+    },
+    {
+      "name": "forested areas",
+      "label": "location",
+      "description": "Regions covered by forests, providing ecosystem services such as carbon sequestration, biodiversity conservation, and climate regulation",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6204182241759202
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, supporting plant growth and filtering water",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6323030404041626
+    },
+    {
+      "name": "agricultural suitability",
+      "label": "variable",
+      "description": "A measure of the potential for land to support agricultural production, considering factors such as climate, soil, and topography",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.517119963522279
+    }
+  ],
+  "(5201, 8110)": [
+    {
+      "name": "ECHAM5",
+      "label": "model",
+      "description": "A global circulation model developed by the Max-Planck Institute for Meteorology, used for simulating climate and weather patterns",
+      "uuid": "b0346391-1b8a-41b8-9427-ff6e314fa06d",
+      "score": 0.5659832447765839
+    },
+    {
+      "name": "MPI-M",
+      "label": "provider",
+      "description": "The Max-Planck Institute for Meteorology, a research institution focused on understanding and predicting climate and weather phenomena",
+      "uuid": "7cf22186-281a-4665-b79b-5a6e5ea5b471",
+      "score": 0.7529371717531363
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, an important factor in global climate and weather patterns",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7719623478842701
+    },
+    {
+      "name": "sea ice concentrations",
+      "label": "variable",
+      "description": "The amount of sea ice present in a given area, influencing global climate and weather patterns",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.7438259743788228
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability of sufficient, safe, and nutritious food for human consumption, influenced by climate and agricultural factors",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7011650726056222
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including elevation, slope, and landforms",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6788736809695781
+    },
+    {
+      "name": "organic carbon content",
+      "label": "variable",
+      "description": "The amount of carbon stored in organic matter in soils, an important factor in the global carbon cycle",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6035884846548338
+    },
+    {
+      "name": "global circulation model",
+      "label": "model",
+      "description": "A type of climate model that simulates the movement of air and water in the atmosphere and oceans",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6201592672382427
+    },
+    {
+      "name": "6-hourly dataset",
+      "label": "variable",
+      "description": "A dataset with measurements taken at 6-hour intervals, used for climate and weather analysis",
+      "uuid": "810359cf-46e5-46c4-bdd3-de0b94114e43",
+      "score": 0.6175654640778403
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, an important factor in ocean and climate studies",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7226943883179094
+    }
+  ],
+  "(7719, 10213)": [
+    {
+      "name": "MPI-M",
+      "label": "provider",
+      "description": "The Max Planck Institute for Meteorology, a leading research institution for climate and weather research",
+      "uuid": "7cf22186-281a-4665-b79b-5a6e5ea5b471",
+      "score": 0.7539803707000629
+    },
+    {
+      "name": "SRES A1B scenario",
+      "label": "experiment",
+      "description": "A scenario used in climate modeling to represent a possible future world with high greenhouse gas emissions and rapid economic growth",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5016897199569871
+    },
+    {
+      "name": "6-hourly dataset",
+      "label": "variable",
+      "description": "A collection of data recorded at 6-hour intervals, often used in climate modeling and weather forecasting",
+      "uuid": "810359cf-46e5-46c4-bdd3-de0b94114e43",
+      "score": 0.6159675314984343
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, an important factor in climate modeling and weather prediction",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7810203800204136
+    },
+    {
+      "name": "sea ice concentrations",
+      "label": "variable",
+      "description": "The amount of sea ice present in a given area, often used in climate modeling to study the impacts of climate change",
+      "uuid": "1c0ebf89-f115-4e0d-9942-8ff8289bd330",
+      "score": 0.7659439642958874
+    },
+    {
+      "name": "SRTM-dataset",
+      "label": "dataset",
+      "description": "The Shuttle Radar Topography Mission dataset, a global topographic dataset used for various applications including climate modeling and land use planning",
+      "uuid": "e8c70f5e-290f-4459-b906-3d2fe5539f7d",
+      "score": 0.7275536239562438
+    },
+    {
+      "name": "WorldClim dataset",
+      "label": "dataset",
+      "description": "A global climate dataset providing information on temperature, precipitation, and other climate variables",
+      "uuid": "def20f70-39f3-4d20-9844-0389a5780f52",
+      "score": 0.5482909266502713
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, often used in climate modeling and weather forecasting",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.694399719074471
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the ground, often used in climate modeling and weather forecasting",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6745129684135358
+    },
+    {
+      "name": "growing cycle",
+      "label": "variable",
+      "description": "The period of time during which a crop grows and develops, often used in agricultural planning and climate modeling",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5488855879268969
+    }
+  ],
+  "(9684, 12710)": [
+    {
+      "name": "Shuttle Radar Topography Mission",
+      "label": "project",
+      "description": "A space mission that used radar to create high-resolution topographic maps of the Earth's surface",
+      "uuid": "0287b3bd-ed50-4662-96e9-7f7469179344",
+      "score": 0.657407963568851
+    },
+    {
+      "name": "permafrost conditions",
+      "label": "natural hazard",
+      "description": "A condition where soil or rock remains frozen for two or more consecutive years, affecting agricultural use and ecosystems",
+      "uuid": "369c608c-787a-4ca6-8811-cc8eca7447d5",
+      "score": 0.6721410052548339
+    },
+    {
+      "name": "land surface pixel",
+      "label": "location",
+      "description": "A small unit of land surface represented in a digital dataset, used for analyzing and modeling environmental and climate phenomena",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.5287590130187786
+    },
+    {
+      "name": "Mean daily incoming solar radiation",
+      "label": "variable",
+      "description": "A measure of the amount of solar energy received by the Earth's surface, influencing climate, weather, and agricultural productivity",
+      "uuid": "6b3be650-6625-40b5-9b40-9e7c8a9fd336",
+      "score": 0.6828266266834305
+    },
+    {
+      "name": "soil properties",
+      "label": "variable",
+      "description": "Characteristics of soil that affect its ability to support plant growth, such as texture, pH, and nutrient content",
+      "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
+      "score": 0.5704337100147296
+    },
+    {
+      "name": "Harmonized World Soil Database",
+      "label": "provider",
+      "description": "A global database that provides standardized information on soil properties and characteristics",
+      "uuid": "c49274ff-637d-4941-8cac-53558dea2e0b",
+      "score": 0.5066926810052614
+    },
+    {
+      "name": "irrigation",
+      "label": "instrument",
+      "description": "The artificial application of water to land or soil to support plant growth, often used in agriculture to supplement natural rainfall",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7199844724239066
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "The angle of inclination of a surface, affecting agricultural suitability, soil erosion, and water runoff",
+      "uuid": "aeb02243-583f-444e-a2a4-341ab351a3d8",
+      "score": 0.5599827787164533
+    }
+  ],
+  "(12203, 14824)": [
+    {
+      "name": "Shuttle Radar Topography Mission",
+      "label": "project",
+      "description": "A NASA mission that used radar to create high-resolution topographic maps of the Earth's surface",
+      "uuid": "e8c70f5e-290f-4459-b906-3d2fe5539f7d",
+      "score": 0.6716693663946144
+    },
+    {
+      "name": "SRTM",
+      "label": "instrument",
+      "description": "The Shuttle Radar Topography Mission instrument, used to collect topographic data",
+      "uuid": "0287b3bd-ed50-4662-96e9-7f7469179344",
+      "score": 0.7964873504986153
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The solid surface of the Earth, excluding oceans and atmosphere",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.7195805294608871
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent at the South Pole, characterized by extreme cold and ice cover",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7302072501203605
+    },
+    {
+      "name": "GLUES",
+      "label": "project",
+      "description": "A project for analyzing the suitability of land for agriculture, considering climate, soil, and topography",
+      "uuid": "5c0d34fc-09f0-4fcc-9c8b-6c9f444129ee",
+      "score": 0.7242115735672504
+    },
+    {
+      "name": "global cropland",
+      "label": "variable",
+      "description": "The total area of land used for growing crops, an important factor in food production and climate change",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.6308615656275296
+    },
+    {
+      "name": "FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, an agency focused on reducing hunger and improving food security",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5799312762282243
+    }
+  ],
+  "(14387, 16993)": [
+    {
+      "name": "Ganges delta",
+      "label": "location",
+      "description": "A region in South Asia where the Ganges River empties into the sea, known for its fertile soil and agricultural productivity",
+      "uuid": "bafaa203-0dc0-4167-a64a-d89ba16d8eb1",
+      "score": 0.5306426449883836
+    },
+    {
+      "name": "boreal regions",
+      "label": "location",
+      "description": "High-latitude regions characterized by cold temperatures, short growing seasons, and limited agricultural suitability",
+      "uuid": "cafa8131-4a2d-4c8b-811c-0d64adf5fc06",
+      "score": 0.5103500331516582
+    },
+    {
+      "name": "temperate zones",
+      "label": "location",
+      "description": "Mid-latitude regions with moderate temperatures, adequate precipitation, and suitable conditions for agriculture",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.5084596836807098
+    },
+    {
+      "name": "inner tropics",
+      "label": "location",
+      "description": "Regions near the equator, characterized by high temperatures and high levels of rainfall throughout the year, with variable agricultural suitability due to soil conditions",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.5763838809905689
+    },
+    {
+      "name": "IUCN",
+      "label": "provider",
+      "description": "The International Union for Conservation of Nature, an organization working to conserve and protect the natural world",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.6935435983164231
+    },
+    {
+      "name": "GlobCover",
+      "label": "model",
+      "description": "A global land cover dataset providing information on land use and land cover, including forested areas",
+      "uuid": "c9c66102-64c6-4c83-988a-c9c3f106f5db",
+      "score": 0.5262970213220461
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering or animal migration, in relation to environmental factors like climate",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6234145777683081
+    },
+    {
+      "name": "forested areas",
+      "label": "location",
+      "description": "Regions covered by dense forests, providing ecosystem services and supporting biodiversity",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6219482693694302
+    }
+  ],
+  "(16655, 19445)": [
+    {
+      "name": "tropical rainforest",
+      "label": "location",
+      "description": "A region of dense forest near the equator, characterized by high levels of rainfall and biodiversity, and often considered for conservation efforts",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.7176183377971211
+    },
+    {
+      "name": "agricultural expansion",
+      "label": "project",
+      "description": "An initiative or process of increasing the area of land used for agriculture, potentially leading to land-use changes and environmental impacts",
+      "uuid": "d076e628-320a-477b-aad9-07d87ca04993",
+      "score": 0.7114288419611107
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country in North America with diverse climates and land uses",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.716738663688447
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent with diverse climates, land uses, and ecosystems, including savannas, grasslands, and tropical rainforests",
+      "uuid": "2ca1b865-5555-4375-aa81-72811335b695",
+      "score": 0.6177165769994031
+    },
+    {
+      "name": "Latin America",
+      "label": "location",
+      "description": "A region in the Americas where Spanish and Portuguese are predominantly spoken, encompassing a variety of ecosystems and land uses",
+      "uuid": "e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3",
+      "score": 0.5276620802107246
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia with a large population and significant agricultural sector, facing challenges related to land use and environmental sustainability",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5336860093878525
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its unique biodiversity and agricultural production",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6901596325387509
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent with diverse climates, cultures, and land uses, including agricultural areas, forests, and urban centers",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6472598043940645
+    },
+    {
+      "name": "land-use change",
+      "label": "natural hazard",
+      "description": "The process of altering the use or cover of land, potentially leading to environmental degradation, loss of biodiversity, and increased greenhouse gas emissions",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5716509187741591
+    }
+  ],
+  "(18942, 21727)": [
+    {
+      "name": "northern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, encompassing a wide range of climates and ecosystems",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.760677645571656
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent characterized by diverse climates, ecosystems, and agricultural practices",
+      "uuid": "2ca1b865-5555-4375-aa81-72811335b695",
+      "score": 0.6096585932163743
+    },
+    {
+      "name": "India",
+      "label": "location",
+      "description": "A country in South Asia known for its dense population and significant agricultural production",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5357164837398946
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent in the Southern Hemisphere, known for its unique biodiversity and climate conditions",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7366278299891658
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent that encompasses a wide range of climates, cultures, and agricultural practices",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6266985631007761
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, primarily caused by human activities, leading to significant environmental and societal impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.588414753507307
+    },
+    {
+      "name": "agriculture",
+      "label": "project",
+      "description": "The practice of cultivating the soil, growing crops, and raising livestock, which is crucial for food security and sustainable development",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5090504323703137
+    },
+    {
+      "name": "soil properties",
+      "label": "variable",
+      "description": "The characteristics of soil that affect its fertility, water-holding capacity, and overall health",
+      "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
+      "score": 0.5573678716973698
+    },
+    {
+      "name": "irrigated areas",
+      "label": "variable",
+      "description": "Regions where crops are watered through artificial means, such as canals, pipes, and sprinklers",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.578815559488247
+    },
+    {
+      "name": "terrain",
+      "label": "variable",
+      "description": "The natural features of the land, including elevation, slope, and land cover, which influence agricultural suitability and climate",
+      "uuid": "74ed1690-968e-444c-8a31-7b8344a2aad3",
+      "score": 0.5326774149467766
+    },
+    {
+      "name": "crop breeding",
+      "label": "instrument",
+      "description": "The process of selecting and breeding crops to improve their yield, disease resistance, and climate resilience",
+      "uuid": "dcd7a439-6021-4fc3-b3d8-a8936ef171f6",
+      "score": 0.5473015695215726
+    },
+    {
+      "name": "densely forested areas",
+      "label": "location",
+      "description": "Regions with high tree density, often protected for their biodiversity and ecosystem services",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5478926824390896
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America known for its vast territories, diverse climates, and significant agricultural production",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.5854017919262638
+    },
+    {
+      "name": "Russia",
+      "label": "location",
+      "description": "A country spanning across much of northern Eurasia, characterized by its vast territories, diverse climates, and significant agricultural production",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.5443917983324129
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia known for its large population, diverse climates, and significant agricultural production",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6332972024663229
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Western Europe known for its diverse climates, agricultural practices, and significant food production",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.6377998281333628
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by its unique climate, ecosystems, and agricultural practices",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6209885592603074
+    },
+    {
+      "name": "Sub-Saharan Africa",
+      "label": "location",
+      "description": "The region of Africa south of the Sahara Desert, characterized by diverse climates, ecosystems, and agricultural practices",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.5676622319579598
+    }
+  ],
+  "(21223, 23804)": [
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Europe, known for its agriculture and climate change research",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.6632223771419546
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of the atmosphere, influencing climate and weather patterns",
+      "uuid": "a32cbebb-0f17-41a6-9bf7-f3b111e4c56e",
+      "score": 0.6540993481626324
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, affecting climate and agriculture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6505741597637971
+    },
+    {
+      "name": "growing cycle",
+      "label": "experiment",
+      "description": "A period of time during which crops grow and develop, influenced by climate and weather conditions",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5389951700660733
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the Earth's climate, driven by human activities and natural processes, with significant impacts on ecosystems and societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5944307145311162
+    },
+    {
+      "name": "Brazil",
+      "label": "location",
+      "description": "A country in South America, known for its large agricultural sector and diverse climate zones",
+      "uuid": "2a65dfd1-83e7-4886-a732-316b170522a1",
+      "score": 0.6647121964765249
+    },
+    {
+      "name": "Sub-Saharan Africa",
+      "label": "location",
+      "description": "A region in Africa, characterized by diverse climates, ecosystems, and agricultural practices",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.5553364815325547
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Europe, known for its agriculture, climate research, and environmental policies",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.6268566977965014
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by a unique climate and diverse ecosystems",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.6439063029409132
+    },
+    {
+      "name": "agriculture",
+      "label": "platform",
+      "description": "The practice of cultivating land, growing crops, and raising livestock, influenced by climate, technology, and economic factors",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5398075066112419
+    }
+  ],
+  "(23422, 26467)": [
+    {
+      "name": "BRA",
+      "label": "location",
+      "description": "Brazil, a country in South America, known for its diverse climate and agricultural production",
+      "uuid": "2a65dfd1-83e7-4886-a732-316b170522a1",
+      "score": 0.6275661542699928
+    },
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Western Europe, known for its agricultural production and climate variability",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.6601409444672959
+    },
+    {
+      "name": "Mediterranean",
+      "label": "location",
+      "description": "A region surrounding the Mediterranean Sea, characterized by a unique climate and agricultural practices",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.5917761022564937
+    },
+    {
+      "name": "CHI",
+      "label": "location",
+      "description": "China, a country in East Asia, known for its large agricultural production and diverse climate",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5717225973206658
+    },
+    {
+      "name": "IND",
+      "label": "location",
+      "description": "India, a country in South Asia, known for its significant agricultural production and climate variability",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.6242430066474759
+    },
+    {
+      "name": "JPN",
+      "label": "location",
+      "description": "Japan, a country in East Asia, known for its agricultural production and unique climate",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.5711326605336048
+    },
+    {
+      "name": "REU",
+      "label": "location",
+      "description": "Reunion Island, a French overseas department in the Indian Ocean, known for its tropical climate and agricultural production",
+      "uuid": "16cc58c4-fd7b-40b7-8f33-30d26674fd8b",
+      "score": 0.6636548045737312
+    },
+    {
+      "name": "RUS",
+      "label": "location",
+      "description": "Russia, a country in Eastern Europe and Northern Asia, known for its vast territory and diverse climate",
+      "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+      "score": 0.5957901303572883
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "United States of America, a country in North America, known for its significant agricultural production and climate variability",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6567084060943001
+    },
+    {
+      "name": "Sub Saharan Africa",
+      "label": "location",
+      "description": "A region in Africa, south of the Sahara Desert, known for its diverse climate and agricultural practices",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.53424659511479
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, known for its vast territory and diverse climate",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.6312262281442159
+    },
+    {
+      "name": "agricultural expansion",
+      "label": "project",
+      "description": "An initiative to increase agricultural production and land use, often in response to climate change and food security needs",
+      "uuid": "d076e628-320a-477b-aad9-07d87ca04993",
+      "score": 0.6732994239541383
+    },
+    {
+      "name": "socio-economy",
+      "label": "variable",
+      "description": "The social and economic aspects of a region or community, including factors such as poverty, inequality, and access to resources",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.6631642214555867
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in temperature, precipitation, and other climate variables, affecting ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5883029950398416
+    },
+    {
+      "name": "agricultural land",
+      "label": "variable",
+      "description": "Land used for agricultural purposes, including crops, livestock, and other farm-related activities",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.632276227130199
+    },
+    {
+      "name": "forested areas",
+      "label": "location",
+      "description": "Regions covered by forests, which play a crucial role in regulating the climate, providing ecosystem services, and supporting biodiversity",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6173199769106923
+    }
+  ],
+  "(25920, 27047)": [
+    {
+      "name": "GLUES",
+      "label": "project",
+      "description": "The Global Assessment of Land Use Dynamics, Greenhouse Gas Emissions and Ecosystem Services Project, a research initiative focused on land use and environmental impacts",
+      "uuid": "5c0d34fc-09f0-4fcc-9c8b-6c9f444129ee",
+      "score": 0.7771697688169119
+    },
+    {
+      "name": "land expansion",
+      "label": "variable",
+      "description": "The process of increasing the area of land used for agricultural purposes, which can have environmental and social implications",
+      "uuid": "d076e628-320a-477b-aad9-07d87ca04993",
+      "score": 0.6263381673360235
+    },
+    {
+      "name": "irrigated conditions",
+      "label": "experiment",
+      "description": "Agricultural practices that use artificial irrigation for crop growth, as opposed to relying on natural rainfall",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6039991897990951
+    }
+  ]
+}

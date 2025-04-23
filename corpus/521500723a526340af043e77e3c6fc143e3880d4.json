@@ -1,0 +1,1265 @@
+{
+  "(0, 3084)": [
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the planet's climate system and supporting a diverse range of marine life",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.758752207345133
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide and methane, into the atmosphere, primarily as a result of human activities like burning fossil fuels and deforestation",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.6618268029661449
+    },
+    {
+      "name": "ecosystems",
+      "label": "platform",
+      "description": "Complex communities of living organisms, including plants, animals, and microorganisms, interacting with their physical environment and influencing the climate and biodiversity of an area",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6981285980991669
+    },
+    {
+      "name": "fisheries",
+      "label": "project",
+      "description": "The practice of catching fish and other seafood, often involving commercial or recreational activities that can impact the health of marine ecosystems and the livelihoods of communities that depend on them",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6895452575168842
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "The availability of sufficient, safe, and nutritious food to meet the dietary needs of a population, often influenced by factors such as climate change, fisheries management, and socioeconomic conditions",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.7038808432977746
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the Earth's climate, driven by human activities and natural factors, with far-reaching consequences for ecosystems, biodiversity, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.58308400895566
+    },
+    {
+      "name": "conservation",
+      "label": "project",
+      "description": "The practice of protecting and preserving ecosystems, species, and natural habitats, often involving efforts to mitigate the impacts of human activities and promote sustainable development",
+      "uuid": "40869a25-edea-4438-80f9-47c9e6910b9b",
+      "score": 0.6875866568585489
+    },
+    {
+      "name": "management",
+      "label": "project",
+      "description": "The process of planning, implementing, and monitoring activities to maintain or improve the health and productivity of ecosystems, often involving fisheries, conservation, and other human endeavors",
+      "uuid": "2be0af28-a6b8-4fce-82e4-1ad86788a4d5",
+      "score": 0.5322134691954382
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario used in climate modeling, representing a future with significant greenhouse gas emissions and associated climate change impacts",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7166510174385405
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A low-emissions scenario used in climate modeling, representing a future with reduced greenhouse gas emissions and associated climate change mitigation efforts",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6621209760022754
+    }
+  ],
+  "(2531, 5572)": [
+    {
+      "name": "marine life",
+      "label": "location",
+      "description": "Organisms that inhabit the ocean, including animals, plants, chromists, protozoans, and bacteria",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.5634997730642678
+    },
+    {
+      "name": "climate vulnerability",
+      "label": "variable",
+      "description": "A measure of the susceptibility of a species or ecosystem to climate change, often assessed through expert opinions or empirical data",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5376421560653836
+    },
+    {
+      "name": "conservation planning",
+      "label": "project",
+      "description": "The process of identifying and prioritizing conservation efforts to protect and manage ecosystems and species",
+      "uuid": "40869a25-edea-4438-80f9-47c9e6910b9b",
+      "score": 0.5095216356251264
+    },
+    {
+      "name": "socioeconomic development",
+      "label": "project",
+      "description": "The process of improving the social and economic well-being of communities, often in conjunction with conservation and environmental management",
+      "uuid": "a96e6cd6-0f35-491d-8198-7551d03e1cbc",
+      "score": 0.5267570700164983
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario used in climate modeling, representing a future with minimal efforts to reduce greenhouse gas emissions",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7116159789474343
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A high-mitigation scenario used in climate modeling, representing a future with aggressive efforts to reduce greenhouse gas emissions",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.638710554563747
+    },
+    {
+      "name": "climate index",
+      "label": "instrument",
+      "description": "A tool used to quantify and summarize climate-related data, often used to assess climate vulnerability and risk",
+      "uuid": "c7fa79e4-67a1-45da-b393-a1b89d54a1a5",
+      "score": 0.5438913946735056
+    },
+    {
+      "name": "marine species",
+      "label": "location",
+      "description": "Organisms that inhabit the ocean, including animals, plants, chromists, protozoans, and bacteria",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.5258442391270914
+    }
+  ],
+  "(5020, 8077)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.751139418280364
+    },
+    {
+      "name": "IUCN",
+      "label": "provider",
+      "description": "The International Union for the Conservation of Nature, a global authority on the conservation status of species and their habitats",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.6711657713569686
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different plants, animals, and microorganisms that live in an ecosystem or on Earth as a whole",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5551162454050841
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "Communities of living and non-living components that interact in a specific environment, such as forests, oceans, or deserts",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.7155589366472296
+    },
+    {
+      "name": "species' distribution",
+      "label": "location",
+      "description": "The geographic area where a particular species can be found, which can be influenced by climate, habitat, and other environmental factors",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5180875215249123
+    },
+    {
+      "name": "climate vulnerability",
+      "label": "variable",
+      "description": "A measure of how susceptible a species or ecosystem is to the impacts of climate change",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5240089570761564
+    },
+    {
+      "name": "CRIB",
+      "label": "project",
+      "description": "The Climate Risk Index for Biodiversity, a project that aims to assess the risk of climate change to biodiversity and provide a framework for conservation and management",
+      "uuid": "db26976f-8113-4b2c-8e8a-cc059a5bb255",
+      "score": 0.5035165010019318
+    }
+  ],
+  "(7666, 10428)": [
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "A measure of the susceptibility of a species or ecosystem to climate change",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5707561932982325
+    },
+    {
+      "name": "fisheries",
+      "label": "provider",
+      "description": "An industry or organization that engages in the commercial or recreational harvesting of fish and other seafood",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6543173852083449
+    },
+    {
+      "name": "ray-finned fishes",
+      "label": "species",
+      "description": "A group of fish that have fins with rays, including many species of commercial and recreational importance",
+      "uuid": "c69cde73-7bd9-489b-a20b-bd23cfb82d92",
+      "score": 0.6865527783824059
+    },
+    {
+      "name": "cephalopods",
+      "label": "species",
+      "description": "A group of marine animals that include squid, octopuses, and nautiluses, known for their intelligence and unique characteristics",
+      "uuid": "955fae6f-6aae-460a-a952-1c0c30f5151e",
+      "score": 0.7040789309765546
+    },
+    {
+      "name": "mitigation",
+      "label": "experiment",
+      "description": "A simulation or projection of the potential impacts of reducing greenhouse gas emissions, used to study the effectiveness of climate change mitigation strategies",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.5992281108008104
+    },
+    {
+      "name": "marine ecosystem models",
+      "label": "model",
+      "description": "Computational representations of marine ecosystems, used to simulate and predict the impacts of climate change on marine species and ecosystems",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.5907168918612319
+    }
+  ],
+  "(9954, 12746)": [
+    {
+      "name": "mitigation",
+      "label": "experiment",
+      "description": "Actions taken to reduce greenhouse gas emissions and mitigate the effects of climate change on ecosystems and species",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6482978601017144
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "A region of the Earth located between 23.5\u00b0 north and south of the equator, characterized by high temperatures and high levels of biodiversity",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7553225687445599
+    },
+    {
+      "name": "polar regions",
+      "label": "location",
+      "description": "The Arctic and Antarctic regions, characterized by cold temperatures, sea ice, and unique ecosystems adapted to these conditions",
+      "uuid": "3fedcf7c-7b0c-4b51-abd2-2c54de713061",
+      "score": 0.686017299616466
+    },
+    {
+      "name": "shark",
+      "label": "species",
+      "description": "A group of fish characterized by their cartilaginous skeleton and diverse range of species, many of which are vulnerable to climate change impacts",
+      "uuid": "ed019e00-9b0a-4bdc-89aa-606cc929bd9f",
+      "score": 0.5834682838800239
+    },
+    {
+      "name": "ray",
+      "label": "species",
+      "description": "A group of fish characterized by their flat bodies and often found in coastal ecosystems, which are vulnerable to climate change impacts",
+      "uuid": "c69cde73-7bd9-489b-a20b-bd23cfb82d92",
+      "score": 0.51940837202706
+    },
+    {
+      "name": "mammal species",
+      "label": "species",
+      "description": "A group of warm-blooded animals that give birth to live young and produce milk to feed their offspring, many of which are vulnerable to climate change impacts",
+      "uuid": "f5161094-3593-4bc1-85ea-c8c2ecab1d9a",
+      "score": 0.590907770776947
+    },
+    {
+      "name": "Gulf of Thailand",
+      "label": "location",
+      "description": "A body of water located in Southeast Asia, known for its high biodiversity and vulnerability to climate change impacts",
+      "uuid": "75fab119-51a6-4b59-9711-f6c3cd3139db",
+      "score": 0.5741512755793516
+    },
+    {
+      "name": "northern Australia",
+      "label": "location",
+      "description": "A region in Australia known for its high biodiversity and vulnerability to climate change impacts",
+      "uuid": "ad314c7a-babc-4e80-ba1e-150a0cb01ced",
+      "score": 0.546034174598984
+    },
+    {
+      "name": "Red Sea",
+      "label": "location",
+      "description": "A body of water located between Africa and Asia, known for its high salinity and vulnerability to climate change impacts",
+      "uuid": "d7808080-aea5-48f3-b0da-78141ef6324e",
+      "score": 0.7202787640115486
+    },
+    {
+      "name": "Persian Gulf",
+      "label": "location",
+      "description": "A body of water located in the Middle East, known for its high salinity and vulnerability to climate change impacts",
+      "uuid": "9e75b714-9315-42e8-85c7-dbe502659e98",
+      "score": 0.752128774360566
+    },
+    {
+      "name": "Caribbean",
+      "label": "location",
+      "description": "A region in the Americas known for its high biodiversity and vulnerability to climate change impacts",
+      "uuid": "ad18da3f-fbdb-4bc1-ab4d-008e9b8f6002",
+      "score": 0.6153474331232385
+    },
+    {
+      "name": "Pacific islands",
+      "label": "location",
+      "description": "A group of islands in the Pacific Ocean known for their high biodiversity and vulnerability to climate change impacts",
+      "uuid": "589b1245-f1f8-4a63-882f-0e2e72625df0",
+      "score": 0.6311816458430924
+    },
+    {
+      "name": "global ocean",
+      "label": "location",
+      "description": "The world's oceans, which cover over 70% of the Earth's surface and play a critical role in regulating the climate",
+      "uuid": "3d4e44c4-5d99-4a9b-8388-43c63533ee97",
+      "score": 0.7389709755004621
+    },
+    {
+      "name": "southern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth located south of the equator, which includes the continents of Antarctica, Australia, and South America",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7821539433740794
+    }
+  ],
+  "(12273, 15362)": [
+    {
+      "name": "mid-latitude offshore ecosystems",
+      "label": "location",
+      "description": "Ecosystems located in the middle latitudes of the ocean, often characterized by unique biodiversity and ecological processes",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.5063777320265479
+    },
+    {
+      "name": "southern hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies south of the equator, encompassing the southern parts of the Atlantic, Indian, and Pacific Oceans, as well as Antarctica",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7765860952777422
+    },
+    {
+      "name": "global ocean",
+      "label": "location",
+      "description": "The interconnected system of the world's oceans, covering over 70% of the Earth's surface and playing a crucial role in regulating the planet's climate",
+      "uuid": "3d4e44c4-5d99-4a9b-8388-43c63533ee97",
+      "score": 0.7763504631075343
+    },
+    {
+      "name": "trophic level",
+      "label": "variable",
+      "description": "The position of an organism within a food web, with higher trophic levels indicating a greater distance from the primary producers",
+      "uuid": "bd46a0bf-5c06-48af-a6c9-022417b1fffd",
+      "score": 0.5394941187293602
+    },
+    {
+      "name": "food web",
+      "label": "model",
+      "description": "A conceptual representation of the feeding relationships between organisms in an ecosystem, illustrating the flow of energy and nutrients",
+      "uuid": "4a55497b-8e07-431a-9af9-fece001f1dd7",
+      "score": 0.5996401875540021
+    },
+    {
+      "name": "marine ecosystems",
+      "label": "location",
+      "description": "Ecosystems that exist in the ocean, encompassing a wide range of habitats and species, from coral reefs to deep-sea trenches",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6892175987008928
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "Complex networks of living organisms and their environment, interacting and influencing one another in a delicate balance",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6983236229364459
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different species of plants, animals, and microorganisms that live in an ecosystem or on Earth as a whole",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5503545854308962
+    },
+    {
+      "name": "extinction risk",
+      "label": "variable",
+      "description": "The likelihood that a species will become extinct, often influenced by factors such as habitat loss, climate change, and human activities",
+      "uuid": "f27f7bf4-53fd-41bb-8e7e-b771f48f3bcc",
+      "score": 0.5575264199654832
+    }
+  ],
+  "(14940, 17920)": [
+    {
+      "name": "Micronesia",
+      "label": "location",
+      "description": "A country located in the Pacific Ocean, known for its vulnerability to climate change",
+      "uuid": "12f8b383-3220-464f-baf3-2ec810247e44",
+      "score": 0.6275130094735589
+    },
+    {
+      "name": "Iceland",
+      "label": "location",
+      "description": "A Nordic island country in the North Atlantic, characterized by its unique geology and climate",
+      "uuid": "5e64ca14-42f3-4222-8f2c-5db3c7b71d8f",
+      "score": 0.7307620450674724
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, comprising 12 countries and a diverse range of climates and ecosystems",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.69134501556273
+    },
+    {
+      "name": "Oceans",
+      "label": "location",
+      "description": "The vast bodies of saltwater that cover over 70% of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.7320030923205989
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country located in East Africa, with a diverse geography and climate, and a significant dependence on fisheries",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.6602399301318809
+    },
+    {
+      "name": "fisheries",
+      "label": "variable",
+      "description": "The practice of catching fish and other seafood, often serving as a vital source of food and income for many communities",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6832855314613078
+    },
+    {
+      "name": "North Pacific oceans",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, known for its significant role in global climate patterns and marine ecosystems",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.8147453498928566
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico, with a diverse range of climates and ecosystems",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7454008183749744
+    },
+    {
+      "name": "Denmark",
+      "label": "location",
+      "description": "A country located in Northern Europe, known for its high standard of living and commitment to environmental sustainability",
+      "uuid": "98f7f9f6-90cb-4f52-8bec-8d21dd310c30",
+      "score": 0.7063804702710886
+    },
+    {
+      "name": "Oceania",
+      "label": "location",
+      "description": "A geographic region that includes Australia, New Zealand, and many Pacific island nations, characterized by its unique cultural and environmental features",
+      "uuid": "e3205e96-9379-4b6c-86e0-c012090549f7",
+      "score": 0.7514312060268814
+    },
+    {
+      "name": "ecosystem models",
+      "label": "model",
+      "description": "Computational representations of ecosystems used to simulate and predict the behavior of complex environmental systems",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.5552696497008063
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent in the Eastern Hemisphere, comprising a diverse range of countries, climates, and ecosystems",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.7570457182132023
+    }
+  ],
+  "(17325, 20738)": [
+    {
+      "name": "fisheries biomass",
+      "label": "variable",
+      "description": "The total amount of living fish in a particular area or ecosystem, often used as an indicator of the health and productivity of fisheries",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5445241064289392
+    },
+    {
+      "name": "agriculture production",
+      "label": "variable",
+      "description": "The quantity of crops or livestock produced in a given area or region, often influenced by climate conditions",
+      "uuid": "83741fb9-6f86-4670-abbb-c1f3b14a939d",
+      "score": 0.5672510656185606
+    },
+    {
+      "name": "marine species",
+      "label": "variable",
+      "description": "Organisms that live in the ocean, including fish, invertebrates, and algae, which can be affected by climate change",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.5043872640398777
+    },
+    {
+      "name": "surface temperature",
+      "label": "variable",
+      "description": "The temperature of the air or water at the surface of the Earth, often used as an indicator of climate change",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.7249298117629428
+    },
+    {
+      "name": "dissolved oxygen",
+      "label": "variable",
+      "description": "The amount of oxygen dissolved in water, which can affect the health and survival of aquatic organisms",
+      "uuid": "b632d0cc-d4b0-458e-a182-16bbd2a5ab05",
+      "score": 0.7525124649858506
+    },
+    {
+      "name": "pH",
+      "label": "variable",
+      "description": "A measure of the acidity or alkalinity of water, which can impact the health and distribution of marine species",
+      "uuid": "4433600b-f323-458a-b295-352f939aab6b",
+      "score": 0.7040779838337354
+    },
+    {
+      "name": "species distribution models",
+      "label": "model",
+      "description": "Computational tools used to predict the geographic distribution of species based on environmental factors, often used in conservation planning",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.7564591717752104
+    },
+    {
+      "name": "extinctions",
+      "label": "natural hazard",
+      "description": "The permanent disappearance of a species from the Earth, often caused by human activities or climate change",
+      "uuid": "f27f7bf4-53fd-41bb-8e7e-b771f48f3bcc",
+      "score": 0.5615849391220273
+    },
+    {
+      "name": "adaptation",
+      "label": "variable",
+      "description": "The process of adjusting to climate change, often involving changes in behavior, physiology, or distribution",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6314935855758137
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The largest ecosystem on Earth, covering over 70% of the planet and playing a critical role in regulating the climate",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.6755730770408422
+    }
+  ],
+  "(20217, 23494)": [
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "A vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in the planet's climate system and supporting a diverse range of marine life",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7640502958210298
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process without depleting natural resources, with a focus on long-term environmental, social, and economic stability",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.7143780854129927
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide and methane, into the atmosphere, contributing to climate change and global warming",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.6648824963885162
+    },
+    {
+      "name": "marine ecosystems' health",
+      "label": "variable",
+      "description": "The overall condition and well-being of marine ecosystems, including the diversity and abundance of species, as well as the quality of their habitats",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.5785872868623732
+    },
+    {
+      "name": "fisheries",
+      "label": "platform",
+      "description": "The industry or practice of catching fish and other seafood, which can have significant impacts on marine ecosystems and the species that inhabit them",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6770383588583734
+    },
+    {
+      "name": "Convention on Biological Diversity",
+      "label": "provider",
+      "description": "An international agreement aimed at conserving and sustainably using the world's biodiversity, with a focus on protecting ecosystems and promoting sustainable development",
+      "uuid": "71d14fb4-d4b1-47ed-a548-98be9fb8a040",
+      "score": 0.5527349217553882
+    },
+    {
+      "name": "Northwest Atlantic Ocean",
+      "label": "location",
+      "description": "A region of the Atlantic Ocean located in the northern hemisphere, known for its rich marine biodiversity and importance in global ocean circulation",
+      "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+      "score": 0.7226453129268896
+    }
+  ],
+  "(22932, 25746)": [
+    {
+      "name": "climate sensitivity indices",
+      "label": "variable",
+      "description": "Metrics used to assess how sensitive species or ecosystems are to changes in climate",
+      "uuid": "c7fa79e4-67a1-45da-b393-a1b89d54a1a5",
+      "score": 0.5590962003349168
+    },
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different plants, animals, and microorganisms that live in an ecosystem or on Earth as a whole",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5551162454050841
+    },
+    {
+      "name": "marine ecosystems' health",
+      "label": "variable",
+      "description": "The condition or quality of marine ecosystems, which can be influenced by factors such as climate change, pollution, and overfishing",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.5857914724749316
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a crucial role in regulating the planet's climate",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7288725662321226
+    },
+    {
+      "name": "marine ecosystems",
+      "label": "ecosystems",
+      "description": "Communities of living and non-living components that interact in a specific environment, such as coral reefs or open ocean",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6662500419558666
+    },
+    {
+      "name": "ecosystems",
+      "label": "ecosystems",
+      "description": "Biological communities of interacting organisms and their physical environment, such as forests, grasslands, or deserts",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6901666778732074
+    },
+    {
+      "name": "surface temperatures",
+      "label": "variable",
+      "description": "The temperature of the Earth's surface, which can be influenced by factors such as climate change, ocean currents, and atmospheric conditions",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.6615436505624318
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process or system without depleting natural resources or causing harm to the environment",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.675483513225858
+    },
+    {
+      "name": "climate indices",
+      "label": "variable",
+      "description": "Metrics used to quantify and analyze climate-related phenomena, such as temperature, precipitation, or sea level rise",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.687124902506242
+    }
+  ],
+  "(25298, 28125)": [
+    {
+      "name": "marine species",
+      "label": "variable",
+      "description": "Organisms that live in the ocean, including animals, plants, Chromists, protozoa, and bacteria",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.5265577670124799
+    },
+    {
+      "name": "bathymetry",
+      "label": "variable",
+      "description": "The measurement of the depth of bodies of water, including oceans, seas, and lakes",
+      "uuid": "80d79c7e-6c64-4ada-bfcc-4093969758a5",
+      "score": 0.6825850671389778
+    },
+    {
+      "name": "upper ocean temperature",
+      "label": "variable",
+      "description": "The temperature of the upper layer of the ocean, influencing marine ecosystems and climate",
+      "uuid": "251c87cd-03b3-464f-8390-8ede2fec28fc",
+      "score": 0.5803363890787122
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, affecting ocean circulation and marine life",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7249006574144589
+    },
+    {
+      "name": "primary production",
+      "label": "variable",
+      "description": "The process by which phytoplankton and other organisms convert sunlight into organic matter, forming the base of aquatic food webs",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.7771561865988671
+    },
+    {
+      "name": "sea ice",
+      "label": "variable",
+      "description": "Frozen seawater that floats on the surface of the ocean, playing a crucial role in Earth's climate system",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7760150342061801
+    },
+    {
+      "name": "coasts",
+      "label": "location",
+      "description": "The land along the edge of a sea, ocean, or lake, where the land meets the water",
+      "uuid": "18d136b8-728f-438b-90cb-3c82956e1c2c",
+      "score": 0.568959246535743
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers over 70% of the Earth's surface, playing a central role in the planet's climate and ecosystems",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7131925044911447
+    },
+    {
+      "name": "freshwater habitats",
+      "label": "location",
+      "description": "Ecosystems that exist in freshwater environments, such as rivers, lakes, and wetlands",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.6726012069405563
+    },
+    {
+      "name": "surface waters",
+      "label": "location",
+      "description": "The upper layer of water in oceans, seas, and lakes, where sunlight penetrates and supports aquatic life",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6124884521156713
+    },
+    {
+      "name": "marine biodiversity",
+      "label": "variable",
+      "description": "The variety of different plants, animals, and microorganisms that live in the ocean, playing a vital role in maintaining healthy ecosystems",
+      "uuid": "3de6fa74-bb80-4bc6-ae60-1e6fe8ae6c67",
+      "score": 0.5290388573575302
+    },
+    {
+      "name": "protozoa",
+      "label": "variable",
+      "description": "A group of single-celled eukaryotic microorganisms that are found in aquatic environments",
+      "uuid": "6a2a2417-1a9c-4767-bffd-6b99f9747bab",
+      "score": 0.5890111200812124
+    }
+  ],
+  "(27625, 30413)": [
+    {
+      "name": "AquaMaps",
+      "label": "project",
+      "description": "A project providing species distribution maps and related data for various species, including information on thermal tolerances and geographic ranges",
+      "uuid": "d4dd9cfc-2625-4d4d-9b5b-67bb541baa8d",
+      "score": 0.5479174513718513
+    },
+    {
+      "name": "FishBase",
+      "label": "project",
+      "description": "A comprehensive database of fish species, providing information on their biology, ecology, and conservation status",
+      "uuid": "711203c0-c8ce-4157-9141-775a5a36f6be",
+      "score": 0.5866005160140381
+    },
+    {
+      "name": "SeaLifeBase",
+      "label": "project",
+      "description": "A database of marine species, including information on their taxonomy, distribution, and conservation status",
+      "uuid": "711203c0-c8ce-4157-9141-775a5a36f6be",
+      "score": 0.7781610924558302
+    },
+    {
+      "name": "IUCN Red List",
+      "label": "project",
+      "description": "A global database of threatened species, providing information on their conservation status and extinction risk",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.5224989713862416
+    },
+    {
+      "name": "primary producers",
+      "label": "variable",
+      "description": "Organisms that produce their own food through photosynthesis, serving as the base of aquatic food webs",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.5774766170800553
+    },
+    {
+      "name": "decapods",
+      "label": "variable",
+      "description": "A group of crustaceans that includes crabs, lobsters, and shrimp, often used as indicators of marine ecosystem health",
+      "uuid": "e631c681-5dad-48b2-83ce-943a1f0df47a",
+      "score": 0.6842527203639388
+    },
+    {
+      "name": "trophic levels",
+      "label": "variable",
+      "description": "A measure of the position of an organism within a food web, indicating its role as a producer, consumer, or decomposer",
+      "uuid": "bd46a0bf-5c06-48af-a6c9-022417b1fffd",
+      "score": 0.5465642386049414
+    },
+    {
+      "name": "bivalves",
+      "label": "variable",
+      "description": "A group of marine mollusks that include clams, mussels, and oysters, often used as indicators of water quality",
+      "uuid": "7da8400b-e2cf-4ab1-b2f0-5bc4b21c23b3",
+      "score": 0.7010040337297825
+    },
+    {
+      "name": "zooplankton",
+      "label": "variable",
+      "description": "Small, usually microscopic, animals that drift in the water column of oceans, lakes, and rivers, serving as a crucial link in aquatic food webs",
+      "uuid": "0399b52c-e3de-4dcc-9eb6-b1e3acf2cf1b",
+      "score": 0.73345016157821
+    },
+    {
+      "name": "cephalopods",
+      "label": "variable",
+      "description": "A group of marine animals that includes squid, octopuses, and nautiluses, known for their intelligence and complex behavior",
+      "uuid": "955fae6f-6aae-460a-a952-1c0c30f5151e",
+      "score": 0.700006983130287
+    },
+    {
+      "name": "gastropods",
+      "label": "variable",
+      "description": "A group of marine mollusks that include snails, slugs, and abalone, often used as indicators of marine ecosystem health",
+      "uuid": "d2db293d-2ed7-4831-9794-a2cf903e4d4d",
+      "score": 0.6864780852685995
+    },
+    {
+      "name": "invertebrates",
+      "label": "variable",
+      "description": "Animals without backbones, including a wide range of species such as insects, crustaceans, and mollusks",
+      "uuid": "abc6f016-d1f0-4725-b847-639de054d13f",
+      "score": 0.6921173532896419
+    }
+  ],
+  "(29898, 32709)": [
+    {
+      "name": "IUCN Red List of Threatened Species",
+      "label": "provider",
+      "description": "The International Union for Conservation of Nature's list of species threatened with extinction, providing data on species conservation status",
+      "uuid": "74d079b5-9b36-45c9-9b09-7e3646b65a85",
+      "score": 0.5103533798360382
+    },
+    {
+      "name": "AquaMaps",
+      "label": "provider",
+      "description": "A database providing species distribution maps for marine species",
+      "uuid": "dcc41cbc-007e-45f4-8a1c-792e7fc91d98",
+      "score": 0.5034033426628136
+    },
+    {
+      "name": "FishBase",
+      "label": "provider",
+      "description": "A database providing information on fish species, including their taxonomy, distribution, and ecology",
+      "uuid": "ea855d4c-f132-44f9-b31c-447e1101684d",
+      "score": 0.5808991774635082
+    },
+    {
+      "name": "SeaLifeBase",
+      "label": "provider",
+      "description": "A database providing information on marine species, including their taxonomy, distribution, and ecology",
+      "uuid": "711203c0-c8ce-4157-9141-775a5a36f6be",
+      "score": 0.8001205284251715
+    },
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    },
+    {
+      "name": "OISST",
+      "label": "dataset",
+      "description": "The Optimum Interpolation Sea Surface Temperature dataset, providing daily sea surface temperature estimates at a global scale",
+      "uuid": "8ad98dd8-c633-4e03-9d82-d4b430f5f2e7",
+      "score": 0.7294017354863267
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea surface temperature, a measure of the temperature of the ocean's surface, used as a central metric of climate change",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7040683664570229
+    },
+    {
+      "name": "HI",
+      "label": "variable",
+      "description": "A multivariate index of cumulative human impacts on ocean ecosystems, integrating 17 global anthropogenic drivers of ecological change",
+      "uuid": "4497eb1b-b64d-46ff-a18d-37d217430777",
+      "score": 0.5025496162692586
+    },
+    {
+      "name": "CMIP6",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 6, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "dcf5521f-e393-4e4c-ae4e-b4255257e18b",
+      "score": 0.8160922985756907
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "Global Climate Models, used to simulate and predict the Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7433990032098016
+    },
+    {
+      "name": "ESM",
+      "label": "model",
+      "description": "Earth System Models, used to simulate and predict the Earth's climate system, including the interactions between the atmosphere, oceans, and land",
+      "uuid": "3e656ebd-20df-4ad3-8e9c-4f9d1ee6a28f",
+      "score": 0.5967596665135196
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization providing scientific advice on climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7236733071781203
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing continued fossil fuel development",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7040061620353923
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A shared socioeconomic pathway scenario representing an increase in sustainable development",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.5882934971087151
+    },
+    {
+      "name": "temperature dataset",
+      "label": "dataset",
+      "description": "A collection of temperature data, used to analyze and understand climate change",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.6285586995732128
+    },
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Measures of the climate system, including temperature, precipitation, and sea level rise",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.7216822881039148
+    },
+    {
+      "name": "global 1km 2 native resolution",
+      "label": "location",
+      "description": "A spatial resolution used to describe the scale of environmental data",
+      "uuid": "8a38f782-3c89-484f-9f07-8490d39c8be9",
+      "score": 0.6418048938317729
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the ocean's surface, used as a central metric of climate change",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7783604204458504
+    }
+  ],
+  "(32245, 35331)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that provides scientific advice on climate change to policymakers and governments",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7249799846141922
+    },
+    {
+      "name": "SSP scenarios",
+      "label": "project",
+      "description": "Socioeconomic pathways, representing alternative socioeconomic developments used to explore the potential impacts of climate change on human societies and ecosystems",
+      "uuid": "dd1965ee-cf37-4773-81df-a3ec5f97e8a2",
+      "score": 0.786716719735523
+    },
+    {
+      "name": "SSP5-8.5",
+      "label": "experiment",
+      "description": "A specific socioeconomic pathway scenario representing continued fossil fuel development and high greenhouse gas emissions",
+      "uuid": "0f07d4c2-cfee-43ff-86d1-289058fe5050",
+      "score": 0.7051723978786802
+    },
+    {
+      "name": "SSP1-2.6",
+      "label": "experiment",
+      "description": "A specific socioeconomic pathway scenario representing a sustainable development pathway with low greenhouse gas emissions",
+      "uuid": "fe12d6d2-c2e8-45fc-b87e-ee9fcf4c5929",
+      "score": 0.6295677675720303
+    },
+    {
+      "name": "1\u00b0 grid",
+      "label": "platform",
+      "description": "A spatial framework used to organize and analyze data, consisting of a regular grid with a resolution of 1 degree",
+      "uuid": "0eadedd6-194a-4a91-95cc-041ad065face",
+      "score": 0.6284080252766581
+    },
+    {
+      "name": "climate indices",
+      "label": "variable",
+      "description": "Quantitative measures used to describe and analyze climate-related phenomena, such as temperature, precipitation, and sea level rise",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.688915323179097
+    },
+    {
+      "name": "geographic grid",
+      "label": "platform",
+      "description": "A spatial framework used to organize and analyze data, consisting of a grid that covers a specific geographic area",
+      "uuid": "bb6184eb-1ced-44fb-9668-d57cf1baa2e3",
+      "score": 0.503318928501138
+    },
+    {
+      "name": "ecological data",
+      "label": "variable",
+      "description": "Information related to the interactions between organisms and their environment, used to understand and analyze ecosystem processes",
+      "uuid": "6bef0291-a9ca-4832-bbb4-80459dc1493f",
+      "score": 0.5664156246335185
+    },
+    {
+      "name": "future climate changes",
+      "label": "weather event",
+      "description": "Projected changes in climate patterns and conditions, used to assess potential impacts on ecosystems and species",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5120092544773228
+    }
+  ],
+  "(34859, 38084)": [
+    {
+      "name": "climate indices",
+      "label": "variable",
+      "description": "Quantitative measures used to describe and analyze various aspects of the climate system",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.6384870244579399
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "A measure of the susceptibility of a species or system to the impacts of climate change",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5677204153484577
+    },
+    {
+      "name": "ensemble climate projections",
+      "label": "model",
+      "description": "A set of climate projections generated by multiple climate models, used to estimate the uncertainty associated with future climate changes",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5027827070012656
+    },
+    {
+      "name": "ESM projections",
+      "label": "model",
+      "description": "Projections of future climate changes generated by Earth System Models, used to estimate the impacts of climate change on species and ecosystems",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.505828590093554
+    },
+    {
+      "name": "ocean health index",
+      "label": "variable",
+      "description": "A quantitative measure used to assess the health and sustainability of ocean ecosystems",
+      "uuid": "58767ad1-2800-4406-a255-29eafd142615",
+      "score": 0.5250136042822735
+    },
+    {
+      "name": "Earth System Models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "ac87227c-b943-400a-ac61-71e42e8eb5f3",
+      "score": 0.5683036007652165
+    },
+    {
+      "name": "grid cells",
+      "label": "location",
+      "description": "A spatial unit used to represent geographic areas in climate modeling and analysis",
+      "uuid": "b9c7e7cf-0c68-4be6-9f20-4802f4e923f8",
+      "score": 0.5399200968756371
+    }
+  ],
+  "(37645, 40501)": [
+    {
+      "name": "ESMs",
+      "label": "model",
+      "description": "Earth System Models, sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "f5b03277-666a-4fa0-ab1e-3734bcdc021f",
+      "score": 0.5386552887064786
+    },
+    {
+      "name": "sensitivity",
+      "label": "variable",
+      "description": "A measure of the degree to which a species or ecosystem responds to climate change",
+      "uuid": "6fa682b9-c6b5-46ca-971f-b7ecd4bf304d",
+      "score": 0.5043931539931306
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "A measure of the degree to which a species or ecosystem is susceptible to climate change",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5712967384041615
+    },
+    {
+      "name": "climate indices",
+      "label": "variable",
+      "description": "Quantities or characteristics that can be measured or observed in climate experiments, such as temperature, precipitation, or sea level rise",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.6417106066479541
+    },
+    {
+      "name": "grid cell",
+      "label": "location",
+      "description": "A small area of the Earth's surface, used as a unit of analysis in climate modeling and spatial analysis",
+      "uuid": "b9c7e7cf-0c68-4be6-9f20-4802f4e923f8",
+      "score": 0.5430853258475478
+    },
+    {
+      "name": "IUCN Red List",
+      "label": "provider",
+      "description": "The International Union for Conservation of Nature Red List, a global authority on the conservation status of species",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.508942484406289
+    }
+  ],
+  "(39960, 43040)": [
+    {
+      "name": "IUCN",
+      "label": "provider",
+      "description": "The International Union for Conservation of Nature, a global organization working to conserve and protect the natural world",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.7088421639978303
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international body that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7383735183461935
+    },
+    {
+      "name": "FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, an agency focused on reducing hunger and improving food security",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5799312762282243
+    },
+    {
+      "name": "World Register of Marine Species",
+      "label": "provider",
+      "description": "A comprehensive database of marine species, providing taxonomic information and classification",
+      "uuid": "221b134a-044a-4352-8a3d-c82db6b48088",
+      "score": 0.5298008027352512
+    },
+    {
+      "name": "plankton",
+      "label": "variable",
+      "description": "A group of small, usually microscopic, organisms that drift in the water column of oceans, seas, and freshwater bodies",
+      "uuid": "a69dd814-e7c0-437f-ba2a-63500f68c9a3",
+      "score": 0.699749823909422
+    },
+    {
+      "name": "food web",
+      "label": "platform",
+      "description": "A network of relationships between organisms in an ecosystem, showing how they interact and feed on each other",
+      "uuid": "4a55497b-8e07-431a-9af9-fece001f1dd7",
+      "score": 0.6074427528524643
+    },
+    {
+      "name": "trophic level",
+      "label": "variable",
+      "description": "The position an organism occupies in a food chain, reflecting its feeding behavior and energy flow within an ecosystem",
+      "uuid": "bd46a0bf-5c06-48af-a6c9-022417b1fffd",
+      "score": 0.5436032872336907
+    },
+    {
+      "name": "primary producers",
+      "label": "variable",
+      "description": "Organisms, such as plants and algae, that produce their own food through photosynthesis and form the base of the food web",
+      "uuid": "ecd03762-df34-49b7-91f2-d8a51acd270e",
+      "score": 0.5882565648791122
+    },
+    {
+      "name": "12 climate indices",
+      "label": "variable",
+      "description": "A set of metrics used to quantify and analyze various aspects of climate and its impacts on ecosystems and species",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.5960053784836229
+    },
+    {
+      "name": "ecosystem",
+      "label": "platform",
+      "description": "A community of living and non-living components that interact in a specific environment, such as a forest, desert, or ocean",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6766547476125047
+    },
+    {
+      "name": "extinction risk",
+      "label": "variable",
+      "description": "The likelihood of a species becoming extinct due to various threats, including climate change",
+      "uuid": "f27f7bf4-53fd-41bb-8e7e-b771f48f3bcc",
+      "score": 0.5327142973710702
+    }
+  ],
+  "(42499, 45433)": [
+    {
+      "name": "biodiversity",
+      "label": "variable",
+      "description": "The variety of different species of plants, animals, and microorganisms that live in an ecosystem or on Earth as a whole",
+      "uuid": "4e366444-01ea-4517-9d93-56f55ddf41b7",
+      "score": 0.5503545854308962
+    },
+    {
+      "name": "fisheries",
+      "label": "platform",
+      "description": "The industry or occupation of catching fish and other seafood for food or sport",
+      "uuid": "fa57b0a0-9723-4195-bdd1-4f26aefa0e07",
+      "score": 0.6873637013814479
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "A community of living and non-living components that interact with each other in a specific environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6998790257003318
+    },
+    {
+      "name": "UN FAO",
+      "label": "provider",
+      "description": "The Food and Agriculture Organization of the United Nations, an agency that works to reduce hunger and poverty worldwide",
+      "uuid": "f7fb290f-3693-45f2-8d87-d06cdb91e543",
+      "score": 0.5949522895472692
+    }
+  ],
+  "(44933, 46274)": [
+    {
+      "name": "climate change impact pathways",
+      "label": "project",
+      "description": "A research area focused on understanding the effects of climate change on ecosystems and species",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.532649643935224
+    },
+    {
+      "name": "12 climate indices",
+      "label": "variable",
+      "description": "A set of quantifiable metrics used to measure and assess climate change impacts on species and ecosystems",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.5856096785785182
+    },
+    {
+      "name": "species",
+      "label": "variable",
+      "description": "A taxonomic unit used in the study of biodiversity and climate change impacts",
+      "uuid": "0de668aa-cc97-482d-a0eb-cddcb1a705b6",
+      "score": 0.5221922376502148
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "A community of living and non-living components that interact in a specific environment",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6967868085787375
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "(0, 3110)": [
+    {
+      "name": "nitrogen",
+      "label": "variable",
+      "description": "A chemical element essential for plant growth, often supplied through fertilizers, and a critical factor in agricultural productivity",
+      "uuid": "ed7c506e-b18e-4a93-ac03-4bdfe119b72f",
+      "score": 0.6674427530796121
+    },
+    {
+      "name": "crop yield",
+      "label": "variable",
+      "description": "The amount of crop produced per unit area, often influenced by factors such as fertilizer application, soil quality, and weather conditions",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.5951723227676181
+    },
+    {
+      "name": "fertilizer N",
+      "label": "variable",
+      "description": "The amount of nitrogen applied to crops through fertilizers, which can impact crop growth and environmental sustainability",
+      "uuid": "d523f014-6fec-422f-878c-b7e62be952a3",
+      "score": 0.6010892121264759
+    },
+    {
+      "name": "soil N availability",
+      "label": "variable",
+      "description": "The amount of nitrogen available in the soil for plant uptake, influenced by factors such as soil type, organic matter, and microbial activity",
+      "uuid": "97556c99-b701-4d46-851a-f2ef2defe6a4",
+      "score": 0.5760661735471404
+    },
+    {
+      "name": "eutrophication",
+      "label": "natural hazard",
+      "description": "The process by which excess nutrients, such as nitrogen and phosphorus, accumulate in water bodies, leading to harmful algal blooms and decreased water quality",
+      "uuid": "53d36c39-3cb1-44db-9746-feee86cbe9d7",
+      "score": 0.7733276076047764
+    },
+    {
+      "name": "N oxides",
+      "label": "variable",
+      "description": "Nitrogen oxides, a type of air pollutant that can contribute to environmental problems such as smog and climate change",
+      "uuid": "e82ebd1c-8241-4ca0-95a9-a6e1432519cd",
+      "score": 0.7099729148545387
+    },
+    {
+      "name": "ammonia",
+      "label": "variable",
+      "description": "A toxic gas that can be released into the environment through agricultural activities, such as fertilizer application",
+      "uuid": "6a745a5e-829c-43f5-8d5a-6fb549e7b81b",
+      "score": 0.5874425526744149
+    },
+    {
+      "name": "agricultural productivity",
+      "label": "variable",
+      "description": "The amount of agricultural produce per unit area, often influenced by factors such as fertilizer application, soil quality, and weather conditions",
+      "uuid": "5c6df811-bebf-4dae-a70f-f49fece3fa1e",
+      "score": 0.5546502235734521
+    },
+    {
+      "name": "greenhouse-gas emissions",
+      "label": "variable",
+      "description": "The release of gases, such as carbon dioxide and methane, that contribute to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5239100434793017
+    },
+    {
+      "name": "phosphorus",
+      "label": "variable",
+      "description": "A chemical element essential for plant growth, often supplied through fertilizers",
+      "uuid": "47f4e7ac-b4ca-4ef9-824b-a36ea5510526",
+      "score": 0.6947987867603146
+    },
+    {
+      "name": "freshwater ecosystems",
+      "label": "location",
+      "description": "Aquatic environments, such as rivers, lakes, and wetlands, that support a wide range of plant and animal life",
+      "uuid": "ad73e951-fb5b-4a0b-b034-9469a8bfccaa",
+      "score": 0.6998902683658746
+    },
+    {
+      "name": "marine ecosystems",
+      "label": "location",
+      "description": "Aquatic environments, such as oceans and coral reefs, that support a wide range of plant and animal life",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6731593492906428
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water stored beneath the Earth's surface, often used for drinking water and irrigation",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6854681980881475
+    }
+  ],
+  "(2575, 5396)": [
+    {
+      "name": "plant breeding",
+      "label": "project",
+      "description": "The process of selecting and breeding plants to produce desired traits, such as improved nitrogen use efficiency, for sustainable agriculture>",
+      "uuid": "dcd7a439-6021-4fc3-b3d8-a8936ef171f6",
+      "score": 0.6079545667852452
+    },
+    {
+      "name": "food security",
+      "label": "variable",
+      "description": "A measure of the availability and accessibility of nutritious food for a population, influenced by factors such as crop yield, fertilizer use, and climate change>",
+      "uuid": "85a73755-cb84-40cb-a23e-2ed3811138f8",
+      "score": 0.6950047947650072
+    },
+    {
+      "name": "sustainable agriculture",
+      "label": "project",
+      "description": "Agricultural practices that prioritize environmental sustainability, social responsibility, and economic viability, aiming to produce food while minimizing harm to the environment>",
+      "uuid": "73266dd6-217a-432f-9237-176d3e94b39b",
+      "score": 0.5199963172488664
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, driven by human activities such as greenhouse gas emissions, with significant impacts on ecosystems, agriculture, and human societies>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.586005966227339
+    },
+    {
+      "name": "nitrogen fertilizers",
+      "label": "variable",
+      "description": "Substances added to soil to promote plant growth, containing nitrogen, which is essential for plant development but can have negative environmental impacts if overused>",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.5840769804406576
+    },
+    {
+      "name": "farming systems",
+      "label": "project",
+      "description": "The practices, technologies, and management strategies used in agricultural production, influencing crop yields, environmental sustainability, and social equity>",
+      "uuid": "2dda92a8-6c26-4506-9881-43b6d9a83b18",
+      "score": 0.6006436208410731
+    },
+    {
+      "name": "crops",
+      "label": "variable",
+      "description": "Plants grown for food, fiber, or other products, with varying requirements for nutrients, water, and climate conditions>",
+      "uuid": "63317fb1-01d9-4658-93e8-9800c5359454",
+      "score": 0.5021732426070346
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, supporting plant growth and filtering water>",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6360989368699089
+    }
+  ],
+  "(4971, 7362)": [
+    {
+      "name": "crop yield",
+      "label": "variable",
+      "description": "The amount of biomass or grain produced by a crop, often measured in terms of weight or volume",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.6055714808049345
+    },
+    {
+      "name": "N fertilizer application rates",
+      "label": "variable",
+      "description": "The amount of nitrogen fertilizer applied to a crop, which can impact yield and nitrogen use efficiency",
+      "uuid": "d523f014-6fec-422f-878c-b7e62be952a3",
+      "score": 0.5190228209018685
+    },
+    {
+      "name": "soil N supply",
+      "label": "variable",
+      "description": "The amount of nitrogen available in the soil, which can affect crop growth and yield",
+      "uuid": "97556c99-b701-4d46-851a-f2ef2defe6a4",
+      "score": 0.539842720681636
+    }
+  ],
+  "(8889, 11471)": [
+    {
+      "name": "soil N availability",
+      "label": "variable",
+      "description": "The amount of nitrogen available in the soil for plant uptake, affecting crop growth and development",
+      "uuid": "97556c99-b701-4d46-851a-f2ef2defe6a4",
+      "score": 0.5421003866598392
+    },
+    {
+      "name": "NH 4 + concentration",
+      "label": "variable",
+      "description": "The concentration of ammonium ions in the soil solution, influencing nitrogen availability for plants",
+      "uuid": "3165610f-56d5-4107-a6c2-cf05aff0bfdc",
+      "score": 0.5737996620579209
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy, influencing plant growth and nitrogen demand",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6006682844631737
+    },
+    {
+      "name": "plant N uptake",
+      "label": "process",
+      "description": "The process by which plants absorb nitrogen from the soil, regulated by factors such as soil N availability and plant growth rate",
+      "uuid": "0b5a4acf-e6c4-471b-98d8-4b8bfdcefc64",
+      "score": 0.5977235022548869
+    },
+    {
+      "name": "leaf photosynthesis activity",
+      "label": "process",
+      "description": "The process by which leaves convert light energy into chemical energy, influencing plant growth and nitrogen demand",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.5323441110367564
+    }
+  ],
+  "(10991, 13854)": [
+    {
+      "name": "plant N uptake capacity",
+      "label": "variable",
+      "description": "The ability of plants to absorb nitrogen from the soil, influenced by various physiological and environmental factors",
+      "uuid": "0b5a4acf-e6c4-471b-98d8-4b8bfdcefc64",
+      "score": 0.5815002118546344
+    },
+    {
+      "name": "NH 4 + concentration",
+      "label": "variable",
+      "description": "The concentration of ammonium ions in the soil solution, affecting plant nitrogen uptake",
+      "uuid": "3165610f-56d5-4107-a6c2-cf05aff0bfdc",
+      "score": 0.5644423406489116
+    },
+    {
+      "name": "photosynthesis",
+      "label": "process",
+      "description": "The process by which plants convert light energy into chemical energy, influencing plant growth and nitrogen demand",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6006682844631737
+    },
+    {
+      "name": "soil N supply",
+      "label": "variable",
+      "description": "The amount of nitrogen available to plants in the soil, affecting plant nitrogen uptake",
+      "uuid": "97556c99-b701-4d46-851a-f2ef2defe6a4",
+      "score": 0.564844837101882
+    },
+    {
+      "name": "canopy",
+      "label": "location",
+      "description": "The upper layer of a plant community, influencing light availability and plant growth",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.6980917932488028
+    }
+  ],
+  "(13386, 16303)": [
+    {
+      "name": "plant",
+      "label": "organism",
+      "description": "A living organism that grows in the ground and produces its own food through photosynthesis",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.532332219285165
+    },
+    {
+      "name": "N uptake",
+      "label": "variable",
+      "description": "The process by which plants take up nitrogen from the soil",
+      "uuid": "0b5a4acf-e6c4-471b-98d8-4b8bfdcefc64",
+      "score": 0.5671257570470615
+    },
+    {
+      "name": "b",
+      "label": "variable",
+      "description": "A parameter representing the rate of nitrogen dilution in plants as they grow",
+      "uuid": "1a713899-fb61-48d2-974f-da62d39d8e63",
+      "score": 0.5122247663736766
+    },
+    {
+      "name": "dense canopy",
+      "label": "environment",
+      "description": "A crowded environment in which plants compete for light and other resources",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.5563463631093135
+    }
+  ],
+  "(15766, 18603)": [
+    {
+      "name": "plant",
+      "label": "organism",
+      "description": "A living organism that grows in the ground and produces its own food through photosynthesis",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.532332219285165
+    },
+    {
+      "name": "N nutrition",
+      "label": "variable",
+      "description": "The process by which plants absorb and utilize nitrogen from the soil",
+      "uuid": "ed7c506e-b18e-4a93-ac03-4bdfe119b72f",
+      "score": 0.5039034364049549
+    },
+    {
+      "name": "canopy",
+      "label": "location",
+      "description": "The upper layer of a plant community, formed by the leaves and branches of trees and other plants",
+      "uuid": "f5078704-ed6b-4064-900c-6a4827ed048b",
+      "score": 0.6932789090567868
+    },
+    {
+      "name": "NRE",
+      "label": "variable",
+      "description": "Nitrogen uptake efficiency, a measure of a plant's ability to absorb nitrogen from the soil",
+      "uuid": "0b5a4acf-e6c4-471b-98d8-4b8bfdcefc64",
+      "score": 0.5217714059828987
+    },
+    {
+      "name": "soil N availability",
+      "label": "variable",
+      "description": "The amount of nitrogen available to plants in the soil",
+      "uuid": "97556c99-b701-4d46-851a-f2ef2defe6a4",
+      "score": 0.5456009686385552
+    },
+    {
+      "name": "soil N net mineralization",
+      "label": "process",
+      "description": "The process by which microorganisms in the soil convert organic nitrogen into a form that can be used by plants",
+      "uuid": "8b24ad9d-d425-457a-b0d6-56ba702afc87",
+      "score": 0.5385112860392641
+    }
+  ],
+  "(18141, 20740)": [
+    {
+      "name": "irrigation",
+      "label": "variable",
+      "description": "The practice of supplying water to crops through artificial means, such as pipes or canals>",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7147863378771505
+    },
+    {
+      "name": "N fertilization",
+      "label": "variable",
+      "description": "The application of nitrogen-based fertilizers to crops to promote growth and productivity>",
+      "uuid": "d523f014-6fec-422f-878c-b7e62be952a3",
+      "score": 0.527484459545984
+    }
+  ],
+  "(20245, 23091)": [
+    {
+      "name": "crop mass",
+      "label": "variable",
+      "description": "The total amount of plant biomass, often used as a covariable in studies of nitrogen uptake and utilization",
+      "uuid": "244a2eb6-bb6c-462c-978e-f9cfe96dffba",
+      "score": 0.5010727193832176
+    },
+    {
+      "name": "soil N supply",
+      "label": "variable",
+      "description": "The amount of nitrogen available in the soil for plant uptake",
+      "uuid": "97556c99-b701-4d46-851a-f2ef2defe6a4",
+      "score": 0.565236159912246
+    },
+    {
+      "name": "breeding efforts",
+      "label": "project",
+      "description": "A program or initiative aimed at improving crop yields, disease resistance, or other desirable traits through selective breeding",
+      "uuid": "dcd7a439-6021-4fc3-b3d8-a8936ef171f6",
+      "score": 0.5139194559678333
+    },
+    {
+      "name": "biomass accumulation",
+      "label": "variable",
+      "description": "The increase in plant biomass over time, often used as a measure of plant growth and productivity",
+      "uuid": "a0eb9268-0333-4442-9bc6-efbe338d9836",
+      "score": 0.5333809546431352
+    },
+    {
+      "name": "intrinsic N uptake capacity",
+      "label": "variable",
+      "description": "The ability of plants to take up nitrogen from the soil, independent of crop mass or biomass",
+      "uuid": "0b5a4acf-e6c4-471b-98d8-4b8bfdcefc64",
+      "score": 0.5227680473147094
+    }
+  ],
+  "(22659, 25619)": [
+    {
+      "name": "N uptake",
+      "label": "variable",
+      "description": "The amount of nitrogen taken up by plants, an important factor in plant growth and crop yield",
+      "uuid": "0b5a4acf-e6c4-471b-98d8-4b8bfdcefc64",
+      "score": 0.6054478661596333
+    },
+    {
+      "name": "biomass",
+      "label": "variable",
+      "description": "The total amount of organic matter in a plant or crop, often used as a measure of plant growth and productivity",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.6549240207139735
+    },
+    {
+      "name": "soil mineral N",
+      "label": "variable",
+      "description": "The amount of nitrogen available in the soil for plant uptake, an important factor in plant growth and crop yield",
+      "uuid": "27cf1a0b-3692-4005-889c-ca130e12c31b",
+      "score": 0.6333637106828126
+    }
+  ],
+  "(25092, 28054)": [
+    {
+      "name": "plant breeding",
+      "label": "project",
+      "description": "The process of selecting and cultivating plants with desirable traits, such as improved nitrogen use efficiency, to enhance crop yields and sustainability",
+      "uuid": "dcd7a439-6021-4fc3-b3d8-a8936ef171f6",
+      "score": 0.6014700292867773
+    },
+    {
+      "name": "soil N availability",
+      "label": "variable",
+      "description": "The amount of nitrogen available in the soil for plant uptake, which can impact crop growth and nitrogen use efficiency",
+      "uuid": "97556c99-b701-4d46-851a-f2ef2defe6a4",
+      "score": 0.5524724852968604
+    },
+    {
+      "name": "maize canopy",
+      "label": "location",
+      "description": "The above-ground part of a maize plant, where photosynthesis and nitrogen uptake occur",
+      "uuid": "7266c8c3-81eb-47fd-849c-55a1498c4d3d",
+      "score": 0.5409212002524052
+    }
+  ],
+  "(27566, 30362)": [
+    {
+      "name": "plant breeding",
+      "label": "project",
+      "description": "The process of selecting and breeding plants to improve their yield, disease resistance, and nutritional content",
+      "uuid": "dcd7a439-6021-4fc3-b3d8-a8936ef171f6",
+      "score": 0.6277461520732118
+    },
+    {
+      "name": "grain crops",
+      "label": "location",
+      "description": "Areas where grain crops such as wheat, maize, and soybeans are grown",
+      "uuid": "63317fb1-01d9-4658-93e8-9800c5359454",
+      "score": 0.5108600489143799
+    }
+  ],
+  "(29911, 32469)": [
+    {
+      "name": "Yield",
+      "label": "variable",
+      "description": "The amount of biomass produced by the crop, influenced by the N nutrition and other factors",
+      "uuid": "f12d8026-f24a-4413-91d0-4704c243c9e7",
+      "score": 0.552078205029902
+    },
+    {
+      "name": "N fertilization",
+      "label": "variable",
+      "description": "The application of nitrogen fertilizer to the crop, which can influence the NNI, yield, and grain protein content",
+      "uuid": "d523f014-6fec-422f-878c-b7e62be952a3",
+      "score": 0.5031512500876448
+    }
+  ],
+  "(32059, 35033)": [
+    {
+      "name": "nitrate leaching",
+      "label": "natural hazard",
+      "description": "The process by which excess nitrogen in the soil is lost to groundwater, potentially polluting water sources and ecosystems",
+      "uuid": "0e2b6d0e-bbe4-4852-8fb3-2dd05e70a753",
+      "score": 0.5678594782288344
+    },
+    {
+      "name": "soil N",
+      "label": "variable",
+      "description": "The amount of nitrogen present in the soil, which can be affected by factors such as fertilization, crop management, and environmental conditions",
+      "uuid": "97556c99-b701-4d46-851a-f2ef2defe6a4",
+      "score": 0.5994824280937407
+    },
+    {
+      "name": "plant N uptake capacity",
+      "label": "variable",
+      "description": "The ability of a plant to absorb and utilize nitrogen from the soil, which can be influenced by factors such as root architecture and soil conditions",
+      "uuid": "0b5a4acf-e6c4-471b-98d8-4b8bfdcefc64",
+      "score": 0.577527628848557
+    }
+  ],
+  "(34555, 37387)": [
+    {
+      "name": "soil N availability",
+      "label": "variable",
+      "description": "The amount of nitrogen available to crops in the soil, an important factor in plant growth and productivity",
+      "uuid": "97556c99-b701-4d46-851a-f2ef2defe6a4",
+      "score": 0.536984810929443
+    },
+    {
+      "name": "transpiration water",
+      "label": "variable",
+      "description": "The amount of water used by crops for transpiration, an important factor in plant growth and productivity",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.578034279205106
+    },
+    {
+      "name": "transpiration efficiency",
+      "label": "variable",
+      "description": "A measure of how efficiently crops use water for transpiration, an important factor in plant growth and productivity",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.5516852856378508
+    }
+  ],
+  "(36913, 39779)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, supporting plant growth and influencing nitrogen availability",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6346594949024731
+    },
+    {
+      "name": "plant",
+      "label": "variable",
+      "description": "Organisms that grow in soil, using nitrogen and other nutrients to produce biomass and yield",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.5507012600401605
+    },
+    {
+      "name": "yield productivity",
+      "label": "variable",
+      "description": "The ability of a crop to produce yield, influenced by factors such as nitrogen supply, genotype, and environment",
+      "uuid": "1e7afff2-cd50-4d26-968b-bffd2d738edd",
+      "score": 0.5517652669400968
+    }
+  ],
+  "(39335, 42269)": [
+    {
+      "name": "plant N uptake",
+      "label": "variable",
+      "description": "The amount of nitrogen absorbed by plants from the soil, a critical factor in plant growth and crop yield",
+      "uuid": "0b5a4acf-e6c4-471b-98d8-4b8bfdcefc64",
+      "score": 0.5937772706680986
+    },
+    {
+      "name": "crop biomass",
+      "label": "variable",
+      "description": "The total amount of plant material produced, including both harvested and non-harvested portions",
+      "uuid": "686feba9-87ba-474c-8280-7f67565cfb2f",
+      "score": 0.5507591806350478
+    },
+    {
+      "name": "soil N supply",
+      "label": "variable",
+      "description": "The amount of nitrogen available to plants from the soil",
+      "uuid": "97556c99-b701-4d46-851a-f2ef2defe6a4",
+      "score": 0.5507054744926848
+    },
+    {
+      "name": "water",
+      "label": "variable",
+      "description": "A critical resource for plant growth, potentially interacting with nitrogen uptake and utilization",
+      "uuid": "ed7c506e-b18e-4a93-ac03-4bdfe119b72f",
+      "score": 0.5244934859303004
+    }
+  ],
+  "(41758, 42401)": [
+    {
+      "name": "crop mass",
+      "label": "variable",
+      "description": "The total biomass or weight of a crop, often used as an indicator of crop yield and productivity",
+      "uuid": "244a2eb6-bb6c-462c-978e-f9cfe96dffba",
+      "score": 0.5045892781145876
+    }
+  ]
+}

@@ -1,0 +1,1981 @@
+{
+  "(0, 2906)": [
+    {
+      "name": "neural network ensembles",
+      "label": "model",
+      "description": "A type of machine learning algorithm used for predicting streamflow Q characteristics based on climate and physiographic characteristics of catchments",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.5646433319673464
+    },
+    {
+      "name": "streamflow Q",
+      "label": "variable",
+      "description": "The rate of water flow in a stream or river, an important factor in hydrological studies",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5490483616653647
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river or lake",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5446974605368483
+    },
+    {
+      "name": "climate indices",
+      "label": "variable",
+      "description": "Quantitative measures of climate characteristics, such as temperature and precipitation, used as predictors in hydrological models",
+      "uuid": "52347642-9786-4b59-be77-02e9f307118d",
+      "score": 0.6350111243421597
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, which affects hydrological processes",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6167188359110423
+    },
+    {
+      "name": "geology",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes, which influences hydrological characteristics",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.5984937911212901
+    },
+    {
+      "name": "macroscale hydrological models",
+      "label": "model",
+      "description": "Large-scale models used to simulate and predict hydrological processes, such as streamflow and water balance, over extensive areas",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5126791513889057
+    },
+    {
+      "name": "hydrological applications",
+      "label": "project",
+      "description": "The use of hydrological knowledge and models for practical purposes, such as water resource management and flood control",
+      "uuid": "764e3842-9c3c-4d01-a390-fbccfaa81884",
+      "score": 0.5228440384819446
+    },
+    {
+      "name": "Earth's land surface",
+      "label": "location",
+      "description": "The solid surface of the planet, excluding oceans and other bodies of water",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.6587141385070274
+    },
+    {
+      "name": "aquatic habitats",
+      "label": "location",
+      "description": "Areas of water, such as rivers, lakes, and wetlands, that support plant and animal life",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6182222589822288
+    },
+    {
+      "name": "recreation",
+      "label": "project",
+      "description": "Human activities, such as fishing and boating, that take place in or near water bodies",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.5813440393674186
+    },
+    {
+      "name": "hydropower production",
+      "label": "project",
+      "description": "The generation of electricity from the energy of moving water, such as in rivers and ocean tides",
+      "uuid": "7eba0eef-3a30-4282-a162-1f483370ddc4",
+      "score": 0.6335215203804268
+    },
+    {
+      "name": "irrigation systems",
+      "label": "project",
+      "description": "The artificial application of water to land or soil to support plant growth, often used in agriculture",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6609225805984287
+    },
+    {
+      "name": "sediment and contaminant transport",
+      "label": "project",
+      "description": "The movement of sediment and contaminants, such as pollutants and nutrients, through water bodies and landscapes",
+      "uuid": "0c33b48d-1dd1-4309-bcd4-1ce3d0e24b46",
+      "score": 0.6357788568771195
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, such as rain, snow, and hail",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6967467077581908
+    },
+    {
+      "name": "calibration",
+      "label": "experiment",
+      "description": "The process of adjusting model parameters to match observed data, ensuring that the model accurately represents real-world processes",
+      "uuid": "ecf29317-bd5e-447b-b911-f8bfb153c83b",
+      "score": 0.6240511274205576
+    }
+  ],
+  "(2422, 5081)": [
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "An area of land that drains water into a common outlet, such as a river or lake",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5485997297582526
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including mountains, valleys, and other landforms",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6779993330998945
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical material at the land surface, including vegetation, soil, water, and human-made structures",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6435428569689926
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, and supporting plant growth",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6399263272603355
+    },
+    {
+      "name": "geology",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes, including rocks, minerals, and landforms",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.6204321062036774
+    },
+    {
+      "name": "calibration",
+      "label": "experiment",
+      "description": "The process of adjusting model parameters to match observed data, in order to improve the accuracy of model predictions",
+      "uuid": "7995f479-ea09-43f2-b48f-a3ea7e9a8bcd",
+      "score": 0.6121124924390312
+    },
+    {
+      "name": "regression",
+      "label": "model",
+      "description": "A statistical method used to establish relationships between variables, often used in empirical models to predict Q characteristics",
+      "uuid": "0d42ba19-5ce7-4840-a1b3-5a8341bcc272",
+      "score": 0.5446967772678711
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, an important factor in the water cycle",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6535053932753724
+    },
+    {
+      "name": "baseflow-related Q characteristics",
+      "label": "variable",
+      "description": "Indices that quantify various characteristics of the Q regime, including baseflow, which is the portion of streamflow that comes from groundwater",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5962564246994155
+    },
+    {
+      "name": "macroscale hydrological models",
+      "label": "model",
+      "description": "Computational representations of hydrological processes used to simulate and predict water flow, often at large spatial scales",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5257908758714218
+    }
+  ],
+  "(4521, 7041)": [
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The average atmospheric conditions in a particular region, including temperature, precipitation, and other meteorological factors",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5121655802461222
+    },
+    {
+      "name": "physiographic characteristics",
+      "label": "variable",
+      "description": "Geographical features and properties of the land surface, such as elevation, slope, and land cover, that influence streamflow and hydrological processes",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5517261029212204
+    },
+    {
+      "name": "macroscale hydrological models",
+      "label": "model",
+      "description": "Large-scale computational models used to simulate and predict hydrological processes, including streamflow and water balance, at the global or continental scale",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5234356692019693
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers, which is influenced by climate, physiographic characteristics, and other factors",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.555696174688581
+    },
+    {
+      "name": "base flow",
+      "label": "variable",
+      "description": "The slowly varying portion of streamflow, including slow runoff components such as snow and ice melt and the outflow from surface-water bodies",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6907274859665093
+    },
+    {
+      "name": "peak flow",
+      "label": "variable",
+      "description": "The maximum flow rate in a stream or river, often occurring during heavy rainfall or snowmelt events",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.7767417929568683
+    },
+    {
+      "name": "surface-water bodies",
+      "label": "location",
+      "description": "Lakes, reservoirs, and other bodies of water that store and regulate streamflow",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6293791081909945
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, often occurring during heavy rainfall or snowmelt events",
+      "uuid": "c6cef513-7c32-4b3a-beed-f09dd790933b",
+      "score": 0.6402199448409062
+    },
+    {
+      "name": "long-term base flow",
+      "label": "variable",
+      "description": "The average base flow over a long period of time, often used to characterize the hydrological behavior of a stream or river",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5849212457016785
+    }
+  ],
+  "(6633, 9178)": [
+    {
+      "name": "precipitation P",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, a crucial factor in determining climate and water availability",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6512731150187292
+    },
+    {
+      "name": "soil-related predictors",
+      "label": "variable",
+      "description": "Factors related to the composition and properties of soil, such as sand, silt, and clay content, influencing water infiltration and retention",
+      "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
+      "score": 0.5308395591039896
+    },
+    {
+      "name": "surface slope SLO",
+      "label": "variable",
+      "description": "The angle of inclination of the Earth's surface, affecting runoff, erosion, and water flow",
+      "uuid": "aeb02243-583f-444e-a2a4-341ab351a3d8",
+      "score": 0.560927192644202
+    },
+    {
+      "name": "base flow",
+      "label": "variable",
+      "description": "The component of streamflow that comes from groundwater, maintaining a steady flow between rainfall events",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.7062715725919778
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter, supporting plant growth and influencing water and nutrient cycles",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6483506611902343
+    },
+    {
+      "name": "reservoirs",
+      "label": "location",
+      "description": "Artificial lakes or storage areas for water, used for irrigation, drinking water supply, and hydroelectric power generation",
+      "uuid": "3d64f625-fb84-4178-ad08-4be2dd15979b",
+      "score": 0.5698967908651357
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical characteristics of the Earth's surface, including vegetation, urban areas, and water bodies, influencing climate, hydrology, and ecosystems",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6564716189488243
+    },
+    {
+      "name": "glaciers",
+      "label": "location",
+      "description": "Large, perennial accumulations of ice and snow, formed on land by the accumulation and compaction of snow over time, influencing global sea levels and climate",
+      "uuid": "4a426aab-4a95-4bf4-8449-19a72a251541",
+      "score": 0.6804836673932234
+    },
+    {
+      "name": "air temperature TA",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, a fundamental factor in determining climate and weather patterns",
+      "uuid": "0844a959-8ce0-4065-bef4-ee180a346445",
+      "score": 0.7050908135108845
+    },
+    {
+      "name": "geology",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes, including the formation of rocks, minerals, and landscapes",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.6195029026390867
+    },
+    {
+      "name": "permafrost abundance PF",
+      "label": "variable",
+      "description": "The amount of permanently frozen ground in a given area, influencing ecosystems, hydrology, and climate",
+      "uuid": "369c608c-787a-4ca6-8811-cc8eca7447d5",
+      "score": 0.6289019353371191
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, comprising a diverse range of climates, landscapes, and ecosystems",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7202282361621547
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country in the southwestern Pacific Ocean, known for its unique biodiversity, geology, and climate",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.7005129801264052
+    },
+    {
+      "name": "SoilGrids1km",
+      "label": "provider",
+      "description": "A global soil information system providing detailed data on soil properties and characteristics",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5599716809794916
+    }
+  ],
+  "(8714, 11349)": [
+    {
+      "name": "SoilGrids1km",
+      "label": "project",
+      "description": "A global gridded soil information system that provides detailed soil property data, including content of silt, clay, and other soil characteristics",
+      "uuid": "fb27559f-a2af-4fb5-960d-4635e13fecea",
+      "score": 0.5577485246585878
+    },
+    {
+      "name": "GAUGES II",
+      "label": "project",
+      "description": "The Geospatial Attributes of Gages for Evaluating Streamflow, version II, a dataset providing daily streamflow and catchment boundary data for U.S. stations",
+      "uuid": "9bd0a7b8-bb67-4b44-b2bc-cf975f93ea10",
+      "score": 0.5206254781306625
+    },
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a scientific agency that provides data and information on the nation's natural resources, including water resources and streamflow data",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6604649771485728
+    },
+    {
+      "name": "irrigation",
+      "label": "variable",
+      "description": "The artificial application of water to land or soil to support plant growth, often used in agriculture",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.717951896445155
+    },
+    {
+      "name": "snowfall",
+      "label": "variable",
+      "description": "The amount of snow that falls in a given area over a specific period, often used to study climate and hydrological patterns",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.7265641706270302
+    },
+    {
+      "name": "snow water equivalent depth SNOW",
+      "label": "variable",
+      "description": "The depth of water that would result from melting the snowpack in a given area, often used to study snowpack and hydrological processes",
+      "uuid": "587e4d68-36f0-45b5-9978-4b3edd58a1c0",
+      "score": 0.7205192447610929
+    },
+    {
+      "name": "humidity index",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, often used to study climate and weather patterns",
+      "uuid": "cdd7a31f-3244-494d-bc44-7b5f1ebb4bd7",
+      "score": 0.7622956797082222
+    },
+    {
+      "name": "permafrost abundance PF",
+      "label": "variable",
+      "description": "The amount of permafrost, or soil and rock that remains frozen for two or more consecutive years, in a given area",
+      "uuid": "369c608c-787a-4ca6-8811-cc8eca7447d5",
+      "score": 0.6652777524899602
+    },
+    {
+      "name": "glaciers",
+      "label": "variable",
+      "description": "Large, perennial accumulations of crystalline ice on land, often used to study climate change and hydrological processes",
+      "uuid": "4a426aab-4a95-4bf4-8449-19a72a251541",
+      "score": 0.6751416293776737
+    },
+    {
+      "name": "GlobCover",
+      "label": "project",
+      "description": "A global land cover mapping project that provides data on land cover types, including artificial areas and natural vegetation",
+      "uuid": "3ced2adf-ad4a-45ab-a043-4b02ccae0463",
+      "score": 0.5588714172323429
+    },
+    {
+      "name": "Global Irrigated Area Map",
+      "label": "project",
+      "description": "A dataset that provides information on irrigated areas around the world, often used to study water resources and agricultural practices",
+      "uuid": "59b3849e-6704-402f-9a3e-512db10c2f51",
+      "score": 0.5026241825143637
+    },
+    {
+      "name": "QMEAN",
+      "label": "variable",
+      "description": "The mean annual streamflow, often used to study hydrological processes and water resources",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5185384377049417
+    },
+    {
+      "name": "fS",
+      "label": "variable",
+      "description": "The fraction of snow cover in a given area, often used to study snowpack and hydrological processes",
+      "uuid": "6a08f79f-a621-4f8c-b5d5-e1335f9cbcec",
+      "score": 0.5503044249924053
+    }
+  ],
+  "(10920, 13477)": [
+    {
+      "name": "irrigation",
+      "label": "instrument",
+      "description": "A method of artificial application of water to land or soil to assist in growing agricultural crops, maintenance of landscapes, and revegetation of disturbed soils",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.6911641562602326
+    },
+    {
+      "name": "hydrological models",
+      "label": "model",
+      "description": "A computational representation of the hydrological cycle and related processes, used to simulate and predict water flow, quality, and availability",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.6131344149300003
+    },
+    {
+      "name": "PRISM",
+      "label": "model",
+      "description": "The Parameter-Elevation Regressions on Independent Slopes Model, a statistical model used to generate gridded climate data, including precipitation and temperature, for specific regions",
+      "uuid": "01c9697d-3685-430a-b4f5-2b291a1c5514",
+      "score": 0.623057284197078
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water transforms from a liquid state into a vapor or gas state, an important component of the hydrological cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.69270995869337
+    },
+    {
+      "name": "GlobCover",
+      "label": "project",
+      "description": "A project providing global land cover maps, used to classify land into different categories such as urban, forest, or agricultural areas",
+      "uuid": "3ced2adf-ad4a-45ab-a043-4b02ccae0463",
+      "score": 0.5889260249365895
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6253118140719884
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country located in the southwestern Pacific Ocean, known for its diverse geography and climate",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.7074820105774884
+    },
+    {
+      "name": "WorldClim",
+      "label": "project",
+      "description": "A project providing global climate data, including temperature and precipitation, at a high spatial resolution",
+      "uuid": "1840f198-7392-4525-982b-e3ac47f84780",
+      "score": 0.6162284866422805
+    },
+    {
+      "name": "neural networks",
+      "label": "model",
+      "description": "A type of machine learning model inspired by the structure and function of the human brain, used for tasks such as classification, regression, and feature learning",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.7660732746670271
+    }
+  ],
+  "(12943, 15351)": [
+    {
+      "name": "Noah-GLDAS",
+      "label": "model",
+      "description": "A hydrological model based on the Noah LSM, version 2.7.1, driven by the Global Land Data Assimilation System (GLDAS",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.6515999914552439
+    },
+    {
+      "name": "W3RA-Princeton",
+      "label": "model",
+      "description": "A global hydrological model (GHM) based on the World-Wide Water Resources Assessment (W3RA) GHM, version 1, driven by the Sheffield et al. (2006) meteorological dataset",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5031848319098019
+    },
+    {
+      "name": "Global Precipitation Climatology Project",
+      "label": "project",
+      "description": "An initiative to provide a global precipitation dataset, version 2.1",
+      "uuid": "502ea6bd-45e9-45af-9092-a4cbe6ba2e7e",
+      "score": 0.7099295502952946
+    },
+    {
+      "name": "ERA-Interim",
+      "label": "project",
+      "description": "A reanalysis project that provides atmospheric data, including temperature, humidity, and wind, from 1979 to 2010",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.7390574656927401
+    },
+    {
+      "name": "Global Land Data Assimilation System",
+      "label": "project",
+      "description": "A system that provides global land surface data, including soil moisture, temperature, and precipitation, from 2000 to present",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.6709297348115764
+    },
+    {
+      "name": "NASA Goddard Earth Sciences",
+      "label": "provider",
+      "description": "A research center that provides data and information services for Earth sciences, including hydrology and climate studies",
+      "uuid": "55b96cec-e649-44c4-b79c-b9e21921d3a6",
+      "score": 0.6325872857717462
+    },
+    {
+      "name": "Princeton University",
+      "label": "provider",
+      "description": "An academic institution that provides research and education in various fields, including Earth sciences and hydrology",
+      "uuid": "b370b76f-6c46-4aeb-b3ed-4ff3bde74816",
+      "score": 0.605267526170864
+    },
+    {
+      "name": "catchments",
+      "label": "location",
+      "description": "Areas of land that drain water into a common outlet, such as a river or lake",
+      "uuid": "97a71326-75ac-422f-941e-c0c2897dd46b",
+      "score": 0.5446974605368483
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, often measured in terms of discharge or volume",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5546616352843469
+    }
+  ],
+  "(14861, 17926)": [
+    {
+      "name": "Sheffield et al. (2006)",
+      "label": "dataset",
+      "description": "A meteorological dataset developed at Princeton University, used for climate and hydrological studies",
+      "uuid": "744f9ebe-ade5-490e-b402-3232dab7b767",
+      "score": 0.5331102577163116
+    },
+    {
+      "name": "Princeton University",
+      "label": "provider",
+      "description": "An academic institution that develops and manages various climate and meteorological datasets",
+      "uuid": "234dc38e-886f-4068-a36e-3dae0b7faf59",
+      "score": 0.5886130472325365
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "A region of land that drains water into a common outlet, often used in hydrological studies",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5739925571259047
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "Atmospheric conditions that prevail in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5071916875647363
+    },
+    {
+      "name": "neural network ensembles",
+      "label": "model",
+      "description": "A type of machine learning algorithm used to estimate the Q characteristics based on climate and physiographic characteristics",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.561840314170777
+    }
+  ],
+  "(17380, 20100)": [
+    {
+      "name": "neural network ensembles",
+      "label": "model",
+      "description": "A sophisticated computer simulation that integrates physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.5654936939850189
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "A place on Earth, a location within Earth, a vertical location, or a location outside of the Earth",
+      "uuid": "90761f8d-6abe-499c-b711-acec394daa59",
+      "score": 0.7022527111632603
+    },
+    {
+      "name": "GLDAS",
+      "label": "model",
+      "description": "The Global Land Data Assimilation System, a system used to generate optimal fields of land surface states and fluxes",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.8012981808628714
+    },
+    {
+      "name": "ice-free land surface",
+      "label": "location",
+      "description": "A place on Earth, a location within Earth, a vertical location, or a location outside of the Earth",
+      "uuid": "90761f8d-6abe-499c-b711-acec394daa59",
+      "score": 0.610560746711126
+    },
+    {
+      "name": "GSHHS",
+      "label": "dataset",
+      "description": "The Global Self-Consistent, Hierarchical, High-Resolution Shoreline dataset, used for defining ocean boundaries",
+      "uuid": "3e43f5d8-3797-48ec-8160-f4344dccf794",
+      "score": 0.5597208852556131
+    },
+    {
+      "name": "WWF",
+      "label": "provider",
+      "description": "The World Wildlife Fund, an international organization focused on conservation and environmental protection",
+      "uuid": "fa08527f-f130-441f-9b5d-f2a973dfcc36",
+      "score": 0.6936519347447578
+    },
+    {
+      "name": "GLWD",
+      "label": "dataset",
+      "description": "The Global Lakes and Wetlands Database, used for excluding large inland water bodies",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.5181974159132469
+    },
+    {
+      "name": "Noah-GLDAS",
+      "label": "model",
+      "description": "A land surface model used for simulating land surface processes and predicting climate-related variables",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.6470137902842384
+    },
+    {
+      "name": "PCR-GLOBWB-ERAI",
+      "label": "model",
+      "description": "A global hydrological model used for simulating water flow and predicting climate-related variables",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.5004022753869121
+    },
+    {
+      "name": "W3RA-Princeton",
+      "label": "model",
+      "description": "A global hydrological model used for simulating water flow and predicting climate-related variables",
+      "uuid": "d464cc53-e485-4f4e-8dbc-264ef96931c5",
+      "score": 0.5126285133046135
+    },
+    {
+      "name": "snowfall",
+      "label": "variable",
+      "description": "A quantity or a characteristic that can be measured or observed in climate experiments",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.7203748805632727
+    }
+  ],
+  "(19647, 22312)": [
+    {
+      "name": "Noah-GLDAS",
+      "label": "model",
+      "description": "A macroscale hydrological model used for simulating streamflow and other hydrological processes",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.5990676784203967
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and density",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.7709094584092047
+    },
+    {
+      "name": "GLDAS",
+      "label": "project",
+      "description": "The Global Land Data Assimilation System, a project that provides data and models for land surface processes",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.8303199511649899
+    },
+    {
+      "name": "snowfall",
+      "label": "variable",
+      "description": "The amount of snow that falls in a given area over a certain period of time",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.7044672846990861
+    },
+    {
+      "name": "topography and land cover",
+      "label": "location",
+      "description": "The physical features of the Earth's surface, including hills, valleys, and land use patterns",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6268584596948619
+    },
+    {
+      "name": "soil-related predictors",
+      "label": "variable",
+      "description": "Measures of soil properties, such as clay content, used to predict hydrological processes",
+      "uuid": "fb27559f-a2af-4fb5-960d-4635e13fecea",
+      "score": 0.5406180533028657
+    },
+    {
+      "name": "soils",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, composed of mineral and organic matter",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6289747345490292
+    },
+    {
+      "name": "geology",
+      "label": "location",
+      "description": "The study of the Earth's physical structure, composition, and processes",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.6107961315033242
+    }
+  ],
+  "(22005, 24360)": [
+    {
+      "name": "BFI4",
+      "label": "variable",
+      "description": "The base flow index, a measure of the proportion of river flow that is sustained during dry periods",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5397451828926818
+    },
+    {
+      "name": "PET",
+      "label": "variable",
+      "description": "Potential evapotranspiration, a measure of the amount of water that could evaporate from the land surface if there was enough water available",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6702589785249886
+    },
+    {
+      "name": "TA",
+      "label": "variable",
+      "description": "Temperature, an important factor influencing climate and hydrological processes",
+      "uuid": "0844a959-8ce0-4065-bef4-ee180a346445",
+      "score": 0.6255398548547345
+    },
+    {
+      "name": "ELEV",
+      "label": "variable",
+      "description": "Elevation, a topographic feature that affects climate, hydrology, and ecosystems",
+      "uuid": "74ed1690-968e-444c-8a31-7b8344a2aad3",
+      "score": 0.5429228402237424
+    },
+    {
+      "name": "fS",
+      "label": "variable",
+      "description": "Soil moisture, an important factor influencing hydrological processes and climate variability",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.5860020261419706
+    },
+    {
+      "name": "CLAY",
+      "label": "variable",
+      "description": "A type of soil texture that affects water infiltration and retention",
+      "uuid": "295a6644-6fa6-460f-950a-b1e6c380c7dc",
+      "score": 0.5510633069054592
+    },
+    {
+      "name": "AI",
+      "label": "variable",
+      "description": "Aridity index, a measure of the degree of dryness of the climate",
+      "uuid": "07826fba-f581-4119-803e-14f3bfc2d14c",
+      "score": 0.5017015421151538
+    },
+    {
+      "name": "P trans",
+      "label": "variable",
+      "description": "Precipitation, an important input for hydrological models and a key factor influencing climate and water resources",
+      "uuid": "aab15612-f050-4ec0-9bb1-f72eb5bf0e44",
+      "score": 0.5900919480114076
+    },
+    {
+      "name": "SLO",
+      "label": "variable",
+      "description": "Slope, a topographic feature that affects hydrological processes and ecosystems",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.550581793522912
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "Normalized difference vegetation index, a measure of vegetation health and productivity",
+      "uuid": "2297a00a-80f5-466e-b28e-b9ca42562d3f",
+      "score": 0.7796075289457732
+    },
+    {
+      "name": "Q1-Q99",
+      "label": "variable",
+      "description": "Streamflow characteristics, including low and high flow events",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5038733374811055
+    },
+    {
+      "name": "QMEAN",
+      "label": "variable",
+      "description": "The mean streamflow, an important characteristic of a river's hydrology",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5155866125088975
+    },
+    {
+      "name": "neural networks",
+      "label": "model",
+      "description": "A type of machine learning algorithm used for predicting streamflow characteristics",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.660108015769124
+    },
+    {
+      "name": "macroscale hydrological models",
+      "label": "model",
+      "description": "Large-scale models used to simulate hydrological processes and predict streamflow characteristics",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5128569442654465
+    },
+    {
+      "name": "central Africa",
+      "label": "location",
+      "description": "A region in Africa characterized by high levels of biodiversity and complex hydrological systems",
+      "uuid": "f2ffbe58-8792-413b-805b-3e1c8de1c6ff",
+      "score": 0.6274106830247871
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent with diverse hydrological systems and climate conditions",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6401376131831887
+    },
+    {
+      "name": "western United States",
+      "label": "location",
+      "description": "A region in the United States characterized by mountainous terrain and complex hydrological systems",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.6763076950106242
+    },
+    {
+      "name": "northern Europe",
+      "label": "location",
+      "description": "A region in Europe characterized by cold climates and complex hydrological systems",
+      "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+      "score": 0.6994571119770772
+    },
+    {
+      "name": "Amazon basin",
+      "label": "location",
+      "description": "A region in South America characterized by high levels of biodiversity and complex hydrological systems",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.5408449359605688
+    }
+  ],
+  "(23867, 26460)": [
+    {
+      "name": "central Africa",
+      "label": "location",
+      "description": "A region in Africa characterized by its tropical climate and diverse geography, including savannas, forests, and mountain ranges",
+      "uuid": "f2ffbe58-8792-413b-805b-3e1c8de1c6ff",
+      "score": 0.6838940589097803
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, encompassing a diverse range of climates, geography, and ecosystems",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7295855625877579
+    },
+    {
+      "name": "western United States",
+      "label": "location",
+      "description": "A region in the United States known for its mountain ranges, deserts, and coastal areas, with a diverse climate and geography",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.7162398512743311
+    },
+    {
+      "name": "northern Europe",
+      "label": "location",
+      "description": "A region in Europe characterized by its temperate climate, with countries such as Norway, Sweden, and Finland",
+      "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+      "score": 0.7291789472448916
+    },
+    {
+      "name": "eastern part of the Amazon basin",
+      "label": "location",
+      "description": "A region in South America, part of the larger Amazon basin, known for its tropical rainforest and diverse wildlife",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.5222424271881754
+    },
+    {
+      "name": "Amazon",
+      "label": "location",
+      "description": "A region in South America, known for its tropical rainforest, diverse wildlife, and large river basin",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.5948560176367695
+    },
+    {
+      "name": "maritime Southeast Asia",
+      "label": "location",
+      "description": "A region in Southeast Asia, characterized by its coastal geography, tropical climate, and diverse cultures",
+      "uuid": "9ea81338-dc64-4803-b0e2-db0e2aaa70cf",
+      "score": 0.5530386067496303
+    },
+    {
+      "name": "Andes",
+      "label": "location",
+      "description": "A mountain range in South America, stretching through several countries, including Chile, Argentina, and Peru, and known for its diverse geography and climates",
+      "uuid": "da26d486-1ee6-4689-abe9-5a59b2d572b1",
+      "score": 0.500319815302412
+    },
+    {
+      "name": "BFI4",
+      "label": "variable",
+      "description": "A measure of the base flow index, used to characterize the hydrological properties of a catchment or river basin",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5171513323721697
+    },
+    {
+      "name": "Q1-Q99",
+      "label": "variable",
+      "description": "A range of measures of the flow or discharge of a river or stream, often used in hydrological studies",
+      "uuid": "36a2999b-2255-4d4e-a249-40df3b7b3aaf",
+      "score": 0.5114512461151985
+    },
+    {
+      "name": "intermittent and ephemeral streams",
+      "label": "natural hazard",
+      "description": "Streams that flow only during certain times of the year or in response to specific weather events, and can pose a risk to human settlements and infrastructure",
+      "uuid": "5f76c978-1c8a-496e-bc6a-78ff7656f014",
+      "score": 0.6281554502548137
+    },
+    {
+      "name": "arid regions",
+      "label": "location",
+      "description": "Regions characterized by low precipitation and high evaporation rates, often found in deserts or dry areas",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.5277171908830683
+    },
+    {
+      "name": "tropical regions",
+      "label": "location",
+      "description": "Regions near the equator, characterized by high temperatures and high levels of precipitation throughout the year",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.6266443342560728
+    },
+    {
+      "name": "polar regions",
+      "label": "location",
+      "description": "Regions near the North or South Pole, characterized by cold temperatures and limited precipitation",
+      "uuid": "3fedcf7c-7b0c-4b51-abd2-2c54de713061",
+      "score": 0.6254954861562222
+    }
+  ],
+  "(26051, 28497)": [
+    {
+      "name": "ET",
+      "label": "climate type",
+      "description": "Polar, tundra climate type",
+      "uuid": "46ecf46f-a710-4589-82b2-34aebf35c3c0",
+      "score": 0.5313194437662085
+    },
+    {
+      "name": "RC",
+      "label": "variable",
+      "description": "A quantity or characteristic that can be measured or observed in climate experiments, representing the ratio of a specific climate-related event",
+      "uuid": "0ed5091e-682e-484b-8a28-7d421ea23935",
+      "score": 0.5030312923767938
+    },
+    {
+      "name": "arid regions",
+      "label": "location",
+      "description": "A region on Earth characterized by minimal precipitation and sparse vegetation",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.5537677815014509
+    },
+    {
+      "name": "polar climate type ET",
+      "label": "location",
+      "description": "A region on Earth characterized by cold temperatures and limited vegetation, often found at high latitudes",
+      "uuid": "3fedcf7c-7b0c-4b51-abd2-2c54de713061",
+      "score": 0.5477130028520291
+    },
+    {
+      "name": "Noah-GLDAS",
+      "label": "model",
+      "description": "A macroscale hydrological model used for simulating and predicting water flow and climate-related phenomena",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.6128866630944197
+    },
+    {
+      "name": "taiga regions",
+      "label": "location",
+      "description": "A region on Earth characterized by coniferous forests and cold temperatures",
+      "uuid": "cafa8131-4a2d-4c8b-811c-0d64adf5fc06",
+      "score": 0.5773466671755895
+    },
+    {
+      "name": "tropical regions",
+      "label": "location",
+      "description": "A region on Earth characterized by high temperatures and high levels of precipitation",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.6424554559153192
+    },
+    {
+      "name": "Rocky Mountains",
+      "label": "location",
+      "description": "A mountain range in North America, known for its unique geological features and climate patterns",
+      "uuid": "d162711e-4c48-4f27-8878-68dc80325f48",
+      "score": 0.5040117460129045
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent on Earth, characterized by diverse climate patterns and geographical features",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6873983937267317
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The surface of the Earth, including land and water bodies",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.7053742033938509
+    }
+  ],
+  "(28106, 30383)": [
+    {
+      "name": "PCR-GLOBWB-ERAI",
+      "label": "model",
+      "description": "A global hydrological model that simulates water fluxes and storages at the land surface",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.5087233963022038
+    },
+    {
+      "name": "Noah-GLDAS",
+      "label": "model",
+      "description": "A land surface model that simulates hydrological processes, including evapotranspiration and runoff",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.6379377930405545
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies north of the equator, encompassing a diverse range of climates and geographical features",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7754591505711191
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The outermost solid surface of the planet, encompassing all terrestrial environments and ecosystems",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.6964197492084649
+    },
+    {
+      "name": "GLDAS",
+      "label": "project",
+      "description": "The Global Land Data Assimilation System, a project that provides high-resolution data on land surface conditions and hydrological processes",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.8304019128888301
+    },
+    {
+      "name": "Himalayas",
+      "label": "location",
+      "description": "A mountain range in Asia, known for its significant impact on regional climate patterns, hydrology, and ecosystems",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.6503727373004499
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers, an important component of the hydrological cycle",
+      "uuid": "01a84bc1-a571-4d23-b57f-1b04fd9542a6",
+      "score": 0.5508002053424822
+    },
+    {
+      "name": "PET",
+      "label": "variable",
+      "description": "Potential evapotranspiration, a measure of the amount of water that could evaporate from the land surface if it were available",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6717949012422729
+    },
+    {
+      "name": "BFI4",
+      "label": "variable",
+      "description": "The base flow index, a measure of the proportion of base flow in a stream's discharge",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5402211059927712
+    },
+    {
+      "name": "TA",
+      "label": "variable",
+      "description": "The mean annual temperature, an important factor influencing hydrological processes and streamflow characteristics",
+      "uuid": "0844a959-8ce0-4065-bef4-ee180a346445",
+      "score": 0.5561656658941964
+    },
+    {
+      "name": "fS",
+      "label": "variable",
+      "description": "The fraction of sand in the soil, affecting infiltration and runoff generation",
+      "uuid": "04cbeec4-3c7c-4da6-a573-0a7fcf10ea82",
+      "score": 0.5995597505921483
+    },
+    {
+      "name": "AI",
+      "label": "variable",
+      "description": "The aridity index, a measure of the ratio of precipitation to potential evapotranspiration",
+      "uuid": "cdd7a31f-3244-494d-bc44-7b5f1ebb4bd7",
+      "score": 0.5043472770720265
+    },
+    {
+      "name": "SAND",
+      "label": "variable",
+      "description": "The proportion of sand in the soil, influencing infiltration and runoff generation",
+      "uuid": "04cbeec4-3c7c-4da6-a573-0a7fcf10ea82",
+      "score": 0.5800291154484021
+    },
+    {
+      "name": "CLAY",
+      "label": "variable",
+      "description": "The proportion of clay in the soil, affecting infiltration and runoff generation",
+      "uuid": "295a6644-6fa6-460f-950a-b1e6c380c7dc",
+      "score": 0.6101134978352679
+    }
+  ],
+  "(29985, 32418)": [
+    {
+      "name": "snowfall",
+      "label": "weather event",
+      "description": "A type of precipitation in the form of snow, influencing climate conditions and water balance",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.6777675437745136
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to Earth's surface, a key component of the water cycle and climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6854370461329619
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, which plays a crucial role in the Earth's climate system, influencing factors such as evaporation and carbon sequestration",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.667679649053555
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure used to assess vegetation health and productivity",
+      "uuid": "7b43eda3-899a-4afa-89be-2dbe527834c2",
+      "score": 0.773292546035678
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, an important factor in the Earth's water and energy balance",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.700963603642654
+    },
+    {
+      "name": "vegetation productivity",
+      "label": "variable",
+      "description": "The rate at which vegetation grows and produces biomass, influenced by factors such as temperature, precipitation, and sunlight",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5656706309077011
+    }
+  ],
+  "(31974, 34509)": [
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The study of the shape and features of the Earth's surface, including elevation, slope, and landforms",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6788736809695781
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The outermost layer of the Earth's surface, consisting of a mixture of mineral and organic matter, supporting plant growth and influencing hydrological processes",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6516969801351623
+    },
+    {
+      "name": "vegetation",
+      "label": "variable",
+      "description": "Plant life, including trees, grasses, and other flora, that cover the Earth's surface and play a crucial role in the climate system",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6752840384374837
+    },
+    {
+      "name": "climate indices",
+      "label": "variable",
+      "description": "Quantitative measures used to describe and analyze climate patterns, such as temperature, precipitation, and sea level pressure",
+      "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
+      "score": 0.6732332032400327
+    },
+    {
+      "name": "geology",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes, including the formation of rocks, minerals, and landforms",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.6200160942962095
+    },
+    {
+      "name": "NDVI",
+      "label": "variable",
+      "description": "The Normalized Difference Vegetation Index, a measure of vegetation health and productivity derived from satellite imagery",
+      "uuid": "2297a00a-80f5-466e-b28e-b9ca42562d3f",
+      "score": 0.7737456614586643
+    },
+    {
+      "name": "vegetation productivity",
+      "label": "variable",
+      "description": "The rate at which vegetation grows and produces biomass, influenced by factors such as climate, soil, and water availability",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.5741112740049762
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical characteristics of the Earth's surface, including vegetation, soil, water, and human-made features",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6563459967313136
+    },
+    {
+      "name": "GLDAS",
+      "label": "model",
+      "description": "The Global Land Data Assimilation System, a model used to simulate and predict land surface processes, including hydrology and vegetation dynamics",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.8000806819478331
+    },
+    {
+      "name": "air temperature",
+      "label": "variable",
+      "description": "The temperature of the air near the Earth's surface, an important factor influencing climate and weather patterns",
+      "uuid": "f634ab55-de40-4d0b-93bc-691bf5408ccb",
+      "score": 0.6640912093888152
+    },
+    {
+      "name": "Noah-GLDAS",
+      "label": "model",
+      "description": "A land surface model used to simulate and predict hydrological and energy fluxes, forced by GLDAS data",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.6393028704457456
+    },
+    {
+      "name": "PCR-GLOBWB-ERAI",
+      "label": "model",
+      "description": "A global hydrological model used to simulate and predict water fluxes, forced by ERA-Interim reanalysis data",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.5173110523012961
+    }
+  ],
+  "(34201, 36378)": [
+    {
+      "name": "GLDAS",
+      "label": "project",
+      "description": "The Global Land Data Assimilation System, a project that generates global land surface datasets for climate modeling and research",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.8309376866494335
+    },
+    {
+      "name": "W3RA-Princeton",
+      "label": "model",
+      "description": "A global hydrological model developed by Princeton University, used for simulating water resources and climate-related variables",
+      "uuid": "d464cc53-e485-4f4e-8dbc-264ef96931c5",
+      "score": 0.5081984473695182
+    },
+    {
+      "name": "Noah-GLDAS",
+      "label": "model",
+      "description": "A land surface model used in conjunction with the GLDAS project to simulate land surface processes and hydrology",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.6498140332933438
+    },
+    {
+      "name": "BFI4",
+      "label": "variable",
+      "description": "The base flow index, a measure of the proportion of streamflow that is base flow, used in hydrological studies",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5491238902617904
+    },
+    {
+      "name": "QMEAN",
+      "label": "variable",
+      "description": "The mean annual streamflow, a measure of the average flow of water in a river or stream over a year",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5329745683304478
+    }
+  ],
+  "(36026, 38250)": [
+    {
+      "name": "GLDAS",
+      "label": "project",
+      "description": "The Global Land Data Assimilation System, a project that provides datasets and models for land surface processes and hydrology",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.8328043781411241
+    },
+    {
+      "name": "Noah",
+      "label": "model",
+      "description": "A land surface model used for simulating water and energy cycles, often used in conjunction with other models like GLDAS",
+      "uuid": "d92e3dca-7aeb-4cc1-9dc0-571844337222",
+      "score": 0.6598846173391446
+    },
+    {
+      "name": "slope",
+      "label": "variable",
+      "description": "A measure of the inclination or steepness of a land surface, often used as an input or parameter in hydrological models",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.6167067405666294
+    },
+    {
+      "name": "catchment",
+      "label": "location",
+      "description": "A region of land that drains water into a common outlet, often used as a unit of study in hydrology and water resources management",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5743654022904205
+    },
+    {
+      "name": "PET",
+      "label": "variable",
+      "description": "The potential evapotranspiration, a measure of the amount of water that could evaporate from a surface if it were completely covered with water",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.6634036434068865
+    },
+    {
+      "name": "P",
+      "label": "variable",
+      "description": "The precipitation, a measure of the amount of water that falls to the ground as rain, snow, or other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6505280728863337
+    },
+    {
+      "name": "SLO",
+      "label": "variable",
+      "description": "A measure of the slope or inclination of a land surface, often used as an input or parameter in hydrological models",
+      "uuid": "0d209f3c-73b1-412d-828b-22b25da8fc3a",
+      "score": 0.5205663505897453
+    },
+    {
+      "name": "CLAY",
+      "label": "variable",
+      "description": "A measure of the proportion of clay particles in the soil, often used as an input or parameter in hydrological models",
+      "uuid": "295a6644-6fa6-460f-950a-b1e6c380c7dc",
+      "score": 0.6825004102271816
+    },
+    {
+      "name": "SILT",
+      "label": "variable",
+      "description": "A measure of the proportion of silt particles in the soil, often used as an input or parameter in hydrological models",
+      "uuid": "06d12e44-55b6-488e-92fd-28fdc6a2ca06",
+      "score": 0.6545222415017645
+    }
+  ],
+  "(37934, 39970)": [
+    {
+      "name": "HTESSEL-ERAIR",
+      "label": "model",
+      "description": "A coupled climate model that integrates the HTESSEL land surface model with the ERA-Interim reanalysis dataset",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.506069412997615
+    },
+    {
+      "name": "Noah-GLDAS",
+      "label": "model",
+      "description": "A coupled climate model that integrates the Noah land surface model with the GLDAS reanalysis dataset",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.6215648244249121
+    },
+    {
+      "name": "PCR-GLOBWB-ERAI",
+      "label": "model",
+      "description": "A coupled climate model that integrates the PCR-GLOBWB hydrological model with the ERA-Interim reanalysis dataset",
+      "uuid": "bbd90aa4-fe5e-4580-a51d-90d7568a9fee",
+      "score": 0.5416441692227736
+    },
+    {
+      "name": "W3RA-Princeton",
+      "label": "model",
+      "description": "A coupled climate model that integrates the W3RA hydrological model with the Princeton reanalysis dataset",
+      "uuid": "5c7df562-c963-4ee7-85f5-a99595308cb4",
+      "score": 0.5337069634226252
+    },
+    {
+      "name": "QMEAN",
+      "label": "variable",
+      "description": "The mean annual streamflow, a measure of the average annual flow rate of a river or stream",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5282639147826891
+    }
+  ],
+  "(39599, 42195)": [
+    {
+      "name": "wetland area",
+      "label": "variable",
+      "description": "The area of land covered by wetlands, which can affect streamflow and water quality",
+      "uuid": "d138302a-03b3-4cf7-95db-ac98f863c04f",
+      "score": 0.5247526681103903
+    },
+    {
+      "name": "longitude",
+      "label": "variable",
+      "description": "A measure of the angular distance of a place east or west of the Greenwich meridian, used to locate points on the Earth's surface",
+      "uuid": "67e9c8dd-8675-41d6-b81c-fef392de682d",
+      "score": 0.6533498278384415
+    },
+    {
+      "name": "conterminous United States",
+      "label": "location",
+      "description": "The contiguous United States, excluding Alaska and Hawaii, a region with diverse climate and physiographic conditions",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7080065296889454
+    },
+    {
+      "name": "catchment area",
+      "label": "variable",
+      "description": "The area of land that drains water into a particular stream or river, influencing streamflow characteristics",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.5373152258446467
+    },
+    {
+      "name": "QMEAN",
+      "label": "variable",
+      "description": "The mean annual streamflow, a measure of the average flow of water in a stream or river",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5314885749350042
+    },
+    {
+      "name": "BFI",
+      "label": "variable",
+      "description": "The base flow index, a measure of the proportion of streamflow that is derived from groundwater",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5540995152748011
+    }
+  ],
+  "(41806, 44180)": [
+    {
+      "name": "QMEAN",
+      "label": "variable",
+      "description": "A quantity used to measure the average annual runoff in a catchment area, often used in hydrological studies",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5133909131770108
+    },
+    {
+      "name": "BFI",
+      "label": "variable",
+      "description": "The base flow index, a measure used to quantify the proportion of base flow in a stream's discharge",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.530815625061248
+    },
+    {
+      "name": "conterminous United States",
+      "label": "location",
+      "description": "The contiguous United States, excluding Alaska and Hawaii, used as a region for hydrological and climate studies",
+      "uuid": "e5e56286-ef79-45ac-af70-05ab0696ac1c",
+      "score": 0.7106085578386536
+    }
+  ],
+  "(43794, 46289)": [
+    {
+      "name": "BFI4",
+      "label": "variable",
+      "description": "A measure used to quantify the slowly varying portion of streamflow, representing the base flow index",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5305525038800477
+    },
+    {
+      "name": "Hall (1968)",
+      "label": "provider",
+      "description": "A researcher who defined base flow in a way that is referenced in this study",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5334506384539713
+    },
+    {
+      "name": "Smakhtin (2001)",
+      "label": "provider",
+      "description": "A researcher who contributed to the understanding of base flow and its separation techniques",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5056131533647482
+    },
+    {
+      "name": "QMEAN",
+      "label": "variable",
+      "description": "The mean annual streamflow, an important metric for hydrological assessments",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5215409310902618
+    },
+    {
+      "name": "LSMs",
+      "label": "model",
+      "description": "Land surface models, used to simulate the interactions between the land surface and the atmosphere",
+      "uuid": "73cef3bc-0a2c-4c10-9e5b-d0c64bca038f",
+      "score": 0.732915426938872
+    },
+    {
+      "name": "GHMs",
+      "label": "model",
+      "description": "Global hydrological models, used to simulate the global water cycle and hydrological processes",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5400978741774635
+    },
+    {
+      "name": "hydrological models",
+      "label": "model",
+      "description": "Computational representations of hydrological processes used to simulate and predict water flow, water quality, and other hydrological phenomena",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5914362126980978
+    },
+    {
+      "name": "land surface",
+      "label": "location",
+      "description": "The surface of the Earth, including all land areas and their associated hydrological features",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.7084273402980683
+    },
+    {
+      "name": "irrigation",
+      "label": "natural hazard",
+      "description": "The artificial application of water to land or soil, which can impact hydrological processes and water resources",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.69388116284449
+    },
+    {
+      "name": "urbanization",
+      "label": "natural hazard",
+      "description": "The process of urban development and growth, which can impact hydrological processes and water resources",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5648291939957594
+    },
+    {
+      "name": "base flow",
+      "label": "variable",
+      "description": "The slowly varying portion of streamflow, representing the groundwater contribution to streamflow",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.7069333337967743
+    },
+    {
+      "name": "stream ecosystem",
+      "label": "location",
+      "description": "The ecosystem associated with a stream or river, including all the living organisms and their interactions with the environment",
+      "uuid": "43d51c24-0523-4b65-919f-17618c7d72b4",
+      "score": 0.5466455423170256
+    },
+    {
+      "name": "groundwater recharge",
+      "label": "variable",
+      "description": "The process by which water moves from the surface to the groundwater, replenishing aquifers and maintaining groundwater levels",
+      "uuid": "dbeaaf9f-294c-4e45-ba9e-7be8cd449db1",
+      "score": 0.6601694327066268
+    },
+    {
+      "name": "water resource assessments",
+      "label": "project",
+      "description": "The process of evaluating and managing water resources, including the assessment of water availability, quality, and demand",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5513513248371129
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, an important metric for hydrological assessments",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5704259694378602
+    },
+    {
+      "name": "arid and semiarid regions",
+      "label": "location",
+      "description": "Regions with low precipitation and high evaporation rates, often characterized by limited water resources and unique hydrological challenges",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.5014545426813496
+    }
+  ],
+  "(45778, 48505)": [
+    {
+      "name": "hydrological models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict the movement of water within the Earth's system, including surface and subsurface processes",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5827947339881049
+    },
+    {
+      "name": "surface-water bodies",
+      "label": "location",
+      "description": "Natural or artificial bodies of water, such as lakes, rivers, and reservoirs, that store and transport water across the land surface",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6722562084193402
+    },
+    {
+      "name": "irrigation",
+      "label": "instrument",
+      "description": "The artificial application of water to land for agricultural purposes, which can alter local hydrological cycles",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7056034905474806
+    },
+    {
+      "name": "gridded observational maps",
+      "label": "instrument",
+      "description": "Spatially organized datasets that provide observed measurements of environmental variables, such as precipitation, temperature, and runoff, across a grid of locations",
+      "uuid": "ff7b2b19-a8f6-4e84-a2c7-f2256199e13c",
+      "score": 0.5070290991510878
+    },
+    {
+      "name": "urbanization",
+      "label": "natural hazard",
+      "description": "The process of human settlement and development in urban areas, which can impact local hydrology through changes in land use and water management practices",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5605010053880106
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent located primarily in the Northern Hemisphere, known for its diverse climate, geography, and cultural heritage",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7624775380562908
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country located in North America, known for its diverse climate, geography, and cultural heritage",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7618488759413184
+    },
+    {
+      "name": "Pacific coast of northern North America",
+      "label": "location",
+      "description": "A region of North America bordering the Pacific Ocean, characterized by a unique combination of climate, geography, and ecosystems",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.5556091759880911
+    },
+    {
+      "name": "WorldClim P",
+      "label": "variable",
+      "description": "A global dataset of monthly climate variables, including precipitation, temperature, and other environmental parameters",
+      "uuid": "def20f70-39f3-4d20-9844-0389a5780f52",
+      "score": 0.5742682215247261
+    },
+    {
+      "name": "runoff coefficient",
+      "label": "variable",
+      "description": "A dimensionless quantity used to describe the proportion of precipitation that becomes runoff, rather than being absorbed or evaporated",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.526276441028576
+    },
+    {
+      "name": "macroscale hydrological models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict the movement of water within the Earth's system at large spatial scales",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5149978669315303
+    }
+  ],
+  "(48290, 50540)": [
+    {
+      "name": "Noah-GLDAS",
+      "label": "model",
+      "description": "A land surface model used for hydrological and climate studies",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.6507010466199566
+    },
+    {
+      "name": "baseflow-related Q characteristics",
+      "label": "variable",
+      "description": "Characteristics of river flow related to baseflow, such as the base flow index and recession constant",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5559010342355503
+    },
+    {
+      "name": "runoff schemes",
+      "label": "variable",
+      "description": "Methods used to simulate the movement of water over and through the land surface in hydrological models",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5844900164987359
+    },
+    {
+      "name": "meteorological forcing",
+      "label": "variable",
+      "description": "Atmospheric conditions, such as precipitation and temperature, used to drive hydrological models",
+      "uuid": "862e790e-d42f-433a-8561-107562aceb64",
+      "score": 0.5151386111232543
+    },
+    {
+      "name": "soil infiltration capacity",
+      "label": "variable",
+      "description": "The ability of soil to absorb water, which affects hydrological processes",
+      "uuid": "2283a2fe-19ec-4b1d-a553-20ec9713a658",
+      "score": 0.6302616677186235
+    },
+    {
+      "name": "soil texture",
+      "label": "variable",
+      "description": "The composition of soil in terms of sand, silt, and clay, which affects hydrological processes",
+      "uuid": "afd1d3cb-d31d-4069-8cff-b592887aa18c",
+      "score": 0.6709524970697581
+    },
+    {
+      "name": "geology",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes, which affects hydrological processes",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.5988530163452683
+    },
+    {
+      "name": "GLDAS",
+      "label": "project",
+      "description": "The Global Land Data Assimilation System, a project that provides data and models for hydrological and climate studies",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.8329713347879245
+    },
+    {
+      "name": "BFI1-4",
+      "label": "variable",
+      "description": "Base flow indices used to characterize river flow",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.524207471924202
+    }
+  ],
+  "(50132, 52465)": [
+    {
+      "name": "Noah-GLDAS",
+      "label": "model",
+      "description": "A land surface model used for simulating and predicting hydrological processes",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.6466201407813337
+    },
+    {
+      "name": "geology",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes that shape the planet",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.6121758760741056
+    },
+    {
+      "name": "soil texture",
+      "label": "variable",
+      "description": "The composition of soil in terms of sand, silt, and clay particles, which affects its water-holding capacity and other properties",
+      "uuid": "afd1d3cb-d31d-4069-8cff-b592887aa18c",
+      "score": 0.6818015958010447
+    },
+    {
+      "name": "meteorological forcing",
+      "label": "variable",
+      "description": "The external drivers of a climate or hydrological model, such as temperature, precipitation, and solar radiation",
+      "uuid": "862e790e-d42f-433a-8561-107562aceb64",
+      "score": 0.5372174531743189
+    },
+    {
+      "name": "k",
+      "label": "variable",
+      "description": "A measure of the hydraulic conductivity of soil, which affects its ability to transmit water",
+      "uuid": "7112e739-cb5d-427e-95bd-5419360e91d8",
+      "score": 0.6239020700957906
+    },
+    {
+      "name": "BFI",
+      "label": "variable",
+      "description": "The base flow index, which represents the proportion of streamflow that comes from groundwater",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5474346442281761
+    },
+    {
+      "name": "Q",
+      "label": "variable",
+      "description": "The discharge or flow rate of a river or stream, which is an important hydrological variable",
+      "uuid": "36a2999b-2255-4d4e-a249-40df3b7b3aaf",
+      "score": 0.574984030283141
+    },
+    {
+      "name": "QMEAN",
+      "label": "variable",
+      "description": "The mean discharge or flow rate of a river or stream, which is an important hydrological variable",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5395496652821744
+    },
+    {
+      "name": "GLDAS",
+      "label": "model",
+      "description": "The Global Land Data Assimilation System, a land surface model used for simulating and predicting hydrological processes",
+      "uuid": "b1bf6d41-36da-49fb-a315-41492f050441",
+      "score": 0.8038861720216959
+    },
+    {
+      "name": "ERAI",
+      "label": "model",
+      "description": "The ECMWF Reanalysis Interim, a global atmospheric reanalysis dataset used for forcing hydrological models",
+      "uuid": "32658d24-ab47-41b5-9614-2becccde8e55",
+      "score": 0.6673439727977463
+    },
+    {
+      "name": "(sub)Arctic",
+      "label": "location",
+      "description": "A region in the high latitudes of the Northern Hemisphere, characterized by cold temperatures and snow cover",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.6608355207336153
+    }
+  ],
+  "(52067, 54777)": [
+    {
+      "name": "neural network ensembles",
+      "label": "model",
+      "description": "A type of machine learning algorithm used for predicting and estimating complex patterns and relationships, such as those between catchment attributes and Q characteristics",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.6046419128531564
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The physical features and characteristics of the Earth's surface, including elevation, slope, and aspect, which can influence hydrological processes",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.631301415743263
+    },
+    {
+      "name": "data quality",
+      "label": "variable",
+      "description": "The accuracy, completeness, and reliability of data, which can impact the results and conclusions of hydrological studies",
+      "uuid": "0eba3253-8eb7-4e43-9627-9cff48775e27",
+      "score": 0.5689770254200528
+    },
+    {
+      "name": "soils",
+      "label": "variable",
+      "description": "The natural material that covers the Earth's surface, composed of mineral and organic components, and plays a crucial role in hydrological processes",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.6259931402994844
+    },
+    {
+      "name": "geology",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes, which can influence hydrological processes and catchment characteristics",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.5800170618875801
+    },
+    {
+      "name": "Climate indices",
+      "label": "variable",
+      "description": "Quantitative measures of climate patterns and trends, such as temperature and precipitation, which can impact hydrological processes and catchment characteristics",
+      "uuid": "52347642-9786-4b59-be77-02e9f307118d",
+      "score": 0.6302776839575568
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical and biological characteristics of the Earth's surface, including vegetation, urban areas, and water bodies, which can influence hydrological processes and catchment characteristics",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6052843055790869
+    },
+    {
+      "name": "catchment attributes",
+      "label": "variable",
+      "description": "The physical and biological characteristics of a catchment, including topography, soils, geology, land cover, and climate, which can influence hydrological processes and Q characteristics",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5715618058469939
+    },
+    {
+      "name": "neural network",
+      "label": "instrument",
+      "description": "A type of machine learning algorithm used for predicting and estimating complex patterns and relationships",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.7011792757407646
+    },
+    {
+      "name": "globe",
+      "label": "location",
+      "description": "The entire Earth, which can be used as a reference for global hydrological studies and applications",
+      "uuid": "547ed3ff-f788-4ff4-9e39-54c133008b42",
+      "score": 0.5046444022730278
+    }
+  ],
+  "(54169, 56447)": [
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, a research institute providing weather forecasts and climate data",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7775995222929591
+    },
+    {
+      "name": "Deltares",
+      "label": "provider",
+      "description": "A Dutch independent institute for applied research in the field of water and subsurface, providing data and expertise on hydrology and climate",
+      "uuid": "ba251f6f-719d-4cc7-a9b5-9ada89d4744c",
+      "score": 0.7750665619459599
+    },
+    {
+      "name": "USGS",
+      "label": "provider",
+      "description": "The United States Geological Survey, a scientific agency responsible for studying the Earth's landscape, natural resources, and natural hazards",
+      "uuid": "5fea4160-25a7-44b5-bfba-ef140fdffaf4",
+      "score": 0.6395670367985745
+    },
+    {
+      "name": "European Commission",
+      "label": "provider",
+      "description": "The executive body of the European Union, responsible for proposing legislation, implementing decisions, and managing the day-to-day business of the EU",
+      "uuid": "57a14338-6965-41de-9876-41fa6d259c51",
+      "score": 0.6454817572641849
+    },
+    {
+      "name": "Netherlands",
+      "label": "location",
+      "description": "A country located in Northwestern Europe, known for its low-lying terrain and vulnerability to flooding",
+      "uuid": "c4ff980e-6edd-400f-9c99-951fa0d0c887",
+      "score": 0.6938913415455363
+    },
+    {
+      "name": "Global Runoff Data Centre",
+      "label": "provider",
+      "description": "An international archive of river discharge data, providing information on global hydrological patterns and trends",
+      "uuid": "17250e86-d839-4531-ba1e-2820774fe177",
+      "score": 0.5223980320789952
+    },
+    {
+      "name": "catchment attributes",
+      "label": "variable",
+      "description": "Properties of a catchment area, such as topography, geology, and land use, influencing streamflow characteristics",
+      "uuid": "c84b61fe-720a-4240-b6c8-8dcc9ae24a36",
+      "score": 0.5581183052192915
+    },
+    {
+      "name": "neural networks",
+      "label": "model",
+      "description": "A type of machine learning algorithm used to estimate and predict complex relationships between variables",
+      "uuid": "a63c35d7-bf69-4f64-a6a9-e87cde0ce801",
+      "score": 0.7166640041462152
+    },
+    {
+      "name": "macroscale hydrological models",
+      "label": "model",
+      "description": "Large-scale models simulating the movement and distribution of water in the environment, used for predicting streamflow and understanding hydrological processes",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5350782338001279
+    },
+    {
+      "name": "base flow indices",
+      "label": "variable",
+      "description": "Quantities describing the steady-state flow of a stream or river, often used to characterize hydrological regimes",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.6452685244697551
+    },
+    {
+      "name": "ice-free land surface",
+      "label": "location",
+      "description": "The portion of the Earth's land surface not covered by ice, where streamflow and hydrological processes occur",
+      "uuid": "6a426480-c58f-4b6b-8e35-0975b7f6edb5",
+      "score": 0.5082750605884361
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "(0, 2919)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, a leading international body for the assessment of climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.727144289839562
+    },
+    {
+      "name": "degree days",
+      "label": "variable",
+      "description": "A measure of the difference between the average daily temperature and a reference temperature, used to estimate energy demand for heating and cooling",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6333206217953725
+    },
+    {
+      "name": "heating degree days",
+      "label": "variable",
+      "description": "A measure of the energy demand for heating, calculated as the difference between the average daily temperature and a reference temperature for heating",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.7324457387883749
+    },
+    {
+      "name": "cooling degree days",
+      "label": "variable",
+      "description": "A measure of the energy demand for cooling, calculated as the difference between the average daily temperature and a reference temperature for cooling",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.7439914565941813
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a diverse climate and geography",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.690430031752053
+    }
+  ],
+  "(2417, 4992)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a diverse climate and geography, playing a significant role in global energy consumption and climate change studies",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.670848736759191
+    },
+    {
+      "name": "heating degree days (HDD)",
+      "label": "variable",
+      "description": "A measure of the energy demand for heating, calculated as the number of days when the temperature falls below a certain threshold",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6860467639727642
+    },
+    {
+      "name": "cooling degree days (CDD)",
+      "label": "variable",
+      "description": "A measure of the energy demand for cooling, calculated as the number of days when the temperature rises above a certain threshold",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.7124837497413133
+    },
+    {
+      "name": "Regional climate models (RCMs)",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, and biological processes to represent and predict regional climate systems",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5301634480495724
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-level representative concentration pathway, representing a scenario with high greenhouse gas emissions and significant climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6795676358243811
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A mid-level representative concentration pathway, representing a scenario with moderate greenhouse gas emissions and climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6169383549760498
+    },
+    {
+      "name": "East Asian monsoon",
+      "label": "teleconnection",
+      "description": "A large-scale climate phenomenon characterized by seasonal changes in wind patterns and precipitation in East Asia, influencing regional climate variability",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.609895573165154
+    },
+    {
+      "name": "population density data",
+      "label": "variable",
+      "description": "A measure of the number of people per unit area, used to assess the impact of population distribution on energy demand",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.6887007430113485
+    },
+    {
+      "name": "climatological indicators",
+      "label": "variable",
+      "description": "Measures of climate conditions, such as temperature and precipitation, used to estimate energy demand",
+      "uuid": "2dcffd8f-2b01-4c68-a4f2-c4940d2709a3",
+      "score": 0.5331201341010678
+    }
+  ],
+  "(4457, 7054)": [
+    {
+      "name": "population density data",
+      "label": "variable",
+      "description": "Data that describes the number of people living in a given area, used to assess energy demand and its spatial distribution",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.6539536195488623
+    },
+    {
+      "name": "climatological indicators",
+      "label": "variable",
+      "description": "Quantities used to describe and analyze climate phenomena, such as Heating Degree Days (HDD) and Cooling Degree Days (CDD",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.5529064220175213
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the energy required to heat a building or a region",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.657560334265774
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the energy required to cool a building or a region",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6731705284514895
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large and diverse geography, influencing regional climate patterns and energy demand",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.7180730629292275
+    },
+    {
+      "name": "CN05.1",
+      "label": "project",
+      "description": "A dataset developed by Wu & Gao (2013) for climate analysis in China, providing high-resolution climate data",
+      "uuid": "2892e23f-5249-439d-8c0e-6c1d190b3beb",
+      "score": 0.5321477812699137
+    },
+    {
+      "name": "CRU",
+      "label": "project",
+      "description": "The Climatic Research Unit dataset, a widely used dataset for climate research, providing gridded climate data",
+      "uuid": "a32f3c0b-b3e9-4e93-a9d2-53c2f61404d8",
+      "score": 0.5969098152153022
+    },
+    {
+      "name": "RegCM4",
+      "label": "model",
+      "description": "The Regional Climate Model version 4, developed by the Abdus Salam International Centre for Theoretical Physics, used for simulating regional climate",
+      "uuid": "1552a083-9c22-4307-8e30-c590d9ee7ad5",
+      "score": 0.5966593708471444
+    },
+    {
+      "name": "BCC_CSM1.1",
+      "label": "model",
+      "description": "The Beijing Climate Center Climate System Model version 1.1, a global climate model used to drive the RegCM4",
+      "uuid": "265aeed3-74b5-4740-8a4a-82e1b5503e72",
+      "score": 0.7426848999813761
+    },
+    {
+      "name": "Beijing Climate Center",
+      "label": "provider",
+      "description": "A research institution focused on climate research and modeling, developing climate models such as the BCC_CSM1.1",
+      "uuid": "b62469fa-105e-4e2c-b621-5915a86c93e1",
+      "score": 0.7382713105683488
+    }
+  ],
+  "(6702, 9146)": [
+    {
+      "name": "BCC_CSM1.1",
+      "label": "model",
+      "description": "The Beijing Climate Center Climate System Model version 1.1, a global climate model used for simulating Earth's climate system",
+      "uuid": "265aeed3-74b5-4740-8a4a-82e1b5503e72",
+      "score": 0.7795989359010547
+    },
+    {
+      "name": "RegCM4",
+      "label": "model",
+      "description": "The Regional Climate Model version 4, a regional climate model used for simulating climate over specific regions",
+      "uuid": "1552a083-9c22-4307-8e30-c590d9ee7ad5",
+      "score": 0.585977835426847
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "General Circulation Model, a type of climate model that simulates global atmospheric and oceanic circulation patterns",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7634594870321432
+    },
+    {
+      "name": "continental China",
+      "label": "location",
+      "description": "The mainland part of China, excluding Taiwan, Hong Kong, and Macau, characterized by diverse geography and climate conditions",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.536689333335529
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "The Representative Concentration Pathway 4.5, a greenhouse gas concentration trajectory used in climate modeling to predict future climate scenarios",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.603818384008893
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "The Representative Concentration Pathway 8.5, a high greenhouse gas concentration trajectory used in climate modeling to predict future climate scenarios",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6676875416757114
+    },
+    {
+      "name": "eastern China",
+      "label": "location",
+      "description": "The eastern part of China, characterized by a humid subtropical climate and dense population",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.5406495848585154
+    },
+    {
+      "name": "degree days",
+      "label": "variable",
+      "description": "A measure of the difference between mean daily temperature and a reference temperature, used to estimate energy demand for heating or cooling",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6346536835886072
+    }
+  ],
+  "(8743, 11410)": [
+    {
+      "name": "municipalities",
+      "label": "location",
+      "description": "Urban administrative divisions, often with their own local governments",
+      "uuid": "1ae304de-252c-45da-8dd8-df99a281e4f4",
+      "score": 0.530147851257335
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to determine the need for heating or cooling",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6121236391523657
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the amount of heating required to maintain a comfortable indoor temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6549544611905181
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the amount of cooling required to maintain a comfortable indoor temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6836823486185548
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a diverse climate and population",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6733642612100226
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent, comprising many countries with varying climates and policies",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6568751431100641
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country with a diverse climate and policies",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6693537883499499
+    },
+    {
+      "name": "population density",
+      "label": "variable",
+      "description": "The number of people living in a given area, often used to assess the impact of climate on energy demand",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7192612175501719
+    }
+  ],
+  "(10914, 13235)": [
+    {
+      "name": "IIASA",
+      "label": "provider",
+      "description": "The International Institute for Applied Systems Analysis, a research institute that provides data and analysis on global issues such as population and climate change",
+      "uuid": "29cce9aa-e040-4ff1-88d5-e12ec10d91d7",
+      "score": 0.7686367392425095
+    },
+    {
+      "name": "population density",
+      "label": "variable",
+      "description": "A measure of the number of people living in a given area, often used to study the impact of population growth on the environment and climate",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7542822507887276
+    },
+    {
+      "name": "longitude-latitude",
+      "label": "variable",
+      "description": "A geographic coordinate system used to locate points on the Earth's surface, often used in climate modeling and population studies",
+      "uuid": "67e9c8dd-8675-41d6-b81c-fef392de682d",
+      "score": 0.5930602532719784
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the energy demand for heating a building or a region",
+      "uuid": "349b4322-26ff-4b3c-90fb-b3b1afd20755",
+      "score": 0.6483109300252173
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the energy demand for cooling a building or a region",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6703791652497371
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The total number of people living in a given area, often used to study the impact of population growth on the environment and climate",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6861202237452388
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large and diverse population, and a significant impact on global climate change",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.648968147889293
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-end climate change scenario, representing a future with high greenhouse gas emissions and significant warming",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6717438802674476
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A low-end climate change scenario, representing a future with lower greenhouse gas emissions and less warming",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6190597416084053
+    }
+  ],
+  "(12807, 15463)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large and diverse geography, climate, and population",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6826035143173997
+    },
+    {
+      "name": "United Nations",
+      "label": "provider",
+      "description": "An international organization that provides data, reports, and projections on global population trends",
+      "uuid": "72cc1b10-4ca7-4cd3-af25-181ee5dc6725",
+      "score": 0.6234203456251998
+    },
+    {
+      "name": "HDDP",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the energy required for heating buildings",
+      "uuid": "349b4322-26ff-4b3c-90fb-b3b1afd20755",
+      "score": 0.6038277852492342
+    },
+    {
+      "name": "CDDP",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the energy required for cooling buildings",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6223553798640444
+    },
+    {
+      "name": "RegCM4",
+      "label": "model",
+      "description": "A regional climate model used to simulate climate conditions at the regional scale",
+      "uuid": "1552a083-9c22-4307-8e30-c590d9ee7ad5",
+      "score": 0.5686365764494418
+    },
+    {
+      "name": "Northeast China",
+      "label": "location",
+      "description": "A region in northeastern China, characterized by a temperate climate and significant population centers",
+      "uuid": "f7e1f17b-7145-49ff-92c5-455ba506f13f",
+      "score": 0.5092441751462893
+    },
+    {
+      "name": "Eastern China",
+      "label": "location",
+      "description": "A region in eastern China, characterized by a subtropical climate and significant population centers",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.5762709475010902
+    }
+  ],
+  "(15033, 17741)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its large population, diverse climate, and significant economic impact on the world",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6641586297650028
+    },
+    {
+      "name": "mid and high latitudes",
+      "label": "location",
+      "description": "Regions of the Earth located between 30\u00b0 and 90\u00b0 latitude, characterized by temperate and polar climates",
+      "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+      "score": 0.7207928781866434
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the energy required for heating buildings and homes",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6471741552389106
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the energy required for cooling buildings and homes",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6686590489117006
+    },
+    {
+      "name": "model",
+      "label": "model",
+      "description": "A computational representation of the climate system, used to simulate and predict weather and climate patterns",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.6579062843185923
+    }
+  ],
+  "(17236, 19615)": [
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the amount of heating required to maintain a certain indoor temperature during the winter months",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6622197100455516
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the amount of cooling required to maintain a certain indoor temperature during the summer months",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6821853969166789
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario of future climate change, representing a moderate increase in greenhouse gas emissions and a radiative forcing of 4.5 W/m\u00b2 by 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.625945808456955
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario of future climate change, representing a high increase in greenhouse gas emissions and a radiative forcing of 8.5 W/m\u00b2 by 2100",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6997316116094165
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a diverse climate and geography",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.690430031752053
+    }
+  ],
+  "(19243, 21532)": [
+    {
+      "name": "RCP8.5",
+      "label": "project",
+      "description": "A greenhouse gas concentration trajectory scenario used in climate modeling, representing a high-emissions future with significant warming by the end of the 21st century",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6656471386902348
+    },
+    {
+      "name": "RCP4.5",
+      "label": "project",
+      "description": "A greenhouse gas concentration trajectory scenario used in climate modeling, representing a medium-emissions future with moderate warming by the end of the 21st century",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5991157495865559
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the energy demand for heating buildings, calculated as the integral of the difference between the outdoor temperature and a base temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6560265035134424
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the energy demand for cooling buildings, calculated as the integral of the difference between the outdoor temperature and a base temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6783540889697258
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with diverse climates and geography, including mountains, deserts, and coastal regions",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.7027592224751783
+    }
+  ],
+  "(21116, 23564)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia with diverse geography, climate, and population density, playing a significant role in global climate change",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.672721485821574
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas emissions and concentrations, used to project future climate change under moderate mitigation efforts",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6274283325242648
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A scenario of high greenhouse gas emissions and concentrations, used to project future climate change under minimal mitigation efforts",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6790840462810677
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and provides guidance for policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7402139755674466
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the energy demand for heating buildings, used to assess climate change impacts on energy consumption",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6757673331205203
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the energy demand for cooling buildings, used to assess climate change impacts on energy consumption",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6873920104974591
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a particular region, used to assess the impacts of climate change on human societies",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6260401974791958
+    }
+  ],
+  "(23121, 25718)": [
+    {
+      "name": "HDDP",
+      "label": "variable",
+      "description": "Heating degree days with population weighting, a measure of the energy demand for heating in a region, taking into account the population distribution",
+      "uuid": "349b4322-26ff-4b3c-90fb-b3b1afd20755",
+      "score": 0.5572375079955265
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the energy demand for heating in a region, calculated based on the temperature difference between the outdoor temperature and a reference temperature",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.656698798579322
+    },
+    {
+      "name": "CDDP",
+      "label": "variable",
+      "description": "Cooling degree days with population weighting, a measure of the energy demand for cooling in a region, taking into account the population distribution",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5715341418224255
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the energy demand for cooling in a region, calculated based on the temperature difference between the outdoor temperature and a reference temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6838632082016861
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario with a total radiative forcing of 4.5 W/m\u00b2 by the year 2100, used to study the effects of climate change mitigation",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6221168422845504
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario with a total radiative forcing of 8.5 W/m\u00b2 by the year 2100, used to study the effects of climate change with no mitigation",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6978210767670993
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large and diverse geography, climate, and population",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6826035143173997
+    },
+    {
+      "name": "eastern China",
+      "label": "location",
+      "description": "A region in eastern China, characterized by a temperate climate and high population density",
+      "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+      "score": 0.5523176854322295
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a region, used as a weighting factor in the calculation of HDDP and CDDP",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.560721172420067
+    }
+  ],
+  "(25382, 27775)": [
+    {
+      "name": "CDDP",
+      "label": "variable",
+      "description": "A measure of the energy demand for cooling, typically calculated as the degree-days above a certain reference temperature",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5426331503214021
+    },
+    {
+      "name": "HDDP",
+      "label": "variable",
+      "description": "A measure of the energy demand for heating, typically calculated as the degree-days below a certain reference temperature",
+      "uuid": "349b4322-26ff-4b3c-90fb-b3b1afd20755",
+      "score": 0.5591908386432723
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario representing a low greenhouse gas emissions trajectory",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.644796824217353
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario representing a high greenhouse gas emissions trajectory",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6974878127660145
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, often used as a region of interest in climate and energy studies",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6822078263294518
+    },
+    {
+      "name": "population densities",
+      "label": "variable",
+      "description": "The number of people per unit area, often influencing energy demand and climate-related studies",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7036161691619117
+    },
+    {
+      "name": "mitigation",
+      "label": "experiment",
+      "description": "Actions taken to reduce the impact of climate change, often through reducing greenhouse gas emissions",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6715835803167627
+    },
+    {
+      "name": "cooling energy demand",
+      "label": "variable",
+      "description": "The amount of energy required for cooling, often influenced by climate change and population growth",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.5146859976682634
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country in North America, often used as a reference for climate and energy studies",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6368240843631815
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, often used as a region of interest in climate and energy studies",
+      "uuid": "a62ae820-58c5-47ff-bb72-2680962b26f4",
+      "score": 0.7019862549611443
+    }
+  ],
+  "(27313, 29814)": [
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the energy demand for heating buildings",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6535565646251451
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the energy demand for cooling buildings",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6696878843322278
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6626660606463488
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising many countries",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6919236930590342
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a large population and diverse climate",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6567276800686743
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a particular area or country",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6467919759438764
+    }
+  ],
+  "(29382, 32221)": [
+    {
+      "name": "RegCM4",
+      "label": "model",
+      "description": "A regional climate model used for simulating climate conditions at a regional scale",
+      "uuid": "1552a083-9c22-4307-8e30-c590d9ee7ad5",
+      "score": 0.5710495251394876
+    },
+    {
+      "name": "BCC_CSM1.1",
+      "label": "model",
+      "description": "A global climate model developed by the Beijing Climate Center, used for simulating global climate conditions",
+      "uuid": "265aeed3-74b5-4740-8a4a-82e1b5503e72",
+      "score": 0.7788958150088867
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its large population, diverse climate, and significant economic influence",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6688443556664285
+    },
+    {
+      "name": "HDD",
+      "label": "variable",
+      "description": "Heating degree days, a measure of the energy demand for heating buildings",
+      "uuid": "349b4322-26ff-4b3c-90fb-b3b1afd20755",
+      "score": 0.6474801737155563
+    },
+    {
+      "name": "CDD",
+      "label": "variable",
+      "description": "Cooling degree days, a measure of the energy demand for cooling buildings",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6704600448978505
+    },
+    {
+      "name": "RCP8.5",
+      "label": "experiment",
+      "description": "A high-emissions scenario used in climate modeling to project future climate changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6800169858504834
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A medium-emissions scenario used in climate modeling to project future climate changes",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6331537815165882
+    },
+    {
+      "name": "Population",
+      "label": "variable",
+      "description": "The number of people living in a particular region or country, used as a factor in assessing energy demand",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6245270432312062
+    },
+    {
+      "name": "Population density",
+      "label": "variable",
+      "description": "The number of people per unit area, used as a factor in assessing energy demand and climate change impacts",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7385762575379663
+    },
+    {
+      "name": "Coal",
+      "label": "variable",
+      "description": "A fossil fuel used for energy production, with significant implications for climate change",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6527010467802268
+    },
+    {
+      "name": "Electricity",
+      "label": "variable",
+      "description": "A form of energy used for powering devices and infrastructure, with implications for energy demand and climate change",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.6049258662205463
+    },
+    {
+      "name": "Region",
+      "label": "location",
+      "description": "A geographic area with distinct characteristics, used as a unit of analysis in climate studies",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.7066862534367768
+    },
+    {
+      "name": "Climate indicators",
+      "label": "variable",
+      "description": "Quantities used to measure and assess climate change and its impacts",
+      "uuid": "23703b6b-ee15-4512-b5b2-f441547e2edf",
+      "score": 0.6989218079907101
+    }
+  ],
+  "(31735, 34249)": [
+    {
+      "name": "coal",
+      "label": "variable",
+      "description": "A fossil fuel used as a source of energy, contributing to greenhouse gas emissions and climate change",
+      "uuid": "8b726747-6eba-4ce6-bfc6-ee84616a1862",
+      "score": 0.6399860366662696
+    },
+    {
+      "name": "oil",
+      "label": "variable",
+      "description": "A fossil fuel used as a source of energy, contributing to greenhouse gas emissions and climate change",
+      "uuid": "44d0ad8f-fe22-4d17-bc47-c0b728a82baf",
+      "score": 0.5195267467997885
+    },
+    {
+      "name": "electricity",
+      "label": "variable",
+      "description": "A form of energy used to power various devices and systems, with generation methods influencing greenhouse gas emissions",
+      "uuid": "12433114-d15a-46cf-aba9-ce4b569119ce",
+      "score": 0.5949279797388286
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, experiencing significant economic growth and changes in energy demand",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5689416615517148
+    },
+    {
+      "name": "HDDP",
+      "label": "variable",
+      "description": "Heating Degree Days, a measure of the energy demand for heating, calculated based on temperature thresholds",
+      "uuid": "349b4322-26ff-4b3c-90fb-b3b1afd20755",
+      "score": 0.6282080281615466
+    },
+    {
+      "name": "CDDP",
+      "label": "variable",
+      "description": "Cooling Degree Days, a measure of the energy demand for cooling, calculated based on temperature thresholds",
+      "uuid": "db0d03d7-1d08-42fb-b212-0da35b88e656",
+      "score": 0.6449658952249946
+    },
+    {
+      "name": "CORDEX",
+      "label": "project",
+      "description": "The Coordinated Regional Climate Downscaling Experiment, an international initiative to improve regional climate projections",
+      "uuid": "68885007-d975-4f24-bdd5-dd19b246bdf6",
+      "score": 0.778231234323433
+    },
+    {
+      "name": "population dynamics",
+      "label": "variable",
+      "description": "Changes in population size, distribution, and structure, influencing energy demand and climate change mitigation efforts",
+      "uuid": "ad3a5f4f-4624-4a08-b875-6723c2615e90",
+      "score": 0.6271911893447051
+    },
+    {
+      "name": "degree days",
+      "label": "variable",
+      "description": "A measure of the energy demand for heating or cooling, calculated based on temperature thresholds",
+      "uuid": "fe2bc223-e503-4ca1-924c-d3fd5876721c",
+      "score": 0.6299227719874291
+    },
+    {
+      "name": "National Natural Science Foundation of China",
+      "label": "provider",
+      "description": "A funding agency supporting scientific research in China, including climate change and energy studies",
+      "uuid": "85536e75-507b-4c8e-93f0-9048ef53e8f6",
+      "score": 0.5454092679135994
+    }
+  ],
+  "(34191, 34249)": [
+    {
+      "name": "National Natural Science Foundation of China",
+      "label": "provider",
+      "description": "A Chinese organization that funds scientific research and projects, including those related to climate and environmental studies",
+      "uuid": "85536e75-507b-4c8e-93f0-9048ef53e8f6",
+      "score": 0.5050766817141824
+    }
+  ]
+}

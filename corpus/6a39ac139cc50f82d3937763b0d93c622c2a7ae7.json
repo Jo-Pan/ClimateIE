@@ -1,0 +1,709 @@
+{
+  "(0, 3471)": [
+    {
+      "name": "Paris Climate Agreement",
+      "label": "project",
+      "description": "An international agreement within the United Nations Framework Convention on Climate Change, aimed at mitigating climate change by reducing greenhouse gas emissions and adapting to its impacts",
+      "uuid": "67f93e65-5991-4ffa-85ec-a26bd324181e",
+      "score": 0.5435581475982455
+    },
+    {
+      "name": "United Nations Framework Convention on Climate Change",
+      "label": "provider",
+      "description": "An international treaty that aims to stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system",
+      "uuid": "67f93e65-5991-4ffa-85ec-a26bd324181e",
+      "score": 0.7269404014044628
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A significant change in global or regional climate patterns, often resulting from human activities such as burning fossil fuels and deforestation",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5808037811756112
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide, methane, and nitrous oxide into the atmosphere, contributing to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5453209679796126
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences such as heatwaves, droughts, floods, and storms, often exacerbated by climate change",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.673676726537766
+    }
+  ],
+  "(2848, 6251)": [
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6728300240660553
+    },
+    {
+      "name": "atmospheric greenhouse gas concentrations",
+      "label": "variable",
+      "description": "The amount of greenhouse gases present in the Earth's atmosphere, influencing global climate patterns",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.5185384175158539
+    },
+    {
+      "name": "climate hazards",
+      "label": "natural hazard",
+      "description": "Conditions or events that have the potential to cause harm to people, infrastructure, or the environment due to climate-related factors",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.5059032263619431
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system or population is susceptible to harm from climate-related stressors",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5722679652728239
+    },
+    {
+      "name": "international climate policy",
+      "label": "project",
+      "description": "Global agreements and initiatives aimed at addressing climate change",
+      "uuid": "756a90f8-4203-46f1-87e9-9e0d64bdee50",
+      "score": 0.5184644857232192
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change (IPCC)",
+      "label": "provider",
+      "description": "An international organization that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7484767551888177
+    }
+  ],
+  "(5716, 8897)": [
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "label": "provider",
+      "description": "An international organization that provides scientific information and guidance on climate change to policymakers and the public",
+      "uuid": "3fbcf679-578f-4f06-bd33-9fac85df2c58",
+      "score": 0.7031481181263325
+    },
+    {
+      "name": "AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, a comprehensive assessment of climate change science, impacts, and mitigation strategies",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.5688142874455694
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451761247480406
+    }
+  ],
+  "(8369, 11638)": [
+    {
+      "name": "anthropogenic climate change",
+      "label": "teleconnection",
+      "description": "A phenomenon where human activities, such as burning fossil fuels and deforestation, lead to changes in the Earth's climate system, affecting global weather patterns and natural systems",
+      "uuid": "4512f35e-0148-447a-9561-fc4146a74e18",
+      "score": 0.5372649057871228
+    },
+    {
+      "name": "wildfires",
+      "label": "natural hazard",
+      "description": "Uncontrolled fires occurring in wildland areas, often exacerbated by climate change and having significant impacts on ecosystems and human populations",
+      "uuid": "868b87a1-d8c2-49b3-8bbd-9cbbed115271",
+      "score": 0.6887089045227366
+    },
+    {
+      "name": "plant and animal species",
+      "label": "variable",
+      "description": "Organisms that are affected by changes in environmental conditions, such as temperature and precipitation, and can serve as indicators of climate change impacts",
+      "uuid": "d3c5e3e3-97bf-4e74-9f8d-523dce5f9270",
+      "score": 0.5650182344972768
+    },
+    {
+      "name": "range shifts",
+      "label": "variable",
+      "description": "Changes in the geographic distribution of plant and animal species in response to changes in environmental conditions, such as temperature and precipitation",
+      "uuid": "f5c63c23-f819-46e8-bc97-1e894424c00c",
+      "score": 0.7148337003721419
+    },
+    {
+      "name": "deforestation",
+      "label": "natural hazard",
+      "description": "The clearance of forests, usually as a result of human activities, such as agriculture or urbanization, leading to loss of biodiversity and exacerbating climate change",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6995034649887507
+    }
+  ],
+  "(11096, 14423)": [
+    {
+      "name": "deforestation",
+      "label": "natural hazard",
+      "description": "The clearance of forests, usually as a result of human activities, leading to loss of biodiversity and disruption of ecosystems",
+      "uuid": "9a4715a7-1847-4fef-8116-494b36420fb7",
+      "score": 0.6815383980316653
+    },
+    {
+      "name": "land-cover changes",
+      "label": "natural hazard",
+      "description": "Changes in the way land is used, often resulting from human activities such as deforestation, urbanization, or agriculture",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.6122403779998885
+    },
+    {
+      "name": "precipitation trends",
+      "label": "variable",
+      "description": "Patterns or changes in the amount of rainfall or other forms of precipitation over time, often studied in the context of climate change",
+      "uuid": "279961c4-dac3-4188-917f-fa11982f957e",
+      "score": 0.7404614520953073
+    },
+    {
+      "name": "continents",
+      "label": "location",
+      "description": "Large areas of land on Earth, often used as a geographical reference for studying climate and environmental phenomena",
+      "uuid": "0a672f19-dad5-4114-819a-2eb55bdbb56a",
+      "score": 0.5964950035806729
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The vast bodies of saltwater that cover most of the Earth's surface, playing a crucial role in the global climate system",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.7265176928215573
+    },
+    {
+      "name": "human systems",
+      "label": "platform",
+      "description": "Social, economic, and cultural systems created by humans, which can be impacted by climate change",
+      "uuid": "fee25cad-7ffe-4ee2-a6f2-8116b8a0a707",
+      "score": 0.5233243943616234
+    },
+    {
+      "name": "U.S.",
+      "label": "provider",
+      "description": "The United States of America, a country that has played a significant role in international climate policy discussions",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5135030547004635
+    }
+  ],
+  "(13844, 17175)": [
+    {
+      "name": "climate change",
+      "label": "project",
+      "description": "A global phenomenon referring to the long-term warming of the planet, resulting from human activities such as burning fossil fuels and deforestation",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5636794470993929
+    },
+    {
+      "name": "polar and high mountain regions",
+      "label": "location",
+      "description": "Geographic areas characterized by extreme cold and unique ecosystems, highly sensitive to changes in climate",
+      "uuid": "3fedcf7c-7b0c-4b51-abd2-2c54de713061",
+      "score": 0.6114476313528153
+    },
+    {
+      "name": "physical, terrestrial and marine ecosystems",
+      "label": "platform",
+      "description": "Complex networks of living organisms and their interactions with the environment, influenced by climate, geography, and human activities",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6629457598552732
+    },
+    {
+      "name": "climatic and cryospheric systems",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, and biological processes to represent and predict Earth's climate system, including the cryosphere",
+      "uuid": "0a22b06c-eeed-46dc-b41b-af44ca94c419",
+      "score": 0.5427463220621976
+    },
+    {
+      "name": "ocean water temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the ocean's water, an important indicator of climate change and its impacts on marine ecosystems",
+      "uuid": "251c87cd-03b3-464f-8390-8ede2fec28fc",
+      "score": 0.7046823701184417
+    },
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, a comprehensive review of the science, impacts, and mitigation of climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.6017670622700356
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country with significant influence on global climate policy and research",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5440638483484855
+    }
+  ],
+  "(16631, 19868)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by long-term changes in the Earth's climate system, driven by various natural and anthropogenic factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.589010656377929
+    },
+    {
+      "name": "U.S.",
+      "label": "location",
+      "description": "The United States of America, a country where numerous climate-related lawsuits have been filed",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5501301271917429
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the United States known for its progressive climate policies and climate-related lawsuits",
+      "uuid": "cc04bdf3-18fb-430c-91d8-2445539e34c1",
+      "score": 0.6707135913649193
+    },
+    {
+      "name": "rising sea levels",
+      "label": "natural hazard",
+      "description": "The increase in global sea levels due to climate change, causing coastal erosion and other impacts",
+      "uuid": "2aad0e7e-1c96-4d87-adeb-4894225e2922",
+      "score": 0.6951985604842654
+    },
+    {
+      "name": "extreme heat events",
+      "label": "weather event",
+      "description": "Unusually hot weather events, often exacerbated by climate change, and associated with various health and environmental impacts",
+      "uuid": "ca820557-401e-4e5e-ac32-29fdbc0628b3",
+      "score": 0.6656514392523847
+    },
+    {
+      "name": "toxic substance",
+      "label": "natural hazard",
+      "description": "Substances that can cause harm to humans and the environment, often used as a precedent in climate change litigation",
+      "uuid": "bf3aaf41-3502-49cf-89df-4613ce87c9c3",
+      "score": 0.5637351653970485
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Overflows of water that can cause damage and disruption to communities, often exacerbated by climate change",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6844059648900973
+    },
+    {
+      "name": "glacier lake",
+      "label": "natural hazard",
+      "description": "A body of water formed by the melting of glaciers, which can pose a flood risk to surrounding communities",
+      "uuid": "c0fba127-5208-4e8c-b18f-349dc14fb3d3",
+      "score": 0.5717031566429271
+    }
+  ],
+  "(19300, 22700)": [
+    {
+      "name": "glacier lake",
+      "label": "location",
+      "description": "A lake formed by the melting of glaciers, often found in mountainous regions such as the Andes",
+      "uuid": "c0fba127-5208-4e8c-b18f-349dc14fb3d3",
+      "score": 0.5788422461606906
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "A type of natural disaster that can be exacerbated by climate change, causing damage to communities and ecosystems",
+      "uuid": "fd03d204-4391-4e98-8142-8b8efa235231",
+      "score": 0.6378118062910006
+    },
+    {
+      "name": "governments",
+      "label": "provider",
+      "description": "Organizations responsible for governing and representing the interests of their citizens, including in matters related to climate change",
+      "uuid": "03e2acdd-67f7-4380-8c82-53aeb1d4730e",
+      "score": 0.5542164976447813
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of the planet due to human activities, leading to various impacts such as rising sea levels, more frequent natural disasters, and changes in weather patterns",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6065864167821512
+    },
+    {
+      "name": "low-lying islands",
+      "label": "location",
+      "description": "Islands that are at risk of submersion due to rising sea levels caused by climate change",
+      "uuid": "b0b29e5e-6028-49c5-bdc1-c288a7aa83ac",
+      "score": 0.50995102823588
+    },
+    {
+      "name": "permafrost thawing",
+      "label": "natural hazard",
+      "description": "The melting of permafrost, a type of frozen soil found in polar regions, which can lead to the release of methane and other greenhouse gases",
+      "uuid": "ed0501c5-310c-42ab-b1eb-66e211f22803",
+      "score": 0.672087177291582
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "A polar region located at the northernmost tip of the Earth, known for its cold climate and vulnerability to climate change impacts",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7809482063369576
+    }
+  ],
+  "(22144, 25393)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by the warming of Earth's atmosphere and oceans, affecting weather patterns and ecosystems worldwide",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5898939941499288
+    },
+    {
+      "name": "glacier shrinkage",
+      "label": "natural hazard",
+      "description": "The reduction in size of glaciers due to climate change, leading to changes in sea levels and water availability",
+      "uuid": "2f257f83-bddd-41ce-ac78-5dac857b1be3",
+      "score": 0.5696637580439838
+    },
+    {
+      "name": "river runoff",
+      "label": "ocean circulation",
+      "description": "The flow of water from land to ocean, influenced by factors such as precipitation, temperature, and glacier melt",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6943769795707659
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, influencing climate patterns and ecosystems",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6368081153093473
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water falling to Earth's surface, influencing climate patterns, ecosystems, and human activities",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6586416570227778
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, influencing plant growth, agriculture, and ecosystems",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.7016194548066593
+    },
+    {
+      "name": "phenology",
+      "label": "variable",
+      "description": "The study of the timing of recurring biological events, such as plant flowering or bird migration, influenced by climate change",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.6620412083065897
+    },
+    {
+      "name": "UNFCCC",
+      "label": "provider",
+      "description": "The United Nations Framework Convention on Climate Change, an international treaty aimed at stabilizing greenhouse gas concentrations and mitigating climate change",
+      "uuid": "67f93e65-5991-4ffa-85ec-a26bd324181e",
+      "score": 0.7806838297333653
+    }
+  ],
+  "(24867, 28096)": [
+    {
+      "name": "single extreme weather events",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences such as heatwaves, floods, and storms that have a significant impact on the environment and human societies",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.6065226958909984
+    },
+    {
+      "name": "extreme weather",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms that have a significant impact on the environment and human societies",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6897713132084703
+    },
+    {
+      "name": "extreme weather events",
+      "label": "weather event",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms that have a significant impact on the environment and human societies",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6668557763378524
+    },
+    {
+      "name": "anthropogenic climate change",
+      "label": "teleconnection",
+      "description": "The impact of human activities on the Earth's climate system, leading to changes in global climate patterns and extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5311340258948183
+    },
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, providing a comprehensive review of climate change science, impacts, and mitigation strategies",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.618148385686431
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, characterized by cold temperatures, ice, and unique ecosystems that are vulnerable to climate change",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7757493774103711
+    },
+    {
+      "name": "marine ecosystems",
+      "label": "natural system",
+      "description": "Ecosystems found in oceans, seas, and other saltwater environments, supporting a diverse range of marine life and providing important ecosystem services",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.7139356669876292
+    },
+    {
+      "name": "glaciers",
+      "label": "natural system",
+      "description": "Large, perennial masses of ice that form on land by the accumulation and compaction of snow, and are sensitive to climate change",
+      "uuid": "4a426aab-4a95-4bf4-8449-19a72a251541",
+      "score": 0.6697793367501469
+    },
+    {
+      "name": "permafrost",
+      "label": "natural system",
+      "description": "A type of soil or rock that remains frozen for two or more consecutive years, and is found in high-latitude and high-altitude regions",
+      "uuid": "c82f3480-545f-4491-83f1-0477369ddcd8",
+      "score": 0.7464876048501154
+    },
+    {
+      "name": "Arctic indigenous livelihoods",
+      "label": "human system",
+      "description": "The ways of life and cultural practices of indigenous communities living in the Arctic region, which are often closely tied to the natural environment and vulnerable to climate change",
+      "uuid": "342ee29f-1e63-4bb4-b8d0-8f07472de7a9",
+      "score": 0.5326273998767448
+    },
+    {
+      "name": "heat related human mortality",
+      "label": "variable",
+      "description": "A measure of the number of deaths caused by extreme heat events, which can be influenced by climate change, exposure, and vulnerability",
+      "uuid": "3fd888c4-2fd2-4ce1-8753-3158e2826ef7",
+      "score": 0.5481041863513225
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which people, assets, or ecosystems are susceptible to the impacts of climate-related hazards, such as extreme weather events, and are unable to cope with or recover from those impacts",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5956864965317527
+    }
+  ],
+  "(27546, 30830)": [
+    {
+      "name": "marine ecosystems",
+      "label": "location",
+      "description": "Ecosystems located in the ocean, which are influenced by climate change and can have significant impacts on the environment and human livelihoods",
+      "uuid": "f6350232-b1c7-458c-bc43-bda357ebb6db",
+      "score": 0.6650550401177255
+    },
+    {
+      "name": "glaciers and permafrost",
+      "label": "location",
+      "description": "Regions of frozen water and soil that are sensitive to climate change and can have significant impacts on the environment and human livelihoods",
+      "uuid": "1f4cdbc4-0f65-4384-83c9-9422c280717d",
+      "score": 0.558200100331757
+    },
+    {
+      "name": "Arctic indigenous livelihoods",
+      "label": "location",
+      "description": "The ways of life and cultural practices of indigenous communities living in the Arctic region, which are influenced by climate change",
+      "uuid": "342ee29f-1e63-4bb4-b8d0-8f07472de7a9",
+      "score": 0.5251155064287852
+    },
+    {
+      "name": "extreme events",
+      "label": "weather event",
+      "description": "Unusual and severe meteorological occurrences such as heatwaves, floods, and storms",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.6216683530316491
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the average weather patterns of a region or the entire planet, which can have significant impacts on the environment and human livelihoods",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5825921814133156
+    },
+    {
+      "name": "international climate policy",
+      "label": "project",
+      "description": "The global framework for addressing climate change, which includes agreements, laws, and policies to reduce greenhouse gas emissions and adapt to the impacts of climate change",
+      "uuid": "756a90f8-4203-46f1-87e9-9e0d64bdee50",
+      "score": 0.5011969815244199
+    },
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, which provides a comprehensive assessment of the science, impacts, and mitigation of climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.6095364529642103
+    },
+    {
+      "name": "detected and attributed impacts",
+      "label": "variable",
+      "description": "The effects of climate change that have been identified and attributed to specific causes",
+      "uuid": "1f0053e3-a1ac-4c7c-a4c4-1adacfe24a80",
+      "score": 0.508778524567306
+    },
+    {
+      "name": "long-term recording weather stations",
+      "label": "instrument",
+      "description": "Devices used to collect data on weather patterns over a long period of time",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.5761210687933073
+    },
+    {
+      "name": "phenological shifts",
+      "label": "variable",
+      "description": "Changes in the timing of seasonal events, such as the migration of animals or the blooming of plants, which can be influenced by climate change",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.7178548605223576
+    }
+  ],
+  "(30255, 33675)": [
+    {
+      "name": "phenological shifts",
+      "label": "variable",
+      "description": "Changes in the timing of seasonal biological events, such as migration or flowering, in response to climate change",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.7044257660781764
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide and methane into the atmosphere, contributing to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5441266442450341
+    },
+    {
+      "name": "IPCC AR5",
+      "label": "project",
+      "description": "The Fifth Assessment Report of the Intergovernmental Panel on Climate Change, a comprehensive report on the state of knowledge on climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5817866397095002
+    },
+    {
+      "name": "UNFCCC",
+      "label": "provider",
+      "description": "The United Nations Framework Convention on Climate Change, an international treaty aimed at stabilizing greenhouse gas concentrations in the atmosphere",
+      "uuid": "67f93e65-5991-4ffa-85ec-a26bd324181e",
+      "score": 0.7756219114829137
+    },
+    {
+      "name": "natural systems",
+      "label": "location",
+      "description": "Ecosystems and environments that exist without human intervention, such as forests, oceans, and wildlife habitats",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5446549188320915
+    }
+  ],
+  "(33110, 36692)": [
+    {
+      "name": "UNFCCC",
+      "label": "project",
+      "description": "The United Nations Framework Convention on Climate Change, an international treaty aimed at mitigating climate change",
+      "uuid": "67f93e65-5991-4ffa-85ec-a26bd324181e",
+      "score": 0.7877861707132949
+    },
+    {
+      "name": "satellite data",
+      "label": "instrument",
+      "description": "Data collected from satellites orbiting the Earth, used for various applications including climate monitoring and research",
+      "uuid": "17b1489c-fba7-4252-bf23-b981148343f1",
+      "score": 0.624836403569708
+    },
+    {
+      "name": "historical archives",
+      "label": "instrument",
+      "description": "Collections of historical documents, records, and data that can provide insights into past climate conditions and events",
+      "uuid": "5553fe9d-ab0a-4305-86a6-1f7f697e15e4",
+      "score": 0.50544719320703
+    },
+    {
+      "name": "cryosphere",
+      "label": "variable",
+      "description": "The portion of the Earth's surface where water is present in solid form, including ice sheets, glaciers, and sea ice",
+      "uuid": "fa0a36c3-2503-4662-98cd-7f3e74ce9f80",
+      "score": 0.7400459221411428
+    },
+    {
+      "name": "Arctic",
+      "label": "location",
+      "description": "The region around the North Pole, characterized by cold temperatures, sea ice, and unique ecosystems",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.7689073285244333
+    },
+    {
+      "name": "mountain",
+      "label": "location",
+      "description": "A natural elevation of the Earth's surface, often influencing local climate and ecosystems",
+      "uuid": "8b7f66ea-d481-4641-9dbf-da90ca3ad9c9",
+      "score": 0.607993411008491
+    }
+  ],
+  "(36130, 38086)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years, often attributed to human activities",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5562889435222768
+    },
+    {
+      "name": "SIDS",
+      "label": "provider",
+      "description": "Small Island Developing States, a group of countries that are highly vulnerable to climate change impacts due to their geographical location and limited resources",
+      "uuid": "34ade06e-d992-45aa-8fd1-9eabd2d417fc",
+      "score": 0.5023086372150096
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change and its impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.751139418280364
+    },
+    {
+      "name": "WGII AR5",
+      "label": "project",
+      "description": "The Working Group II contribution to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, focusing on climate change impacts, vulnerability, and adaptation",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.5582790662624839
+    },
+    {
+      "name": "GHCN",
+      "label": "project",
+      "description": "The Global Historical Climatology Network, a comprehensive collection of global surface air temperature station data",
+      "uuid": "c3e53b0d-cf82-4d03-ba0e-5544b99ad238",
+      "score": 0.8075284106866997
+    },
+    {
+      "name": "UNFCCC",
+      "label": "provider",
+      "description": "The United Nations Framework Convention on Climate Change, an international treaty aimed at stabilizing greenhouse gas concentrations in the atmosphere",
+      "uuid": "67f93e65-5991-4ffa-85ec-a26bd324181e",
+      "score": 0.7756219114829137
+    },
+    {
+      "name": "global surface air temperature",
+      "label": "variable",
+      "description": "A measure of the temperature of the air near the Earth's surface, often used as an indicator of climate change",
+      "uuid": "5a7bb095-4d12-4232-bc75-b8e82197cb92",
+      "score": 0.5971145129049696
+    },
+    {
+      "name": "natural systems",
+      "label": "location",
+      "description": "Ecosystems, such as forests, oceans, and wildlife, that are not created or dominated by humans",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.5715011810942144
+    }
+  ]
+}

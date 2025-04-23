@@ -1,0 +1,495 @@
+{
+  "(0, 2893)": [
+    {
+      "name": "SRES A1B scenario",
+      "label": "experiment",
+      "description": "A greenhouse gas emissions scenario used in climate modeling, representing a balanced emphasis on all energy sources and a global population that peaks in the mid-21st century",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5146750001225637
+    },
+    {
+      "name": "SWAT",
+      "label": "model",
+      "description": "The Soil and Water Assessment Tool, a hydrological model used to simulate the impact of land management practices on water, sediment, and agricultural chemical yields in large complex watersheds",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5860779811481229
+    },
+    {
+      "name": "Regional Climate Model",
+      "label": "model",
+      "description": "A type of climate model that focuses on a specific region, providing high-resolution climate projections for that area",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.514927358630567
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems and human societies",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7036570460955207
+    },
+    {
+      "name": "monsoonal floods",
+      "label": "weather event",
+      "description": "Severe flooding events associated with the monsoon season, characterized by heavy rainfall and high river discharge",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.5307046817998607
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the statistical distribution of weather patterns, potentially leading to alterations in ecosystems, sea levels, and global temperatures",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5865812168128552
+    }
+  ],
+  "(2405, 5522)": [
+    {
+      "name": "plant transpiration rates",
+      "label": "variable",
+      "description": "The rate at which plants release water vapor into the atmosphere through transpiration, influencing local climate and hydrology",
+      "uuid": "79422e05-bf40-4e7f-9675-1cfcbf9053e8",
+      "score": 0.5888469668615951
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which liquid water becomes water vapor, an important component of the Earth's water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.7079844452440472
+    },
+    {
+      "name": "runoff regimes",
+      "label": "variable",
+      "description": "The patterns and characteristics of water flow over land into streams, rivers, and lakes, influenced by climate, topography, and land use",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6332161011964889
+    },
+    {
+      "name": "hydrological regime",
+      "label": "variable",
+      "description": "The overall pattern of water flow and storage within a river basin, including precipitation, evaporation, runoff, and groundwater flow",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.7122610454633514
+    },
+    {
+      "name": "Regional Climate Model",
+      "label": "model",
+      "description": "A type of climate model that focuses on simulating climate patterns and processes at the regional scale",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.5074953983943762
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872478600468966
+    }
+  ],
+  "(4979, 7887)": [
+    {
+      "name": "Regional Climate Model",
+      "label": "model",
+      "description": "A type of climate model that provides high-resolution simulations of future climate scenarios, useful for assessing regional climate change impacts",
+      "uuid": "286de7c6-deed-443f-a3e0-b67ad7fba9eb",
+      "score": 0.507036524250498
+    },
+    {
+      "name": "GCM",
+      "label": "model",
+      "description": "A Global Climate Model, used for simulating global climate patterns and predicting future climate change scenarios",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7063935063927318
+    },
+    {
+      "name": "RCM simulations",
+      "label": "experiment",
+      "description": "Simulations using Regional Climate Models to predict future climate scenarios and assess potential climate change impacts",
+      "uuid": "c15e05c9-9dc4-4712-98ba-a05d61bdf1c1",
+      "score": 0.5020890234863803
+    },
+    {
+      "name": "hydrological modelling approach",
+      "label": "model",
+      "description": "A methodological approach used to simulate and predict hydrological processes, such as river flow and water balance",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5031808345984622
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, resulting from natural and anthropogenic factors, with significant impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.6051002966818528
+    },
+    {
+      "name": "riverine ecosystem",
+      "label": "platform",
+      "description": "An ecosystem that depends on the river and its surrounding environment, supporting a diverse range of plant and animal species",
+      "uuid": "41446bdc-89f6-4d84-a2a4-005390757235",
+      "score": 0.5466989973202285
+    },
+    {
+      "name": "discharge data",
+      "label": "variable",
+      "description": "Data related to the flow rate of a river, used to study hydrological processes and assess climate change impacts",
+      "uuid": "12dc1f4f-2116-4b74-a1bd-bc61e8e57a5b",
+      "score": 0.652875197260345
+    },
+    {
+      "name": "monsoon runoff",
+      "label": "variable",
+      "description": "The amount of water that flows over the land and into streams and rivers during the monsoon season, influencing the river's hydrology and ecosystem",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5741793992907475
+    },
+    {
+      "name": "evapotranspiration rates",
+      "label": "variable",
+      "description": "The rate at which water is lost from the soil and plants to the atmosphere through evaporation and transpiration, influencing the local hydrology and climate",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6505353825237585
+    }
+  ],
+  "(7444, 10216)": [
+    {
+      "name": "SWAT hydrologic model",
+      "label": "model",
+      "description": "The Soil and Water Assessment Tool, a computer model used to simulate the quality and quantity of surface and groundwater and predict the environmental impact of land management practices",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5684027795801613
+    },
+    {
+      "name": "river discharge",
+      "label": "variable",
+      "description": "The volume of water flowing through a river over a given time period, an important factor in aquatic ecosystems and water resource management",
+      "uuid": "12dc1f4f-2116-4b74-a1bd-bc61e8e57a5b",
+      "score": 0.6552213451418236
+    },
+    {
+      "name": "groundwater resources",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface, often used for human consumption, agriculture, and other purposes",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.633855783407394
+    },
+    {
+      "name": "climatic forcing",
+      "label": "variable",
+      "description": "The influence of climate patterns and changes on hydrological processes and water resources",
+      "uuid": "dc3f297b-8471-4101-b70e-dc5765762061",
+      "score": 0.5162648690187122
+    },
+    {
+      "name": "ecosystem",
+      "label": "natural hazard",
+      "description": "A community of living and non-living components that interact with each other in a specific environment, vulnerable to degradation and disruption",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.64838162696361
+    },
+    {
+      "name": "fish",
+      "label": "variable",
+      "description": "A type of aquatic organism, often used as a food source and indicator of ecosystem health",
+      "uuid": "ea855d4c-f132-44f9-b31c-447e1101684d",
+      "score": 0.6778682436508501
+    }
+  ],
+  "(9775, 12346)": [
+    {
+      "name": "SWAT",
+      "label": "model",
+      "description": "A river basin scale model used to predict the impact of land management practices on water, sediment and agricultural chemical yields in large complex watersheds with varying soils, land uses, and management conditions over long periods of time",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.6176362902113034
+    },
+    {
+      "name": "Arc-SWAT",
+      "label": "instrument",
+      "description": "An extension of the SWAT model for ArcGIS, used for the preprocessing and setup of the SWAT model",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5555983186436251
+    },
+    {
+      "name": "ArcGIS",
+      "label": "platform",
+      "description": "A geographic information system (GIS) software used for mapping, analyzing, and managing geographic data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.5731530238115824
+    },
+    {
+      "name": "river discharges",
+      "label": "variable",
+      "description": "The flow rate of water in a river, often measured and modeled in hydrological studies",
+      "uuid": "12dc1f4f-2116-4b74-a1bd-bc61e8e57a5b",
+      "score": 0.6343848287322115
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical material at the land surface, such as vegetation, soil, or water, which affects hydrological processes",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.5820424690812335
+    },
+    {
+      "name": "soil",
+      "label": "variable",
+      "description": "The upper layer of the Earth's surface, consisting of mineral and organic matter, which plays a crucial role in hydrological and ecological processes",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6594212057938279
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "The height of the Earth's surface above sea level, which influences hydrological processes such as runoff and erosion",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.5790669900368935
+    },
+    {
+      "name": "watershed",
+      "label": "location",
+      "description": "A region of land that drains water into a particular river or lake, often studied in hydrological research",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.6915408175069226
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, often caused by human activities and resulting in significant impacts on the environment and ecosystems",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5844511138549603
+    }
+  ],
+  "(11876, 14864)": [
+    {
+      "name": "SWAT",
+      "label": "model",
+      "description": "The Soil and Water Assessment Tool, a computer model used for simulating hydrologic processes and predicting water quality and quantity",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5683777903418756
+    },
+    {
+      "name": "RCM",
+      "label": "model",
+      "description": "Regional Climate Model, a type of climate model that focuses on simulating climate conditions at the regional scale",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5230684300076948
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in a stream or river, often used as an indicator of hydrologic conditions",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.5534051366282635
+    }
+  ],
+  "(14309, 16752)": [
+    {
+      "name": "SWAT",
+      "label": "model",
+      "description": "The Soil and Water Assessment Tool, a comprehensive model for simulating the impact of land management practices on water, sediment, and agricultural chemical yields in large complex watersheds",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5940289912335375
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The rate at which water flows through a given point in a stream or river, often used as an indicator of watershed health and water availability",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.572078048543798
+    },
+    {
+      "name": "alpha baseflow (ALPHA BF)",
+      "label": "variable",
+      "description": "A parameter in the SWAT model that controls the rate at which groundwater flows into streams",
+      "uuid": "609f7831-5145-4a5c-bd58-d0b426058740",
+      "score": 0.5145871775228009
+    }
+  ],
+  "(16311, 18998)": [
+    {
+      "name": "SWAT model",
+      "label": "model",
+      "description": "A semi-distributed hydrological model that simulates the effects of climate, soil, topography, vegetation, and land management practices on water, sediment, and agricultural chemical yields in large complex watersheds",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.6026456240178945
+    },
+    {
+      "name": "SRES A1B scenario",
+      "label": "experiment",
+      "description": "A scenario from the Special Report on Emissions Scenarios, representing a future world with rapid economic growth, low population growth, and a balance across all energy sources",
+      "uuid": "666b0926-b509-4680-b551-530d8aaca9ec",
+      "score": 0.5086071755364362
+    },
+    {
+      "name": "International Union for Conservation of Nature",
+      "label": "provider",
+      "description": "An international organization that works to conserve and protect species and their habitats",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.6629546484634787
+    },
+    {
+      "name": "IUCN",
+      "label": "provider",
+      "description": "The International Union for Conservation of Nature, an organization that categorizes and protects threatened species",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.653817185136594
+    },
+    {
+      "name": "monsoon floods",
+      "label": "weather event",
+      "description": "Seasonal floods that occur during the monsoon season in certain regions, affecting the local ecosystem and human settlements",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.5201227260498279
+    },
+    {
+      "name": "irrigation",
+      "label": "variable",
+      "description": "The artificial application of water to land or soil, used to support plant growth and crop production",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7069509554707191
+    }
+  ],
+  "(18543, 21399)": [
+    {
+      "name": "International Union for Conservation of Nature",
+      "label": "provider",
+      "description": "An international organization working to conserve and protect species and their habitats",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.6668701165122104
+    },
+    {
+      "name": "IUCN",
+      "label": "provider",
+      "description": "The International Union for Conservation of Nature, responsible for categorizing and protecting threatened species",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.6431039606294032
+    },
+    {
+      "name": "monthly average flows",
+      "label": "variable",
+      "description": "A measure of the average flow rate of a river over a month, used to analyze the effects of dam construction",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5218521155331926
+    },
+    {
+      "name": "floodplains",
+      "label": "location",
+      "description": "The areas surrounding a river that are prone to flooding, which provide important habitats for various species",
+      "uuid": "d71f94cb-e773-487a-a8ff-9c5f11c1dbc4",
+      "score": 0.638144381016137
+    },
+    {
+      "name": "floods",
+      "label": "weather event",
+      "description": "A natural disaster that occurs when a river overflows its banks, which can be affected by dam construction",
+      "uuid": "fd03d204-4391-4e98-8142-8b8efa235231",
+      "score": 0.6496548630379138
+    },
+    {
+      "name": "irrigation",
+      "label": "experiment",
+      "description": "A human activity that involves diverting water from a river for agricultural purposes, which can affect the flow regime of the river",
+      "uuid": "59b3849e-6704-402f-9a3e-512db10c2f51",
+      "score": 0.5971290175495011
+    }
+  ],
+  "(20883, 23393)": [
+    {
+      "name": "SWAT",
+      "label": "model",
+      "description": "The Soil and Water Assessment Tool, a computer model used for simulating the quality and quantity of water in watersheds",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5628195806368802
+    },
+    {
+      "name": "floodplains",
+      "label": "location",
+      "description": "Flat areas surrounding rivers that can flood, providing important habitats for aquatic species",
+      "uuid": "d71f94cb-e773-487a-a8ff-9c5f11c1dbc4",
+      "score": 0.6628731737615449
+    },
+    {
+      "name": "IUCN",
+      "label": "provider",
+      "description": "The International Union for Conservation of Nature, an organization that works to conserve and protect species and their habitats",
+      "uuid": "872b4436-adf6-40b1-86a3-8d46454c5daa",
+      "score": 0.6871046012383669
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in Earth's climate, influencing weather patterns, ecosystems, and species distribution",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5884719422957103
+    },
+    {
+      "name": "hydrologic indicators",
+      "label": "variable",
+      "description": "Quantities used to measure and assess the characteristics of water flow and quality in a river basin",
+      "uuid": "9246fc12-17e7-4473-b9c0-c23e4bfc4eda",
+      "score": 0.5199929821692036
+    },
+    {
+      "name": "flow regime",
+      "label": "ocean circulation",
+      "description": "The pattern of water flow in a river or stream, influenced by factors such as precipitation, evaporation, and human activities",
+      "uuid": "9731faa4-b7ae-4ead-8f00-ff8ec89fd5f7",
+      "score": 0.5858336346398259
+    }
+  ],
+  "(22905, 26005)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by long-term changes in the Earth's climate, driven by human activities and natural processes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5815917892346628
+    },
+    {
+      "name": "ecosystem",
+      "label": "platform",
+      "description": "A community of living and non-living components that interact with each other in a specific environment, such as a riverine ecosystem",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6654618774332703
+    },
+    {
+      "name": "irrigation",
+      "label": "variable",
+      "description": "The artificial application of water to land or soil, used to support plant growth and crop production",
+      "uuid": "a756fd6b-6208-4af0-ac56-6ee914fc4597",
+      "score": 0.7069509554707191
+    }
+  ],
+  "(25444, 27240)": [
+    {
+      "name": "aquatic ecosystems",
+      "label": "ecosystem",
+      "description": "Communities of plants and animals that interact with each other and their environment in aquatic environments such as rivers, lakes, and wetlands",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6884701677524098
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, driven by human activities and natural processes, with significant impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5927934016849287
+    },
+    {
+      "name": "SWAT",
+      "label": "model",
+      "description": "The Soil and Water Assessment Tool, a computer model used to simulate the quality and quantity of water in watersheds",
+      "uuid": "32f6461a-637f-414f-b2c2-e224bccb0fc9",
+      "score": 0.5609768147520406
+    },
+    {
+      "name": "ecological data",
+      "label": "variable",
+      "description": "Information about the relationships between organisms and their environment, used to understand and manage ecosystems",
+      "uuid": "6bef0291-a9ca-4832-bbb4-80459dc1493f",
+      "score": 0.5287102591859987
+    }
+  ]
+}

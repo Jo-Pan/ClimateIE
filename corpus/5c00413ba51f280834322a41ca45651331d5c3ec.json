@@ -1,0 +1,425 @@
+{
+  "(0, 3040)": [
+    {
+      "name": "microorganisms",
+      "label": "organism",
+      "description": "Microscopic living organisms, including bacteria, viruses, fungi, and others, that inhabit the phyllosphere and play a role in plant health",
+      "uuid": "ed1b3fa6-173d-476c-9b35-c57335c0a473",
+      "score": 0.5087683261296745
+    },
+    {
+      "name": "pathogens",
+      "label": "organism",
+      "description": "Microorganisms that cause disease in plants, including bacteria, fungi, and viruses",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5175965932035724
+    },
+    {
+      "name": "pesticides",
+      "label": "instrument",
+      "description": "Chemical substances used to control pests, including insects, weeds, and diseases, but can pose a threat to human health and the environment",
+      "uuid": "bc1c6d8c-2e47-4a9f-aeb4-16b02bff4f19",
+      "score": 0.6781358594514132
+    },
+    {
+      "name": "fertilizers",
+      "label": "instrument",
+      "description": "Substances added to soil to promote plant growth and fertility, but can have negative environmental impacts",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.6563785517207806
+    }
+  ],
+  "(2524, 5362)": [
+    {
+      "name": "microorganisms",
+      "label": "organism",
+      "description": "A diverse group of microscopic living organisms, including bacteria, fungi, and viruses, that inhabit various environments, including the phyllosphere",
+      "uuid": "486922c4-afbb-4a85-8e5a-343fc4595ad3",
+      "score": 0.5319268929645834
+    },
+    {
+      "name": "pathogen",
+      "label": "organism",
+      "description": "A microorganism that causes disease in plants, animals, or humans",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.6043304335086099
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5143396384473272
+    },
+    {
+      "name": "season",
+      "label": "variable",
+      "description": "A period of the year characterized by specific weather patterns, such as winter, spring, summer, or fall",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5202214929431095
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The way in which land is used by humans, such as for agriculture, urban development, or conservation",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5652078912928802
+    },
+    {
+      "name": "leaf characteristics",
+      "label": "variable",
+      "description": "The physical and chemical properties of leaves, such as their shape, size, color, and composition",
+      "uuid": "bca1b724-3370-4a26-bcbc-3530ce4ddc97",
+      "score": 0.6529770838632564
+    }
+  ],
+  "(4953, 7429)": [
+    {
+      "name": "season",
+      "label": "variable",
+      "description": "A period of the year characterized by specific weather patterns and conditions, affecting the phyllosphere community",
+      "uuid": "7c5420a6-94e2-40ca-9dff-20309090d327",
+      "score": 0.5001667292709447
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "Human activities that alter the natural environment, such as agriculture or urbanization, impacting the phyllosphere community",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5177011883822262
+    },
+    {
+      "name": "leaf characteristics",
+      "label": "variable",
+      "description": "The physical and chemical properties of plant leaves, influencing the phyllosphere community",
+      "uuid": "bca1b724-3370-4a26-bcbc-3530ce4ddc97",
+      "score": 0.6327545128911644
+    },
+    {
+      "name": "methanol",
+      "label": "variable",
+      "description": "A single-carbon compound metabolized by Methylobacterium spp. in the phyllosphere",
+      "uuid": "228c14d1-e9bf-4c25-a67b-92c99bc2a8b7",
+      "score": 0.6219904620716036
+    },
+    {
+      "name": "nutrients",
+      "label": "variable",
+      "description": "Substances required for the growth and survival of microorganisms in the phyllosphere",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.5759742590896393
+    }
+  ],
+  "(9127, 11473)": [
+    {
+      "name": "cyanide",
+      "label": "variable",
+      "description": "A toxic compound that can be produced by certain bacteria and has been shown to have biocontrol activity",
+      "uuid": "af157837-bdbd-4a9a-b24e-6a79adfef57f",
+      "score": 0.5774752187905601
+    },
+    {
+      "name": "volatile organic compounds",
+      "label": "variable",
+      "description": "A type of molecule produced by certain bacteria that can be released into the air and has been shown to have biocontrol activity",
+      "uuid": "1f3c543d-9ca9-4db4-b4a5-d3e2fd71e4a4",
+      "score": 0.678546291110904
+    }
+  ],
+  "(11137, 13642)": [
+    {
+      "name": "cyanide",
+      "label": "variable",
+      "description": "A toxic compound produced by certain bacteria as a defense mechanism",
+      "uuid": "af157837-bdbd-4a9a-b24e-6a79adfef57f",
+      "score": 0.5634414536011587
+    },
+    {
+      "name": "volatile organic compounds",
+      "label": "variable",
+      "description": "Carbon-based chemicals that evaporate easily and can be produced by various organisms, including bacteria",
+      "uuid": "1f3c543d-9ca9-4db4-b4a5-d3e2fd71e4a4",
+      "score": 0.7697750367663725
+    }
+  ],
+  "(15175, 17585)": [
+    {
+      "name": "genome",
+      "label": "instrument",
+      "description": "The complete set of genetic information in an organism, used to study the genetic basis of biocontrol activity in B. amyloliquefaciens",
+      "uuid": "1eb01003-dc1c-4743-be8b-22aaefd23a2c",
+      "score": 0.6681337919928819
+    }
+  ],
+  "(17258, 19567)": [
+    {
+      "name": "genome",
+      "label": "platform",
+      "description": "The complete set of genetic information contained within an organism's DNA",
+      "uuid": "1eb01003-dc1c-4743-be8b-22aaefd23a2c",
+      "score": 0.738192085108484
+    }
+  ],
+  "(21474, 24046)": [
+    {
+      "name": "plants",
+      "label": "platform",
+      "description": "Organisms that provide a habitat for various microbes, including bacteria and fungi",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.5041309209898096
+    }
+  ],
+  "(27901, 30518)": [
+    {
+      "name": "methanol",
+      "label": "variable",
+      "description": "A single carbon compound used as a carbon source by methylotrophic bacteria",
+      "uuid": "228c14d1-e9bf-4c25-a67b-92c99bc2a8b7",
+      "score": 0.6270302183696033
+    },
+    {
+      "name": "methane",
+      "label": "variable",
+      "description": "A single carbon compound used as a carbon source by methylotrophic bacteria",
+      "uuid": "7c892333-f4c4-4f81-b825-d6a86e107e9f",
+      "score": 0.5730885415288361
+    }
+  ],
+  "(34526, 37337)": [
+    {
+      "name": "pathogen",
+      "label": "pathogen",
+      "description": "An organism that causes disease in another organism",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5882835914045857
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of earth in which plants grow, a complex ecosystem that supports plant life",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6072916131174569
+    },
+    {
+      "name": "population size",
+      "label": "variable",
+      "description": "The number of individuals of a particular species living in a given area",
+      "uuid": "dd0b8bc9-90b3-4e7d-a021-e91dc676d622",
+      "score": 0.6688193406969221
+    },
+    {
+      "name": "iron",
+      "label": "element",
+      "description": "A chemical element essential for many biological processes, including oxygen transport and enzyme function",
+      "uuid": "0965eb7b-6bd3-48a3-aa2a-52d7e2dda8ad",
+      "score": 0.6304222545084623
+    },
+    {
+      "name": "fertilizer",
+      "label": "substance",
+      "description": "A substance added to soil to promote plant growth and fertility",
+      "uuid": "18a8197e-3a3f-408c-9c51-e9fe89dd6b45",
+      "score": 0.6181054035357313
+    }
+  ],
+  "(36926, 39416)": [
+    {
+      "name": "population size",
+      "label": "variable",
+      "description": "A measure of the number of individuals in a population, in this case, the population size of the bacterium",
+      "uuid": "dd0b8bc9-90b3-4e7d-a021-e91dc676d622",
+      "score": 0.6268807124825888
+    },
+    {
+      "name": "iron",
+      "label": "variable",
+      "description": "A chemical element essential for many biological processes",
+      "uuid": "0965eb7b-6bd3-48a3-aa2a-52d7e2dda8ad",
+      "score": 0.6405969431307632
+    }
+  ],
+  "(41275, 44171)": [
+    {
+      "name": "plants",
+      "label": "organism",
+      "description": "Living organisms that photosynthesize and are the basis of most terrestrial food chains",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.5739620209058489
+    },
+    {
+      "name": "pathogens",
+      "label": "organism",
+      "description": "Microorganisms that cause disease in other organisms",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5820861341911815
+    },
+    {
+      "name": "volatile compounds",
+      "label": "molecule",
+      "description": "Chemicals that are emitted by bacteria and can trigger an immune response in plants",
+      "uuid": "1f3c543d-9ca9-4db4-b4a5-d3e2fd71e4a4",
+      "score": 0.5157724500178205
+    }
+  ],
+  "(43661, 46403)": [
+    {
+      "name": "plants",
+      "label": "organism",
+      "description": "Multicellular organisms that photosynthesize and form the basis of most food chains on Earth",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.5797386677550967
+    },
+    {
+      "name": "pathogen",
+      "label": "organism",
+      "description": "An organism that causes disease in another organism",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5882835914045857
+    },
+    {
+      "name": "nutrients",
+      "label": "substance",
+      "description": "Substances required by organisms for growth and survival",
+      "uuid": "9bcb805c-718e-42c3-913d-174bdf06d4c1",
+      "score": 0.663062721205714
+    },
+    {
+      "name": "space",
+      "label": "location",
+      "description": "The physical environment or area occupied by an organism",
+      "uuid": "3ffa2d97-a066-4b3c-87f9-06779f12e726",
+      "score": 0.5640328524872301
+    }
+  ],
+  "(48296, 50704)": [
+    {
+      "name": "flooding",
+      "label": "natural hazard",
+      "description": "An overflow of water that submerges land and causes damage to the environment, human settlements, and agriculture",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.6972872099134234
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A prolonged period of abnormally low rainfall, leading to water scarcity and impacts on ecosystems, agriculture, and human societies",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.719200484841435
+    }
+  ],
+  "(50298, 52477)": [
+    {
+      "name": "plant",
+      "label": "platform",
+      "description": "Organisms that grow in the ground, which provide a habitat for various microorganisms",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.5177453225212867
+    }
+  ],
+  "(56241, 58883)": [
+    {
+      "name": "photosynthetic activities",
+      "label": "variable",
+      "description": "The processes by which plants convert light energy into chemical energy, essential for plant growth and development",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6007100790349673
+    }
+  ],
+  "(58444, 61079)": [
+    {
+      "name": "symbiont",
+      "label": "variable",
+      "description": "An organism that lives in a symbiotic relationship with another organism, often providing benefits such as nutrients or protection",
+      "uuid": "e008a809-42eb-4694-aac2-db7b6027ee77",
+      "score": 0.525591858618658
+    },
+    {
+      "name": "host",
+      "label": "variable",
+      "description": "The organism that provides a habitat or resources for a symbiont or microbe",
+      "uuid": "f8845bec-c628-4185-aac1-4af22481c024",
+      "score": 0.500279304140671
+    },
+    {
+      "name": "photosynthetic activities",
+      "label": "variable",
+      "description": "The processes by which plants convert light energy into chemical energy, which can be influenced by microbe-plant interactions",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.5449474747404114
+    }
+  ],
+  "(65207, 68251)": [
+    {
+      "name": "crops",
+      "label": "location",
+      "description": "Areas of land where plants are cultivated for food or other agricultural products",
+      "uuid": "2c74f390-9d82-4903-98e0-bddf0d3247fb",
+      "score": 0.5631763993172723
+    },
+    {
+      "name": "diseases",
+      "label": "natural hazard",
+      "description": "Pathogens or conditions that can harm or kill plants",
+      "uuid": "213cefd8-806f-40f5-b3ca-05022cde9498",
+      "score": 0.5811049029303905
+    },
+    {
+      "name": "pathogen",
+      "label": "natural hazard",
+      "description": "Microorganisms that can cause disease in plants or animals",
+      "uuid": "6fff6994-a0d8-4f19-8d36-c9f354b08b19",
+      "score": 0.5823684028945424
+    },
+    {
+      "name": "metagenome",
+      "label": "instrument",
+      "description": "The complete set of genetic material present in a sample of microorganisms",
+      "uuid": "1a6ed5fe-608e-46a0-ab9e-1306de875ebe",
+      "score": 0.7093720581329807
+    },
+    {
+      "name": "metatranscriptome",
+      "label": "instrument",
+      "description": "The complete set of transcripts present in a sample of microorganisms",
+      "uuid": "1a6ed5fe-608e-46a0-ab9e-1306de875ebe",
+      "score": 0.5591294954779453
+    },
+    {
+      "name": "metaproteome",
+      "label": "instrument",
+      "description": "The complete set of proteins present in a sample of microorganisms",
+      "uuid": "1a6ed5fe-608e-46a0-ab9e-1306de875ebe",
+      "score": 0.5405529786962808
+    },
+    {
+      "name": "metabolome",
+      "label": "instrument",
+      "description": "The complete set of metabolites present in a sample of microorganisms",
+      "uuid": "f978bbb1-08fb-4cc5-bb49-d8da0ee07bc4",
+      "score": 0.5604513096806
+    }
+  ],
+  "(67662, 69869)": [
+    {
+      "name": "ecology",
+      "label": "variable",
+      "description": "The study of the relationships between living organisms and their environment, including the phyllosphere",
+      "uuid": "62c6d256-e6d4-4204-b7a8-e084dd52d30a",
+      "score": 0.5196596917815274
+    },
+    {
+      "name": "CC BY",
+      "label": "instrument",
+      "description": "The Creative Commons Attribution License, a license that allows for the free use, distribution, and reproduction of creative works, provided the original author(s) and copyright owner(s) are credited",
+      "uuid": "95c7e601-fcfe-4fc9-9994-8105a1e11428",
+      "score": 0.7718330904382295
+    },
+    {
+      "name": "Creative Commons Attribution License",
+      "label": "instrument",
+      "description": "A license that allows for the free use, distribution, and reproduction of creative works, provided the original author(s) and copyright owner(s) are credited",
+      "uuid": "95c7e601-fcfe-4fc9-9994-8105a1e11428",
+      "score": 0.7030178104724455
+    }
+  ]
+}

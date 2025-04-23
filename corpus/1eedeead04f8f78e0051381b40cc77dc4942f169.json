@@ -1,0 +1,173 @@
+{
+  "(2678, 5731)": [
+    {
+      "name": "Amazon Web Services (AWS)",
+      "label": "provider",
+      "description": "A cloud computing platform offered by Amazon, providing a range of services including data storage, analytics, and machine learning",
+      "uuid": "37e8cd0f-4d14-4f87-8c23-b33fb3b89c12",
+      "score": 0.5937257085714939
+    }
+  ],
+  "(7798, 10825)": [
+    {
+      "name": "transportation",
+      "label": "location",
+      "description": "The movement of people, goods, and services from one place to another",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.6314083821492812
+    }
+  ],
+  "(12778, 15877)": [
+    {
+      "name": "Hong Kong city",
+      "label": "location",
+      "description": "A city in China, facing unique challenges such as limited clean drinking water and declining air quality",
+      "uuid": "d5182160-6764-4662-80fe-1ec252d36f20",
+      "score": 0.526615188060419
+    },
+    {
+      "name": "air quality index",
+      "label": "variable",
+      "description": "A measure of the level of air pollution in a given area, used to assess the quality of the air",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5692961981331393
+    },
+    {
+      "name": "waste water control",
+      "label": "project",
+      "description": "Initiatives to manage and treat wastewater in a smart city, reducing environmental pollution",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5901021414673355
+    },
+    {
+      "name": "humidity level",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, used to control environmental conditions in a smart greenhouse",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.6078503526476892
+    }
+  ],
+  "(15303, 18598)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often controlled in greenhouse farming",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5420535498777485
+    },
+    {
+      "name": "humidity level",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air, often controlled in greenhouse farming",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.5903334372735322
+    },
+    {
+      "name": "pressure",
+      "label": "variable",
+      "description": "A measure of the force exerted on a surface, often monitored in industrial settings",
+      "uuid": "1c3fa118-3130-4951-ada1-755fcf0776f9",
+      "score": 0.6409314530433046
+    }
+  ],
+  "(23145, 26220)": [
+    {
+      "name": "Virus",
+      "label": "instrument",
+      "description": "A type of malicious software that can replicate itself and spread to other systems, often causing harm to the host system",
+      "uuid": "85510ccc-5dc9-44ff-871e-775e856714f8",
+      "score": 0.5033184369574238
+    }
+  ],
+  "(35805, 38901)": [
+    {
+      "name": "IoT sensors",
+      "label": "instrument",
+      "description": "Devices used to measure and collect data in various environments, including hostile or unattended areas",
+      "uuid": "aa953a14-4581-47f8-a5b3-c8dd50904ee0",
+      "score": 0.5558239568222315
+    }
+  ],
+  "(43670, 46700)": [
+    {
+      "name": "IDS",
+      "label": "instrument",
+      "description": "A system that monitors and analyzes network traffic for signs of unauthorized access or malicious activity",
+      "uuid": "eb784368-9b92-49b0-afc5-ea820e996f33",
+      "score": 0.5346312802290453
+    }
+  ],
+  "(46201, 49277)": [
+    {
+      "name": "IDS",
+      "label": "model",
+      "description": "Intrusion Detection System, a security mechanism used to detect and prevent malicious activities in networks and systems",
+      "uuid": "eb784368-9b92-49b0-afc5-ea820e996f33",
+      "score": 0.574493540297569
+    }
+  ],
+  "(48682, 51983)": [
+    {
+      "name": "machine learning",
+      "label": "model",
+      "description": "A subset of artificial intelligence that involves training algorithms to learn from data and make predictions or decisions",
+      "uuid": "fe4392b0-13a9-43ff-bacc-f44a65aed4fa",
+      "score": 0.630854150760136
+    },
+    {
+      "name": "clustering and classification algorithms",
+      "label": "instrument",
+      "description": "Machine learning techniques used to group similar data points or classify them into categories",
+      "uuid": "e4ef83d6-c132-4cd9-ab8b-5745949877d4",
+      "score": 0.6017921725118859
+    },
+    {
+      "name": "graph-based convolution neural network (CNN)",
+      "label": "model",
+      "description": "A type of deep learning algorithm used for image and signal processing, adapted for IoT botnet detection",
+      "uuid": "94febaa2-74d0-4f38-93d5-f91cf15f9037",
+      "score": 0.5262173296556211
+    }
+  ],
+  "(51493, 54439)": [
+    {
+      "name": "IDS",
+      "label": "instrument",
+      "description": "Intrusion Detection System, a device or software application that monitors network or system activities for malicious activity",
+      "uuid": "eb784368-9b92-49b0-afc5-ea820e996f33",
+      "score": 0.5367997591710562
+    },
+    {
+      "name": "CNN",
+      "label": "instrument",
+      "description": "Convolutional Neural Network, a type of deep learning algorithm used for image and signal processing",
+      "uuid": "94febaa2-74d0-4f38-93d5-f91cf15f9037",
+      "score": 0.6469515754262238
+    }
+  ],
+  "(56124, 59379)": [
+    {
+      "name": "deep learning algorithms",
+      "label": "model",
+      "description": "A type of machine learning algorithm used for complex tasks such as image recognition, natural language processing, and malware detection",
+      "uuid": "543135bc-7749-49ca-89af-b108cac1afaa",
+      "score": 0.5666426929584436
+    },
+    {
+      "name": "sensing devices",
+      "label": "instrument",
+      "description": "Devices that detect and measure physical parameters such as temperature, pressure, and motion",
+      "uuid": "aa953a14-4581-47f8-a5b3-c8dd50904ee0",
+      "score": 0.5382520797267246
+    }
+  ],
+  "(58794, 61999)": [
+    {
+      "name": "cloud",
+      "label": "platform",
+      "description": "A model of delivering computing services over the internet, providing on-demand access to a shared pool of resources",
+      "uuid": "1c08d8f3-f733-41d8-a01b-2f4044043224",
+      "score": 0.5147909597856506
+    }
+  ]
+}

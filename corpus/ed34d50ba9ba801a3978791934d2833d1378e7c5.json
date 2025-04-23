@@ -1,0 +1,1215 @@
+{
+  "(0, 2894)": [
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A greenhouse gas emission scenario representing a moderate increase in emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5994088662482489
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A greenhouse gas emission scenario representing a high increase in emissions",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6585773312201544
+    },
+    {
+      "name": "coastal flooding",
+      "label": "natural hazard",
+      "description": "A type of flooding that occurs when the sea level rises and inundates coastal areas",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.5669594006843487
+    },
+    {
+      "name": "coastal erosion",
+      "label": "natural hazard",
+      "description": "The wearing away of the coastline due to the action of waves, tides, and currents",
+      "uuid": "097a7f54-df6e-4aeb-8d15-65d4bd24da64",
+      "score": 0.5846928800132934
+    },
+    {
+      "name": "UNESCO",
+      "label": "provider",
+      "description": "The United Nations Educational, Scientific and Cultural Organization, responsible for recognizing and protecting World Heritage Sites",
+      "uuid": "450ebf35-951f-45ec-aa6f-feb9429e2bc1",
+      "score": 0.5954147481237282
+    },
+    {
+      "name": "Ramsar Convention",
+      "label": "provider",
+      "description": "An international treaty aimed at conserving and managing wetlands of international importance",
+      "uuid": "1a2a0074-5a83-4b47-b358-64497ee3fc74",
+      "score": 0.63832619422055
+    },
+    {
+      "name": "sea levels",
+      "label": "variable",
+      "description": "The level of the sea surface, which is rising due to climate change",
+      "uuid": "2aad0e7e-1c96-4d87-adeb-4894225e2922",
+      "score": 0.677780976794165
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide and methane into the atmosphere, contributing to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5455808039775947
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in temperature, precipitation, and other environmental factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5796334985739456
+    }
+  ],
+  "(2385, 5091)": [
+    {
+      "name": "UNESCO",
+      "label": "provider",
+      "description": "The United Nations Educational, Scientific and Cultural Organization, a specialized agency of the United Nations that promotes peace and security through international cooperation in education, science, and culture",
+      "uuid": "24815828-dd04-47d6-b95c-d31c4a1902aa",
+      "score": 0.5792387284429078
+    },
+    {
+      "name": "Ramsar Convention",
+      "label": "provider",
+      "description": "An international treaty that provides a framework for the conservation and sustainable use of wetlands, recognizing their importance for biodiversity and human well-being",
+      "uuid": "1a2a0074-5a83-4b47-b358-64497ee3fc74",
+      "score": 0.6773139172693887
+    },
+    {
+      "name": "coastal area",
+      "label": "location",
+      "description": "The region where the land meets the sea, often vulnerable to coastal flooding and erosion",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.6310862048744775
+    },
+    {
+      "name": "Representative Concentration Pathway (RCP) 4.5",
+      "label": "experiment",
+      "description": "A scenario used in climate modeling to represent a moderate level of greenhouse gas emissions and associated climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.5985366074500277
+    },
+    {
+      "name": "Representative Concentration Pathway (RCP) 8.5",
+      "label": "experiment",
+      "description": "A scenario used in climate modeling to represent a high level of greenhouse gas emissions and associated climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6683554926667069
+    },
+    {
+      "name": "inundation maps",
+      "label": "instrument",
+      "description": "Maps that show the extent and depth of flooding in a given area, often used to assess the risk of coastal flooding and erosion",
+      "uuid": "5af94668-05f5-41ee-aa65-82dca2a359fc",
+      "score": 0.5570809630811274
+    },
+    {
+      "name": "shoreline change projections",
+      "label": "variable",
+      "description": "Predictions of how the shoreline is likely to change over time due to coastal erosion and other factors",
+      "uuid": "1a740c3e-7032-4f72-93e8-d0ba343d82e0",
+      "score": 0.5199969293639972
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa that includes countries such as Egypt, Libya, and Tunisia, often affected by coastal flooding and erosion",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6007053919631957
+    },
+    {
+      "name": "West Africa",
+      "label": "location",
+      "description": "A region in Africa that includes countries such as Senegal and Ghana, often affected by coastal flooding and erosion",
+      "uuid": "0bd7d518-6e4d-455e-95cd-2add85fc88fa",
+      "score": 0.582076910012222
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa that includes countries such as South Africa and Namibia, often affected by coastal flooding and erosion",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.6679270010431797
+    },
+    {
+      "name": "East Africa",
+      "label": "location",
+      "description": "A region in Africa that includes countries such as Kenya and Tanzania, often affected by coastal flooding and erosion",
+      "uuid": "1837fc8f-4622-433b-8148-dd2b5826f6f2",
+      "score": 0.6064392947901999
+    },
+    {
+      "name": "Tunisia",
+      "label": "location",
+      "description": "A country in North Africa with a significant number of World Heritage Sites, some of which are exposed to coastal flooding and erosion",
+      "uuid": "434da207-97f4-4bb5-9550-40b0237f0a3f",
+      "score": 0.5556889601425032
+    },
+    {
+      "name": "Morocco",
+      "label": "location",
+      "description": "A country in North Africa with a significant number of World Heritage Sites, some of which are exposed to coastal flooding and erosion",
+      "uuid": "cb410cb0-d8f3-42e2-9500-5576b802a7fa",
+      "score": 0.561560378587742
+    },
+    {
+      "name": "Senegal",
+      "label": "location",
+      "description": "A country in West Africa with a significant number of World Heritage Sites, some of which are exposed to coastal flooding and erosion",
+      "uuid": "80e7a4da-82a2-449e-87d3-603d857058c5",
+      "score": 0.6174575326440197
+    },
+    {
+      "name": "Egypt",
+      "label": "location",
+      "description": "A country in North Africa with a significant number of World Heritage Sites, some of which are exposed to coastal flooding and erosion",
+      "uuid": "58813ee3-ea1f-40a3-a0da-1198d78c06dd",
+      "score": 0.5402027345674842
+    }
+  ],
+  "(4664, 7106)": [
+    {
+      "name": "West Africa",
+      "label": "location",
+      "description": "A region in Africa located west of the continent, comprising several countries and characterized by diverse climates and geography",
+      "uuid": "0bd7d518-6e4d-455e-95cd-2add85fc88fa",
+      "score": 0.6735430422300495
+    },
+    {
+      "name": "Southern Africa",
+      "label": "location",
+      "description": "A region in Africa located south of the continent, comprising several countries and known for its unique biodiversity and climate",
+      "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+      "score": 0.7804419896714715
+    },
+    {
+      "name": "East Africa",
+      "label": "location",
+      "description": "A region in Africa located east of the continent, comprising several countries and characterized by a diverse range of climates and geography",
+      "uuid": "1837fc8f-4622-433b-8148-dd2b5826f6f2",
+      "score": 0.7149465318728704
+    },
+    {
+      "name": "Tunisia",
+      "label": "location",
+      "description": "A country in North Africa, known for its rich cultural heritage and diverse geography",
+      "uuid": "434da207-97f4-4bb5-9550-40b0237f0a3f",
+      "score": 0.6830174769311812
+    },
+    {
+      "name": "Morocco",
+      "label": "location",
+      "description": "A country in North Africa, known for its rich cultural heritage and diverse geography",
+      "uuid": "cb410cb0-d8f3-42e2-9500-5576b802a7fa",
+      "score": 0.6066173495348737
+    },
+    {
+      "name": "Senegal",
+      "label": "location",
+      "description": "A country in West Africa, known for its diverse culture and geography",
+      "uuid": "80e7a4da-82a2-449e-87d3-603d857058c5",
+      "score": 0.7092312216371409
+    },
+    {
+      "name": "Egypt",
+      "label": "location",
+      "description": "A country in North Africa, known for its rich cultural heritage and diverse geography",
+      "uuid": "58813ee3-ea1f-40a3-a0da-1198d78c06dd",
+      "score": 0.5463950833280071
+    },
+    {
+      "name": "Central Africa",
+      "label": "location",
+      "description": "A region in Africa located in the center of the continent, comprising several countries and characterized by diverse climates and geography",
+      "uuid": "f2ffbe58-8792-413b-805b-3e1c8de1c6ff",
+      "score": 0.7765023631547828
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in Africa located in the north of the continent, comprising several countries and characterized by diverse climates and geography",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.674893415194247
+    },
+    {
+      "name": "coastal extreme event",
+      "label": "weather event",
+      "description": "A severe meteorological event that occurs in coastal areas, such as storms or floods",
+      "uuid": "83e9ddee-5887-4758-a3ba-5cb17a7d4ed5",
+      "score": 0.5409910685761885
+    },
+    {
+      "name": "sea-level rise",
+      "label": "ocean circulation",
+      "description": "The increase in the average level of the world's oceans, caused by climate change and other factors, which can lead to coastal erosion and flooding",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7530760381571103
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide, into the atmosphere, which contributes to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.6658657722522013
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway, a scenario used to model the effects of climate change, assuming a moderate increase in greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6023344048422852
+    }
+  ],
+  "(6722, 9105)": [
+    {
+      "name": "Western Sahara",
+      "label": "location",
+      "description": "A disputed territory in the Maghreb region of North Africa, with a coastline along the Atlantic Ocean",
+      "uuid": "fab1118b-afa8-4cfd-a05b-ed808392e910",
+      "score": 0.7654270181233124
+    },
+    {
+      "name": "Cameroon",
+      "label": "location",
+      "description": "A country located in Central Africa, with a coastline along the Atlantic Ocean",
+      "uuid": "a028edce-a3d9-4a16-a8c7-d2cb12d3a318",
+      "score": 0.7405502856541498
+    },
+    {
+      "name": "Republic of the Congo",
+      "label": "location",
+      "description": "A country located in Central Africa, with a coastline along the Atlantic Ocean",
+      "uuid": "3682524d-6ff3-4224-a635-9741726f025f",
+      "score": 0.6428971578614779
+    },
+    {
+      "name": "Djibouti",
+      "label": "location",
+      "description": "A country located in the Horn of Africa, with a coastline along the Gulf of Aden and the Red Sea",
+      "uuid": "75dc417f-5bdc-441b-bfa9-8a31a03598d6",
+      "score": 0.7585293333314551
+    },
+    {
+      "name": "Libya",
+      "label": "location",
+      "description": "A country located in North Africa, with a coastline along the Mediterranean Sea",
+      "uuid": "1e535be2-e7cf-42fc-aec4-6f8a6ca3727d",
+      "score": 0.7477254844340436
+    },
+    {
+      "name": "Mozambique",
+      "label": "location",
+      "description": "A country located in Southeast Africa, with a coastline along the Indian Ocean",
+      "uuid": "d322d155-b8f0-4173-b382-b762a070e4d9",
+      "score": 0.7200083844521328
+    },
+    {
+      "name": "Mauritania",
+      "label": "location",
+      "description": "A country located in West Africa, with a coastline along the Atlantic Ocean",
+      "uuid": "2d39101d-4602-4688-91f0-84f1a37a1441",
+      "score": 0.7676999604835563
+    },
+    {
+      "name": "Namibia",
+      "label": "location",
+      "description": "A country located in Southern Africa, with a coastline along the Atlantic Ocean",
+      "uuid": "a827feaf-9926-4a4d-b21f-dc044524b2b5",
+      "score": 0.698095195761021
+    },
+    {
+      "name": "C\u00f4te d'Ivoire",
+      "label": "location",
+      "description": "A country located in West Africa, with a coastline along the Atlantic Ocean",
+      "uuid": "1e41939f-8c5e-4aee-8345-61736accffe4",
+      "score": 0.7782791430697045
+    },
+    {
+      "name": "Cabo Verde",
+      "label": "location",
+      "description": "An island country located off the coast of West Africa, in the Atlantic Ocean",
+      "uuid": "9aaf0f2f-6e85-4175-b4c2-a6dc31d8793a",
+      "score": 0.7583605494761347
+    },
+    {
+      "name": "Sudan",
+      "label": "location",
+      "description": "A country located in Northeast Africa, with a coastline along the Red Sea",
+      "uuid": "35c312f3-ef63-44c1-9668-b6c7f7ff025e",
+      "score": 0.6722509246670687
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country located in East Africa, with a coastline along the Indian Ocean",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.7155194329295462
+    },
+    {
+      "name": "Morocco",
+      "label": "location",
+      "description": "A country located in North Africa, with a coastline along the Atlantic Ocean and the Mediterranean Sea",
+      "uuid": "cb410cb0-d8f3-42e2-9500-5576b802a7fa",
+      "score": 0.6446890346635099
+    },
+    {
+      "name": "Tunisia",
+      "label": "location",
+      "description": "A country located in North Africa, with a coastline along the Mediterranean Sea",
+      "uuid": "434da207-97f4-4bb5-9550-40b0237f0a3f",
+      "score": 0.7276353267021344
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide and methane into the atmosphere, contributing to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5441103281516557
+    },
+    {
+      "name": "mitigation",
+      "label": "experiment",
+      "description": "Efforts to reduce or prevent the emission of greenhouse gases, in order to mitigate the effects of climate change",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6565256541555676
+    }
+  ],
+  "(8697, 10922)": [
+    {
+      "name": "Mozambique",
+      "label": "location",
+      "description": "A country in southeastern Africa with a coastline along the Indian Ocean, known for its rich cultural heritage and diverse ecosystems",
+      "uuid": "d322d155-b8f0-4173-b382-b762a070e4d9",
+      "score": 0.7138635044323974
+    },
+    {
+      "name": "Mauritania",
+      "label": "location",
+      "description": "A country in northwest Africa with a coastline along the Atlantic Ocean, characterized by its desert climate and rich natural resources",
+      "uuid": "2d39101d-4602-4688-91f0-84f1a37a1441",
+      "score": 0.7096958798464564
+    },
+    {
+      "name": "Namibia",
+      "label": "location",
+      "description": "A country in southern Africa with a coastline along the Atlantic Ocean, known for its unique landscapes and diverse wildlife",
+      "uuid": "a827feaf-9926-4a4d-b21f-dc044524b2b5",
+      "score": 0.7081694438159952
+    },
+    {
+      "name": "C\u00f4te d'Ivoire",
+      "label": "location",
+      "description": "A country in western Africa with a coastline along the Atlantic Ocean, recognized for its tropical climate and significant agricultural production",
+      "uuid": "1e41939f-8c5e-4aee-8345-61736accffe4",
+      "score": 0.7337584040013432
+    },
+    {
+      "name": "Cabo Verde",
+      "label": "location",
+      "description": "An island nation off the coast of western Africa, known for its tropical dry climate and unique cultural heritage",
+      "uuid": "9aaf0f2f-6e85-4175-b4c2-a6dc31d8793a",
+      "score": 0.6916017339984898
+    },
+    {
+      "name": "Sudan",
+      "label": "location",
+      "description": "A country in northeastern Africa with a diverse geography, ranging from deserts to tropical regions",
+      "uuid": "35c312f3-ef63-44c1-9668-b6c7f7ff025e",
+      "score": 0.704359720262092
+    },
+    {
+      "name": "Tanzania",
+      "label": "location",
+      "description": "A country in eastern Africa with a coastline along the Indian Ocean, known for its vast wilderness areas and diverse wildlife",
+      "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+      "score": 0.6899657644603198
+    },
+    {
+      "name": "Morocco",
+      "label": "location",
+      "description": "A country in northwest Africa with a coastline along the Atlantic Ocean and Mediterranean Sea, recognized for its rich cultural heritage and diverse landscapes",
+      "uuid": "cb410cb0-d8f3-42e2-9500-5576b802a7fa",
+      "score": 0.6368420066831847
+    },
+    {
+      "name": "Tunisia",
+      "label": "location",
+      "description": "A country in northern Africa with a coastline along the Mediterranean Sea, known for its ancient history and diverse cultural influences",
+      "uuid": "434da207-97f4-4bb5-9550-40b0237f0a3f",
+      "score": 0.6987626997343114
+    },
+    {
+      "name": "Senegal",
+      "label": "location",
+      "description": "A country in western Africa with a coastline along the Atlantic Ocean, recognized for its tropical climate and significant agricultural production",
+      "uuid": "80e7a4da-82a2-449e-87d3-603d857058c5",
+      "score": 0.7145074077054939
+    },
+    {
+      "name": "Kenya",
+      "label": "location",
+      "description": "A country in eastern Africa with a coastline along the Indian Ocean, known for its diverse landscapes and significant wildlife conservation efforts",
+      "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+      "score": 0.6988536543990934
+    },
+    {
+      "name": "Ghana",
+      "label": "location",
+      "description": "A country in western Africa with a coastline along the Atlantic Ocean, recognized for its tropical climate and significant gold mining industry",
+      "uuid": "4169d7ae-fa7e-4264-888c-c15b14c574cb",
+      "score": 0.75169348723938
+    },
+    {
+      "name": "Sierra Leone",
+      "label": "location",
+      "description": "A country in western Africa with a coastline along the Atlantic Ocean, known for its tropical climate and significant diamond mining industry",
+      "uuid": "e17e528b-9730-46ca-9439-09bc2a3cf9c6",
+      "score": 0.7284311929075773
+    },
+    {
+      "name": "Libya",
+      "label": "location",
+      "description": "A country in northern Africa with a coastline along the Mediterranean Sea, recognized for its desert climate and significant oil reserves",
+      "uuid": "1e535be2-e7cf-42fc-aec4-6f8a6ca3727d",
+      "score": 0.7141089392976767
+    },
+    {
+      "name": "Seychelles",
+      "label": "location",
+      "description": "An island nation off the coast of eastern Africa, known for its tropical climate and unique biodiversity",
+      "uuid": "dc173a40-c1a0-4fd0-b059-2db52ca65639",
+      "score": 0.7355888085820304
+    },
+    {
+      "name": "Benin",
+      "label": "location",
+      "description": "A country in western Africa with a coastline along the Atlantic Ocean, recognized for its tropical climate and significant agricultural production",
+      "uuid": "05d03731-d997-49d9-bfa3-6221d9e5bdeb",
+      "score": 0.6616801321988605
+    },
+    {
+      "name": "Togo",
+      "label": "location",
+      "description": "A country in western Africa with a coastline along the Atlantic Ocean, known for its tropical climate and significant phosphate mining industry",
+      "uuid": "d66512f7-e44b-4cf0-a3cd-25750934b5f9",
+      "score": 0.6844497577526594
+    },
+    {
+      "name": "South Africa",
+      "label": "location",
+      "description": "A country in southern Africa with a coastline along the Atlantic and Indian Oceans, recognized for its diverse landscapes and significant mining industry",
+      "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+      "score": 0.6973603071277412
+    },
+    {
+      "name": "coastal hazards",
+      "label": "natural hazard",
+      "description": "Phenomena such as sea-level rise, storms, and erosion that pose a threat to coastal communities and ecosystems",
+      "uuid": "672d6958-4bbc-4b33-adc8-927e4348908b",
+      "score": 0.5215195701084504
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "scenario",
+      "description": "A representative concentration pathway scenario characterized by high levels of greenhouse gas emissions, often used to assess the potential impacts of climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6764905621955716
+    }
+  ],
+  "(10537, 13396)": [
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent located in the Eastern Hemisphere",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.5618463405217397
+    },
+    {
+      "name": "Mauritania",
+      "label": "location",
+      "description": "A country located in West Africa",
+      "uuid": "2d39101d-4602-4688-91f0-84f1a37a1441",
+      "score": 0.7389399978016639
+    },
+    {
+      "name": "Ghana",
+      "label": "location",
+      "description": "A country located in West Africa",
+      "uuid": "4169d7ae-fa7e-4264-888c-c15b14c574cb",
+      "score": 0.7779912371526984
+    },
+    {
+      "name": "Egypt",
+      "label": "location",
+      "description": "A country located in Northeast Africa",
+      "uuid": "58813ee3-ea1f-40a3-a0da-1198d78c06dd",
+      "score": 0.5351270109432403
+    },
+    {
+      "name": "Tunisia",
+      "label": "location",
+      "description": "A country located in North Africa",
+      "uuid": "434da207-97f4-4bb5-9550-40b0237f0a3f",
+      "score": 0.7196260397114969
+    },
+    {
+      "name": "floodplain",
+      "label": "location",
+      "description": "A flat area around a river that can flood",
+      "uuid": "d71f94cb-e773-487a-a8ff-9c5f11c1dbc4",
+      "score": 0.6884059532552661
+    },
+    {
+      "name": "flood events",
+      "label": "weather event",
+      "description": "Sudden and severe flooding that can cause damage and disruption",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.5773687297833743
+    },
+    {
+      "name": "coastal erosion",
+      "label": "natural hazard",
+      "description": "The wearing away of land or soil along a coastline due to natural forces such as waves and tides",
+      "uuid": "cd7a7748-7231-4a73-b85c-b5696066230a",
+      "score": 0.5858169653837644
+    },
+    {
+      "name": "flooding",
+      "label": "natural hazard",
+      "description": "The overflow of water that can cause damage and disruption to people and the environment",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.6807796118586003
+    },
+    {
+      "name": "inundation",
+      "label": "natural hazard",
+      "description": "The flooding of an area with water, often caused by heavy rainfall, storm surges, or other extreme weather events",
+      "uuid": "c6c0c5dd-c0ca-4670-bbaa-c22d39e73570",
+      "score": 0.6689485951201334
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A climate change scenario that represents a high-emissions future",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6673194771206811
+    },
+    {
+      "name": "ESL",
+      "label": "variable",
+      "description": "Extreme Sea Level, a measure of the maximum height of the sea level during a storm or other extreme event",
+      "uuid": "0fde8353-9773-4948-b206-9c273c2100c8",
+      "score": 0.5103895726670201
+    }
+  ],
+  "(12836, 15930)": [
+    {
+      "name": "coastal processes",
+      "label": "natural hazard",
+      "description": "The interactions and changes that occur in coastal systems, including erosion, flooding, and shoreline modification, which can have significant impacts on the environment and human settlements",
+      "uuid": "672d6958-4bbc-4b33-adc8-927e4348908b",
+      "score": 0.6793000781666838
+    },
+    {
+      "name": "coral reefs",
+      "label": "ecological element",
+      "description": "Marine ecosystems formed by coral polyps, providing habitat for diverse species and protecting coastlines from erosion and flooding",
+      "uuid": "ad497e7a-48fa-45e1-90a5-b052508bdb30",
+      "score": 0.7141195840518219
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important property influencing ocean circulation and coastal ecosystems",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7268660809770977
+    },
+    {
+      "name": "mangroves",
+      "label": "ecological element",
+      "description": "Coastal ecosystems dominated by mangrove trees, providing habitat for diverse species and protecting coastlines from erosion and flooding",
+      "uuid": "04c4a85f-91ce-4d64-9e19-b3e0897ff187",
+      "score": 0.6888645361547554
+    },
+    {
+      "name": "Ghana",
+      "label": "location",
+      "description": "A country in West Africa, with a coastline along the Gulf of Guinea, and home to diverse coastal ecosystems and cultural heritage sites",
+      "uuid": "4169d7ae-fa7e-4264-888c-c15b14c574cb",
+      "score": 0.7312662661677096
+    },
+    {
+      "name": "Cameroon",
+      "label": "location",
+      "description": "A country in Central Africa, with a coastline along the Gulf of Guinea, and known for its rich biodiversity and cultural heritage",
+      "uuid": "a028edce-a3d9-4a16-a8c7-d2cb12d3a318",
+      "score": 0.7393241533834207
+    },
+    {
+      "name": "Kenya",
+      "label": "location",
+      "description": "A country in East Africa, with a coastline along the Indian Ocean, and home to diverse coastal ecosystems and cultural heritage sites",
+      "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+      "score": 0.6785503923436669
+    },
+    {
+      "name": "seagrass",
+      "label": "ecological element",
+      "description": "Marine ecosystems formed by seagrass plants, providing habitat for diverse species and protecting coastlines from erosion and flooding",
+      "uuid": "e36c5faa-c772-4bb0-aeca-b361e160ce9d",
+      "score": 0.6426465280402548
+    }
+  ],
+  "(15350, 18568)": [
+    {
+      "name": "AHS",
+      "label": "project",
+      "description": "A project focused on assessing and protecting African heritage sites from climate-related hazards",
+      "uuid": "659ae0e6-8a69-4e5e-841f-5b5dcfcc33bf",
+      "score": 0.5219151171521479
+    },
+    {
+      "name": "Egypt",
+      "label": "location",
+      "description": "A country in northeastern Africa, home to numerous cultural and natural heritage sites",
+      "uuid": "58813ee3-ea1f-40a3-a0da-1198d78c06dd",
+      "score": 0.5061412457813845
+    },
+    {
+      "name": "saltmarshes",
+      "label": "location",
+      "description": "A type of coastal ecosystem that provides habitat for various plant and animal species",
+      "uuid": "d541e4e1-2542-4716-b943-e080b0865e74",
+      "score": 0.706519681142872
+    },
+    {
+      "name": "seagrasses",
+      "label": "location",
+      "description": "A type of underwater ecosystem that provides habitat for various plant and animal species",
+      "uuid": "e36c5faa-c772-4bb0-aeca-b361e160ce9d",
+      "score": 0.6582767315822123
+    },
+    {
+      "name": "mangroves",
+      "label": "location",
+      "description": "A type of coastal ecosystem that provides habitat for various plant and animal species",
+      "uuid": "04c4a85f-91ce-4d64-9e19-b3e0897ff187",
+      "score": 0.6812771217685627
+    },
+    {
+      "name": "UNESCO World Heritage List",
+      "label": "provider",
+      "description": "An international organization that designates and protects cultural and natural heritage sites worldwide",
+      "uuid": "450ebf35-951f-45ec-aa6f-feb9429e2bc1",
+      "score": 0.5959643640017561
+    },
+    {
+      "name": "Ramsar Sites Information Service",
+      "label": "provider",
+      "description": "An international organization that designates and protects wetland ecosystems worldwide",
+      "uuid": "1a2a0074-5a83-4b47-b358-64497ee3fc74",
+      "score": 0.6311083497255704
+    },
+    {
+      "name": "coastal floods",
+      "label": "weather event",
+      "description": "A type of natural disaster that occurs when seawater inundates coastal areas",
+      "uuid": "fd03d204-4391-4e98-8142-8b8efa235231",
+      "score": 0.5359329068785845
+    },
+    {
+      "name": "erosion",
+      "label": "natural hazard",
+      "description": "The process of wearing away or removal of soil, rock, or other materials from the Earth's surface",
+      "uuid": "1e2b1b67-a401-4fb6-9ee9-b022c1c023dc",
+      "score": 0.6815513352667124
+    },
+    {
+      "name": "compound climate extremes",
+      "label": "weather event",
+      "description": "Events that combine multiple climate-related hazards, such as heatwaves, droughts, and floods",
+      "uuid": "83e9ddee-5887-4758-a3ba-5cb17a7d4ed5",
+      "score": 0.7541963718525787
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A moderate greenhouse gas emission scenario used to predict future climate change",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6037466399966607
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A high greenhouse gas emission scenario used to predict future climate change",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.6657199327438736
+    }
+  ],
+  "(18122, 21147)": [
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A moderate greenhouse gas emission scenario used in climate modeling to predict future climate changes",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.607134963191098
+    },
+    {
+      "name": "RCP 8.5",
+      "label": "experiment",
+      "description": "A high greenhouse gas emission scenario used in climate modeling to predict future climate changes",
+      "uuid": "83083e38-58c1-4d9b-9eac-8fce4b54ff48",
+      "score": 0.67074411258418
+    },
+    {
+      "name": "UNESCO World Heritage List",
+      "label": "provider",
+      "description": "A list of cultural and natural heritage sites recognized by the United Nations Educational, Scientific and Cultural Organization for their outstanding universal value",
+      "uuid": "450ebf35-951f-45ec-aa6f-feb9429e2bc1",
+      "score": 0.5270556683804503
+    },
+    {
+      "name": "Ramsar Sites Information Service",
+      "label": "provider",
+      "description": "An international organization that provides information on wetland sites of international importance",
+      "uuid": "1a2a0074-5a83-4b47-b358-64497ee3fc74",
+      "score": 0.6232315668379946
+    },
+    {
+      "name": "World Database on Protected Areas",
+      "label": "provider",
+      "description": "A database that provides information on protected areas around the world",
+      "uuid": "d5202b31-5437-46e8-8ac5-2f68c4ce55d1",
+      "score": 0.5411975553752745
+    },
+    {
+      "name": "geographic information system",
+      "label": "instrument",
+      "description": "A computer system that analyzes and displays geographically referenced data",
+      "uuid": "794e3c3b-791f-44de-9ff3-358d8ed74733",
+      "score": 0.7063866707867458
+    },
+    {
+      "name": "Copernicus services",
+      "label": "provider",
+      "description": "A European Earth observation program that provides satellite data and services",
+      "uuid": "db7e4e2a-f55a-4515-bdd9-c5bc48e3c6d9",
+      "score": 0.5648270150095966
+    },
+    {
+      "name": "3 arcsec GLO-90 digital elevation model",
+      "label": "instrument",
+      "description": "A digital elevation model that provides topographic data with a resolution of 3 arc seconds",
+      "uuid": "493a893e-2d2b-417c-8e72-2ced8a9fffcc",
+      "score": 0.5768140183346181
+    },
+    {
+      "name": "elevation",
+      "label": "variable",
+      "description": "A measure of the height of a location above sea level",
+      "uuid": "9c8d0175-b21d-4382-bed7-0a880625b565",
+      "score": 0.626921787501307
+    }
+  ],
+  "(20607, 23393)": [
+    {
+      "name": "Copernicus services",
+      "label": "provider",
+      "description": "A European Union programme providing information on the environment and climate, including Earth observation data and services>",
+      "uuid": "db7e4e2a-f55a-4515-bdd9-c5bc48e3c6d9",
+      "score": 0.5783868617851401
+    },
+    {
+      "name": "Coastal flood",
+      "label": "natural hazard",
+      "description": "A type of flooding that occurs when the sea level rises and inundates coastal areas, causing damage and disruption>",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.5590058997148806
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, a research institute that provides weather forecasts and climate data>",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7711658414843481
+    },
+    {
+      "name": "ERA-Interim Reanalysis",
+      "label": "project",
+      "description": "A climate reanalysis project that provides historical climate data, including atmospheric conditions>",
+      "uuid": "32658d24-ab47-41b5-9614-2becccde8e55",
+      "score": 0.728984452870229
+    },
+    {
+      "name": "Tropical cyclones",
+      "label": "weather event",
+      "description": "A type of storm that forms over tropical waters, characterized by strong winds and heavy rainfall>",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.7162514856225509
+    },
+    {
+      "name": "ERS-2",
+      "label": "instrument",
+      "description": "A satellite used to measure significant wave heights>",
+      "uuid": "affbd015-9373-4413-b76f-e91d01c4f5e3",
+      "score": 0.6424999513972294
+    },
+    {
+      "name": "ENVISAT",
+      "label": "instrument",
+      "description": "A satellite used to measure significant wave heights>",
+      "uuid": "a1498dff-002d-4d67-9091-16822c608221",
+      "score": 0.6235854637248587
+    },
+    {
+      "name": "Jason 1 and 2",
+      "label": "instrument",
+      "description": "Satellites used to measure significant wave heights>",
+      "uuid": "4484d3bf-f312-466b-8d12-ca88d5378378",
+      "score": 0.6513791367259357
+    },
+    {
+      "name": "Cryosat 2",
+      "label": "instrument",
+      "description": "A satellite used to measure significant wave heights>",
+      "uuid": "e377ef25-1612-4b8d-ac98-54e3977d7e31",
+      "score": 0.5885316937143491
+    },
+    {
+      "name": "SARAL-AltiKa",
+      "label": "instrument",
+      "description": "A satellite used to measure significant wave heights>",
+      "uuid": "dee88d1d-91cf-45da-bd00-d9fa0d8fba60",
+      "score": 0.6449665862533082
+    },
+    {
+      "name": "GLO-90 DEM",
+      "label": "project",
+      "description": "A digital elevation model used to provide topographic data>",
+      "uuid": "493a893e-2d2b-417c-8e72-2ced8a9fffcc",
+      "score": 0.5688103660978272
+    },
+    {
+      "name": "Land hydraulic roughness",
+      "label": "variable",
+      "description": "A measure of the roughness of the land surface, used in flood inundation modeling>",
+      "uuid": "21474df3-f9a6-48ca-be15-bdb3611fe062",
+      "score": 0.5889104801741314
+    },
+    {
+      "name": "CMIP5 climate models",
+      "label": "model",
+      "description": "A set of climate models used to simulate future climate scenarios>",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.7014170997024621
+    },
+    {
+      "name": "Sea-level rise",
+      "label": "variable",
+      "description": "A measure of the increase in global sea levels, often used to study climate change>",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7406935910837733
+    },
+    {
+      "name": "Storm surges",
+      "label": "weather event",
+      "description": "A type of coastal flooding caused by strong winds and low atmospheric pressure>",
+      "uuid": "0bf50cd4-8a97-468c-8e73-047e3e09a03d",
+      "score": 0.6924917561592523
+    },
+    {
+      "name": "Tides",
+      "label": "ocean circulation",
+      "description": "The periodic rising and falling of the sea level caused by the gravitational pull of the moon and sun>",
+      "uuid": "e3bef663-6116-4f15-995c-38c7cdc9652c",
+      "score": 0.6631720818507615
+    },
+    {
+      "name": "Waves",
+      "label": "ocean circulation",
+      "description": "The movement of the ocean surface caused by wind, tides, and other factors>",
+      "uuid": "a04804d5-1064-48fd-a7a7-8da8e10399e1",
+      "score": 0.655621025544745
+    }
+  ],
+  "(22967, 25713)": [
+    {
+      "name": "GLO-90 DEM",
+      "label": "platform",
+      "description": "A digital elevation model used as input for the Lisflood-ACC model",
+      "uuid": "493a893e-2d2b-417c-8e72-2ced8a9fffcc",
+      "score": 0.5479383545716187
+    },
+    {
+      "name": "ESLs",
+      "label": "variable",
+      "description": "Extreme Sea Levels, a combination of mean sea level, astronomical tide, and meteorological tide",
+      "uuid": "f3ea8884-87a8-4a12-96d5-98e21a9fa2c7",
+      "score": 0.508779935818247
+    },
+    {
+      "name": "mean sea level",
+      "label": "variable",
+      "description": "The average level of the sea surface, used as a reference point for measuring sea level rise",
+      "uuid": "f3ea8884-87a8-4a12-96d5-98e21a9fa2c7",
+      "score": 0.7914315335674296
+    },
+    {
+      "name": "astronomical tide",
+      "label": "variable",
+      "description": "The periodic rising and falling of the sea level caused by the gravitational pull of the moon and sun",
+      "uuid": "e3bef663-6116-4f15-995c-38c7cdc9652c",
+      "score": 0.5197240391268853
+    },
+    {
+      "name": "meteorological tide",
+      "label": "variable",
+      "description": "The change in sea level caused by weather patterns, such as storm surges and wave setup",
+      "uuid": "0bf50cd4-8a97-468c-8e73-047e3e09a03d",
+      "score": 0.5054896122577384
+    },
+    {
+      "name": "storm surge",
+      "label": "weather event",
+      "description": "A rise in sea level due to a storm, which can cause coastal flooding and erosion",
+      "uuid": "0bf50cd4-8a97-468c-8e73-047e3e09a03d",
+      "score": 0.7623288817255199
+    },
+    {
+      "name": "wave setup",
+      "label": "variable",
+      "description": "The increase in sea level due to the transfer of momentum from waves to the water surface",
+      "uuid": "4dd520ea-30fc-416d-b98c-340fd23431d3",
+      "score": 0.6733177712869002
+    },
+    {
+      "name": "RCP",
+      "label": "experiment",
+      "description": "Representative Concentration Pathways, a set of scenarios used to predict future climate change",
+      "uuid": "7f1f0059-de73-4a9e-9200-1bbcd2d6e789",
+      "score": 0.5670425417469268
+    },
+    {
+      "name": "coastal flooding",
+      "label": "natural hazard",
+      "description": "The inundation of coastal areas due to extreme sea levels, which can cause damage to infrastructure and ecosystems",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.5978228527583891
+    },
+    {
+      "name": "coastal erosion",
+      "label": "natural hazard",
+      "description": "The wearing away of the coastline due to natural or human-induced factors, which can cause loss of land and habitat",
+      "uuid": "cd7a7748-7231-4a73-b85c-b5696066230a",
+      "score": 0.5749441025236255
+    },
+    {
+      "name": "shoreline change",
+      "label": "variable",
+      "description": "The change in the position of the shoreline due to ambient factors, relative sea-level rise, and episodic erosion",
+      "uuid": "1a740c3e-7032-4f72-93e8-d0ba343d82e0",
+      "score": 0.58441378847231
+    },
+    {
+      "name": "relative sea-level rise",
+      "label": "variable",
+      "description": "The increase in sea level relative to the land surface, which can cause coastal flooding and erosion",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.6303834950525834
+    }
+  ],
+  "(25198, 28142)": [
+    {
+      "name": "shoreline dynamics",
+      "label": "ocean circulation",
+      "description": "The movement and change of shorelines due to various factors such as hydrodynamics, geology, and human activities",
+      "uuid": "1a740c3e-7032-4f72-93e8-d0ba343d82e0",
+      "score": 0.5646319586565571
+    },
+    {
+      "name": "geological",
+      "label": "variable",
+      "description": "The study of the Earth's physical structure, composition, and processes, including those related to coastal and ocean systems",
+      "uuid": "4150db4f-5ef2-4623-9b17-d11bdf62a571",
+      "score": 0.5513480974353071
+    },
+    {
+      "name": "relative sea-level rise",
+      "label": "variable",
+      "description": "The increase in sea level relative to the land, causing coastal erosion and flooding",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.6203981264957343
+    },
+    {
+      "name": "extreme storms",
+      "label": "weather event",
+      "description": "Severe meteorological events that can cause coastal erosion and flooding",
+      "uuid": "ad28623e-bb9b-433c-8fc1-2ab06dda58c4",
+      "score": 0.5566557881181787
+    },
+    {
+      "name": "global wave projections datasets",
+      "label": "project",
+      "description": "A collection of data and models used to simulate and predict wave patterns and coastal erosion",
+      "uuid": "98ff2ee3-a7fa-4b78-a281-b828547005d3",
+      "score": 0.5073513295060124
+    },
+    {
+      "name": "fires",
+      "label": "natural hazard",
+      "description": "Uncontrolled fires that can damage or destroy heritage sites and coastal areas",
+      "uuid": "868b87a1-d8c2-49b3-8bbd-9cbbed115271",
+      "score": 0.5072983807943854
+    },
+    {
+      "name": "river floods",
+      "label": "natural hazard",
+      "description": "The overflow of rivers that can cause damage or destruction to coastal areas and heritage sites",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.5541033321657347
+    },
+    {
+      "name": "earthquakes",
+      "label": "natural hazard",
+      "description": "Seismic events that can cause damage or destruction to coastal areas and heritage sites",
+      "uuid": "b3406120-9faa-4c00-874e-ce8878ae129f",
+      "score": 0.5886260582111774
+    }
+  ],
+  "(27673, 30687)": [
+    {
+      "name": "AHS",
+      "label": "project",
+      "description": "A project focused on assessing the exposure of African Heritage Sites to coastal hazards and climate change",
+      "uuid": "9cd9191e-db82-408b-a3bd-9f9bb7ce0679",
+      "score": 0.5087354698661116
+    },
+    {
+      "name": "natural hazards",
+      "label": "natural hazard",
+      "description": "Phenomena with the potential to cause significant harm to life, property, and the environment, such as fires, river floods, and earthquakes",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.7039147909112475
+    },
+    {
+      "name": "coastal hazard",
+      "label": "natural hazard",
+      "description": "Hazards that occur in coastal areas, including flooding, erosion, and saltwater intrusion",
+      "uuid": "672d6958-4bbc-4b33-adc8-927e4348908b",
+      "score": 0.501686872325679
+    },
+    {
+      "name": "GLO-90",
+      "label": "dataset",
+      "description": "A digital elevation model dataset published by the European Union's Earth observation programme, used to assess coastal hazard exposure",
+      "uuid": "493a893e-2d2b-417c-8e72-2ced8a9fffcc",
+      "score": 0.522888164775445
+    },
+    {
+      "name": "European Union's Earth observation programme",
+      "label": "provider",
+      "description": "An organization that provides Earth observation data and services, including the GLO-90 dataset",
+      "uuid": "2e91a3a8-bd80-4d68-bcae-74bc513b09e9",
+      "score": 0.6352640091770003
+    },
+    {
+      "name": "X-band radar",
+      "label": "instrument",
+      "description": "A type of radar technology used to collect elevation data for digital elevation models",
+      "uuid": "7bd9c21d-d123-49c6-a9e6-0a63deb523be",
+      "score": 0.5576597677028209
+    },
+    {
+      "name": "Shuttle Radar Topography Mission (SRTM)",
+      "label": "project",
+      "description": "A NASA mission that collected elevation data for the creation of digital elevation models",
+      "uuid": "e8c70f5e-290f-4459-b906-3d2fe5539f7d",
+      "score": 0.7583974058532387
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, which can affect the integrity of African Heritage Sites",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.571372901927961
+    },
+    {
+      "name": "inundation",
+      "label": "variable",
+      "description": "The flooding of land with water, which can be caused by coastal hazards such as sea level rise and storms",
+      "uuid": "9db10fb2-0ceb-412e-9936-a286c579fa9f",
+      "score": 0.6887238475636923
+    }
+  ],
+  "(30196, 33337)": [
+    {
+      "name": "Kenya",
+      "label": "location",
+      "description": "A country in East Africa, with a coastline along the Indian Ocean",
+      "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+      "score": 0.6692705507684181
+    },
+    {
+      "name": "Joint Research Centre",
+      "label": "provider",
+      "description": "A research institution of the European Commission, focused on scientific and technological development",
+      "uuid": "008a1702-3d08-4a6d-ac3e-c7667bff5261",
+      "score": 0.6480737736833869
+    },
+    {
+      "name": "European Commission",
+      "label": "provider",
+      "description": "The executive arm of the European Union, responsible for proposing and implementing EU policies",
+      "uuid": "57a14338-6965-41de-9876-41fa6d259c51",
+      "score": 0.6367789743531428
+    },
+    {
+      "name": "inundation",
+      "label": "natural hazard",
+      "description": "The flooding of land with water, often caused by coastal erosion, sea-level rise, or extreme weather events",
+      "uuid": "9db10fb2-0ceb-412e-9936-a286c579fa9f",
+      "score": 0.6945871197607927
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in water, an important factor in coastal ecosystems and hazards",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.6796014102613849
+    },
+    {
+      "name": "subsidence",
+      "label": "natural hazard",
+      "description": "The sinking or settling of the ground surface, often caused by human activities such as groundwater extraction",
+      "uuid": "ba064d3f-0327-49d2-9984-332de1a97146",
+      "score": 0.6804074963972354
+    },
+    {
+      "name": "coastal erosion",
+      "label": "natural hazard",
+      "description": "The wearing away of the coastline by natural forces such as waves, tides, and currents",
+      "uuid": "097a7f54-df6e-4aeb-8d15-65d4bd24da64",
+      "score": 0.5844403252109598
+    },
+    {
+      "name": "coastal flooding",
+      "label": "natural hazard",
+      "description": "The flooding of coastal areas, often caused by storms, sea-level rise, or coastal erosion",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.5934854882601892
+    }
+  ],
+  "(32812, 33519)": [
+    {
+      "name": "https://doi.org/10.1038/s41558-022-01280-1",
+      "label": "platform",
+      "description": "A website providing extended data for the study",
+      "uuid": "3c9d4493-22fd-48a8-9af5-bf0d16b7ede5",
+      "score": 0.5015593928723882
+    }
+  ]
+}

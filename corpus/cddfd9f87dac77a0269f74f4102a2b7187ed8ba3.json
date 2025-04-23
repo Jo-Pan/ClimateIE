@@ -1,0 +1,563 @@
+{
+  "(0, 2941)": [
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities or metropolitan regions with high population densities and complex infrastructure",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7283911329740426
+    },
+    {
+      "name": "environment",
+      "label": "variable",
+      "description": "The natural world or ecosystem, often used to study the impact of human activities on the planet",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.5450281788029762
+    }
+  ],
+  "(2463, 5598)": [
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities and towns where most of the population resides, presenting unique challenges for logistics and transportation",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6269636494160026
+    },
+    {
+      "name": "Transportation Science",
+      "label": "provider",
+      "description": "A field of research focused on the study of transportation systems, logistics, and supply chain management",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.5703517400170087
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent with a diverse range of cultures, economies, and logistics systems",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6237595267299173
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country with a unique set of logistics challenges and opportunities",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5709320749702695
+    }
+  ],
+  "(5056, 8088)": [
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on Earth, consisting of many countries with diverse cultures and economies",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6528143594806275
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, known for its significant economic and cultural influence globally",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6616790787330954
+    },
+    {
+      "name": "transportation science",
+      "label": "field",
+      "description": "An interdisciplinary field that applies scientific principles to understand and improve transportation systems",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.5483972601882211
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability of a system or process to be maintained or supported over time, often in terms of environmental, social, and economic factors",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.701219506726814
+    },
+    {
+      "name": "OECD",
+      "label": "provider",
+      "description": "The Organisation for Economic Co-operation and Development, an international organization that promotes economic growth, prosperity, and sustainability",
+      "uuid": "63dffc44-2557-41a5-80c0-9594fcd19dfc",
+      "score": 0.7331563372016896
+    }
+  ],
+  "(7724, 10381)": [
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities and towns where a high proportion of the population resides, often characterized by dense human settlement and economic activity",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7371600414626808
+    },
+    {
+      "name": "global gross domestic product (GDP)",
+      "label": "variable",
+      "description": "The total value of goods and services produced within a country or region, often used as an indicator of economic activity",
+      "uuid": "6163b751-c8a6-42e5-9eb1-2b73932da631",
+      "score": 0.5720000558706841
+    },
+    {
+      "name": "OECD",
+      "label": "provider",
+      "description": "The Organisation for Economic Co-operation and Development, an international organization that promotes economic growth, prosperity, and sustainable development",
+      "uuid": "63dffc44-2557-41a5-80c0-9594fcd19dfc",
+      "score": 0.7279460007719672
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, and Mexico",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7158159626843743
+    },
+    {
+      "name": "Latin America and the Caribbean",
+      "label": "location",
+      "description": "A region in the Americas, comprising countries in Central and South America, and the Caribbean islands",
+      "uuid": "e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3",
+      "score": 0.5505777288916671
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising a diverse range of countries and cultures",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7101840114273092
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent in the Southern Hemisphere, comprising a diverse range of countries and cultures",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.5725514446229014
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent in the Eastern Hemisphere, comprising a diverse range of countries and cultures",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.7117069175204891
+    },
+    {
+      "name": "average population density",
+      "label": "variable",
+      "description": "The average number of people per unit area, often used as an indicator of urbanization and population growth",
+      "uuid": "d2a5c7ec-ccf2-4ab7-8863-9063be91c022",
+      "score": 0.7259731126761554
+    },
+    {
+      "name": "Asia-Pacific region",
+      "label": "location",
+      "description": "A region in the Eastern Hemisphere, comprising countries in Asia and the Pacific islands",
+      "uuid": "5366ab82-ff8b-46a4-85d1-672c8bb23480",
+      "score": 0.5572905540288636
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, known for its rapid economic growth and urbanization",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5879443892360002
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, known for its economic power and technological advancement",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6385270388324806
+    },
+    {
+      "name": "United Kingdom",
+      "label": "location",
+      "description": "A country in Europe, known for its economic power and technological advancement",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.608949457634117
+    }
+  ],
+  "(9938, 12766)": [
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent located in the Northern Hemisphere, known for its diverse culture, economy, and logistics infrastructure",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.7123076610386029
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent located in the Northern Hemisphere, comprising the United States, Canada, and Mexico, with a significant impact on global trade and logistics",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.696797088361952
+    },
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with the world's second-largest economy, and a major player in global trade and logistics",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.5927363456700058
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, with the world's largest economy, and a significant influence on global trade, logistics, and e-commerce",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6065461664990074
+    },
+    {
+      "name": "United Kingdom",
+      "label": "location",
+      "description": "A country in Northwest Europe, with a significant economy, and a major player in global trade, logistics, and e-commerce",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6309935496547955
+    }
+  ],
+  "(12289, 15276)": [
+    {
+      "name": "air pollution",
+      "label": "natural hazard",
+      "description": "The presence of harmful substances in the air, which can have negative impacts on human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5381997107925018
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities and towns where people live and work, often characterized by high population densities and economic activity",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7028309319287048
+    }
+  ],
+  "(14813, 17559)": [
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities or metropolitan regions with high population densities and economic activities",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7179830074240608
+    },
+    {
+      "name": "air pollution",
+      "label": "natural hazard",
+      "description": "The release of pollutants into the atmosphere, harming human health and the environment",
+      "uuid": "77397026-09c9-44e0-b85f-77b2bc9b1630",
+      "score": 0.5399171545729415
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "Gases released into the atmosphere, contributing to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5270065349837645
+    },
+    {
+      "name": "European Environment Agency",
+      "label": "provider",
+      "description": "An agency of the European Union, responsible for providing independent and objective information on the environment",
+      "uuid": "92ffb6aa-1680-4cf0-af41-10839ca9c316",
+      "score": 0.6756545827731165
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent with diverse climates, economies, and cultures, and a significant player in global environmental policies",
+      "uuid": "a62ae820-58c5-47ff-bb72-2680962b26f4",
+      "score": 0.663783464590334
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "label": "provider",
+      "description": "A United States federal agency, responsible for protecting human and environmental health",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7171767828635064
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country with a significant impact on global climate policies and greenhouse gas emissions",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.5377199328079183
+    },
+    {
+      "name": "CO2 emissions",
+      "label": "variable",
+      "description": "The release of carbon dioxide into the atmosphere, a key contributor to global warming and climate change",
+      "uuid": "b53939ae-1264-409d-8434-3bb3d22b2848",
+      "score": 0.570929796686972
+    },
+    {
+      "name": "NOx",
+      "label": "variable",
+      "description": "Nitrogen oxides, pollutants released into the atmosphere, harming human health and the environment",
+      "uuid": "e82ebd1c-8241-4ca0-95a9-a6e1432519cd",
+      "score": 0.7280921314882142
+    },
+    {
+      "name": "PM10",
+      "label": "variable",
+      "description": "Particulate matter with a diameter of 10 micrometers or less, a pollutant harming human health and the environment",
+      "uuid": "750a9b6e-4cbb-4e46-b2da-52ecd6d3a153",
+      "score": 0.7425227100238487
+    }
+  ],
+  "(17053, 20199)": [
+    {
+      "name": "European Environment Agency",
+      "label": "provider",
+      "description": "An agency of the European Union that provides independent and objective information on the environment",
+      "uuid": "92ffb6aa-1680-4cf0-af41-10839ca9c316",
+      "score": 0.6723222041935362
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, known for its significant economic and environmental impact",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6470288442602848
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "label": "provider",
+      "description": "A U.S. federal agency responsible for protecting human and environmental health",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.713124192980462
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases that contribute to global warming and climate change, often measured in terms of carbon dioxide equivalent",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5217542977911994
+    },
+    {
+      "name": "transportation sector",
+      "label": "platform",
+      "description": "The system of vehicles, infrastructure, and services that enable the movement of people and goods",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.6008448646421866
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process without depleting natural resources or harming the environment",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6707112015087558
+    },
+    {
+      "name": "unmanned aerial vehicles",
+      "label": "instrument",
+      "description": "Remotely controlled or autonomous aircraft, used for various applications including logistics and surveillance",
+      "uuid": "841ec82d-fdea-466c-8436-68ed93d6d6de",
+      "score": 0.7139695859512618
+    }
+  ],
+  "(19657, 22643)": [
+    {
+      "name": "data analytics",
+      "label": "model",
+      "description": "The process of examining and interpreting data to extract insights and meaningful patterns",
+      "uuid": "41adc080-c182-4753-9666-435f8b1c913f",
+      "score": 0.5367090373951084
+    },
+    {
+      "name": "autonomous vehicles",
+      "label": "instrument",
+      "description": "Vehicles that can operate without human input, using advanced sensors, algorithms, and data analytics",
+      "uuid": "b0488156-f2de-4635-b8b0-ec8d70ee8622",
+      "score": 0.5361693795721658
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases that contribute to climate change, such as carbon dioxide, methane, and nitrous oxide",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5260285175219908
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, with a diverse economy, culture, and geography",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6939386046061261
+    }
+  ],
+  "(22225, 25069)": [
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, known for its diverse geography and significant role in global economics and politics",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.7089466709889779
+    },
+    {
+      "name": "self-driving vehicles",
+      "label": "instrument",
+      "description": "Vehicles that operate without human input, using a combination of sensors, software, and hardware to navigate roads and traffic",
+      "uuid": "b0488156-f2de-4635-b8b0-ec8d70ee8622",
+      "score": 0.5201242567590867
+    },
+    {
+      "name": "Belgium",
+      "label": "location",
+      "description": "A country in Western Europe, known for its rich history, cultural heritage, and innovative economy",
+      "uuid": "132c1238-6779-443c-9a5c-3df2f238beae",
+      "score": 0.7081233718832534
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, known for its rich history, cultural heritage, and innovative economy",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.60247010845976
+    }
+  ],
+  "(24560, 27601)": [
+    {
+      "name": "transportation science",
+      "label": "model",
+      "description": "The application of scientific principles and methods to the study of transportation systems, aiming to improve their efficiency and effectiveness",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.5672140255887732
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process without depleting natural resources, aiming to minimize the environmental impact of logistics and supply chain management",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.5882573301966452
+    }
+  ],
+  "(27090, 30109)": [
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process without depleting natural resources",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6605473617767017
+    }
+  ],
+  "(29540, 32568)": [
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "A measure of the environmental impact of logistics and transportation operations, such as greenhouse gas emissions",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5153205858436625
+    }
+  ],
+  "(39655, 42752)": [
+    {
+      "name": "France",
+      "label": "location",
+      "description": "A country in Western Europe, known for its developed economy and logistics infrastructure",
+      "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+      "score": 0.6637480030423102
+    },
+    {
+      "name": "Germany",
+      "label": "location",
+      "description": "A country in Central Europe, known for its strong economy and logistics industry",
+      "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+      "score": 0.568269503648612
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent with a diverse range of countries, economies, and logistics systems",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6137351310806962
+    },
+    {
+      "name": "United States",
+      "label": "location",
+      "description": "A country in North America, known for its large and complex logistics market",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6015367087368328
+    }
+  ],
+  "(44706, 47845)": [
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities or towns with high population densities and restricted vehicle access",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6696978546553327
+    },
+    {
+      "name": "people transportation networks",
+      "label": "platform",
+      "description": "Systems designed to move individuals from one place to another, such as buses, trains, and subways",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.5206184217406216
+    }
+  ],
+  "(47341, 50425)": [
+    {
+      "name": "Share-a-Ride Problem (SARP)",
+      "label": "project",
+      "description": "A research project that aims to determine the best schedules and routes for handling people and parcel requests in a shared transportation system",
+      "uuid": "89d4349b-69d8-4786-96eb-55363bbe28a9",
+      "score": 0.532366843806786
+    },
+    {
+      "name": "vehicles",
+      "label": "instrument",
+      "description": "Means of transportation used to move people or parcels",
+      "uuid": "8dc44d7b-e349-42ab-860e-18f5acfc1b28",
+      "score": 0.5595434617606541
+    },
+    {
+      "name": "Belgium",
+      "label": "location",
+      "description": "A country in Europe",
+      "uuid": "132c1238-6779-443c-9a5c-3df2f238beae",
+      "score": 0.6938508860834199
+    },
+    {
+      "name": "Netherlands",
+      "label": "location",
+      "description": "A country in Europe",
+      "uuid": "c4ff980e-6edd-400f-9c99-951fa0d0c887",
+      "score": 0.6670740636516445
+    }
+  ],
+  "(49973, 52835)": [
+    {
+      "name": "transportation",
+      "label": "platform",
+      "description": "A system or network that enables the movement of people or goods from one place to another",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.650736527726837
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability to maintain or support a process or system without depleting natural resources or causing harm to the environment",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.6755138273169409
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of pollutants or gases into the atmosphere, often as a result of human activities such as transportation or industrial processes",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.7110179887537285
+    }
+  ],
+  "(52360, 54550)": [
+    {
+      "name": "autonomous vehicles",
+      "label": "instrument",
+      "description": "Self-driving vehicles that use advanced technologies such as sensors and artificial intelligence to navigate and operate>",
+      "uuid": "1ea3829f-9479-46f5-a075-315da09867ae",
+      "score": 0.5281739012200789
+    },
+    {
+      "name": "transportation science",
+      "label": "variable",
+      "description": "A field of study that deals with the analysis, design, and optimization of transportation systems>",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.5660818144815828
+    }
+  ]
+}

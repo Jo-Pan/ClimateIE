@@ -1,0 +1,1450 @@
+{
+  "(0, 2872)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, consisting of a mixture of mineral and organic matter, which can be affected by contaminants",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6309207839999115
+    },
+    {
+      "name": "aquatic systems",
+      "label": "location",
+      "description": "Ecosystems that include freshwater and marine environments, which can be affected by contaminants",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6648145126515541
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water that collects on the surface of the Earth, including rivers, lakes, and oceans, which can be affected by contaminants",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6783595469672626
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water that is stored beneath the Earth's surface, which can be affected by contaminants",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6585058015643014
+    },
+    {
+      "name": "urbanized areas",
+      "label": "location",
+      "description": "Areas with high population density and developed infrastructure, which can be a source of contaminants",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6330142482858864
+    },
+    {
+      "name": "atmospheric deposition",
+      "label": "variable",
+      "description": "The process by which pollutants are deposited from the atmosphere to the Earth's surface, which can affect the environment",
+      "uuid": "dbeff538-6857-4573-8d14-12009e0ee078",
+      "score": 0.5408632044433773
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "Areas used for farming and agriculture, which can be a source of contaminants",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6076998262505827
+    },
+    {
+      "name": "toxicity",
+      "label": "variable",
+      "description": "The degree to which a substance can harm living organisms, which is a concern for contaminants",
+      "uuid": "5518feb6-93a8-46fd-9e9a-25be3a832d6d",
+      "score": 0.6221663623835595
+    }
+  ],
+  "(2474, 5192)": [
+    {
+      "name": "urbanized areas",
+      "label": "location",
+      "description": "Regions with high population density and developed infrastructure, contributing to environmental pollution",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.6767060447118999
+    },
+    {
+      "name": "transportation systems",
+      "label": "platform",
+      "description": "Infrastructure and networks used for moving people and goods, potentially releasing contaminants into the environment",
+      "uuid": "37a6c8e2-f2ac-48a4-a4fa-d80f700f68db",
+      "score": 0.6285933608863921
+    },
+    {
+      "name": "sewage treatment plants",
+      "label": "location",
+      "description": "Facilities designed to remove pollutants from wastewater, but potentially releasing contaminants into the environment",
+      "uuid": "835c5ec2-50e3-4bef-b380-9f74b143dac6",
+      "score": 0.536331092907074
+    },
+    {
+      "name": "atmospheric deposition",
+      "label": "natural hazard",
+      "description": "The process by which pollutants are deposited onto the Earth's surface from the atmosphere, potentially harming ecosystems",
+      "uuid": "dbeff538-6857-4573-8d14-12009e0ee078",
+      "score": 0.5504103991792391
+    },
+    {
+      "name": "agricultural land",
+      "label": "location",
+      "description": "Areas used for farming and agriculture, potentially receiving contaminants through various sources",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.6301948356400587
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "Communities of living organisms and their environment, potentially affected by contaminants",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6382505383235255
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water stored beneath the Earth's surface, potentially contaminated with CECs",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6326459154748162
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water bodies on the Earth's surface, potentially contaminated with CECs",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6528309221074419
+    },
+    {
+      "name": "terrestrial and aquatic ecosystems",
+      "label": "location",
+      "description": "Environments on land and in water, potentially affected by contaminants",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.6107919790356023
+    },
+    {
+      "name": "toxicity",
+      "label": "variable",
+      "description": "The degree to which a substance can harm living organisms",
+      "uuid": "5518feb6-93a8-46fd-9e9a-25be3a832d6d",
+      "score": 0.6416324344467151
+    }
+  ],
+  "(4810, 7179)": [
+    {
+      "name": "thermal",
+      "label": "platform",
+      "description": "Relating to heat or temperature, used in various applications such as insulation or energy transfer",
+      "uuid": "7d3d6c15-b328-43a4-92eb-7d3c430647c4",
+      "score": 0.5868415032166803
+    }
+  ],
+  "(6781, 9209)": [
+    {
+      "name": "RIKZ",
+      "label": "provider",
+      "description": "A research institution that studies the effects of chemicals on the environment and human health",
+      "uuid": "2e13d23d-d49c-43a3-a3ec-259d274d476b",
+      "score": 0.5157477487209892
+    },
+    {
+      "name": "USEPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, an organization that regulates and studies the effects of chemicals on the environment and human health",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.6885219781617884
+    },
+    {
+      "name": "acute toxicity",
+      "label": "variable",
+      "description": "A measure of the harmful effects of a substance on living organisms, typically measured in terms of the dose required to produce a certain effect",
+      "uuid": "5518feb6-93a8-46fd-9e9a-25be3a832d6d",
+      "score": 0.5308352314719396
+    },
+    {
+      "name": "carcinogenicity",
+      "label": "variable",
+      "description": "The potential of a substance to cause cancer",
+      "uuid": "31c913e1-9692-45b5-bce5-cca46fa1874d",
+      "score": 0.5451227085202736
+    }
+  ],
+  "(8747, 11164)": [
+    {
+      "name": "USEPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, responsible for protecting human health and the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.715853344389768
+    },
+    {
+      "name": "IRIS",
+      "label": "project",
+      "description": "The Integrated Risk Information System, a database of human health effects from exposure to environmental substances",
+      "uuid": "72e49dce-c936-4cfe-be92-156c34f73cf0",
+      "score": 0.5392433449996573
+    },
+    {
+      "name": "RIKZ",
+      "label": "provider",
+      "description": "A research institution or organization that published a study on the environmental fate and transport of BPA",
+      "uuid": "2e13d23d-d49c-43a3-a3ec-259d274d476b",
+      "score": 0.5331567669824703
+    },
+    {
+      "name": "ambient temperature",
+      "label": "variable",
+      "description": "The temperature of the surrounding environment, which can affect the behavior and degradation of BPA",
+      "uuid": "1d2ac206-0977-4145-b334-baa6e13a0db6",
+      "score": 0.5905448716118072
+    },
+    {
+      "name": "bioaccumulation",
+      "label": "variable",
+      "description": "The process by which substances accumulate in living organisms, which can be a concern for environmental and health impacts",
+      "uuid": "a54dbc4f-c136-4648-9797-db00e62fe22b",
+      "score": 0.6127753405394598
+    },
+    {
+      "name": "biodegradation",
+      "label": "variable",
+      "description": "The process by which microorganisms break down substances, which can affect the environmental fate and transport of BPA",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.6107715391548902
+    }
+  ],
+  "(10672, 12921)": [
+    {
+      "name": "biodegradation",
+      "label": "process",
+      "description": "The breakdown of organic substances by living organisms, such as bacteria and fungi",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.6687956773928025
+    },
+    {
+      "name": "river water",
+      "label": "location",
+      "description": "A natural source of water that can contain microorganisms capable of degrading BPA",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.5022663107292417
+    }
+  ],
+  "(12485, 14641)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, which can be contaminated with BPA",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5916699677340514
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water stored beneath the Earth's surface, which can be contaminated with BPA",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6237208183892589
+    }
+  ],
+  "(14439, 16448)": [
+    {
+      "name": "EC",
+      "label": "provider",
+      "description": "The European Commission, an institution that publishes reports and guidelines on environmental topics",
+      "uuid": "57a14338-6965-41de-9876-41fa6d259c51",
+      "score": 0.6032484547795464
+    },
+    {
+      "name": "RIKZ",
+      "label": "provider",
+      "description": "A research institution or organization that published a report on the topic of BPA contamination",
+      "uuid": "2e13d23d-d49c-43a3-a3ec-259d274d476b",
+      "score": 0.512942506150701
+    },
+    {
+      "name": "California",
+      "label": "location",
+      "description": "A state in the United States known for its agricultural production and use of reclaimed wastewater for irrigation",
+      "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+      "score": 0.5152784193765538
+    }
+  ],
+  "(15988, 18445)": [
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water stored beneath the Earth's surface, which can be affected by pollution",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6636825611964612
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water on the surface of the Earth, such as rivers, lakes, and oceans, which can be affected by pollution",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6880298045919458
+    },
+    {
+      "name": "pesticide",
+      "label": "variable",
+      "description": "A chemical used to control pests, which can contain traces of BPA",
+      "uuid": "bc1c6d8c-2e47-4a9f-aeb4-16b02bff4f19",
+      "score": 0.5933372304345296
+    },
+    {
+      "name": "Switzerland",
+      "label": "location",
+      "description": "A country in Europe, where a study on BPA in groundwater was conducted",
+      "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+      "score": 0.5811603093534924
+    },
+    {
+      "name": "USEPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, which conducted a study on BPA concentrations in groundwater",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.579023896164078
+    },
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, where a study on BPA in groundwater was conducted",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5160613127356118
+    },
+    {
+      "name": "Portugal",
+      "label": "location",
+      "description": "A country in Europe, where a study on BPA in surface water was conducted",
+      "uuid": "73236574-93e5-4520-ad5d-e298fd28d42d",
+      "score": 0.5350979216854634
+    },
+    {
+      "name": "river",
+      "label": "location",
+      "description": "A natural flowing body of water, which can be affected by pollution",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.6840845582858739
+    },
+    {
+      "name": "coastal waters",
+      "label": "location",
+      "description": "Waters along the coast, which can be affected by pollution",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5027255802021707
+    },
+    {
+      "name": "Singapore",
+      "label": "location",
+      "description": "A country in Asia, where a study on BPA in surface water was conducted",
+      "uuid": "6364bdbb-cdec-4059-a2b5-6b873c09fc7d",
+      "score": 0.5391469360248777
+    }
+  ],
+  "(18012, 20298)": [
+    {
+      "name": "USEPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, a government agency responsible for protecting the environment and public health",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7147399216387703
+    },
+    {
+      "name": "Hong Kong",
+      "label": "location",
+      "description": "A region in China, where BPA concentrations in seawaters were investigated",
+      "uuid": "d5182160-6764-4662-80fe-1ec252d36f20",
+      "score": 0.589097232013259
+    }
+  ],
+  "(19920, 22320)": [
+    {
+      "name": "China",
+      "label": "location",
+      "description": "A country in East Asia, with a diverse range of climates and ecosystems",
+      "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+      "score": 0.6769111845718031
+    },
+    {
+      "name": "Spain",
+      "label": "location",
+      "description": "A country in Europe, with a diverse range of climates and ecosystems",
+      "uuid": "cbbe14fb-a5ee-4236-84ae-cc8dee612b49",
+      "score": 0.686713877134126
+    },
+    {
+      "name": "Hong Kong",
+      "label": "location",
+      "description": "A special administrative region in China, known for its significant role in international trade and commerce",
+      "uuid": "d5182160-6764-4662-80fe-1ec252d36f20",
+      "score": 0.7053930764590097
+    },
+    {
+      "name": "Singapore",
+      "label": "location",
+      "description": "A country in Southeast Asia, known for its significant role in international trade and commerce",
+      "uuid": "6364bdbb-cdec-4059-a2b5-6b873c09fc7d",
+      "score": 0.6058376702704561
+    },
+    {
+      "name": "Quebec City",
+      "label": "location",
+      "description": "A city in Canada, known for its significant role in the country's history, culture, and economy",
+      "uuid": "c977c83a-f171-4337-8001-abb2539cdc76",
+      "score": 0.5411750608683231
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, known for its diverse range of climates and ecosystems",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.6023622768347823
+    },
+    {
+      "name": "aquatic environment",
+      "label": "location",
+      "description": "A type of ecosystem that includes freshwater and marine environments, known for its significant role in the global ecosystem",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6579713929545105
+    }
+  ],
+  "(21928, 24270)": [
+    {
+      "name": "bottled water samples",
+      "label": "variable",
+      "description": "Samples of bottled water collected for analysis to determine BPA contamination",
+      "uuid": "f9425f59-1aec-4743-b07a-fc6d760bb296",
+      "score": 0.5187908747872119
+    },
+    {
+      "name": "Washington, DC",
+      "label": "location",
+      "description": "A city in the United States where food samples were collected for analysis",
+      "uuid": "2ad8b29a-df7d-4fdc-b7b9-bcd2ff8d9866",
+      "score": 0.5071769972179567
+    },
+    {
+      "name": "Maryland",
+      "label": "location",
+      "description": "A state in the United States where food samples were collected for analysis",
+      "uuid": "417c01a8-79c5-40e6-affc-8a462b0b4336",
+      "score": 0.5870193705393133
+    },
+    {
+      "name": "fish",
+      "label": "variable",
+      "description": "A type of food that can be contaminated with BPA",
+      "uuid": "ea855d4c-f132-44f9-b31c-447e1101684d",
+      "score": 0.5219194108778321
+    },
+    {
+      "name": "dairy products",
+      "label": "variable",
+      "description": "A type of food that can be contaminated with BPA",
+      "uuid": "a368da76-b191-4859-bd55-8643f4fab812",
+      "score": 0.5550618803453923
+    },
+    {
+      "name": "Florida",
+      "label": "location",
+      "description": "A state in the United States where food samples were collected for analysis",
+      "uuid": "b607766c-83f5-42bb-96b2-2de4e7b488a4",
+      "score": 0.5481429848516794
+    }
+  ],
+  "(23874, 26002)": [
+    {
+      "name": "Italian cities",
+      "label": "location",
+      "description": "Cities located in Italy, a country in Southern Europe",
+      "uuid": "ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4",
+      "score": 0.5739313425450853
+    },
+    {
+      "name": "USEPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, which has studied and regulated the use of NP",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.6332907116456238
+    }
+  ],
+  "(25617, 28019)": [
+    {
+      "name": "USEPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, responsible for protecting human health and the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.715853344389768
+    },
+    {
+      "name": "OEHHA",
+      "label": "provider",
+      "description": "The California Office of Environmental Health Hazard Assessment, a state agency that evaluates environmental health risks",
+      "uuid": "ac2d8e19-67f4-4815-8287-f2989e4b4a04",
+      "score": 0.6782621912231745
+    },
+    {
+      "name": "Danish EPA",
+      "label": "provider",
+      "description": "The Danish Environmental Protection Agency, responsible for protecting the environment and human health in Denmark",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.57648078663419
+    },
+    {
+      "name": "biodegradation",
+      "label": "process",
+      "description": "The breakdown of organic substances by living organisms, such as bacteria or fungi",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.6702438025960114
+    },
+    {
+      "name": "surface waters",
+      "label": "location",
+      "description": "Bodies of water on the surface of the Earth, such as rivers, lakes, or oceans",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6978049663819818
+    },
+    {
+      "name": "terrestrial environment",
+      "label": "location",
+      "description": "The land-based environment, including soil, air, and living organisms",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.5934386644224314
+    },
+    {
+      "name": "municipal and industrial wastewater",
+      "label": "variable",
+      "description": "Wastewater generated by human activities, such as sewage or industrial processes",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5230831551623589
+    },
+    {
+      "name": "agricultural soils",
+      "label": "location",
+      "description": "Soils used for farming or other agricultural purposes",
+      "uuid": "38fb609b-2a10-4d4f-b2e8-7e51161ec974",
+      "score": 0.5194406608875213
+    }
+  ],
+  "(27634, 29646)": [
+    {
+      "name": "USEPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, a government agency responsible for protecting the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7016996518502006
+    },
+    {
+      "name": "OEHHA",
+      "label": "provider",
+      "description": "The Office of Environmental Health Hazard Assessment, a government agency responsible for evaluating environmental health risks",
+      "uuid": "ac2d8e19-67f4-4815-8287-f2989e4b4a04",
+      "score": 0.6676002128600127
+    }
+  ],
+  "(29292, 31685)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "A natural habitat for various microorganisms, plants, and animals, and a key component of the Earth's ecosystem",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5735219341903046
+    },
+    {
+      "name": "marine sediments",
+      "label": "location",
+      "description": "Deposits of particles and organic matter at the bottom of oceans, seas, and other bodies of water, influencing aquatic ecosystems",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.7215816812569678
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, essential for climate regulation and supporting life",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6236733714730112
+    },
+    {
+      "name": "water",
+      "label": "location",
+      "description": "A vital component of the Earth's ecosystem, necessary for life and influencing climate and weather patterns",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5428698662035558
+    },
+    {
+      "name": "USEPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, responsible for protecting human health and the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.715853344389768
+    },
+    {
+      "name": "OEHHA",
+      "label": "provider",
+      "description": "The California Office of Environmental Health Hazard Assessment, focused on evaluating and mitigating environmental health risks",
+      "uuid": "ac2d8e19-67f4-4815-8287-f2989e4b4a04",
+      "score": 0.6779668440167568
+    },
+    {
+      "name": "EC",
+      "label": "provider",
+      "description": "The European Commission, an institution of the European Union, involved in environmental policy and regulation",
+      "uuid": "57a14338-6965-41de-9876-41fa6d259c51",
+      "score": 0.6421814892066773
+    },
+    {
+      "name": "oxic conditions",
+      "label": "variable",
+      "description": "Environmental conditions with sufficient oxygen, influencing chemical and biological processes",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.5323016954264308
+    },
+    {
+      "name": "solar irradiation",
+      "label": "variable",
+      "description": "The amount of solar energy received by the Earth's surface, affecting climate and environmental processes",
+      "uuid": "33f0ec3e-cd6d-498c-9468-749741fc12e2",
+      "score": 0.6772166779972542
+    },
+    {
+      "name": "river sediments",
+      "label": "location",
+      "description": "Deposits of particles and organic matter at the bottom of rivers, influencing aquatic ecosystems",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.5034641744017986
+    }
+  ],
+  "(31313, 33530)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "A natural environment where NP can be found",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5035962869289302
+    },
+    {
+      "name": "sediments",
+      "label": "location",
+      "description": "A natural environment where NP can be found",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.5579185113920517
+    }
+  ],
+  "(33142, 35653)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "A natural habitat and medium for plant growth, affected by human activities such as sludge amendment and irrigation",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5658313458660329
+    },
+    {
+      "name": "sediments",
+      "label": "location",
+      "description": "Deposits of material that have settled to the bottom of a body of water, such as lakes, rivers, and oceans",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6707999605156493
+    },
+    {
+      "name": "Denmark",
+      "label": "location",
+      "description": "A country in Europe, where studies on NP concentrations in agricultural soils have been conducted",
+      "uuid": "98f7f9f6-90cb-4f52-8bec-8d21dd310c30",
+      "score": 0.5705462699487487
+    },
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, where studies on NP concentrations in sludge-amended soils have been reported",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.5228785443883782
+    },
+    {
+      "name": "Mexico",
+      "label": "location",
+      "description": "A country in North America, where studies on NP concentrations in agricultural fields irrigated with untreated wastewater have been conducted",
+      "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+      "score": 0.5645105929031357
+    },
+    {
+      "name": "Central Europe",
+      "label": "location",
+      "description": "A region in Europe, where studies on NP concentrations in freshwater sediments have been reported",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.6024306850250847
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, contributing to the presence of NP in coastal sediments",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5977977725599312
+    }
+  ],
+  "(35157, 37730)": [
+    {
+      "name": "Rhine",
+      "label": "location",
+      "description": "A major river in Europe, flowing through several countries and playing a crucial role in regional water management",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.5121880786986925
+    },
+    {
+      "name": "Venice Lagoon",
+      "label": "location",
+      "description": "A coastal lagoon in Italy, known for its unique ecosystem and potential environmental concerns",
+      "uuid": "879d286b-9ea6-4e4d-bdd1-56a4c7ca1531",
+      "score": 0.5161964344905475
+    },
+    {
+      "name": "open-sea sediments",
+      "label": "location",
+      "description": "Sediments found in open ocean environments, often characterized by unique chemical and biological properties",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.6017808999566003
+    },
+    {
+      "name": "marine sediments",
+      "label": "location",
+      "description": "Sediments found in marine environments, including estuaries, coastal areas, and open oceans",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.7024663489240885
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "The flow of water over land into surface water bodies, often carrying contaminants and pollutants",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6200179148641312
+    },
+    {
+      "name": "organic carbon content",
+      "label": "variable",
+      "description": "The amount of organic carbon present in a sample, often influencing the sorption and transport of contaminants",
+      "uuid": "d3055f47-258e-4556-a885-54cd1fff4680",
+      "score": 0.6141374386684294
+    }
+  ],
+  "(37274, 39747)": [
+    {
+      "name": "sediment",
+      "label": "location",
+      "description": "The material that settles to the bottom of a body of water, such as a river, lake, or ocean",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6130141891320958
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "The water located beneath the Earth's surface in soil pore spaces and in the fractures of rock formations",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6670456381053127
+    },
+    {
+      "name": "Spain",
+      "label": "location",
+      "description": "A country in Europe where NP concentrations were measured in groundwater and surface water",
+      "uuid": "cbbe14fb-a5ee-4236-84ae-cc8dee612b49",
+      "score": 0.5062483618645857
+    },
+    {
+      "name": "Portugal",
+      "label": "location",
+      "description": "A country in Europe where NP concentrations were measured in surface waters",
+      "uuid": "73236574-93e5-4520-ad5d-e298fd28d42d",
+      "score": 0.5217031800913667
+    },
+    {
+      "name": "Belgium",
+      "label": "location",
+      "description": "A country in Europe where NP concentrations were measured in surface waters",
+      "uuid": "132c1238-6779-443c-9a5c-3df2f238beae",
+      "score": 0.5849869979469088
+    },
+    {
+      "name": "Italy",
+      "label": "location",
+      "description": "A country in Europe where NP concentrations were measured in surface waters",
+      "uuid": "ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4",
+      "score": 0.5103979353544283
+    }
+  ],
+  "(39339, 41797)": [
+    {
+      "name": "Portugal",
+      "label": "location",
+      "description": "A country in southwestern Europe where industrial districts with high NP concentrations were found",
+      "uuid": "73236574-93e5-4520-ad5d-e298fd28d42d",
+      "score": 0.5511791577314068
+    },
+    {
+      "name": "Belgium",
+      "label": "location",
+      "description": "A country in northwestern Europe where NP concentrations were analyzed in wastewater treatment plant effluents",
+      "uuid": "132c1238-6779-443c-9a5c-3df2f238beae",
+      "score": 0.602369660828074
+    },
+    {
+      "name": "Italy",
+      "label": "location",
+      "description": "A country in southern Europe where NP concentrations were analyzed in wastewater treatment plant effluents and the Tiber River",
+      "uuid": "ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4",
+      "score": 0.50625081138038
+    },
+    {
+      "name": "wastewater treatment plant",
+      "label": "platform",
+      "description": "A facility that treats wastewater, potentially releasing NP into the environment",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5394075986544965
+    },
+    {
+      "name": "Central Europe",
+      "label": "location",
+      "description": "A region in Europe where NP concentrations were reported in freshwaters",
+      "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+      "score": 0.6055399565563897
+    },
+    {
+      "name": "coastal areas",
+      "label": "location",
+      "description": "Regions near the coast where NP concentrations were reported to decrease with distance from the coast",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5776068035913554
+    },
+    {
+      "name": "industrial areas",
+      "label": "location",
+      "description": "Regions with high industrial activity, potentially releasing NP into the environment",
+      "uuid": "07f7ea8e-cf94-4421-923a-539e12dbeb95",
+      "score": 0.5211032947696334
+    },
+    {
+      "name": "recreational beaches",
+      "label": "location",
+      "description": "Areas used for recreational activities, potentially contaminated with NP",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.5502967145214225
+    },
+    {
+      "name": "Hong Kong",
+      "label": "location",
+      "description": "A region in southeastern Asia where NP concentrations were reported to have a seasonal trend",
+      "uuid": "d5182160-6764-4662-80fe-1ec252d36f20",
+      "score": 0.5805903678869763
+    },
+    {
+      "name": "storm",
+      "label": "weather event",
+      "description": "A severe weather condition that can affect NP levels in the environment",
+      "uuid": "f6b314db-883a-4493-9140-b6afda949710",
+      "score": 0.5509041468036627
+    }
+  ],
+  "(41331, 43743)": [
+    {
+      "name": "marine sediments",
+      "label": "location",
+      "description": "The bottom layer of the ocean, composed of sedimentary materials, where chemical compounds like NPEs can accumulate and degrade",
+      "uuid": "ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c",
+      "score": 0.6075556512522919
+    },
+    {
+      "name": "Hong Kong",
+      "label": "location",
+      "description": "A region in southeastern China, known for its dense population and industrial activities, which can impact the environment",
+      "uuid": "d5182160-6764-4662-80fe-1ec252d36f20",
+      "score": 0.6654735244581529
+    },
+    {
+      "name": "storm water",
+      "label": "weather event",
+      "description": "Rainfall-runoff that flows over the ground and into water bodies, potentially carrying pollutants like NPEs",
+      "uuid": "873e35f5-908b-4418-861e-eab5d13a19a4",
+      "score": 0.5666180536586838
+    }
+  ],
+  "(43337, 45565)": [
+    {
+      "name": "roots",
+      "label": "location",
+      "description": "The underground part of a plant, where NP accumulation was measured",
+      "uuid": "a4f3f887-bb0a-464a-98bf-37ef66e03429",
+      "score": 0.5041314821157893
+    },
+    {
+      "name": "stem",
+      "label": "location",
+      "description": "The above-ground part of a plant, where NP accumulation was measured",
+      "uuid": "63328e16-4a87-4a52-b5a6-5c693031090c",
+      "score": 0.5575852648080143
+    },
+    {
+      "name": "leaves",
+      "label": "location",
+      "description": "The above-ground part of a plant, where NP accumulation was measured",
+      "uuid": "dfd5bcb9-0312-4b62-a9b5-dbb1a81d78f5",
+      "score": 0.5239736532106554
+    }
+  ],
+  "(45107, 47469)": [
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country where benzophenone production exceeded 453 t in 2003",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.5005062607142826
+    },
+    {
+      "name": "fish",
+      "label": "organism",
+      "description": "A group of aquatic animals that are affected by the adverse effects of benzophenones on reproduction and hormonal functions",
+      "uuid": "ea855d4c-f132-44f9-b31c-447e1101684d",
+      "score": 0.5619042658162847
+    },
+    {
+      "name": "agricultural chemicals",
+      "label": "product",
+      "description": "Chemicals used in agriculture, which may contain benzophenones as additives",
+      "uuid": "afd084b9-1f4c-4eb5-a58e-689a360e7abf",
+      "score": 0.6198632482556906
+    },
+    {
+      "name": "insecticides",
+      "label": "product",
+      "description": "Chemicals used to kill insects, which may contain benzophenones as additives",
+      "uuid": "bc1c6d8c-2e47-4a9f-aeb4-16b02bff4f19",
+      "score": 0.5046987861835239
+    }
+  ],
+  "(47126, 49450)": [
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "A natural environment where substances can be sorbed or degraded",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.548018519651893
+    },
+    {
+      "name": "sediment",
+      "label": "location",
+      "description": "A natural environment where substances can be sorbed or degraded",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.5732612405219911
+    },
+    {
+      "name": "ambient air",
+      "label": "location",
+      "description": "The surrounding air where substances can be present in vapor or particulate phase",
+      "uuid": "1d2ac206-0977-4145-b334-baa6e13a0db6",
+      "score": 0.5168321063426969
+    },
+    {
+      "name": "bioaccumulation",
+      "label": "process",
+      "description": "The accumulation of substances in organisms over time",
+      "uuid": "a54dbc4f-c136-4648-9797-db00e62fe22b",
+      "score": 0.5930679115517
+    },
+    {
+      "name": "suspended solids",
+      "label": "environmental compartment",
+      "description": "Particulate matter in water that can sorb substances",
+      "uuid": "9d8cb1dd-4b38-4b4e-8532-ab4eb72cd4ae",
+      "score": 0.7327126717851714
+    },
+    {
+      "name": "soil and sediment organic matter",
+      "label": "environmental compartment",
+      "description": "The organic components of soil and sediment that can sorb substances",
+      "uuid": "215f69b9-259a-4b82-9f8f-f96d4f5aaad2",
+      "score": 0.6472535369063116
+    },
+    {
+      "name": "biodegradation",
+      "label": "process",
+      "description": "The degradation of a substance through microbial activity",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.6477994443083599
+    }
+  ],
+  "(49032, 51277)": [
+    {
+      "name": "suspended solids",
+      "label": "variable",
+      "description": "Small solid particles that are suspended in water or air, often studied in the context of environmental science and pollution",
+      "uuid": "9d8cb1dd-4b38-4b4e-8532-ab4eb72cd4ae",
+      "score": 0.7463826239541037
+    },
+    {
+      "name": "sediments",
+      "label": "variable",
+      "description": "Material that settles to the bottom of a liquid, often studied in the context of environmental science and pollution",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6735911311185923
+    },
+    {
+      "name": "soil surface",
+      "label": "location",
+      "description": "The upper layer of the soil, where various environmental processes such as volatilization and biodegradation occur",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.5253531771596569
+    },
+    {
+      "name": "water",
+      "label": "location",
+      "description": "A natural resource and a common location for environmental studies, including the behavior and degradation of chemicals like BP-3",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.5366655158737526
+    },
+    {
+      "name": "ambient air",
+      "label": "location",
+      "description": "The surrounding air in a particular environment, which can contain various substances including BP-3 in both vapor and particulate phases",
+      "uuid": "1d2ac206-0977-4145-b334-baa6e13a0db6",
+      "score": 0.5013261808556021
+    },
+    {
+      "name": "aquatic organisms",
+      "label": "variable",
+      "description": "Living organisms that thrive in water environments, which can be affected by the bioconcentration of chemicals like BP-3",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.5115572920812028
+    },
+    {
+      "name": "oxic conditions",
+      "label": "variable",
+      "description": "Environmental conditions with the presence of oxygen, which can influence the biodegradation of chemicals like BP-3",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.5064144122183608
+    },
+    {
+      "name": "anoxic conditions",
+      "label": "variable",
+      "description": "Environmental conditions without the presence of oxygen, which can also influence the biodegradation of chemicals like BP-3",
+      "uuid": "853c3456-5397-4e16-ba67-51e4f4205db5",
+      "score": 0.529245623305501
+    },
+    {
+      "name": "hydroxyl radicals",
+      "label": "variable",
+      "description": "Highly reactive molecules that can degrade chemicals like BP-3 in the atmosphere",
+      "uuid": "5b49fd6d-3759-4b61-8b04-8309f38b2f90",
+      "score": 0.6292910023045256
+    }
+  ],
+  "(50894, 53206)": [
+    {
+      "name": "Aquatic ecosystems",
+      "label": "location",
+      "description": "Ecosystems found in water environments, such as rivers, lakes, and oceans, which can be affected by the presence of BPs",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.6904908059589467
+    },
+    {
+      "name": "recreational areas",
+      "label": "location",
+      "description": "Areas used for leisure activities, such as swimming pools and beaches, where BPs can be released into the environment",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.5844911662837666
+    },
+    {
+      "name": "wastewater treatment",
+      "label": "process",
+      "description": "A process designed to remove pollutants and contaminants from wastewater, which has been shown to have varying levels of effectiveness in removing BPs",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5319942263748022
+    }
+  ],
+  "(52838, 55336)": [
+    {
+      "name": "sediments",
+      "label": "location",
+      "description": "Samples of sediment collected from aquatic ecosystems, potentially containing benzophenones and other pollutants",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.6035128314937535
+    },
+    {
+      "name": "Chile",
+      "label": "location",
+      "description": "A country in South America, with regions potentially contaminated with pollutants from industrial and urban activities",
+      "uuid": "da26d486-1ee6-4689-abe9-5a59b2d572b1",
+      "score": 0.6298561221251945
+    },
+    {
+      "name": "Colombia",
+      "label": "location",
+      "description": "A country in South America, with regions potentially contaminated with pollutants from industrial and urban activities",
+      "uuid": "452b929e-ffdb-48c8-b3a2-bddd1ab2bf97",
+      "score": 0.6265375154416553
+    },
+    {
+      "name": "Japan",
+      "label": "location",
+      "description": "A country in East Asia, with regions potentially contaminated with pollutants from industrial and domestic activities",
+      "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+      "score": 0.6239410198753832
+    },
+    {
+      "name": "lakes",
+      "label": "location",
+      "description": "Bodies of water, potentially contaminated with pollutants from industrial and domestic activities",
+      "uuid": "3d64f625-fb84-4178-ad08-4be2dd15979b",
+      "score": 0.5793243733932386
+    },
+    {
+      "name": "rivers",
+      "label": "location",
+      "description": "Bodies of water, potentially contaminated with pollutants from industrial and domestic activities",
+      "uuid": "bb6b3b76-c496-464b-bd20-1b22296aae15",
+      "score": 0.5963605101145992
+    },
+    {
+      "name": "Korea",
+      "label": "location",
+      "description": "A country in East Asia, with regions potentially contaminated with pollutants from industrial and domestic activities",
+      "uuid": "2c12f87b-a4c7-4aec-b10b-0f3e37560ccf",
+      "score": 0.5895676045033402
+    }
+  ],
+  "(54901, 57416)": [
+    {
+      "name": "Korea",
+      "label": "location",
+      "description": "A country in East Asia, where lakes and rivers have been affected by municipal and recreational wastewaters",
+      "uuid": "2c12f87b-a4c7-4aec-b10b-0f3e37560ccf",
+      "score": 0.5417090154970798
+    },
+    {
+      "name": "Mediterranean coast",
+      "label": "location",
+      "description": "A region in southern Europe, where rivers and coastal areas have been impacted by contamination",
+      "uuid": "bb996422-74b7-44fa-89f5-63fd58be9102",
+      "score": 0.5182219430147169
+    },
+    {
+      "name": "Spain",
+      "label": "location",
+      "description": "A country in southwestern Europe, where sediments and surface water have been analyzed for UV filter contamination",
+      "uuid": "cbbe14fb-a5ee-4236-84ae-cc8dee612b49",
+      "score": 0.5726312800245482
+    },
+    {
+      "name": "groundwater",
+      "label": "variable",
+      "description": "Water stored beneath the Earth's surface, which can be contaminated with UV filters",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6254899309852321
+    },
+    {
+      "name": "surface water",
+      "label": "variable",
+      "description": "Water on the Earth's surface, such as rivers, lakes, and oceans, which can be contaminated with UV filters",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6620404510086059
+    }
+  ],
+  "(57055, 59424)": [
+    {
+      "name": "wastewater",
+      "label": "variable",
+      "description": "Used water from households, industries, and institutions that can contain pollutants and chemicals",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5639191901376069
+    },
+    {
+      "name": "surface waters",
+      "label": "location",
+      "description": "Bodies of water on the Earth's surface, including rivers, lakes, and oceans, that can be impacted by human activities",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.672072480105743
+    },
+    {
+      "name": "recreational activities",
+      "label": "variable",
+      "description": "Human activities, such as swimming and sunbathing, that can impact the water quality and introduce pollutants into surface waters",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.5303385606230401
+    },
+    {
+      "name": "recreational areas",
+      "label": "location",
+      "description": "Areas designated for recreational activities, such as parks and beaches, that can be impacted by human activities and introduce pollutants into surface waters",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.6151525895442969
+    }
+  ],
+  "(59012, 61220)": [
+    {
+      "name": "recreational areas",
+      "label": "location",
+      "description": "Areas used for leisure activities, potentially contaminated with pollutants such as benzophenones",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.6076478345145013
+    },
+    {
+      "name": "recreational activities",
+      "label": "experiment",
+      "description": "Human activities that potentially release benzophenones into the environment",
+      "uuid": "9ee8acad-458e-45c1-a1d5-9b1649c82ea7",
+      "score": 0.565782609808354
+    },
+    {
+      "name": "bioaccumulation",
+      "label": "experiment",
+      "description": "The process by which chemical compounds accumulate in living organisms",
+      "uuid": "a54dbc4f-c136-4648-9797-db00e62fe22b",
+      "score": 0.6021137617853782
+    }
+  ],
+  "(60892, 63247)": [
+    {
+      "name": "USA",
+      "label": "location",
+      "description": "The United States of America, a country in North America",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6626341957580762
+    },
+    {
+      "name": "aquatic environment",
+      "label": "location",
+      "description": "Ecosystems related to water, including freshwater and marine environments",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.7099932901249505
+    },
+    {
+      "name": "USEPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, a government agency responsible for protecting the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.7016996518502006
+    },
+    {
+      "name": "atmospheric deposition",
+      "label": "natural hazard",
+      "description": "The process by which pollutants are transferred from the atmosphere to the Earth's surface",
+      "uuid": "dbeff538-6857-4573-8d14-12009e0ee078",
+      "score": 0.5139593643294471
+    },
+    {
+      "name": "organic matter",
+      "label": "variable",
+      "description": "Carbon-based compounds found in living organisms and ecosystems",
+      "uuid": "9c90825c-a35f-4165-8248-e90ab869f8ec",
+      "score": 0.7287181995538289
+    },
+    {
+      "name": "peat",
+      "label": "location",
+      "description": "A type of soil made up of partially decayed plant matter",
+      "uuid": "f3b5489d-6723-40bf-bd55-68a0f2fc1874",
+      "score": 0.5199562584625868
+    }
+  ],
+  "(62929, 65118)": [
+    {
+      "name": "peat",
+      "label": "location",
+      "description": "A type of soil made of partially decayed plant matter, often found in wetland areas",
+      "uuid": "f3b5489d-6723-40bf-bd55-68a0f2fc1874",
+      "score": 0.5513136914061382
+    },
+    {
+      "name": "aquatic environment",
+      "label": "location",
+      "description": "Ecosystems that exist in water, including rivers, lakes, and oceans",
+      "uuid": "c6455081-132d-4661-bb5f-22edf2f90800",
+      "score": 0.7062350368375176
+    },
+    {
+      "name": "biodegradation",
+      "label": "experiment",
+      "description": "A type of experiment that studies the breakdown of chemicals by living organisms",
+      "uuid": "3e934184-42bd-45ff-b9c1-5c5321fd066f",
+      "score": 0.6153180016614381
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which a liquid turns into a gas",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.6544953835439239
+    }
+  ],
+  "(64816, 67036)": [
+    {
+      "name": "wastewater treatment plant",
+      "label": "location",
+      "description": "A facility designed to treat and remove pollutants from wastewater before releasing it into the environment",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5579238916970253
+    },
+    {
+      "name": "wetland area",
+      "label": "location",
+      "description": "A type of ecosystem characterized by saturated soils and vegetation, which can be affected by environmental pollution",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.6419519887654471
+    }
+  ],
+  "(66652, 69194)": [
+    {
+      "name": "land area",
+      "label": "location",
+      "description": "A region on Earth's surface that receives drainage water from a snow disposal site",
+      "uuid": "e85d6a2d-23c7-405a-b062-caf78f6ab827",
+      "score": 0.5050030254793884
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water stored beneath the Earth's surface, which can be affected by various contaminants",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6624962359237198
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water on the Earth's surface, such as rivers, lakes, and oceans, which can be impacted by industrial and urban activities",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6968856883198851
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that stores and transmits groundwater",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5948263082296261
+    }
+  ],
+  "(68795, 70965)": [
+    {
+      "name": "WWTP",
+      "label": "location",
+      "description": "A wastewater treatment plant, a facility designed to remove contaminants from wastewater and sewage",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5028401329110411
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water stored beneath the Earth's surface in soil and in the fractures of rock formations",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6750967398199283
+    },
+    {
+      "name": "aquifer",
+      "label": "location",
+      "description": "An underground layer of permeable rock or soil that can store and transmit significant amounts of water",
+      "uuid": "a957363b-2f2c-4169-a656-c2f24933eb72",
+      "score": 0.5973186282280378
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water on the surface of the Earth, including rivers, lakes, and oceans",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.7458164784470253
+    }
+  ],
+  "(72457, 75227)": [
+    {
+      "name": "Canada",
+      "label": "location",
+      "description": "A country in North America, which has set environmental quality standards for certain pollutants",
+      "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+      "score": 0.5221464811783099
+    },
+    {
+      "name": "Italy",
+      "label": "location",
+      "description": "A country in Europe, which has set provisional limits for certain pollutants",
+      "uuid": "ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4",
+      "score": 0.5796932302981791
+    },
+    {
+      "name": "European Commission",
+      "label": "provider",
+      "description": "The executive body of the European Union, which has set rigorous limits for certain pollutants",
+      "uuid": "57a14338-6965-41de-9876-41fa6d259c51",
+      "score": 0.5464405844223579
+    },
+    {
+      "name": "USEPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, which has proposed standards for certain pollutants",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.6033779141935284
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "Water on the surface of the Earth, such as rivers, lakes, and oceans, which can be affected by pollution",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6880298045919458
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "Water beneath the Earth's surface, which can be affected by pollution",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.6615186967866077
+    },
+    {
+      "name": "soil",
+      "label": "location",
+      "description": "The upper layer of the Earth's surface, which can be affected by pollution",
+      "uuid": "b885d84b-f3fb-48ec-979a-2d1892e6783d",
+      "score": 0.6020748075178708
+    }
+  ],
+  "(74868, 77058)": [
+    {
+      "name": "USEPA",
+      "label": "provider",
+      "description": "The United States Environmental Protection Agency, responsible for protecting human health and the environment",
+      "uuid": "782baf09-4a51-4245-b913-40008bde17dd",
+      "score": 0.715853344389768
+    },
+    {
+      "name": "water",
+      "label": "location",
+      "description": "A natural resource and environmental matrix where pollutants can be present",
+      "uuid": "3dd9fd35-f1dd-4d25-b849-eeb7b64ab767",
+      "score": 0.530012727852784
+    },
+    {
+      "name": "soils",
+      "label": "location",
+      "description": "An environmental matrix where pollutants and contaminants can be present",
+      "uuid": "3526afb8-0dc9-43c7-8ad4-f34f250a1e91",
+      "score": 0.5194637147809458
+    },
+    {
+      "name": "sediments",
+      "label": "location",
+      "description": "An environmental matrix where pollutants and contaminants can be present",
+      "uuid": "6d2511f8-4503-4237-93a9-34a3b369fe00",
+      "score": 0.5809110301483404
+    },
+    {
+      "name": "wastewater treatment plants",
+      "label": "platform",
+      "description": "Facilities designed to remove pollutants and contaminants from wastewater",
+      "uuid": "cbf64c32-99fa-4312-91a0-4fc85a6890bb",
+      "score": 0.5339380935436393
+    },
+    {
+      "name": "surface water",
+      "label": "location",
+      "description": "A natural resource and environmental matrix where pollutants can be present",
+      "uuid": "5debb283-51e4-435e-b2a2-e8e2a977220d",
+      "score": 0.6081410192817631
+    },
+    {
+      "name": "groundwater",
+      "label": "location",
+      "description": "A natural resource and environmental matrix where pollutants can be present",
+      "uuid": "734f8f27-6976-4b67-8794-c7fc79d6161e",
+      "score": 0.5889188724588387
+    }
+  ]
+}

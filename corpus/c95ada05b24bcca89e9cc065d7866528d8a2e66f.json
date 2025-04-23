@@ -1,0 +1,990 @@
+{
+  "(0, 3267)": [
+    {
+      "name": "Urban areas",
+      "label": "location",
+      "description": "Areas where human populations are concentrated and urbanization is taking place, often with significant social, economic, and environmental impacts",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7232520887361727
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent with diverse climate zones, cultures, and economies, experiencing rapid urbanization and population growth",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6503817005282316
+    },
+    {
+      "name": "populations",
+      "label": "variable",
+      "description": "The number of individuals living in a particular area or region, often used to study demographic trends and urbanization patterns",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6385791478243608
+    },
+    {
+      "name": "human population",
+      "label": "variable",
+      "description": "The total number of humans living on Earth, influencing and being influenced by environmental changes and urbanization",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6024574079788595
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The way in which land is utilized by humans, such as for agriculture, urban development, or conservation, affecting ecosystems and climate",
+      "uuid": "5066def0-b14b-4a2c-b40f-dc9953860366",
+      "score": 0.5785310495219205
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent with diverse climates, cultures, and economies, experiencing rapid urbanization and population growth",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.5922882354676037
+    },
+    {
+      "name": "Latin America",
+      "label": "location",
+      "description": "A region in the Americas with diverse cultures, economies, and climates, undergoing urbanization and demographic changes",
+      "uuid": "e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3",
+      "score": 0.527630779623572
+    },
+    {
+      "name": "urbanization",
+      "label": "natural hazard",
+      "description": "The process of urban growth and development, which can lead to environmental degradation, social inequality, and other challenges",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5831290543726405
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in temperature, precipitation, and other environmental factors, affecting ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5881383575076382
+    }
+  ],
+  "(2813, 5878)": [
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent in the Eastern Hemisphere, known for its diverse geography and climate, and significant population growth and urbanization",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.5891613056201126
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent in the Eastern Hemisphere, characterized by rapid urbanization and population growth, and expected to experience significant impacts from climate change",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6703945222322663
+    },
+    {
+      "name": "Latin America",
+      "label": "location",
+      "description": "A region in the Americas, comprising countries with diverse geography, climate, and cultures, and expected to experience urbanization and climate change impacts",
+      "uuid": "f2b153dd-1c30-42e4-8abf-677111e76c9a",
+      "score": 0.5376787550112329
+    },
+    {
+      "name": "UN Population Division",
+      "label": "provider",
+      "description": "A department of the United Nations responsible for analyzing and projecting population trends and urbanization patterns",
+      "uuid": "72cc1b10-4ca7-4cd3-af25-181ee5dc6725",
+      "score": 0.6402745726010949
+    },
+    {
+      "name": "anthropogenic global environmental change",
+      "label": "natural hazard",
+      "description": "Changes to the environment caused by human activities, including climate change, land use change, and loss of biological diversity",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.5179345537965481
+    },
+    {
+      "name": "global environmental change",
+      "label": "natural hazard",
+      "description": "The set of biophysical transformations of land, oceans, and atmosphere, driven by a coupled system of human and natural processes",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.5479014096624709
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by changes in temperature and precipitation patterns, sea level rise, and increased intensity of extreme climatic episodes",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5932886688768241
+    },
+    {
+      "name": "urbanization",
+      "label": "project",
+      "description": "The process of population growth and development in cities, closely linked to global environmental change and climate change",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5743728806520235
+    },
+    {
+      "name": "atmosphere",
+      "label": "location",
+      "description": "The layer of gases surrounding the Earth, affected by climate change and global environmental change",
+      "uuid": "c47f6052-634e-40ef-a5ac-13f69f6f4c2a",
+      "score": 0.6020011980070757
+    },
+    {
+      "name": "oceans",
+      "label": "location",
+      "description": "The large bodies of saltwater that cover most of the Earth's surface, playing a crucial role in the climate system and affected by climate change",
+      "uuid": "91697b7d-8f2b-4954-850e-61d5f61c867d",
+      "score": 0.7065407230368881
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The solid surface of the Earth, affected by climate change, land use change, and loss of biological diversity",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.6149132815449121
+    },
+    {
+      "name": "sea level rise",
+      "label": "ocean circulation",
+      "description": "The increase in the average level of the world's oceans, caused by climate change and expected to have significant impacts on coastal cities and ecosystems",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.7624566527045796
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the atmosphere, affected by climate change and expected to increase in the future",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6134534273023269
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, affected by climate change and expected to change in the future",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.631846606916807
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, a scientific organization responsible for assessing and reporting on climate change research and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7481420075871313
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases such as carbon dioxide and methane into the atmosphere, contributing to climate change and expected to be reduced through mitigation strategies",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.537931666684378
+    }
+  ],
+  "(5323, 8730)": [
+    {
+      "name": "atmospheric temperature",
+      "label": "variable",
+      "description": "The temperature of the air in the atmosphere, a key factor influencing climate and weather patterns",
+      "uuid": "35e1f93b-99b3-4430-b477-0ecafa80d67a",
+      "score": 0.6988276021077627
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7414456615238761
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Areas with high population density and infrastructure, often characterized by unique environmental, social, and economic challenges",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7370455964085743
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across vast distances, influenced by global warming and other factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5170404438113702
+    },
+    {
+      "name": "global climate",
+      "label": "location",
+      "description": "The overall climate system of the Earth, encompassing all regions and influencing weather patterns, ecosystems, and human societies",
+      "uuid": "51e3593f-4b42-4141-972e-96666c479f9c",
+      "score": 0.5177445691449685
+    },
+    {
+      "name": "CO2 concentrations",
+      "label": "variable",
+      "description": "The amount of carbon dioxide present in the atmosphere, a key driver of global warming and climate change",
+      "uuid": "2e0784f1-4c74-4e59-adc9-1245ae47db1e",
+      "score": 0.6217481519019902
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system, such as a city or ecosystem, is susceptible to harm or damage from climate change or other stressors",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5734231337210246
+    },
+    {
+      "name": "mitigation strategies",
+      "label": "experiment",
+      "description": "Actions taken to reduce greenhouse gas emissions and slow the rate of global warming and climate change",
+      "uuid": "c4a6c571-406e-4023-b479-6a1fc30f184c",
+      "score": 0.6224010671063961
+    },
+    {
+      "name": "adaptation options",
+      "label": "experiment",
+      "description": "Actions taken to prepare for and respond to the impacts of climate change, such as sea-level rise, droughts, and extreme weather events",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.59722553563649
+    }
+  ],
+  "(8161, 11470)": [
+    {
+      "name": "vulnerability",
+      "label": "concept",
+      "description": "The susceptibility of a system, such as a city or ecosystem, to be affected by environmental changes or hazards",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.6011709165147149
+    },
+    {
+      "name": "cities",
+      "label": "location",
+      "description": "Urban areas with their own climatic, ecological, and urbanization characteristics, sensitive to environmental change",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5885895531956866
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon of rising temperatures and altered weather patterns, posing significant threats to ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5831672973513408
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses the science related to climate change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7414456615238761
+    },
+    {
+      "name": "urbanization",
+      "label": "process",
+      "description": "The growth and development of cities, influencing the context and potential consequences of climate change",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5694777990998835
+    },
+    {
+      "name": "adaptation",
+      "label": "concept",
+      "description": "The process of adjusting to climate change by modifying structures, practices, or processes to respond to changing conditions and effects",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6371207665314571
+    },
+    {
+      "name": "boundaries",
+      "label": "location",
+      "description": "The limits or edges of a city or urban area, influencing the flow of resources, people, and ideas",
+      "uuid": "07a856fd-75e2-46e8-91eb-8a8562d3452f",
+      "score": 0.5580131492487904
+    },
+    {
+      "name": "greenhouse gas emissions",
+      "label": "variable",
+      "description": "The release of gases, such as carbon dioxide and methane, that contribute to global warming and climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5184611683957562
+    }
+  ],
+  "(10943, 14131)": [
+    {
+      "name": "climate change",
+      "label": "phenomenon",
+      "description": "A long-term change in the average weather patterns of the Earth, often attributed to human activities and resulting in various environmental impacts",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5698913330984832
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities or metropolitan regions, characterized by high population densities and significant economic, social, and environmental activities",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7446110544545846
+    },
+    {
+      "name": "societal responses",
+      "label": "experiment",
+      "description": "The actions and strategies taken by societies to adapt to, mitigate, or respond to the impacts of climate change",
+      "uuid": "f69374fe-eda2-4223-b130-096220251235",
+      "score": 0.5367873656629434
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system or population is susceptible to harm or damage from external stressors, such as climate change",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5884196563982804
+    },
+    {
+      "name": "ecosystems",
+      "label": "platform",
+      "description": "Complex networks of living organisms and their environment, providing essential services and supporting biodiversity",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6861159544132132
+    },
+    {
+      "name": "human populations",
+      "label": "platform",
+      "description": "Groups of people living in a specific geographic area, with their own social, economic, and cultural characteristics",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.5193539865188548
+    },
+    {
+      "name": "sea-level rise",
+      "label": "natural hazard",
+      "description": "The increase in the average level of the world's oceans, often caused by climate change and resulting in coastal erosion, flooding, and saltwater intrusion",
+      "uuid": "0afaaa5e-f88c-4c1f-95c1-1faa0148885a",
+      "score": 0.755684474264588
+    },
+    {
+      "name": "storms",
+      "label": "weather event",
+      "description": "Severe meteorological disturbances, often characterized by strong winds, heavy rainfall, and thunderstorms",
+      "uuid": "ad28623e-bb9b-433c-8fc1-2ab06dda58c4",
+      "score": 0.634258194863497
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Overflows of water that can cause damage to properties, infrastructure, and human populations",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6855395118515848
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability and quality of water, essential for human consumption, agriculture, industry, and ecosystems",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.7163265378554765
+    },
+    {
+      "name": "UNEP",
+      "label": "provider",
+      "description": "The United Nations Environment Programme, an international organization dedicated to environmental conservation and sustainable development",
+      "uuid": "687d4231-8da8-4236-9cc4-26d7ff198578",
+      "score": 0.6012141458311017
+    },
+    {
+      "name": "emissions",
+      "label": "variable",
+      "description": "The release of greenhouse gases, such as carbon dioxide, methane, and nitrous oxide, into the atmosphere, often contributing to climate change",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.6714550501804404
+    }
+  ],
+  "(13596, 16834)": [
+    {
+      "name": "cities",
+      "label": "location",
+      "description": "Urban areas that serve as centers for economic growth, population concentration, and cultural development, playing a crucial role in addressing climate change",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5539142065110494
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, altered ecosystems, and increased frequency of extreme weather events, posing significant risks to human societies and the environment",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5779974461338698
+    },
+    {
+      "name": "urbanization",
+      "label": "process",
+      "description": "The growth and development of cities, leading to changes in population distribution, economic activities, and environmental conditions",
+      "uuid": "e759cacb-33f0-4564-b151-c7cfa5e85ed3",
+      "score": 0.5848044368105696
+    },
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses and reports on climate change research, impacts, and mitigation strategies",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7600998476720922
+    },
+    {
+      "name": "flooding",
+      "label": "natural hazard",
+      "description": "A type of natural disaster caused by excess water, often resulting from heavy rainfall, storm surges, or other extreme weather events",
+      "uuid": "fb5c09ec-c924-4deb-8294-8a27697a4550",
+      "score": 0.6981891867387638
+    },
+    {
+      "name": "heavy rainfall",
+      "label": "weather event",
+      "description": "A type of extreme weather event characterized by intense precipitation, often leading to flooding, landslides, and other environmental hazards",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.6499041633204502
+    },
+    {
+      "name": "infrastructure",
+      "label": "platform",
+      "description": "The physical structures and systems that support urban development, including transportation, energy, and water management systems",
+      "uuid": "d4313915-2d24-424c-a171-30ee9a6f4bb5",
+      "score": 0.6224952110885459
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "A measure of the susceptibility of a system to adverse effects of climate change, including its sensitivity and adaptive capacity",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5702324572859235
+    },
+    {
+      "name": "urban population",
+      "label": "population",
+      "description": "The people living in urban areas, often facing unique challenges related to climate change, resource management, and environmental sustainability",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5183477759775348
+    }
+  ],
+  "(16342, 19541)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across vast distances",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5087004786976634
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system, community, or individual is susceptible to harm or damage from climate-related hazards and stressors",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5942852626047116
+    },
+    {
+      "name": "cities",
+      "label": "location",
+      "description": "Urban areas with high population densities, often with unique climate-related challenges and vulnerabilities",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5753085522081078
+    },
+    {
+      "name": "natural science",
+      "label": "provider",
+      "description": "A field of study focused on the natural world, including climate science and the development of climate models",
+      "uuid": "b28033ac-592a-42a5-8913-3b8d74dfe43d",
+      "score": 0.5056562124104537
+    },
+    {
+      "name": "governance",
+      "label": "provider",
+      "description": "The system of rules, practices, and processes used to manage and regulate human activities, including those related to climate change and adaptation",
+      "uuid": "d81b77be-0177-4e26-942c-aa911239482d",
+      "score": 0.53329437510416
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6657507897618521
+    },
+    {
+      "name": "regional level",
+      "label": "location",
+      "description": "A geographic area defined by administrative, cultural, or environmental boundaries, often used as a scale for climate modeling and vulnerability assessments",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.6276418529799349
+    },
+    {
+      "name": "adaptation measures",
+      "label": "experiment",
+      "description": "Strategies and actions taken to reduce the vulnerability of systems, communities, or individuals to climate-related hazards and stressors",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5500527246596396
+    },
+    {
+      "name": "hazard",
+      "label": "natural hazard",
+      "description": "A situation or event that poses a threat to people, the environment, or infrastructure, often exacerbated by climate change",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.5748858279586472
+    },
+    {
+      "name": "poverty",
+      "label": "variable",
+      "description": "A state of economic deprivation, often linked to increased vulnerability to climate-related hazards and stressors",
+      "uuid": "b37021a3-4d7f-4b94-b614-807d6981d2ad",
+      "score": 0.5629672933182365
+    },
+    {
+      "name": "urban infrastructure",
+      "label": "platform",
+      "description": "The physical structures and systems that support urban life, including transportation, energy, water, and communication networks",
+      "uuid": "d4313915-2d24-424c-a171-30ee9a6f4bb5",
+      "score": 0.5319024343086591
+    },
+    {
+      "name": "coastal zone areas",
+      "label": "location",
+      "description": "Regions along the coast that are particularly vulnerable to climate-related hazards such as sea-level rise, storms, and erosion",
+      "uuid": "b1f63bf1-a547-4189-9c7e-66a8d11facc4",
+      "score": 0.5970686136064624
+    }
+  ],
+  "(18993, 22131)": [
+    {
+      "name": "urban responses",
+      "label": "project",
+      "description": "Initiatives and strategies implemented by cities to adapt to climate change, including reducing consumption of environmental resources and addressing risk and vulnerability",
+      "uuid": "fef15af1-607d-4005-b1a8-778af1a4dca9",
+      "score": 0.5303859326965285
+    },
+    {
+      "name": "cities",
+      "label": "location",
+      "description": "Urban areas around the world, varying in size, geographic location, and position in the functional hierarchy of cities",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5671490073880635
+    },
+    {
+      "name": "global North",
+      "label": "location",
+      "description": "A region comprising developed countries, primarily located in the Northern Hemisphere, known for their economic and technological advancements",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.5334961798617311
+    },
+    {
+      "name": "private actors",
+      "label": "provider",
+      "description": "Non-governmental organizations, businesses, and individuals that contribute to urban responses to climate change",
+      "uuid": "f8762581-b92f-48f9-b077-964ee6b0c8ee",
+      "score": 0.516162009861896
+    },
+    {
+      "name": "sustainability",
+      "label": "variable",
+      "description": "The ability of a system, region, or community to maintain its environmental, social, and economic well-being over time",
+      "uuid": "03d38261-1c90-491b-bc4e-cc4e703e1dff",
+      "score": 0.685886952673378
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The susceptibility of a system, region, or community to the negative impacts of climate change, including its ability to cope with and recover from climate-related disasters",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5713587149505976
+    },
+    {
+      "name": "adaptive capacity",
+      "label": "variable",
+      "description": "The potential of a system, region, or community to adjust to the effects and consequences of climate change, including climate variability and extremes",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5264528855025999
+    }
+  ],
+  "(21614, 24676)": [
+    {
+      "name": "region",
+      "label": "location",
+      "description": "A geographic area with distinct characteristics, which can be affected by climate change and have varying levels of adaptive capacity",
+      "uuid": "559411a8-5fe5-4d2c-ad6b-30849e650396",
+      "score": 0.6445747720214523
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors, which can have severe impacts on ecosystems and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5878716216055478
+    },
+    {
+      "name": "adaptive capacity",
+      "label": "variable",
+      "description": "The ability of a system, region, or community to adjust to the effects and consequences of climate change, including climate variability and extremes",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.5266922439792867
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The state of being susceptible to harm or damage, often resulting from a combination of exposure, sensitivity, and lack of adaptive capacity",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5231214373644403
+    }
+  ],
+  "(24207, 27361)": [
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5451761247480406
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6657507897618521
+    },
+    {
+      "name": "centres",
+      "label": "provider",
+      "description": "Organizations or institutions that provide research, expertise, and resources for addressing specific issues, including climate change",
+      "uuid": "2d90dd8a-26c0-4d0f-881f-96c36799cf56",
+      "score": 0.5067334851511168
+    },
+    {
+      "name": "programmes",
+      "label": "project",
+      "description": "Initiatives or activities designed to achieve specific goals or objectives, often related to climate change adaptation or mitigation",
+      "uuid": "874e680d-8050-4e4a-bbaa-23a2d2e30f11",
+      "score": 0.5358612364441705
+    }
+  ],
+  "(26800, 29945)": [
+    {
+      "name": "tourism",
+      "label": "variable",
+      "description": "An economic activity related to travel and leisure that can be influenced by climate change and local environmental conditions",
+      "uuid": "82fdb39c-4fe8-4e2b-9dcf-67ceb4c6d8b9",
+      "score": 0.6796710353361408
+    },
+    {
+      "name": "Chile",
+      "label": "location",
+      "description": "A country in South America known for its diverse geography and climate, with cities like Santiago taking action on climate change",
+      "uuid": "da26d486-1ee6-4689-abe9-5a59b2d572b1",
+      "score": 0.6394050830687631
+    },
+    {
+      "name": "adaptation",
+      "label": "experiment",
+      "description": "The process of adjusting to the impacts of climate change, involving the development and implementation of strategies to reduce vulnerability and enhance resilience",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6359542188609847
+    },
+    {
+      "name": "NGOs",
+      "label": "provider",
+      "description": "Non-governmental organizations that play a crucial role in supporting local climate action through advocacy, expertise, and community engagement",
+      "uuid": "f8762581-b92f-48f9-b077-964ee6b0c8ee",
+      "score": 0.585725238715139
+    }
+  ],
+  "(29375, 32639)": [
+    {
+      "name": "adaptation",
+      "label": "project",
+      "description": "A process or initiative aimed at adjusting to the impacts of climate change, often involving local or regional efforts to reduce vulnerability and enhance resilience",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6212484184740953
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The number of people living in a particular area or community, often considered in the context of climate change impacts and adaptation planning",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6340218715189938
+    },
+    {
+      "name": "tourism",
+      "label": "variable",
+      "description": "An industry that involves the travel of people for leisure or business purposes, sometimes considered in the context of climate change impacts or adaptation efforts",
+      "uuid": "82fdb39c-4fe8-4e2b-9dcf-67ceb4c6d8b9",
+      "score": 0.6822991781756431
+    },
+    {
+      "name": "natural disasters",
+      "label": "natural hazard",
+      "description": "Severe and unusual meteorological occurrences such as heatwaves, floods, and storms that can have significant impacts on communities and ecosystems",
+      "uuid": "ec0e2762-f57a-4fdc-b395-c8d7d5590d18",
+      "score": 0.5781452615926082
+    },
+    {
+      "name": "US",
+      "label": "location",
+      "description": "The United States of America, a country with a diverse range of climates and regions, sometimes considered in the context of climate change impacts and adaptation efforts",
+      "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+      "score": 0.6099598508168229
+    }
+  ],
+  "(32111, 35408)": [
+    {
+      "name": "Delhi",
+      "label": "location",
+      "description": "The capital city of India, located in South Asia, known for its rapid urbanization and climate change vulnerabilities",
+      "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+      "score": 0.5181183347196966
+    },
+    {
+      "name": "Santiago de Chile",
+      "label": "location",
+      "description": "The capital city of Chile, located in South America, known for its urbanization and climate change challenges",
+      "uuid": "da26d486-1ee6-4689-abe9-5a59b2d572b1",
+      "score": 0.5214325917602856
+    },
+    {
+      "name": "adaptation",
+      "label": "experiment",
+      "description": "The process of adjusting to the impacts of climate change, involving actions taken by cities, communities, and individuals to reduce their vulnerability",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6260137060765083
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, more frequent extreme weather events, and altered ecosystems, posing significant risks to human societies and the environment",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.582856895848924
+    },
+    {
+      "name": "urban adaptation",
+      "label": "project",
+      "description": "A research initiative focused on understanding and addressing the impacts of climate change on urban areas, aiming to enhance the resilience of cities and their inhabitants",
+      "uuid": "fef15af1-607d-4005-b1a8-778af1a4dca9",
+      "score": 0.6143073916086866
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system, community, or individual is susceptible to the adverse effects of climate change, taking into account their exposure, sensitivity, and adaptive capacity",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5721200223688573
+    }
+  ],
+  "(34871, 38192)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A global phenomenon characterized by changes in the Earth's climate system, affecting weather patterns, ecosystems, and human societies",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5980064417549783
+    },
+    {
+      "name": "adaptation",
+      "label": "experiment",
+      "description": "The process of adjusting to the impacts of climate change, involving the development and implementation of strategies to reduce vulnerability and enhance resilience",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6359542188609847
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability and management of water, crucial for human consumption, agriculture, and ecosystems, and affected by climate change",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.7348899152806747
+    },
+    {
+      "name": "social vulnerability",
+      "label": "variable",
+      "description": "The susceptibility of human populations to the impacts of climate change, influenced by factors such as poverty, inequality, and lack of access to resources",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.568217565881175
+    },
+    {
+      "name": "UES",
+      "label": "model",
+      "description": "The Urban Environmental Security framework, a conceptual approach to understanding the relationships between urbanization, climate change, and environmental security",
+      "uuid": "fef15af1-607d-4005-b1a8-778af1a4dca9",
+      "score": 0.5072729307573371
+    }
+  ],
+  "(37642, 40912)": [
+    {
+      "name": "UES",
+      "label": "project",
+      "description": "The Urban Environment Sustainability initiative, aimed at improving urban planning and management in the context of climate change",
+      "uuid": "fef15af1-607d-4005-b1a8-778af1a4dca9",
+      "score": 0.5185305007839762
+    },
+    {
+      "name": "vulnerability",
+      "label": "variable",
+      "description": "The degree to which a system or population is susceptible to harm or damage from climate-related stressors",
+      "uuid": "33f20afe-5ce2-43e9-9676-c5f664fbc324",
+      "score": 0.5755173565202474
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872478600468966
+    },
+    {
+      "name": "spatial planning",
+      "label": "instrument",
+      "description": "The process of managing and organizing physical space in urban areas to achieve sustainable development and mitigate the impacts of climate change",
+      "uuid": "fef15af1-607d-4005-b1a8-778af1a4dca9",
+      "score": 0.5975319750465065
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, an important factor in understanding climate change",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6509875587671502
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rainfall or other forms of moisture that fall to the Earth's surface, a critical component of the climate system",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6527771549809864
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The total number of people living in a particular area, a key factor in urban planning and climate change adaptation",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6416056153455247
+    },
+    {
+      "name": "water supply",
+      "label": "variable",
+      "description": "The availability and management of water resources for human consumption, agriculture, and other uses",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5655803166816892
+    },
+    {
+      "name": "energy use",
+      "label": "variable",
+      "description": "The consumption of energy resources such as fossil fuels, renewable energy, and other forms of energy",
+      "uuid": "b73cee46-8e2c-4df9-b1ed-7f0aa98a04ac",
+      "score": 0.5487923332209849
+    },
+    {
+      "name": "land cover",
+      "label": "variable",
+      "description": "The physical characteristics of the Earth's surface, including vegetation, soil, and other features",
+      "uuid": "e5815f58-8232-4c7f-b50d-ea71d73891a9",
+      "score": 0.645518099644881
+    },
+    {
+      "name": "land use",
+      "label": "variable",
+      "description": "The human activities and purposes for which land is utilized, such as agriculture, urban development, and conservation",
+      "uuid": "1fd206a9-83a7-4f43-902d-003811080fed",
+      "score": 0.5782378187778104
+    },
+    {
+      "name": "floods",
+      "label": "weather event",
+      "description": "Sudden and temporary overflows of water that can cause damage to infrastructure, agriculture, and human settlements",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6706009985286489
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Cities and towns, characterized by high population densities and complex social, economic, and environmental systems",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.74277504119215
+    },
+    {
+      "name": "climate change adaptation",
+      "label": "project",
+      "description": "Efforts to prepare for and respond to the impacts of climate change, including measures to reduce vulnerability and increase resilience",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6401700962533777
+    }
+  ],
+  "(40338, 43833)": [
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A large-scale pattern of climate variability that links weather and climate phenomena across vast distances",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5087004786976634
+    },
+    {
+      "name": "urban areas",
+      "label": "location",
+      "description": "Areas with high population density and urban development, often characterized by unique climate and environmental challenges",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.7005514702107575
+    },
+    {
+      "name": "energy",
+      "label": "variable",
+      "description": "A measure of the amount of energy available or used in a system, often studied in the context of climate change and sustainability",
+      "uuid": "356e018f-f15d-462f-8403-887b726a4372",
+      "score": 0.525855684658158
+    },
+    {
+      "name": "water",
+      "label": "variable",
+      "description": "A vital component of the Earth's climate system, essential for human consumption, agriculture, and ecosystems",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5677671008356863
+    },
+    {
+      "name": "population",
+      "label": "variable",
+      "description": "The total number of people living in a particular area, often considered a key factor in urban climate change adaptation and resilience",
+      "uuid": "085edf65-1c8c-414a-b8e4-a1a08ff08f22",
+      "score": 0.6153995610208483
+    }
+  ],
+  "(43268, 46611)": [
+    {
+      "name": "Chile",
+      "label": "location",
+      "description": "A country in South America known for its diverse geography and climate, with significant urban and rural areas affected by climate change",
+      "uuid": "da26d486-1ee6-4689-abe9-5a59b2d572b1",
+      "score": 0.6237000980977969
+    },
+    {
+      "name": "climate change model",
+      "label": "model",
+      "description": "A computational tool used to simulate and predict the impacts of climate change on various aspects of the environment and human societies",
+      "uuid": "ea5ccefb-e390-43d5-8202-33e004565beb",
+      "score": 0.5969350413204398
+    }
+  ],
+  "(46033, 47427)": [
+    {
+      "name": "climate adaptation",
+      "label": "project",
+      "description": "Efforts and strategies implemented to adjust to the impacts of climate change, aiming to reduce vulnerability and enhance resilience",
+      "uuid": "223e1204-e305-43d2-80d0-8baed8c828c0",
+      "score": 0.6571630580325861
+    },
+    {
+      "name": "global South",
+      "label": "location",
+      "description": "A term referring to countries and regions in the Southern Hemisphere, often characterized by developing economies and unique environmental challenges",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.5176219330187924
+    },
+    {
+      "name": "cities",
+      "label": "location",
+      "description": "Urban areas, which are particularly vulnerable to climate change due to their high population density and infrastructure",
+      "uuid": "e4abd82b-b17a-4f16-be79-0093f2a09f7d",
+      "score": 0.5957373502545446
+    },
+    {
+      "name": "evidence",
+      "label": "variable",
+      "description": "Data and research findings that support or inform decision-making and policy development in the context of climate change",
+      "uuid": "56c50986-b670-4bae-890e-8e705500bb16",
+      "score": 0.533089017943895
+    },
+    {
+      "name": "climate change",
+      "label": "natural hazard",
+      "description": "A global phenomenon characterized by rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5872478600468966
+    }
+  ]
+}

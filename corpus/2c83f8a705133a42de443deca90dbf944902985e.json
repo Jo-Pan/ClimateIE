@@ -1,0 +1,768 @@
+{
+  "(0, 3232)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, affecting plant growth and distribution",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5664619415035612
+    },
+    {
+      "name": "soil fertility",
+      "label": "variable",
+      "description": "The ability of soil to support plant growth, often measured by its nutrient content",
+      "uuid": "e4781de7-a4a4-4157-a549-4ac238d36512",
+      "score": 0.7166913877262665
+    }
+  ],
+  "(2686, 5862)": [
+    {
+      "name": "plant communities",
+      "label": "project",
+      "description": "A group of plants living together in a specific area, often studied in the context of ecology and environmental science",
+      "uuid": "ad7abcce-b88e-46c7-be44-496d60c88f25",
+      "score": 0.5033038554907099
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "An island nation in the Pacific Ocean, known for its unique biodiversity and ecological systems",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.6854184178338835
+    },
+    {
+      "name": "leaf nitrogen concentration",
+      "label": "variable",
+      "description": "A measure of the amount of nitrogen present in plant leaves, often used to study plant nutrition and ecology",
+      "uuid": "dfd5bcb9-0312-4b62-a9b5-dbb1a81d78f5",
+      "score": 0.5817132973639795
+    },
+    {
+      "name": "phosphorus-poor soil",
+      "label": "location",
+      "description": "A type of soil that has low levels of phosphorus, a nutrient essential for plant growth",
+      "uuid": "47f4e7ac-b4ca-4ef9-824b-a36ea5510526",
+      "score": 0.5133796383171934
+    },
+    {
+      "name": "phosphorus-rich soil",
+      "label": "location",
+      "description": "A type of soil that has high levels of phosphorus, a nutrient essential for plant growth",
+      "uuid": "9169ace5-0f04-4fc9-b38d-b89a786b9fe1",
+      "score": 0.5519026538816424
+    },
+    {
+      "name": "low leaf nitrogen",
+      "label": "variable",
+      "description": "A measure of the amount of nitrogen present in plant leaves, often used to study plant nutrition and ecology",
+      "uuid": "dfd5bcb9-0312-4b62-a9b5-dbb1a81d78f5",
+      "score": 0.5609917652042823
+    },
+    {
+      "name": "high leaf nitrogen",
+      "label": "variable",
+      "description": "A measure of the amount of nitrogen present in plant leaves, often used to study plant nutrition and ecology",
+      "uuid": "dfd5bcb9-0312-4b62-a9b5-dbb1a81d78f5",
+      "score": 0.5880554664179678
+    }
+  ],
+  "(5320, 8261)": [
+    {
+      "name": "symbiosis",
+      "label": "variable",
+      "description": "A close and often long-term relationship between different biological species, in which one species, the symbiont, lives in close association with another species, the host>",
+      "uuid": "e008a809-42eb-4694-aac2-db7b6027ee77",
+      "score": 0.6938942925354807
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, which influences plant growth and distribution>",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5590249174424066
+    }
+  ],
+  "(7725, 10722)": [
+    {
+      "name": "Root N",
+      "label": "variable",
+      "description": "Root Nitrogen, a measure of the amount of nitrogen in a plant's roots",
+      "uuid": "1ba5d51e-0146-4a7d-9283-85d9cf9b2388",
+      "score": 0.504204131243003
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.6197709146988026
+    }
+  ],
+  "(10253, 12861)": [
+    {
+      "name": "GRooT",
+      "label": "project",
+      "description": "The global root trait database, a comprehensive collection of root trait data for various plant species",
+      "uuid": "a0325077-0d65-41ab-8545-cf0a4f529392",
+      "score": 0.5167819016995758
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used to describe climate conditions",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6601644017949805
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, a key factor in determining climate and vegetation patterns",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6432618450922424
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the Earth's surface to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7626276437131331
+    },
+    {
+      "name": "forests",
+      "label": "location",
+      "description": "Terrestrial ecosystems dominated by trees, often characterized by high biodiversity and complex vegetation structures",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6982014943562224
+    },
+    {
+      "name": "grasslands",
+      "label": "location",
+      "description": "Terrestrial ecosystems dominated by grasses and other herbaceous plants, often found in temperate and tropical regions",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6941781267432435
+    },
+    {
+      "name": "wetlands",
+      "label": "location",
+      "description": "Ecosystems characterized by saturated soils and high water tables, often supporting unique and diverse plant and animal communities",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.7302263382305297
+    }
+  ],
+  "(12492, 14986)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, affecting plant growth and distribution",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5664619415035612
+    },
+    {
+      "name": "forests",
+      "label": "location",
+      "description": "Terrestrial ecosystems characterized by a high density of trees and other vegetation, influencing local climate and soil conditions",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6809439892959678
+    },
+    {
+      "name": "grasslands",
+      "label": "location",
+      "description": "Terrestrial ecosystems characterized by a dominance of grasses and other herbaceous plants, influencing local climate and soil conditions",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6957663949657916
+    },
+    {
+      "name": "wetlands",
+      "label": "location",
+      "description": "Terrestrial ecosystems characterized by a high water table and saturated soils, influencing local climate and plant distribution",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.702323744241958
+    }
+  ],
+  "(14561, 17370)": [
+    {
+      "name": "Freeze-thaw dynamics",
+      "label": "natural hazard",
+      "description": "A phenomenon where the repeated freezing and thawing of soil can physically disturb root systems, introducing the risk of losing large investments in dense roots",
+      "uuid": "24b052b6-5996-496d-9e91-1fdbda5897da",
+      "score": 0.5189206668648986
+    },
+    {
+      "name": "root trait and vegetation datasets",
+      "label": "project",
+      "description": "A collection of data on root characteristics and vegetation patterns, used to study the relationship between root traits and species distributions along climatic gradients",
+      "uuid": "a3fcd632-ccb8-4c18-817b-d6b56ec8601b",
+      "score": 0.52969056903871
+    },
+    {
+      "name": "terrestrial biosphere",
+      "label": "location",
+      "description": "The region of the Earth where life exists on land, encompassing all ecosystems and habitats",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.5962826133374999
+    },
+    {
+      "name": "forests",
+      "label": "location",
+      "description": "A type of ecosystem characterized by a dense growth of trees and other vegetation, often found in temperate and tropical regions",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6533081486169546
+    },
+    {
+      "name": "grasslands",
+      "label": "location",
+      "description": "A type of ecosystem characterized by a dominance of grasses and other herbaceous plants, often found in temperate and tropical regions",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6731060180813637
+    },
+    {
+      "name": "root N",
+      "label": "variable",
+      "description": "The amount of nitrogen in roots, which can influence a plant's ability to absorb water and nutrients",
+      "uuid": "1ba5d51e-0146-4a7d-9283-85d9cf9b2388",
+      "score": 0.562726680891962
+    },
+    {
+      "name": "drought",
+      "label": "natural hazard",
+      "description": "A period of abnormally low rainfall, which can have negative impacts on plant growth and survival",
+      "uuid": "3678d18c-9dca-4743-abc0-1442b4d438d2",
+      "score": 0.6397918395911365
+    }
+  ],
+  "(16834, 20017)": [
+    {
+      "name": "land plants",
+      "label": "organism",
+      "description": "Plants that have adapted to live on land, playing a crucial role in the Earth's ecosystem",
+      "uuid": "0b4081fa-5233-4484-bc82-706976defa0e",
+      "score": 0.5150321748299556
+    },
+    {
+      "name": "terrestrial biosphere",
+      "label": "location",
+      "description": "The region of the Earth where life exists on land, encompassing all ecosystems and habitats",
+      "uuid": "9361962c-cfc7-4428-8843-b3502718c382",
+      "score": 0.5962826133374999
+    },
+    {
+      "name": "forest ecosystems",
+      "label": "location",
+      "description": "Ecosystems dominated by trees, found on every continent and playing a vital role in the global carbon cycle",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.5629001968198027
+    },
+    {
+      "name": "Root N",
+      "label": "variable",
+      "description": "The amount of nitrogen in a plant's roots, influencing their growth and function",
+      "uuid": "1ba5d51e-0146-4a7d-9283-85d9cf9b2388",
+      "score": 0.5298565144880215
+    },
+    {
+      "name": "dry environments",
+      "label": "location",
+      "description": "Ecosystems with limited water availability, often characterized by low rainfall and high evaporation",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.510612215217444
+    },
+    {
+      "name": "wet environments",
+      "label": "location",
+      "description": "Ecosystems with abundant water availability, often characterized by high rainfall and low evaporation",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.5842359102707458
+    }
+  ],
+  "(19454, 22639)": [
+    {
+      "name": "species distributions",
+      "label": "variable",
+      "description": "The geographic range and abundance of different species, influenced by environmental factors and trait-environment interactions",
+      "uuid": "79841056-b651-439c-b638-439e94731d31",
+      "score": 0.5316702971647554
+    },
+    {
+      "name": "climate change",
+      "label": "weather event",
+      "description": "A long-term change in the Earth's climate, resulting from natural and human-induced factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5686447982484926
+    },
+    {
+      "name": "forests",
+      "label": "location",
+      "description": "Ecosystems dominated by trees and other woody vegetation",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6824730680472033
+    },
+    {
+      "name": "grasslands",
+      "label": "location",
+      "description": "Ecosystems dominated by grasses and other herbaceous vegetation",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6799772891061554
+    },
+    {
+      "name": "wetlands",
+      "label": "location",
+      "description": "Ecosystems characterized by saturated soils and abundant water",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.7231161199100757
+    }
+  ],
+  "(22213, 25339)": [
+    {
+      "name": "grasslands",
+      "label": "location",
+      "description": "A type of ecosystem characterized by grasses and other herbaceous plants, often used in studies of plant ecology and climate interactions",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6782533306819304
+    },
+    {
+      "name": "human management",
+      "label": "variable",
+      "description": "The impact of human activities on the environment, often used in studies of plant ecology and climate interactions",
+      "uuid": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
+      "score": 0.5010442239892593
+    },
+    {
+      "name": "temperature gradients",
+      "label": "variable",
+      "description": "A change in temperature over a distance or time, often used in studies of plant ecology and climate interactions",
+      "uuid": "99d567bb-7767-4ea4-a135-a611eac6a669",
+      "score": 0.6374489742846853
+    },
+    {
+      "name": "macroclimate",
+      "label": "variable",
+      "description": "The overall climate of a region, often used in studies of plant ecology and climate interactions",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.6881380672770346
+    },
+    {
+      "name": "microclimate",
+      "label": "variable",
+      "description": "The local climate of a specific area, often used in studies of plant ecology and climate interactions",
+      "uuid": "78369c58-beaa-46f2-b286-dd2540634556",
+      "score": 0.7118789976479332
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water in the soil, often used in studies of plant ecology and climate interactions",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6990791285868561
+    },
+    {
+      "name": "topography",
+      "label": "variable",
+      "description": "The shape and features of the land, often used in studies of plant ecology and climate interactions",
+      "uuid": "3e822484-c94a-457b-a32f-376fcbd6fd35",
+      "score": 0.6360202029768186
+    },
+    {
+      "name": "wetlands",
+      "label": "location",
+      "description": "A type of ecosystem characterized by saturated soils and abundant water, often used in studies of plant ecology and climate interactions",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.7207089248954706
+    }
+  ],
+  "(24810, 27752)": [
+    {
+      "name": "plant community assembly",
+      "label": "project",
+      "description": "The process by which plant species interact and organize themselves in a given environment",
+      "uuid": "ad7abcce-b88e-46c7-be44-496d60c88f25",
+      "score": 0.5065368457820452
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The long-term average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5144120671860375
+    },
+    {
+      "name": "forests",
+      "label": "location",
+      "description": "Terrestrial ecosystems dominated by trees and other woody vegetation",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6992416709572105
+    },
+    {
+      "name": "grasslands",
+      "label": "location",
+      "description": "Terrestrial ecosystems dominated by grasses and other herbaceous vegetation",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.6985401360138016
+    },
+    {
+      "name": "wetlands",
+      "label": "location",
+      "description": "Terrestrial ecosystems dominated by saturated soils and aquatic vegetation",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.6924901191117583
+    }
+  ],
+  "(27389, 30266)": [
+    {
+      "name": "model E",
+      "label": "model",
+      "description": "A statistical model used for comparison with other models",
+      "uuid": "8ad656db-1324-4e92-8273-5a765ca29282",
+      "score": 0.509380710168615
+    },
+    {
+      "name": "Root N",
+      "label": "variable",
+      "description": "Root nitrogen concentration, a measure of root chemistry",
+      "uuid": "1ba5d51e-0146-4a7d-9283-85d9cf9b2388",
+      "score": 0.5167518204697489
+    },
+    {
+      "name": "Temp",
+      "label": "variable",
+      "description": "Minimum temperature in the coldest month, a measure of climate",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5293224519116342
+    },
+    {
+      "name": "P:PET",
+      "label": "variable",
+      "description": "Precipitation: Potential Evapotranspiration ratio, a measure of water availability",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.5232867649953383
+    }
+  ],
+  "(29788, 32375)": [
+    {
+      "name": "GRooT",
+      "label": "project",
+      "description": "The global root trait database, which combines observations from the Fine-Root Ecology Database and TRY, as well as additional literature",
+      "uuid": "a0325077-0d65-41ab-8545-cf0a4f529392",
+      "score": 0.5208793687506714
+    },
+    {
+      "name": "temperate seasonal forest",
+      "label": "location",
+      "description": "A biome characterized by seasonal temperature variations and forest vegetation, often found in mid-latitude regions",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6465556064991906
+    },
+    {
+      "name": "tropical rainforests",
+      "label": "location",
+      "description": "A biome characterized by high temperatures and high levels of rainfall, often found near the equator",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.6743036517076587
+    },
+    {
+      "name": "boreal forest",
+      "label": "location",
+      "description": "A biome characterized by coniferous forest vegetation and cold temperatures, often found in subarctic regions",
+      "uuid": "cafa8131-4a2d-4c8b-811c-0d64adf5fc06",
+      "score": 0.6520197151919548
+    },
+    {
+      "name": "woodland-shrubland",
+      "label": "location",
+      "description": "A biome characterized by a mixture of woodland and shrubland vegetation, often found in temperate and subtropical regions",
+      "uuid": "e018b139-7e05-4155-8e2e-8d5603b5fe47",
+      "score": 0.5153183877845108
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent with a diverse range of biomes and climates, including temperate and boreal regions",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.656249254016033
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent with a diverse range of biomes and climates, including tropical, temperate, and boreal regions",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6556233191902249
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent with a diverse range of biomes and climates, including temperate, boreal, and desert regions",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.6615195847405768
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A continent with a diverse range of biomes and climates, including tropical, temperate, and desert regions",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.6416690859817145
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, which can influence plant growth and ecology",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5556834116309206
+    }
+  ],
+  "(31958, 34641)": [
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on Earth, comprising many countries with diverse climates and ecosystems",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6917278034756772
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "The largest and most populous continent on Earth, encompassing a wide range of climates and ecosystems",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.693046387194646
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent on Earth, consisting of the United States, Canada, Mexico, and many other countries, with varied climates and ecosystems",
+      "uuid": "ef38f589-f506-4d62-af59-d9006c622d26",
+      "score": 0.7230699559114327
+    },
+    {
+      "name": "Australia",
+      "label": "location",
+      "description": "A country and continent on Earth, known for its unique biodiversity and climate conditions",
+      "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+      "score": 0.7006435150509335
+    },
+    {
+      "name": "temperate seasonal forest",
+      "label": "location",
+      "description": "A biome characterized by forests with seasonal changes in temperature and vegetation, found in temperate regions",
+      "uuid": "a59dc6dc-5348-4e8b-aec2-20cdeb38b617",
+      "score": 0.6406225120551836
+    },
+    {
+      "name": "boreal forest",
+      "label": "location",
+      "description": "A biome characterized by coniferous forests found in subarctic regions, also known as taiga",
+      "uuid": "cafa8131-4a2d-4c8b-811c-0d64adf5fc06",
+      "score": 0.6777949940877277
+    },
+    {
+      "name": "woodland-shrubland",
+      "label": "location",
+      "description": "A biome characterized by a mixture of trees, shrubs, and grasses, often found in transitional zones between forests and grasslands",
+      "uuid": "e018b139-7e05-4155-8e2e-8d5603b5fe47",
+      "score": 0.5113747862137302
+    },
+    {
+      "name": "tropical rainforests",
+      "label": "location",
+      "description": "A biome characterized by dense, rainy forests found near the equator, with high biodiversity and complex ecosystems",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.703897167043122
+    },
+    {
+      "name": "tropical forests",
+      "label": "location",
+      "description": "A general term for forests found in tropical regions, including rainforests, seasonal forests, and other types",
+      "uuid": "89bb4e2b-dd39-44ed-a4d3-2b205e9fa68a",
+      "score": 0.5891105919336009
+    },
+    {
+      "name": "Aridity index",
+      "label": "variable",
+      "description": "A measure of the dryness of a region, calculated based on precipitation and potential evapotranspiration",
+      "uuid": "cdd7a31f-3244-494d-bc44-7b5f1ebb4bd7",
+      "score": 0.5462127065553312
+    },
+    {
+      "name": "P:PET",
+      "label": "variable",
+      "description": "The precipitation-to-potential evapotranspiration ratio, a measure of water availability in a region",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.5092255006124734
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded in a given period, often used to characterize climate conditions",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6060214329045682
+    },
+    {
+      "name": "mean annual temperature",
+      "label": "variable",
+      "description": "The average temperature recorded over a year, used to characterize climate conditions",
+      "uuid": "af931dca-9a7d-4ba9-b40f-2a21e31f2d5b",
+      "score": 0.5273524690574727
+    },
+    {
+      "name": "vegetation types",
+      "label": "variable",
+      "description": "A classification of different types of plant communities, such as forests, grasslands, and wetlands",
+      "uuid": "de0ace5c-fa2b-47ca-93db-79d8df7ab6f2",
+      "score": 0.5570691159897393
+    }
+  ],
+  "(34212, 37195)": [
+    {
+      "name": "Wetland",
+      "label": "location",
+      "description": "A type of ecosystem characterized by saturated soil and vegetation adapted to wet conditions",
+      "uuid": "b72c49a1-8276-4753-8c88-894bc7bbf60d",
+      "score": 0.6843987506365069
+    },
+    {
+      "name": "Forest",
+      "label": "location",
+      "description": "A type of ecosystem dominated by trees and other woody vegetation",
+      "uuid": "46e4aaa4-349c-4049-a910-035391360010",
+      "score": 0.6376136825999003
+    },
+    {
+      "name": "Grassland",
+      "label": "location",
+      "description": "A type of ecosystem characterized by grasses and other herbaceous plants",
+      "uuid": "142ea0c1-b77f-44da-8c64-ac7ee13fd5f6",
+      "score": 0.652287153059635
+    },
+    {
+      "name": "savanna",
+      "label": "location",
+      "description": "A type of ecosystem characterized by a mixture of grasses and trees, not included as a separate category in this study",
+      "uuid": "d58dab07-f57e-47a9-8dcf-02a3e17f3533",
+      "score": 0.7333724162011696
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the Western Hemisphere, home to diverse ecosystems and species",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6838991735984998
+    },
+    {
+      "name": "Africa",
+      "label": "location",
+      "description": "A continent in the Eastern Hemisphere, home to diverse ecosystems and species",
+      "uuid": "789268ec-9e39-48cb-97cb-89a2d33efe09",
+      "score": 0.5765069825724428
+    },
+    {
+      "name": "University of Wyoming",
+      "label": "provider",
+      "description": "An academic institution that provided high-performance computing resources for this study",
+      "uuid": "c2f51e7d-f3a5-4b5e-b861-a68e9970922c",
+      "score": 0.60658889807209
+    }
+  ],
+  "(36647, 39363)": [
+    {
+      "name": "University of Wyoming",
+      "label": "provider",
+      "description": "An academic institution that provides research and educational opportunities, including access to high-performance computing resources",
+      "uuid": "06ca7e1c-002e-4096-9e88-6603340f85cb",
+      "score": 0.59059621770988
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the environment, used as a predictor variable in the analysis",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6107574526541978
+    }
+  ],
+  "(38834, 41760)": [
+    {
+      "name": "species",
+      "label": "variable",
+      "description": "A category of living organisms, which can be used as a response variable in statistical models to study their occurrence and distribution>",
+      "uuid": "74d079b5-9b36-45c9-9b09-7e3646b65a85",
+      "score": 0.5167612347701663
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The average atmospheric condition in a particular region, which can be used as a predictor variable in statistical models to study its impact on species occurrence>",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.5117088666924354
+    }
+  ],
+  "(41309, 44083)": [
+    {
+      "name": "climate variables",
+      "label": "variable",
+      "description": "Quantities or characteristics that can be measured or observed in climate experiments, such as temperature, precipitation, or humidity",
+      "uuid": "160af7da-6036-4af5-ba04-d666df8a0daa",
+      "score": 0.6991495814256382
+    },
+    {
+      "name": "species",
+      "label": "variable",
+      "description": "A type of living organism, often studied in the context of ecology, biology, and climate research",
+      "uuid": "0de668aa-cc97-482d-a0eb-cddcb1a705b6",
+      "score": 0.5159822098652397
+    },
+    {
+      "name": "community datasets",
+      "label": "project",
+      "description": "Collections of data related to the study of communities, which can include information on species, climate, and other environmental factors",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.594695330632792
+    },
+    {
+      "name": "climate gradient",
+      "label": "variable",
+      "description": "A gradual change in climate conditions, such as temperature or precipitation, over a geographic area or time period",
+      "uuid": "99d567bb-7767-4ea4-a135-a611eac6a669",
+      "score": 0.5228910997421647
+    },
+    {
+      "name": "model E",
+      "label": "model",
+      "description": "A specific type of environmental model used to study the relationships between species and climate variables",
+      "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
+      "score": 0.5142640062834288
+    },
+    {
+      "name": "https://idata.idiv.de/ddm/Data/ShowData/3475",
+      "label": "platform",
+      "description": "A website or repository providing access to data and code for the project",
+      "uuid": "bc3c7b78-e2d4-495e-86d7-cb7a39e5992e",
+      "score": 0.564418099708835
+    }
+  ],
+  "(43850, 44083)": [
+    {
+      "name": "idata.idiv.de",
+      "label": "provider",
+      "description": "A data repository providing access to research data and code for reproducibility and collaboration",
+      "uuid": "9966a009-6577-4053-8ca3-7216497880a5",
+      "score": 0.5669399750328366
+    },
+    {
+      "name": "model results",
+      "label": "variable",
+      "description": "The output or findings of a climate model simulation, often used to validate or compare with other models or observations",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.5329798282326574
+    },
+    {
+      "name": "data",
+      "label": "variable",
+      "description": "Information or facts collected for analysis or simulation in climate research",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.6024377776242356
+    },
+    {
+      "name": "code",
+      "label": "instrument",
+      "description": "Computer programs or scripts used for climate modeling, data analysis, or simulation",
+      "uuid": "936822a8-ce02-49aa-970f-b4a92dfd769b",
+      "score": 0.5662577082381716
+    }
+  ]
+}

@@ -1,0 +1,1587 @@
+{
+  "(0, 2932)": [
+    {
+      "name": "WaterMIP",
+      "label": "project",
+      "description": "The Water Model Intercomparison Project, an initiative to compare simulation results of different classes of models in a consistent way",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.5973408271252072
+    },
+    {
+      "name": "land surface models",
+      "label": "model",
+      "description": "Computational representations of land surface processes used to simulate and predict exchanges of heat, water, and sometimes carbon",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.6567885869889171
+    },
+    {
+      "name": "global hydrological models",
+      "label": "model",
+      "description": "Computational representations of hydrological processes used to simulate and predict water resources and lateral transfer of water",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5615292195979997
+    },
+    {
+      "name": "global terrestrial water balance",
+      "label": "variable",
+      "description": "A measure of the balance between water inputs and outputs for the global land areas",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5237254457532273
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land surface to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7474868339682326
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water over land into streams, rivers, and lakes",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7276338819392909
+    },
+    {
+      "name": "global meteorological dataset",
+      "label": "dataset",
+      "description": "A collection of meteorological data used to drive model simulations",
+      "uuid": "fe64cea2-19de-470c-a919-b24c744c696b",
+      "score": 0.5385084766658285
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "An autonomous territory within the Kingdom of Denmark, located in the North Atlantic Ocean",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.7744733505536768
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "A continent located in the Southern Hemisphere, surrounded by the Southern Ocean",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.7329137446744148
+    },
+    {
+      "name": "Global Soil Wetness Project",
+      "label": "project",
+      "description": "An initiative to study and predict soil moisture and its impact on the climate system",
+      "uuid": "8787e040-fc89-4516-bc1d-f4010cb0419c",
+      "score": 0.7437192886195116
+    },
+    {
+      "name": "atmospheric models",
+      "label": "model",
+      "description": "Computational representations of atmospheric processes used to simulate and predict weather, climate, and air quality",
+      "uuid": "3668de06-8a7d-4667-beb8-d04dcac619b0",
+      "score": 0.5775255743479979
+    }
+  ],
+  "(2553, 5466)": [
+    {
+      "name": "Spatial Variability of Land Surface Processes",
+      "label": "project",
+      "description": "A research project focused on understanding the spatial variability of land surface processes and their impact on climate and water cycles",
+      "uuid": "88138bbd-4f54-4cca-841b-d26623931b4b",
+      "score": 0.5031275374426615
+    },
+    {
+      "name": "Project to Intercompare Land surface Parameterization Schemes",
+      "label": "project",
+      "description": "An initiative to compare and evaluate different land surface parameterization schemes used in climate models",
+      "uuid": "d58c9208-4cd5-4be6-8cfd-1e9970cfd1aa",
+      "score": 0.5114414099384312
+    },
+    {
+      "name": "Global Soil Wetness Project",
+      "label": "project",
+      "description": "A research project aimed at understanding and simulating soil wetness and its impact on the global water cycle",
+      "uuid": "8787e040-fc89-4516-bc1d-f4010cb0419c",
+      "score": 0.729774183276716
+    },
+    {
+      "name": "Water and Global Change",
+      "label": "project",
+      "description": "A research project focused on analyzing, quantifying, and predicting the components of the current and future global water cycles and related water resources states",
+      "uuid": "25cffb7e-087b-49aa-ae2a-8ce62acaefaa",
+      "score": 0.560460836318382
+    },
+    {
+      "name": "Water Model Intercomparison Project",
+      "label": "project",
+      "description": "A joint project combining the efforts of the Water and Global Change project and the Global Soil Wetness Project to compare and evaluate different water models",
+      "uuid": "8787e040-fc89-4516-bc1d-f4010cb0419c",
+      "score": 0.5524113026914957
+    },
+    {
+      "name": "European Union",
+      "label": "provider",
+      "description": "A political and economic union of European countries that funds research projects, including the Water and Global Change project",
+      "uuid": "3565b745-0b09-4bac-92b0-459f1d7c400a",
+      "score": 0.5119446540451863
+    },
+    {
+      "name": "Land Surface Models",
+      "label": "model",
+      "description": "Computational representations of land surface processes used to simulate and predict water and energy balances",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.6611321490032765
+    },
+    {
+      "name": "Global Hydrological Models",
+      "label": "model",
+      "description": "Computational representations of global hydrological processes used to simulate and predict water availability and stress",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5686692700876518
+    },
+    {
+      "name": "subannual time scale",
+      "label": "variable",
+      "description": "A time scale that refers to periods shorter than a year, important for understanding seasonal variations in water demand and availability",
+      "uuid": "7afdb8ba-a504-45b6-b301-730e3c69d23a",
+      "score": 0.6608927132116962
+    },
+    {
+      "name": "surface water",
+      "label": "variable",
+      "description": "A measure of the amount of water present on the Earth's surface, including rivers, lakes, and wetlands",
+      "uuid": "c052239f-e386-42ff-a8d3-9ca170367d5c",
+      "score": 0.7466566212280137
+    },
+    {
+      "name": "global terrestrial water cycle",
+      "label": "variable",
+      "description": "The continuous process by which water is circulated between the Earth's oceans, atmosphere, and land surfaces",
+      "uuid": "885735f3-121e-4ca0-ac8b-f37dbc972f03",
+      "score": 0.5855115097863437
+    },
+    {
+      "name": "global terrestrial water balance",
+      "label": "variable",
+      "description": "The balance between the amount of water entering and leaving the Earth's land surfaces, including precipitation, evaporation, and runoff",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.5322095443117708
+    },
+    {
+      "name": "hydrological",
+      "label": "variable",
+      "description": "Relating to the study of the movement, distribution, and quality of water on the Earth's surface and in the atmosphere",
+      "uuid": "7406a787-6ab6-429f-bc09-9a86d393e114",
+      "score": 0.5201933975115112
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The amount of water available for human use, including surface water, groundwater, and precipitation",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.669041226874417
+    },
+    {
+      "name": "available water resources",
+      "label": "variable",
+      "description": "The amount of water available for human use, taking into account factors such as water quality, accessibility, and sustainability",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6184214455740473
+    },
+    {
+      "name": "related water resources states",
+      "label": "variable",
+      "description": "The condition or status of water resources, including factors such as water scarcity, water stress, and water quality",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5805806626045582
+    }
+  ],
+  "(4852, 8184)": [
+    {
+      "name": "WaterMIP",
+      "label": "project",
+      "description": "A research project focused on understanding and improving the modeling of the global terrestrial water cycle, including water availability and water stress at the global scale",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.5707029469041914
+    },
+    {
+      "name": "Water balance",
+      "label": "variable",
+      "description": "The balance between water inputs and outputs in a given system, such as a river basin or a region",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.57117341327749
+    },
+    {
+      "name": "Global terrestrial water cycle",
+      "label": "variable",
+      "description": "The continuous process by which water is circulated between the Earth's oceans, atmosphere, and land, including evaporation, condensation, and precipitation",
+      "uuid": "885735f3-121e-4ca0-ac8b-f37dbc972f03",
+      "score": 0.5911272107249108
+    },
+    {
+      "name": "Climate Research Unit",
+      "label": "provider",
+      "description": "An academic institution focused on climate research and the development of climate datasets, including the CRU global land mask",
+      "uuid": "a32f3c0b-b3e9-4e93-a9d2-53c2f61404d8",
+      "score": 0.612348503661149
+    },
+    {
+      "name": "CRU land mask",
+      "label": "dataset",
+      "description": "A dataset that defines the land area of the globe, excluding Antarctica, used as a reference for model simulations",
+      "uuid": "7a74347d-e372-4048-8012-c9be550e0e5e",
+      "score": 0.5752300531161492
+    },
+    {
+      "name": "Land surface",
+      "label": "location",
+      "description": "The surface of the Earth's land, where water and energy balances are modeled",
+      "uuid": "90761f8d-6abe-499c-b711-acec394daa59",
+      "score": 0.6964257715053265
+    },
+    {
+      "name": "Antarctica",
+      "label": "location",
+      "description": "The continent at the South Pole, excluded from the CRU land mask",
+      "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+      "score": 0.6388840373046335
+    },
+    {
+      "name": "Subannual time scale",
+      "label": "variable",
+      "description": "A time scale that refers to periods shorter than a year, used to analyze water demands and availability",
+      "uuid": "7afdb8ba-a504-45b6-b301-730e3c69d23a",
+      "score": 0.6545471536881132
+    },
+    {
+      "name": "Subhourly time steps",
+      "label": "variable",
+      "description": "A time step that refers to intervals shorter than an hour, used in some model simulations",
+      "uuid": "17285d6b-1979-4be1-9c73-86755c80b396",
+      "score": 0.5756226357846046
+    },
+    {
+      "name": "LSMs",
+      "label": "model",
+      "description": "Land Surface Models, a type of model that simulates the water and energy balances at the land surface",
+      "uuid": "73cef3bc-0a2c-4c10-9e5b-d0c64bca038f",
+      "score": 0.734619257570043
+    },
+    {
+      "name": "GHMs",
+      "label": "model",
+      "description": "Global Hydrological Models, a type of model that simulates the water balance at the global scale",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5301218993480074
+    }
+  ],
+  "(7684, 10573)": [
+    {
+      "name": "WaterMIP",
+      "label": "project",
+      "description": "The Water Model Intercomparison Project, an initiative to compare and evaluate different models used for simulating water cycles and related processes",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.5933395975317901
+    },
+    {
+      "name": "CRU land mask",
+      "label": "instrument",
+      "description": "A tool used to define and distinguish land areas from other surfaces in climate modeling, developed by the Climatic Research Unit",
+      "uuid": "7a74347d-e372-4048-8012-c9be550e0e5e",
+      "score": 0.5743797061274774
+    },
+    {
+      "name": "ERA-40",
+      "label": "project",
+      "description": "The European Centre for Medium-Range Weather Forecasts Re-Analysis dataset, a collection of historical weather data from 1957 to 2002, used for climate research and modeling",
+      "uuid": "3658db7a-74a2-4614-bb3c-7d0eef569aa5",
+      "score": 0.8160999155128688
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, an independent intergovernmental organization that provides weather forecasts and climate data",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7651608336678134
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through the combined effects of evaporation from the soil and transpiration from plants",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7395257105798267
+    },
+    {
+      "name": "vegetation description",
+      "label": "variable",
+      "description": "The characteristics and properties of vegetation, such as type, density, and growth patterns, used in climate modeling to simulate interactions between vegetation and the atmosphere",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6577789940076822
+    },
+    {
+      "name": "runoff processes",
+      "label": "variable",
+      "description": "The movement of water over or through the ground, often studied in the context of hydrology and climate modeling to understand water cycles and flooding",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6884306994595073
+    },
+    {
+      "name": "vegetation transpiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the atmosphere, an important component of evapotranspiration and the water cycle",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.5959268143791772
+    },
+    {
+      "name": "open-water evaporation",
+      "label": "variable",
+      "description": "The process by which water evaporates from open bodies of water, such as lakes, rivers, and oceans, into the atmosphere",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.6484094352689991
+    },
+    {
+      "name": "LSMs",
+      "label": "model",
+      "description": "Land Surface Models, a type of climate model that simulates the interactions between the land surface and the atmosphere, including processes such as evapotranspiration and runoff",
+      "uuid": "73cef3bc-0a2c-4c10-9e5b-d0c64bca038f",
+      "score": 0.7316273645983103
+    },
+    {
+      "name": "GHMs",
+      "label": "model",
+      "description": "Global Hydrologic Models, a type of model used to simulate the movement and distribution of water across the globe, including processes such as runoff and evapotranspiration",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5517709384174558
+    },
+    {
+      "name": "WATCH forcing data",
+      "label": "variable",
+      "description": "A dataset of meteorological variables used to drive climate models, developed from the ERA-40 reanalysis and provided at daily and subdaily time steps",
+      "uuid": "3658db7a-74a2-4614-bb3c-7d0eef569aa5",
+      "score": 0.5042268024445218
+    }
+  ],
+  "(10222, 12913)": [
+    {
+      "name": "ERA-40",
+      "label": "project",
+      "description": "The European Centre for Medium-Range Weather Forecasts Re-Analysis, a project providing historical climate data from 1957 to 2002",
+      "uuid": "d6141f58-40bf-4a59-9fc2-707528e53486",
+      "score": 0.7727242148221709
+    },
+    {
+      "name": "ECMWF",
+      "label": "provider",
+      "description": "The European Centre for Medium-Range Weather Forecasts, an independent intergovernmental organisation providing weather forecasts and climate research",
+      "uuid": "3be6270c-8554-467a-b2c7-9c13bc086b10",
+      "score": 0.7605117003688336
+    },
+    {
+      "name": "CRU",
+      "label": "provider",
+      "description": "The Climatic Research Unit, a research institution focused on climate research and the development of climate datasets",
+      "uuid": "a32f3c0b-b3e9-4e93-a9d2-53c2f61404d8",
+      "score": 0.6088345650447768
+    },
+    {
+      "name": "CRU land mask",
+      "label": "instrument",
+      "description": "A geographical dataset used to define land and sea areas for climate modeling and research",
+      "uuid": "7a74347d-e372-4048-8012-c9be550e0e5e",
+      "score": 0.6182552603305659
+    },
+    {
+      "name": "CRU cloud cover fractions",
+      "label": "variable",
+      "description": "A measure of the proportion of the sky covered by clouds, used in climate modeling and research",
+      "uuid": "b296b688-0ff0-4212-9b30-30e9fe413709",
+      "score": 0.6312595893802054
+    },
+    {
+      "name": "downward longwave radiation",
+      "label": "variable",
+      "description": "A measure of the amount of longwave radiation emitted by the atmosphere towards the Earth's surface",
+      "uuid": "bd6270d3-dd4d-41ed-a6c2-58abe926017c",
+      "score": 0.7167455695171442
+    },
+    {
+      "name": "NetCDF",
+      "label": "platform",
+      "description": "The Network Common Data Form, a set of software libraries and self-describing data formats for storing and managing data",
+      "uuid": "30ea4e9a-4741-42c9-ad8f-f10930b35294",
+      "score": 0.71311095828022
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7470823172044253
+    },
+    {
+      "name": "Land surface Modeling Activities",
+      "label": "project",
+      "description": "An initiative to develop and improve land surface models for climate research and prediction",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.5818479829032177
+    },
+    {
+      "name": "monthly time scale",
+      "label": "variable",
+      "description": "A time scale used to measure and analyze climate data, referring to a period of one month",
+      "uuid": "8c8c70b1-f6c5-4f34-89b5-510049b8c8ab",
+      "score": 0.6354908347647956
+    },
+    {
+      "name": "GPCCv4 full data product",
+      "label": "project",
+      "description": "The Global Precipitation Climatology Centre version 4, a project providing global precipitation data",
+      "uuid": "14ded00a-80a7-4d9d-8180-10f8f251275d",
+      "score": 0.6611025448522384
+    },
+    {
+      "name": "observed river discharge",
+      "label": "variable",
+      "description": "A measure of the amount of water flowing through a river, used to validate and calibrate climate models",
+      "uuid": "12dc1f4f-2116-4b74-a1bd-bc61e8e57a5b",
+      "score": 0.6079381900111811
+    },
+    {
+      "name": "specific humidity",
+      "label": "variable",
+      "description": "A measure of the amount of water vapor in the air, used in climate modeling and research",
+      "uuid": "811391d2-4113-4d52-9c88-47d56afda481",
+      "score": 0.7830109131018737
+    },
+    {
+      "name": "WaterGAP",
+      "label": "model",
+      "description": "A global hydrological model used to simulate water balance and fluxes",
+      "uuid": "26faa1a9-6a57-4ea1-91d9-4b3d75fddbc6",
+      "score": 0.500387972483616
+    }
+  ],
+  "(12409, 15086)": [
+    {
+      "name": "CRU land mask",
+      "label": "instrument",
+      "description": "A tool used to define and distinguish land areas from ocean areas in climate modeling and research",
+      "uuid": "7a74347d-e372-4048-8012-c9be550e0e5e",
+      "score": 0.6035688844457592
+    },
+    {
+      "name": "seven different global terrestrial precipitation datasets",
+      "label": "project",
+      "description": "A collection of datasets used to study and compare global terrestrial precipitation patterns",
+      "uuid": "c0d19469-fd24-40f9-a3b1-872c7117460f",
+      "score": 0.5505009448310563
+    },
+    {
+      "name": "subsurface runoff",
+      "label": "variable",
+      "description": "The flow of water beneath the Earth's surface, often studied in conjunction with surface runoff to understand water cycling",
+      "uuid": "872a0464-884c-4d6f-8f06-0679329dadcc",
+      "score": 0.6618741738079652
+    },
+    {
+      "name": "precipitation values",
+      "label": "variable",
+      "description": "Measurements or estimates of the amount of precipitation falling on a given area, crucial for understanding climate and hydrological processes",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6205125131832703
+    },
+    {
+      "name": "simulated snow water equivalent",
+      "label": "variable",
+      "description": "A model-generated estimate of the amount of water contained in snowpack, important for predicting snowmelt and runoff",
+      "uuid": "587e4d68-36f0-45b5-9978-4b3edd58a1c0",
+      "score": 0.6831961792965896
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through evaporation and plant transpiration, a key component of the water cycle",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7545866422065057
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "The world's largest island, located in the North Atlantic, known for its significant ice sheet and role in global climate regulation",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.7424723151560754
+    },
+    {
+      "name": "WATCH forcing data",
+      "label": "project",
+      "description": "A dataset used to drive or force climate models, providing necessary input data such as precipitation and temperature",
+      "uuid": "862e790e-d42f-433a-8561-107562aceb64",
+      "score": 0.5141646748404289
+    },
+    {
+      "name": "LSMs",
+      "label": "model",
+      "description": "Land Surface Models, used to simulate the exchange of energy, water, and carbon between the land surface and the atmosphere",
+      "uuid": "73cef3bc-0a2c-4c10-9e5b-d0c64bca038f",
+      "score": 0.7276938108497282
+    },
+    {
+      "name": "GHMs",
+      "label": "model",
+      "description": "Global Hydrological Models, designed to study and predict water cycling, including processes like runoff and evapotranspiration, on a global scale",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5273203206346581
+    }
+  ],
+  "(14588, 17092)": [
+    {
+      "name": "Biemans et al.",
+      "label": "provider",
+      "description": "A research group that published a study comparing global terrestrial precipitation datasets",
+      "uuid": "4c757673-b200-4533-a26c-51a5bc0faa2d",
+      "score": 0.5024185808541204
+    },
+    {
+      "name": "Amazon River basin",
+      "label": "location",
+      "description": "A region in South America where the Amazon River is located, known for its high runoff and precipitation",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.5226927160902209
+    },
+    {
+      "name": "Congo River basin",
+      "label": "location",
+      "description": "A region in central Africa where the Congo River is located, known for its high runoff and precipitation",
+      "uuid": "0ebe4123-f42a-41fb-80ea-bb1b97b9db0b",
+      "score": 0.629540353802942
+    },
+    {
+      "name": "aerosol-corrected shortwave radiation",
+      "label": "variable",
+      "description": "A measure of shortwave radiation that has been corrected for the effects of aerosols",
+      "uuid": "3637581d-416c-4fb8-b67b-7ef0db446264",
+      "score": 0.5684699032293781
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that can affect climate and precipitation patterns",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6811556737883697
+    },
+    {
+      "name": "precipitation values",
+      "label": "variable",
+      "description": "Measurements of the amount of precipitation in a given area",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.623690118981451
+    },
+    {
+      "name": "shortwave radiation",
+      "label": "variable",
+      "description": "A type of solar radiation that is important for climate and weather patterns",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.7191840749832992
+    },
+    {
+      "name": "global terrestrial runoff",
+      "label": "variable",
+      "description": "The amount of water that flows over the land and into streams and rivers",
+      "uuid": "0eb4156f-e4ab-4e02-a473-df4b44290556",
+      "score": 0.6006117596777463
+    },
+    {
+      "name": "higher global terrestrial runoff",
+      "label": "variable",
+      "description": "An increase in the amount of water that flows over the land and into streams and rivers",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5408012218636311
+    },
+    {
+      "name": "seven different global terrestrial precipitation datasets",
+      "label": "dataset",
+      "description": "A collection of data on precipitation patterns around the world",
+      "uuid": "c0d19469-fd24-40f9-a3b1-872c7117460f",
+      "score": 0.5648259134984799
+    }
+  ],
+  "(16696, 19613)": [
+    {
+      "name": "aerosol-corrected shortwave radiation",
+      "label": "variable",
+      "description": "A measure of the amount of shortwave radiation that reaches the Earth's surface after being corrected for the effects of aerosols",
+      "uuid": "3637581d-416c-4fb8-b67b-7ef0db446264",
+      "score": 0.5958302418452203
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that can affect the amount of shortwave radiation that reaches the Earth's surface",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6651386892827854
+    },
+    {
+      "name": "shortwave radiation",
+      "label": "variable",
+      "description": "The amount of solar radiation that reaches the Earth's surface",
+      "uuid": "a8f5c969-34e9-4284-afb5-ff2113f5f881",
+      "score": 0.7244879772208042
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The amount of water that flows over the land surface and into streams and rivers",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7207052035813278
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that is lost to the atmosphere through the combination of evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6922560691804601
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface in the form of rain, snow, or other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6847279890819411
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air",
+      "uuid": "f721be74-a590-4147-8af4-f2804aea4c0b",
+      "score": 0.6245248497131894
+    },
+    {
+      "name": "humidity",
+      "label": "variable",
+      "description": "A measure of the amount of moisture in the air",
+      "uuid": "427e5121-a142-41cb-a8e9-a70b7f98eb6a",
+      "score": 0.698081800045467
+    },
+    {
+      "name": "snow accumulation",
+      "label": "variable",
+      "description": "The amount of snow that builds up on the ground over time",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5701989575010514
+    },
+    {
+      "name": "snow ablation",
+      "label": "variable",
+      "description": "The amount of snow that melts or sublimates over time",
+      "uuid": "99db4dca-4d07-48fd-8ba3-393532d04aa6",
+      "score": 0.550949621439187
+    },
+    {
+      "name": "snowfall",
+      "label": "variable",
+      "description": "The amount of snow that falls to the ground over a given period of time",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.7056522415857899
+    },
+    {
+      "name": "rainfall",
+      "label": "variable",
+      "description": "The amount of rain that falls to the ground over a given period of time",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5300891545265985
+    },
+    {
+      "name": "VIC",
+      "label": "model",
+      "description": "A land surface model used to simulate the exchange of water and energy between the land surface and the atmosphere",
+      "uuid": "87a9b8ff-5da4-4a9e-815b-2564a1af2719",
+      "score": 0.6714667476494215
+    },
+    {
+      "name": "WaterGAP",
+      "label": "model",
+      "description": "A land surface model used to simulate the exchange of water and energy between the land surface and the atmosphere",
+      "uuid": "26faa1a9-6a57-4ea1-91d9-4b3d75fddbc6",
+      "score": 0.5056523562942671
+    },
+    {
+      "name": "Himalayas",
+      "label": "location",
+      "description": "A mountain range in Asia",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.7009769752097438
+    }
+  ],
+  "(19122, 21909)": [
+    {
+      "name": "Himalayan region",
+      "label": "location",
+      "description": "A mountainous region in Asia where snow accumulates over the years, contributing to model differences in simulating snow water equivalent",
+      "uuid": "3aef041a-7fe2-4d61-9dee-2e2a29535653",
+      "score": 0.5630398391326614
+    },
+    {
+      "name": "snow albedo",
+      "label": "variable",
+      "description": "A measure of the reflectivity of snow, which affects the amount of solar radiation absorbed by the snow surface",
+      "uuid": "03a7c97e-71e2-469e-8af9-bbe80ffedb1a",
+      "score": 0.7669581444624977
+    },
+    {
+      "name": "net radiation",
+      "label": "variable",
+      "description": "The difference between the amount of solar radiation absorbed by the Earth's surface and the amount of radiation emitted back into the atmosphere",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.7432528727554188
+    },
+    {
+      "name": "MPI-HM",
+      "label": "model",
+      "description": "A specific climate model that uses a degree-day snow scheme with threshold temperatures for rain/snow and a degree-day factor",
+      "uuid": "b897c950-bb34-48ef-b593-1f9d2f76b83e",
+      "score": 0.5495634371615671
+    },
+    {
+      "name": "Greenland",
+      "label": "location",
+      "description": "A large island in the North Atlantic Ocean, known for its significant ice sheet and climate sensitivity",
+      "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+      "score": 0.7396964501490381
+    },
+    {
+      "name": "Laurentian Great Lakes",
+      "label": "location",
+      "description": "A series of large lakes in North America, which can affect the simulation of evapotranspiration and runoff in climate models",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.618165237242128
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which plants release water vapor into the atmosphere, which can be simulated in climate models",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.695488539459963
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, which can be simulated in climate models",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6910046426221298
+    }
+  ],
+  "(21424, 24208)": [
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess rainwater or melted snow flows over the land and into streams and rivers",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7096371945387796
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through the combined processes of evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7501877920766277
+    },
+    {
+      "name": "Laurentian Great Lakes",
+      "label": "location",
+      "description": "A series of five interconnected freshwater lakes in North America, playing a crucial role in the region's climate and hydrology",
+      "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+      "score": 0.7687329664656728
+    },
+    {
+      "name": "North America",
+      "label": "location",
+      "description": "A continent in the Northern Hemisphere, comprising the United States, Canada, Mexico, and many other countries",
+      "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+      "score": 0.7196963758998204
+    },
+    {
+      "name": "river basins",
+      "label": "location",
+      "description": "Areas of land that drain water into a particular river or sea, often characterized by unique climate and hydrological features",
+      "uuid": "272700c5-d762-452b-8e9f-130e3a51efb5",
+      "score": 0.6446580531059241
+    },
+    {
+      "name": "GHMs",
+      "label": "model",
+      "description": "Global Hydrological Models, used to simulate and predict the movement of water on and beneath the Earth's surface",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5438189967648903
+    },
+    {
+      "name": "Penman-Monteith equation",
+      "label": "model",
+      "description": "A mathematical equation used to estimate evapotranspiration from vegetation, taking into account factors such as temperature, humidity, and wind speed",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.7249227933668979
+    },
+    {
+      "name": "Priestley-Taylor equation",
+      "label": "model",
+      "description": "A mathematical equation used to estimate evapotranspiration from vegetation, based on factors such as temperature and solar radiation",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.5399563765317781
+    },
+    {
+      "name": "GWAVA",
+      "label": "model",
+      "description": "A Global Hydrological Model that uses the Penman-Monteith equation to estimate evapotranspiration",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.521209226853558
+    },
+    {
+      "name": "MacPDM",
+      "label": "model",
+      "description": "A Global Hydrological Model that uses the Penman-Monteith equation to estimate evapotranspiration and takes into account factors such as leaf area index and stomatal resistance",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.5180459957883954
+    },
+    {
+      "name": "LPJmL",
+      "label": "model",
+      "description": "A Global Hydrological Model that uses the Priestley-Taylor equation to estimate evapotranspiration and accounts for factors such as stomatal conductance and dynamical vegetation changes",
+      "uuid": "3e06da32-2340-4565-b944-d3c5141f5522",
+      "score": 0.5552991733157147
+    },
+    {
+      "name": "WATCH",
+      "label": "project",
+      "description": "The Water and Global Change program, a research initiative focused on understanding and predicting the impacts of climate change on global hydrology",
+      "uuid": "25cffb7e-087b-49aa-ae2a-8ce62acaefaa",
+      "score": 0.5379186976688936
+    },
+    {
+      "name": "dynamical vegetation changes",
+      "label": "variable",
+      "description": "Changes in vegetation characteristics, such as leaf area index and stomatal conductance, that occur over time in response to environmental factors",
+      "uuid": "adfee6d2-ca00-4f02-a570-5ccf0850cb55",
+      "score": 0.5185929714380054
+    },
+    {
+      "name": "stomatal resistance",
+      "label": "variable",
+      "description": "A measure of the resistance to water vapor transfer through the stomata of plants, influencing evapotranspiration rates",
+      "uuid": "ae5ed212-3980-444f-b49b-4e37eebb3eba",
+      "score": 0.6575058152240442
+    },
+    {
+      "name": "land cover albedo",
+      "label": "variable",
+      "description": "The reflectivity of the Earth's surface, which affects the amount of solar radiation absorbed by the land and influencing evapotranspiration rates",
+      "uuid": "5395e33c-02cb-4027-b425-e771eab13610",
+      "score": 0.68901090659144
+    }
+  ],
+  "(23731, 26700)": [
+    {
+      "name": "MacPDM",
+      "label": "model",
+      "description": "A climate model that accounts for various factors including land cover and vegetation properties to simulate hydrological processes",
+      "uuid": "46ed68b5-5b90-438b-875e-b0c98e6d14cf",
+      "score": 0.501727463685005
+    },
+    {
+      "name": "LPJmL",
+      "label": "model",
+      "description": "A dynamic global vegetation model that simulates vegetation dynamics, hydrology, and carbon cycling",
+      "uuid": "3e06da32-2340-4565-b944-d3c5141f5522",
+      "score": 0.6404718310311229
+    },
+    {
+      "name": "PET",
+      "label": "variable",
+      "description": "Potential Evapotranspiration, a measure of the amount of water that could be evaporated from the soil and plants if there is enough water available",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.669556781928786
+    },
+    {
+      "name": "ET",
+      "label": "variable",
+      "description": "Evapotranspiration, the process by which water is transferred from the land to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6912204319895008
+    },
+    {
+      "name": "Bundesanstalt f\u00fc r Gewaesserkunde",
+      "label": "provider",
+      "description": "A German federal institute responsible for water resources management and research",
+      "uuid": "58cabbd0-3c80-4052-b40b-97b4b8c1f44a",
+      "score": 0.5335558929389944
+    },
+    {
+      "name": "Weedon et al.",
+      "label": "project",
+      "description": "A research project or study focused on hydrological modeling and climate change impacts",
+      "uuid": "a2e3a718-1f2f-4b5d-a5cb-6bc34c810a7a",
+      "score": 0.5736138466043438
+    },
+    {
+      "name": "Amazon",
+      "label": "location",
+      "description": "A large river basin in South America, known for its significant role in the global water cycle and climate regulation",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.5146513489402926
+    },
+    {
+      "name": "Congo",
+      "label": "location",
+      "description": "A major river basin in central Africa, playing a crucial role in the regional water balance and ecosystem",
+      "uuid": "0ebe4123-f42a-41fb-80ea-bb1b97b9db0b",
+      "score": 0.6390626718663472
+    }
+  ],
+  "(26186, 29051)": [
+    {
+      "name": "Congo",
+      "label": "location",
+      "description": "A region in central Africa, including the Congo River basin, known for its complex hydrology and high runoff variability",
+      "uuid": "0ebe4123-f42a-41fb-80ea-bb1b97b9db0b",
+      "score": 0.6781622996885018
+    },
+    {
+      "name": "LSMs",
+      "label": "model",
+      "description": "Land Surface Models, used to simulate the processes occurring at the land surface, including runoff and water balance",
+      "uuid": "73cef3bc-0a2c-4c10-9e5b-d0c64bca038f",
+      "score": 0.7227915181434413
+    },
+    {
+      "name": "GHMs",
+      "label": "model",
+      "description": "Global Hydrological Models, used to simulate the global water cycle, including runoff, evaporation, and water storage",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.543720139268964
+    },
+    {
+      "name": "WaterMIP",
+      "label": "project",
+      "description": "The Water Model Intercomparison Project, an initiative to compare and evaluate different hydrological models",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.5845959693498952
+    },
+    {
+      "name": "Niger",
+      "label": "location",
+      "description": "A river basin in West Africa, characterized by its dry climate and significant water management challenges",
+      "uuid": "7b1a37fd-aae9-4bcf-86b1-48e7db570f65",
+      "score": 0.6186937184650798
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water from the land surface into streams, rivers, and lakes, an important component of the water cycle",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7315870239448168
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water falling to the Earth's surface, a key driver of the water cycle and runoff processes",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6346557109117247
+    }
+  ],
+  "(28598, 31221)": [
+    {
+      "name": "Niger",
+      "label": "location",
+      "description": "A river basin in West Africa, characterized by arid and semiarid conditions",
+      "uuid": "7b1a37fd-aae9-4bcf-86b1-48e7db570f65",
+      "score": 0.616427898677199
+    },
+    {
+      "name": "LPJmL",
+      "label": "model",
+      "description": "A global hydrological model used to simulate hydrological processes and predict runoff",
+      "uuid": "3e06da32-2340-4565-b944-d3c5141f5522",
+      "score": 0.5984870155627231
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, influencing hydrological and climate processes",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.6961405703047722
+    },
+    {
+      "name": "runoff values",
+      "label": "variable",
+      "description": "The amount of water that flows over land and into streams, rivers, and lakes, often used to study hydrological processes",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7158475503604973
+    },
+    {
+      "name": "net radiation",
+      "label": "variable",
+      "description": "The difference between the amount of radiation received by the Earth's surface and the amount of radiation emitted, influencing energy balance and climate processes",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.730143600992909
+    },
+    {
+      "name": "actual evapotranspiration",
+      "label": "variable",
+      "description": "The amount of water that is actually evaporated from the land surface, influencing hydrological and climate processes",
+      "uuid": "f28060e0-1c51-41df-8451-6c98b3e77e8a",
+      "score": 0.582962391842753
+    },
+    {
+      "name": "temporal resolution and energy balance",
+      "label": "variable",
+      "description": "The time step and energy balance implementation used in models, influencing the accuracy of hydrological and climate predictions",
+      "uuid": "502ad03c-dba8-4b32-8af5-13fa947c3988",
+      "score": 0.5507153046217796
+    }
+  ],
+  "(30789, 33471)": [
+    {
+      "name": "LSMs",
+      "label": "model",
+      "description": "Land Surface Models, computational representations of land surface processes used to simulate and predict land-atmosphere interactions",
+      "uuid": "73cef3bc-0a2c-4c10-9e5b-d0c64bca038f",
+      "score": 0.7519344929922104
+    },
+    {
+      "name": "GHMs",
+      "label": "model",
+      "description": "Global Hydrological Models, computational representations of hydrological processes used to simulate and predict water cycles and runoff",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5431986136578203
+    },
+    {
+      "name": "H08",
+      "label": "model",
+      "description": "A Land Surface Model used to simulate land-atmosphere interactions and predict runoff and water cycles",
+      "uuid": "e8c6761b-0653-495c-82e9-feb685344542",
+      "score": 0.509039316951787
+    },
+    {
+      "name": "VIC",
+      "label": "model",
+      "description": "A Land Surface Model used to simulate land-atmosphere interactions and predict runoff and water cycles",
+      "uuid": "87a9b8ff-5da4-4a9e-815b-2564a1af2719",
+      "score": 0.6917439896647805
+    },
+    {
+      "name": "LPJmL",
+      "label": "model",
+      "description": "A Global Hydrological Model used to simulate and predict water cycles and runoff",
+      "uuid": "3e06da32-2340-4565-b944-d3c5141f5522",
+      "score": 0.6197754881926074
+    },
+    {
+      "name": "MPI-HM",
+      "label": "model",
+      "description": "A Global Hydrological Model used to simulate and predict water cycles and runoff",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5875301310567558
+    },
+    {
+      "name": "WaterGAP",
+      "label": "model",
+      "description": "A Global Hydrological Model used to simulate and predict water cycles and runoff",
+      "uuid": "26faa1a9-6a57-4ea1-91d9-4b3d75fddbc6",
+      "score": 0.525195960927467
+    },
+    {
+      "name": "GSWP-2",
+      "label": "project",
+      "description": "The Second Global Soil Wetness Project, an initiative to study and compare land surface models and hydrological models",
+      "uuid": "8787e040-fc89-4516-bc1d-f4010cb0419c",
+      "score": 0.7496796348419341
+    },
+    {
+      "name": "runoff fraction",
+      "label": "variable",
+      "description": "The proportion of precipitation that becomes runoff, an important variable in hydrological studies",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.5608199075892315
+    },
+    {
+      "name": "snowfall",
+      "label": "variable",
+      "description": "The amount of snow that falls in a given area, an important variable in hydrological studies",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.7014066878284894
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land surface to the atmosphere, an important variable in hydrological studies",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.6768114574736276
+    },
+    {
+      "name": "snow albedo values",
+      "label": "variable",
+      "description": "The measure of the reflectivity of snow, an important variable in simulating land-atmosphere interactions",
+      "uuid": "78e65bfa-ffd8-4598-b650-66d8a3639349",
+      "score": 0.7153587640513452
+    },
+    {
+      "name": "net radiation",
+      "label": "variable",
+      "description": "The difference between the amount of radiation received by the Earth's surface and the amount of radiation emitted, an important variable in simulating land-atmosphere interactions",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.7376595650730953
+    }
+  ],
+  "(33026, 35864)": [
+    {
+      "name": "H08",
+      "label": "model",
+      "description": "A climate model used to simulate snow and hydrological processes, potentially influencing predictions of snow water equivalent and runoff",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5162068164701101
+    },
+    {
+      "name": "snow albedo",
+      "label": "variable",
+      "description": "A measure of the reflectivity of snow surfaces, affecting the amount of solar radiation absorbed by the snowpack and influencing local climate conditions",
+      "uuid": "03a7c97e-71e2-469e-8af9-bbe80ffedb1a",
+      "score": 0.7867918005518331
+    },
+    {
+      "name": "net radiation",
+      "label": "variable",
+      "description": "The balance between incoming and outgoing radiation at the Earth's surface, influencing energy availability and climate patterns",
+      "uuid": "50ee8910-449b-46c8-a59b-1cd76d632b44",
+      "score": 0.7208971714207639
+    },
+    {
+      "name": "snowpack",
+      "label": "variable",
+      "description": "The layer of snow on the ground, influencing local hydrology, climate, and ecosystems",
+      "uuid": "abc70f23-f386-41da-b1ad-43cd7aebe7c4",
+      "score": 0.563327065899474
+    },
+    {
+      "name": "snowmelt",
+      "label": "variable",
+      "description": "The process of snow melting, influencing runoff, hydrology, and local climate patterns",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6456217246316505
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water over land into streams, rivers, and lakes, influenced by precipitation, snowmelt, and other hydrological processes",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7601036231639517
+    },
+    {
+      "name": "snow sublimation",
+      "label": "variable",
+      "description": "The process of snow changing directly from a solid to a gas, influencing local hydrology and climate patterns",
+      "uuid": "94790dac-6bf8-453b-b841-30b86bdcd491",
+      "score": 0.6255325668537373
+    },
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process of liquid water changing to water vapor, influencing local hydrology, climate, and ecosystems",
+      "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
+      "score": 0.7072081627716446
+    },
+    {
+      "name": "VIC",
+      "label": "model",
+      "description": "A climate model used to simulate hydrological and ecological processes, potentially influencing predictions of runoff, soil moisture, and vegetation dynamics",
+      "uuid": "87a9b8ff-5da4-4a9e-815b-2564a1af2719",
+      "score": 0.6106554957117108
+    },
+    {
+      "name": "WaterMIP",
+      "label": "project",
+      "description": "A model intercomparison project focused on simulating and predicting water-related processes and variables, such as runoff and soil moisture",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.5926635874571974
+    },
+    {
+      "name": "WaterGAP",
+      "label": "model",
+      "description": "A climate model used to simulate hydrological and ecological processes, potentially influencing predictions of runoff, soil moisture, and vegetation dynamics",
+      "uuid": "26faa1a9-6a57-4ea1-91d9-4b3d75fddbc6",
+      "score": 0.5117008640749963
+    },
+    {
+      "name": "canopy evaporation",
+      "label": "variable",
+      "description": "The process of water evaporating from vegetation canopies, influencing local hydrology, climate, and ecosystems",
+      "uuid": "1e10e790-9f01-437e-8846-6c10d8330d6e",
+      "score": 0.5867978812840968
+    },
+    {
+      "name": "canopy interception capacity",
+      "label": "variable",
+      "description": "The ability of vegetation canopies to intercept and hold precipitation, influencing local hydrology and ecosystems",
+      "uuid": "191433fe-2d8e-4ac2-be15-a5f1c683c53a",
+      "score": 0.6237410880188411
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in soil, influencing local hydrology, ecosystems, and climate patterns",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.7013596108017374
+    },
+    {
+      "name": "vegetation transpiration",
+      "label": "variable",
+      "description": "The process of water being transported through plants and evaporating into the atmosphere, influencing local hydrology, climate, and ecosystems",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.612370236823961
+    }
+  ],
+  "(35325, 38078)": [
+    {
+      "name": "WaterMIP",
+      "label": "project",
+      "description": "The Water Model Intercomparison Project, an initiative to compare and evaluate different land surface models",
+      "uuid": "62bc69a0-d55f-4bd1-9d20-ef1442eec981",
+      "score": 0.5797194119010526
+    },
+    {
+      "name": "Amazon River basin",
+      "label": "location",
+      "description": "A region in South America drained by the Amazon River, known for its high levels of rainfall and biodiversity",
+      "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+      "score": 0.5372113302418324
+    },
+    {
+      "name": "VIC",
+      "label": "model",
+      "description": "The Variable Infiltration Capacity model, a land surface model used to simulate hydrologic processes",
+      "uuid": "87a9b8ff-5da4-4a9e-815b-2564a1af2719",
+      "score": 0.7009188659635496
+    },
+    {
+      "name": "WaterGAP",
+      "label": "model",
+      "description": "The Water Global Assessment and Projections model, a global hydrologic model used to simulate water resources and water use",
+      "uuid": "26faa1a9-6a57-4ea1-91d9-4b3d75fddbc6",
+      "score": 0.5174944251426479
+    },
+    {
+      "name": "canopy interception capacity",
+      "label": "variable",
+      "description": "The ability of vegetation canopies to intercept and store precipitation",
+      "uuid": "191433fe-2d8e-4ac2-be15-a5f1c683c53a",
+      "score": 0.6062082527262974
+    },
+    {
+      "name": "soil moisture",
+      "label": "variable",
+      "description": "The amount of water held in the soil, an important factor in determining plant growth and runoff",
+      "uuid": "27dd85c2-3403-438d-8b0c-8d424df60468",
+      "score": 0.6667912425687998
+    },
+    {
+      "name": "canopy evaporation",
+      "label": "variable",
+      "description": "The process by which water is evaporated from vegetation canopies",
+      "uuid": "34d5ff83-ff9c-45a5-bcc6-266342715667",
+      "score": 0.5644595640882414
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land surface to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7474868339682326
+    },
+    {
+      "name": "LAI",
+      "label": "variable",
+      "description": "The Leaf Area Index, a measure of the amount of leaf surface area per unit ground area",
+      "uuid": "f829171e-8b22-4f93-8f71-7932dfd7a70b",
+      "score": 0.7868241617263243
+    },
+    {
+      "name": "Indian monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings heavy rainfall to the Indian subcontinent",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.6142684845394776
+    },
+    {
+      "name": "MPI-HM",
+      "label": "model",
+      "description": "The Max Planck Institute for Meteorology Hydrologic Model, a land surface model used to simulate hydrologic processes",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.5924729503212244
+    },
+    {
+      "name": "Thornthwaite evapotranspiration equation",
+      "label": "model",
+      "description": "A mathematical equation used to estimate potential evapotranspiration based on air temperature",
+      "uuid": "6045993e-a656-40c1-853c-9db1fbb49171",
+      "score": 0.5259571192085084
+    },
+    {
+      "name": "Penman-Monteith equation",
+      "label": "model",
+      "description": "A mathematical equation used to estimate potential evapotranspiration based on solar radiation, air temperature, and humidity",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.7083846191999023
+    },
+    {
+      "name": "Priestley-Taylor equation",
+      "label": "model",
+      "description": "A mathematical equation used to estimate potential evapotranspiration based on solar radiation and air temperature",
+      "uuid": "3b746299-cd6d-4aa9-8de2-f05f3d6897cc",
+      "score": 0.5093167538903052
+    },
+    {
+      "name": "Himalayan region",
+      "label": "location",
+      "description": "A mountainous region in Asia, known for its high levels of rainfall and snowfall",
+      "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+      "score": 0.6029206894298387
+    },
+    {
+      "name": "SWE",
+      "label": "variable",
+      "description": "The Snow Water Equivalent, a measure of the amount of water stored in snowpack",
+      "uuid": "587e4d68-36f0-45b5-9978-4b3edd58a1c0",
+      "score": 0.7214408684294298
+    }
+  ],
+  "(37711, 40280)": [
+    {
+      "name": "Arctic basins",
+      "label": "location",
+      "description": "Regions in the Arctic, characterized by unique hydrological and climatic conditions>",
+      "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+      "score": 0.5916725365788129
+    },
+    {
+      "name": "LSMs",
+      "label": "model",
+      "description": "Land Surface Models, used to simulate the exchange of water and energy between the land surface and atmosphere>",
+      "uuid": "73cef3bc-0a2c-4c10-9e5b-d0c64bca038f",
+      "score": 0.7343610960256292
+    },
+    {
+      "name": "GHMs",
+      "label": "model",
+      "description": "Global Hydrological Models, used to simulate the global water cycle and hydrological processes>",
+      "uuid": "26b31c97-655b-4591-b9e7-8c42fd4d4c6b",
+      "score": 0.538585704424476
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water from the land into streams, rivers, and lakes, an important component of the hydrological cycle>",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7310564203610316
+    },
+    {
+      "name": "SWE",
+      "label": "variable",
+      "description": "Snow Water Equivalent, the amount of water stored in snowpack>",
+      "uuid": "587e4d68-36f0-45b5-9978-4b3edd58a1c0",
+      "score": 0.7307905471478768
+    },
+    {
+      "name": "Congo River",
+      "label": "location",
+      "description": "A major river in Africa, influencing the regional climate and hydrology>",
+      "uuid": "0ebe4123-f42a-41fb-80ea-bb1b97b9db0b",
+      "score": 0.5762175805259271
+    },
+    {
+      "name": "land surface and global hydrological models",
+      "label": "project",
+      "description": "A research initiative to study and compare different models of land surface and global hydrology>",
+      "uuid": "8787e040-fc89-4516-bc1d-f4010cb0419c",
+      "score": 0.5354357550363106
+    },
+    {
+      "name": "global and regional water flux and storage terms",
+      "label": "variable",
+      "description": "Quantities used to describe the movement and storage of water in the environment>",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5861884853182612
+    }
+  ],
+  "(39824, 42964)": [
+    {
+      "name": "global terrestrial water cycle",
+      "label": "project",
+      "description": "A research initiative focused on understanding the Earth's water cycle and its response to climate change",
+      "uuid": "25cffb7e-087b-49aa-ae2a-8ce62acaefaa",
+      "score": 0.5266904616857047
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7470823172044253
+    },
+    {
+      "name": "snow sublimation",
+      "label": "variable",
+      "description": "The process by which snow changes directly from a solid to a gas without going through the liquid phase",
+      "uuid": "94790dac-6bf8-453b-b841-30b86bdcd491",
+      "score": 0.6200127706998254
+    },
+    {
+      "name": "runoff values",
+      "label": "variable",
+      "description": "The amount of water that flows over the land and into streams, rivers, and lakes",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6850632165831755
+    },
+    {
+      "name": "global and regional water flux and storage terms",
+      "label": "variable",
+      "description": "Quantities that describe the movement and storage of water in the environment",
+      "uuid": "bf18cf2c-30b7-4c2b-94d1-68cf3869cb15",
+      "score": 0.5824554438587579
+    },
+    {
+      "name": "global runoff",
+      "label": "variable",
+      "description": "The total amount of water that flows over the land and into the oceans",
+      "uuid": "0eb4156f-e4ab-4e02-a473-df4b44290556",
+      "score": 0.6579510602571905
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability and management of water for human use and ecosystem health",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.7030899441252386
+    },
+    {
+      "name": "global evapotranspiration",
+      "label": "variable",
+      "description": "The total amount of water that is transferred from the land to the atmosphere through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6305263542295191
+    },
+    {
+      "name": "global hydrological models",
+      "label": "model",
+      "description": "Computer simulations that represent the Earth's hydrological cycle and are used to predict water fluxes and storage",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5350255106177579
+    },
+    {
+      "name": "available water resources",
+      "label": "variable",
+      "description": "The amount of water that is available for human use and ecosystem health",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5780069797250807
+    },
+    {
+      "name": "Land Surface Models",
+      "label": "model",
+      "description": "Computer simulations that represent the interactions between the land surface and the atmosphere",
+      "uuid": "46461db7-88ba-446f-bdae-2d1e7f6302c2",
+      "score": 0.6338532081495732
+    },
+    {
+      "name": "WaterMIP",
+      "label": "project",
+      "description": "The Water Model Intercomparison Project, an initiative to compare and evaluate different hydrological models",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.5845959693498952
+    },
+    {
+      "name": "tropics",
+      "label": "location",
+      "description": "The region of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by high temperatures and high levels of rainfall",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.7564657706363833
+    },
+    {
+      "name": "arid areas",
+      "label": "location",
+      "description": "Regions of the Earth that receive very little rainfall and are characterized by dry conditions",
+      "uuid": "5d5426f6-e7ce-41c1-a3d3-b93adf748f0f",
+      "score": 0.50078418449457
+    }
+  ],
+  "(42444, 44613)": [
+    {
+      "name": "evaporation",
+      "label": "variable",
+      "description": "The process by which water is transformed from a liquid to a gas, playing a crucial role in the Earth's water cycle",
+      "uuid": "b68ab978-6db6-49ee-84e2-5f37b461a998",
+      "score": 0.7145260804240244
+    },
+    {
+      "name": "runoff",
+      "label": "variable",
+      "description": "The flow of water that occurs when excess water from precipitation, snowmelt, or other sources flows over the land and into streams, rivers, and lakes",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.7334960715321439
+    },
+    {
+      "name": "hydrological model",
+      "label": "model",
+      "description": "A computational representation of the Earth's hydrological processes, used to simulate and predict water cycle dynamics",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5807298112951356
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, biological, and dynamical processes to represent and predict Earth's climate system",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6574226942304473
+    },
+    {
+      "name": "global terrestrial water cycle",
+      "label": "variable",
+      "description": "The continuous process by which water is circulated between the Earth's oceans, atmosphere, and land, influencing climate, weather, and ecosystems",
+      "uuid": "885735f3-121e-4ca0-ac8b-f37dbc972f03",
+      "score": 0.5911913432234097
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The availability of water for human consumption, agriculture, industry, and ecosystem maintenance, which can be affected by climate change",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6972201134915684
+    },
+    {
+      "name": "available water resources",
+      "label": "variable",
+      "description": "The amount of water that is accessible and usable for human needs, taking into account factors such as quality, quantity, and location",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6055251793603962
+    },
+    {
+      "name": "WaterMIP",
+      "label": "project",
+      "description": "The Water Model Intercomparison Project, an initiative to compare and evaluate hydrological models for simulating water cycle dynamics and predicting climate change impacts",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.5874822161146142
+    },
+    {
+      "name": "European Union",
+      "label": "provider",
+      "description": "A political and economic union of European countries, funding research and initiatives such as WATCH and WaterMIP",
+      "uuid": "0a41134d-7603-4c59-98db-13fa6bbc19e1",
+      "score": 0.5089435001990172
+    },
+    {
+      "name": "Global Water System Project",
+      "label": "project",
+      "description": "An international research initiative focused on understanding the global water system and its responses to climate change and human activities",
+      "uuid": "8787e040-fc89-4516-bc1d-f4010cb0419c",
+      "score": 0.6092516701390133
+    },
+    {
+      "name": "Wageningen University and Research Centre",
+      "label": "provider",
+      "description": "A Dutch university and research institution, contributing to the development of climate and water research",
+      "uuid": "bd39e83e-ac8d-4a02-b79c-24996aa3403f",
+      "score": 0.5652808939624278
+    }
+  ]
+}

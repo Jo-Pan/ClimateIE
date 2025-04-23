@@ -1,0 +1,886 @@
+{
+  "(0, 3136)": [
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an essential climate variable for hydrological studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6844606202870877
+    },
+    {
+      "name": "minimum and maximum temperatures",
+      "label": "variable",
+      "description": "Measurements of the lowest and highest temperatures, crucial for understanding climate patterns and their impacts on ecosystems",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6309240422918614
+    },
+    {
+      "name": "growing degree days",
+      "label": "variable",
+      "description": "A measure of the amount of heat available for plant growth, important for agricultural and ecological studies",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.7881826982685219
+    },
+    {
+      "name": "growing season temperatures",
+      "label": "variable",
+      "description": "The temperatures during the period when plants are growing, influencing crop development and yields",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.5703602715161447
+    },
+    {
+      "name": "snow days",
+      "label": "variable",
+      "description": "Days with snowfall, an important climate variable for understanding winter conditions and their impacts",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5321126579948718
+    },
+    {
+      "name": "water resources",
+      "label": "variable",
+      "description": "The sources of water that are used for human consumption, agriculture, and other purposes, affected by climate variability and change",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.6661155807135576
+    },
+    {
+      "name": "water resource applications",
+      "label": "project",
+      "description": "Studies and management practices focused on the sustainable use of water resources, considering climate factors",
+      "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
+      "score": 0.5868608190228779
+    },
+    {
+      "name": "ecosystems",
+      "label": "location",
+      "description": "Communities of living organisms and their environments, sensitive to changes in climate and water resources",
+      "uuid": "f1a25060-330c-4f84-9633-ed59ae8c64bf",
+      "score": 0.6755016086268708
+    },
+    {
+      "name": "atmospheric carbon dioxide concentration",
+      "label": "variable",
+      "description": "The amount of carbon dioxide in the atmosphere, a key driver of climate change",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6487994787718994
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "The flow of water in streams and rivers, influenced by climate variables such as precipitation and temperature",
+      "uuid": "231dd4ab-8b74-45ba-8933-09ab291594ea",
+      "score": 0.560783162834324
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "The flow of water over the land surface, important for understanding hydrological processes and water resource management",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6520883976782342
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "The process by which water is transferred from the land to the atmosphere, crucial for understanding water balances and climate impacts",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.7474918878577905
+    },
+    {
+      "name": "phenological shifts",
+      "label": "variable",
+      "description": "Changes in the timing of seasonal events, such as plant flowering or animal migrations, in response to climate change",
+      "uuid": "cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6",
+      "score": 0.7162088234347183
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, sophisticated computer simulations used to predict future climate scenarios",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6890266148089773
+    }
+  ],
+  "(2556, 5749)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, used to project climate variability and change",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.6813927607261442
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "A measure of the amount of rainfall or snowfall in a given area",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6770895904731311
+    },
+    {
+      "name": "temperatures",
+      "label": "variable",
+      "description": "A measure of the temperature of the air, soil, or water in a given area",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5750872286103332
+    },
+    {
+      "name": "atmospheric carbon dioxide concentration",
+      "label": "variable",
+      "description": "A measure of the amount of carbon dioxide in the atmosphere",
+      "uuid": "c3b81888-8a39-4b3f-8033-4c077797bcba",
+      "score": 0.6174656949392509
+    },
+    {
+      "name": "streamflow",
+      "label": "variable",
+      "description": "A measure of the amount of water flowing in a stream or river",
+      "uuid": "f8f16152-094e-4130-8346-2a9bba5872a0",
+      "score": 0.5360487532053959
+    },
+    {
+      "name": "surface runoff",
+      "label": "variable",
+      "description": "A measure of the amount of water flowing over the land surface",
+      "uuid": "f6a54329-486b-4d5f-b105-c639cec42351",
+      "score": 0.6385108201471373
+    },
+    {
+      "name": "evapotranspiration",
+      "label": "variable",
+      "description": "A measure of the amount of water lost through evaporation and plant transpiration",
+      "uuid": "26fc4850-7ba9-44d8-a156-5c623e17b72f",
+      "score": 0.6550282120710963
+    }
+  ],
+  "(5208, 8468)": [
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863098489154889
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important factor in climate and weather studies",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6591531451162996
+    },
+    {
+      "name": "temperatures",
+      "label": "variable",
+      "description": "A measure of the degree of heat or cold, often used in climate and weather studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.5896538632694687
+    },
+    {
+      "name": "solar radiation",
+      "label": "variable",
+      "description": "The amount of energy from the sun that reaches the Earth's surface, influencing climate and weather patterns",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.6852073680743982
+    },
+    {
+      "name": "wind velocity",
+      "label": "variable",
+      "description": "The speed and direction of wind, an important factor in weather and climate studies",
+      "uuid": "b9a716e9-970e-44e0-9faf-66647f5a59ed",
+      "score": 0.6096199100057886
+    },
+    {
+      "name": "maximum and minimum temperatures",
+      "label": "variable",
+      "description": "The highest and lowest temperatures recorded during a given period, often used in climate and weather studies",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6774822660104776
+    },
+    {
+      "name": "maximum and minimum daily air temperatures",
+      "label": "variable",
+      "description": "The highest and lowest temperatures recorded during a day, often used in climate and weather studies",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6511014090402851
+    }
+  ],
+  "(7922, 11026)": [
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6473658017629415
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the warmth or coolness of the air, an essential variable in climate studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6814926379538884
+    },
+    {
+      "name": "radiation",
+      "label": "variable",
+      "description": "The energy emitted by the sun and absorbed or reflected by the Earth's surface, influencing climate patterns",
+      "uuid": "a0f3474e-9a54-4a82-97c4-43864b48df4c",
+      "score": 0.5895353939537964
+    },
+    {
+      "name": "MATLAB",
+      "label": "platform",
+      "description": "A high-level programming language and environment used for numerical computation and data analysis",
+      "uuid": "10de1987-5896-42d6-be7c-506fd7ba1f21",
+      "score": 0.5772703568488443
+    }
+  ],
+  "(10514, 13570)": [
+    {
+      "name": "MATLAB",
+      "label": "platform",
+      "description": "A high-level programming language and environment used for numerical computation and data analysis",
+      "uuid": "10de1987-5896-42d6-be7c-506fd7ba1f21",
+      "score": 0.5772703568488443
+    },
+    {
+      "name": "precipitation occurrence",
+      "label": "variable",
+      "description": "A measure of the frequency or likelihood of precipitation events",
+      "uuid": "789939a6-3cd5-46f3-bdfd-5cdd6a012500",
+      "score": 0.5392899456264768
+    },
+    {
+      "name": "precipitation quantity",
+      "label": "variable",
+      "description": "A measure of the amount of precipitation that occurs",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5986192142916652
+    },
+    {
+      "name": "maximum and minimum daily air temperatures",
+      "label": "variable",
+      "description": "Measurements of the highest and lowest temperatures that occur in a day",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6425687132585306
+    }
+  ],
+  "(13152, 15778)": [
+    {
+      "name": "Michigan",
+      "label": "location",
+      "description": "A state in the United States, located in the Great Lakes region",
+      "uuid": "5561d10d-5224-4e09-9d68-caffd6bc3d74",
+      "score": 0.7260590200468446
+    },
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the United States, located in the Midwestern region",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.7146072988964912
+    },
+    {
+      "name": "Ohio",
+      "label": "location",
+      "description": "A state in the United States, located in the Midwestern region",
+      "uuid": "c23966c4-9e16-484c-a1ef-efcd2354d71c",
+      "score": 0.608719978249215
+    },
+    {
+      "name": "National Climatic Data Center",
+      "label": "provider",
+      "description": "A organization that provides access to historical weather and climate data",
+      "uuid": "02598fdd-7ff8-4d38-a2ac-f29d71523f18",
+      "score": 0.5675360949704259
+    },
+    {
+      "name": "maximum daily air temperature",
+      "label": "variable",
+      "description": "The highest air temperature recorded in a day, an important climate variable",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6136772847597268
+    },
+    {
+      "name": "minimum daily air temperature",
+      "label": "variable",
+      "description": "The lowest air temperature recorded in a day, an important climate variable",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.576671973886262
+    },
+    {
+      "name": "daily precipitation depth",
+      "label": "variable",
+      "description": "The amount of precipitation recorded in a day, an important climate variable",
+      "uuid": "12250935-8f40-4279-aada-2f22cbef1459",
+      "score": 0.5275447814567866
+    }
+  ],
+  "(15285, 18263)": [
+    {
+      "name": "Indiana",
+      "label": "location",
+      "description": "A state in the United States, part of the region being studied for climate patterns",
+      "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+      "score": 0.6426849679062229
+    },
+    {
+      "name": "Ohio",
+      "label": "location",
+      "description": "A state in the United States, part of the region being studied for climate patterns",
+      "uuid": "c23966c4-9e16-484c-a1ef-efcd2354d71c",
+      "score": 0.6324859448508007
+    },
+    {
+      "name": "Michigan",
+      "label": "location",
+      "description": "A state in the United States, part of the region being studied for climate patterns",
+      "uuid": "5561d10d-5224-4e09-9d68-caffd6bc3d74",
+      "score": 0.6499497144161362
+    },
+    {
+      "name": "minimum temperatures",
+      "label": "variable",
+      "description": "The lowest temperature recorded at a given location, often used in climate studies",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6035797362746059
+    },
+    {
+      "name": "maximum temperatures",
+      "label": "variable",
+      "description": "The highest temperature recorded at a given location, often used in climate studies",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6207977008893141
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used in climate studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6804595007145715
+    }
+  ],
+  "(17665, 20641)": [
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important component of the climate system",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6473658017629415
+    },
+    {
+      "name": "minimum temperatures",
+      "label": "variable",
+      "description": "The lowest temperature recorded at a location during a specific time period, often used in climate studies",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6103287572464023
+    },
+    {
+      "name": "maximum temperatures",
+      "label": "variable",
+      "description": "The highest temperature recorded at a location during a specific time period, often used in climate studies",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6276263660248244
+    },
+    {
+      "name": "climate data",
+      "label": "variable",
+      "description": "Information related to the climate of a specific region or time period, often used in climate research and modeling",
+      "uuid": "ae02541a-4968-4573-8569-0f4a02575ab2",
+      "score": 0.6066921566511376
+    }
+  ],
+  "(20293, 23326)": [
+    {
+      "name": "minimum and maximum air temperature values",
+      "label": "variable",
+      "description": "Measurements of the lowest and highest air temperatures, important for understanding climate patterns",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6697286265434061
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of rain or other forms of water that fall to the ground, crucial for climate and weather studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6659542325083709
+    }
+  ],
+  "(22837, 25856)": [
+    {
+      "name": "minimum and maximum air temperature values",
+      "label": "variable",
+      "description": "Measurements of the lowest and highest air temperatures, used to study climate patterns",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6709919940848321
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, used to study climate patterns",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6593358372199015
+    },
+    {
+      "name": "consistent observed climate dataset",
+      "label": "dataset",
+      "description": "A collection of climate data that is consistent and reliable, used for analysis and comparison",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.5694431733565799
+    }
+  ],
+  "(25261, 28313)": [
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and hail, which is an essential component of the climate system",
+      "uuid": "6c71e621-aae6-436b-9405-5dc6ed2a527e",
+      "score": 0.6804491866906287
+    },
+    {
+      "name": "maximum temperatures",
+      "label": "variable",
+      "description": "The highest temperature recorded during a specific time period, often used to study climate patterns and trends",
+      "uuid": "3d997f01-8987-4fb1-a32e-d88d51f0a2c4",
+      "score": 0.6049108551168785
+    },
+    {
+      "name": "minimum temperatures",
+      "label": "variable",
+      "description": "The lowest temperature recorded during a specific time period, often used to study climate patterns and trends",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.5864364146619621
+    },
+    {
+      "name": "sediment transport",
+      "label": "natural hazard",
+      "description": "The movement of sediment, such as rocks, soil, and other materials, which can be affected by weather events and climate patterns",
+      "uuid": "5e101ced-5d9f-4733-8768-38db92d83660",
+      "score": 0.707730791507037
+    }
+  ],
+  "(27786, 30808)": [
+    {
+      "name": "snowmelt",
+      "label": "natural hazard",
+      "description": "The process of snow melting, which can impact surface hydrology and water budgets",
+      "uuid": "dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3",
+      "score": 0.6560386056017434
+    },
+    {
+      "name": "watershed",
+      "label": "location",
+      "description": "A region of land that drains water into a particular river, lake, or ocean, often used as a unit for studying hydrology and water management",
+      "uuid": "feceb3aa-d3b4-49e0-ad85-3275acd604fb",
+      "score": 0.6981288485859714
+    },
+    {
+      "name": "growing season",
+      "label": "variable",
+      "description": "The period of the year when temperature and other environmental conditions are suitable for plant growth",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6557176751491682
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, important for plant growth and development",
+      "uuid": "6abc5393-cfe7-4e0b-b748-8f3a71602faf",
+      "score": 0.5545252912388963
+    },
+    {
+      "name": "photosynthesis",
+      "label": "variable",
+      "description": "The process by which plants convert light energy into chemical energy, important for plant growth and development",
+      "uuid": "07b53dde-6fea-4662-9d03-ccfd617ca710",
+      "score": 0.6602735827727169
+    },
+    {
+      "name": "Growing Degree Days (GDD)",
+      "label": "variable",
+      "description": "A measure of heat accumulation that controls the development characteristics of temperature-dependent plants",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.7905680656596908
+    },
+    {
+      "name": "Heating Units (HU)",
+      "label": "variable",
+      "description": "An alternative term for Growing Degree Days, used to classify the maturity of plant hybrids",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.5163250851519691
+    },
+    {
+      "name": "water budget",
+      "label": "variable",
+      "description": "The balance of water inputs and outputs in a watershed, important for understanding hydrology and water management",
+      "uuid": "f8702aed-a0ae-46f0-89eb-abde858bc6ac",
+      "score": 0.729007670296827
+    }
+  ],
+  "(30335, 33173)": [
+    {
+      "name": "corn",
+      "label": "variable",
+      "description": "A type of crop commonly grown in the Midwest U.S., with its harvesting and planting dates being important for agricultural modeling",
+      "uuid": "f5824b8f-c3e7-4e56-96e8-cf4b5adefbf8",
+      "score": 0.5004128133213913
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important factor in hydrologic, environmental, and agricultural modeling",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6488507868575407
+    },
+    {
+      "name": "daily precipitation depths",
+      "label": "variable",
+      "description": "The amount of precipitation that falls to the Earth's surface over a 24-hour period",
+      "uuid": "12250935-8f40-4279-aada-2f22cbef1459",
+      "score": 0.5900095212541795
+    },
+    {
+      "name": "GDD",
+      "label": "variable",
+      "description": "Growing Degree Days, a measure of the amount of heat available for plant growth, calculated from daily temperature data",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.7811442217305083
+    },
+    {
+      "name": "mean maximum daily air temperatures",
+      "label": "variable",
+      "description": "The average of the highest daily air temperatures, an important factor in agricultural and environmental modeling",
+      "uuid": "cdcb420a-bd7b-47ea-a3bd-334e06976689",
+      "score": 0.5403346349594557
+    },
+    {
+      "name": "maximum and minimum temperatures",
+      "label": "variable",
+      "description": "The highest and lowest temperatures recorded over a given period, important for understanding temperature extremes",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6446640274234615
+    },
+    {
+      "name": "accumulated GDD",
+      "label": "variable",
+      "description": "The total amount of Growing Degree Days accumulated over a given period, used to track plant growth and development",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.6753198855157365
+    }
+  ],
+  "(32645, 35316)": [
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded during a given time period, often used in climate studies",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6295873321886787
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded during a given time period, often used in climate studies",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6151423284383176
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6909685933805586
+    },
+    {
+      "name": "Growing Degree Days",
+      "label": "variable",
+      "description": "A measure of the amount of heat available for plant growth, calculated based on temperature",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.7859293408777599
+    },
+    {
+      "name": "snow days",
+      "label": "variable",
+      "description": "A day with significant snowfall, often used in climate studies",
+      "uuid": "1f697c83-969d-48ee-87b8-245b11f7e24f",
+      "score": 0.5103971502679574
+    },
+    {
+      "name": "growth range days",
+      "label": "variable",
+      "description": "A period of time with suitable temperature and moisture conditions for plant growth",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.5205724034843786
+    }
+  ],
+  "(34851, 37428)": [
+    {
+      "name": "growth range days",
+      "label": "variable",
+      "description": "A measure of the number of days per year that are suitable for plant growth",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.5464573343039073
+    },
+    {
+      "name": "growing season",
+      "label": "location",
+      "description": "A period of the year when weather conditions are favorable for plant growth",
+      "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
+      "score": 0.6578723912735058
+    },
+    {
+      "name": "Growing Degree Days (GDD)",
+      "label": "variable",
+      "description": "A measure of the amount of heat available for plant growth, calculated based on daily temperature readings",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.7900913008863966
+    }
+  ],
+  "(36914, 40016)": [
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, an important climate variable",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6535800532737837
+    }
+  ],
+  "(39490, 42581)": [
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used in climate and hydrological studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6891581444354603
+    },
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded at a given location, often used in climate studies",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6358295559116455
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded at a given location, often used in climate studies",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6216946282988602
+    },
+    {
+      "name": "walk station",
+      "label": "location",
+      "description": "A specific location where weather data is collected",
+      "uuid": "1551f765-cbb8-479f-a796-87c61868c509",
+      "score": 0.5501774785524272
+    }
+  ],
+  "(42094, 45209)": [
+    {
+      "name": "precipitation amounts",
+      "label": "variable",
+      "description": "The quantity of precipitation that falls to the Earth's surface over a specified period",
+      "uuid": "cad5c02a-e771-434e-bef6-8dced38a68e8",
+      "score": 0.640338264747986
+    },
+    {
+      "name": "maximum temperatures",
+      "label": "variable",
+      "description": "The highest temperature recorded over a specified period",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.5914331230240168
+    },
+    {
+      "name": "minimum temperatures",
+      "label": "variable",
+      "description": "The lowest temperature recorded over a specified period",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.5784643426961898
+    },
+    {
+      "name": "maximum daily air temperatures",
+      "label": "variable",
+      "description": "The highest temperature recorded in the air over a 24-hour period",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.6471051807763964
+    },
+    {
+      "name": "minimum daily air temperatures",
+      "label": "variable",
+      "description": "The lowest temperature recorded in the air over a 24-hour period",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6237615116056833
+    }
+  ],
+  "(44717, 47711)": [
+    {
+      "name": "maximum temperature",
+      "label": "variable",
+      "description": "The highest temperature recorded at a given location, often used in climate and weather studies>",
+      "uuid": "ce6a6b3a-df4f-4bd7-a931-7ee874ee9efe",
+      "score": 0.646031462415533
+    },
+    {
+      "name": "minimum temperature",
+      "label": "variable",
+      "description": "The lowest temperature recorded at a given location, often used in climate and weather studies>",
+      "uuid": "5c7f35d5-a3ec-4010-b1c3-6e98ac29dc3f",
+      "score": 0.6288059917877263
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, often used in climate and weather studies>",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.688943279288617
+    },
+    {
+      "name": "growing degree day accumulation",
+      "label": "variable",
+      "description": "A measure of the amount of heat available for plant growth, often used in agricultural and climate studies>",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.7682945958134165
+    }
+  ],
+  "(47174, 50310)": [
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the degree of heat in the atmosphere, an important climate variable",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6537513151638432
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, a crucial climate variable for hydrologic and agricultural studies",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6653631095430486
+    },
+    {
+      "name": "growing degree days",
+      "label": "variable",
+      "description": "A measure of the amount of heat available for plant growth, calculated based on temperature",
+      "uuid": "a43f9a02-769d-4343-8790-fa29a0507f44",
+      "score": 0.7797611732566724
+    },
+    {
+      "name": "maximum and minimum temperatures",
+      "label": "variable",
+      "description": "The highest and lowest temperatures recorded, important for understanding daily temperature variations",
+      "uuid": "5164162a-60eb-4c94-a0f0-2caaa3bb1754",
+      "score": 0.6406251845782475
+    },
+    {
+      "name": "precipitation status",
+      "label": "variable",
+      "description": "The condition of whether it is raining or not, used in weather generator models to simulate precipitation events",
+      "uuid": "aab15612-f050-4ec0-9bb1-f72eb5bf0e44",
+      "score": 0.5448536631331433
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, comprehensive models that simulate the Earth's climate system on a global scale",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7348596489260952
+    },
+    {
+      "name": "RCMs",
+      "label": "model",
+      "description": "Regional Climate Models, models that downscale global climate simulations to regional scales for more detailed analysis",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5381895541561161
+    },
+    {
+      "name": "hydrologic model",
+      "label": "model",
+      "description": "A model used to simulate the movement and distribution of water in the environment, crucial for climate change impact studies",
+      "uuid": "e1b54a28-af57-47ad-8291-bdbf723481b1",
+      "score": 0.5707152063764434
+    },
+    {
+      "name": "agriculture",
+      "label": "location",
+      "description": "The practice of cultivating the soil, growing crops, and raising livestock, often affected by climate change",
+      "uuid": "a956d045-3b12-441c-8a18-fac7d33b2b4e",
+      "score": 0.5577826654984736
+    },
+    {
+      "name": "hydrology",
+      "label": "location",
+      "description": "The study of the properties, distribution, and circulation of water on Earth, important for understanding climate change impacts",
+      "uuid": "9a0c4d32-54c1-450e-aafd-f086678ed176",
+      "score": 0.5133533980213743
+    }
+  ],
+  "(49828, 53003)": [
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "General Circulation Models, sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.748741754223816
+    },
+    {
+      "name": "RCMs",
+      "label": "model",
+      "description": "Regional Climate Models, downscaled versions of GCMs used to simulate climate at a regional level",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.5636971594135722
+    },
+    {
+      "name": "hydrologic model",
+      "label": "model",
+      "description": "A computational representation of the hydrological cycle, used to simulate and predict water flow and quality",
+      "uuid": "2eb094d5-70bc-49fa-acb6-4ad07f4c7b08",
+      "score": 0.5724412428876098
+    },
+    {
+      "name": "Purdue Climate Change Research Center",
+      "label": "provider",
+      "description": "An academic institution focused on climate research and education",
+      "uuid": "96b9acb9-49e7-446d-bf07-3e6c32dad27c",
+      "score": 0.5145453944385368
+    },
+    {
+      "name": "Purdue University",
+      "label": "provider",
+      "description": "A public research university located in West Lafayette, Indiana, United States",
+      "uuid": "b1ed594a-44bf-40f2-9e42-f520fe4eb977",
+      "score": 0.5250963219713033
+    },
+    {
+      "name": "temperature",
+      "label": "variable",
+      "description": "A measure of the thermal energy of a system, often used in climate and environmental studies",
+      "uuid": "622048a9-42c3-4a81-b097-9a69397b40a3",
+      "score": 0.6755638226307586
+    },
+    {
+      "name": "vegetation growth",
+      "label": "variable",
+      "description": "A measure of the health and productivity of plant life, often used in ecological and environmental studies",
+      "uuid": "3a0d1a04-972c-4272-a34e-a57c77112d76",
+      "score": 0.6177427031253112
+    },
+    {
+      "name": "melting glaciers",
+      "label": "natural hazard",
+      "description": "The rapid loss of glacier mass, contributing to sea-level rise and changes in global climate patterns",
+      "uuid": "6bd14a79-ac70-4f99-9107-a4c036d33bd7",
+      "score": 0.6550726932674346
+    }
+  ],
+  "(52425, 53955)": [
+    {
+      "name": "Purdue Climate Change Research Center",
+      "label": "provider",
+      "description": "A research institution focused on studying climate change and its impacts, located at Purdue University",
+      "uuid": "96b9acb9-49e7-446d-bf07-3e6c32dad27c",
+      "score": 0.5250430055575603
+    },
+    {
+      "name": "Purdue University",
+      "label": "provider",
+      "description": "A public research university located in West Lafayette, Indiana, known for its academic programs and research initiatives",
+      "uuid": "b1ed594a-44bf-40f2-9e42-f520fe4eb977",
+      "score": 0.5542165962479773
+    }
+  ]
+}

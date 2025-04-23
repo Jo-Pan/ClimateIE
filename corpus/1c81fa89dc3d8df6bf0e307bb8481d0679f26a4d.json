@@ -1,0 +1,910 @@
+{
+  "(0, 2748)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "Coupled Model Intercomparison Project",
+      "label": "project",
+      "description": "A framework for comparing different climate models to improve climate predictions",
+      "uuid": "8f528b66-670d-4198-b014-7fdc9e1f6890",
+      "score": 0.6717850247407346
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, known for its significant influence on global climate variability and change",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.5652591495839511
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6496736295796106
+    },
+    {
+      "name": "aerosol concentrations",
+      "label": "variable",
+      "description": "The amount of aerosols, such as particles and droplets, suspended in the air, which can influence climate by reflecting or absorbing sunlight",
+      "uuid": "59920ad4-85fb-4cee-ba56-f39bc5857a3d",
+      "score": 0.6931616915368511
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028232342314525
+    },
+    {
+      "name": "World Climate Research Programme",
+      "label": "provider",
+      "description": "An international program that coordinates and promotes research on climate and climate change, including the development of climate models and projections",
+      "uuid": "485e86f3-7cd1-43c0-bb02-a929b7d96e43",
+      "score": 0.7152242690795229
+    },
+    {
+      "name": "atmospheric circulation change",
+      "label": "variable",
+      "description": "Changes in the patterns of atmospheric circulation, which can influence climate and weather patterns",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.5353169133780695
+    },
+    {
+      "name": "eastern Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean, known for its influence on global climate variability and change",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.7069939356530898
+    },
+    {
+      "name": "central Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean, known for its influence on global climate variability and change",
+      "uuid": "54340be8-8bd7-40be-a9d0-2e212bddd5d9",
+      "score": 0.6896458577830938
+    }
+  ],
+  "(2353, 4983)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP3",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.8028232342314525
+    },
+    {
+      "name": "tropical oceans",
+      "label": "location",
+      "description": "Oceans located near the equator, characterized by warm waters and high levels of biodiversity",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.525749369977374
+    },
+    {
+      "name": "atmospheric circulation",
+      "label": "variable",
+      "description": "The movement of air in the atmosphere, which influences weather patterns and climate conditions",
+      "uuid": "555b048d-8904-4a62-a85a-3af1aa14674e",
+      "score": 0.512449522660208
+    },
+    {
+      "name": "eastern Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the western coast of the Americas, known for its influence on global climate variability",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.7574488405405396
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean near the equator, characterized by unique climate and oceanographic conditions",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.5503973209345607
+    },
+    {
+      "name": "sea surface temperature",
+      "label": "variable",
+      "description": "The temperature of the surface of the ocean, which plays a crucial role in shaping global climate patterns",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7656766163751064
+    },
+    {
+      "name": "CP El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A type of El Ni\u00f1o event characterized by warming in the central Pacific, which can impact global climate patterns and weather phenomena",
+      "uuid": "ad5bde75-1f54-4f7e-a958-3adaf9f40639",
+      "score": 0.5268232091938636
+    },
+    {
+      "name": "EP El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A type of El Ni\u00f1o event characterized by warming in the eastern Pacific, which can impact global climate patterns and weather phenomena",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.5547796378218192
+    },
+    {
+      "name": "extratropical Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean outside of the tropics, characterized by unique climate and oceanographic conditions",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.5450509752882132
+    },
+    {
+      "name": "sea level pressure",
+      "label": "variable",
+      "description": "The pressure exerted by the weight of the atmosphere at sea level, which can influence weather patterns and climate conditions",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.7571331691980705
+    }
+  ],
+  "(4596, 7352)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6496736295796106
+    },
+    {
+      "name": "tropical central Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, known for its significant role in global climate variability",
+      "uuid": "54340be8-8bd7-40be-a9d0-2e212bddd5d9",
+      "score": 0.6133980007149985
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea Surface Temperature, the temperature of the surface of the ocean, an important parameter in climate studies",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7112586432668054
+    },
+    {
+      "name": "extratropical Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean outside the tropics, influencing global climate patterns through interactions with the tropics",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.5204362476302147
+    },
+    {
+      "name": "SLP",
+      "label": "variable",
+      "description": "Sea Level Pressure, a measure of atmospheric pressure at sea level, used in climate and weather studies",
+      "uuid": "e5bca08d-ecb3-4b85-8acd-fed782875aa2",
+      "score": 0.717591699218693
+    },
+    {
+      "name": "EP El Ni\u00f1o",
+      "label": "weather event",
+      "description": "A type of El Ni\u00f1o event characterized by warming of the eastern Pacific, differing from the CP El Ni\u00f1o",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.5081674610238193
+    }
+  ],
+  "(6839, 9431)": [
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6496736295796106
+    },
+    {
+      "name": "Pacific",
+      "label": "location",
+      "description": "The largest of the world's five oceans, playing a significant role in global climate variability and weather patterns",
+      "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+      "score": 0.7513622140662063
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "CMIP5 models",
+      "label": "model",
+      "description": "A set of climate models used in the Coupled Model Intercomparison Project Phase 5 to simulate and predict climate patterns",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.7343856463898648
+    },
+    {
+      "name": "Met Office Hadley Centre Sea Ice and SST dataset",
+      "label": "dataset",
+      "description": "A dataset providing historical sea ice and sea surface temperature observations, used for climate research and model validation",
+      "uuid": "a0b26420-3a13-4742-8d6f-391dc5c49d64",
+      "score": 0.6548770237398834
+    },
+    {
+      "name": "HadISST",
+      "label": "dataset",
+      "description": "The Met Office Hadley Centre Sea Ice and SST dataset, used to provide sea surface temperature observations",
+      "uuid": "a0b26420-3a13-4742-8d6f-391dc5c49d64",
+      "score": 0.7397751034446318
+    },
+    {
+      "name": "SST observations",
+      "label": "variable",
+      "description": "Measurements of sea surface temperatures, used to study ocean and climate variability",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.6570343149417559
+    },
+    {
+      "name": "future radiative forcing",
+      "label": "variable",
+      "description": "A measure of the energy imbalance in the Earth's climate system, used to predict future climate changes",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.6969171474661916
+    },
+    {
+      "name": "monthly-mean climatology",
+      "label": "variable",
+      "description": "The average atmospheric or oceanic conditions over a month, used as a reference for studying climate variability",
+      "uuid": "8c8c70b1-f6c5-4f34-89b5-510049b8c8ab",
+      "score": 0.6778002148277267
+    },
+    {
+      "name": "RCP 4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling, assuming a stabilization of radiative forcing at 4.5 W/m^2 in 2100",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6170477017957703
+    },
+    {
+      "name": "EP El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A type of El Ni\u00f1o event characterized by warming in the eastern Pacific",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.5007319631062661
+    },
+    {
+      "name": "CP El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A type of El Ni\u00f1o event characterized by warming in the central Pacific",
+      "uuid": "ad5bde75-1f54-4f7e-a958-3adaf9f40639",
+      "score": 0.5014464733184874
+    }
+  ],
+  "(9058, 11578)": [
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6496736295796106
+    },
+    {
+      "name": "HadISST",
+      "label": "dataset",
+      "description": "A dataset of historical sea surface temperature records, used for climate research and model validation",
+      "uuid": "a0b26420-3a13-4742-8d6f-391dc5c49d64",
+      "score": 0.7253079956299073
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario used in climate modeling to simulate the effects of greenhouse gas emissions on the climate system",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6259808795683938
+    },
+    {
+      "name": "EP El Ni\u00f1o",
+      "label": "weather event",
+      "description": "A type of El Ni\u00f1o event characterized by warming of the eastern equatorial Pacific Ocean",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.5031761926995785
+    },
+    {
+      "name": "CP El Ni\u00f1o",
+      "label": "weather event",
+      "description": "A type of El Ni\u00f1o event characterized by warming of the central equatorial Pacific Ocean",
+      "uuid": "ad5bde75-1f54-4f7e-a958-3adaf9f40639",
+      "score": 0.5075233706035144
+    },
+    {
+      "name": "eastern equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, known for its influence on global climate variability",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.6463839411612332
+    },
+    {
+      "name": "western equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, known for its influence on global climate variability",
+      "uuid": "922a749a-d663-495f-bd26-31e6cfb89c57",
+      "score": 0.6548612923947756
+    },
+    {
+      "name": "South America",
+      "label": "location",
+      "description": "A continent in the southern hemisphere, known for its diverse climate and geography",
+      "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+      "score": 0.6919015861897633
+    },
+    {
+      "name": "West Coast of the United States",
+      "label": "location",
+      "description": "A region of the United States bordering the Pacific Ocean, known for its mild climate and geological activity",
+      "uuid": "de433636-5ea1-47b0-9b86-95e081eefab4",
+      "score": 0.5330159866865305
+    },
+    {
+      "name": "Northwestern and southwestern subtropical Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean characterized by subtropical climate conditions",
+      "uuid": "7d10a16f-ca01-4ea5-b842-24c889210ab5",
+      "score": 0.561756869207751
+    }
+  ],
+  "(11143, 13953)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "EP El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A type of El Ni\u00f1o event characterized by warming in the eastern Pacific Ocean, near the coast of South America",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.5102413154782017
+    },
+    {
+      "name": "CP El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A type of El Ni\u00f1o event characterized by warming in the central Pacific Ocean",
+      "uuid": "ad5bde75-1f54-4f7e-a958-3adaf9f40639",
+      "score": 0.5143857807771751
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A representative concentration pathway scenario used in climate modeling to project future climate changes based on a specific greenhouse gas emission trajectory",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6273060013828752
+    },
+    {
+      "name": "tropical Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean located between 20\u00b0S and 20\u00b0N, known for its significant influence on global climate variability",
+      "uuid": "54340be8-8bd7-40be-a9d0-2e212bddd5d9",
+      "score": 0.5542219284940226
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "The region of the Pacific Ocean located near the equator, known for its significant influence on global climate variability",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.5760557462139742
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea surface temperature, an important parameter in climate studies",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.6824820377338477
+    },
+    {
+      "name": "tropical cyclone activity",
+      "label": "weather event",
+      "description": "The formation and movement of tropical cyclones, such as hurricanes and typhoons, which are influenced by climate conditions",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.5898724002882985
+    }
+  ],
+  "(13419, 15992)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "MIROC5",
+      "label": "model",
+      "description": "A climate model developed by the Japanese research community, used for simulations and predictions of the Earth's climate system",
+      "uuid": "80122908-8018-4511-810c-dd7aaf639b91",
+      "score": 0.7805538967946322
+    },
+    {
+      "name": "tropical cyclone activity",
+      "label": "weather event",
+      "description": "The formation and movement of tropical cyclones, including hurricanes, typhoons, and tropical storms, which are influenced by climate patterns",
+      "uuid": "06180441-d4bb-4fed-b36a-9b3cb2cac0fe",
+      "score": 0.5892175001167205
+    },
+    {
+      "name": "tropical Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, characterized by warm ocean temperatures and significant climate variability",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.6013416173570871
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, known for its importance in global climate patterns and El Ni\u00f1o events",
+      "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+      "score": 0.5585974863813908
+    },
+    {
+      "name": "southeastern subtropical Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located south of the equator and east of the international date line, characterized by subtropical climate conditions",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.561059265697708
+    },
+    {
+      "name": "subtropical North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator and characterized by subtropical climate conditions",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.595704396596445
+    },
+    {
+      "name": "central Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator and characterized by warm ocean temperatures and significant climate variability",
+      "uuid": "54340be8-8bd7-40be-a9d0-2e212bddd5d9",
+      "score": 0.7193797920566202
+    },
+    {
+      "name": "eastern Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator and east of the international date line, known for its importance in global climate patterns and El Ni\u00f1o events",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.7334686593030706
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6496736295796106
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A scenario of greenhouse gas emissions and concentrations, used in climate modeling to project future climate changes",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6267064952771834
+    },
+    {
+      "name": "EOF analysis",
+      "label": "instrument",
+      "description": "A statistical method used to analyze and identify patterns in climate data",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5307088672498561
+    },
+    {
+      "name": "surface ocean warming",
+      "label": "variable",
+      "description": "The increase in temperature of the ocean's surface, an important indicator of climate change",
+      "uuid": "49d638f4-bdfa-4a6e-b154-cce1717d307f",
+      "score": 0.5370117892900674
+    },
+    {
+      "name": "climate models",
+      "label": "model",
+      "description": "Computational representations of the Earth's climate system, used to simulate and predict climate patterns and changes",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.6935606825834637
+    }
+  ],
+  "(15641, 17901)": [
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "EP El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A type of El Ni\u00f1o event characterized by warming of sea surface temperatures in the eastern Pacific Ocean",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.5129001934224192
+    },
+    {
+      "name": "CP El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A type of El Ni\u00f1o event characterized by warming of sea surface temperatures in the central Pacific Ocean",
+      "uuid": "ad5bde75-1f54-4f7e-a958-3adaf9f40639",
+      "score": 0.5395353640976026
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "A Representative Concentration Pathway scenario, which describes a possible future climate trajectory based on greenhouse gas emissions and concentrations",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6345111783957942
+    },
+    {
+      "name": "EOF",
+      "label": "variable",
+      "description": "Empirical Orthogonal Function, a statistical method used to identify patterns in climate data",
+      "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
+      "score": 0.5581671674181612
+    },
+    {
+      "name": "T*",
+      "label": "variable",
+      "description": "A measure of sea surface temperature anomaly",
+      "uuid": "904f3b34-20c8-4eb8-bf68-6304edecf945",
+      "score": 0.5840864390244483
+    },
+    {
+      "name": "DSSH",
+      "label": "variable",
+      "description": "The difference in sea surface height between two time periods",
+      "uuid": "3798a6c9-9b39-4e22-bee4-be80d39049fe",
+      "score": 0.5417187924682
+    },
+    {
+      "name": "Ni\u00f1o-3",
+      "label": "location",
+      "description": "A region in the eastern Pacific Ocean, defined as 58S-58N, 908-1508W, used to study El Ni\u00f1o events",
+      "uuid": "c58dc7fb-65d5-4309-8abe-160e8e845382",
+      "score": 0.6539789853002249
+    },
+    {
+      "name": "Ni\u00f1o-4",
+      "label": "location",
+      "description": "A region in the western Pacific Ocean, defined as 58S-58N, 1608E-1508W, used to study El Ni\u00f1o events",
+      "uuid": "f59ce66b-a76d-467c-bab1-6264f9f3bb70",
+      "score": 0.6750950657597606
+    }
+  ],
+  "(17440, 20106)": [
+    {
+      "name": "Ni\u00f1o-3 region",
+      "label": "location",
+      "description": "A region in the eastern Pacific Ocean, commonly used as an index for El Ni\u00f1o events",
+      "uuid": "c58dc7fb-65d5-4309-8abe-160e8e845382",
+      "score": 0.6799924564421792
+    },
+    {
+      "name": "Ni\u00f1o-4 region",
+      "label": "location",
+      "description": "A region in the western Pacific Ocean, commonly used as an index for El Ni\u00f1o events",
+      "uuid": "f59ce66b-a76d-467c-bab1-6264f9f3bb70",
+      "score": 0.7017687908492327
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A complex climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6260769886191972
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "18 CMIP5 models",
+      "label": "model",
+      "description": "A set of 18 climate models used in the CMIP5 project to simulate and predict climate patterns",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.635078063850037
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, known for its significant role in global climate variability",
+      "uuid": "2ea2cf5b-f0ae-4ea0-bcaa-b4b0c2e6636b",
+      "score": 0.5788948739647175
+    },
+    {
+      "name": "EP region",
+      "label": "location",
+      "description": "The eastern Pacific region, commonly used as an index for El Ni\u00f1o events",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.5770463423370993
+    },
+    {
+      "name": "CP region",
+      "label": "location",
+      "description": "The central Pacific region, commonly used as an index for El Ni\u00f1o events",
+      "uuid": "ad5bde75-1f54-4f7e-a958-3adaf9f40639",
+      "score": 0.5907450757252217
+    },
+    {
+      "name": "HadISST dataset",
+      "label": "project",
+      "description": "A dataset of historical sea surface temperatures, used to study climate patterns and variability",
+      "uuid": "a0b26420-3a13-4742-8d6f-391dc5c49d64",
+      "score": 0.7063575423982699
+    }
+  ],
+  "(19784, 22166)": [
+    {
+      "name": "HadISST",
+      "label": "project",
+      "description": "A project providing a dataset of global sea surface temperature and sea ice concentration, used for climate research and analysis",
+      "uuid": "a0b26420-3a13-4742-8d6f-391dc5c49d64",
+      "score": 0.6856279670489478
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069666824159223
+    },
+    {
+      "name": "ACCESS1.0",
+      "label": "model",
+      "description": "The Australian Community Climate and Earth-System Simulator model version 1.0, used for climate simulations and predictions",
+      "uuid": "4270e57b-0ed2-43ab-9a7a-cd09e3983691",
+      "score": 0.7783727172014019
+    },
+    {
+      "name": "CCSM4",
+      "label": "model",
+      "description": "The Community Climate System Model version 4, a comprehensive climate model that integrates physical, chemical, and biological processes to simulate Earth's climate system",
+      "uuid": "c266a473-338f-4fe9-965c-f8ae853ff57b",
+      "score": 0.7990455656456144
+    },
+    {
+      "name": "IPSL-CM5A-LR",
+      "label": "model",
+      "description": "The L'Institut Pierre-Simon Laplace Climate Model version 5A, low resolution, used for climate simulations and predictions",
+      "uuid": "1e11026d-b012-494a-a813-8c69cb41fc0d",
+      "score": 0.8125582685542272
+    },
+    {
+      "name": "IPSL-CM5A-MR",
+      "label": "model",
+      "description": "The L'Institut Pierre-Simon Laplace Climate Model version 5A, medium resolution, used for climate simulations and predictions",
+      "uuid": "f88c4559-fc4b-4b4a-ac57-0f15bb24e8e0",
+      "score": 0.7882620647568076
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6496736295796106
+    },
+    {
+      "name": "RCP4.5",
+      "label": "experiment",
+      "description": "The Representative Concentration Pathway 4.5, a scenario used in climate modeling to project future climate changes based on a specific level of greenhouse gas emissions",
+      "uuid": "b12df2b5-8f2a-44c3-8136-a3dcce2678c8",
+      "score": 0.6293125537130948
+    },
+    {
+      "name": "tropical Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, known for its significant role in global climate variability",
+      "uuid": "db1000b8-3b19-46fa-9d79-379379d654ac",
+      "score": 0.5755190634313203
+    },
+    {
+      "name": "southeastern subtropical Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located southeast of the equator, characterized by subtropical climate conditions",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.5529956616463954
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located near the equator, known for its significant role in global climate variability",
+      "uuid": "2ea2cf5b-f0ae-4ea0-bcaa-b4b0c2e6636b",
+      "score": 0.5788948739647175
+    },
+    {
+      "name": "subtropical North Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean located north of the equator, characterized by subtropical climate conditions",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.5980334001819725
+    },
+    {
+      "name": "Ni\u00f1o-3 index",
+      "label": "variable",
+      "description": "A measure of the sea surface temperature anomaly in the eastern Pacific Ocean, used to monitor El Ni\u00f1o events",
+      "uuid": "c58dc7fb-65d5-4309-8abe-160e8e845382",
+      "score": 0.7775012641934118
+    }
+  ],
+  "(21739, 24787)": [
+    {
+      "name": "18 CMIP5 models",
+      "label": "model",
+      "description": "A set of 18 climate models from the Coupled Model Intercomparison Project Phase 5, used to simulate and predict climate patterns",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.6613082700945613
+    },
+    {
+      "name": "eastern equatorial Pacific",
+      "label": "location",
+      "description": "A region in the Pacific Ocean near the equator, known for its significant role in global climate variability and El Ni\u00f1o events",
+      "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+      "score": 0.6426752985033211
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6496736295796106
+    },
+    {
+      "name": "EP El Ni\u00f1o",
+      "label": "weather event",
+      "description": "A type of El Ni\u00f1o event characterized by warming in the eastern Pacific Ocean",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.5139592522400402
+    },
+    {
+      "name": "CP El Ni\u00f1o",
+      "label": "weather event",
+      "description": "A type of El Ni\u00f1o event characterized by warming in the central Pacific Ocean",
+      "uuid": "ad5bde75-1f54-4f7e-a958-3adaf9f40639",
+      "score": 0.5143857807771751
+    },
+    {
+      "name": "subtropical North Pacific",
+      "label": "location",
+      "description": "A region in the Pacific Ocean, known for its role in global climate variability",
+      "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+      "score": 0.5631376463091302
+    },
+    {
+      "name": "Hawaiian Islands",
+      "label": "location",
+      "description": "A region in the Pacific Ocean, known for its climate variability and El Ni\u00f1o events",
+      "uuid": "2006ec69-34f2-4ece-8823-6dc49f892b02",
+      "score": 0.6836822859747137
+    }
+  ],
+  "(24280, 27094)": [
+    {
+      "name": "PCMDI",
+      "label": "provider",
+      "description": "The Program for Climate Model Diagnosis and Intercomparison, an organization that collects and archives climate model data for research purposes",
+      "uuid": "3182feec-7f69-466c-a13e-9aff70dd43ed",
+      "score": 0.8137763878541101
+    },
+    {
+      "name": "WCRP's WGCM",
+      "label": "provider",
+      "description": "The World Climate Research Programme's Working Group on Coupled Modelling, a group that coordinates and promotes research on coupled climate models",
+      "uuid": "485e86f3-7cd1-43c0-bb02-a929b7d96e43",
+      "score": 0.6282727946520441
+    },
+    {
+      "name": "CMIP5 multimodel dataset",
+      "label": "project",
+      "description": "A dataset that combines climate model simulations from multiple models to improve climate predictions and understanding",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.6481874372290781
+    },
+    {
+      "name": "Office of Science, U.S. Department of Energy",
+      "label": "provider",
+      "description": "A government agency that supports scientific research and development in the United States, including climate and energy studies",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.5902942386635269
+    },
+    {
+      "name": "Global Organization for Earth System Science Portals",
+      "label": "provider",
+      "description": "An organization that provides access to Earth system science data and information through online portals",
+      "uuid": "21ee6640-e9a1-4105-b610-7b0d96e580e6",
+      "score": 0.5799158283830499
+    },
+    {
+      "name": "NSF",
+      "label": "provider",
+      "description": "The National Science Foundation, a government agency that supports scientific research and education in the United States",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.7337548989650678
+    },
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, a government agency that focuses on the conditions of the oceans, atmosphere, and coastal zones",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6819716369746177
+    },
+    {
+      "name": "equatorial Pacific",
+      "label": "location",
+      "description": "A region of the Pacific Ocean near the equator, known for its significant role in global climate variability",
+      "uuid": "2ea2cf5b-f0ae-4ea0-bcaa-b4b0c2e6636b",
+      "score": 0.5614609136242076
+    },
+    {
+      "name": "El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.6496736295796106
+    },
+    {
+      "name": "EP El Ni\u00f1o",
+      "label": "teleconnection",
+      "description": "A type of El Ni\u00f1o event that occurs in the eastern Pacific, rather than the central Pacific",
+      "uuid": "0384fecd-9303-47f3-84e3-f01f58013fc3",
+      "score": 0.511001563815092
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea surface temperature, a measure of the temperature of the ocean's surface",
+      "uuid": "bd24a9a9-7d52-4c29-b2a0-6cefd216ae78",
+      "score": 0.7157947431444183
+    }
+  ],
+  "(26723, 27094)": [
+    {
+      "name": "U.S. Department of Energy",
+      "label": "provider",
+      "description": "A department of the United States government that focuses on energy and nuclear safety",
+      "uuid": "af895532-1c2c-4270-b498-671114aab9d8",
+      "score": 0.6452146751691966
+    },
+    {
+      "name": "Global Organization for Earth System Science Portals",
+      "label": "provider",
+      "description": "An organization that aims to facilitate access to Earth system science data and information",
+      "uuid": "7e9895b9-496e-4e49-8f46-383a9a34e82e",
+      "score": 0.566077447488795
+    },
+    {
+      "name": "NSF",
+      "label": "provider",
+      "description": "The National Science Foundation, an American government agency that supports scientific research and education",
+      "uuid": "13215210-664a-4636-96a8-cf8713e94c76",
+      "score": 0.7253992728519075
+    },
+    {
+      "name": "NOAA",
+      "label": "provider",
+      "description": "The National Oceanic and Atmospheric Administration, an American scientific agency focused on the conditions of the oceans, major waterways, and the atmosphere",
+      "uuid": "c9003d36-020d-4e86-995a-498945576c23",
+      "score": 0.6863338911252913
+    }
+  ]
+}

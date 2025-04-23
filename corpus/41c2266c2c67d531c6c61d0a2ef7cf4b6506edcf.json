@@ -1,0 +1,822 @@
+{
+  "(0, 3345)": [
+    {
+      "name": "anthropogenic influences",
+      "label": "variable",
+      "description": "Human-induced factors that affect the climate, such as greenhouse gas emissions and land use changes",
+      "uuid": "c4a619e9-88ba-4dc6-91a6-5f95284d6f80",
+      "score": 0.53252152821555
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and hail",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.7007028350188638
+    },
+    {
+      "name": "climate change",
+      "label": "teleconnection",
+      "description": "A long-term change in the Earth's climate, caused by natural and anthropogenic factors",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5693172549580914
+    },
+    {
+      "name": "floods",
+      "label": "natural hazard",
+      "description": "Overflows of water that can cause damage and disruption to human populations and the environment",
+      "uuid": "e757b032-bfa4-4976-b98a-838f61a86ea8",
+      "score": 0.6896323253975649
+    },
+    {
+      "name": "droughts",
+      "label": "natural hazard",
+      "description": "Prolonged periods of abnormally low rainfall, leading to water shortages and impacts on ecosystems and human societies",
+      "uuid": "115d340f-cb5e-4436-bfa4-04a740988bf7",
+      "score": 0.7039617315753963
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "label": "provider",
+      "description": "An international organization that assesses the science related to climate change and provides guidance to policymakers",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7071122269908425
+    },
+    {
+      "name": "IPCC Fifth Assessment Report",
+      "label": "project",
+      "description": "A comprehensive report on the state of climate change knowledge, published by the Intergovernmental Panel on Climate Change",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.576814720980186
+    },
+    {
+      "name": "models",
+      "label": "model",
+      "description": "Computational representations of the climate system, used to simulate and predict climate behavior",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.7083495065560751
+    },
+    {
+      "name": "observations",
+      "label": "variable",
+      "description": "Measurements of climate-related phenomena, such as temperature, precipitation, and sea level rise",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.5072808407056513
+    },
+    {
+      "name": "anthropogenic forcing",
+      "label": "variable",
+      "description": "Human-induced changes to the climate system, such as greenhouse gas emissions and land use changes",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5915573853604155
+    }
+  ],
+  "(2861, 6166)": [
+    {
+      "name": "IPCC",
+      "label": "provider",
+      "description": "The Intergovernmental Panel on Climate Change, an international organization that assesses climate change science and impacts",
+      "uuid": "de76fdb4-9055-4cad-8422-3bae8870e799",
+      "score": 0.7492758557127771
+    },
+    {
+      "name": "water vapour concentrations",
+      "label": "variable",
+      "description": "A measure of the amount of water vapor in the air, which influences precipitation and the water cycle",
+      "uuid": "04c30b59-88ea-4311-8353-8896d4eba83f",
+      "score": 0.6165716513313667
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The ratio of the amount of water vapor in the air to the maximum amount the air can hold at a given temperature, affecting precipitation and climate",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7351735891927222
+    },
+    {
+      "name": "land",
+      "label": "location",
+      "description": "The terrestrial surface of the Earth, where precipitation and water cycle processes are studied",
+      "uuid": "e2e53a45-c6ee-4fac-9c08-7677c1318533",
+      "score": 0.5830724949194935
+    },
+    {
+      "name": "ocean",
+      "label": "location",
+      "description": "The vast body of saltwater that covers most of the Earth's surface, playing a crucial role in the global water cycle and climate regulation",
+      "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+      "score": 0.7263031070038073
+    },
+    {
+      "name": "northern mid-to-high latitude lands",
+      "label": "location",
+      "description": "A region of the Northern Hemisphere characterized by high latitudes and specific climate features",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.5355016093532625
+    },
+    {
+      "name": "global scale",
+      "label": "location",
+      "description": "The entire Earth, considered as a single unit for studying climate and precipitation patterns",
+      "uuid": "51e3593f-4b42-4141-972e-96666c479f9c",
+      "score": 0.5625869917007192
+    },
+    {
+      "name": "regional scale",
+      "label": "location",
+      "description": "A smaller area of the Earth's surface, characterized by specific geographic and climatological features, used to study local climate and precipitation patterns",
+      "uuid": "83ec2082-64bb-48d7-bcd2-454f082d608e",
+      "score": 0.533245018448543
+    }
+  ],
+  "(5664, 8660)": [
+    {
+      "name": "water vapour concentrations",
+      "label": "variable",
+      "description": "The amount of water vapor present in the air, an important factor in the Earth's energy balance and climate system>",
+      "uuid": "04c30b59-88ea-4311-8353-8896d4eba83f",
+      "score": 0.6276437203596631
+    },
+    {
+      "name": "relative humidity",
+      "label": "variable",
+      "description": "The ratio of the amount of water vapor in the air to the maximum amount the air can hold at a given temperature, influencing climate and weather patterns>",
+      "uuid": "a249c68f-8249-4285-aad2-020b3c5aefc3",
+      "score": 0.7496733876989075
+    },
+    {
+      "name": "troposphere",
+      "label": "location",
+      "description": "The lowest layer of the Earth's atmosphere, extending up to about 12 kilometers above the surface, where most weather phenomena occur>",
+      "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+      "score": 0.7460367373912195
+    },
+    {
+      "name": "atmospheric moisture content",
+      "label": "variable",
+      "description": "The amount of water vapor and other moisture present in the atmosphere, influencing climate and weather patterns>",
+      "uuid": "286d2ae0-9d86-4ef0-a2b4-014843a98532",
+      "score": 0.5781971817201055
+    },
+    {
+      "name": "global mean precipitation",
+      "label": "variable",
+      "description": "The average amount of precipitation that falls on the Earth's surface over a given period, an important indicator of the global water cycle>",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.5350083204043301
+    },
+    {
+      "name": "latent heating",
+      "label": "variable",
+      "description": "The process by which the atmosphere is heated through the release of latent heat during precipitation formation, influencing climate and weather patterns>",
+      "uuid": "9985d211-1056-4a7a-a1c8-550923ea5a81",
+      "score": 0.5921281597648479
+    },
+    {
+      "name": "radiative cooling",
+      "label": "variable",
+      "description": "The process by which the atmosphere cools through the emission of radiation to outer space, influencing climate and weather patterns>",
+      "uuid": "5bac3ef6-5e30-4f14-a5dc-8065c7fcba55",
+      "score": 0.7040319299250316
+    },
+    {
+      "name": "volcanic aerosol",
+      "label": "natural hazard",
+      "description": "Small particles released into the atmosphere by volcanic eruptions, which can influence climate and weather patterns>",
+      "uuid": "11d6f2a7-8f2c-4753-a7b0-a72d611b2954",
+      "score": 0.591924510707655
+    },
+    {
+      "name": "CO2",
+      "label": "variable",
+      "description": "Carbon dioxide, a greenhouse gas that contributes to the greenhouse effect and influences climate change>",
+      "uuid": "37dac8df-b04b-4561-91fb-886e1bded2c1",
+      "score": 0.6720034769127335
+    },
+    {
+      "name": "storm tracks",
+      "label": "location",
+      "description": "Regions where storms and low-pressure systems tend to form and move, influencing climate and weather patterns>",
+      "uuid": "2a4bc557-ee60-4446-920a-25632f5b8b4d",
+      "score": 0.5702725679765848
+    },
+    {
+      "name": "SST",
+      "label": "variable",
+      "description": "Sea surface temperature, an important factor in influencing climate and weather patterns, particularly in the tropics>",
+      "uuid": "f1d00bf7-7c6c-419a-b609-b7c8ee1fb3cf",
+      "score": 0.6505811972448586
+    }
+  ],
+  "(8139, 11431)": [
+    {
+      "name": "regional teleconnection patterns",
+      "label": "teleconnection",
+      "description": "Large-scale patterns of climate variability that link weather and climate phenomena across vast distances, influencing regional precipitation",
+      "uuid": "b887d3e5-4280-43d2-a34e-0f63ac086b6a",
+      "score": 0.5832820014586492
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles in the atmosphere that can affect climate by reflecting or absorbing solar radiation, and influencing cloud formation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.70069141641136
+    },
+    {
+      "name": "teleconnections",
+      "label": "teleconnection",
+      "description": "Large-scale patterns of climate variability that link weather and climate phenomena across vast distances, influencing regional precipitation",
+      "uuid": "b887d3e5-4280-43d2-a34e-0f63ac086b6a",
+      "score": 0.703132857346046
+    },
+    {
+      "name": "anthropogenic influence",
+      "label": "variable",
+      "description": "Human-induced factors that affect the climate system, such as greenhouse gas emissions, land use changes, and pollution",
+      "uuid": "c4a619e9-88ba-4dc6-91a6-5f95284d6f80",
+      "score": 0.5394219515750313
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a complex climate pattern that affects global climate variability, particularly in the Pacific region",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7940155136899892
+    },
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "North Atlantic Oscillation, a climate pattern that affects weather and climate variability in the North Atlantic region",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.775446160965478
+    },
+    {
+      "name": "stratospheric ozone",
+      "label": "variable",
+      "description": "A layer of ozone in the stratosphere that protects the Earth from ultraviolet radiation, and is influenced by human activities",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5501889627546804
+    },
+    {
+      "name": "Southern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies south of the equator, including Antarctica, Australia, and parts of South America and Africa",
+      "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+      "score": 0.7855628831919333
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent that includes countries such as France, Germany, and the United Kingdom, and is influenced by climate patterns such as the North Atlantic Oscillation",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6516219464382595
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth that lies north of the equator, including North America, Europe, and Asia",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7504909837092197
+    },
+    {
+      "name": "ozone",
+      "label": "variable",
+      "description": "A molecule composed of three oxygen atoms, that plays a crucial role in protecting the Earth from ultraviolet radiation",
+      "uuid": "dd316647-9043-40c3-9329-f22f9215fefa",
+      "score": 0.5880959033076957
+    },
+    {
+      "name": "natural events",
+      "label": "weather event",
+      "description": "Phenomena such as hurricanes, droughts, and heatwaves that occur naturally in the climate system",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.5883832031085768
+    }
+  ],
+  "(10821, 14248)": [
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles or droplets in the air that can affect climate and weather patterns",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.6865419057982138
+    },
+    {
+      "name": "North Africa",
+      "label": "location",
+      "description": "A region in the northern part of the African continent, known for its desert climate and natural aerosol emissions",
+      "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+      "score": 0.6364018845385849
+    },
+    {
+      "name": "West Asia",
+      "label": "location",
+      "description": "A region in western Asia, characterized by arid and semi-arid climates, and significant aerosol emissions",
+      "uuid": "1b6309ac-463b-4512-ab29-9870f3f8ba19",
+      "score": 0.653991910997459
+    },
+    {
+      "name": "Indian summer monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings significant rainfall to the Indian subcontinent",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.5981267350810481
+    },
+    {
+      "name": "Indian subcontinent",
+      "label": "location",
+      "description": "A region in southern Asia, comprising India, Pakistan, and other countries, known for its diverse climate and weather patterns",
+      "uuid": "a8ee0d08-8772-4951-bbf0-4114dd07de03",
+      "score": 0.5766840115289752
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, including rain, snow, and other forms of moisture",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6909685933805586
+    },
+    {
+      "name": "models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.6699623620821914
+    }
+  ],
+  "(13698, 16855)": [
+    {
+      "name": "tropical cyclones",
+      "label": "weather event",
+      "description": "A type of low-pressure system that forms over warm ocean waters, characterized by strong winds and heavy rainfall",
+      "uuid": "00fc45e0-400d-4024-a82a-4d6544735f64",
+      "score": 0.7023923563492477
+    },
+    {
+      "name": "high-resolution climate models",
+      "label": "model",
+      "description": "Sophisticated computer simulations that integrate physical, chemical, and biological processes to represent and predict Earth's climate system at fine spatial and temporal scales",
+      "uuid": "286de7c6-deed-443f-a3e0-b67ad7fba9eb",
+      "score": 0.6354615049832972
+    },
+    {
+      "name": "aerosols",
+      "label": "variable",
+      "description": "Tiny particles suspended in the air, influencing Earth's climate by scattering and absorbing solar radiation",
+      "uuid": "2e5a401b-1507-4f57-82b8-36557c13b154",
+      "score": 0.7344239281272532
+    },
+    {
+      "name": "inter-decadal variability",
+      "label": "variable",
+      "description": "Changes in climate patterns that occur over periods of several decades, influencing regional climate conditions",
+      "uuid": "addadf3e-ae8d-49aa-9b5d-abee1952a543",
+      "score": 0.5133953532140088
+    },
+    {
+      "name": "CMIP3 models",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 3, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "6a04c8fb-53aa-465d-803d-d0aaad32be12",
+      "score": 0.7684686516775323
+    },
+    {
+      "name": "CMIP5 models",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.7769801898817239
+    },
+    {
+      "name": "land-surface processes",
+      "label": "variable",
+      "description": "The exchange of energy, water, and carbon between the land surface and the atmosphere, influencing regional climate conditions",
+      "uuid": "514c891b-60b8-4a6f-adb3-0366c75588e9",
+      "score": 0.5990400373841778
+    },
+    {
+      "name": "sulphate aerosols",
+      "label": "variable",
+      "description": "A type of aerosol formed from the oxidation of sulphur dioxide, influencing Earth's climate by scattering solar radiation",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.5972926368589553
+    },
+    {
+      "name": "vorticity",
+      "label": "variable",
+      "description": "A measure of the rotation of air or water, influencing the formation and behavior of weather systems such as tropical cyclones",
+      "uuid": "858a80ff-5aa4-4590-b2e2-e88a802a6ee4",
+      "score": 0.7078418270851621
+    },
+    {
+      "name": "sea-ice",
+      "label": "variable",
+      "description": "Frozen seawater that floats on the ocean surface, influencing regional climate conditions and global ocean circulation",
+      "uuid": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
+      "score": 0.7536856741707356
+    },
+    {
+      "name": "ocean-biogeochemistry",
+      "label": "variable",
+      "description": "The study of the cycling of chemicals and nutrients through the ocean, influencing Earth's climate and marine ecosystems",
+      "uuid": "f1e6caa5-2c97-407d-a0db-7bf01794d8e3",
+      "score": 0.6790817593126508
+    },
+    {
+      "name": "climate model representation",
+      "label": "model",
+      "description": "The ability of climate models to accurately simulate and predict Earth's climate system, including its components and processes",
+      "uuid": "8680cb49-1637-4a47-a5fd-f39d4e618e45",
+      "score": 0.5337548905714365
+    },
+    {
+      "name": "UK",
+      "label": "location",
+      "description": "The United Kingdom, a country in Northwest Europe, influenced by regional climate conditions and climate change",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.67840881707549
+    },
+    {
+      "name": "Northern Hemisphere",
+      "label": "location",
+      "description": "The half of the Earth north of the equator, experiencing distinct climate patterns and variability",
+      "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+      "score": 0.7311659159053694
+    }
+  ],
+  "(16354, 19540)": [
+    {
+      "name": "anthropogenic aerosol",
+      "label": "variable",
+      "description": "A type of aerosol that is emitted by human activities and affects the Earth's climate",
+      "uuid": "49c6b17a-73b3-4a88-921e-960c5ceca013",
+      "score": 0.5006810678689865
+    },
+    {
+      "name": "sulphate aerosols",
+      "label": "variable",
+      "description": "A type of aerosol that is formed from the oxidation of sulfur dioxide and affects the Earth's climate",
+      "uuid": "ca71b02b-4446-414c-8697-0950d7382cc4",
+      "score": 0.59026536020244
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface in the form of rain, snow, or hail",
+      "uuid": "28c92cae-64f2-4fde-9159-852d62def5a6",
+      "score": 0.6936164847581504
+    },
+    {
+      "name": "GCMs",
+      "label": "model",
+      "description": "Global Climate Models, computational representations of the Earth's climate system used to simulate and predict climate change",
+      "uuid": "d1e2c5e2-076b-4949-8125-384712a33b58",
+      "score": 0.7344988129613867
+    },
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "El Ni\u00f1o-Southern Oscillation, a natural climate variability phenomenon that affects the Earth's climate",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7763338409313306
+    },
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "North Atlantic Oscillation, a natural climate variability phenomenon that affects the Earth's climate",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.7724951220626117
+    },
+    {
+      "name": "free-running coupled climate models",
+      "label": "model",
+      "description": "A type of climate model that simulates the interactions between the atmosphere, oceans, and land surfaces without being constrained by observed data",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5729118524087521
+    },
+    {
+      "name": "multi-model ensemble mean",
+      "label": "project",
+      "description": "A method of combining the results of multiple climate models to produce a single, more robust estimate of climate change",
+      "uuid": "35d2677c-619a-4a47-a5a7-3feb9973c5ab",
+      "score": 0.5123918421567809
+    },
+    {
+      "name": "anthropogenic influence",
+      "label": "variable",
+      "description": "The impact of human activities on the Earth's climate",
+      "uuid": "c4a619e9-88ba-4dc6-91a6-5f95284d6f80",
+      "score": 0.526078432742241
+    }
+  ],
+  "(19029, 22130)": [
+    {
+      "name": "ENSO",
+      "label": "teleconnection",
+      "description": "A periodic climate phenomenon characterized by the warming of sea surface temperatures in the central and eastern Pacific Ocean, affecting global weather patterns",
+      "uuid": "095a05c0-6220-4abd-9c1b-c4504a092d7d",
+      "score": 0.7561502079915926
+    },
+    {
+      "name": "NAO",
+      "label": "teleconnection",
+      "description": "The North Atlantic Oscillation, a climate pattern that influences the atmospheric pressure difference between the Icelandic Low and the Azores High, affecting European and North American climate",
+      "uuid": "c5e1c055-768e-4aa3-a0a1-3adfda8ecdca",
+      "score": 0.8051111317973494
+    },
+    {
+      "name": "CMIP5",
+      "label": "project",
+      "description": "The Coupled Model Intercomparison Project Phase 5, a framework for comparing different climate models to improve climate predictions",
+      "uuid": "f4bc60f4-5505-4eb4-83e6-585e0683eac3",
+      "score": 0.8069955290203001
+    },
+    {
+      "name": "Sulphate aerosol",
+      "label": "variable",
+      "description": "A type of atmospheric aerosol that can influence cloud formation, precipitation, and climate",
+      "uuid": "2ab4134d-1ac7-4421-a7a6-659a542aff4c",
+      "score": 0.6092502423717352
+    },
+    {
+      "name": "anthropogenic sulphur dioxide emissions",
+      "label": "variable",
+      "description": "The release of sulfur dioxide into the atmosphere due to human activities, such as industrial processes and fossil fuel combustion",
+      "uuid": "844f13b8-bd46-49e6-8aae-f2fe95bdd58a",
+      "score": 0.5671353138981118
+    },
+    {
+      "name": "precipitation variability",
+      "label": "variable",
+      "description": "The variation in precipitation patterns over time and space, influenced by climate factors and human activities",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.7247635803551494
+    },
+    {
+      "name": "tropical region",
+      "label": "location",
+      "description": "The area near the equator, characterized by high temperatures and high levels of precipitation",
+      "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+      "score": 0.6182880067785329
+    },
+    {
+      "name": "mid-latitude atmospheric river events",
+      "label": "weather event",
+      "description": "Intense channels of moisture in the atmosphere that can cause heavy precipitation and flooding in mid-latitude regions",
+      "uuid": "31ca2413-f257-4ceb-849a-68538efecfee",
+      "score": 0.5969158303337118
+    },
+    {
+      "name": "UK",
+      "label": "location",
+      "description": "The United Kingdom, a country in Northwest Europe with a temperate maritime climate",
+      "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+      "score": 0.6328335105373779
+    },
+    {
+      "name": "New Zealand",
+      "label": "location",
+      "description": "A country in the Pacific Ocean, known for its diverse climate and geography",
+      "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+      "score": 0.6670519955104661
+    },
+    {
+      "name": "West African Monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings rainfall to West Africa, influenced by the Intertropical Convergence Zone",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.539779344051175
+    },
+    {
+      "name": "Sahel",
+      "label": "location",
+      "description": "A semi-arid region in Africa located south of the Sahara Desert, known for its vulnerability to droughts and climate change",
+      "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+      "score": 0.7517918349066954
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent with diverse climates and geography, influencing global climate patterns",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6541515390388828
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent with a temperate climate, influencing global climate patterns",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.5954467630913971
+    },
+    {
+      "name": "anthropogenic influence",
+      "label": "variable",
+      "description": "The impact of human activities on the climate system, including greenhouse gas emissions and aerosol forcing",
+      "uuid": "c4a619e9-88ba-4dc6-91a6-5f95284d6f80",
+      "score": 0.5249131849751038
+    },
+    {
+      "name": "greenhouse gas emission",
+      "label": "variable",
+      "description": "The release of gases, such as carbon dioxide and methane, into the atmosphere, contributing to global warming",
+      "uuid": "2a60df4a-a0d7-4e4b-b02a-372a083f0170",
+      "score": 0.5227494157752561
+    },
+    {
+      "name": "aerosol forcing",
+      "label": "variable",
+      "description": "The influence of atmospheric aerosols on the climate system, including their impact on cloud formation and precipitation",
+      "uuid": "4fad64ce-32fe-413d-8b55-c78000d1980c",
+      "score": 0.5683960673821594
+    },
+    {
+      "name": "free-running coupled climate models",
+      "label": "model",
+      "description": "Climate models that simulate the interactions between the atmosphere, oceans, and land surfaces without being constrained by observed data",
+      "uuid": "c5b13fa4-0069-40ce-85cb-bfbab34c2058",
+      "score": 0.5880619125735088
+    }
+  ],
+  "(21653, 24978)": [
+    {
+      "name": "Sahel",
+      "label": "location",
+      "description": "A region in Africa, south of the Sahara Desert, known for its vulnerability to droughts and changes in precipitation patterns",
+      "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+      "score": 0.7096538374282506
+    },
+    {
+      "name": "West African Monsoon",
+      "label": "weather event",
+      "description": "A seasonal weather pattern that brings rainfall to West Africa, influenced by changes in sea surface temperatures and atmospheric circulation",
+      "uuid": "a6212424-1146-4a79-a14c-8ce88543b08b",
+      "score": 0.5608529337701995
+    },
+    {
+      "name": "anthropogenic sulphur dioxide emissions",
+      "label": "variable",
+      "description": "The release of sulphur dioxide into the atmosphere due to human activities, such as industrial processes and fossil fuel combustion",
+      "uuid": "844f13b8-bd46-49e6-8aae-f2fe95bdd58a",
+      "score": 0.5618535979108893
+    },
+    {
+      "name": "Asia",
+      "label": "location",
+      "description": "A continent on Earth, home to many countries and a significant source of anthropogenic emissions",
+      "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+      "score": 0.6543726945193733
+    },
+    {
+      "name": "Europe",
+      "label": "location",
+      "description": "A continent on Earth, home to many countries and a significant source of anthropogenic emissions",
+      "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+      "score": 0.6457170915124323
+    },
+    {
+      "name": "aerosol-radiation",
+      "label": "variable",
+      "description": "The interaction between aerosols and radiation in the atmosphere, influencing climate and weather patterns",
+      "uuid": "4ad0c52d-6449-48ff-8678-adc6b2cebcb7",
+      "score": 0.5666404985747636
+    },
+    {
+      "name": "aerosol-cloud",
+      "label": "variable",
+      "description": "The interaction between aerosols and clouds in the atmosphere, influencing climate and weather patterns",
+      "uuid": "49c6b17a-73b3-4a88-921e-960c5ceca013",
+      "score": 0.5820316676571241
+    },
+    {
+      "name": "anthropogenic aerosol precursor emissions",
+      "label": "variable",
+      "description": "The release of aerosol precursors into the atmosphere due to human activities, such as industrial processes and fossil fuel combustion",
+      "uuid": "203ce660-96f9-41d5-a836-037028dedcda",
+      "score": 0.5029551792523812
+    },
+    {
+      "name": "extreme weather",
+      "label": "weather event",
+      "description": "Unusual and severe weather events, such as heatwaves, droughts, and heavy precipitation",
+      "uuid": "b29b46ad-f05f-4144-b965-5f606ce96963",
+      "score": 0.688927371777529
+    },
+    {
+      "name": "climate-related event",
+      "label": "weather event",
+      "description": "Events that are influenced by climate patterns and variability, such as floods, landslides, and storms",
+      "uuid": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
+      "score": 0.5511655255660717
+    },
+    {
+      "name": "anthropogenic climate change",
+      "label": "variable",
+      "description": "The change in global climate patterns due to human activities, such as the release of greenhouse gases and aerosols",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5000318878047971
+    },
+    {
+      "name": "extreme precipitation events",
+      "label": "weather event",
+      "description": "Unusual and severe precipitation events, such as heavy rainfall and flooding",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.7222036464085548
+    },
+    {
+      "name": "regional extreme precipitation event",
+      "label": "weather event",
+      "description": "Unusual and severe precipitation events that occur in a specific region, such as a country or city",
+      "uuid": "fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab",
+      "score": 0.5885869593788109
+    }
+  ],
+  "(24446, 27966)": [
+    {
+      "name": "explosive volcanic eruptions",
+      "label": "natural hazard",
+      "description": "A type of volcanic eruption characterized by a sudden and violent release of energy, often affecting global climate patterns>",
+      "uuid": "06c1281f-e306-4511-bdab-ed6c0694f0f9",
+      "score": 0.556922610846419
+    },
+    {
+      "name": "salinity",
+      "label": "variable",
+      "description": "The concentration of dissolved salts in seawater, an important property influencing ocean circulation and the water cycle>",
+      "uuid": "04fa9023-ab68-4dd0-a82e-abe685105a53",
+      "score": 0.7240985338613608
+    },
+    {
+      "name": "teleconnections",
+      "label": "teleconnection",
+      "description": "Large-scale patterns of climate variability that link weather and climate phenomena across vast distances, often influencing regional precipitation>",
+      "uuid": "b887d3e5-4280-43d2-a34e-0f63ac086b6a",
+      "score": 0.7047086452714286
+    },
+    {
+      "name": "precipitation",
+      "label": "variable",
+      "description": "The amount of water that falls to the Earth's surface, a key component of the water cycle and climate system>",
+      "uuid": "ea213be5-fe37-4179-9a9b-030c2bf42cf5",
+      "score": 0.6838414617479637
+    },
+    {
+      "name": "anthropogenic climate change",
+      "label": "project",
+      "description": "The study of the impact of human activities on the climate system, including changes in temperature, precipitation, and other climate variables>",
+      "uuid": "d91ab3c6-89b0-4748-b824-1e3d45e49049",
+      "score": 0.5083928808418079
+    },
+    {
+      "name": "modes of variability",
+      "label": "ocean circulation",
+      "description": "Patterns of climate variability that occur in the ocean, such as El Ni\u00f1o and La Ni\u00f1a, which can influence regional precipitation>",
+      "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
+      "score": 0.5490137483062367
+    },
+    {
+      "name": "solar variability",
+      "label": "natural hazard",
+      "description": "Changes in the amount of energy emitted by the sun, which can influence the Earth's climate system>",
+      "uuid": "3b230650-68ff-4e7a-9273-6e0b1083bdfa",
+      "score": 0.5406576013337874
+    }
+  ],
+  "(27338, 28667)": [
+    {
+      "name": "models",
+      "label": "model",
+      "description": "Sophisticated computer simulations used to represent and predict Earth's climate system",
+      "uuid": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
+      "score": 0.6699623620821914
+    },
+    {
+      "name": "observations",
+      "label": "variable",
+      "description": "Data collected from measurements or experiments, used to validate or improve climate models",
+      "uuid": "ffff565f-15e9-4d15-a840-05c1a44fd2bf",
+      "score": 0.5222119533843381
+    },
+    {
+      "name": "high-quality observational datasets",
+      "label": "project",
+      "description": "Collections of data gathered through observations, used to improve understanding of climate phenomena",
+      "uuid": "d3df0ea0-8954-4bea-aa01-c84c5d32eb54",
+      "score": 0.6220990952043811
+    },
+    {
+      "name": "high-resolution models",
+      "label": "model",
+      "description": "Detailed climate models that simulate complex processes with high spatial and temporal resolution",
+      "uuid": "286de7c6-deed-443f-a3e0-b67ad7fba9eb",
+      "score": 0.5777899597078116
+    },
+    {
+      "name": "climate",
+      "label": "variable",
+      "description": "The average atmospheric conditions in a particular region, including temperature, precipitation, and other factors",
+      "uuid": "273973f1-ccc5-4ae8-9872-17e249023c53",
+      "score": 0.5032954953074408
+    }
+  ]
+}
