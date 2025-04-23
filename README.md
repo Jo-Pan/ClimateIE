@@ -29,13 +29,20 @@
 > Llama-3.3-70B shows best performance across all tasks compared to domain-specific and commercial LLMs.
 
 ## 📂 Repository Structure
-ClimateIE/
-├── corpus/            # 625 AI-assisted annotated publications
-├── human_corpus/      # 25 expert-annotated publications
-├── GCMD_plus.json     #The GCMD+ Taxonomy discussed in the paper (Version: 12142024)
-├── Annotation Guideline .pdf      # Annotation guidelines (PDF)
-├── README.md
+- [`corpus/`](./corpus/)  
+  625 AI-assisted annotated climate publications.
 
+- [`human_corpus/`](./human_corpus/)  
+  25 expert-annotated publications with GCMD+ taxonomy mappings.
+
+- [`GCMD_plus.json`](./GCMD_plus.json)  
+  The GCMD+ Taxonomy used in this work (Version: 12142024).
+
+- [`Annotation Guideline.pdf`](./Annotation%20Guideline%20.pdf)  
+  Detailed instructions and examples for entity/relation annotation.
+
+- [`README.md`](./README.md)  
+  This file.
 ## 📚 Citation
 
 If you use this dataset or framework, please cite our paper:
