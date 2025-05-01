@@ -52,9 +52,11 @@ If you use this dataset or framework, please cite our paper:
 > In *Proceedings of the ACL 2025 Workshop on ClimateNLP*.
 
 ```bibtex
-@inproceedings{pan2025climateie,
-  title     = {ClimateIE: A Dataset for Climate Science Information Extraction},
-  author    = {Pan, Huitong and Zhang, Qi and Mustapha, Adamu and Dragut, Eduard C. and Latecki, Longin Jan},
-  booktitle = {Proceedings of the ACL 2025 Workshop on ClimateNLP},
-  year      = {2025}
+@inproceedings{
+pan2025climateie,
+title={Climate{IE}: A Dataset for Climate Science Information Extraction},
+author={Huitong Pan and Mustapha Adamu and Qi Zhang and Eduard Dragut and Longin Jan Latecki},
+booktitle={The 2nd Workshop of Natural Language Processing meets Climate Change},
+year={2025},
+url={https://openreview.net/forum?id=xxjphZh8HB}
 }
